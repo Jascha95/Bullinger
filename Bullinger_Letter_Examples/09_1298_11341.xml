@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11341" id_hbbw="1298" id_irg_sort="1298" id_sort="112980">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11341</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1298</arpa>
+		<scan_pages>
+			<scan id="26365" dir="11341/Autograph/" page="1">00 E_II_340__fol__326_r_.tif</scan>
+			<scan id="26366" dir="11341/Autograph/" page="2">01 E_II_340__fol__326_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23020" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="330" vf="1" fk_id="330" long="6.498317" lat="46.5093268">Morges</place>
+				<district id="195">Waadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23021" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11341">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">8</month>
+				<day fk_d="" d="" vf="1" fn="">16</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17812">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 340,326</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11183" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1298, S. 199</entry>
+				<page>199</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="23">
+				<lang id="5" iso="la" count="23" p="100.0"/>
+			</sentences>
+			<words count="316">
+				<lang id="6" iso="el" count="1" p="0.3"/>
+				<lang id="5" iso="la" count="315" p="99.7"/>
+			</words>
+			<chars count="1849">
+				<lang id="6" iso="el" count="6" p="0.3"/>
+				<lang id="5" iso="la" count="1843" p="99.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1298" page="199">
+		<div ref="1">
+			Wartet ungeduldig auf einen Brief. Da <persName ref="1283">Konrad [Geßner]</persName> in [<placeName ref="1751">Leukerbad</placeName>] weilt
+			und <persName ref="8031">[Béat] Comte</persName> wegen seiner
+			Arzttätigkeit selten zu Hause ist, hat er auf Einladung von <persName ref="17856">Claude Chanisieu</persName> vorübergehend an dessen Konviktschule nach
+			<placeName ref="330">Morges</placeName> gewechselt, wo er unter anderem weiterhin Französisch
+			lernt. Braucht dringend drei Kronen, um das Nötige für den Winter kaufen zu können; was ihm [für die
+			<persName ref="6127">Pollux</persName>-Übersetzung] von <persName ref="8126">Oporin</persName>
+			zusteht, wird er nicht vor Weihnachten erhalten. Laut Gerüchten soll <persName ref="18538">Kaiser [Karl V.]</persName> Maria [Tudor], die
+			Tochter [<persName ref="18505">Heinrichs VIII.</persName>],
+			geheiratet haben und dem Evangelium zuneigen; in <entity id="11" type="geo_country">Frankreich</entity>
+			sammeln sich Truppen gegen den englischen König, der angeblich bereits
+			nach <entity id="11" type="geo_country">Frankreich</entity> eingefallen sein soll. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1298" page="199">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Non credis, quanta cum spe et expectatione, pater imprimis colende, literas tuas desiderem.</s>
+				<s n="3" lang="la" state="auto">His etenim acceptis et statum meum foeliciorem et animi mei securitatem liberiorem fore spero.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">Quod rerum mearum statum attinet, eum satis foelicem esse scias.</s>
+				<s n="5" lang="la" state="auto"><persName ref="8126">Conradus</persName><fl>1</fl> noster cum uxore<fl>2</fl> thermas Wallesianas adiit<fl>3</fl>, et <persName ref="8031">Comes</persName><fl>4</fl>, dominus meus, propter medicinae <el state="verified">πράξιν</el>, quam exercet, rarissime domi est, quare me ad tempus aliquod in <placeName ref="330">Morgias</placeName> duarum horarum itinere a <placeName ref="280">Lausanna</placeName> distantes contuli; precibus enim suis me compulit <persName ref="17856" state="auto_name">Claudius Chanisius</persName><fl>5</fl> Gallus, vir doctus admodum et ante mihi <placeName ref="28">Basileae</placeName> et <placeName ref="492">Argentinę</placeName> familiariter cognitus.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Scholam ibi habet vel collegium potius Capellano nostro monasterio non absimile<fl>6</fl>.</s>
+				<s n="7" lang="la" state="auto">Aluntur ibi aliquot studiosi iuvenes partim suo, partim <placeName ref="41">Bernensium</placeName> stipendio.</s>
+				<s n="8" lang="la" state="auto">Inter hos optime et ego tractor.</s>
+				<s n="9" lang="la" state="auto">Habeo studiorum consodales viros doctos et mihi imprimis benevolos.</s>
+				<s n="10" lang="la" state="auto">Gallicę linguę studium foeliciter succedit simul cum studiis aliis.<pb_edition start_of="200"/></s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Te autem vęhementer rogo, pater observande, ut, quam primum per nuntiorum copiam potes, coronatos ad me mittas tres, ut lignum et alia, quę in hyemem necessaria sunt, mihi coemere possim, nam ante nativitatis festum ab <persName ref="8126">Oporino</persName> nihil expecto; tum autem tantum, ut spero, recipiam, quod sumptibus interea factis sufficiat<fl>7</fl>.</s>
+				<s n="12" lang="la" state="auto">Hoc solum nunc abs te expeto, et nihil posthac toto anno me petiturum spondeo; nunc autem diutius carere non possum, quare, ut, si nuntii desint, id <placeName ref="41">Bernam</placeName> aut <placeName ref="28">Basileam</placeName> ad Othonem<fl>8</fl> mittas, ut inde ad me transmittantur, rogo.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Fama apud nos de belli tumultibus varia est.</s>
+				<s n="14" lang="la" state="auto">Imperatorem Mariam, Angli<fl>a</fl> filiam, duxisse ferunt<fl>9</fl> et eundem evangelio animum applicuisse, quod mihi vix verisimile videtur.</s>
+				<s n="15" lang="la" state="auto">In Gallia milites confluunt contra Anglorum regem, ut plerique suspicantur.</s>
+				<s n="16" lang="la" state="auto">Quidam Anglum cum exercitu in Galliam traiecisse narrant<fl>10</fl>.</s>
+				<s n="17" lang="la" state="auto">Nihil tamen certi narratur.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Salutabis nomine meo quam familiarissime uxorem<fl>11</fl> et matrem<fl>12</fl> tuam cum omni liberorum coetu<fl>13</fl>.</s>
+				<s n="19" lang="la" state="auto">Vale, pater charissime, et me semper tibi commendatum habeto.</s>
+			</p>
+			<p>
+				<s n="20" lang="la" state="auto">Morgiis, 17. calendas septembris 1539.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Tui observantissimus</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto"><persName ref="8011">Rod. Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="23" lang="la" state="auto">Eruditione et pietate clarissimo viro d. Heinrycho Bullingero, patri suo plurimum colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1298">
+		<alpha>
+			<fn ref="a"><i>vor</i> Angli <i>gestrichenes</i> caesaris.</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="1283">Konrad Geßner</persName>.</fn>
+			<fn ref="2">Barbara Singysen; s. Eugène <i>Olivier,</i> Les années Lausannoises (1537-40) de <persName ref="1283">Conrad Gesner</persName>, in: Schweizerische Zeitschrift für Geschichte 1, 1951, S. 374f.</fn>
+			<fn ref="3"><persName ref="1283">Geßners</persName> Kur in <placeName ref="1751">Leukerbad</placeName> (Kt. <placeName ref="791">Wallis</placeName>) dauerte drei Wochen; s. ebd., S. 386.</fn>
+			<fn ref="4"><persName ref="8031">Béat Comte</persName>.</fn>
+			<fn ref="5" type="bio" fk_person="17856"><persName ref="17856">Claude Chanisieu</persName> oder Chanisien (Canisianus), aus der Dauphiné, studierte ab 1535/36 in <placeName ref="28">Basel</placeName> (s. <placeName ref="28">Basel</placeName>, Matrikel II 8, Nr. 10) und wechselte 1538 nach <placeName ref="492">Straßburg</placeName>. Im April 1539 wurde er den Genfern von <placeName ref="41">Bern</placeName> als Lehrer empfohlen; er bewarb sich für die Nachfolge von <persName ref="6376">Saunier</persName> an der Schule im Rivekloster, wurde jedoch stattdessen Schulmeister in <placeName ref="330">Morges</placeName>. - Lit.: Corr. des réformateurs V, 2851. 292. 453; Amerbach, Korr. V 87f.</fn>
+			<fn ref="6"><persName ref="8011">Gwalther</persName> selbst war 1528 einer der ersten Stipendiaten an der von Bullinger geleiteten Klosterschule in <placeName ref="242">Kappel</placeName> gewesen; s. <bibl>HBRG</bibl> I 94; Hans Ulrich <i>Bächtold,</i> Heinrich Bullinger vor dem Rat. Zur Gestaltung und Verwaltung des Zürcher Staatswesens in den Jahren 1531-1575, <placeName ref="41">Bern</placeName> 1982. - <bibl>ZBRG</bibl> XII, S. 195.</fn>
+			<fn ref="7"><persName ref="8011">Gwalther</persName> hatte eine Entschädigung für seine <persName ref="6127">Pollux</persName>-Übersetzung in Aussicht (vgl. oben <link fk_file="11331">Nr. 1288</link>, Anm. 6); am 4. Mai 1540 berichtet er über eine Teilzahlung von 5 Kronen (s. Zürich StA, E II 335, 2029b r).</fn>
+			<fn ref="8"><persName ref="8459">Otto Werdmüller</persName>.</fn>
+			<fn ref="9" type="bio" fk_person="18534">Zu den Gerüchten über eine Ehe <i>zwischen</i> dem kürzlich verwitweten <persName ref="18538">Kaiser Karl V.</persName> und Maria Tudor, der Tochter <persName ref="18505">Heinrichs VIII.</persName>, vgl. auch <i>Prüser,</i> England 189.</fn>
+			<fn ref="10">Vgl. zu diesen Gerüchten auch unten <link fk_file="11351">Nr. 1308</link>, 47f.</fn>
+			<fn ref="11" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="12" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+			<fn ref="13">Vgl. oben <link fk_file="11260">Nr. 1217</link>, Anm. 46, und <link fk_file="11320">Nr. 1277</link>, Anm. 17.</fn>
+		</num>
+	</footnotes>
+</file>

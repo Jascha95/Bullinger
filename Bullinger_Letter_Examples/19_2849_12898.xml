@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12898" id_hbbw="2849" id_irg_sort="2849" id_sort="128490">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12898</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2849</arpa>
+		<scan_pages>
+			<scan id="30202" dir="12898/Autograph/" page="1">00 E_II_357__S__552_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26340" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26341" vf="0" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12898">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">18</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19470">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357a,552</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9149" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Blarer BW II, S. 610f, Nr. 1425</entry>
+			</print>
+			<print id="12414" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2849, S. 424</entry>
+				<page>424</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="20">
+				<lang id="1" iso="de" count="20" p="100.0"/>
+			</sentences>
+			<words count="323">
+				<lang id="1" iso="de" count="323" p="100.0"/>
+			</words>
+			<chars count="1724">
+				<lang id="1" iso="de" count="1724" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2849" page="423">
+		<div ref="1">
+			[1] <persName ref="8055">Blarer</persName> wollte schon gestern den beiliegenden Brief [<link fk_file="12896">Nr. 2847</link>] übersenden,
+			verpasste aber den Boten [...].
+		</div>
+		<div ref="2">
+			[2] Gestern Abend erhielt er einen Brief des Stadtschreibers [<persName ref="2261">Georg Maurer</persName>] von
+			<placeName ref="320">Memmingen</placeName>, in dem berichtet wird, dass der Abt von Weingarten,
+			<persName ref="4332">Gerwig Blarer</persName>, auf dem Weg nach
+			<placeName ref="907">Kempten</placeName>, <placeName ref="234">Isny</placeName> und
+			<placeName ref="409">Ravensburg</placeName> sei. Am Montag [14. März] war dieser in
+			<placeName ref="320">Memmingen</placeName> und ließ die ganze Gemeinde sich in der Kirche
+			versammeln. Zusammen mit dem Stadtschreiber bestieg er die Kanzel. Nachdem er einige einleitende Worte
+			gesagt hatte, musste <pb_edition start_of="424"/><persName ref="2261">Maurer</persName> das kaiserliche Mandat verlesen. Daraufhin legten
+			alle den Eid ab, wofür sie vom Abt gelobt wurden. Dieser forderte danach vom Rat im Namen des Kaisers <persName ref="18538">Karl V.</persName> 80000 Gulden, Geschütz und Pulver, was für große Bestürzung sorgte, da man nicht weiß, wie man diesen
+			Betrag aufbringen soll, selbst wenn man alle [zum Besitz der Stadt gehörigen] Dörfer verkaufen würde.
+		</div>
+		<div ref="3">
+			[3] Auf Befehl des Kaisers reitet der <placeName ref="1976">Augsburger</placeName> Bischof <persName ref="7840">Otto Truchsess von Waldburg</persName> in Begleitung von 50
+			Reitern nach <placeName ref="425">Rom</placeName>, mit dem Auftrag, neue italienische Truppen
+			auszuheben. Da soll man noch glauben, dass Kaiser und <persName ref="19981">Papst Paul III.</persName> uneinig sind!
+		</div>
+		<div ref="4">
+			[4] Die Nachricht über Markgraf <persName ref="18422">Albrecht Alcibiades von Brandenburg</persName> ist nun verbürgt. Auch Landgraf
+			<persName ref="17853">[Christoph] von Leuchtenberg</persName>, [Graf <persName ref="17945">Georg] von Helfenstein</persName> und andere wurden vom Kurfürsten <persName ref="19065">Johann Friedrich von Sachsen</persName> gefangen und nach
+			<entity id="8" type="geo_country">Dänemark</entity> verschleppt. Dorthin soll der Kurfürst auch seine Frau
+			<persName ref="19078">[Sibylle von Jülich-Kleve-Berg]</persName> und die Kinder in Sicherheit gebracht haben, damit diese gegebenenfalls
+			unabhängig von seinem Schicksal zu einem guten Frieden gelangen mögen.
+		</div>
+		<div ref="5">
+			[5] Aus <entity id="9" type="geo_country">England</entity> wird als sicher gemeldet, dass der junge
+			<persName ref="3207">Eduard VI.</persName> zum König gekrönt und ihm von seinem verstorbenen Vater <persName ref="18505">Heinrich VIII.</persName> ein sechzehnköpfiges
+			Beratergremium bestimmt wurde. Man musste <persName ref="3207">Eduard</persName> den Eid leisten und dabei schwören, sich nie wieder dem
+			Papsttum zu unterwerfen. <persName ref="19981">Papst Paul III.</persName> soll Kardinal <persName ref="6122">Reginald Pole</persName> mit einem großen Heer nach
+			<entity id="9" type="geo_country">England</entity> geschickt haben, um dort etwas [gegen den jungen König]
+			zu unternehmen. Daraus wird aber nichts, da <entity id="9" type="geo_country">England</entity>,
+			<entity id="11" type="geo_country">Frankreich</entity>, <entity id="8" type="geo_country">Dänemark</entity>
+			und die <entity id="20136" type="group">Hansestädte</entity> in <placeName ref="204">Hamburg</placeName> ein Bündnis mit
+			<placeName ref="749">Sachsen</placeName> geschlossen haben.
+		</div>
+		<div ref="6">
+			[6] <persName ref="8055">Blarer</persName> muss abbrechen, da er erst kurz zuvor vom gegenwärtigen Boten [...] erfuhr.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2849" page="424">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">L[ieber] h[err] und br[uͦder].</s>
+				<s n="2" lang="de" state="auto">Uff gestert hab ich euch diß brieff<fl>3</fl> zuͦschicken wellen und mich aber des botten<fl>4</fl> versumpt.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">Ist mir necht<fl>5</fl> ain schriben von Memingen kommen, vom stattschriber<fl>6</fl>, das der abbt von Wyngarten<fl>7</fl> yetz uff <placeName ref="907">Kempten</placeName>, Ysne und <placeName ref="409">Ravenspurg</placeName> verreyte.</s>
+				<s n="4" lang="de" state="auto">Seye uff yetz mentag<fl>8</fl> zuͦ Memingen gewesen.</s>
+				<s n="5" lang="de" state="auto">Hat man im die gantzen gmaindmanschafft in die kirchen versamlen muͤssen.</s>
+				<s n="6" lang="de" state="auto">Und ist im der stattschreyber auff der cantzel an der syten gestanden.</s>
+				<s n="7" lang="de" state="auto">Hat der abbt ain ingang<fl>9</fl> gemacht.</s>
+				<s n="8" lang="de" state="auto">Darnach der stattschriber das kaiserlich mandat verlesen und demnach<fl>10</fl> von<fl>a</fl> yederman der aid geben worden.</s>
+				<s n="9" lang="de" state="auto">Das hat der ellend abbt hoch gelopt, etc.</s>
+				<s n="10" lang="de" state="auto">Darnach by dem rath hat er von kai[serlicher] m[ajesta]t<fl>11</fl> wegen achtzigtusend guldin<fl>12</fl>, ouch ettlich gschütz und pulver gefordert,<pb_edition start_of="425"/> das<fl>13</fl> die guͦten leut in grosser angst und not sind.</s>
+				<s n="11" lang="de" state="auto">Wissend eben das gelt nitt uffzepringen, wann sy glich<fl>14</fl> all ir dorffer verkoffend.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="12" lang="de" state="auto">Der bischoff von <placeName ref="1976">Augspurg</placeName><fl>15</fl> reyt mitt 50 pferdten gen <placeName ref="425">Rom</placeName> vom kaiser abgefertiget, frisch volck und <entity id="16" type="geo_country">Italianer</entity> ze machen.</s>
+				<s n="13" lang="de" state="auto">Dabey man sicht, wie unainig kaiser und papst<fl>16</fl> sein.<fl>17</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="14" lang="de" state="auto">Ouch ist gewisse kuntschafft yetz, das nun allso<fl>18</fl> ist mitt margrauff <persName ref="18422">Albrechten</persName><fl>19</fl>, auch landtgraffen von <persName ref="17853" state="auto_name">Luchtenberg</persName><fl>20</fl>, <persName ref="17945" state="auto_name">Helffenstain</persName><fl>21</fl> und andern, das sy der churfurst<fl>22</fl> uberfallen, sy geschlagen, die herren gefangen und all inn Dennmarck geschickt,<fl>23</fl> ouch seine aigne wyb<fl>24</fl> und kind<fl>25</fl> (es gang im, wie es well, das sine kind zuͦ guͦtem friden kommen moͤgind).<fl>b</fl></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="15" lang="de" state="auto">So ist gwisse zeytung ausß <entity id="9" type="geo_country">Engeland</entity>, das der jung konig<fl>26</fl> krönt und im ain regiment von 16 herren durch den abgestorbnen vatter<fl>27</fl> zuͦgeordnet ist.</s>
+				<s n="16" lang="de" state="auto">Hat man im geschworen, und menglich<fl>28</fl> under anderm schweren muͤssen, dem papst nymmermehr anhengig ze sein.<fl>29</fl></s>
+				<s n="17" lang="de" state="auto">Es hat aber der papst den cardinal Bolum<fl>30</fl> mitt vyl volck uff <entity id="9" type="geo_country">Engeland</entity> abgefertiget.</s>
+				<s n="18" lang="de" state="auto">Understeht sich<fl>31</fl>, etwas uszerichten.</s>
+				<s n="19" lang="de" state="auto">Wirt aber faͤlen<fl>32</fl>, dann <entity id="9" type="geo_country">Engeland</entity>, Franckrich<fl>33</fl>, die See-<pb_edition start_of="426"/>stett<fl>34</fl>, item <placeName ref="749">Sachsen</placeName> und Dennmarck<fl>35</fl> habend yetz zuͦ <placeName ref="204">Hamburg</placeName> ain treffelichen tag gehalten und sich mitt ainander verainbart.<fl>36</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="20" lang="de" state="auto">Ich kan nitt mehr, dann ich von disem botten<fl>37</fl> nichts gewusst und diß in hochster yl geschriben.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite verklebt]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2849">
+		<alpha>
+			<fn ref="a"><i>Fehlt in der Vorlage.</i></fn>
+			<fn ref="b"><i>Klammern ergänzt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Aus dem Inhalt des Briefes geht hervor, dass der Brief an Bullinger gerichtet ist.</fn>
+			<fn ref="2" meta="1">Vergleicht man die unten in Z. 3-13 und 17-21 übermittelten Angaben mit denen in Nr. 2820,34-38, und Nr. 2841,91-101 (in Bezug auf <persName ref="4332">Gerwig Blarer</persName>), sowie in Nr. 2822,19-21; <link fk_file="12881">Nr. 2832</link>, Anm. 35; <link fk_file="12890">Nr. 2841</link>,118-124; <link fk_file="12891">Nr. 2842</link>,65-67; <link fk_file="12893">Nr. 2844</link>,51-53; und Nr. 2845,15f (in Bezug auf <persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach), wird deutlich, dass vorliegender Brief im März 1547, und zwar erst nach dem 15. dieses Monats verfasst wurde. Wegen der Angabe in unten z. 1f, laut der <persName ref="8055">Blarer</persName> am Vortag einen Brief geschrieben hatte, und angesichts der Daten der von <persName ref="8055">Blarer</persName> während der zeitspanne vom 15. bis 31. März verfassten Briefe, kann vorliegender Brief nur vom 18., 22., 27. oder 29. März datieren. Da Bullinger aber in seinem am 19. März verfassten und an <persName ref="1278">Johannes Gast</persName> gerichteten Brief <link fk_file="12899">Nr. 2850</link> Nachrichten übermittelt (s. dort die Z. 6-11), die sich zum Teil mit denen in unten Z. 17-21. 25f überschneiden und er dabei sagt, dass diese Angaben ihm von <placeName ref="457">Konstanz</placeName> übersandt worden seien (s. dort Z. 10f), ist wohl noch um die Abfassungszeit des vorliegenden Briefes ein zusätzlicher, nicht mehr erhaltener Brief des <placeName ref="457">Konstanzer</placeName> Rats an den Zürcher Rat vorauszusetzen und das vorliegende Schreiben auf den 18. März anzusetzen. Dass es einen Brief <persName ref="8055">Blarers</persName> an Bullinger von diesem Tag gab, ist zudem durch <link fk_file="12902">Nr. 2853</link>,1, bestätigt.</fn>
+			<fn ref="3">Nr. 2847 vom 17. März.</fn>
+			<fn ref="4">Unbekannt.</fn>
+			<fn ref="5">gestern Abend.</fn>
+			<fn ref="6"><persName ref="2261">Georg Maurer</persName>. - Ein solches Schreiben findet sich nicht in <i><persName ref="8055">Blarer</persName> BW.</i> Zum Folgenden s. <i><persName ref="4332">Gerwig Blarer</persName> BA</i> II 27f, <link fk_file="10940">Nr. 898</link>; Peer <i>Frieß,</i> Die Außenpolitik der Reichsstadt <placeName ref="320">Memmingen</placeName> in der Reformationszeit (1517-1555), <placeName ref="320">Memmingen</placeName> 1993, S. 205.</fn>
+			<fn ref="7"><persName ref="4332">Gerwig Blarer</persName>.</fn>
+			<fn ref="8">14. März.</fn>
+			<fn ref="9">Einleitung.</fn>
+			<fn ref="10">danach.</fn>
+			<fn ref="11"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="12">Dieselbe Zahl findet sich auch in Johann Georg Saladins Straßburger Chronik <i>(MGEGDE2</i> XXIII 352).</fn>
+			<fn ref="13">sodass.</fn>
+			<fn ref="14">wann sy glich: auch wenn sie.</fn>
+			<fn ref="15"><persName ref="7840">Otto Truchsess von Waldburg</persName>. - Ein falsches Gerücht; vgl. auch <link fk_file="12899">Nr. 2850</link>,13-15.</fn>
+			<fn ref="16"><persName ref="19981">Paul III.</persName></fn>
+			<fn ref="17">Ironisch, angesichts des in <link fk_file="12846">Nr. 2797</link>,49f; <link fk_file="12861">Nr. 2812</link>,14-20; <link fk_file="12868">Nr. 2819</link>,26-59; <link fk_file="12882">Nr. 2833</link>,23f; und <link fk_file="12890">Nr. 2841</link>,125-132, kolportierten Gerüchts, demzufolge Kaiser und Papst damals uneinig gewesen wären, was allerdings längst nicht alle glaubten; s. z.B. <link fk_file="12884">Nr. 2835</link>.31-36.</fn>
+			<fn ref="18">so.</fn>
+			<fn ref="19"><persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach. Angesprochen wird hier dessen Niederlage bei <placeName ref="2396">Rochlitz</placeName>; s. <link fk_file="12881">Nr. 2832</link>, Anm. 35.</fn>
+			<fn ref="20" type="bio" fk_person="17853"><persName ref="17853">Christoph von Leuchtenberg</persName>, geb. nach 1502, gest. 14. März 1554; laut dem in Nr. 2850, Anm. 7, erwähnten Bericht ein Schwager des Markgrafen. Er diente im kaiserlichen Heer und kämpfte im Schmalkaldischen Krieg im Regiment des Markgrafen; s. <i><persName ref="5743">Mameranus</persName>, Exerc.</i> 11f; Georg <i>Brunner,</i> Geschichte von Leuchtenberg und der ehemaligen Landgrafen von Leuchtenberg, Weiden 1862, S. 13. 361. 451. Zu seiner Gefangennahme s. <bibl>PA</bibl> III 306, Nr. <i>2659; Voigt, Albrecht</i> I 149f.</fn>
+			<fn ref="21" type="bio" fk_person="17945">Graf <persName ref="17945">Georg II. von Helfenstein-Wiesensteig</persName>, Freiherr von und zu Gundelfingen, geb. 7. November 1518. gest. 17. November 1573, Kriegs- und Staatsmann in habsburgischem Dienst. Im Schmalkaldischen Krieg war er Oberstleutnant unter <persName ref="7760">Bernhard von Schaumburg (Schauenburg)</persName> und wurde nach dem Krieg Kammerrichter und einer der beiden Präsidenten des neu besetzten Reichskammergerichts; s. <bibl>ADB</bibl> XI 686f.</fn>
+			<fn ref="22"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="23">Ein falsches Gerücht; s. Nr. 2850, Anm. 11.</fn>
+			<fn ref="24"><persName ref="19078">Sibylle von Jülich-Kleve-Berg</persName>.</fn>
+			<fn ref="25" type="bio" fk_person="19065"><persName ref="19065">Johann Friedrich II. der Mittlere</persName>, geb. 8. Januar 1529, Johann Wilhelm I., geb. 11. März 1530, und <persName ref="18484">Johann Friedrich III. d.J.</persName>, geb. 16. Januar 1538.</fn>
+			<fn ref="26"><persName ref="3207">Eduard VI.</persName></fn>
+			<fn ref="27"><persName ref="18505">Heinrich VIII.</persName> -Vgl. <link fk_file="12875">Nr. 2826</link>,13-21.</fn>
+			<fn ref="28">jedermann.</fn>
+			<fn ref="29">Vgl. dazu John <i>Strype,</i> Ecclesiastical Memorials; Relating Chiefly to Religion, and its Reformation, under the Reigns of <persName ref="18505">King Henry VIII</persName>, <persName ref="3207">King Edward</persName> VI and Queen Mary the First, Bd. 2, Oxford 1816, S. 23.</fn>
+			<fn ref="30"><persName ref="6122">Reginald Pole</persName>. - Ein falsches Gerücht (vgl. auch <link fk_file="12899">Nr. 2850</link>,20f). Der Papst hegte aber einen solchen Plan; s. Lettres et mémoires d'Etat des roys, princes et ambassadeurs et autres ministres sous les règnes de François F, Henri II et François II, hg. von Guillaume Ribier, Bd. 1, Paris 1666, S. 623.</fn>
+			<fn ref="31">Understeht sich: (Er [Der Papst]) versucht.</fn>
+			<fn ref="32">fehlschlagen.</fn>
+			<fn ref="33">Franz I.</fn>
+			<fn ref="34"><entity id="20136" type="group">Hansestädte</entity>.</fn>
+			<fn ref="35"><persName ref="18449">Christian III.</persName></fn>
+			<fn ref="36">Ein falsches Gerücht, auch wenn Ende Januar 1547 die Bereitschaft zu einem solchen Bündnis belegt ist; s. <bibl>Pariset, Relations</bibl> 70. 80, Anm. 103. - Vgl. auch <link fk_file="12899">Nr. 2850</link>,22f.</fn>
+			<fn ref="37">Unbekannt.</fn>
+		</num>
+	</footnotes>
+</file>

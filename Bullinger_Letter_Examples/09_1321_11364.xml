@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11364" id_hbbw="1321" id_irg_sort="1321" id_sort="113210">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11364</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1321</arpa>
+		<scan_pages>
+			<scan id="26412" dir="11364/Autograph/" page="1">00 E_II_342__fol__96_r_.tif</scan>
+			<scan id="26413" dir="11364/Autograph/" page="2">01 E_II_342__fol__96_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23070" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23071" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11364">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">10</month>
+				<day fk_d="" d="" vf="1" fn="">25</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17835">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,96</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11159" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1321, S. 239</entry>
+				<page>239</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="31">
+				<lang id="1" iso="de" count="1" p="3.2"/>
+				<lang id="5" iso="la" count="30" p="96.8"/>
+			</sentences>
+			<words count="325">
+				<lang id="1" iso="de" count="21" p="6.5"/>
+				<lang id="5" iso="la" count="304" p="93.5"/>
+			</words>
+			<chars count="1892">
+				<lang id="1" iso="de" count="83" p="4.4"/>
+				<lang id="5" iso="la" count="1809" p="95.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1321" page="239">
+		<div ref="1">
+			Entschuldigt sich, daß er seine beiden Briefe [<link fk_file="11353">Nr. 1310</link> und
+			<link fk_file="11356">Nr. 1313</link>] erst jetzt beantwortet, und ermutigt ihn, trotz Anfeindungen
+			auszuharren. [<persName ref="7637">König Franz I.</persName>]
+			von Frankreich verfolgt Christus, und [Heinrich
+			VIII.] von England verschmäht die [evangelische] Erkenntnis. Bei der
+			Einnahme von <placeName ref="1723">Castelnuovo</placeName> durch
+			[<persName ref="19042">Cheireddin] Barbarossa</persName> und bei
+			einem türkischen Vorstoß auf <persName ref="19954">Valeria</persName> haben die Christen große
+			Verluste erlitten, während die Fürsten gleichzeitig ein sorgloses Leben führen und damit befaßt sind, in
+			<entity id="7" type="geo_country">Deutschland</entity> den Antichristen wieder einzusetzen; der Teufel soll
+			sie samt ihrem Papst holen. Entgegen einem Gerücht, das <persName ref="1227">Froschauer</persName> [in
+			<placeName ref="28">Basel</placeName>] zu Ohren gekommen ist, sind Bullinger und
+			<persName ref="8412">Megander</persName> ein Herz und eine Seele.
+			<persName ref="4830">Adam Frey</persName> weilt im Gasthaus „Rothus“; der Rat wird in der
+			Angelegenheit, die ihn und seine Frau <persName ref="5976">[Agathe Studler]</persName> betrifft, entscheiden.
+			<persName ref="8418">Myconius</persName> soll den Brief an
+			<persName ref="8071">[Hans] Vogler</persName> dem Schaffner des
+			Steinenklosters, <persName ref="4684">[Felix] Eiermann</persName>, übergeben. Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1321" page="239">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Peccavi, charissime mi <persName ref="8418">Myconi</persName>, qui tanto tempore non scripserim ad te quicquam.</s>
+				<s n="3" lang="la" state="auto">Recepi interim a te binas<fl>1</fl> mihi longe gratissimas.</s>
+				<s n="4" lang="la" state="auto">Sunt enim chara, mihi crede, quae a te proficiscuntur.</s>
+				<s n="5" lang="la" state="auto">Hoc itaque acerbius doleo, cum audio tibi tuisque irrogari, quae nolles.</s>
+				<s n="6" lang="la" state="auto">Doleo sane et plus quam doleo tantum vobis immissum satanam.</s>
+				<s n="7" lang="la" state="auto">Dominus subiiciat illum sub pedes vestros brevi<fl>2</fl>.</s>
+				<s n="8" lang="la" state="auto">Interim ego contra illum credo pugnandum esse constantia et precibus ad deum ardentibus.</s>
+				<s n="9" lang="la" state="auto">Non deerit vobis dominus, mihi crede, qui semper restitit superbis, humilibus vero gratiam dedit<fl>3</fl>.</s>
+				<s n="10" lang="la" state="auto">Age ergo, forti sis animo.</s>
+				<s n="11" lang="la" state="auto">Quo enim insolentius stulti exultant et gloriantur de victoria ac sequros[!] se esse arbitrantur, hoc propius perveniunt ad metham, in quam impingant.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Nunquam ego suaserim <placeName ref="28">Basileam</placeName> esse deserendam<fl>4</fl> propter lupos quosdam<fl>5</fl>; imo censeo plane indicandum nolle vos ullis cedere, ne quid spei concipiant et insaniant amplius.<pb_edition start_of="240"/></s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Reges hoc faciunt, quod semper soliti sunt.</s>
+				<s n="14" lang="la" state="auto">Gallus<fl>6</fl> Christum persequitur<fl>7</fl>.</s>
+				<s n="15" lang="la" state="auto">Anglus<fl>8</fl> cognitum repudiat<fl>9</fl>.</s>
+				<s n="16" lang="la" state="auto">Utrunque brevi repudiabit dominus.</s>
+				<s n="17" lang="la" state="auto"><persName ref="19042">Barbarossa</persName> occupavit et recepit Castellum Novum<fl>10</fl>, portum prope Rhagusium<fl>11</fl> in littore Dalmatico, caesis <entity id="29" type="geo_country">Hispanis</entity> militibus 6000 et aliquot millibus <entity id="16" type="geo_country">Italorum</entity> etc.</s>
+				<s n="18" lang="la" state="auto">Praeterea duces Turcici incursionem fecere in <persName ref="19954">Valeriam</persName> non procul a Betonione<fl>12</fl> et abduxere aliquot millia christianorum, caesis et proculcatis plurimis.</s>
+				<s n="19" lang="la" state="auto">Ita quidem licet illi bestiae libidinari in sanguine christiano, dum interim nostri principes ludunt, libidinantur, ducunt choreas et consultant, quomodo ex Germania pellant Christum, reponant antichristum, <de state="verified">das man imm zfollen<fl>13</fl> ans lüffy<fl>14</fl> schmöck und nitt nun<fl>15</fl> die fuͤß küsse.</de></s>
+				<s n="20" lang="de" state="auto">Das sy der tüfel hol mitt iro bapst!</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto"><persName ref="1227">Froschouerus</persName> monuit nescio quam apud vos famam esse sparsam de dissidio inter <persName ref="8412">Megandrum</persName> et me.</s>
+				<s n="22" lang="la" state="auto">Id scias prorsus vanum esse.</s>
+				<s n="23" lang="la" state="auto">Probe omnes consentimus, unum animum et os unum, cor unum et charitatem unam (deo gratia) habemus.</s>
+			</p>
+			<p>
+				<s n="24" lang="la" state="auto">Phrygio<fl>16</fl> agit in hospitio, cui intersigne<fl>17</fl> rubea domus<fl>18</fl>.</s>
+				<s n="25" lang="la" state="auto">Senatus discernet causam eius et uxoris<fl>19</fl>.</s>
+				<s n="26" lang="la" state="auto">De qua alias.</s>
+			</p>
+			<p>
+				<s n="27" lang="la" state="auto">Litteras <persName ref="8071">Voglero</persName> scriptas<fl>20</fl> dabis oeconomo an Steynen, dem <persName ref="4684" state="auto_name">Eyerman</persName><fl>21</fl>.<pb_edition start_of="241"/></s>
+				<s n="28" lang="la" state="auto">Dominum Grynaeum ex me salutabis diligentissime.</s>
+				<s n="29" lang="la" state="auto">25. octobris 1539.</s>
+			</p>
+			<p>
+				<s n="30" lang="la" state="auto">H. Bullingerus tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="31" lang="la" state="auto">Domino <persName ref="8418">Osvaldo Myconio</persName>, charissimo fratri suo<fl>a</fl>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1321">
+		<alpha>
+			<fn ref="a"><i>Darunter von Grynäus' Hand:</i> De Cathechismo oro, ut expedias rem cras.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Oben <link fk_file="11353">Nr. 1310</link> und 1313.</fn>
+			<fn ref="2">Vgl. Röm 16, 20.</fn>
+			<fn ref="3">Vgl. Jak 4, 6; 1Petr 5, 5.</fn>
+			<fn ref="4">Vgl. oben <link fk_file="11356">Nr. 1313</link>, 24f.</fn>
+			<fn ref="5">Vgl. Joh 10, 11-13.</fn>
+			<fn ref="6">Franz!.</fn>
+			<fn ref="7">Vgl. oben <link fk_file="11351">Nr. 1308</link>, 85-91 mit Anm. 40.</fn>
+			<fn ref="8"><persName ref="18505">Heinrich VIII.</persName></fn>
+			<fn ref="9">Vgl. ebd., Z. 29-42 mit Anm. 12.</fn>
+			<fn ref="10">Zur Erstürmung der Festung <placeName ref="1723">Castelnuovo (Hercegnovi, Montenegro)</placeName> durch <persName ref="19042">Cheireddin Barbarossa</persName> am 10. August 1539 vgl. oben <link fk_file="11357">Nr. 1314</link>, 14-35.</fn>
+			<fn ref="11"><placeName ref="1760">Ragusa (Dubrovnik, Kroatien)</placeName>.</fn>
+			<fn ref="12">Die Ortsnamen <placeName ref="1761">Falera</placeName> und <placeName ref="1762">Betonia</placeName> finden sich auf Karten des 17. Jahrhunderts ungefähr nördlich bzw. nordwestlich von <placeName ref="1763">Malvasia (Monernvasia, Peloponnes)</placeName>; s. etwa Joan <i>Blaeu,</i> Le grand atlas, ou cosmographie Blaviane, Amsterdam 1663 (Nachdruck: Amsterdam 1967), Bd. 2, S. 81/82.</fn>
+			<fn ref="13">vollends.</fn>
+			<fn ref="14">Loch (hier für: Anus); s. Matthias Lexer, Mittelhochdeutsches Handwörterbuch, Bd. I, Leipzig 1872 (Nachdruck: Stuttgart 1979), Sp. 1977.</fn>
+			<fn ref="15">nur.</fn>
+			<fn ref="16"><persName ref="4830">Adam Frey</persName>.</fn>
+			<fn ref="17">Hauszeichen; s. René Hoven, Lexique de la prose latine de la renaissance, Leiden 1994, S. 191.</fn>
+			<fn ref="18">"Rothus"; s. <i>Vögelin,</i> Das alte Zürich I 401f.</fn>
+			<fn ref="19" type="bio" fk_person="5976">Am 19. November 1539 wurde vor dem Rat ein Vertrag geschlossen, der eine einjährige Trennung der Eheleute sowie Unterhaltszahlungen von <persName ref="5976">Agathe Studler</persName> an ihren Mann vorsah; s. Zürich StA, B V 6, 57r.-58r. (vgl. auch 89r.-90v.).</fn>
+			<fn ref="20">Nicht erhalten.</fn>
+			<fn ref="21" type="bio" fk_person="4684"><persName ref="4684">Felix Eiermann (Eygerman)</persName>, geb. vor 1504 (s. <bibl>Glückshafenrodel</bibl> I 7, 48; 367, 37), war ein Sohn des Zürcher Kaplans <persName ref="4685">Johann Eiermann</persName> (s. Zürich StA, B VI 332, 452; zum Vater vgl. <i>Meyer,</i> Zürich und Rom 359, <link fk_file="10589">Nr. 553</link>). 1529 wurde er in <placeName ref="28">Basel</placeName> eingebürgert (s. <placeName ref="28">Basel</placeName> StA, Protokolle, Öffnungsbücher VII, 244v.). Als Schaffner des Basler Steinenklosters amtete er 1525-1530 und nochmals ab 1538 bis mindestens 1545 (s. Emil A. <i>Erdin,</i> Das Kloster der Reuerinnen Sancta Maria Magdalena an den Steinen zu <placeName ref="28">Basel</placeName>, Diss. phil., Freiburg/Schweiz 1956, S. 161; <bibl>ABaslerRef</bibl> II 486; III 596a, S.509; IV 528; V 535b; <placeName ref="28">Basel</placeName> StA, Klöster insgemein, St. Maria Magdalena, MM 1). 1551 wird er in einer Missive <placeName ref="28">Basels</placeName> an Zürich als Hodler (Getreidehändler) erwähnt (s. <placeName ref="28">Basel</placeName> StA, Missiven A 33, 49f).</fn>
+		</num>
+	</footnotes>
+</file>

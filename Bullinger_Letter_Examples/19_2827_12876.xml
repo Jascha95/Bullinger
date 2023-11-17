@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12876" id_hbbw="2827" id_irg_sort="2827" id_sort="128270">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12876</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2827</arpa>
+		<scan_pages>
+			<scan id="30154" dir="12876/Autograph/" page="1">00 E_II_342__fol__165_r_.tif</scan>
+			<scan id="30155" dir="12876/Autograph/" page="2">01 E_II_342__fol__165_v_.tif</scan>
+			<scan id="30156" dir="12876/Autograph/" page="3">02 E_II_342__fol__166_r_.tif</scan>
+			<scan id="30157" dir="12876/Autograph/" page="4">03 E_II_342__fol__166_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26296" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26297" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12876">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">26</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19446">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,165 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9119" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 941f, Nr. 1057</entry>
+			</print>
+			<print id="12403" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2827, S. 367</entry>
+				<page>367</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="45">
+				<lang id="1" iso="de" count="1" p="2.2"/>
+				<lang id="5" iso="la" count="44" p="97.8"/>
+			</sentences>
+			<words count="611">
+				<lang id="1" iso="de" count="1" p="0.2"/>
+				<lang id="5" iso="la" count="610" p="99.8"/>
+			</words>
+			<chars count="3574">
+				<lang id="1" iso="de" count="6" p="0.2"/>
+				<lang id="5" iso="la" count="3568" p="99.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2827" page="366">
+		<div ref="1">
+			[1] <persName ref="8418">Myconius</persName>’ Brief vom 6. Februar [<link fk_file="12846">Nr. 2797</link>] ist gut angekommen. <persName ref="8418">Myconius</persName>
+			kann beruhigt sein, da es nicht stimmt, dass <placeName ref="2448">die Fünf Orte</placeName> die Auslieferung von <persName ref="8011">Rudolf Gwalther</persName> und
+			Bullinger fordern. Am 29. Januar wurden sie vor den Rat der Zweihundert zitiert. Dort las man ihnen die
+			Beschwerden vor, die <placeName ref="2448">die Fünf Orte</placeName> auf der letzten <placeName ref="21">Badener</placeName>
+			Tagsatzung [vom 10. Januar] vorgebracht haben, wonach <persName ref="8011">Gwalther</persName> mit der Publikation seines „Endtchrists“
+			gegen den Zweiten <placeName ref="242">Kappeler</placeName> Frieden und die Vorschriften für die
+			Buchdrucker verstoßen habe. <persName ref="8011">Gwalther</persName> legte ausführlich seine Gründe für die Publikation dar und stellte
+			deren Inhalt vor. Bullinger erklärte u.a., warum er als Verantwortlicher für die Zensur die Veröffentlichung
+			der Schrift erlaubt hat. Danach befahl ihnen der Rat, unbesorgt nach Hause zu gehen und das Evangelium
+			weiter wie bisher zu verkündigen; man werde die Angelegenheit mit den Eidgenossen in Freundschaft regeln. Es
+			wurde also keine Auslieferung verlangt, aber eine Bestrafung<pb_edition start_of="367"/> der Ruhestörer und
+			Verbreiter des Büchleins. Also keine Sorge! Der Herr wird der Wahrheit und ihren Verfechtern beistehen.
+		</div>
+		<div ref="2">
+			[2] <placeName ref="457">Konstanz</placeName> ist bisher (getreu seinem Namen) standhaft, obwohl
+			einige einflussreiche Personen die Stadt zur Übergabe drängen.
+		</div>
+		<div ref="3">
+			[3] Die Nachricht über einen angeblichen Sieg des Landgrafen <persName ref="18574">Philipp von Hessen</persName> stimmt nicht, denn man
+			erzählt vielmehr, dass er seine Truppen entlassen hat und den Befürwortern einer Aussöhnung mit <persName ref="18538">Kaiser Karl V.</persName> Gehör schenkt. Bullinger kann den letzten Teil dieser Nachricht nicht glauben! Sollte er dennoch stimmen,
+			dann hätte Philipp, der auch nur ein Mensch ist, enttäuscht. Nur dem Gott der Wahrheit kann man vertrauen.
+		</div>
+		<div ref="4">
+			[4] Es gilt als sicher, dass der türkische Sultan Suleiman gegen [die Christenheit] ziehen will. Gott
+			bewahre uns!
+		</div>
+		<div ref="5">
+			[5] Falls die Nachricht von <persName ref="8418">Myconius</persName>’ tödlicher Erkrankung stimmt und Gott ihn zu sich rufen sollte, so
+			wäre das zwar ein schmerzlicher Verlust für die Kirche, aber auch ein Glück für diesen, wie es das Beispiel
+			des [judäischen Königs] <persName ref="19560">Josia</persName> zeigt, der, weil er starb, nicht mehr länger mitansehen musste, wie die Juden
+			wegen ihrer Sünden leiden mussten. [Bullinger und <persName ref="8418">Myconius</persName>] haben deutlich auf den frevelhaften Zustand der
+			verdorbenen Gesellschaft hingewiesen, welche auf die Dauer nicht ungestraft bleiben wird. Bullinger weiß
+			schon, dass der treue <persName ref="8418">Myconius</persName> lieber der gefährdeten Kirche weiter beistehen würde. Wenn aber der gütige
+			Vater ihn zu sich ruft, dann muss er seiner Stimme folgen. Solange er noch lebt, soll er die Kirche dem
+			Herrn empfehlen und ihn bitten, dass er sie in seinem Zorn nicht vernichtet, sondern väterlich züchtigt und
+			vor dem Antichristen und dessen Täuschungen bewahrt. Die Zürcher werden ihrerseits Gott bitten, <persName ref="8418">Myconius</persName>’
+			Glauben zu stärken und ihm Geduld sowie den Sieg zu verleihen, damit er nach der Vernichtung dieser
+			verdorbenen Welt endlich das Antlitz des Herrn schauen darf (wonach sich bereits <persName ref="18877">David</persName> sehnte) und sich mit
+			allen Erlösten für immer freuen kann.
+		</div>
+		<div ref="6">
+			[6] Gruß, auch von den Kollegen! Der Herr führe <persName ref="8418">Myconius</persName> zum ewigen Leben!
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2827" page="367">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. D.</s>
+				<s n="2" lang="la" state="auto">Recepi tuas, charissime frater, 6. februarii datas.<fl>1</fl></s>
+				<s n="3" lang="la" state="auto">Rogas,<fl>2</fl> an vera tibi dixerint, qui retulere Quinquepagicos<fl>3</fl> <persName ref="8011">Gvaltherum</persName> et me postulare, ut nobiscum suo iure agant.</s>
+				<s n="4" lang="la" state="auto">Non retulerunt vera, mi frater.</s>
+				<s n="5" lang="la" state="auto">Ita vero habet res: 29. ianuarii vocati sumus, <persName ref="8011">Gvaltherus</persName> et ego, a senatu et diacosiis.<fl>4</fl></s>
+				<s n="6" lang="la" state="auto">Praelecta sunt nobis capita querelae Quinquepagicorum in proximis Badenis comitiis<fl>5</fl> proposita.</s>
+				<s n="7" lang="la" state="auto">Iussi sumus ad illa respondere.</s>
+				<s n="8" lang="la" state="auto">Querela erat <persName ref="8011">Gvaltherum</persName> contra pacis capita<fl>6</fl> scripsisse Antichristum libellum, et eundem aeditum contra receptas leges impressoribus praescriptas.<fl>7</fl></s>
+				<s n="9" lang="la" state="auto"><persName ref="8011">Gvaltherus</persName> multis pro se dixit, quid et qua de causa et quomodo illum librum scripserit.</s>
+				<s n="10" lang="la" state="auto">Ego multis ostendi, quare vulgari permiserim, qui praelo et revidendis libris sum praefectus.<fl>8</fl><pb_edition start_of="368"/></s>
+				<s n="11" lang="la" state="auto">Dixi et alia multa, quae videbantur ad rem praesentem, ad patrocinium veritatis et impressurae pertinere.</s>
+				<s n="12" lang="la" state="auto">Diacosii auditis omnibus concordes iusserunt nos domum redire et tranquillo esse animo, veritatem evangelicam porro ut hucusque anunciare; se negotium cum Helvetiis amice composituros.</s>
+				<s n="13" lang="la" state="auto">At nemo Helvetiorum vel <persName ref="8011">Gvaltherum</persName> vel me postulavit, sed postularunt mulctari pacis violatores et eos, qui huiusmodi libellum vulgarunt, etc.</s>
+				<s n="14" lang="la" state="auto">Spero rem bene habituram.</s>
+				<s n="15" lang="la" state="auto">Proinde iubeo te in domino securo esse animo.</s>
+				<s n="16" lang="la" state="auto">Nihil metuimus ab adversariis.</s>
+				<s n="17" lang="la" state="auto">Scimus dominum veritati et veritatis defensoribus non defuturum.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="18" lang="la" state="auto"><placeName ref="457">Constantia</placeName> adhuc suo nomini pulchre respondet et perstat fortiter, tametsi in horas a magnis viris solicitetur ad defectionem.<fl>9</fl></s>
+				<s n="19" lang="la" state="auto">Oremus, ut ipsam servet dominus.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="20" lang="la" state="auto">Vanum esse nihil dubito, quod de victoria Hessi<fl>10</fl> ad te delatum est.</s>
+				<s n="21" lang="la" state="auto">Audimus enim Hessum dimissis militibus suis omnibus aurem praebere illis, qui reconciliationem cum caesare<fl>11</fl> suadent.</s>
+				<s n="22" lang="la" state="auto">Ego tamen de optimo principe postremum illud credere non possum.</s>
+				<s n="23" lang="la" state="auto">Sed, si vera dicunt et fallit homo, non fallet tamen, cui unice credimus et innitimur, deus veritatis!<fl>12</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="24" lang="la" state="auto">Certum est Turcam<fl>13</fl> esse in procinctu Martis et venturum contra nos.</s>
+				<s n="25" lang="la" state="auto">Dominus servet nos.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="26" lang="la" state="auto"><pb_scan n="165v."/>Audio te, mi frater, graviter e laetali decumbere morbo.<fl>14</fl></s>
+				<s n="27" lang="la" state="auto">Quodsi verum est, quod audio, doleo te nobis ereptum iri.</s>
+				<s n="28" lang="la" state="auto">Doleo ecclesiam suo pastore spoliari.</s>
+				<s n="29" lang="la" state="auto">Rursus gratulor tibi tuam illam felicitatem maximam.</s>
+				<s n="30" lang="la" state="auto">Si enim evocarit te ex hoc seculo dominus, faciet tecum, quod olim cum dilecto suo rege <persName ref="19560">Josia</persName><fl>15</fl> fecit<fl>a</fl>, quem sustulit e medio, ne oculi eius enormia illa mala inspicere cogerentur, quae passuri erant <entity id="136" type="geo_region">Iudaei</entity> propter peccata, ingratitudinem et perfidiam maxime.</s>
+				<s n="31" lang="la" state="auto">Scimus omnes, quales sint mores nostri, qualia studia, imo singuli indicamus et clamamus conscelerationem<fl>16</fl> illam perditissimam omnium, et ordinum et statuum, non posse diutius inultam exultare.</s>
+				<s n="32" lang="la" state="auto">Veniet ergo iustissimus dominus et visitabit iniquitates nostras,<fl>17</fl> quando plerique poenitentiam praedicatam subsannant.</s>
+				<s n="33" lang="la" state="auto">Atque hic sat scio, desiderat fides et charitas tua periclitanti adesse ecclesiae et omnia experiri adversa atque dura.</s>
+				<s n="34" lang="la" state="auto">Verum si evocarit te dominus, sequendus est tibi vocans ille, omnium rerum dominus et benignissimus pater, imo laudandus, qui te innumeris liberat malis.</s>
+				<s n="35" lang="la" state="auto">Commendabis tamen nunc, dum vivis, ecclesiam, <pb_edition start_of="369"/> tuae fidei hactenus creditam, domino.<fl>b</fl></s>
+				<s n="36" lang="la" state="auto">Orabis, ut eius et omnium nostrum misertus nos non in furore suo perdat,<fl>18</fl> sed clementer ac paterne castiget<fl>19</fl> et in veritate et sancta eius voluntate conservet, ab antichristo<fl>20</fl> et omni eius deceptione protegat.</s>
+				<s n="37" lang="la" state="auto">Nos orabimus, ut te in fide vera confirmet, patientiam et victoriam conferat, ut exuta carne peccatrice, calcato hoc coenoso mundo et superatis omnibus malis videas eum, ad quem suspirans <persName ref="18877">David</persName> orat: „Notam mihi facies semitam vitae; satietas gaudiorum in conspectu tuo est et iucunditates in dextra tua in perpetuum.“<fl>21</fl></s>
+				<s n="38" lang="la" state="auto">Dominus Iesus, vita et resurrectio nostra,<fl>22</fl> qui in se suscepit peccata nostra<fl>23</fl> et abluit, imo abolevit, ideo mortuus est, et resurgendo vitam reduxit, servet te in aeternum regnum suum, ubi mox collecti aeternum mutuo in conspectu<pb_scan n="166r."/> dei nostri laetabimur et exultabimus cum omnibus sanctis!</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="39" lang="la" state="auto">Vale aeternum, mi colendissime domine et frater charissime!</s>
+				<s n="40" lang="la" state="auto">Dominus Iesus per meritum sanctae passionis suae perducat te in vitam aeternam!</s>
+				<s n="41" lang="la" state="auto">Tiguri, 26. februarii anno 1547.</s>
+				<s n="42" lang="la" state="auto">Salutant te fratres omnes.</s>
+				<s n="43" lang="la" state="auto">Bullingerus tuus.</s>
+				<note>[Auf den unbeschriebenen Teil dieser Seite wie auch über die Adresse auf der Versoseite dieses Blattes hat Myconius einen vom 28. Februar 1547 datierten und reichlich mit Nachrichten versehenen Brief abgeschrieben, was darauf hindeutet, dass dieser nicht an ihn, sondern an eine andere in Basel wohnende Person adressiert war. Aus dem Inhalt geht hervor, dass der Brief aus Straßburg stammte].<fl>24</fl></note>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="44" lang="la" state="auto">Clarissimo viro d. <persName ref="8418">Osvaldo Myconio</persName>, domino et fratri colendo suo.</s>
+				<s n="45" lang="de" state="auto"><placeName ref="28">Basel</placeName>.<fl>c</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2827">
+		<alpha>
+			<fn ref="a"><i>Am Rande nachgetragen.</i></fn>
+			<fn ref="b"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="c"><i>Darüber von Bullingers Hand:</i> BULLINGERI LITERAE ad Myconium Basilaea remissae. - <i>Es handelt sich dabei um eine Überschrift zu einem von Bullinger zusammengestellten Bündel von Briefen des <persName ref="8418">Myconius</persName>. Vgl. z.B. <bibl>HBBW XVI</bibl> 14, Anm. 27; 193, Anm. h; 301, Anm. j; 403, Anm. c; XVII 164, Anm. f; XVIII 392, Anm. q.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Brief <link fk_file="12846">Nr. 2797</link>.</fn>
+			<fn ref="2">Bezug auf <link fk_file="12846">Nr. 2797</link>,1-15.</fn>
+			<fn ref="3">Die Fünf (katholischen) Orte der Eidgenossenschaft.</fn>
+			<fn ref="4">Der Rat der Zweihundert. - Vgl. <link fk_file="12816">Nr. 2767</link>, Anm. 82.</fn>
+			<fn ref="5">Die letzte <placeName ref="21">Badener</placeName> Tagsatzung, die am 10. Januar begonnen hatte; s. <link fk_file="12786">Nr. 2737</link>, Anm. 3; <link fk_file="12806">Nr. 2757</link>, Anm. 11.</fn>
+			<fn ref="6">Gemeint ist der Zweite <placeName ref="242">Kappeler</placeName> Frieden.</fn>
+			<fn ref="7">Regelungen, die allerdings erst nach <persName ref="8011">Gwalthers</persName> Publikation im Verlauf der <placeName ref="21">Badener</placeName> Tagsatzung von Dezember 1546 erlassen worden waren und nach denen keine beleidigenden Schriften mehr veröffentlicht werden durften; s. <i>Bächtold, Rat</i> 94; <link fk_file="12877">Nr. 2828</link>, Anm. 1. Im August oder September 1546 hatte der Rat beschlossen, dass vor jeder Veröffentlichung unbedingt eine Bewilligung eingeholt werden musste; s. <i>Bächtold, Rat 93</i> und Anm. 35.</fn>
+			<fn ref="8">Diese Stelle belegt zum ersten Mal ausdrücklich, dass Bullinger schon vor 1546 mit der sonst bezeugten Bücherzensur in <placeName ref="587">Zürich</placeName> (s. z.B. <bibl>HBBW</bibl> XV 564) beauftragt und sogar der Hauptverantwortliche dafür war.</fn>
+			<fn ref="9">Zu solchen Vermittlungsbestrebungen zwischen <placeName ref="457">Konstanz</placeName> und dem Kaiser s. <link fk_file="12849">Nr. 2800</link>,4-9; <link fk_file="12865">Nr. 2816</link>,23-25.</fn>
+			<fn ref="10"><persName ref="18574">Philipp von Hessen</persName>. - In Bezug auf <link fk_file="12846">Nr. 2797</link>,42-46.</fn>
+			<fn ref="11"><persName ref="18538">Karl V.</persName> - Vgl. <link fk_file="12795">Nr. 2746</link>,31-35: <link fk_file="12802">Nr. 2753</link>,20f; <link fk_file="12834">Nr. 2785</link>,56f; <link fk_file="12835">Nr. 2786</link>,33f; <link fk_file="12861">Nr. 2812</link>,25; <link fk_file="12865">Nr. 2816</link>,50-54.</fn>
+			<fn ref="12">Vgl. z.B. Ps 118 (Vulg. 117), 8f.</fn>
+			<fn ref="13"><persName ref="18593">Sultan Suleiman I.</persName> - Siehe <link fk_file="12808">Nr. 2759</link>,90; <link fk_file="12831">Nr. 2782</link>,21f; <link fk_file="12846">Nr. 2797</link>,49; <link fk_file="12865">Nr. 2816</link>,8- 10.</fn>
+			<fn ref="14">Vgl. <link fk_file="12871">Nr. 2822</link>,1f.</fn>
+			<fn ref="15" type="bio" fk_person="19560"><persName ref="19560">Josia</persName>, Reformkönig von <entity id="136" type="geo_region">Judäa</entity>, der zwar im Krieg starb, jedoch noch vor der babylonischen Gefangenschaft; s. 2Kön 22, 1, bis 23, 30; 2Chr 35, 20-27.</fn>
+			<fn ref="16">frevelhaften Zustand.</fn>
+			<fn ref="17">Vgl. Ps 89 (Vulg. 88), 32f.</fn>
+			<fn ref="18">Vgl. Ps 6, 2; 38 (Vulg. 37), 2.</fn>
+			<fn ref="19">Vgl. Spr 3, 12.</fn>
+			<fn ref="20">Gemeint ist das Papsttum.</fn>
+			<fn ref="21">Ps 16 (Vulg. 15), 11, zitiert fast wörtlich nach der lateinischen Bibelausgabe, die in Zürich 1544 gedruckt wurde <i>(BZD</i> C 328).</fn>
+			<fn ref="22">Vgl. Joh 11, 25.</fn>
+			<fn ref="23">Vgl. 1Petr 2, 24.</fn>
+			<fn ref="24" type="bio" fk_person="6733">Im Brief wird nämlich berichtet: "auditi tamen nostri legati sunt dominica Esto mihi [d.h. 20. Februar]". Die Straßburger Gesandten <persName ref="6733">Jakob Sturm</persName>, <persName ref="18230">Mathis Pfarrer</persName> und <persName ref="5121">Marx Hag</persName> wurden tatsächlich an diesem Tag von <persName ref="7705">Antoine Perrenot</persName>, Bischof von Anas, anstelle von dessen abgereistem Vater <persName ref="7706">Nicolas Perrenot</persName>, Herr von Granvelle. in Ulm empfangen: s. <bibl>PC</bibl> IV/1 613-615, <link fk_file="10598">Nr. 562</link>. - Vermutlich handelt es sich hier um einen Auszug aus einem noch unbekannten Brief <persName ref="8385">Konrad Huberts</persName> an <persName ref="8126">Johannes Oporin</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

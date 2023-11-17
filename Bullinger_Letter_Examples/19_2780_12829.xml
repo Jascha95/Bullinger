@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12829" id_hbbw="2780" id_irg_sort="2780" id_sort="127800">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12829</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2780</arpa>
+		<scan_pages/>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26201" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26202" vf="1" fk_add_type="1">
+				<person id="8018" fk_id="8018">
+					<name>Haller d.J.</name>
+					<forename>Johannes</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12829">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">30</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19395">
+				<doc_type id="7">Kopie</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 46,594</signature>
+				<author>von unbekannter Hand</author>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12402" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2780, S. 220</entry>
+				<page>220</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="15">
+				<lang id="5" iso="la" count="15" p="100.0"/>
+			</sentences>
+			<words count="205">
+				<lang id="5" iso="la" count="205" p="100.0"/>
+			</words>
+			<chars count="1197">
+				<lang id="5" iso="la" count="1197" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2780" page="220">
+		<div ref="1">
+			[1] Wie aus <persName ref="8018">Hallers</persName> Brief [<link fk_file="12818">Nr. 2769</link>] vom 25. Januar hervorgeht, sind
+			Bullingers Briefe nicht angekommen, doch müsste <persName ref="8018">Haller</persName> unterdessen wenigstens den von seinem Verwandten
+			[<persName ref="5410">Konrad Kambli</persName>] überbrachten Brief [vom 22. Januar; nicht erhalten]
+			empfangen haben. Bullinger hat seinen [von <persName ref="8018">Haller</persName> gewünschten] Ratschlag rechtzeitig genug mitgeteilt: Es
+			gilt, solange in <placeName ref="1976">Augsburg</placeName> auszuhalten, wie es <persName ref="8018">Hallers</persName> Gewissen
+			erlaubt und man für [das Evangelium] eintreten kann. Aber natürlich soll <persName ref="8018">Haller</persName> sich und seine drei Kollegen
+			[<persName ref="8130">Lorenz Meyer</persName>, <persName ref="2812">Thoman Ruman</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.]</persName> nicht dem Tod ausliefern, zumal auch Christus und
+			<persName ref="6040">Paulus</persName> mehrmals vor ihren Feinden geflohen sind. Wenn <persName ref="8018">Haller</persName> aber in Feindeshand geriete, sollte er gemäß Mt
+			10, [28] nicht die fürchten, die nur den Leib, nicht aber die Seele töten können.
+		</div>
+		<div ref="2">
+			[2] Gestern traf <persName ref="8018">Hallers</persName> Brief [<link fk_file="12808">Nr. 2759</link> vom 19. Januar] ein. Den an die
+			Zürcher Bürgermeister <persName ref="1888">Hans Rudolf Lavater</persName> und <persName ref="1419">Johannes Haab</persName> adressierten Brief [vom 18. Januar] hat
+			Bullinger an diese übermittelt. Sie sagten ihre Hilfe zu und berieten sich sogleich wegen ihrer Antwort an
+			<persName ref="8018">Haller</persName>, an die [drei] anderen Zürcher Pfarrer in <placeName ref="1976">Augsburg</placeName> und an
+			den Rat von <placeName ref="1976">Augsburg</placeName>. Dabei saßen sie bis zehn Uhr zusammen.
+			Bullinger kennt ihren Beschluss noch nicht. Er hofft aber, dass sie <persName ref="8018">Haller</persName> und seinen Kollegen die Rückkehr
+			nach Zürich gestatten, wenn in <placeName ref="1976">Augsburg</placeName> das Evangelium nicht mehr
+			gepredigt werden kann.
+		</div>
+		<div ref="3">
+			[3] Die Zürcher Pfarrer in <placeName ref="1976">Augsburg</placeName> sollen unterdessen im Gedenken
+			an das Leiden der Propheten, Apostel und Christi tapfer ausharren. Segenswunsch.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2780" page="220">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Recepi tuas 25. ianuarii scriptas,<fl>2</fl> ex quibus intelligo te non accepisse meas litteras,<fl>3</fl> quanquam non dubitem te iamiam meas<fl>4</fl> saltem ab affine tuo<fl>5</fl> accepisse.</s>
+				<s n="2" lang="la" state="auto">Mature satis meum tibi consilium scripsi.<fl>6</fl></s>
+				<s n="3" lang="la" state="auto">Consulo, ut tamdiu haereas, quamdiu salva potes conscientia, quamdiu regnum Christi promovere potes.</s>
+				<s n="4" lang="la" state="auto">Hic, hic amor et studium erga gregem domini declaratur.</s>
+				<s n="5" lang="la" state="auto">Caeterum, quia ipse Christus dominus et divinus ille <persName ref="19981">Paulus</persName> frequentissime fuga furorem hostium declinarunt, nollem te ipsum et fratres reliquos tres<fl>7</fl> con-<pb_edition start_of="221"/>iiceres in flammam.</s>
+				<s n="6" lang="la" state="auto">Quod si divina dispositione contigerit te in manus incidere hostium, invoca dominum, fortis esto et cogita veritatis sententiam illam pronunciatam a domino: „Nolite timere eos, qui corpus occidunt, animam occidere non possunt“, etc.</s>
+				<s n="7" lang="la" state="auto">Nosti doctrinam salvatoris nostri Mt 10.<fl>8</fl></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="8" lang="la" state="auto">Ego tuas<fl>9</fl> heri recepi et consulibus<fl>10</fl> suas<fl>11</fl> tradi curavi.</s>
+				<s n="9" lang="la" state="auto">Illi omnem operam pollicebantur et recta ibant in consilium consultaturi, quid tibi, fratribus et <placeName ref="1976">Augustanae</placeName> urbi responderi possit.</s>
+				<s n="10" lang="la" state="auto">Sederunt autem solicite diutius usque ad 10.<fl>12</fl></s>
+				<s n="11" lang="la" state="auto">Iam quid consultarint, certo scire non possum.</s>
+				<s n="12" lang="la" state="auto">Spero tamen tibi et fratribus recte esse consultum et reditum apertum, si amplius non libeat libere praedicare verbum veritatis.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="13" lang="la" state="auto">Interea este fortes in domino.</s>
+				<s n="14" lang="la" state="auto">Cogitate, quid prophetae et apostoli sint passi, et ipse dominus noster, et perseverate in confessione veri in finem usque.<fl>13</fl></s>
+				<s n="15" lang="la" state="auto">Dominus Iesus servet te et reliquos.</s>
+				<note type="address">[Ohne Adresse<fl>14</fl>]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2780">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Unterstreichungen von <persName ref="1628">Johann Heinrich Hottinger</persName>.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt: <i>Idem</i> = Bullingen <i>Eidem</i> [=<persName ref="8018">Haller</persName>]. <i>Tiguro Augustam, 30. ianuarii 1547.</i></fn>
+			<fn ref="2">Brief <link fk_file="12818">Nr. 2769</link>.</fn>
+			<fn ref="3">Bullinger bezieht sich hier auf seinen Brief <link fk_file="12801">Nr. 2752</link> vom 14. Januar, der erst am 28. Januar in <placeName ref="1976">Augsburg</placeName> eintraf, sowie auf seinen (heute nicht mehr erhaltenen) Brief vom 22. Januar, der am 27. Januar in <placeName ref="1976">Augsburg</placeName> ankam; s. dazu <link fk_file="12801">Nr. 2752</link>, Anm. 18; <link fk_file="12819">Nr. 2770</link>, Anm. 13; <link fk_file="12835">Nr. 2786</link>,1f.</fn>
+			<fn ref="4">Bullingers nicht erhaltener Brief an Hal- 1er vom 22. Januar; s. <link fk_file="12835">Nr. 2786</link>,1.</fn>
+			<fn ref="5" type="bio" fk_person="5410"><persName ref="5410">Konrad Kambli</persName>; s. <link fk_file="12801">Nr. 2752</link>, Anm. 5. - Er wurde vom Schwiegervater <persName ref="8018">Hallers</persName>, <persName ref="5413">Ulrich Kambli</persName>, beauftragt, <persName ref="8018">Hallers</persName> Gattin, <persName ref="5131">Elsbeth geb. Kambli</persName>, und deren Kinder Agnes und Johannes eventuell nach Zürich zurückzubringen. Er reiste zusammen mit mindestens einem anderen "affinis" nach <placeName ref="1976">Augsburg</placeName>; s. <link fk_file="12835">Nr. 2786</link>,1. 17f.</fn>
+			<fn ref="6">Bezug auf <persName ref="8018">Hallers</persName> Vorwurf in Nr. 2769,1-5. Bullinger hatte schon mit <link fk_file="12801">Nr. 2752</link>,4-12, zum Ausharren geraten und dies in <link fk_file="12819">Nr. 2770</link>,14-27, wiederholt.</fn>
+			<fn ref="7"><persName ref="8130">Lorenz Meyer (Agricola)</persName>. <persName ref="2812">(Hans) Thoman Ruman (Römer)</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.</persName></fn>
+			<fn ref="8">Mt 10, 28.</fn>
+			<fn ref="9"><persName ref="8018">Hallers</persName> Brief an Bullinger vom 19. Januar (<link fk_file="12808">Nr. 2759</link>).</fn>
+			<fn ref="10"><persName ref="1419">Johannes Haab</persName>, <persName ref="1888">Hans Rudolf Lavater</persName>.</fn>
+			<fn ref="11"><persName ref="8018">Hallers</persName> Brief an den Zürcher Rat vom 18. Januar; s. Nr. 2759, Anm. 32.</fn>
+			<fn ref="12">decimam horam.</fn>
+			<fn ref="13">Vgl. Mt 24, 13; Hebr 3, 6. 14: Apk 2, 26.</fn>
+			<fn ref="14">Dieser Brief wurde dem Zürcher Ratsboten Hans Zingg zur Übermittlung anvertraut; s. <link fk_file="12837">Nr. 2788</link>, Anm. 16.</fn>
+		</num>
+	</footnotes>
+</file>

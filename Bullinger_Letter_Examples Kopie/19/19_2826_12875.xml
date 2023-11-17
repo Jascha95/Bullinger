@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12875" id_hbbw="2826" id_irg_sort="2826" id_sort="128260">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12875</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2826</arpa>
+		<scan_pages>
+			<scan id="30152" dir="12875/Autograph/" page="1">00 E_II_343__fol__356_r_.tif</scan>
+			<scan id="30153" dir="12875/Autograph/" page="2">01 E_II_343__fol__356_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26294" vf="1" fk_add_type="1">
+				<person id="1548" fk_id="1548">
+					<name>Hilles</name>
+					<forename>Richard</forename>
+				</person>
+				<place id="491" vf="1" fk_id="491" long="7.7507127" lat="48.584614">Straßburg</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26295" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12875">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">25</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19445">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343a,356</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9118" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Original Letters I 257–259, Nr. 118</entry>
+			</print>
+			<print id="12427" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2826, S. 364</entry>
+				<page>364</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="24">
+				<lang id="1" iso="de" count="18" p="75.0"/>
+				<lang id="5" iso="la" count="6" p="25.0"/>
+			</sentences>
+			<words count="650">
+				<lang id="1" iso="de" count="511" p="78.6"/>
+				<lang id="5" iso="la" count="139" p="21.4"/>
+			</words>
+			<chars count="3356">
+				<lang id="1" iso="de" count="2599" p="77.4"/>
+				<lang id="5" iso="la" count="757" p="22.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2826" page="363">
+		<div ref="1">
+			[1] Es gibt keine Neuigkeiten außer dem Tod des englischen <persName ref="18505">Königs Heinrich VIII.</persName> am 28. Januar, der
+			Proklamation von dessen Sohn <persName ref="3207">Eduard VI.</persName> zum König am darauffolgenden Montag [31. Januar] und die für den
+			vergangenen Sonntag [20. Februar] geplante Krönung.
+		</div>
+		<div ref="2">
+			[2] Ein oder zwei Wochen vor Heinrichs Tod ordnete dieser (angeblich in seinem Testament) die Gefangennahme
+			des Herzogs von Norfolk [<persName ref="7574">Thomas Howard</persName>] und von dessen Sohn [<persName ref="20134">Henry Howard</persName>], Earl of Surrey, an. Es soll
+			gewiss sein, dass beide geköpft wurden.
+		</div>
+		<div ref="3">
+			[3] Gemäß Heinrichs Testament und dem entsprechenden Beschluss des Parlaments soll das Land bis zur
+			Volljährigkeit <persName ref="3207">Eduards</persName> durch 16 Herren (davon acht Bischöfe) regiert werden. Die wichtigste Persönlichkeit
+			darunter ist [<persName ref="7789">Edward Seymour</persName>], Earl of Hertford, der Bruder von <persName ref="3207">Eduards</persName> Mutter [<persName ref="7789">Jane Seymour</persName>]. Er wurde zum
+			Lord Protector ernannt und ist ein erklärter Feind der Priester und des Papstes [<persName ref="19981">Paul III.</persName>] in
+			<placeName ref="425">Rom</placeName>.
+		</div>
+		<div ref="4">
+			[4] Aus <placeName ref="142">Erfurt</placeName> wurde an <persName ref="1548">Hilles</persName> geschrieben, dass Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName>, nachdem er <placeName ref="284">Leipzig</placeName> mit 30000 Soldaten
+			vergebens belagert hatte, von dort abgezogen sei und sein Lager in fünf Meilen Entfernung aufgeschlagen
+			habe, keine vier Meilen entfernt vom Lager Herzog <persName ref="18250">Moritz</persName>’ von Sachsen, auf dessen Seite <persName ref="18477">König Ferdinand I.</persName>
+			und Markgraf <persName ref="18422">Albrecht Alcibiades von Brandenburg-Kulmbach</persName> stehen. Der Kurfürst wird von König Christian von
+			Dänemark und den sächsischen Städten <placeName ref="61">Bremen</placeName>,
+			<placeName ref="204">Hamburg</placeName>, <placeName ref="1041">Braunschweig</placeName>
+			und anderen unterstützt, sodass beide Parteien gleich stark zu sein scheinen und ein Gemetzel zu befürchten
+			wäre, falls es nicht zu einer Einigung kommt.
+		</div>
+		<div ref="5">
+			[5] Aus <placeName ref="142">Erfurt</placeName> wurde zudem berichtet, dass Gesandte Heinrichs
+			VIII. und Franz’ I. von Frankreich seit Weihnachten bei <placeName ref="204">Hamburg</placeName>
+			mit Räten des Kurfürsten und der sächsischen Städte verhandeln, ja dass sogar der dänische König daran
+			teilgenommen habe. Die Ergebnisse der Verhandlungen sind noch nicht bekannt.
+		</div>
+		<div ref="6">
+			[6] Segenswünsche.
+		</div>
+		<div ref="7">
+			[7] [P.S.:] <persName ref="1548">Hilles</persName> hätte schon früher über die verbürgten Nachrichten aus
+			<entity id="9" type="geo_country">England</entity> geschrieben, <pb_edition start_of="364"/> wenn seine
+			Geschäfte es ihm erlaubt hätten. Auch wenn unterdessen Bullinger darüber bereits informiert sein wird, legt
+			<persName ref="1548">Hilles</persName> seinem Schreiben die Abschrift eines [aus <entity id="9" type="geo_country">England</entity>] an
+			einen Landsmann [<persName ref="1560">John Hooper</persName>] gerichteten Briefs bei, den <persName ref="1548">Hilles</persName> nach
+			<placeName ref="28">Basel</placeName> weitergeschickt hat, da jener Landsmann nicht mehr in
+			<placeName ref="492">Straßburg</placeName> wohnt.
+		</div>
+		<div ref="8">
+			[8] Grüße an die Glaubensbrüder, an Bullingers Frau <persName ref="8051">Anna, geb. Adlischwyler</persName>, und an
+			<persName ref="505">John Burchers</persName> Frau [Adelheit, geb. Knüpli]. Bullinger möge Letzterer
+			ausrichten, dass <persName ref="505">Burcher</persName> vor Kurzem aus <placeName ref="267">Köln</placeName> geschrieben hat, er
+			sei dort mit seiner Ware gut angekommen und werde innerhalb von zehn Tagen nach dem holländischen
+			<placeName ref="2399">Dordrecht</placeName> weiterreisen.
+		</div>
+		<div ref="9">
+			[9] Gruß.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2826" page="364">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Niewer zytund<fl>1</fl> weis ich euch niths zu scriben, den<fl>2</fl> das es waͤyr<fl>3</fl> sye, das unser kunning in Jnglandt<fl>4</fl> gestorben ist uff den 28. tag januarii, und uff muentag nachvolgende<fl>5</fl> ist sein eyntlich<fl>6</fl> son<fl>7</fl> zum kunning uffgenomen und gebubliciert in landt, als billich<fl>8</fl> gewesen ist, und wirt<fl>9</fl> uff suntag vergangen<fl>10</fl> offentlich gecronet, als mir auß Engellandt gescriben ist fur waͤyr, das es also sein solt.</s>
+				<s n="2" lang="de" state="auto">Deser genanter yung kunnyng heisset yetz <persName ref="3207">Edward</persName> der sechst von dem nam.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">Ungefarlich ein woch oder zweyn, vor das der genanter kunning Heinryc gestorben ist, habt er<fl>11</fl> (durch sein testament, will etlich sagen<fl>12</fl>) ein hertzog, der zuͦ Nortfolck int<fl>13</fl> landt hertzog ist geheissen<fl>14</fl>, und syenen eynsygen son mit im, der der grave von Zurrey<fl>15</fl> genamt ist gewesen in Jnglandt.<fl>a</fl></s>
+				<s n="4" lang="de" state="auto">Der hertzog und sein son syend beyde gekopff fur waͤyr.<fl>a_2</fl><fl>16</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="5" lang="de" state="auto">Die regement von Jnglandt ist durchs kunnings testament und dornach auch durch parliament oder rychstag da bestetiget (ietzunder<fl>17</fl> bis das der jung kunning<fl>18</fl> elter wurd)<fl>b</fl> int gewalt<fl>19</fl> von sechsehen herren im landt.</s>
+				<s n="6" lang="de" state="auto">Deren solten, wie man sagt, acht bisschoff sien.</s>
+				<s n="7" lang="de" state="auto">Der furnemest herr aber under sich allen, der ist kein bisschoff, sunder des jung kunnings ome<fl>20</fl> oder mutters<fl>21</fl> broder.</s>
+				<s n="8" lang="de" state="auto">Derselbig ist auch verordnet zum obersten protector<fl>22</fl> oder gubernator des kunnings, sein fetter<fl>23</fl>, und des gantzen landts; und derselbig, <pb_edition start_of="365"/> tutor des yung kunnings, heysset der grave zuͦ Herfordt und ist die prestern<fl>24</fl> nit fast<fl>25</fl> gunstig, sunder dem papst zuͦ <placeName ref="425">Rome</placeName><fl>26</fl> eyn groͤsser fynd.<fl>27</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="de" state="auto">Nun wen ich wist, das irs nit vorhyn wisset, ich wolt euch yetz auch scriben, was mir am 15. tags diser monets von <placeName ref="142" state="auto_name">Jrfurd</placeName><fl>28</fl> geschriben ist, nemlich das der churfurst zuͦ <persName ref="19065">Sachsen</persName><fl>29</fl>, nachdem das er vor Lypsyg mit dreysig tausent mannen zu ros und zu fuß drey wochen gelegen habt und den stadt nicht hatten kunnen nimmen (wiewol er hadt sye ubel geschossen<fl>30</fl> und vil hawsern da beleydgeth<fl>31</fl>),<fl>32</fl> ist von danen noch gezogen mit allen seinem folcke und licht<fl>33</fl> yetz funff mil wechs<fl>34</fl> von <placeName ref="284">Lipsig</placeName>, und hertzog Mauritz liget mit seynem folck niemen<fl>35</fl> vier mil wechs von in, und mit im<fl>36</fl> halt<fl>c</fl> der kunning <persName ref="18477">Ferdinandus</persName> und der marcgrave von Colmbach.<fl>37</fl></s>
+				<s n="10" lang="de" state="auto">Aber mit dem hertzog zuͦ Saxen halt der kunning von <persName ref="18449">Denmark</persName><fl>38</fl> und die saxisch stedten als<fl>39</fl> <placeName ref="61">Brem</placeName>, <placeName ref="204">Hamburg</placeName>, Brunswich und etlich andern,<fl>40</fl> also das man meynet, das dye ein partye fast als stark sie<fl>41</fl> als die andern, und wenn sye nicht bald fride machen (als etliche houffen, das sie willen doch), so wirdts ein slaicht<fl>42</fl> geben.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="11" lang="de" state="auto">Es ist mir noch wieter von Erfurdt gescriben,<pb_scan n="356v."/> wie das der kunning von <entity id="9" type="geo_country">Englandt</entity> und der kunning auß Francreichs<fl>43</fl> bottschafft syen nun sider winacht<fl>44</fl> by <placeName ref="204">Hamburg</placeName> zuͦsamen gewesen mit der chuͦrfurst zuͦ Saxen und die obgemelten saxisch stedten rhat, und das by inen ist auch personlich gewessen der kunnyng von <persName ref="18449">Denmark</persName> selbs.</s>
+				<s n="12" lang="de" state="auto">Was sye aber under sich gethan oder beslossen haben, gebt der zeit zuͦ erkennen.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="13" lang="de" state="auto">Hiemit sie god dem almachtigen bevolen.</s>
+				<s n="14" lang="de" state="auto">Derselb verlehe uns einmal<fl>45</fl> ein gutten und langwergen<fl>46</fl> friden allenthalb.<fl>47</fl></s>
+				<s n="15" lang="de" state="auto">Amen.</s>
+				<s n="16" lang="de" state="auto">Ewer w[illiger] d[iener] <persName ref="1548">Richart Hillis</persName> auß Jnglandt.<pb_edition start_of="366"/></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="17" lang="la" state="auto">Salutem in domino Iesu, servatore et spe nostra!<fl>d</fl></s>
+				<s n="18" lang="la" state="auto">De novis, que brevi ex Anglia pro certissimis hic accepi, mi domine colendissime, ad te nunc propriis meis literis<fl>48</fl> scripsissem, nisi ita aliis negotiis, ut sepe fit, ita occupatus fuissem.</s>
+				<s n="19" lang="la" state="auto">Interim tamen, ne omnino nihil per me rescires, de<fl>e</fl> quibus tamen puto ab aliis ante aliquot dies tu antea certior fueris factus, mitto tue pietati copiam istam literarum quarundem<fl>49</fl>, quas nuper <placeName ref="28">Basilee</placeName> conterraneo meo cuidam<fl>50</fl> iam illic moranti ab <placeName ref="492">Argentina</placeName> misi.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="20" lang="la" state="auto">Habeas me quam affectuosissime commendatum<fl>f</fl> omnibus tuis fratribus, collegis in domino atque uxori tue piissime<fl>51</fl> coniugique<fl>52</fl> <persName ref="505">Ioannis Burcheri</persName>, dicasque illi me literas nuper a <placeName ref="267">Colonia</placeName> recepisse,<fl>53</fl> per quas certior factus sum eum salvo illic appulisse cum omnibus suis mercibus et<fl>g</fl> ante decem dies illin[c]<fl>h</fl> versus <placeName ref="2399">Dort</placeName><fl>54</fl> in <entity id="20" type="geo_country">Hollandia</entity> cum eisdem mercibu[s] feliciter solvisse.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="21" lang="la" state="auto">Vale in domino.</s>
+				<s n="22" lang="de" state="auto">Datum 25. di[e] februarii 1547.</s>
+				<s n="23" lang="la" state="auto">Per tuum Ri. H.</s>
+			</p>
+			<p>
+				<note>[Adresse darunter:]</note>
+				<s n="24" lang="de" state="auto">Dem furnemen und hochgelerten herren Henrich Bullinger, meinen gunstigen fründt, dem furnemsten predicant zuͦ <placeName ref="587">Zurich</placeName>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2826">
+		<alpha>
+			<fn ref="a-a"><i>Am Rande nachgetragen.</i></fn>
+			<fn ref="b"><i>Klammern ergänzt.</i></fn>
+			<fn ref="c"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="d"><i>in der Vorlage</i> nostro.</fn>
+			<fn ref="e"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="f"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="g"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="h"><i>Hier und unten Text im engen Einband verdeckt.</i></fn>
+			<!-- Splits -->
+			<fn ref="a"><i>Am Rande nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Gemeint ist "zytung" (Nachrichten).</fn>
+			<fn ref="2">als.</fn>
+			<fn ref="3">wahr.</fn>
+			<fn ref="4"><persName ref="18505">Heinrich VIII.</persName>, König von <entity id="9" type="geo_country">England</entity>.</fn>
+			<fn ref="5">Montag. 31 Januar.</fn>
+			<fn ref="6">einziger.</fn>
+			<fn ref="7"><persName ref="3207">Eduard VI.</persName></fn>
+			<fn ref="8">(voll Gesetzes wegen) üblich.</fn>
+			<fn ref="9">luci' im Sinne von "wurde" (aus der Perspektive des Briefes aus <entity id="9" type="geo_country">England</entity> handelte es sich noch um ein zukünftiges Ereignis).</fn>
+			<fn ref="10">2(). Februar. - Das Datum ist korrekt.</fn>
+			<fn ref="11">habt er: als "nahm er fest" zu verstehen.</fn>
+			<fn ref="12">will etlich sagen: als "wollen etliche sagen" zu verstehen.</fn>
+			<fn ref="13">int: in das (unten als: in die, usw., zu verstehen).</fn>
+			<fn ref="14"><persName ref="7574">Thomas Howard</persName>, Duke of Norfolk.</fn>
+			<fn ref="15"><persName ref="20134">Henry Howard</persName>, Earl of Surrey.</fn>
+			<fn ref="16">Zum Schicksal der beiden <persName ref="7574">Howards</persName> s. <link fk_file="12821">Nr. 2772</link>, Anm. 5.</fn>
+			<fn ref="17">solange.</fn>
+			<fn ref="18">Er war damals neun Jahre alt.</fn>
+			<fn ref="19">Vollmacht.</fn>
+			<fn ref="20">Oheim (Onkel). - Gemeint ist <persName ref="7789">Edward Seymour</persName>, Duke of Somerset, der zuvor auch Earl of Hertford war.</fn>
+			<fn ref="21" type="bio" fk_person="7789"><persName ref="7789">Jane Seymour</persName>. gest. 24. Oktober 1537.</fn>
+			<fn ref="22">obersten protector: Lord Protector.</fn>
+			<fn ref="23">hier: Neffe.</fn>
+			<fn ref="24">die prestern: den Priestern.</fn>
+			<fn ref="25">sehr.</fn>
+			<fn ref="26"><persName ref="19981">Paul III.</persName></fn>
+			<fn ref="27">Zu diesen Vorgängen s. John <i>Strype,</i> Ecclesiastical Memorials; Relating chiefly to Religion, and its Reformation, under the reigns of <persName ref="18505">King Henry VIII</persName>, <persName ref="3207">King Edward VI</persName>, and Queen Mary the First, Bd. 2, Oxford 1816, S. 15-36; Albert Frederic <i>Pollard,</i> <entity id="9" type="geo_country">England</entity> under Protector Somerset. An Essay, London 1900, S. 17- 30.</fn>
+			<fn ref="28"><placeName ref="142">Erfurt</placeName>.</fn>
+			<fn ref="29"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="30">beschossen.</fn>
+			<fn ref="31">beschädigt (in Anlehnung an das englische "injured").</fn>
+			<fn ref="32">Siehe dazu Nr. 2757, Anm. 76.</fn>
+			<fn ref="33">liegt.</fn>
+			<fn ref="34">Wegs.</fn>
+			<fn ref="35">keine.</fn>
+			<fn ref="36"><persName ref="18250">Herzog Moritz</persName>.</fn>
+			<fn ref="37"><persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach.</fn>
+			<fn ref="38"><persName ref="18449">Christian III.</persName></fn>
+			<fn ref="39">wie auch.</fn>
+			<fn ref="40">Siehe dazu <link fk_file="12870">Nr. 2821</link>,161f und Anm. 103.</fn>
+			<fn ref="41">sei.</fn>
+			<fn ref="42">Gemetzel (im Englischen "slaughter").</fn>
+			<fn ref="43">Franz I.</fn>
+			<fn ref="44">sider winacht: seit Weihnachten (1546).</fn>
+			<fn ref="45">endlich.</fn>
+			<fn ref="46">Zu verstehen: langwährenden.</fn>
+			<fn ref="47">überall.</fn>
+			<fn ref="48"><persName ref="1548">Hilles</persName> letzter erhaltener Brief an Bullinger datiert vom 26. Januar (<link fk_file="12821">Nr. 2772</link>).</fn>
+			<fn ref="49">=quarundam.</fn>
+			<fn ref="50"><persName ref="1560">John Hooper</persName>.</fn>
+			<fn ref="51" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="52" type="bio" fk_person="20138"><persName ref="20138">Adelheit. geb. Knüpli</persName>.</fn>
+			<fn ref="53">Zu <persName ref="505">Burchers</persName> Reise über <placeName ref="267">Köln</placeName> s. <bibl>HBBW</bibl> XVIII 468, Anm. 5.</fn>
+			<fn ref="54"><placeName ref="2399">Dordrecht</placeName>.</fn>
+		</num>
+	</footnotes>
+</file>

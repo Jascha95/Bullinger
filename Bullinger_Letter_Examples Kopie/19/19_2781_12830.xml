@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12830" id_hbbw="2781" id_irg_sort="2781" id_sort="127810">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12830</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2781</arpa>
+		<scan_pages/>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26203" vf="1" fk_add_type="1">
+				<person id="8049" fk_id="8049">
+					<name>Vadian (von Watt)</name>
+					<forename>Joachim</forename>
+				</person>
+				<place id="474" vf="" fk_id="473" long="9.37477" lat="47.42391">St. Gallen</place>
+				<district id="169">St.Gallen</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26204" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12830">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">30</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19396">
+				<doc_type id="9">Teilkopie</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 64,648r.</signature>
+				<author>von unbekannter Hand</author>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9056" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Vadian BW VII, S. 126, Nr. 91</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="7">
+				<lang id="1" iso="de" count="1" p="14.3"/>
+				<lang id="5" iso="la" count="6" p="85.7"/>
+			</sentences>
+			<words count="110">
+				<lang id="1" iso="de" count="28" p="25.5"/>
+				<lang id="5" iso="la" count="82" p="74.5"/>
+			</words>
+			<chars count="624">
+				<lang id="1" iso="de" count="137" p="22.0"/>
+				<lang id="5" iso="la" count="487" p="78.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2781" page="221">
+		<div ref="1">
+			[1] <persName ref="8049">Vadian</persName> möchte über <persName ref="8011">Rudolf Gwalthers</persName> Angelegenheit<fl>1</fl> genau informiert werden. Bestimmt sind die
+			[Neun Orte] diesem gegenüber umso ungehaltener, als er
+			<persName ref="4091">Huldrych Zwinglis</persName> Schwiegersohn ist!<fl>2</fl> Doch gewiss würden sie
+			sich noch aggressiver verhalten, wenn die [protestantischen] Städte auf Verleumdungen und Angriffe,
+			besonders auf die des Papstes [<persName ref="19981">Paul III.</persName>], nicht reagieren dürften und ihren Glauben verschweigen müssten!
+			Wie könnte es dann unter den Eidgenossen zu einer heilsamen Verlängerung des Bundes (die den Städten ihre
+			Religion gewähren würde) kommen? Und wie könnten mit der Zeit die Städte ihre Religion beibehalten, wenn
+			ihnen untersagt wird, ihren Glauben gegen den Lästerer [den Papst] zu verteidigen
+			und<pb_edition start_of="222"/> die umstrittenen religiösen Punkte anzuschneiden? Doch entspricht dies
+			völlig der von den Bischöfen und den Äbten in ihren geheimen Konklaven befürworteten
+			Handlungsweise!<fl>3</fl>
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2781" page="222">
+		<div ref_regest="1">
+			<p>
+				<note>[Überschrift:]</note>
+				<s n="1" lang="la" state="auto"><persName ref="8049">Joach[imus] Vadianus</persName>, tertio Calend. Febr. 1547.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">De Gwaltheri rebus vellem abs te mature et bona fide certior fieri.</s>
+				<s n="3" lang="la" state="auto">Nil dubita, quin omnia illius caussae suae hoc peius apud adversarios habeant, quod Zvinglii nostri gener est.</s>
+				<s n="4" lang="la" state="auto">Quam facile autem opprimentur, si tacere nos ad quamlibet maledicas calumnias iniuriasque, <persName ref="19981" state="auto_name">papae</persName><fl>4</fl> imprimis, nihil reponere et fidei nostrae rationem reddere orbi iudicanti non licebit!</s>
+				<s n="5" lang="la" state="auto">Eritne salva conductio foederis, quae et nostrae nos religioni asserit?</s>
+				<s n="6" lang="de" state="auto">Wie werden wir bey unserem glauben bleiben mögen, wann sy uns denselbigen gegen den lesterer zu vertedigen und allen spann an den tag zu thun nicht zulassen wollen?</s>
+				<s n="7" lang="la" state="auto">Sed id genus artes promovent episcopi et abbates clanculariis suis in conventiculis.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse.]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2781">
+		<alpha>
+			<fn ref="a" meta="1"><i>Aus dem 17. Jh.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Zu dem wegen Gwalthers "Endtchrist" eingeleiteten Verfahren s. zuletzt <link fk_file="12816">Nr. 2767</link>,97-100.</fn>
+			<fn ref="2">Gwalther war mit <persName ref="5081">Regula Zwingli</persName> verheiratet.</fn>
+			<fn ref="3">Dieser Brief wurde vermutlich zusammen mit <persName ref="8032">Francisco de Enzinas</persName>' Brief an Bullinger (<link fk_file="12832">Nr. 2783</link>) Bernardino Ochino anvertraut.</fn>
+			<fn ref="4"><persName ref="19981">Paul III.</persName></fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="VBS" vol="7" fk_bibliography="40" nr="91" page="126">
+				<p>
+					 <s n="1" lang="la" state="auto">De Gwaltheri rebus vellem abs te mature et bona fide certior fieri.</s>
+					 <s n="2" lang="la" state="auto">Nil dubita, quin omnia illius caussae suae hoc peius apud adversarios habeant, quod Zvinglii nostri gener est.</s>
+					 <s n="3" lang="la" state="auto">Quam facile autem opprimentur, si tacere nos ad quamlibet maledicas calumnias iniuriasque, papae inprimis, nihil reponere et fidei nostrae rationem reddere orbi iudicanti non licebit!</s>
+					 <s n="4" lang="la" state="auto">Eritne salva conductio foederis, quae et nostrae nos religioni asserit?</s>
+					 <s n="5" lang="de" state="auto">Wie werden wir bey unserem glauben bleiben mögen, wann sy üns denselbigen gegen den lesterer zu vertedigen und allen spann an den tag zu thun nicht zulassen wollen?</s>
+					 <s n="6" lang="la" state="auto">Sed id genus artes promovent episcopi et abbates clanculariis suis in conventiculis.</s>
+				</p>
+			</content>
+			<footnotes fk_bibliography="40" nr="91"/>
+		</alternative>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2781" page="221"/>
+			<footnotes fk_bibliography="22" nr="2781">
+				<alpha>
+					 <fn ref="a" meta="1"><i>Aus dem 17. Jh.</i></fn>
+				</alpha>
+				<num>
+					 <fn ref="1">Zu dem wegen Gwalthers "Endtchrist" eingeleiteten Verfahren s. zuletzt <link fk_file="12816">Nr. 2767</link>,97-100.</fn>
+					 <fn ref="2">Gwalther war mit <persName ref="5081">Regula Zwingli</persName> verheiratet.</fn>
+					 <fn ref="3">Dieser Brief wurde vermutlich zusammen mit <persName ref="8032">Francisco de Enzinas</persName>' Brief an Bullinger (<link fk_file="12832">Nr. 2783</link>) Bernardino Ochino anvertraut.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

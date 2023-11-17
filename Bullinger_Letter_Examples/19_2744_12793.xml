@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12793" id_hbbw="2744" id_irg_sort="2744" id_sort="127440">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12793</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2744</arpa>
+		<scan_pages>
+			<scan id="29903" dir="12793/Autograph/" page="1">00 E_II_370__fol__45_r_.tif</scan>
+			<scan id="29904" dir="12793/Autograph/" page="2">01 E_II_370__fol__45_v_.tif</scan>
+			<scan id="29905" dir="12793/Autograph/" page="3">02 E_II_370__fol__46_r_.tif</scan>
+			<scan id="29906" dir="12793/Autograph/" page="4">03 E_II_370__fol__46_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26109" vf="1" fk_add_type="1">
+				<person id="8018" fk_id="8018">
+					<name>Haller d.J.</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="18" vf="1" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26110" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12793">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">7</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19356">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 370,45 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12399" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2744, S. 96</entry>
+				<page>96</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="106">
+				<lang id="1" iso="de" count="5" p="4.7"/>
+				<lang id="5" iso="la" count="101" p="95.3"/>
+			</sentences>
+			<words count="1054">
+				<lang id="1" iso="de" count="40" p="3.8"/>
+				<lang id="5" iso="la" count="1014" p="96.2"/>
+			</words>
+			<chars count="6096">
+				<lang id="1" iso="de" count="202" p="3.3"/>
+				<lang id="5" iso="la" count="5894" p="96.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2744" page="94">
+		<div ref="1">
+			[1] Im Bewusstsein der großen Gefahr, in der die gesamte Kirche schwebt, hofft <persName ref="8018">Haller</persName>, bald Bullingers
+			Antwort auf seine wiederholten Briefe [<bibl>HBBW</bibl> XVIII, <link fk_file="12770">Nr. 2723</link>. 2726] zu
+			empfangen. Viele <placeName ref="1976">Augsburger</placeName> verlieren den Mut. Doch die Pfarrer
+			erweisen sich als so einig wie noch nie zuvor und warnen (vermutlich umsonst) vor einem Abfall und vor einem
+			schändlichen Frieden. Zwar ist das Volk noch standhaft, doch kann sich dies bekanntlich rasch ändern. Wenn
+			der Frieden ausbleibt, würden alle Wohlhabenden aus der Stadt fliehen. Käme es aber zu einer
+			Volksherrschaft, dann hätten [die Pfarrer] überhaupt nichts mehr zu sagen.
+		</div>
+		<div ref="2">
+			[2] Soeben wurde gemeldet, dass man sich in <placeName ref="492">Straßburg</placeName> über eine
+			Aussöhnung mit <persName ref="18538">Kaiser Karl V.</persName> berät. Käme es dazu, dann werden die bereits an Lebensmittelknappheit
+			leidenden <placeName ref="1976">Augsburger</placeName> wohl ebenfalls den Kampf aufgeben, zumal sie
+			kaum alleine ausharren werden, nachdem die <placeName ref="513">Ulmer</placeName> und die von
+			diesen verführten Städte sie verraten haben. Wie schön wäre es, wenn Gott die Stadt nicht verlassen würde!
+			Da sie aber so viele Verräter und Taugenichtse zählt, wird sie wohl auch zu Fall kommen.
+		</div>
+		<div ref="3">
+			[3] Die Fugger sind wieder in die Stadt zurückgekehrt. Wahrscheinlich<pb_edition start_of="95"/> wollen sie
+			diese zur Annahme eines Friedens bewegen. <persName ref="8018">Haller</persName> befürchtet einen Aufstand, den die Pfarrer vermutlich mit
+			ihrem Leben bezahlen werden.
+		</div>
+		<div ref="4">
+			[4] <persName ref="18538">Karl V.</persName> soll das Herzogtum <placeName ref="572">Württemberg</placeName> besetzt haben.
+			Folglich wird es in <placeName ref="1976">Augsburg</placeName> zu Versorgungsengpässen kommen.
+		</div>
+		<div ref="5">
+			[5] Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> soll sich wieder seines Landes bemächtigt und Herzog <persName ref="18250">Moritz von Sachsen</persName> um sein Herzogtum gebracht haben. Über den Landgrafen <persName ref="18574">Philipp von Hessen</persName> kursieren viele Gerüchte.
+			Kurfürst und Landgraf, die den Städten all ihr Geld abverlangt haben, stehen in
+			<placeName ref="1976">Augsburg</placeName> in ganz schlechtem Ruf. Deshalb sind auch die Städte
+			dermaßen geneigt, einen Frieden mit dem Kaiser einzugehen.
+			<placeName ref="320">Memmingen</placeName> und <placeName ref="45">Biberach</placeName>
+			geben schon nach. <persName ref="8440">Gervasius Schuler</persName> soll sogar in einer Predigt die fromme Gesinnung des Kaisers gelobt und
+			versichert haben, dass dieser sich geändert hätte und nicht nach der Vernichtung des Evangeliums trachte!
+			Auch <persName ref="1055">Martin Frecht</persName> in <placeName ref="513">Ulm</placeName>
+			soll sich allzu nachgiebig zeigen.
+		</div>
+		<div ref="6">
+			[6] Die <placeName ref="1976">Augsburger</placeName> Pfarrer sind sich einig. Sie mahnen mit allen
+			Kräften zur Buße, vermögen es aber nicht, die Missbräuche, den Wucher und die Gotteslästerung abzuschaffen.
+		</div>
+		<div ref="7">
+			[7] Die Kirche sei dem Herrn, ihrem einzigen Haupt, empfohlen! Sie muss ja erprobt werden. Doch was sollen
+			die [in <placeName ref="1976">Augsburg</placeName> wirkenden Zürcher Pfarrer] tun? <persName ref="8018">Haller</persName> ist der
+			Meinung, dass sie bis zum Äußersten ausharren sollten, solange die
+			<placeName ref="1976">Augsburger</placeName> standhaft bleiben. Wenn aber die
+			<placeName ref="1976">Augsburger</placeName> die Wahrheit verleugnen, ist <persName ref="8018">Haller</persName> der Meinung, dass
+			sie unbedingt gehen sollten. Würden sie zuvor noch in die Hände der Feinde fallen, sind sie bereit, für
+			Jesus zu sterben. Sähen sie aber eine Fluchtmöglichkeit, würden sie diese ergreifen. Fest steht, dass sie
+			nicht in einer Kirche bleiben können, die mit dem Teufel paktiert und das freie Bekenntnis der Wahrheit
+			verbietet. Die <placeName ref="1976">Augsburger</placeName> Obrigkeit will die drei Pfarrer [<persName ref="8130">Lorenz Meyer</persName>, <persName ref="2812">Thoman Ruman</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.]</persName> nicht zurück nach Zürich ziehen lassen, weil dadurch der
+			Verdacht entstehen könnte, dass sie vorhat, das Evangelium zu verleugnen (was aber zutrifft). Läuft die
+			Sache schief, wird sie die Pfarrerschaft dafür verantwortlich machen. Sie wirft ihr bereits vor, verrückt zu
+			sein, weil sie das Volk dermaßen zur Standhaftigkeit anhält. Ob sie denn nicht wisse, dass, falls die
+			Bevölkerung zu Schaden käme, diese sich gegen die Pfarrer auflehnen würde?
+		</div>
+		<div ref="8">
+			[8] Es schmerzt <persName ref="8018">Haller</persName> zu hören, wie schlecht man über die Eidgenossen redet. Daher ist es ganz gut, dass
+			die Zürcher [ihren] Soldaten verboten haben, Zürich zu verlassen! Sogar <persName ref="2916">Sebastian Schertlin</persName> scheint wie alle
+			anderen [hauptsächlich an eigener Bereicherung interessiert zu sein].
+		</div>
+		<div ref="9">
+			[9] <persName ref="8354">Georg Frölich</persName> ist ganz ratlos, wie Bullinger es vermutlich aus seinen Briefen
+			[<link fk_file="12790">Nr. 2741</link> und <link fk_file="12791">Nr. 2742</link>] entnehmen wird. Er ist der
+			einzige, den <persName ref="8018">Haller</persName> bewundern kann. Deshalb empfiehlt er sich mit diesem dem Willen Gottes an.
+		</div>
+		<div ref="10">
+			[10] Wenn nur der Zürcher Rat schreiben und zeigen würde, dass er um seine Pfarrer besorgt ist! Sollten
+			Letztere endlich wissen, was zu tun sei, würden sie sich brieflich an ihn wenden.
+		</div>
+		<div ref="11">
+			[11] <persName ref="2336">Bernardino Ochino</persName>, der die Gesinnung der Antichristen genau kennt, ist sehr niedergeschlagen. Er
+			empfiehlt sich Bullinger.
+		</div>
+		<div ref="12">
+			[12] <persName ref="3018">Francesco Stancaro</persName> übersendet hiermit zwei Büchlein als Dank für die ihm von Bullinger bekundete
+			Freundschaft.
+		</div>
+		<div ref="13">
+			[13] <persName ref="7197">Hans Wilpert Zoller</persName> ist wohlauf. <persName ref="6222">Heinrich Richmut</persName> trägt jetzt eine echte (so viel <persName ref="8018">Haller</persName> es beurteilen
+			kann) goldene Kette um den Hals! Wird er das auch in Zürich tun? Einer seiner zwei Kameraden, <persName ref="4394">[Hans Jakob „der Minder“?] Brennwald</persName>, benimmt sich aber ganz anständig.
+		</div>
+		<div ref="14">
+			[14] Morgen sind Bürgermeisterwahlen. Hätten die [Überbringer des vorliegenden Briefes] solange noch
+			gewartet, hätte <persName ref="8018">Haller</persName> auch darüber berichtet. Er vermutet, dass die Altbürgermeister [<persName ref="3927">Hans Welser</persName> und <persName ref="1410">Jakob Herbrot</persName>] wiedergewählt werden. Der erste sucht um jeden Preis den Frieden, der zweite aber nicht, sofern er
+			den Leuten nicht etwas vortäuscht.
+		</div>
+		<div ref="15">
+			[15] Der <placeName ref="1976">Augsburger</placeName> Schulherr <persName ref="17849">Christoph Wirsung</persName> und der
+			wohlhabende <persName ref="6997">[Leonhard II.] Weiß</persName> wollen, dass ihre Söhne (zum einen Philipp, zum anderen Georg und David),
+			die derzeit in <placeName ref="492">Straßburg</placeName> studieren, ihr Studium in Zürich
+			fortsetzen. Sie teilten diesen das schriftlich mit und legten ihrem Brief ein für die Zürcher bestimmtes
+			Empfehlungsschreiben <persName ref="8018">Hallers</persName> bei. Sollten nun diese Jungen tatsächlich nach Zürich kommen, möchten die
+			Zürcher sich ihrer gut annehmen und einen seriösen Kostgeber finden, zumal sie ehrenhaften und zahlkräftigen
+			Familien angehören. <persName ref="8173">Sixt Birck</persName> und <persName ref="8018">Haller</persName> bürgen gerne für sie.
+		</div>
+		<div ref="16">
+			[16] Vor wenigen Tagen hat <persName ref="8071">Hans Vogler [d.J.]</persName> <persName ref="8018">Haller</persName> schriftlich informiert, dass er vor einem Jahr in
+			<placeName ref="291">Lindau</placeName> eine [heimliche] Ehe mit <persName ref="4991">[Maria Grafner]</persName>, der Tochter der
+			verwitweten [<persName ref="4905">Euphemia, geb. Gasser</persName>], einer Schwester des <placeName ref="1976">Augsburger</placeName>
+			Arztes <persName ref="1271">Achilles Pirmin Gasser</persName>, eingegangen sei. <persName ref="1271">Dr. Gasser</persName>,
+			der<pb_edition start_of="96"/> davon nichts wusste, ließ [Maria] zu sich nach
+			<placeName ref="1976">Augsburg</placeName> kommen. Sobald <persName ref="8071">Vogler</persName> davon erfuhr, besuchte er sie oft.
+			Dies kam <persName ref="1271">Gasser</persName> verdächtig vor. Daraufhin erfuhr er von seiner Schwester von dieser Ehe. Als er <persName ref="8071">Vogler</persName> zur
+			Rede stellte, gestand er. <persName ref="8071">Vogler</persName> bat zudem den Doktor, ihm zu helfen, sich mit seinem Vater [<persName ref="8455">Hans Vogler d.Ä.</persName>] zu versöhnen und zu einer Stelle zu gelangen. Sobald <persName ref="8018">Haller</persName> das erfahren hatte, erkundigte er sich bei
+			<persName ref="1271">Gasser</persName>. Dabei wurde ihm klar, wie ernst <persName ref="1271">Gasser</persName> die Angelegenheit nimmt und wie schwierig es für <persName ref="8071">Vogler d.J.</persName>
+			sein würde, sich seines Gelübdes zu entledigen. <persName ref="1271">Gasser</persName> bat <persName ref="8018">Haller</persName>, <persName ref="8049">Vadian</persName> zu schreiben, um diesen zu bitten,
+			zwischen Sohn und Vater zu vermitteln, zumal er beide gut kenne. Bullinger soll <persName ref="8455">Vogler d.Ä.</persName> davon nur
+			erzählen, falls sich eine gute Gelegenheit bieten würde, denn <persName ref="8018">Haller</persName> hat sowieso vor, dem Vater
+			diesbezüglich zu schreiben. Das Mädchen ist ehrbar. <persName ref="8018">Haller</persName> weiß aber nicht, wie begabt es ist.
+		</div>
+		<div ref="17">
+			[17] Ach, wenn nur bald ein Brief von Bullinger käme! <persName ref="8018">Haller</persName> ist nicht mehr fähig, sich dem Studium oder
+			dem Lesen der Heiligen Schrift zu widmen. Nur mit Mühe vermag er, seine Predigten zu verfassen. Wegen der
+			verworrenen Lage (und nicht etwa aus Angst) kann er sich kaum konzentrieren, ja nicht einmal beim Beten.
+		</div>
+		<div ref="18">
+			[18] Gruß an <persName ref="8011">Rudolf Gwalther</persName>. <persName ref="8018">Haller</persName> hätte dessen Predigtnotizen zum Hebräerbrief auch zurückgeschickt,
+			aber er musste den Boten schon so viele andere Briefe mitgeben. Er wird die Notizen bald senden. Gruß an
+			<persName ref="8051">Anna [geb. Adlischwyler]</persName> und an die Kinder, auch von <persName ref="8018">Hallers</persName> Frau <persName ref="5131">[Elsbeth, geb. Kambli]</persName>. Empfehlung an
+			<persName ref="8127">Konrad Pellikan</persName> und <persName ref="8171">Theodor Bibliander</persName>. Gruß von <persName ref="8173">Birck</persName>, der gerade
+			anwesend ist.
+		</div>
+		<div ref="19">
+			[19] <persName ref="8018">Haller</persName> konnte den Brief nicht nochmals durchlesen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2744" page="96">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Non possum tibi describere, venerande pater, quanto in periculo non nostrae res modo, sed totius ecclesiae versentur!</s>
+				<s n="3" lang="la" state="auto">Scripsi proxime semel atque iterum.<fl>1</fl></s>
+				<s n="4" lang="la" state="auto">Anxius tuum expecto consilium et responsum.</s>
+				<s n="5" lang="la" state="auto">Declinant animi plurimorum apud nos.</s>
+				<s n="6" lang="la" state="auto">Ministri<fl>2</fl> tamen verbi sumus omnes concordes.</s>
+				<s n="7" lang="la" state="auto">Talis inter nos nunquam adhuc fuit concordia et consensus.</s>
+				<s n="8" lang="la" state="auto">Instamus, ne deficiant, ne impiis se tradant conditionibus, sed metuo parum nos effecturos.</s>
+				<s n="9" lang="la" state="auto">Plebs quidem constans est.</s>
+				<s n="10" lang="la" state="auto">Sed scis, quam sit mobile vulgus.<fl>3</fl></s>
+				<s n="11" lang="la" state="auto">Nisi recipiatur pax, diffugient divites et superiores omnes.</s>
+				<s n="12" lang="la" state="auto">Plebe autem habenas tenente sub equo equitabimus omnes.<fl>4</fl></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="13" lang="la" state="auto">Hac hora fertur etiam <placeName ref="492">Argentinenses</placeName> meditari, ut paciscantur cum caesare.<fl>5</fl></s>
+				<s n="14" lang="la" state="auto">Quod si fit, tanto maior dabitur nostris deficiendi occasio.</s>
+				<s n="15" lang="la" state="auto">Premimur rerum penuria, qua facile plebs vincetur.</s>
+				<s n="16" lang="la" state="auto"><placeName ref="513">Ulma</placeName>, per deum, omnes alias prodidit civitates.<fl>6</fl></s>
+				<s n="17" lang="la" state="auto"><placeName ref="1976">Augusta</placeName> solane manebit?</s>
+				<s n="18" lang="la" state="auto">Utinam vel sola maneret!</s>
+				<s n="19" lang="la" state="auto">Sperarem dominum non derelicturum nos, sed quoniam proditoribus et nebulonibus abundat urbs, non video, quomodo mansura sit constans.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="20" lang="la" state="auto">Reversi sunt in urbem <persName ref="19043">Fuggeri</persName>.<fl>7</fl></s>
+				<s n="21" lang="la" state="auto">Quid monstri alant,<fl>8</fl> nescio, sed facile coniicio hoc unum moliri, ut in aliquas pacis conditiones urbem trahant.</s>
+				<s n="22" lang="la" state="auto">Seditionem metuo valde eamque tandem nostris capitibus finiendam.<pb_edition start_of="97"/></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="23" lang="la" state="auto">Caesarem aiunt occupare ducatum <placeName ref="572">Wirtenbergensem</placeName>.</s>
+				<s n="24" lang="la" state="auto">Nescio quot iam occupasse oppida.</s>
+				<s n="25" lang="la" state="auto">Unde nobis nec vinum nec alia, quae ad commeatum, amplius subministrabuntur.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="26" lang="la" state="auto">Electorem<fl>9</fl> aiunt omnem ditionem suam iterum in fidem redegisse et ducem Mauritium<fl>10</fl> suo etiam ducatu privasse.</s>
+				<s n="27" lang="la" state="auto">De langrafio<fl>11</fl> etiam incerta multa.</s>
+				<s n="28" lang="la" state="auto">Illi, quoniam hoc belli tempore nihil nisi pecunias quaesiverunt et emunxerunt urbes, valde male apud nos audiunt, unde etiam tanto facilius ad pactum ineundum commovebuntur.</s>
+				<s n="29" lang="la" state="auto"><placeName ref="320">Memminga</placeName>, <placeName ref="45">Bibracum</placeName> et aliae civitates etiam declinant.<fl>12</fl></s>
+				<s n="30" lang="la" state="auto"><persName ref="8440">Gervasius</persName><fl>13</fl>, nescio quo spiritu indutus insano, pro publica concione laudat pium caesaris animum.</s>
+				<s n="31" lang="la" state="auto">Suadet, ut dedant se.</s>
+				<s n="32" lang="la" state="auto">Eum esse conversum; non enim quaerere evangelii internicionem<fl>14</fl>, sed nescio quae alia.</s>
+				<s n="33" lang="la" state="auto">Audio <persName ref="1055">Frechtum</persName> <placeName ref="513">Ulmae</placeName> quoque nimium in hanc rem concessisse.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="34" lang="la" state="auto">Sumus nos unanimes: Clamamus ad ravim usque,<fl>15</fl> poenitentiam ut nunquam antehac urgemus, sed non possumus efficere, ut abrogentur abusus, usura, blasphemiae, etc.</s>
+				<s n="35" lang="la" state="auto">Unde mihi non multum boni promitto.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="36" lang="la" state="auto">Age!</s>
+				<s n="37" lang="la" state="auto">Commendamus nos et ecclesiam domino, cuius est; qui solus est caput eius.<fl>16</fl></s>
+				<s n="38" lang="la" state="auto">Oportet probetur.<fl>17</fl><pb_scan n="45v."/></s>
+				<s n="39" lang="la" state="auto">Quid vero nobis in his turbis sit agendum, consule, obsecro.</s>
+				<s n="40" lang="la" state="auto">Dum steterint<fl>18</fl> apud veritatem, ad sanguinem usque manebimus.</s>
+				<s n="41" lang="la" state="auto">Ubi vero se tradiderint aut si eos se tradituros sentiamus, non puto ullo modo nobis esse manendum.</s>
+				<s n="42" lang="la" state="auto">Si inciderimus in manus eorum, erimus deo e superius contribuente spiritum suum animosi et alacres in testimonio Iesu.<fl>19</fl></s>
+				<s n="43" lang="la" state="auto">Si vero contigerit commoda elabendi occasio, utamur ea prudenter.</s>
+				<s n="44" lang="la" state="auto">Non enim possum manere apud hanc ecclesiam, quae societatem cum <persName ref="19785">Belial</persName><fl>20</fl> init; ubi non dabitur libera veritatis professio.</s>
+				<s n="45" lang="la" state="auto">Nolunt domini nostri remittere 3 fratres<fl>21</fl>, ne videantur defectionem meditari, quam tamen revera meditantur.</s>
+				<s n="46" lang="la" state="auto">In ministris tandem cudetur haec faba.<fl>22</fl></s>
+				<s n="47" lang="la" state="auto">Nobis enim sic instantibus aperte dicunt, annon insani simus?</s>
+				<s n="48" lang="la" state="auto">Quid cum plebe simus effecturi?</s>
+				<s n="49" lang="la" state="auto">Plebem ipsam in nos irruituram, ubi aliquid ipsi sit patiendum.</s>
+				<s n="50" lang="la" state="auto">In summa: Inter sacrum et saxum stamus.<fl>23</fl><pb_edition start_of="98"/></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="51" lang="de" state="auto"><la><placeName ref="587">Tigurini</placeName> bene faciunt, quod interdixerunt, ne quis abeat militatum,<fl>24</fl></la> dann<fl>25</fl> vil lüt, hoh und nider, redend den Eidtgnossen so übel, das mirs hertz bluͤten moͤcht.</s>
+				<s n="52" lang="de" state="auto">Wil gern sehen, was si usrichtind.</s>
+				<s n="53" lang="de" state="auto">Man sichts aber leider wol.</s>
+				<s n="54" lang="de" state="auto">Der <persName ref="2916">Schertlin</persName> laßt nun auch daugen<fl>26</fl> ins tüfels nammen vergülden.</s>
+				<s n="55" lang="la" state="auto">Privata quaerunt omnes!</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="56" lang="la" state="auto">D. <persName ref="8354">Laetus</persName> est etiam valde dubii animi, sicut ex literis eius<fl>27</fl> forte<fl>a</fl> intelligis.</s>
+				<s n="57" lang="la" state="auto">Nescit, quo se vertat.</s>
+				<s n="58" lang="la" state="auto">Illum solum ego suspicio, parique me cum ipso committam fortunae.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="59" lang="la" state="auto">Vellem, ut ad nos scriberent domini <placeName ref="587">Tigurini</placeName><fl>b</fl> et facerent aliquam redeundi spem, ne videremur ab eis in his periculis deseri prorsus.</s>
+				<s n="60" lang="la" state="auto">Si quid certius fieri senserimus, communi epistola ipsis significabimus.<fl>28</fl></s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="61" lang="la" state="auto">D. <persName ref="2336">Bernhardinus</persName><fl>29</fl> valde deiectus est.</s>
+				<s n="62" lang="la" state="auto">Novit enim is ingenia horum antichristianorum.</s>
+				<s n="63" lang="la" state="auto">Rogavit, ut ipsum tibi commendem.</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="64" lang="la" state="auto">D. Stanggarus<fl>30</fl> agit tibi magnas gratias pro oblata amicitia.</s>
+				<s n="65" lang="la" state="auto">Mittit tibi haec duo opuscula.<fl>31</fl></s>
+			</p>
+		</div>
+		<div ref_regest="13">
+			<p>
+				<s n="66" lang="la" state="auto"><persName ref="7197">Zollerus</persName><fl>32</fl> valet.</s>
+				<s n="67" lang="la" state="auto"><persName ref="6222">Heinrych Rychmuͦt</persName><fl>33</fl> torquem aureum (nisi me materia fallit) de collo depensum gestat hic; miror, si domi quoque.</s>
+				<s n="68" lang="la" state="auto">Alter eius comes <persName ref="4394">Braevaldus</persName><fl>34</fl> est honestus homo et gravis.<pb_edition start_of="99"/></s>
+			</p>
+		</div>
+		<div ref_regest="14">
+			<p>
+				<s n="69" lang="la" state="auto">Postridie consules eligentur.<fl>35</fl></s>
+				<s n="70" lang="la" state="auto">Si expectassent illi<fl>36</fl>, scripsissem quoque.</s>
+				<s n="71" lang="la" state="auto">Non tamen alios eligendos puto quam veteres: <persName ref="3927">Welserum</persName> scilicet et <persName ref="1410">Herbrotum</persName>.</s>
+				<s n="72" lang="la" state="auto"><persName ref="3927">Welser</persName> omnibus modis quaerit pacem.</s>
+				<s n="73" lang="la" state="auto">Alter non item, nisi me fallit iudicium eiusque dissona sunt ab animo verba.</s>
+			</p>
+		</div>
+		<div ref_regest="15">
+			<p>
+				<s n="74" lang="la" state="auto">Praeterea modo quod scribam, non habeo, nisi quod, si forte ad vos venerint iuvenes hi, <persName ref="17849" state="auto_name">Philippus Wirsung</persName><fl>37</fl>, Georgius et <persName ref="20157">David Weiß</persName><fl>38</fl>, <placeName ref="1976">Augustani</placeName>, qui iam <placeName ref="492">Argentinae</placeName> literis operam dant, habeatis eos propter honestissimos<pb_scan n="46r."/> ipsorum et satis opulentos parentes<fl>39</fl> commendatos, quorum alter, <persName ref="17849">Wirsungus</persName>,<fl>40</fl> est ex scholarchis unus.</s>
+				<s n="75" lang="la" state="auto">Hi me rogarunt, ut eos vobis commendarem, ut, si forte venerint Tigurum (scribent enim eis, ut Tigurum se recipiant), prospiciatis eis, apud honestum aliquem ut vivant virum.</s>
+				<s n="76" lang="la" state="auto">Sumptus largiter suppeditabuntur.</s>
+				<s n="77" lang="la" state="auto"><persName ref="8173">Xystus</persName><fl>41</fl> et ego erimus fideiussores.</s>
+				<s n="78" lang="la" state="auto">Afferent etiam sine dubio meas secum commendatorias<fl>42</fl>, quas a me impetratas parentes <placeName ref="492">Argentinam</placeName> mittunt, ut his fiat eis spes, quod Tiguri possint commodius nancisci hospitium.</s>
+			</p>
+		</div>
+		<div ref_regest="16">
+			<p>
+				<s n="79" lang="la" state="auto"><persName ref="8071">Voglerus</persName><fl>43</fl> ante paucos dies mihi confessus per scriptum ad me missum, quod ante annum, cum <placeName ref="291">Lindoae</placeName> ageret,<fl>44</fl> se ibi uxorem duxisse d. <persName ref="1271">Achillis<pb_edition start_of="100"/> Gassari</persName><fl>45</fl> sororis<fl>46</fl> filiam.<fl>47</fl></s>
+				<s n="80" lang="la" state="auto">Ea iam a d. <persName ref="1271">Achille</persName>, qui civis <placeName ref="1976">Augustanus</placeName> factus est,<fl>48</fl> ad se accersita; quam statim reperit <persName ref="8455">Voglerus</persName> eamque tam frequenter accessit, ut doctori fieret suspectus.</s>
+				<s n="81" lang="la" state="auto">Percontatus itaque prius ex sorore intelligit, quod eam duxerit.</s>
+				<s n="82" lang="la" state="auto">Deinde ipsum etiam allocutus <persName ref="8455">Voglerum</persName>, qui fassus est se eam duxisse eiusque opem implorat, ut et patri<fl>49</fl> reconcilietur et ut conditionem nanciscatur.</s>
+				<s n="83" lang="la" state="auto">Ego, ubi hoc ex ipso intellexi, adii d. <persName ref="1271">Achillem</persName>, num ita se res habeant, rogatum.</s>
+				<s n="84" lang="la" state="auto">Illum sentio rem urgere nec facile <persName ref="8455">Voglerum</persName> hic elabi posse.</s>
+				<s n="85" lang="la" state="auto">Scripsi ergo hac de re ad d. <persName ref="8049">Vadianum</persName> d. <persName ref="1271">Achille</persName> sic suadente, si forte is praebuerit se commodum mediatorem inter <persName ref="8455">Voglerum</persName> seniorem et doctorem <persName ref="1271">Achillem</persName>, utrumque sibi familiarem.</s>
+				<s n="86" lang="la" state="auto">Non igitur est, ut tu quicquam ei<fl>50</fl>, nisi commode fieri posset, indices.</s>
+				<s n="87" lang="la" state="auto">Ego ipse etiam scribam ei.</s>
+				<s n="88" lang="la" state="auto">Volui tantum tibi significare, si quid praeberes consilii.</s>
+				<s n="89" lang="la" state="auto">Est ipsa virgo honesta, sed nescio, quam donata.</s>
+			</p>
+		</div>
+		<div ref_regest="17">
+			<p>
+				<s n="90" lang="la" state="auto">Rescribas ocius, oro, ut vel aliquantulum in his turbis respirem.</s>
+				<s n="91" lang="la" state="auto">Cessant omnia mea studia.</s>
+				<s n="92" lang="la" state="auto">Aegre conciones meas compono.</s>
+				<s n="93" lang="la" state="auto">Sacra tantum lego.</s>
+				<s n="94" lang="la" state="auto">Animus ita distrahitur, non metu, sed perplexitate rei, ut et ad preces non tam sim, quam me velim esse, habilis.</s>
+			</p>
+		</div>
+		<div ref_regest="18">
+			<p>
+				<s n="95" lang="la" state="auto">D. <persName ref="8011">Gvalthero</persName> dic salutem.</s>
+				<s n="96" lang="la" state="auto">Remisissem ei in epistolam ad Hebraeos memorialia, nisi alias literis multis onerassem nuncios.</s>
+				<s n="97" lang="la" state="auto">Mittam brevi.<fl>51</fl></s>
+				<s n="98" lang="la" state="auto">Salutabis etiam uxorem<fl>52</fl> et liberos<fl>53</fl> dulcissimos.</s>
+				<s n="99" lang="la" state="auto">Salutat te mea.<fl>54</fl></s>
+				<s n="100" lang="la" state="auto">Valere cupio d. <pb_edition start_of="101"/> <persName ref="8127">Pellicanum</persName>, d. <persName ref="8171">Theodorum</persName><fl>55</fl> aliosque venerandos patres et fratres.</s>
+				<s n="101" lang="la" state="auto">Iubet te salvere d. <persName ref="8173">Xystus</persName> plurimum, qui, dum haec scribo, mecum est.</s>
+				<s n="102" lang="la" state="auto"><placeName ref="1976">Augustae Vindelicorum</placeName>, 7. ianuarii 1547.</s>
+			</p>
+		</div>
+		<div ref_regest="19">
+			<p>
+				<s n="103" lang="la" state="auto">Ignosce.</s>
+				<s n="104" lang="la" state="auto">Relegere non licuit.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="105" lang="la" state="auto">Clarissimo viro d. Heinrycho Bullingero, fidelissimo <placeName ref="587">Tigurinae</placeName> ecclesiae pastori, domino et patri suo venerando.</s>
+				<s n="106" lang="de" state="manual">M. Heinrych Bullinger.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2744">
+		<alpha>
+			<fn ref="a"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="b"><i>Über der Zeile nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Bezug auf die Briefe vom 23. und 27. Dezember 1546 <i>(HBBW XVIII,</i> <link fk_file="12770">Nr. 2723</link>. 2726).</fn>
+			<fn ref="2">Zu den Namen der damals in <placeName ref="1976">Augsburg</placeName> wirkenden Pfarrer s. <bibl>HBBW</bibl> XVII 379, Anm. 46.</fn>
+			<fn ref="3">mobile vulgus: s. dazu <bibl>TPMA</bibl> XII 278, Nr. 1.1.</fn>
+			<fn ref="4">Gemeint ist: Wenn aber das Volk die Herrschaft übernimmt, werden wir alle nichts mehr zu sagen haben.</fn>
+			<fn ref="5"><persName ref="18538">Karl V.</persName> - Zu den um den 4. Januar 1547 stattfindenden Beratungen der <placeName ref="492">Straßburger</placeName> über eine etwaige Verständigung mit dem Kaiser s. <bibl>PC</bibl> IV/1 556f, <link fk_file="10550">Nr. 514</link> (mit Anm. 2 zur Datierung).</fn>
+			<fn ref="6">Zu <placeName ref="513">Ulms</placeName> Ergebung s. <link fk_file="12783">Nr. 2734</link>, Anm. 4. - Bei ihren Friedensverhandlungen bemühten die <placeName ref="513">Ulmer</placeName> sich, auch die anderen süddeutschen Städte einzubeziehen.</fn>
+			<fn ref="7">Unter anderem <persName ref="19043">Anton Fugger</persName>, der am 3. Januar 1547 aus <placeName ref="506">Schwaz</placeName> in <placeName ref="777">Tirol</placeName> nach <placeName ref="1976">Augsburg</placeName> zurückgekehrt war; s. <bibl>Kirch, Fugger</bibl> 119.</fn>
+			<fn ref="8">Vgl. <bibl>Adagia</bibl> 2, 4, 98 <i>(ASD</i> II/3 394, <link fk_file="11441">Nr. 1398</link>).</fn>
+			<fn ref="9"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="10"><persName ref="18250">Moritz von Sachsen</persName>.</fn>
+			<fn ref="11"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="12">Siehe dazu s. <link fk_file="12790">Nr. 2741</link>, Anm. 4.</fn>
+			<fn ref="13"><persName ref="8440">Gervasius Schuler</persName>.</fn>
+			<fn ref="14">= internecionem.</fn>
+			<fn ref="15">Siehe <bibl>Adagia</bibl> 4, 1, 70 <i>(ASD</i> II/7 82, <link fk_file="13119">Nr. 3070</link>).</fn>
+			<fn ref="16">Vgl. Eph 1, 22; 5 23; Kol 1,18.</fn>
+			<fn ref="17">Vgl. Sach 13; 1Kor 3, 13.</fn>
+			<fn ref="18">Gemeint sind die <placeName ref="1976">Augsburger</placeName> Obrigkeit und Bevölkerung.</fn>
+			<fn ref="19">Vgl. Apk 1, 9; 12, 17; 19, 10; 20, 4.</fn>
+			<fn ref="20">Teufel; vgl. 2Kor 6, 15.</fn>
+			<fn ref="21"><persName ref="8130">Lorenz Meyer (Agricola)</persName>, <persName ref="2812">(Hans) Thoman Ruman (Römer)</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.</persName> - Der Zürcher Rat hatte mit einem Brief vom 14. Dezember 1546 (s. <bibl>HBBW</bibl> XVIII 444, Anm. 4) den <placeName ref="1976">Augsburger</placeName> Rat aufgefordert, die Zürcher Pfarrer in <placeName ref="1976">Augsburg</placeName> nach Zürich zurückkehren zu lassen. Die <placeName ref="1976">Augsburger</placeName> Behörden kamen aber dieser Bitte nicht nach und schrieben den Zürchern am 7. Januar 1547 (Zürich StA, A 202.1, Nr. 21), dass sie die Pfarrer nicht entbehren könnten.</fn>
+			<fn ref="22">Die Pfarrer werden dafür bezahlen müssen. - Zum Sprichwort s. <bibl>Adagia</bibl> 1, 1, 84 <i>(ASD</i> II/1 192, Nr. 84).</fn>
+			<fn ref="23">Vgl. <bibl>Adagia</bibl> 1, 1, 15 <i>(ASD</i> II/1 128f, Nr. 15).</fn>
+			<fn ref="24">Dieser Entschluss wurde wohl während der letzten Oktobertage 1546 gefasst, nachdem die Vier Orte sich gegen einen Eintritt in den Krieg auf Seiten der Schmalkaldener entschieden hatten (s. <bibl>HBBW</bibl> XVIII 34-36), es sei denn, dass <persName ref="8018">Haller</persName> an die abschlägige Antwort der Zürcher auf die vom <placeName ref="1976">Augsburger</placeName> Rat am 13. Juni 1546 an <placeName ref="587">Zürich</placeName> gerichtete Bitte um Soldaten denkt; s. <bibl>HBBW</bibl> XVII 88 und Anm. 2.</fn>
+			<fn ref="25">denn.</fn>
+			<fn ref="26">Dauben, Faßbretter; s. <i>FNHDW</i> V 287 s.v. Dauge. -Der Sinn dieses Sprichwortes ist unklar. Vermutlich wirft <persName ref="8018">Haller</persName> dem Schertlin vor, sich während des Krieges sehr bereichert zu haben; s. dazu <bibl>Schertlin, Leben</bibl> 63. Im NT wird das Geld mit Mammon (dem Teufel) in Zusammenhang gebracht; s. Mt 6, 24 par.</fn>
+			<fn ref="27">Die Briefe <link fk_file="12790">Nr. 2741</link> und <link fk_file="12791">Nr. 2742</link>.</fn>
+			<fn ref="28">Dazu kam es mit einem am 18. Januar 1547 von <persName ref="8018">Haller</persName> verfassten, aber ebenfalls von den drei anderen Zürcher Pfarrern unterschriebenen Brief an Bürgermeister und Rat von <placeName ref="587">Zürich</placeName> (<placeName ref="587">Zürich</placeName> StA, A 177, <link fk_file="10191">Nr. 160</link>). Der unter der Adresse angebrachte Zürcher Kanzleivermerk lautet: "Bericht, dass <placeName ref="1976">Augspurg</placeName> sich mit dem Keyser accommodiert habe, und pitt, dass man sie widerumb heimbberüffen wolle".</fn>
+			<fn ref="29"><persName ref="2336">Bernardino Ochino</persName>.</fn>
+			<fn ref="30"><persName ref="3018">Francesco Stancaro</persName>.</fn>
+			<fn ref="31">Um welche Schriften es sich handelte, ist unbekannt. Im Jahr 1546 hatte <persName ref="3018">Stancaro</persName> den Einblattdruck Rabinorum recentiorum et Anabaptistarum falsa opinio de duobis Messiis, priscorum Thalmudistarum authoritatibus confutata, <placeName ref="337">Neuburg a.d. Donau</placeName>, <persName ref="18111">Johann Kilian</persName> (Exemplar in <placeName ref="587">Zürich</placeName> ZB, Signatur: EDR 1546 Ia,1) publiziert. - <persName ref="3018">Stancaro</persName> bedankte sich mit den beiden Schriften für Bullingers Buchgeschenk von Ende 1546; s. <bibl>HBBW</bibl> XVIII 434 mit Anm. 62.</fn>
+			<fn ref="32"><persName ref="7197">Hans Wilpert Zoller d.J.</persName></fn>
+			<fn ref="33">Der Zürcher <persName ref="6222">Heinrich Richmut</persName>, der im Schmalkaldischen Krieg als Hauptmann fungierte; s. <bibl>HBBW</bibl> XVIII 207, Anm. 28.</fn>
+			<fn ref="34" type="bio" fk_person="4394">Vielleicht ist damit <persName ref="4394">Hans Jakob Brennwald</persName> "der Mehrer", noch wahrscheinlicher aber dessen Sohn "der Minder" (ab 1552 Zünfter zur Safran in <placeName ref="587">Zürich</placeName>) gemeint. Zwischen den <entity id="2" type="group">Familien Brennwald</entity> und <persName ref="18476">Richmut</persName> sind Beziehungen nachgewiesen; s. Stefan <i>Schöbi,</i> Notz, Escher und Engelhard. Die Funktionen des städtischen Theaters am Beispiel von Jakob Rufs Weingarten-Aufführung 1539. Mit Biographie der 66 Spieler, in: Die Anfänge der Menschwerdung. Perspektiven zur Medien-, Medizin- und Theatergeschichte des 16. Jahrhunderts, hg. v. Hildegard Elisabeth Keller, <placeName ref="587">Zürich</placeName> 2008 -Jakob Ruf. Leben, Werk und Studien 5, S. 166f. -Wäre vielleicht der hier gemeinte <persName ref="4394">Brennwald</persName> mit dem in <bibl>HBBW</bibl> XVIII 207 und Anm. 34 namentlich nicht angeführten Leutnant, der im Dienste des Hauptmanns <persName ref="6222">Heinrich Richmut</persName> stand, identisch?</fn>
+			<fn ref="35">Zum Datum der Bürgermeisterwahlen in <placeName ref="1976">Augsburg</placeName> s. <bibl>HBBW</bibl> XVI 261f, Anm. 20. Gewählt wurden für das Jahr 1547 <persName ref="1410">Jakob Herbrot</persName> und <persName ref="3927">Hans Welser</persName>; s. <i>Roth, <placeName ref="1976">Augsburg</placeName></i> III 463.</fn>
+			<fn ref="36">Damit sind die Überbringer des vorliegenden Briefes gemeint.</fn>
+			<fn ref="37" type="bio" fk_person="17849">Philipp Wirsung, Sohn des <placeName ref="1976">Augsburger</placeName> Apothekers <persName ref="17849">Christoph Wirsung</persName> (s. <i><placeName ref="1976">Augsburger</placeName> Eliten</i> 974f). Philipps Geburtsjahr ist auf 1532 oder 1531 anzusetzen; s. Istvan Bejczy und Michiel Verweij, Die "Institutio scholae christianae" (1534) von Gerard Geldenhouwer. Kritische Ausgabe mit Kommentar, in: Humanistica Lovaniensia 49, 2000, S. 56f. Er wurde im Juli 1553 Prokurator der deutschen Nation in <placeName ref="377">Padua</placeName>, dort auch Doktor der Medizin und starb am 15. Oktober 1563 in <placeName ref="1976">Augsburg</placeName>; s. Matricula Nationis Germanicae Artistarum in Gymnasio Patavino (1553-1721), hg. v. Lucia Rossetti, Padova 1986 - Fonti per la Studia dell' Università di Padova 10, S. 4, Nr. 3.</fn>
+			<fn ref="38" type="bio" fk_person="6997"><persName ref="20157">David Weiß</persName> (geb. 1531, gest. 1593); s. <i><placeName ref="1976">Augsburger</placeName> Eliten</i> 900f.</fn>
+			<fn ref="39" type="bio" fk_person="6997">Die Eltern von David und demzufolge von dessen bislang nicht nachgewiesenem Bruder <persName ref="17943">Georg Weiß</persName> waren <persName ref="6997">Leonhard II. Weiß</persName> und Anna Volz; s. <i><placeName ref="1976">Augsburger</placeName> Eliten</i> aaO.</fn>
+			<fn ref="40"><persName ref="17849">Christoph Wirsung</persName> gehörte seit 1543 den Ratsherren an, die den <placeName ref="1976">Augsburger</placeName> Schulbeirat unterstützten; s. Gerhard <i>Gensthaler,</i> Das Medizinalwesen der Freien Reichsstadt <placeName ref="1976">Augsburg</placeName> bis zum 16. Jh. mit Berücksichtigung der ersten Pharmakopöe von 1564 und ihrer weiteren Ausgaben, <placeName ref="1976">Augsburg</placeName> 1973, S. 64.</fn>
+			<fn ref="41"><persName ref="8173">Sixt Birck (Betuleius)</persName>.</fn>
+			<fn ref="42">literas commendatorias.</fn>
+			<fn ref="43"><persName ref="8071">Hans Vogler d.J.</persName>, der in Anbetracht der folgenden Angaben damals noch in <placeName ref="1976">Augsburg</placeName> lebte.</fn>
+			<fn ref="44"><persName ref="8071">Vogler d.J.</persName>, der sich seit Februar 1546 in <placeName ref="1976">Augsburg</placeName> befand (s. <bibl>HBBW</bibl> XVI 190. 192). Laut vorliegendem Brief hatte er sich zuvor eine Zeitlang in <placeName ref="291">Lindau</placeName> aufgehalten. Demzufolge sind die chronologischen Angaben zum <placeName ref="291">Lindauer</placeName> Aufenthalt von Vogler d.J. in Rainer <i>Henrich,</i> Vom Luftikus zum Münzwerkregierer. Die Karriere <persName ref="8071">Hans Voglers d.J.</persName> von Zürich (1524-1574/75), in: Von Cyprian zur Walzenprägung. Streiflichter auf Zürcher Geist und Kultur der Bullingerzeit. Prof. Dr. Rudolf Schnyder zum 70. Geburtstag, hg. v. Hans Ulrich Bächtold, Zug 2001.- Studien und Texte zur Bullingerzeit 2, S. 76f, zu korrigieren. Henrich wusste damals noch nicht, dass <persName ref="8071">Vogler d.J.</persName> so früh nach <placeName ref="1976">Augsburg</placeName> kam.</fn>
+			<fn ref="45"><persName ref="1271">Dr. Achilles Pirmin Gasser</persName>, <placeName ref="1976">Augsburger</placeName> Stadtarzt.</fn>
+			<fn ref="46" type="bio" fk_person="4905">Die offenbar verwitwete <persName ref="4905">Euphemia, geb. Gasser</persName>, aus <placeName ref="291">Lindau</placeName>; s. <i>Henrich,</i> aaO, 78.</fn>
+			<fn ref="47" type="bio" fk_person="4991"><persName ref="4991">Maria Grafner</persName>; s. <i>Henrich,</i> 78f. - Sie wird letztmals erwähnt in einem Brief <persName ref="8071">Voglers d.J.</persName> an seine Schwester Anna im Sommer 1569; s. <i>Henrich,</i> aaO, 79.</fn>
+			<fn ref="48" type="bio" fk_person="1271"><persName ref="1271">Gasser</persName> war 1546 nach <placeName ref="1976">Augsburg</placeName> gekommen und hatte durch seine Eheschließung mit der <placeName ref="1976">Augsburger</placeName> Witwe Anna Tucher, geb. Ehem, das Bürgerrecht erhalten; s. Karl Heinz <i>Burmeister,</i> <persName ref="1271">Achilles Pirmin Gasser</persName>. 1505-1577. Arzt und Naturforscher. Historiker und Humanist, Bd. 1: Biographie, Wiesbaden 1970, S. 109.</fn>
+			<fn ref="49"><persName ref="8455">Hans Vogler d.Ä.</persName></fn>
+			<fn ref="50">Gemeint ist <persName ref="8455">Vogler d.Ä.</persName></fn>
+			<fn ref="51">Der nächstbekannte Brief <persName ref="8018">Hallers</persName> an <persName ref="8011">Gwalther</persName> datiert vom 1. Februar 1547 (<placeName ref="587">Zürich</placeName> ZB, Ms F 39, 242f), allerdings werden dort diese Notizen zu <persName ref="8011">Gwalthers</persName> Predigtreihe über den Hebräerbrief nicht erwähnt. Aus <link fk_file="12893">Nr. 2844</link>,41-43, geht zudem hervor, dass <persName ref="8018">Haller</persName> sie am 12. März immer noch nicht abgeschickt hatte. - <persName ref="8011">Gwalther</persName> hielt diese Predigten zwischen dem 6. November 1542 und dem 26. Juni 1543 in St. Peter ab (<placeName ref="587">Zürich</placeName> ZB, Ms D 247, <link fk_file="10210">Nr. 179</link>r.-249v.). Sie wurden erstmals posthum unter dem Titel In divi Pauli apostoli epistolas omnes d. Rodolphi Gvaltheri ... homiliarum archetypi, <placeName ref="587">Zürich</placeName> 1589 <i>(VD16</i> W1091; <i>BZD</i> Cl 121), veröffentlicht. Wir danken Kurt Jakob Rüetschi für diese Angaben.</fn>
+			<fn ref="52" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="53">Zu deren Namen s. <link fk_file="12784">Nr. 2735</link>, Anm. 10.</fn>
+			<fn ref="54" type="bio" fk_person="5131"><persName ref="5131">Elsbeth, geb. Kambli</persName>.</fn>
+			<fn ref="55"><persName ref="8171">Theodor Bibliander</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

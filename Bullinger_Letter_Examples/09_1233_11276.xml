@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11276" id_hbbw="1233" id_irg_sort="1233" id_sort="112330">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11276</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1233</arpa>
+		<scan_pages/>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22872" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22873" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11276">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">1</day>
+			</min>
+			<max fk_d="0" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">15</day>
+			</max>
+		</date>
+		<documents/>
+		<literatures/>
+		<prints>
+			<print id="7393" fk_bib="0">
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>De origine erroris libri duo Heinrychi Bullingeri, Zürich 1539, f. 1r.–3r. (Widmungsvorrede)</entry>
+			</print>
+			<print id="7394" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>La source d’erreur erreur ..., Genf 1550, S. 21–27</entry>
+			</print>
+			<print id="7395" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Vom Ursprung ..., Heidelberg 1574, f. 11v.–12r.</entry>
+			</print>
+			<print id="7396" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Vanden oorspronc der dvvalinghe ..., Dordrecht 1582, f. *3v.-*4r.</entry>
+			</print>
+			<print id="11083" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1233, S. 70</entry>
+				<page>70</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="44">
+				<lang id="5" iso="la" count="44" p="100.0"/>
+			</sentences>
+			<words count="1021">
+				<lang id="5" iso="la" count="1021" p="100.0"/>
+			</words>
+			<chars count="6353">
+				<lang id="5" iso="la" count="6353" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1233" page="70">
+		<div ref="1">
+			Verteidigt sein Buch gegen die zu erwartende Kritik und weist darauf hin, daß er die gesamte Thematik
+			leichtverständlich und systematisch abgehandelt hat, anders als frühere Autoren, deren Werke er dennoch
+			schätzt und bei Gelegenheit zitiert; da einflußreiche Kreise alles tun, um die Anrufung der Heiligen und den
+			Bilderkult als christlich auszugeben, veröffentlicht er seine Schrift gerade jetzt. Er stellt darin zunächst
+			dem Glauben der Alten Kirche die Irrtümer der Heiden, Juden und Christen gegenüber und geht dann auf die
+			Lehre der Väter und die Einwände der Gegner ein, um darzulegen, daß Gott allein angerufen werden soll;
+			weiter untersucht er die Anfänge der Bilderverehrung, legt Gottes Gebot dazu aus, berichtet über den Streit
+			um die Bilder, beweist, daß kein Unterschied zwischen heidnischem und christlichem Bilderdienst besteht, und
+			schließt mit der Warnung vor jeder Abgötterei. Die vor fast 15 Jahren nach dem Vorbild von
+			<persName ref="19001">Laktanz</persName> entworfene Schrift hat er bereits vor 10 Jahren publiziert;
+			da seither keine gründlichere Abhandlung zu diesem Thema erschienen ist, hat er das Buch nochmals völlig
+			überarbeitet und erweitert, ohne die Grundaussage zu verändern. Widmet auch diese Ausgabe, wie bereits die
+			erste, dem weithin angesehenen <persName ref="8055">Blarer</persName>.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1233" page="70">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">In librum De origine erroris circa invocationem et cultum deorum ac simulachrorum ad d. <persName ref="8055">Ambrosium Blaurerum</persName> <placeName ref="457">Constantiensem</placeName> praefatio.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Scio mihi non defuturos adversarios, qui et argumentum, quod in hoc libro tracto, et modum, quo trado, prorsus sint damnaturi, verum consolabitur me conscientia mea coram domino.</s>
+				<s n="3" lang="la" state="auto">Novi enim, quid spectaverim; novit ipse cordium scrutator dominus<fl>6</fl>, quod ista non in contumeliam fidei rectae et sanctorum, sed in gloriam dei multorumque hominum salutem aediderim.</s>
+				<s n="4" lang="la" state="auto">Modum in tradendo sequutus sum, qui maxime videbatur perspicuus esse et huic negotio congruere.</s>
+				<s n="5" lang="la" state="auto">Simpliciter expono omnia.</s>
+				<s n="6" lang="la" state="auto">Utor oratione vulgari minimeque picturata aut elaborata.</s>
+				<s n="7" lang="la" state="auto">Hoc enim religionis<pb_edition start_of="71"/> caussa omni fuco carens, syncera et simplex, eorum item conditio poscere videbatur, in quorum gratiam ista scribebam.</s>
+				<s n="8" lang="la" state="auto">Chrysippea acumina<fl>7</fl> et superstitiosulos quosdam dictionis admiratores censoresque nihil moror.</s>
+				<s n="9" lang="la" state="auto">Tractarunt ante me quidem partem huius argumenti homines sancti et docti, quorum alii etiamnum vivunt, alii concesserunt ad dominum; pauci vero aut nulli de origine erroris totoque superstitionis negotio ex professo et ordine certo disseruerunt.</s>
+				<s n="10" lang="la" state="auto">Extant enim eorum opera, in quibus per partes nunc de invocatione divorum, nunc de simulachrorum cultu disputarunt; nonnun-<pb_scan n="1v."/>quam et alia interim agentes per occasionem istarum rerum meminerunt.</s>
+				<s n="11" lang="la" state="auto">Ego vero totum illud superstitionis negotium in compendium contraxi, de hoc tantum disserui totumque semel oculis lectorum spectandum proposui.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Quod sicubi usus postulabat aut in illorum libris elegans sententia aut evidens extabat argumentum, hisce nostris inserui.</s>
+				<s n="13" lang="la" state="auto">Merito enim piorum hominum lucubrationes magni aestimo, utpote quorum ministerio ad bonum ecclesiae suae utitur dominus et quorum spiritus nunc vivunt apud dominum; tantum abest, ut vel tantillum de laudibus piorum hisce nostris diminutum cupiam.</s>
+				<s n="14" lang="la" state="auto">Atqui hoc tempore et saeculo ista eo potissimum nomine publico, quod videam potentes, doctos, principes et maximae existimationis viros vafris artibus, disputationibus et concionibus ingeniosis, aedictis publicis, modis denique omnibus id conari, ut tota Christi fidelium ecclesia divorum intercessionem et invocationem, sed et simulachrorum usum et cultum in templis agnoscat et confiteatur apostolicum, antiquum, orthodoxum et rectum esse.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto">Ideo enim in priore operis parte, quid prophetae et apostoli apostolicaque ecclesia de deo, eius invocatione et cultu senserit atque crediderit, ostendo.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">His oppono superstitionem, ubi dissero de primis caussis et initiis erroris apud gentes, Iudaeos et christianos.</s>
+				<s n="17" lang="la" state="auto">Neque ob aliud ibidem de gentium superstitionibus disputo copiosius, quam quod sub finem libri collationem subiicio inter superstitionem gentilium et christianorum, ut iam mox ab initio colliquescat id a nobis nulla fieri cum pietatis iniuria.</s>
+				<s n="18" lang="la" state="auto">In Iudaeorum superstitionibus et idololatriis declarandis ideo diutius immoror, quod ex illis quoque nostrae melius cognosci posse videban-<pb_scan n="2r."/>tur.</s>
+				<s n="19" lang="la" state="auto">Iam in inquirendis originibus nostrae superstitionis altius rem repetii.</s>
+				<s n="20" lang="la" state="auto">Excutio enim sanctorum quorundam patrum super hac re sententias, quibus tamen nolui, quod videri poterat, cornicum oculos, ut dici solet, configere<fl>8</fl>, sed veritati patrocinari, quae sane omnium hominum ac patrum existimationi anteferenda est.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Hoc consilio respondi etiam ad singulas adversariorum obiectiones, quas licet paucis, bona tamen fide recensui, bona fide item discussi, sed quam feliciter, iudicabunt lectores.</s>
+				<s n="22" lang="la" state="auto">Et haec quidem disputata hactenus concludo assertione invocationis divini nominis et intercessionis domini nostri Iesu Christi.</s>
+				<s n="23" lang="la" state="auto">Hic enim alter disputationis nostrae scopus est, solum deum per<pb_edition start_of="72"/> Christum unice esse in omnibus invocandum, non deos, non divos neque ullam quantumvis excellentem creaturam.</s>
+				<s n="24" lang="la" state="auto">Progredior amplius et dissero iam etiam de initiis et progressu idololatriae, quę dogma illud de intercessione, invocatione et cultu divorum sequuta est.</s>
+				<s n="25" lang="la" state="auto">Expono caussas, propter quas quibusdam videbatur imagines in templa christianorum esse recipiendas; his argumenta adiicio, quibus tuentur receptas.</s>
+				<s n="26" lang="la" state="auto">Ex opposito lege dei prolata et exposita, quae contra idola legitur promulgata Exodi 20[1-6], adversariorum argumenta dissolvo.</s>
+				<s n="27" lang="la" state="auto">Ubi ex historiis recenseo, quantum incendium excitarit in ecclesia Christi et quantum malum toti orbi christiano dederit infelix illa inter orientales et occidentales de usu imaginum Christi et sanctorum in christianorum templis concertatio<fl>9</fl>.</s>
+				<s n="28" lang="la" state="auto">Postremo, cum adversarii omnes huc ceu ad sacram ancoram<fl>10</fl> confugiant, quod alia fuerit ratio in superstitione et idolorum cultu gentilium, alia in cultu divorum et imaginum apud christianos, ego collatione quadam demonstro eun-<pb_scan n="2v."/>dem esse cultum, superstitionem eandem deorum idolorumque apud gentes et divorum ac imaginum apud christianos.</s>
+				<s n="29" lang="la" state="auto">Hanc vero disputationem concludens tandem iustis caussis in medium prolatis ostendo, quantopere cavere oporteat idololatriam et omnem peregrinum cultum, quem dominus tantopere odit ac execratur.</s>
+				<s n="30" lang="la" state="auto">Qui certe alter huius disputationis nostrae status est, videlicet christiano homini constanti fide fugiendam esse omnem idololatriam, deum enim eum approbare cultum, qui spiritu, fide et integritate constat<fl>11</fl>.</s>
+			</p>
+			<p>
+				<s n="31" lang="la" state="auto">Hoc argumentum tractaveram ante annos propemodum 15 et chartis quibusdam per exercitationem imitationemque<fl>a</fl> Lactantii<fl>12</fl> illeveram.</s>
+				<s n="32" lang="la" state="auto">Cumque ante annos 10 in illas forte incidissem et fratribus doctis et piis communicassem<fl>13</fl>, videbatur iis operaepretium fore, si publicarem, profuturum enim, ut si non ad aliud, ad hoc saltem, quod mea lucubratione nobiliora ingenia excitari posse crederent, quae utile alias et necessarium nostris saeculis argumentum doctius et felicius tractarent.</s>
+				<s n="33" lang="la" state="auto">Feci tum, quod iubebant, et opusculum De origine erroris in divorum et simulachrorum cultu aedidi.</s>
+				<s n="34" lang="la" state="auto">Interea vero, quid alii quoque proferrent, expectavi, interea et huius argumenti in scripturis, patribus et historiis observavi plurima; tandem, cum nemo prodit, qui meliora proponat, in medium, opusculum illud<fl>b</fl> meum denuo in manus<pb_edition start_of="73"/> sumo, recognosco adeoque et regenero.</s>
+				<s n="35" lang="la" state="auto">Crevit autem opus in ipsis, quod dici solet, manibus nostris<fl>14</fl>, et in tantum crevit, ut, si conferas cum priore, triplo prope excedat, imo prius illud nequaquam agnoscas.</s>
+				<s n="36" lang="la" state="auto">Argumentum quidem idem est, veritas eadem, neque vel tantillum in sententiae summa mutatum dicet, qui utraque conferet; diligentius, ni fallor, et copio-<pb_scan n="3r."/>sius nunc omnia tractavi.</s>
+				<s n="37" lang="la" state="auto">Neque id vituperabunt in me lectores aequi, qui hoc ipsum laudarunt in aliis.</s>
+			</p>
+			<p>
+				<s n="38" lang="la" state="auto">Dedicaram autem primam illam operis nostri foeturam nomini tuo<fl>15</fl>, <persName ref="8055">Ambrosi</persName> clarissime, quam tu pro tua admirabili humanitate perbenigne recipiebas<fl>16</fl>, unde nunc quoque pergratum tibi fore credebam, si idem liber iam tamen aliquanto opulentior, cultior habitiorque sub tuo nomine prodiret denuo in publicum.</s>
+				<s n="39" lang="la" state="auto">Multi nimirum viri boni haec nostra non tam meo quam tuo nomine legent.</s>
+				<s n="40" lang="la" state="auto">Nam virtus tua commendavit te omnibus bonis vel apud exteras nationes illam praedicantibus.</s>
+				<s n="41" lang="la" state="auto">Praedicant illam celebres per Sveviam ecclesiae, ante alias vero in primis illustris et vere constans<fl>17</fl> <placeName ref="457">Constantiensis</placeName> ecclesia, doctrina et fide sana, patientia invicta, puritate charitateque celebri multo clarissima.</s>
+				<s n="42" lang="la" state="auto">Lucubratio ipsa nil, opinor, impuritatis habet, imo in assertionem purae et syncerae religionis conscripta est; igitur non gravaberis huius mecum commune sumere patrocinium.</s>
+				<s n="43" lang="la" state="auto">Dominus Iesus adsit nobis et dirigat corda et ora nostra in gloriam nominis sui.</s>
+				<s n="44" lang="la" state="manual">Amen.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1233">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> immitationemque.</fn>
+			<fn ref="b"><i>in der Vorlage</i> illum.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Die dem Widmungsschreiben vorangestellte Vorrede trägt das Datum "mense martio 1539". Mit dem Druck war bereits vor Mitte Februar begonnen worden (s. oben <link fk_file="11268">Nr. 1225</link>). Am 7./8. März lag das fertige Werk vor (s. unten <link fk_file="11279">Nr. 1236</link>, am Schluß des Briefes, bzw. 1237, 16-24), und am 7. April verdankte <persName ref="8055">Blarer</persName> das ihm zugesandte Exemplar (s. unten <link fk_file="11293">Nr. 1250</link>, 21-33).</fn>
+			<fn ref="2" meta="1">Vorrede zum ersten Buch von "De origine erroris". Zur Neubearbeitung der 1529 bzw. 1528 erstmals erschienenen zwei Bücher über die Bilderverehrung und die Messe s. <bibl>HBBibl</bibl> I 12 sowie unten <link fk_file="11280">Nr. 1237</link>, 16-19 mit Anm. 7. Bereits die Erstausgabe des ersten Buchs (<bibl>HBBibl</bibl> I 11) war <persName ref="8055">Blarer</persName> gewidmet; s. unten Z. 91-93 mit Anm. 14.</fn>
+			<fn ref="3" meta="1">Vgl. <bibl>HBBibl</bibl> I 16.</fn>
+			<fn ref="4" meta="1">Vgl. <bibl>HBBibl</bibl> I 18.</fn>
+			<fn ref="5" meta="1">Vgl. <bibl>HBBibl</bibl> I 21.</fn>
+			<fn ref="6">Vgl. 1Chr 28, 9 u. ö.</fn>
+			<fn ref="7">Der Stoiker <persName ref="19907">Chrysipp</persName> galt als hervorragender Dialektiker; vgl. <bibl>LAW</bibl> 624.</fn>
+			<fn ref="8">die Alten als unwissend hinstellen; vgl. <bibl>Adagia</bibl>, 1, 3, 75 (<bibl>LB</bibl> II 140).</fn>
+			<fn ref="9">In den Kapiteln 25 und 26 handelt Bullinger vom byzantinischen Bilderstreit des 8. Jahrhunderts und führt die Entstehung des von Byzanz getrennten abendländischen Kaisertums darauf zurück.</fn>
+			<fn ref="10">Vgl. Adagia, 1, 3, 43 (<bibl>LB</bibl> II 130).</fn>
+			<fn ref="11">Vgl. Joh 4, 23f.</fn>
+			<fn ref="12">In der ungedruckten Erstfassung seiner Schrift lehnte sich Bullinger vor allem an die ersten zwei Bücher der "Divinae institutiones" von <persName ref="19001">Laktanz</persName> an; vgl. Willy <i>Rordorf</i> <persName ref="19001">Laktanz</persName> als Vorbild des jungen Bullinger, in: Bullinger-Tagung 1975. Vorträge, gehalten aus Anlass von Heinrich Bullingers 400. Todestag. Im Auftrag des Instituts für Schweizerische Reformationsgeschichte hg. v. Ulrich Gäb-ler und Endre Zsindely, Zürich 1977, S. 33-42.</fn>
+			<fn ref="13">Es ist anzunehmen, daß Bullinger sein Werk <persName ref="4091">Zwingli</persName> und <persName ref="1753">Jud</persName> vorgelegt hat, doch läßt sich diese Vermutung nicht belegen.</fn>
+			<fn ref="14">Vgl. etwa Esr 5, 8.</fn>
+			<fn ref="15">Vgl. Bullingers Widmungsvorrede vom 4. Juni 1528 (<bibl>HBBW</bibl> I, Nr. 29).</fn>
+			<fn ref="16">Vgl. <persName ref="8055">Blarers</persName> Briefe vom 1. September 1528 und vom 11. August 1529 (<bibl>HBBW</bibl> I, Nr. 30, bzw. Nr.32, S. 191, 21-25) sowie oben <link fk_file="11264">Nr. 1221</link>, 1-30.</fn>
+			<fn ref="17">Wortspiel mit dem Namen der Stadt <placeName ref="457">Konstanz</placeName>.</fn>
+		</num>
+	</footnotes>
+</file>

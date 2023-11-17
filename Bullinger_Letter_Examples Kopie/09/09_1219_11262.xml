@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11262" id_hbbw="1219" id_irg_sort="1219" id_sort="112190">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11262</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1219</arpa>
+		<scan_pages>
+			<scan id="26200" dir="11262/Autograph/" page="1">00 E_II_359__fol__2792_r_.tif</scan>
+			<scan id="26201" dir="11262/Autograph/" page="2">01 E_II_359__fol__2792_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22844" vf="1" fk_add_type="1">
+				<person id="8170" fk_id="8170">
+					<name>Biberli (Castor)</name>
+					<forename>Lienhart</forename>
+				</person>
+				<place id="555" vf="1" fk_id="555" long="8.72413" lat="47.50564">Winterthur</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22845" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11262">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">26</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17736">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2792</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11079" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1219, S. 42</entry>
+				<page>42</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="12">
+				<lang id="5" iso="la" count="12" p="100.0"/>
+			</sentences>
+			<words count="255">
+				<lang id="6" iso="el" count="1" p="0.4"/>
+				<lang id="5" iso="la" count="254" p="99.6"/>
+			</words>
+			<chars count="1483">
+				<lang id="6" iso="el" count="7" p="0.5"/>
+				<lang id="5" iso="la" count="1476" p="99.5"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1219" page="42">
+		<div ref="1">
+			Die Nachricht von <persName ref="1550">Matthias [Hirsgarter]</persName>, daß zwei Jünglinge aus der
+			[<placeName ref="555">Winterthurer</placeName>] Lateinschule im Examen in Zürich gut abgeschnitten
+			haben, freut ihn sehr; hofft nun, daß die Kritiker verstummen. Dankt für die Grüße und rühmt Bullingers
+			Freundlichkeit und Gelehrtheit. Ist froh, daß Bullinger <persName ref="1550">Leodegar [Hirsgarter]</persName> bei sich aufgenommen hat.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1219" page="42">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratia et pax a deo per Christum.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Quantumvis temerarium sit, Bullingere doctissime, meis nugis remorari te occupatissimum adeoque innumeris districtum rebus, non potui tamen non (tua fretus humanitate) animi mei gaudium in sinum tuum effundere et paucis testari, quam lęta ac auspicata d. Mathias<fl>2</fl>, summus meus necessarius, Tiguro nuper regressus adportarit.</s>
+				<s n="3" lang="la" state="auto">Di boni, quantum lętitiae subito obortum, quando significavit duos adolescentes<fl>3</fl>, qui hactenus nostra disciplina usi sunt, in celebri doctorum cętu, cum in literis factum esset periculum, non omnino <el state="verified">ἀµούσως</el> ad interrogata respondisse.</s>
+				<s n="4" lang="la" state="auto">Accedit huc, quod ex ep<fl>4</fl> istola <persName ref="8428">Rhellicani</persName>, quam nuperrime ad me scripsit, intellexi publico oppidi nostri ministro commissum esse a pio quodam viro<fl>5</fl>, ut rem gestam praetori et senatui meo<fl>a</fl> exponat.</s>
+				<s n="5" lang="la" state="auto">Hinc ego in bonam spem adducor, ut, qui conatus meos non dico non probarunt, sed calumniari (ut est ingratitudo) nunquam desierunt, posthac cum de me tum de iis, qui fidei meę concrediti sunt, si non melius, at peius<fl>b</fl> minus sentiant.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Cęterum, quod tu in literis<fl>6</fl> parocho missis salutem mihi adscripsisti, mox per eundem istinc digredientem<fl>c</fl> verbis quoque me salvere iussisti, tam gratum quam quod gratissimum fuit; iam enim liquido apparet mihi tuam ab omnibus decantatam humanitatem doctis pariter ac indoctis patere.</s>
+				<s n="7" lang="la" state="auto">Quando igitur alii apud te pluris sunt eruditionis nomine, sine me tuum demereri favorem, quod literas amo, literatos suspicio atque exosculor.<pb_edition start_of="43"/></s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto">Quod autem nostri Mathię filium <persName ref="1550" state="auto_name">Leodigarium</persName><fl>7</fl> in convictum tuum recipis, bene facis; est enim pius et studiosus adolescens.</s>
+			</p>
+			<p>
+				<s n="9" lang="la" state="auto">Vale.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto"><placeName ref="555">Vituduri</placeName>, septimo calendas februarii anno 39.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Leonardus Castorius.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="12" lang="la" state="auto">Et eruditione et pietate insigni viro, domino Henricho Bullingero, domino suo observandissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1219">
+		<alpha>
+			<fn ref="a">meo <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="b">peius <i>am Rande nachgetragen.</i></fn>
+			<fn ref="c"><i>vor</i> digredientem <i>gestrichenes, unlesbares Wort.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1" type="bio" fk_person="8170"><persName ref="8170">Lienhart Biberli (Leonardus Castor)</persName>, von Basel, gest. um 1542, war seit 1521 Schulmeister an der Lateinschule in <placeName ref="555">Winterthur</placeName>. Im Jahre 1531 erscheint er als Käufer eines Hauses. Aus seiner Korrespondenz ist ein Brief an <persName ref="4091">Zwingli</persName>, in dem er sich gegen das Psalmensingen und für die Verstärkung des Sprachunterrichts ausspricht, und das vorliegende Schreiben an Bullinger erhalten. - Lit.: <bibl>Z</bibl> IX 216f; Hermann <i>Walser,</i> Geschichte der Laurenzen- oder Stadtkirche <placeName ref="555">Winterthur</placeName>, II. Teil: Zeit der Reformation und Gegenreformation, in: Neujahrsblatt der Stadtbibliothek <placeName ref="555">Winterthur</placeName> 1945, S. 48. 54f; Pfarrerbuch 196.</fn>
+			<fn ref="2"><persName ref="1550">Matthias Hirsgarter</persName>.</fn>
+			<fn ref="3">Unbekannt.</fn>
+			<fn ref="4">Nicht erhalten.</fn>
+			<fn ref="5">Unbekannt.</fn>
+			<fn ref="6">Nicht erhalten.</fn>
+			<fn ref="7" type="bio" fk_person="1550"><persName ref="1550">Leodegar Hirsgarter</persName>, von <placeName ref="555">Winterthur</placeName>, 1524-1567, Sohn von Matthias, ab 1539 Stipendiat in Zürich, 1544 ordiniert, wurde vorerst Provisor an der Lateinschule am Großmünster und Pfarrer der Stiftsfiliale <placeName ref="1128">Schwamendingen</placeName>, dann 1547 Pfarrer in <placeName ref="278">Laufen</placeName> (Kt. Zürich). 1562 wurde er aus gesundheitlichen Gründen in den Ruhestand versetzt. Er kaufte sich in Zürich ein Haus am Salzmarkt. Bullinger, der ihn - wie hier gemeldet wird - als Schüler in sein Haus aufgenommen hatte, schrieb über ihn: „Was ein geflißner, geschickter mensch, der vil und wol schreib." - Lit.: Zürich ZB, Ms. Car C 44, 921f; Zürich Stadtarchiv, VIII C 48, <link fk_file="12852">Nr. 2803</link>; Zürich StA, B III 28, 63; Hermann <i>Bleuler,</i> Die Hirschgartner von Zürich, [Küsnacht-Zürich 1944]; Pfarrerbuch 343; <bibl>HBLS</bibl> IV 229.</fn>
+		</num>
+	</footnotes>
+</file>

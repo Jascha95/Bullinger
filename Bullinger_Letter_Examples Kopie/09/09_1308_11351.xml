@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11351" id_hbbw="1308" id_irg_sort="1308" id_sort="113080">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11351</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1308</arpa>
+		<scan_pages>
+			<scan id="26384" dir="11351/Autograph/" page="1">00 E_II_340__fol__324_r_.tif</scan>
+			<scan id="26385" dir="11351/Autograph/" page="2">01 E_II_340__fol__324_v_.tif</scan>
+			<scan id="26386" dir="11351/Autograph/" page="3">02 E_II_340__fol__325_r_.tif</scan>
+			<scan id="26387" dir="11351/Autograph/" page="4">03 E_II_340__fol__325_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23044" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="330" vf="1" fk_id="330" long="6.498317" lat="46.5093268">Morges</place>
+				<district id="195">Waadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23045" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11351">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">9</month>
+				<day fk_d="" d="" vf="1" fn="">11</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17822">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 340,324r.–325r.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11184" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1308, S. 214</entry>
+				<page>214</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="63">
+				<lang id="1" iso="de" count="1" p="1.6"/>
+				<lang id="5" iso="la" count="62" p="98.4"/>
+			</sentences>
+			<words count="1036">
+				<lang id="1" iso="de" count="1" p="0.1"/>
+				<lang id="6" iso="el" count="1" p="0.1"/>
+				<lang id="5" iso="la" count="1034" p="99.8"/>
+			</words>
+			<chars count="6308">
+				<lang id="1" iso="de" count="9" p="0.1"/>
+				<lang id="6" iso="el" count="5" p="0.1"/>
+				<lang id="5" iso="la" count="6294" p="99.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1308" page="213">
+		<div ref="1">
+			Hat Bullingers Brief vom 30. Juli am 6. September erhalten; ist glücklich darüber, daß ihm [ein längerer
+			Aufenthalt] gewährt wurde, und verspricht, seinem Wunsch nachzukommen. Stimmt seinem Ratschlag bezüglich
+			[des „Onomastikon“ von] <persName ref="6127">Pollux</persName> zu; will sich auf eine anspruchslose Übersetzung beschränken. Beantwortet
+			seine Frage nach <persName ref="8031">[Béat] Comte</persName>, der als Arzt oft abwesend ist, weshalb <persName ref="8011">Gwalther</persName> nun als Schüler von
+			<persName ref="17856">Claude Chanisieu</persName> in <placeName ref="330">Morges</placeName>
+			studiert, wo er auch seine Französischkenntnisse vertieft.
+			<persName ref="2553">Martin Peyer</persName> teilt aus
+			<placeName ref="558">Wittenberg</placeName> Nachrichten über die englische Kirche mit, die einem
+			Brief von <persName ref="4160">[Alexander] Alesius</persName> an <persName ref="2095">Philipp [Melanchthon]</persName> entnommen sind; er berichtet über die [Sechs]
+			Artikel, die Reaktionen von <persName ref="7623">Latimer</persName>, [<persName ref="7791">Shaxton</persName>], <persName ref="4583">Crome</persName>, <persName ref="6773">Taylor</persName> und <persName ref="674">Cranmer</persName> sowie über die Flucht des <persName ref="4160">Alesius</persName>.
+			<persName ref="8011">Gwalther</persName> ist besorgt um <persName ref="8422">Nicholas [Partridge]</persName> und <persName ref="1001">[Nicholas] Eliott</persName>. Es gibt Gerüchte über eine Heirat des
+			Kaisers und der englischen Prinzessin <persName ref="18776">Maria</persName>, Truppenansammlungen in
+			<entity id="11" type="geo_country">Frankreich</entity>, einen<pb_edition start_of="214"/> englischen Angriff
+			auf die <entity id="65" type="geo_region">Picardie</entity> und eine Heirat zwischen der Infantin [<persName ref="18776">Maria</persName>]
+			und [<persName ref="18538">Karl von Orléans</persName>]; <persName ref="8011">Gwalther</persName> sieht sich in seinen Hoffnungen auf [<persName ref="18505">Heinrich VIII.</persName>] getäuscht, doch
+			tröstet ihn die Beständigkeit von Gottes Wort. In <placeName ref="330">Morges</placeName> mußten
+			die Priester am 31. August öffentlich Rechenschaft über ihren Glauben ablegen; einer von ihnen wurde
+			ausgewiesen, während die übrigen zwei Wochen Bedenkzeit erhielten; nun hört das Volk vermehrt auf das Wort
+			Gottes. In <entity id="11" type="geo_country">Frankreich</entity> hat <persName ref="7637">König [Franz I.]</persName> die untergeordneten
+			Richter zu Todesurteilen ermächtigt und den Angeklagten jede Berufungsmöglichkeit genommen. <persName ref="8011">Gwalther</persName> möchte
+			sein Französischstudium fortsetzen und erinnert an seine Bitte um Geld für den Winter. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1308" page="214">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Literas tuas 30. iulii scriptas<fl>1</fl>, pater humanissime, sexto septembris accepi; quas quanta spe et metu susceperim, enarrare vix queo, lectae autem lętitiam vix credendam attulere.</s>
+				<s n="3" lang="la" state="auto">Nunquam enim tantum quam nunc me timuisse scias, tuae tamen humanitati fretus id, quod sperabam, assecutus sum<fl>2</fl>.</s>
+				<s n="4" lang="la" state="auto">Curabo denique, ut hoc, quod paterno plane affectu petis, filiali quoque amore a me pręstetur, et errorem hunc ut compensare possim, videbo.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Gratum fuit, quod de Polluce<fl>3</fl> das consilium, et idem sane non semel iam a me cogitatum est.</s>
+				<s n="6" lang="la" state="auto">Author enim est non tam ipse per se obscurus quam temporum iniuria depravatus, in quo restituendo cum multi frustra laborarint, mea hęc interpretationis qualiscunque opera facilius veniam merebitur.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Cum enim non aliud quam dictionarium sit, ut verbo verbum reddam, conor, ut a pueris etiam vel mediocriter Gręce doctis possit intelligi.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto"><persName ref="8031">Comes</persName><fl>4</fl> quis nam sit, ignoras, quem nunc <persName ref="3429">Vireti</persName> in verbi ministerio collegam esse scias, virum doctum et Tigurini nominis (quantum extrinsecus iudicari potest) studiosissimum.</s>
+				<s n="9" lang="la" state="auto">Verum cum medicinę quoque <el state="verified">πράξι</el> occupatus frequentius peregre quam domi sit, cum illo cohabitare vix fuit commodum, et (ut ante etiam scripsi<fl>5</fl>) in <placeName ref="330">Morgiis</placeName> brevissimo spatio a <placeName ref="280">Losanna</placeName> distantibus versor apud Claudium Chanisium<fl>6</fl>, eius loci ludimagistrum, cuius eruditio et <persName ref="1365">Gryneo</persName> et omnibus <placeName ref="492">Argentinensium</placeName> doctis est probatissima.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Exercemur nos indies disputationibus e scripturę locis petitis, deinde et crebra lectione non infrugifera.</s>
+				<s n="11" lang="la" state="auto">Cohabitat huic et alius Gallus nobilis<fl>7</fl>, qui olim in regia curia advocatum, nunc<fl>a</fl> ob evangelii cognitionem apud nos exulem agit.</s>
+				<s n="12" lang="la" state="auto">Hic in Gallicę linguę (cuius ipse orator est doctissimus) institutione nunquam non adest, quam satis foeliciter et sine magno temporis dispendio perdisco.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Nova, quę memoratu digna partimque deploranda et partim gaudio prosequenda videntur, sunt haec:<pb_edition start_of="215"/></s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">Venerunt ad me hisce diebus <persName ref="2553">Martini Peyer</persName> e <placeName ref="558">Witemberga</placeName> literae<fl>8</fl>, qui Anglicanę ecclesię statum hisce verbis ex <persName ref="4160">Alesii</persName><fl>9</fl> Angli ad <persName ref="2095">Philippum</persName><fl>10</fl> missa epistola<fl>11</fl> desumptis<fl>b</fl> (nam ipse <persName ref="2095">Philippi</persName> convictor est) sic describit: Mandat sub poena capitali rex Angliae hos quinque articulos<fl>12</fl>:</s>
+				<s n="15" lang="la" state="auto">1. De transsubstantiatione necessario credenda.</s>
+				<s n="16" lang="la" state="auto">2. De una tantum specie porrigenda laicis.</s>
+				<s n="17" lang="la" state="auto">3. De auriculari confessione et enumeratione peccatorum necessaria.</s>
+				<s n="18" lang="la" state="auto">4. De coniugio sacerdotum, quod asserunt esse contra legem dei, et omnia matrimonia contracta dissolvenda esse ante 12. iulii sub poena capitali.</s>
+				<s n="19" lang="la" state="auto">5. De votis monasticis, quę obligant etiam ante aetatem facta.</s>
+				<s n="20" lang="la" state="auto">Contradicentibus additę sunt poenae hereseos et crimen laesae maiestatis.</s>
+				<s n="21" lang="la" state="auto">Comburuntur libri inventi, et fugere volentes retra-<pb_scan n="324v."/>huntur.</s>
+				<s n="22" lang="la" state="manual">Non subscripserunt d. <persName ref="7623">Latimerus</persName><fl>13</fl>, episcopus Worcestriae, episcopus <persName ref="7791" state="auto_name">Sarisbriensis</persName><fl>14</fl>, d. <persName ref="4583">Cromerus</persName><fl>15</fl> et d.<pb_edition start_of="216"/> Dalerus<fl>16</fl>; sed Cantuariensis<fl>17</fl> subscripsit, et nunc poenitet eum facti<fl>18</fl>.</s>
+				<s n="23" lang="la" state="auto"><persName ref="4160">Halesius</persName> habitu militari evasit et nunc <placeName ref="204">Hamburgi</placeName> est<fl>19</fl>.</s>
+			</p>
+			<p>
+				<s n="24" lang="la" state="auto">Vides, pater charissime, miserum ecclesię huius statum.</s>
+				<s n="25" lang="la" state="auto">Metuo sane de bonis omnibus, imprimis de Nicolai<fl>20</fl> nostri et Elioti<fl>21</fl> salute, quorum conditio non talis est, ut latere possint, pietas autem sanctior, quam ut impiis impii regis decretis astipulentur.</s>
+				<s n="26" lang="la" state="auto">Certi tamen aliquid ex hisce nundinis<fl>22</fl> audiemus.</s>
+			</p>
+			<p>
+				<s n="27" lang="la" state="auto">Fama pręterea constans fertur imperatorem<fl>23</fl> Angli filiam <persName ref="18554">Mariam</persName> duxisse<fl>24</fl>.</s>
+				<s n="28" lang="la" state="auto">In Gallia milites confluunt regis<fl>25</fl> imperio et iussu, insciis tamen omnibus in quem finem.</s>
+				<s n="29" lang="la" state="auto">Sunt autem, qui Anglum aliquid contra Picardiam moliri asserant.</s>
+				<s n="30" lang="la" state="auto">Cęsaris filiam Galli filius ducet<fl>26</fl>, et sic impiorum catena et<pb_edition start_of="217"/> impietatis cyclopaedia<fl>27</fl> absolvetur consilio et auxilio tricipitis <placeName ref="425">Romanę</placeName> belluae<fl>28</fl>, cui, ut hoc efficere conaretur, spiritus ille suus, diaboli scilicet, iam dudum consilia suppeditavit.</s>
+				<s n="31" lang="la" state="auto">Idem autem ille spiritus, qui domini verbo immorigeros seducit, eosdem in commeritas poenas abripiet.</s>
+				<s n="32" lang="la" state="auto">Video nunc verum, quod non credenti multi praedicarunt, Angliae regem non tam Christi amore quam pontificis odio omnem hanc in Anglia tragoediam exercuisse.</s>
+			</p>
+			<p>
+				<s n="33" lang="la" state="auto">Vera domini sententia, quę omnem hominem mendacem esse pronunciat<fl>29</fl>.</s>
+				<s n="34" lang="la" state="auto">Solatur autem me et eiusdem nostri domini verbum, qui omnem carnem foenum et proinde fragilem corruptionique proximam dicit, domini autem verbum in aeternum mansurum promittit<fl>30</fl>.</s>
+			</p>
+			<p>
+				<s n="35" lang="la" state="auto">Pridie cal[endas] septembris<fl>31</fl> <placeName ref="41">Bernensium</placeName> iussu et imperio omnes papisticę religionis sacrifici, qui <placeName ref="330">Morgiis</placeName> hactenus victitarunt et stipendio solito (quemadmodum et apud nos fit) sustentati sunt, fidei<fl>c</fl> suae rationem publice dare coacti sunt.</s>
+				<s n="36" lang="la" state="auto">Non defuerunt enim inter illos, qui clanculariis concionibus plurimos, imo omnem plebem non tam a <placeName ref="41">Bernensium</placeName> dominio quam a Christi religione seducere conati sunt.</s>
+				<s n="37" lang="la" state="auto">Vidisses sane tragoediam non ridiculam minus quam iucundam.</s>
+				<s n="38" lang="la" state="auto">Stabat in suggestu concionator urbis<fl>32</fl>, vir doctissimus, qui fidei rationem exquirebat.</s>
+				<s n="39" lang="la" state="auto">Huic latus cingebat in eodem suggestu stans praefectus urbis<fl>33</fl> natione Gallus<fl>34</fl>, qui immorigeris subitum exilium minitabatur.</s>
+				<s n="40" lang="la" state="auto">Stabat ab altera parte urbis scriba<fl>35</fl> omnium responsa adnotans.</s>
+				<s n="41" lang="la" state="auto">Primus sacrifecum<fl>36</fl> de omnibus dubitabat, utpote qui ante non alius quam Penelopae sponsus fuerat<fl>37</fl>.</s>
+				<s n="42" lang="la" state="auto">Secundus non dubitabat modo, sed ne minimam quidem suę religionis rationem afferre poterat; quantum autem in illo ignorantiae, tantum etiam inerat arrogantiae, impudentiae et impietatis.<pb_scan n="325r."/></s>
+				<s n="43" lang="la" state="auto">Sacrosanctam enim et <placeName ref="425">Romanam</placeName> (ut ipse aiebat) ecclesiam se nunquam derelicturum affirmabat eiusque incolumitatem et propagationem semper quęsiturum.</s>
+			</p>
+			<p>
+				<s n="44" lang="la" state="auto">Hic itaque statim sarcinas colligere, <placeName ref="41">Bernensium</placeName> agro intra octiduum excedere aut capitis supplitium expectare iussus est.</s>
+				<s n="45" lang="la" state="auto">Reliquis, qui<pb_edition start_of="218"/> etiam dubitantes nihil certi de ince[r]ta<fl>d</fl> sua religione promere poterant, duarum septimanarum terminu[s]<fl>e</fl> datus est, ut secum deliberent, quid nam salva conscientia responsuri sint.</s>
+				<s n="46" lang="la" state="auto">Fuit antehac populus satis rebellis non tam <placeName ref="41">Bernensibus</placeName> quam Christo, nunc vero horum nebulonum perfidam impietatem detectam videns cristas nonnihil demittit<fl>38</fl> et in domini verbi auscultatione est frequentior.</s>
+				<s n="47" lang="la" state="auto">Fiet mox brevi idem in omnibus <entity id="75" type="geo_region">Sabaudiae</entity><fl>39</fl> ecclesiis.</s>
+			</p>
+			<p>
+				<s n="48" lang="la" state="auto">In Gallia sic persecutio fervet, ut anteacta contra christianam religionem facinora iocus videantur, si cum his, quae nunc fiunt, comparentur.</s>
+				<s n="49" lang="la" state="auto">Potestas enim a rege omnibus data est urbibus, praefectis vel minimi gradus nobilibus, ut de minima quoque suspitione quemvis in vincula coniicere et condemnare possint sine provocatione ad alterum iudicem, adeo ut etiam minimis infimisque iudicibus morti addicere liceat<fl>40</fl>.</s>
+				<s n="50" lang="la" state="auto">Reus vero iam condemnatus provocationis locum nullum habet.</s>
+			</p>
+			<p>
+				<s n="51" lang="la" state="auto">Quod autem amplius scribam, nunc nihil est.</s>
+				<s n="52" lang="la" state="auto">Quantum enim mea attinet negotia, non ea solum, sed et me totum tibi committam; tu, quod optimum videbitur, statuito.</s>
+				<s n="53" lang="la" state="auto">Hoc solum precor (si non inutile fuerit), ut hoc mihi impetrare liceat, quo Gallicę linguae satis foeliciter coeptae cognitionem perfectiorem per vos percipere queam.</s>
+				<s n="54" lang="la" state="auto">Ego, quantum in me erit, videbo, ne vel hoc vel aliud studium meum sine patrię utilitate susceptum videatur.</s>
+			</p>
+			<p>
+				<s n="55" lang="la" state="auto">Nummos, de quibus nuper scripsi<fl>41</fl>, percuperem, ut mittere posses; urget enim necessitas, et hyemis tempus iam appropinquat.</s>
+			</p>
+			<p>
+				<s n="56" lang="la" state="auto">Salvum te cupit omnis studiosorum, qui apud nos est, coetus.</s>
+				<s n="57" lang="la" state="auto">Salutabis et tu nomine meo universam tuam familiam cum uxore<fl>42</fl> et matre<fl>43</fl>.</s>
+				<s n="58" lang="la" state="auto">Vale, humanissime pater, deusque te nobis diu servet incolumem.</s>
+			</p>
+			<p>
+				<s n="59" lang="la" state="auto"><placeName ref="330">Morgiis</placeName>, 3. idus septembris 1539.</s>
+			</p>
+			<p>
+				<s n="60" lang="la" state="auto">Tui observantissimus</s>
+			</p>
+			<p>
+				<s n="61" lang="la" state="auto"><persName ref="8011">Rodolphus Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="62" lang="la" state="auto">Eruditione et pietate clarissimo viro d. Heinrycho Bullingero, vigilantissimo Tigurinae ecclesiae episcopo, patri suo imprimis observando.</s>
+				<s n="63" lang="de" state="auto">Z[üric]h<fl>f</fl>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1308">
+		<alpha>
+			<fn ref="a"><i>vor</i> nunc <i>ein gestrichener Buchstabe.</i></fn>
+			<fn ref="b"><i>nach</i> desumptis <i>gestrichenes</i> sic de.</fn>
+			<fn ref="c"><i>vor</i> fidei <i>ein gestrichener Buchstabe.</i></fn>
+			<fn ref="d-e"><i>Rand beschädigt.</i></fn>
+			<fn ref="f"><i>Teilweise auf das nicht mehr vorhandene Verschlußband geschrieben.</i></fn>
+			<!-- Splits -->
+			<fn ref="d"><i>Rand beschädigt.</i></fn>
+			<fn ref="e"><i>Rand beschädigt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten.</fn>
+			<fn ref="2"><persName ref="8011">Gwalther</persName> hatte um Erlaubnis für einen längeren Studienaufenthalt im französischen Sprachgebiet ersucht; s. oben <link fk_file="11331">Nr. 1288</link>, 31-52.</fn>
+			<fn ref="3">Zu <persName ref="8011">Gwalthers</persName> Übersetzung des "Onomastikon" von <persName ref="6127">Iulius Pollux</persName> s. ebd., Anm. 6.</fn>
+			<fn ref="4"><persName ref="8031">Béat Comte</persName>.</fn>
+			<fn ref="5">Siehe oben <link fk_file="11341">Nr. 1298</link>, 5-15.</fn>
+			<fn ref="6"><persName ref="17856">Claude Chanisieu</persName>.</fn>
+			<fn ref="7">Unbekannt.</fn>
+			<fn ref="8">Nicht erhalten.</fn>
+			<fn ref="9" type="bio" fk_person="4160"><persName ref="4160">Alexander Alesius (Alane)</persName>, 1500?-1565, von <placeName ref="130">Edinburgh</placeName>, studierte etwa ab 1513 in <placeName ref="1752">St Andrews</placeName>, wo er sich um 1515 den Augustinerchorherren anschloß. Wegen seiner Kritik an sittlichen Mängeln des Klerus mußte er 1529/30 fliehen. 1533 gelangte er nach <placeName ref="558">Wittenberg</placeName> und begann dort, an der Universität zu lehren. 1535 siedelte er nach <entity id="9" type="geo_country">England</entity> über, wo er die Reformer <persName ref="4585">Cromwell</persName> und <persName ref="674">Cranmer</persName> unterstützte. Als verheirateter Priester mußte er 1539 erneut fliehen. Ab 1540 lehrte er als Professor in <placeName ref="158">Frankfurt an der Oder</placeName>, ab 1542/43 in <placeName ref="284">Leipzig</placeName>. Der scholastisch gebildete Theologe, der auch an mehreren Religionsgesprächen beteiligt war, nahm vermittelnde Positionen ein und stand vor allem <persName ref="2095">Melanchthon</persName> nahe. - Lit.: Ernst <i>Siegmund-Schultze,</i> in: <bibl>TRE</bibl> II 231-235; Peter <i>Klemm,</i> in: Die Deutsche Literatur. Biographisches und bibliographisches Lexikon, Reihe II: Die Deutsche Literatur zwischen 1450 und 1620, hg. v. Hans-Gert Roloff, Abt. A: Autorenlexikon, Bd. 2, Lfg. 1-5, Bern 1991, S. 140-162; Günther <i>Wartenberg,</i> in: <bibl>OER</bibl> I 18f.</fn>
+			<fn ref="10"><persName ref="2095">Philipp Melanchthon</persName>.</fn>
+			<fn ref="11">Nicht erhalten.</fn>
+			<fn ref="12">Die Rede ist vom Sechs-Artikel-Gesetz vom Juni 1539, mit dem <persName ref="18505">König Heinrich VIII.</persName> bzw. das Parlament die wichtigsten Kontroversfragen im Sinne der traditionellen Lehre geregelt hatten (s. Geoffrey Rudolph <i>Elton,</i> Reform and Reformation. <entity id="9" type="geo_country">England</entity> 1509-1558, London 1977. - The New History of <entity id="9" type="geo_country">England</entity>, Bd. 2, S. 287f). In der folgenden Aufzählung fehlt der Artikel über die Privatmessen.</fn>
+			<fn ref="13" type="bio" fk_person="7623"><persName ref="7623">Hugh Latimer</persName>, geb. um 1485 in <placeName ref="1753">Thurcaston (Leicestershire)</placeName>, gest. 1555 in <placeName ref="376">Oxford</placeName>, berühmter evangelischer Prediger ("Apostle to the English") und Märtyrer, hatte 1524 in <placeName ref="86">Cambridge</placeName> den Grad eines Baccalaureus der Theologie erlangt und sich kurz darauf unter dem Einfluß von <persName ref="4306">Thomas Bilney</persName> der reformatorischen Lehre zugewandt. 1530 predigte er erstmals am Hof; dank seiner Unterstützung der Scheidungspläne <persName ref="18505">Heinrichs VIII.</persName> konnte er trotz Anfeindungen erfolgreich wirken und wurde 1534 zum königlichen Kaplan sowie 1535 zum Bischof von Worcester ernannt. Wegen der Sechs Artikel legte er sein Amt 1539 nieder und mußte sich nach kurzer Haft aufs Land zurückziehen. Unter <persName ref="3207">Eduard VI.</persName> entfaltete er erneut eine weitreichende Predigttätigkeit. Um 1548 brachte ihm <persName ref="8107">Bartholomew Traheron</persName> die reformierte Abendmahlslehre nahe. Sein konsequenter Widerstand gegen die Rekatholisierung unter <persName ref="18554">Maria I.</persName> führte ihn schließlich auf den Scheiterhaufen. - Lit.: James <i>Gairdner,</i> in: <bibl>DNB</bibl> XXXII 171-179; Günther <i>Lottes,</i> in: <bibl>BBKL</bibl> IV 1216f: David <i>Loades,</i> in: <bibl>OER</bibl> II 399f.</fn>
+			<fn ref="14" type="bio" fk_person="7791"><persName ref="7791">Nicholas Shaxton</persName>, geb. um 1485 in der Diözese Norwich, gest. 1556, war als Student in <placeName ref="86">Cambridge</placeName> 1510 bis 1534 Fellow der Gonville Hall und promovierte 1531 zum Doktor der Theologie. Schon früh trat er als Vertreter neuer Lehrmeinungen in Erscheinung. Dank der Förderung durch Anne Boleyn, die ihn zu ihrem Almosenpfleger machte, wurde er 1533 Pfarrer von Fuggiestone (Wiltshire) und Kämmerer der Kathedrale Salisbury. Ab 1535 amtete er dort als Bischof; wegen seines Widerstands gegen die Sechs Artikel mußte er jedoch 1539 resignieren und war zeitweise in Haft. 1546 konnte er sein Leben nur durch einen Widerruf retten; später war er an verschiedenen Verfahren gegen Protestanten beteiligt. 1555 ernannte ihn <persName ref="18554">Maria I.</persName> zum Suffragan des Bischofs von Ely (Cambridgeshire). - Lit.: James <i>Gairdner,</i> in: <bibl>DNB</bibl> LI 452-454.</fn>
+			<fn ref="15" type="bio" fk_person="4583"><persName ref="4583">Edward Crome</persName>, gest. 1562, studierte in <placeName ref="86">Cambridge</placeName>, wo er 1526 zum Doktor der Theologie promovierte. Etwa um 1530 kam er als Pfarrer nach London. Der prominente evangelische Prediger stand in Verbindung mit Reformern wie <persName ref="7623">Latimer</persName> und <persName ref="4306">Bilney</persName> und mußte mehrmals öffentlich widerrufen, so 1541 (vgl. den Bericht von Hilles an Bullinger in <bibl>Epistolae Tigurinae</bibl> 138. 140-143 bzw. <bibl>Original Letters</bibl> I 208. 211-215) und 1546. Nach seiner Stellungnahme gegen das Sechs-Artikel-Gesetz (vgl. <i>MacCulloch,</i> <persName ref="674">Cranmer</persName> 246) gelang es ihm, den Sanktionen zu entgehen, doch unter der Regierung Marias I. lag er einige Zeit im Gefängnis. - Lit.: Charles Trice <i>Martin,</i> in: <bibl>DNB</bibl> XIII 138-140.</fn>
+			<fn ref="16"><persName ref="6773">John Taylor</persName>, 1503(?)-1554, promovierte in <placeName ref="86">Cambridge</placeName> zum Baccalaureus (1524) und Magister (1527). Bevor er 1538 Doktor der Theologie und Vorsteher des St. John's College wurde, hatte er bereits verschiedene geistliche Pfründen inne. 1546 geriet er vorübergehend in Schwierigkeiten, weil er evangelische Positionen vertrat. Unter <persName ref="3207">Eduard VI.</persName> wurde er 1552 Bischof von <placeName ref="1754">Lincoln</placeName>, doch verlor er dieses Amt unter <persName ref="18554">Maria I.</persName> bereits im folgenden Jahr wieder. - Lit.: Albert Frederick <i>Pollard,</i> in: <bibl>DNB</bibl> LV 430f.</fn>
+			<fn ref="17"><persName ref="674">Thomas Cranmer</persName>.</fn>
+			<fn ref="18">Vgl. <persName ref="4160">Alesius</persName>' Bericht über seinen Abschied von <persName ref="674">Cranmer</persName> <i>(MacCulloch,</i> <persName ref="674">Cranmer</persName> 251).</fn>
+			<fn ref="19">Bereits am 9. Juli war <persName ref="4160">Alesius</persName> wieder in <placeName ref="558">Wittenberg</placeName>; s. <bibl>LP</bibl> 14/1 1353.</fn>
+			<fn ref="20"><persName ref="8422">Nicholas Partridge</persName>.</fn>
+			<fn ref="21"><persName ref="1001">Nicholas Eliott</persName>.</fn>
+			<fn ref="22">Zum Termin der <placeName ref="157">Frankfurter</placeName> Herbstmesse s. <bibl>HBBW</bibl> VI <link fk_file="10925">[Nr. 884]</link>, S. 406, Anm. 5.</fn>
+			<fn ref="23"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="24">Vgl. oben <link fk_file="11341">Nr. 1298</link>, 24-26.</fn>
+			<fn ref="25"><persName ref="7637">Franz I.</persName></fn>
+			<fn ref="26" type="bio" fk_person="7637">Der Kaiser hatte <persName ref="7637">König Franz I.</persName> 1538 in Aussicht gestellt, seine Tochter <persName ref="18776">Maria</persName> mit Herzog <persName ref="18538">Karl von Orléans</persName> zu verheiraten; vgl. <bibl>HBBW</bibl> VIII <link fk_file="11251">[Nr. 1208]</link>, S. 293, 13f mit Anm. 6.</fn>
+			<fn ref="27">Beide Ausdrücke besagen etwa dasselbe: das gesamte Repertoire der Gottlosigkeit.</fn>
+			<fn ref="28"><persName ref="19981">Papst Paul III.</persName> (gedacht ist wohl an Cerberus, den dreiköpfigen Höllenhund, vgl. aber auch den dreiköpfigen Adler in 4. Esra 11f).</fn>
+			<fn ref="29">Röm 3, 4.</fn>
+			<fn ref="30">Jes 40, 6-8; 1 petr 1, 24f.</fn>
+			<fn ref="31">31. August.</fn>
+			<fn ref="32"><persName ref="18061">Jacques Le Coq (Gallus)</persName>; s. Henri <i>Vuilleumier,</i> Histoire de l'Eglise réformée du Pays de Vaud sous le régime bernois, Bd. I, <placeName ref="280">Lausanne</placeName> 1927, S. 190.</fn>
+			<fn ref="33">Gemeint ist wahrscheinlich der Kastlan (Stellvertreter der bernischen Landvogts) <persName ref="7301">Franaeois de Ponthey</persName>; vgl. Emile <i>Küpfer,</i> <placeName ref="330">Morges</placeName> dans le passé: la période bernoise, <placeName ref="280">Lausanne</placeName> 1944, S. 13.</fn>
+			<fn ref="34">d. h. wohl: ein Einheimischer (im Unterschied zum Landvogt).</fn>
+			<fn ref="35">Unbekannt.</fn>
+			<fn ref="36">Obwohl aus dem Jahr 1536 sechs Geistliche von <placeName ref="330">Morges</placeName> namentlich bekannt sind, bleibt unsicher, von wem die Rede ist. Zu denken ist besonders an die Vikare <persName ref="4653">Jacques Drogy</persName> (Teilnehmer der Lausanner Disputation von 1536) und <persName ref="6128">Jean Poncet</persName>; vgl. <i>Kupfer,</i> aaO, S. 14. 17; <i>ders.,</i> La vie ecclésiastique à <placeName ref="330">Morges</placeName> avant la Réformation, <placeName ref="330">Morges</placeName> 1937. - Anciennetés morgiennes III, S. 48. 51.</fn>
+			<fn ref="37">d. h. der vorher arrogant wie einer der Freier Penelopes aufgetreten war.</fn>
+			<fn ref="38">im Sinne von: seinen Stolz ablegen; vgl. <bibl>Adagia</bibl>, 1, 8, 69 (<bibl>LB</bibl> II 324); <bibl>Otto</bibl> 98, Nr. 467.</fn>
+			<fn ref="39">Gemeint sind die 1536 von <placeName ref="41">Bern</placeName> eroberten Teile <entity id="75" type="geo_region">Savoyens</entity>.</fn>
+			<fn ref="40"><persName ref="8011">Gwalther</persName> bezieht sich auf das Edikt vom 24. Juni 1539 (gedruckt in: Ordonnances des rois de France. Règne de François I er, [hg. v.] Académie des Sciences Morales et Politiques, Bd. IX, Teil 3, Paris 1983, S. 471-477). Am 9. Oktober sandte <placeName ref="28">Basel</placeName> eine lateinische Abschrift des Edikts nach Zürich, wo Stadtschreiber <persName ref="257">Beyel</persName> eine deutsche Übersetzung anfertigte; s. Zürich StA, A 240. 1 (Begleitbrief) bzw. E I 25. 1, Nr. 10 (Übersetzung).</fn>
+			<fn ref="41">Vgl. oben <link fk_file="11341">Nr. 1298</link>, 16-23.</fn>
+			<fn ref="42" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="43" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

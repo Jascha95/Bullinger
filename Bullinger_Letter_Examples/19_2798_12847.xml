@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12847" id_hbbw="2798" id_irg_sort="2798" id_sort="127980">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12847</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2798</arpa>
+		<scan_pages>
+			<scan id="30064" dir="12847/Autograph/" page="1">00 E_II_345__fol__422_r_.tif</scan>
+			<scan id="30065" dir="12847/Autograph/" page="2">01 E_II_345__fol__422_v_.tif</scan>
+			<scan id="30066" dir="12847/Autograph/" page="3">02 E_II_345__fol__424_r_.tif</scan>
+			<scan id="30067" dir="12847/Autograph/" page="4">03 E_II_345__fol__424_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26238" vf="1" fk_add_type="1">
+				<person id="1560" fk_id="1560">
+					<name>Hooper</name>
+					<forename>John</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26239" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12847">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">7</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19414">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 345a,422</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9080" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Epistolae Tigurinae 25–27 bzw. Original Letters I 40–42, Nr. 23</entry>
+			</print>
+			<print id="9081" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Epistolae Tigurinae 25–27 bzw. Original Letters I 40–42, Nr. 23</entry>
+			</print>
+			<print id="9082" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>LP XXI/2, Nr. 645</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="27">
+				<lang id="5" iso="la" count="27" p="100.0"/>
+			</sentences>
+			<words count="623">
+				<lang id="5" iso="la" count="623" p="100.0"/>
+			</words>
+			<chars count="3620">
+				<lang id="5" iso="la" count="3620" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2798" page="268">
+		<div ref="1">
+			[1] Es ist schon fast ein Jahr her, seit <persName ref="1560">Hooper</persName> den Brief <persName ref="1560" state="auto_name">Bullingers</persName><fl>3</fl> in
+			<placeName ref="492">Straßburg</placeName> erhielt, mit dem deutlich dargelegt wurde, dass der
+			wahre Gottesdienst nichts mit den äußeren Götzendiensten gemeinsam hat und dass es deshalb viel besser wäre,
+			um Christi Willen sein Vaterland und sein Vermögen zu verlieren, als an einer Messe teilzunehmen. <persName ref="1560">Hooper</persName> hat
+			sich dieser Ansicht gern angeschlossen. Gott möge Bullinger für seine Antwort reichlich belohnen. Inzwischen
+			soll dieser seine Kirche vor den Wölfen und den Söldnern behüten und das arme zerstreute Volk Gottes zu
+			dessen einzig wahrem Hirten, Christus, zurückrufen.
+		</div>
+		<div ref="2">
+			[2] Über seine lange und gefährliche Reise nach
+			<entity id="9" type="geo_country">England</entity><fl>4</fl> wird <persName ref="1560">Hooper</persName> mündlich berichten. Auf dem
+			Festland wurde er zweimal in Ketten gelegt. Doch durch Gottes wunderbare Fügung wurde er befreit. Auf dem
+			Meer<fl>5</fl> litt er drei Monate lang vonseiten der Feinde und der Fluten. Dies wird aber wohl noch nicht
+			das Ende von <persName ref="1560">Hoopers</persName> Leid auf dieser Welt gewesen sein. Gott gebe, dass sein restliches Leben im Dienste
+			seiner Ehre und der Erbauung seiner Kirche steht.
+		</div>
+		<div ref="3">
+			[3] Als <persName ref="1560">Hooper</persName> den Flammen [der Verfolgung] und dem Wasser entkommen war,<fl>6</fl> geriet er mitten in
+			diesen Krieg, in dem Frömmigkeit und Religion zerstört werden. Gott wird allerdings den Feinden nicht
+			erlauben, den Glauben Petri und seine Kirche<fl>7</fl> zu vernichten! Daher sollten wir uns dem Herrn völlig
+			ergeben. Stattdessen aber schlafen wir schnarchend weiter inmitten<pb_edition start_of="269"/> der größten
+			Gefahr! Kein Wunder, dass wir Gottes Zorn zu spüren bekommen. Es wäre an der Zeit, ein besseres Leben zu
+			führen und die Strafe, die unsere Sünden verdienen, mit Geduld zu ertragen.
+		</div>
+		<div ref="4">
+			[4] Die gestern eingetroffene erfreuliche Nachricht aus
+			<placeName ref="492">Straßburg</placeName> wird der gegenwärtige Bote [...] erzählen.<fl>8</fl>
+		</div>
+		<div ref="5">
+			[5] In <entity id="9" type="geo_country">England</entity> kommt es zu einer Änderung in der Religion. Denn
+			sollte <persName ref="18538">Kaiser Karl V.</persName> geschlagen werden, wird <persName ref="18505">König Heinrich VIII.</persName> das Evangelium annehmen. Sollte aber das
+			Evangelium eine Niederlage erleiden, wird der König seine gottlose Messe beibehalten. Wegen Letzterer wurden
+			im vergangenen Sommer vier fromme <persName ref="4212" state="auto_name">Adlige</persName><fl>9</fl> verbrannt. Derzeit hält der König den Duke von Norfolk
+			[<persName ref="7574">Thomas Howard</persName>] und dessen ältesten Sohn [<persName ref="20134">Henry Howard</persName>, Earl of Surrey] im
+			<placeName ref="296">Londoner</placeName> Tower gefangen.<fl>10</fl> Beide sollen einen
+			Mordanschlag auf den König und dessen Sohn [<persName ref="3207">Eduard VI.</persName>] geplant haben.
+		</div>
+		<div ref="6">
+			[6] <persName ref="1560">Hoopers</persName> Frau <persName ref="8473">[Anne t’Serclaes]</persName> lässt Bullinger und dessen Kollegen grüßen. <persName ref="1560">Hooper</persName> und sie werden bald
+			nach <placeName ref="587">Zürich</placeName> kommen.<fl>11</fl> [<persName ref="8299">Jacques de Bourgogne</persName>], Herr von
+			Falais, dessen Frau [Yolanda von Brederode]<fl>12</fl> und ihr ganzes Haus lassen ebenfalls
+			grüßen.<fl>13</fl> In ihrem Haus lebt derzeit ein frommer und gelehrter junger Mann [<persName ref="2639">Valérand Poullain</persName>],<fl>14</fl> der <persName ref="1560">Hooper</persName> gerne nach <placeName ref="587">Zürich</placeName> begleiten
+			würde. Er ist auf der Suche nach einer Stelle und wäre für einen Lehrposten in
+			<placeName ref="587">Zürich</placeName> (auch auf der untersten Klassenstufe) sehr dankbar.
+			Bullinger möge sich dieser Sache annehmen und berichten.
+		</div>
+		<div ref="7">
+			[7] Grüße, u.a. an <persName ref="8171">Theodor Bibliander</persName>, <persName ref="8127">Konrad Pellikan</persName> und <persName ref="8011">Rudolf Gwalther</persName>. Bullinger möge die flüchtige Schrift entschuldigen.
+		</div>
+		<div ref="8">
+			[8] Er soll schließlich <persName ref="4747">[Heinrich] Falkners</persName><fl>15</fl> Gattin [...] von <persName ref="1560">Hooper</persName> und dessen Frau grüßen.
+			<persName ref="1560">Hooper</persName> brachte Letztere als Jungfrau von <placeName ref="492">Straßburg</placeName> nach
+			<placeName ref="28">Basel</placeName>, wo er sie zur Frau nahm, nachdem deren Eltern die Erlaubnis
+			dazu gegeben hatten.<fl>16</fl>
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2798" page="268">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. P.</s>
+				<s n="2" lang="la" state="auto"><placeName ref="492">Argentorati</placeName> anno iam fere lapso, praestantissime domine atque in Christo colendissime, literas tuas aeque doctas ac pias recepi, quibus mihi persuadere omnino voluisti verum cultum dei cum externa ydolatria nullam coniunctionem recipere; ideo consultius atque magis pium esse existimaveras iacturam patriae et fortunae pro Christo sustinere quam impiis missis interesse.</s>
+				<s n="3" lang="la" state="auto">Id consilii veneror et colo; in eandem sentenciam lubens descendo.</s>
+				<s n="4" lang="la" state="auto">Tue dominationi meritas gratias referre nequeo; sed rogo, ut is, qui omnia in omnibus potest, et qui vera fide invocatus propter filium suum Iesum Christum vult ultra quam credi potest, abundanter ut sua clementia et pietas sit merces tua atque remuneratio.</s>
+				<s n="5" lang="la" state="auto">De hoc non dubito, quin eris, hoc caduco plasmate soluto, eternus amicus dei.</s>
+				<s n="6" lang="la" state="auto">Interim dum hoc vescaris aevo, serva tuas ecclesias, libera lupis et mercenariis, collige populum dei, et gregem illius misere dissipatum ad Christum verum et unicum pastorem nostrum revoca; certa illud bonum certamen, reposita est tibi corona iusticiae, quam accipies in illo die a iusto iudice.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="7" lang="la" state="auto">De longo et periculosissimo itinere meo in <entity id="3002" type="geo_region">Angliam</entity> viva voce coram prestantiam tuam alloquar; multa passus in terra, bis in vincula et cathenas sustinui; dei clementia (magna fortunae tamen iactura) mirabiliter liberatus, in mari per tres menses ab hostibus et undis misere vexatus; sed nondum finis; quod huius calamitose vitae restat, precor ut sit ad gloriam nominis dei et ad edificationem ecclesiae sue.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="8" lang="la" state="auto">Ex flammis et aqua liberatus in Martem veni; nihil video preter interitum omnis pietatis et religionis; hostis dei interficiat (si fieri possibile sit ut fides <persName ref="19981">Petris</persName> pereat) omne os sonans Christum et matrem cum filiis, hoc est universam ecclesiam; sed dominus respiciet populum suum, non dubito, et non permittet crudelis hostis tyrannidem grassari quo voluerit.</s>
+				<s n="9" lang="la" state="auto">Interim convertamur ex animo et vere ad dominum, et haud dubie suspiciet lachrimas nostras.</s>
+				<s n="10" lang="la" state="auto">Sed, proh dolor, optime domine, in summo periculo in summo securitate stertimus, et ideo non mirum est, si iram dei et nostre impietatis onera crudeliter sentiamus.</s>
+				<s n="11" lang="la" state="auto">Emendamus igitur, ne graviora nobis immittat, scilicet ut fiamus post hanc vitam eterni hostes dei; ut tempus postulat, patienter feramus fortunam quam nostra peccata meruerunt; nam propter iniquitatem corrupit filios hominum.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="12" lang="la" state="auto">Que laeta heri accepimus ex <placeName ref="492">Argentina</placeName>, iste nuntius dominationem tuam certiorem faciet.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="13" lang="la" state="auto">In <entity id="3002" type="geo_region">Anglia</entity> erit religionis mutacio, et rex<fl>17</fl> suscipiet Christi evangelium, si in hoc pestilentissimo bello caesar<fl>18</fl> fuerit victus; si evangelium cladem sustinuerit, tunc retinebit impias suas missas, pro quibus hac aestate quattuor pios et nobiles viros combussit.</s>
+				<s n="14" lang="la" state="auto">Iam rex noster<fl>19</fl> tenet in carcere Londini ducem Norforkiae[!] atque filium illius maiorem natu et heredem; dicunt patrem et filium conspirasse mortem regis et principis nostri; horrendum facinus, si vere sint mee litere.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="15" lang="la" state="auto">Uxor mea officiosissime tuam dominationem cum omnibus ceteris piis et doctis viris apud vos salutat.</s>
+				<s n="16" lang="la" state="auto">Brevi invisemus vos, deo dante.</s>
+				<s n="17" lang="la" state="auto">Dominus de Valys et uxor illius cum tota sua familia precantur vobis omnia leta.</s>
+				<s n="18" lang="la" state="auto">In aedibus illius est iuvenis quidam pius et doctus, quem mecum Tigurum deducam; rogo propter Christum, si fieri potest, ut habeat aliquam lectionem in aliqua classe vestre scole.</s>
+				<s n="19" lang="la" state="auto">Est studiosus et diligens; non recusabit tristissimos labores, modo exiguam iuverit<fl>a</fl> conditionem, qua sese sustentare potuerit; erit utilis ecclesiae dei; propter Christum sis memor illius, et si fieri possit, rescribat mihi tua dominatio; tuis literis nihil mihi veniat amantius.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="20" lang="la" state="auto">Dominus Iesus servet te diu incolumem, ad gloriam nominis illius et ad utilitatem ecclesiae suae.</s>
+				<s n="21" lang="la" state="manual">Amen.</s>
+				<s n="22" lang="la" state="auto">Saluta meo nomine d. Bibliandrum, Pellicanum, Gvaltherum et reliquos omnes.</s>
+				<s n="23" lang="la" state="auto">Vestre ecclesiae precibus sol[l]icite me commendo.</s>
+				<s n="24" lang="la" state="auto">Parce, precor, calamo nimium properanti.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="25" lang="la" state="auto">Rogo dominationem tuam, ut nomine meo et uxoris mee salutes piam matronam Falkner, que nobiscum venit <placeName ref="28">Basileam</placeName> <placeName ref="492">Argentina</placeName>, quam ipsa reliquit virgo<fl>b</fl>, sed iam cum concensu parentum eam duxi in uxorem.</s>
+			</p>
+			<p>
+				<s n="26" lang="la" state="auto">Tue prestantiae addictissimus Ioannes Hoperus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf f. 424v.:]</note>
+				<s n="27" lang="la" state="auto">Pie ecclesiae Tigurinae ministrorum prefecto domino Henrico Bullingero, peritissimo ac vigilantissimo presuli, domino suo in Christo observandissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2798">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage</i> inverit.</fn>
+			<fn ref="b"><i>In der Vorlage</i> virginem. <i><persName ref="1560">Hooper</persName> hatte ursprünglich</i> ipsam ... virginem <i>geschrieben, dann </i> ipsam <i>in</i> ipsa <i>korrigiert, aber vergessen dementsprechend auch</i> virginem <i>in</i> virgo <i>zu korriegieren.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Der Abfassungsort geht aus dem letzten Abschnitt des vorliegenden Schreibens hervor.</fn>
+			<fn ref="2" meta="1">Siehe dazu unten Anm. 3 und Anm. 8. - Die hier angeführten englischen Quellenausgaben datieren den Brief fälschlich auf Dezember 1546.</fn>
+			<fn ref="3" type="bio" fk_person="1560">Nicht erhalten. - Mit diesem Brief hatte Bullinger die von <persName ref="1560">Hooper</persName> im Brief <bibl>HBBW</bibl> XVI, <link fk_file="12383">Nr. 2336</link>, vom 27. Januar 1546, gestellte Frage beantwortet. Auch <persName ref="1884">Ludwig Lavater</persName> hatte Bullinger angehalten, die Frage des Engländers zu beantworten; s. aaO, S. 115. Die Antwort traf noch vor <persName ref="1560">Hoopers</persName> Abreise nach England ein; s. aaO, S. 392; und unten Anm. 4. Da <persName ref="1560">Hooper</persName> hier anführt, dass er Bullingers Antwort schon fast vor einem Jahr erhalten hatte, und da er ferner (s. dazu unten) noch nichts über den am 28. Januar 1547 eingetretenen Tod von <persName ref="18505">König Heinrich VIII.</persName> wusste, wird vorliegender Brief spätestens auf Mitte Februar 1547 zu datieren sein.</fn>
+			<fn ref="4"><persName ref="1560">Hooper</persName> hatte vor, Straßburg Ende Februar 1546 zu verlassen, scheint aber erst ein wenig später abgereist zu sein; vgl. <bibl>HBBW</bibl> XVI 112. 390. 392,22f.</fn>
+			<fn ref="5">Damit ist nicht nur die See, sondern auch das im Meer liegende England (im Gegensatz zum oben erwähnten Festland) gemeint.</fn>
+			<fn ref="6">Vgl. 2Kor 11, 23-26.</fn>
+			<fn ref="7"><persName ref="1560">Hooper</persName> bezeichnet die Kirche in Anlehnung an Apk 12, 4-6, als "matrem et filium".</fn>
+			<fn ref="8" type="bio" fk_person="1560"><persName ref="1560">Hooper</persName> scheint von einem aus Straßburg kommenden Reisenden, der vermutlich auch der Überbringer des vorliegenden Briefes war, die falsche Nachricht von einer Festnahme von <persName ref="18250">Moritz von Sachsen</persName> erhalten zu haben. Am 6. Februar 1547 sandte nämlich <persName ref="1560">Hooper</persName> seine Frau eilends zu Myconius, um Letzterem diese gute Nachricht übermitteln zu lassen; s. <link fk_file="12846">Nr. 2797</link>,39-41.</fn>
+			<fn ref="9" type="bio" fk_person="4212">Richtig: die Adlige <persName ref="4212">Anne Askew</persName>, ein Mann namens <persName ref="20135">John Lassels (Lascelles)</persName>, der ein Adliger war; ein Schneider namens <persName ref="42">John Adlam (bzw. Hadlam)</persName>, den einige Quellen Adams nennen; und der Geistliche <persName ref="4266">Nicholas Belenian</persName>. Letzterer ist vermutlich identisch mit dem in einigen Quellen erwähnten Priester <persName ref="7027">Nicholas White</persName>, wobei andere Quellen stattdessen von einem Priester namens <persName ref="20136">John Hemley (Hemsley)</persName> sprechen. Alle vier wurden am 16. Juli 1546 hingerichtet; s. dazu Alec <i>Rvrie,</i> The Gospel and Henry VIII Evangelicals in the Early English Reformation, Cambridge 2003, S. 264; The Examinations of <persName ref="4212">Anne Askew</persName>, hg. v. Elaine V. Beim, Oxford/New York 1996 - Women Writers in English 1350-1850. S. xxiif. 10. 192; <i>ODNB</i> XXXII s.v. "Lassels".</fn>
+			<fn ref="10">Siehe schon <bibl>HBBW</bibl> XVIII 468. - <persName ref="20134">Henry Howard</persName> wurde am 19. Januar 1547 enthauptet, was <persName ref="1560">Hooper</persName> allerdings noch nicht wusste.</fn>
+			<fn ref="11" type="bio" fk_person="1560"><persName ref="1560">Hooper</persName> und seine Frau verließen Basel am 25. März oder kurz danach (s. <link fk_file="12910">Nr. 2861</link>) und trafen in Zürich am 29. März ein, wo sie zunächst für einige Tage bei Bullinger unterkamen; s. <i>HBD 35,5-7;</i> Bullinger an Myconius, 4. April 1547 <i>(Henrich, Myconius BW 955,</i> <link fk_file="11113">Nr. 1070</link>).</fn>
+			<fn ref="12">Siehe Philippe <i>Denis,</i> <persName ref="8299">Jacques de Bourgogne</persName>, seigneur de Falais, in: <bibl>Bibliotheca dissidentium</bibl> IV 9.</fn>
+			<fn ref="13" type="bio" fk_person="1560">Zu <persName ref="1560">Hoopers</persName> Beziehung zu dieser Familie s. <bibl>HBBW</bibl> XVI 113, Anm. 5.</fn>
+			<fn ref="14">Dass Poullain sich im Hause von <persName ref="8299">Jacques de Bourgogne</persName> aufhielt, geht aus <persName ref="8032">Francisco de Enzinas</persName>' Brief an Bullinger vom 8. Mai 1547 hervor <i>(Enzinas BW</i> 234). Poullain kam nicht wie geplant schon mit <persName ref="1560">Hooper</persName> nach Zürich, sondern erst ein wenig später. wie aus seinem Brief an die Zürcher Pfarrer vom 3. Juni 1547 (Zürich ZB, Ms F 62, 448a) deutlich wird. Aus diesem Schreiben ist ferner ersichtlich, dass er im Juni 1547 immer noch auf eine Anstellung in Zürich hoffte.</fn>
+			<fn ref="15">Falkner stand in geschäftlicher Beziehung mit <persName ref="1548">Richard Hilles</persName>; s. z.B. <bibl>HBBW</bibl> XI 293. 316.</fn>
+			<fn ref="16">Die Hochzeitsfeier hingegen wird erst nach diesem Brief anzusetzen sein. <persName ref="8032">Francisco de Enzinas</persName> berichtet nämlich in seinem Brief an Bullinger vom 25. März 1547, dass sie "vor wenigen Tagen" stattgefunden hatte: s. <link fk_file="12910">Nr. 2861</link>.</fn>
+			<fn ref="17"><persName ref="18505">Heinrich VIII.</persName></fn>
+			<fn ref="18"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="19"><persName ref="18505">Heinrich VIII.</persName></fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2798" page="268"/>
+			<footnotes fk_bibliography="22" nr="2798">
+				<alpha/>
+				<num>
+					<fn ref="1" meta="1">Der Abfassungsort geht aus dem letzten Abschnitt des vorliegenden Schreibens hervor.</fn>
+					<fn ref="2" meta="1">Siehe dazu unten Anm. 3 und Anm. 8. - Die hier angeführten englischen Quellenausgaben datieren den Brief fälschlich auf Dezember 1546.</fn>
+					<fn ref="3" type="bio" fk_person="1884">Nicht erhalten. - Mit diesem Brief hatte Bullinger die von Hooper im Brief <bibl>HBBW</bibl> XVI, <link fk_file="12383">Nr. 2336</link>, vom 27. Januar 1546, gestellte Frage beantwortet. Auch <persName ref="1884">Ludwig Lavater</persName> hatte Bullinger angehalten, die Frage des Engländers zu beantworten; s. aaO, S. 115. Die Antwort traf noch vor Hoopers Abreise nach England ein; s. aaO, S. 392; und unten Anm. 4. Da Hooper hier anführt, dass er Bullingers Antwort schon fast vor einem Jahr erhalten hatte, und da er ferner (s. dazu unten) noch nichts über den am 28. Januar 1547 eingetretenen Tod von <persName ref="18505">König Heinrich VIII.</persName> wusste, wird vorliegender Brief spätestens auf Mitte Februar 1547 zu datieren sein.</fn>
+					<fn ref="4">Hooper hatte vor, Straßburg Ende Februar 1546 zu verlassen, scheint aber erst ein wenig später abgereist zu sein; vgl. <bibl>HBBW</bibl> XVI 112. 390. 392,22f.</fn>
+					<fn ref="5">Damit ist nicht nur die See, sondern auch das im Meer liegende England (im Gegensatz zum oben erwähnten Festland) gemeint.</fn>
+					<fn ref="6">Vgl. 2Kor 11, 23-26.</fn>
+					<fn ref="7">Hooper bezeichnet die Kirche in Anlehnung an Apk 12, 4-6, als "matrem et filium".</fn>
+					<fn ref="8" type="bio" fk_person="18250">Hooper scheint von einem aus Straßburg kommenden Reisenden, der vermutlich auch der Überbringer des vorliegenden Briefes war, die falsche Nachricht von einer Festnahme von <persName ref="18250">Moritz von Sachsen</persName> erhalten zu haben. Am 6. Februar 1547 sandte nämlich Hooper seine Frau eilends zu Myconius, um Letzterem diese gute Nachricht übermitteln zu lassen; s. <link fk_file="12846">Nr. 2797</link>,39-41.</fn>
+					<fn ref="9" type="bio" fk_person="4212">Richtig: die Adlige <persName ref="4212">Anne Askew</persName>, ein Mann namens <persName ref="20135">John Lassels (Lascelles)</persName>, der ein Adliger war; ein Schneider namens <persName ref="42">John Adlam (bzw. Hadlam)</persName>, den einige Quellen Adams nennen; und der Geistliche <persName ref="4266">Nicholas Belenian</persName>. Letzterer ist vermutlich identisch mit dem in einigen Quellen erwähnten Priester <persName ref="7027">Nicholas White</persName>, wobei andere Quellen stattdessen von einem Priester namens <persName ref="20136">John Hemley (Hemsley)</persName> sprechen. Alle vier wurden am 16. Juli 1546 hingerichtet; s. dazu Alec <i>Rvrie,</i> The Gospel and Henry VIII Evangelicals in the Early English Reformation, Cambridge 2003, S. 264; The Examinations of <persName ref="4212">Anne Askew</persName>, hg. v. Elaine V. Beim, Oxford/New York 1996 - Women Writers in English 1350-1850. S. xxiif. 10. 192; <i>ODNB</i> XXXII s.v. "Lassels".</fn>
+					<fn ref="10">Siehe schon <bibl>HBBW</bibl> XVIII 468. - <persName ref="20134">Henry Howard</persName> wurde am 19. Januar 1547 enthauptet, was Hooper allerdings noch nicht wusste.</fn>
+					<fn ref="11">Hooper und seine Frau verließen Basel am 25. März oder kurz danach (s. <link fk_file="12910">Nr. 2861</link>) und trafen in Zürich am 29. März ein, wo sie zunächst für einige Tage bei Bullinger unterkamen; s. <i>HBD 35,5-7;</i> Bullinger an Myconius, 4. April 1547 <i>(Henrich, Myconius BW 955,</i> <link fk_file="11113">Nr. 1070</link>).</fn>
+					<fn ref="12">Siehe Philippe <i>Denis,</i> <persName ref="8299">Jacques de Bourgogne</persName>, seigneur de Falais, in: <bibl>Bibliotheca dissidentium</bibl> IV 9.</fn>
+					<fn ref="13">Zu Hoopers Beziehung zu dieser Familie s. <bibl>HBBW</bibl> XVI 113, Anm. 5.</fn>
+					<fn ref="14">Dass Poullain sich im Hause von <persName ref="8299">Jacques de Bourgogne</persName> aufhielt, geht aus <persName ref="8032">Francisco de Enzinas</persName>' Brief an Bullinger vom 8. Mai 1547 hervor <i>(Enzinas BW</i> 234). Poullain kam nicht wie geplant schon mit Hooper nach Zürich, sondern erst ein wenig später. wie aus seinem Brief an die Zürcher Pfarrer vom 3. Juni 1547 (Zürich ZB, Ms F 62, 448a) deutlich wird. Aus diesem Schreiben ist ferner ersichtlich, dass er im Juni 1547 immer noch auf eine Anstellung in Zürich hoffte.</fn>
+					<fn ref="15">Falkner stand in geschäftlicher Beziehung mit <persName ref="1548">Richard Hilles</persName>; s. z.B. <bibl>HBBW</bibl> XI 293. 316.</fn>
+					<fn ref="16">Die Hochzeitsfeier hingegen wird erst nach diesem Brief anzusetzen sein. <persName ref="8032">Francisco de Enzinas</persName> berichtet nämlich in seinem Brief an Bullinger vom 25. März 1547, dass sie "vor wenigen Tagen" stattgefunden hatte: s. <link fk_file="12910">Nr. 2861</link>.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12791" id_hbbw="2742" id_irg_sort="2742" id_sort="127420">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12791</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2742</arpa>
+		<scan_pages>
+			<scan id="29897" dir="12791/Autograph/" page="1">00 E_II_346__fol__222_r_.tif</scan>
+			<scan id="29898" dir="12791/Autograph/" page="2">01 E_II_346__fol__222_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26105" vf="1" fk_add_type="1">
+				<person id="8354" fk_id="8354">
+					<name>Frölich (Laetus)</name>
+					<forename>Georg</forename>
+				</person>
+				<place id="18" vf="" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26106" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12791">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">6</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19353">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 346,222</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12419" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2742, S. 88</entry>
+				<page>88</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="17">
+				<lang id="1" iso="de" count="2" p="11.8"/>
+				<lang id="5" iso="la" count="15" p="88.2"/>
+			</sentences>
+			<words count="177">
+				<lang id="1" iso="de" count="13" p="7.3"/>
+				<lang id="5" iso="la" count="164" p="92.7"/>
+			</words>
+			<chars count="1069">
+				<lang id="1" iso="de" count="80" p="7.5"/>
+				<lang id="5" iso="la" count="989" p="92.5"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2742" page="88">
+		<div ref="1">
+			[1] Da ihm ein zuverlässiger Bote [...] zur Verfügung steht, will <persName ref="8354">Frölich</persName> seinem heutigen Schreiben
+			[<link fk_file="12790">Nr. 2741</link>] noch Folgendes hinzufügen: Trotz der ungewissen Lage ist (soweit
+			<persName ref="8354">Frölich</persName> es einschätzen kann) der <placeName ref="1976">Augsburger</placeName> Rat absolut gegen eine
+			Kapitulation vor <persName ref="18538">Kaiser Karl V.</persName>, es sei denn, er werde dazu gezwungen. Die Patrizier aber wollen das
+			Gegenteil. Dies könnte zu einer Auseinandersetzung führen. <persName ref="8354">Frölich</persName> hält natürlich zu denen, die sich für das
+			Evangelium und für die [deutsche] Freiheit einsetzen, auch wenn dabei die Welt zugrunde ginge. Der Herr
+			verleihe Beständigkeit! Freilich wird das schwer, weil <placeName ref="1976">Augsburg</placeName>
+			ganz allein dasteht. Vielleicht kommen doch noch tapfere deutsche [Streitkräfte] der Stadt zu Hilfe.
+		</div>
+		<div ref="2">
+			[2] Die Eidgenossen sollten eine Gesandtschaft zum Kaiser schicken und ihn zu einem Vergleich drängen. Er
+			lebt nämlich noch (auch wenn er sehr krank ist) und befindet sich im Herzogtum
+			<placeName ref="572">Württemberg</placeName>. <persName ref="9780">Herzog [Ulrich]</persName> hat sich noch nicht mit ihm eingelassen. Wenn doch der
+			Herzog von den Helvetiern Trost empfangen würde und er standhaft
+			bliebe!
+		</div>
+		<div ref="3">
+			[3] Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2742" page="88">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Licet hodie tibi paucissimis scripsi,<fl>1</fl> tamen nactus fidelem gerulum<fl>2</fl> volui hec minutula addere prioribus.</s>
+				<s n="3" lang="la" state="auto">Nimirum rebus quantumvis fluctuantibus tamen senatum nostrum, quantum coniectura consequi possum, in hoc omnino erit, ut civitatem hanc hosti<fl>3</fl> non dedat, nisi extrema necessitate adactus.<fl>4</fl></s>
+				<s n="4" lang="la" state="auto">Cum vero patricii (ut vocantur) contrarium satagant, valde timeo, ne dissidium oriatur.</s>
+				<s n="5" lang="la" state="auto">Ego quidem decrevi eas partes foturum me, quę ad tuendam veritatem evangelii et libertatem faciant, etiam si mundus corruiturus sit.</s>
+				<s n="6" lang="la" state="auto">Dominus clementer respiciat ad animas bonorum et largiatur nobis fidem et constantiam in domino.</s>
+				<s n="7" lang="la" state="auto">Negotium quippe difficilimum erit, cum humanis auxiliis prorsus destituti simus.</s>
+				<s n="8" lang="la" state="auto">Si qua fortitudo et virilitas in Germania vigeret, forsan nobis tandem ita in extremis laborantibus succurret.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="9" lang="la" state="auto">Vestri sane nunc deberent legatos pro composicione communis negocii ad cęsarem mittere.</s>
+				<s n="10" lang="la" state="auto">Cęsar adhuc est in vivis,<fl>5</fl> et nunc in ducatu <placeName ref="572">Wirtembergensi</placeName> agit,<fl>6</fl> sed valde egrotus.</s>
+				<s n="11" lang="la" state="auto"><persName ref="9780">Dux Wirtembergensis</persName><fl>7</fl> nondum cum ipso pepigit.<fl>8</fl></s>
+				<s n="12" lang="la" state="auto">O, si per Helvetios consolacionem acciperet, ne se dederet!<pb_edition start_of="89"/></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="13" lang="la" state="auto">Vale, anime mi, celerrime.</s>
+				<s n="14" lang="la" state="auto">6. ianuarii 1547.</s>
+				<s n="15" lang="la" state="auto">Tuus <persName ref="8354">Georgius Laetus</persName>, etc.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="16" lang="de" state="auto">Herrn Henrichen Bullinger, Zurch, etc., meinem geliebtn herrn unnd bruͦder ze handen.</s>
+				<s n="17" lang="de" state="auto">Zurch.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2742">
+		<alpha/>
+		<num>
+			<fn ref="1">Mit Brief <link fk_file="12790">Nr. 2741</link>.</fn>
+			<fn ref="2">Unbekannt.</fn>
+			<fn ref="3"><persName ref="18538">Kaiser Karl V.</persName></fn>
+			<fn ref="4">Siehe dazu <i>Roth, <placeName ref="1976">Augsburg</placeName></i> III 463f.</fn>
+			<fn ref="5">Zuvor waren Gerüchte über den Tod des Kaisers in Umlauf gewesen; s. dazu die Verweise in <bibl>HBBW</bibl> XVIII 353, Anm. 20.</fn>
+			<fn ref="6">Der Kaiser befand sich vom 24. Dezember 1546 bis zum 18. Januar 1547 in <placeName ref="1324">Heilbronn</placeName>; s. <bibl>Stälin</bibl> 579. Er litt damals sehr stark an der Gicht; s. Aufzeichnungen des Kaiser Karl's des Fünften, hg. v. Baron Kervyn van Lettenhove, ins Deutsche übertragen von L. A. Warnkönig, Leipzig 1862, S. 148.</fn>
+			<fn ref="7"><persName ref="9780">Ulrich von Württemberg</persName>.</fn>
+			<fn ref="8">Falsch. Siehe nämlich <link fk_file="12788">Nr. 2739</link>, Anm. 42; <link fk_file="12792">Nr. 2743</link>, Anm. 57.</fn>
+		</num>
+	</footnotes>
+</file>

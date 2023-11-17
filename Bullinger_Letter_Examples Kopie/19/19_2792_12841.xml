@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12841" id_hbbw="2792" id_irg_sort="2792" id_sort="127920">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12841</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2792</arpa>
+		<scan_pages>
+			<scan id="30050" dir="12841/Autograph/" page="1">00 E_II_346__fol__215_r_.tif</scan>
+			<scan id="30051" dir="12841/Autograph/" page="2">01 E_II_346__fol__215_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26225" vf="1" fk_add_type="1">
+				<person id="8130" fk_id="8130">
+					<name>Meyer (Agricola)</name>
+					<forename>Lorenz</forename>
+				</person>
+				<place id="18" vf="1" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+			<sender id="26226" vf="1" fk_add_type="1">
+				<person id="8130" fk_id="8130">
+					<name>Meyer (Agricola)</name>
+					<forename>Lorenz</forename>
+				</person>
+				<place id="18" vf="1" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26227" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12841">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">3</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19408">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 346,215</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12365" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2792, S. 257</entry>
+				<page>257</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="35">
+				<lang id="5" iso="la" count="35" p="100.0"/>
+			</sentences>
+			<words count="399">
+				<lang id="5" iso="la" count="399" p="100.0"/>
+			</words>
+			<chars count="2459">
+				<lang id="5" iso="la" count="2459" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2792" page="256">
+		<div ref="1">
+			[1] <persName ref="8130">Meyer</persName> wünscht sich, dass Bullinger den Schluss des augsburgischen [Anwerbungs]schreibens [vom 1.
+			September 1546] noch einmal lesen würde! Dort steht nämlich, wozu die Zürcher Prädikanten nach
+			<placeName ref="1976">Augsburg</placeName> berufen wurden. Doch jetzt ist die Lage völlig anders. Den
+			[Schmalkaldischen] Bund gibt es nicht mehr, und auch die Ausübung des Pfarramts in
+			<placeName ref="1976">Augsburg</placeName> ist nicht mehr möglich. Wozu also sollen die Zürcher
+			Pfarrer [<persName ref="8018">Johannes Haller</persName>, <persName ref="8130">Meyer</persName>, <persName ref="2812">Thoman Ruman</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.]</persName> noch länger dort ausharren? Was
+			haben sie denn als Eidgenossen mit dem spanischen, kaiserlichen Erzfeind gemein?
+		</div>
+		<div ref="2">
+			[2] Die <placeName ref="1976">Augsburger</placeName> Kirche wird auch künftig, wie schon früher,
+			ohne Schweizer Pfarrer auskommen. Was aus ihr wird, wenn ihre Hauptpfarrer die Stadt verließen, weiß <persName ref="8130">Meyer</persName>
+			allerdings nicht. Doch solange diese bleiben (auch wenn man die Zürcher fortschicken würde), bezeugen sie
+			damit [der Bevölkerung], dass sie nicht mit der Ankunft der spanischen Truppen rechnen. Bullinger aber
+			fordert von den Zürchern, bis zum Tod in <placeName ref="1976">Augsburg</placeName> standhaft zu
+			bleiben! Ob das klug sei, ist fraglich. Außerhalb der Stadt ist die Lage schon völlig hoffnungslos! Bischof
+			<persName ref="7840">Otto Truchsess von Waldburg</persName> hat das Umland militärisch unter Kontrolle gebracht und seinen Priestern
+			befohlen, die Gräuel des Antichristen und dessen Opferdienst wieder aufzurichten! <persName ref="19981">Papst Paul III.</persName> hat sich
+			der Kirchen bemächtigt und Christus daraus vertrieben. Noch schlimmer: Der ängstliche
+			<placeName ref="1976">Augsburger</placeName> Rat hat <persName ref="2336">Bernardino Ochino</persName>, <persName ref="3018">Francesco Stancaro</persName> und
+			<persName ref="2916">Sebastian Schertlin</persName> (was mit <persName ref="8354">Georg Frölich</persName> geschehen wird, ist unklar), die doch so viel für die Stadt
+			geleistet haben, hinausgeworfen! Und Bullinger will nun, dass die Zürcher in
+			<placeName ref="1976">Augsburg</placeName> bleiben, als ob diese dazu bestimmt wären, Beute der
+			Spanier oder Schlachtvieh zu werden! Was sollen sie tun? Sie befinden sich zwischen <persName ref="18829">Skylla</persName> und <persName ref="19902">Charybdis</persName>!
+		</div>
+		<div ref="3">
+			[3] Schon längst hatten <persName ref="8130">Meyer</persName> und <persName ref="6543">Schwyzer</persName> die Gefahr erkannt. Auch in den Briefen an <persName ref="8130">Meyers</persName> Frau <persName ref="5797">[Regula, geb. Meier</persName>?], die Bullinger vielleicht auch gelesen hat, schrieb er davon. Doch in Zürich nahm man dies
+			nicht ernst. Nicht die Angst veranlasste ihn zu diesen Warnungen! Vielmehr wollte er dem Rat die Möglichkeit
+			geben, sich darüber zu beraten, um seinen Untertanen in der Fremde noch rechtzeitig Anweisungen zukommen
+			lassen zu können.<pb_edition start_of="257"/> Nun ist es zu spät! Nur Gott kann noch helfen.
+		</div>
+		<div ref="4">
+			[4] Es schmerzt, völlig verlassen auf den Tod warten zu müssen, und zwar nicht für das Bekenntnis der
+			Wahrheit, sondern als Zwinglianer und Helvetier! Denn der
+			<placeName ref="1976">Augsburger</placeName> Rat wird die Zürcher vor dem Feind nicht retten können,
+			da er dann selbst in Gefahr sein wird.
+		</div>
+		<div ref="5">
+			[5] Sollten sie sterben, muss Bullinger vor Christus Rechenschaft für ihr unschuldiges Blut ablegen! Sie
+			aber müssen verderben, damit ihr Schicksal ein Exempel für die Nachwelt wird, damit
+			<placeName ref="587">Zürich</placeName> nie wieder mutige Kirchendiener wegen einer Stadt oder
+			eines Fürsten unüberlegt dem Tode aussetzt! Nur der Herr kann noch retten. Von den Menschen ist nichts zu
+			erwarten.
+		</div>
+		<div ref="6">
+			[6] Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2792" page="257">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Optarem, Bullingere, ut fines <placeName ref="1976">Augustanorum</placeName> literis<fl>1</fl> revideres diligenter, nam, ad quid vocati sint concionatores, docent.</s>
+				<s n="3" lang="la" state="auto">Iam vero alia rerum adparet facies.</s>
+				<s n="4" lang="la" state="auto">Desiit foedus<fl>2</fl>, desiit vocatio et functio.</s>
+				<s n="5" lang="la" state="auto">Quid diutius hęrendum?</s>
+				<s n="6" lang="la" state="auto">Cęsareanarum partium minime erimus.<fl>3</fl></s>
+				<s n="7" lang="la" state="auto">Quid enim amicitię inter nos et <entity id="29" type="geo_country">Hispanos</entity>, coniuratos<fl>a</fl> Helvetiorum hostes?</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="8" lang="la" state="auto">Stabit nihilominus ecclesia <placeName ref="1976">Augustana</placeName>, quę diu incolumis<fl>b</fl> fuit sine Helvetico doctore.<fl>c</fl></s>
+				<s n="9" lang="la" state="auto">Doctoribus autem nunc primariis<fl>4</fl> fugam meditantibus qualis futura sit, ignoro.</s>
+				<s n="10" lang="la" state="auto">Hii enim cum sint pastores, nos missi, testantur se minime expectaturos <entity id="29" type="geo_country">Hispanos</entity>.<fl>5</fl></s>
+				<s n="11" lang="la" state="auto">Tu vero urges, ut expectemus extrema quaeque.<fl>6</fl></s>
+				<s n="12" lang="la" state="auto">An id sano facias consilio, non video, etc.<fl>c_2</fl></s>
+				<s n="13" lang="la" state="auto">Extra portam spes omnis evanuit.</s>
+				<s n="14" lang="la" state="auto">Episcopus<fl>7</fl> armato milite agrum in ius suum rapuit et pristina horroris antichristi facinora erexit et, ut fiant abominationes mendatiorum, suis sacrificulis iniunxit.<fl>8</fl></s>
+				<s n="15" lang="la" state="auto"><persName ref="19981">Papa</persName><fl>9</fl> ecclesias tenet, Christus expellitur et conculcatur.</s>
+				<s n="16" lang="la" state="auto">His adde adhuc maiora: <persName ref="2336">Bernhardinum</persName><fl>10</fl>, Stankherum<fl>11</fl>, <persName ref="2916">Sebastianum Schertlin</persName><fl>12</fl> (de <persName ref="8354" state="auto_name">Lęto</persName><fl>13</fl> quid fiet, nescio)<fl>d</fl>, illos optimos viros de civitate bene immo sanctissime meritos, eiecit ingrata urbs et tremebundus senatus!</s>
+				<s n="17" lang="la" state="auto">Et tu scribis nobis immorandum, quasi simus huc missi, ut fiamus praeda <entity id="29" type="geo_country">Hispanis</entity> et destinati ad occisionem libidinosam pessimorum hominum, oves <pb_edition start_of="258"/> mactationis!<fl>14</fl></s>
+				<s n="18" lang="la" state="auto">Quid faciundum?</s>
+				<s n="19" lang="la" state="auto">Certe inter <persName ref="18829">Scillam</persName> et Charibdim versamur.<fl>15</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="20" lang="la" state="auto">Hoc, quod nunc nobis imminet, periculosum negotium dudum prospeximus ego et <persName ref="6543">Rodolphus</persName><fl>16</fl> et nonnihil de hoc aperui literis id testantibus ad uxorem<fl>17</fl> missis, quas fortassis partim vidisti aut legisti.</s>
+				<s n="21" lang="la" state="auto">Sed omnia hactenus visa sunt, quasi fabulam aut aliam aliquam rem vanam finxerimus!</s>
+				<s n="22" lang="la" state="auto">Utinam tam falsa fuissent, quam verissima, heu, hodie sunt et ob oculos versantur.</s>
+				<s n="23" lang="la" state="auto">Testor deum nullo metu aut tremore quicquam scripsisse, sed, praevidentes futurum periculum, voluimus non cęlare, ut in tempore daretur nobis certum consilium imminentibus urbi nostrę sęvissimis hostibus cęsareanarum partium, quid nobis faciundum esset, ne sine senatus authoritate et fratrum consilio quicquam ageremus.</s>
+				<s n="24" lang="la" state="auto">Sed sinistro Hercule<fl>18</fl> cecidit alea!</s>
+				<s n="25" lang="la" state="auto">Foelitiora pollicemur nobis de divina bonitate.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="26" lang="la" state="auto">At hoc dolet, quod hactenus sic deserti nihil nobis iam omni momento expectandum quam praesentissimam mortem, non propter testimonium veritatis, sed quod sumus Zingliani et Helvetii!</s>
+				<s n="27" lang="la" state="auto">Neque eripiet e sanguinolenta manu nos urbis senatus, cum ipse fortassis non salvus erit et securus.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="28" lang="la" state="auto">Si igitur pereundum necesse fuerit, vide tu, qua ratione sanguinis nostri innoxii sis redditurus rationem domino Iesu Christo, quem etiam scimus hostium furori cessisse.</s>
+				<s n="29" lang="la" state="auto">Exemplo certe erimus nostro damno posteritati, ne ultra temere cuiquam, aut urbi aut principi, obiiciant cordatos verbi ministros.</s>
+				<s n="30" lang="la" state="auto">Domini sumus.</s>
+				<s n="31" lang="la" state="auto">Is servet et servabit nos.</s>
+				<s n="32" lang="la" state="auto">Vana est salus hominis!<fl>19</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="33" lang="la" state="auto">Vale.</s>
+				<s n="34" lang="la" state="auto"><placeName ref="1976">Augustę Vindelicorum</placeName>, 3. februarii anno 47.</s>
+				<s n="35" lang="la" state="auto"><persName ref="8130">Laurentius Agricola</persName>, praeda <entity id="29" type="geo_country">Hispanorum</entity>.</s>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse.]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2792">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage</i> conratos.</fn>
+			<fn ref="b"><i>in der Vorlage</i> incolunis.</fn>
+			<fn ref="c-c"><i>Am Rande nachgetragen.</i></fn>
+			<fn ref="d"><i>Klammern ergänzt.</i></fn>
+			<!-- Splits -->
+			<fn ref="c"><i>Am Rande nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Zu verstehen: in literis. - Gemeint ist hier das Schreiben des <placeName ref="1976">Augsburger</placeName> Rates an den Zürcher Rat vom 1. September 1546, mit dem Zürcher Pfarrer nach <placeName ref="1976">Augsburg</placeName> angeworben wurden; s. dazu <bibl>HBBW</bibl> XVII 379,77f mit Anm. 48.</fn>
+			<fn ref="2">Der Schmalkaldische Bund, dessen Zerfall mit der Unterwerfung <placeName ref="513">Ulms</placeName> begonnen hatte.</fn>
+			<fn ref="3"><persName ref="8130">Meyer (Agricola)</persName> meint sich und die anderen Zürcher Pfarrer in <placeName ref="1976">Augsburg</placeName>: <persName ref="8018">Johannes Haller</persName>, <persName ref="2812">(Hans) Thoman Ruman (Römer)</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.</persName></fn>
+			<fn ref="4">Wie z.B. <persName ref="8417">Wolfgang Musculus</persName> (s. <link fk_file="12802">Nr. 2753</link>,25f; <link fk_file="12808">Nr. 2759</link>,59f) und <persName ref="1860">Michael Keller</persName> (s. <link fk_file="12840">Nr. 2791</link>,38-41).</fn>
+			<fn ref="5">Zur geplanten Einquartierung kaiserlicher Truppen in <placeName ref="1976">Augsburg</placeName> s. <link fk_file="12834">Nr. 2785</link>,18-21; <link fk_file="12835">Nr. 2786</link>,8f. 10-12.</fn>
+			<fn ref="6">Bezug auf Bullingers Mahnungen, solange wie möglich in <placeName ref="1976">Augsburg</placeName> auszuharren und im Fall einer durch die Flucht nicht mehr zu vermeidenden Todesstrafe bis zum Schluss standhaft zu bleiben; s. <link fk_file="12801">Nr. 2752</link>,5-8; <link fk_file="12819">Nr. 2770</link>,14-27; <link fk_file="12829">Nr. 2780</link>,3-11.</fn>
+			<fn ref="7">Kardinal <persName ref="7840">Otto Truchsess von Waldburg</persName>. - Siehe schon Nr. 2743,49-54.</fn>
+			<fn ref="8">Dan 11, 31; 12, 11.</fn>
+			<fn ref="9"><persName ref="19981">Paul III.</persName></fn>
+			<fn ref="10"><persName ref="2336">Bernardino Ochino</persName>; s. dazu <link fk_file="12818">Nr. 2769</link>, Anm. 17.</fn>
+			<fn ref="11"><persName ref="3018">Francesco Stancaro</persName>; s. schon <link fk_file="12835">Nr. 2786</link>, Anm. 14.</fn>
+			<fn ref="12">Siehe <link fk_file="12818">Nr. 2769</link>, Anm. 18.</fn>
+			<fn ref="13"><persName ref="8354">Georg Frölich</persName>.</fn>
+			<fn ref="14">Ps 44, 23 (Vulg. 43, 22).</fn>
+			<fn ref="15">Siehe <i>Adagia,</i> 1, 5, 4 <i>(ASD</i> II/1 479-482, <link fk_file="10439">Nr. 404</link>).</fn>
+			<fn ref="16"><persName ref="6543">Schwyzer</persName>.</fn>
+			<fn ref="17" type="bio" fk_person="5797"><persName ref="5797">Regula, geb. Meier</persName>?</fn>
+			<fn ref="18">sinistro Hercule: unter schlechten Voraussetzungen; vgl. Theodoricus <i>Morellus Campanus,</i> Enchiridion ad verborum copiam haud infrugiferum, <placeName ref="301">Lyon</placeName> 1540, S. 251; <bibl>Wander</bibl> IV 947, <link fk_file="10132">Nr. 103</link>. - Vgl. ferner den entgegengesetzten Ausdruck "dextro Hercule aut amico Hercule"; s. <i>Adagia,</i> 1, 1, 73 <i>(ASD</i> II/1 186, Nr. 73); <bibl>Kirsch</bibl> 1348.</fn>
+			<fn ref="19">Ps 60 (Vulg. 59), 13.</fn>
+		</num>
+	</footnotes>
+</file>

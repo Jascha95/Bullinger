@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12871" id_hbbw="2822" id_irg_sort="2822" id_sort="128220">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12871</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2822</arpa>
+		<scan_pages>
+			<scan id="30136" dir="12871/Autograph/" page="1">00 E_II_366__fol__204_r_.tif</scan>
+			<scan id="30137" dir="12871/Autograph/" page="2">01 E_II_366__fol__204_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26286" vf="1" fk_add_type="1">
+				<person id="1278" fk_id="1278">
+					<name>Gast</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="28" vf="" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26287" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12871">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">24</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19440">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 366,204</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12383" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2822, S. 346</entry>
+				<page>346</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="31">
+				<lang id="1" iso="de" count="23" p="74.2"/>
+				<lang id="5" iso="la" count="8" p="25.8"/>
+			</sentences>
+			<words count="316">
+				<lang id="1" iso="de" count="251" p="79.4"/>
+				<lang id="5" iso="la" count="65" p="20.6"/>
+			</words>
+			<chars count="1638">
+				<lang id="1" iso="de" count="1271" p="77.6"/>
+				<lang id="5" iso="la" count="367" p="22.4"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2822" page="345">
+		<div ref="1">
+			[1] Das Befinden des schwerkranken <persName ref="8418">Myconius</persName> verschlechtert sich täglich. Gott möge ihn wieder gesund
+			machen!
+		</div>
+		<div ref="2">
+			[2] Graf <persName ref="8098">Georg von Württemberg</persName> kam nach <placeName ref="28">Basel</placeName> mit einem jungen,
+			frommen Grafen von Castelberg aus <entity id="19" type="geo_region">Franken</entity> [<persName ref="7432">Friedrich XI. von Castell</persName>], der von <persName ref="18538">Kaiser Karl V.</persName> um seinen Besitz gebracht wurde.
+		</div>
+		<div ref="3">
+			[3] <persName ref="7706">Nicolas Perrenot</persName>, Herr von Granvelle, zog von<pb_edition start_of="346"/>
+			<placeName ref="922">Freiburg i.Br.</placeName> über
+			<placeName ref="64">Breisach</placeName> und <placeName ref="1273">Ensisheim</placeName>
+			nach <placeName ref="2189">Thann</placeName> in <placeName ref="631">Burgund</placeName>.
+			Als ihn der Bürgermeister [<persName ref="7766">Hans Schirin</persName>] in <placeName ref="339">Neuenburg am Rhein</placeName>
+			fragte, wann denn der Kaiser Frieden geben werde, antwortete er, wann dieser es wolle. Man erfuhr auch von
+			ihm, dass der Kaiser über 30000 Mann verloren habe.
+		</div>
+		<div ref="4">
+			[4] In <placeName ref="922">Freiburg</placeName>, wo sich viele Landsknechte mit unbekanntem Ziel
+			befinden, wirbt man Truppen für den Kaiser an.
+		</div>
+		<div ref="5">
+			[5] <persName ref="18835">Johann Hilchen von Lorch</persName> ist noch in <placeName ref="157">Frankfurt</placeName>. Man wartet
+			darauf, dass <persName ref="7459">Maximilian von Egmont</persName>, Graf von Büren, [aus <placeName ref="513">Ulm</placeName>] vom
+			Kaiser zurückkehrt.
+		</div>
+		<div ref="6">
+			[6] Die <placeName ref="492">Straßburger</placeName> haben
+			<persName ref="6733">Jakob Sturm</persName> und <persName ref="18230">Mathis Pfarrer</persName>
+			zum Kaiser entsandt. Was diese erreicht haben, kann <persName ref="1278">Gast</persName> noch nicht sagen.
+		</div>
+		<div ref="7">
+			[7] Es heißt, dass <persName ref="19065">Johann Friedrich von Sachsen</persName> gegen den Markgrafen <persName ref="18422">Albrecht Alcibiades von Brandenburg-Kulmbach</persName> und auch gegen den Würzburger Bischof <persName ref="7882">Melchior Zobel</persName> zieht. Der Herr möge ihm zum Sieg
+			verhelfen! Schenkt Gott keinen Frieden, kommt es zu einem gewaltigen Aufstand in der Christenheit.
+		</div>
+		<div ref="8">
+			[8] Verbürgt ist, dass ein Bauer [...] aus dem Dorf Häsingen, eine Meile von
+			<placeName ref="28">Basel</placeName> entfernt, schriftlich verlangt hat, dass seinem Junker <persName ref="7463">Hans Ludwig von Eptingen</persName> 80 Hauptleute geschickt werden. Denn es gebe sehr viele Todesfälle bei ihnen, und von
+			den neun Söldnern, die der Junker aus ihrem Dorf angeworben hatte, seien bereits acht gestorben. Mögen alle
+			Feinde Christi und seiner Diener zugrunde gehen!
+		</div>
+		<div ref="9">
+			[9] [P.S.:] Grüße.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2822" page="346">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. in domino.</s>
+				<s n="2" lang="la" state="auto"><persName ref="8418">Myconius</persName> noster gravissimo morbo laborat,<fl>2</fl> qui in singulos dies crescit periculosiorque fit.</s>
+				<s n="3" lang="la" state="auto">Rogate itaque dominum, ut eum restituat, si ei visum fuerit, pristinamque sanitatem recuperet.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="de" state="auto">Nova: Graff Jörg von <placeName ref="572">Wirtenberg</placeName><fl>3</fl> ist by unß.</s>
+				<s n="5" lang="de" state="auto">Hat mit im bracht ein graven von Castelberg uß Francken<fl>4</fl>, dem der keyser<fl>5</fl> alles genomen hatt: ein fast<fl>6</fl> frommer gotzfoͤrchtiger mann.</s>
+				<s n="6" lang="de" state="auto">Ist noch jung.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="de" state="auto"><persName ref="7706">Granvella</persName><fl>7</fl> ist zuͦ <placeName ref="922">Friburg</placeName><fl>8</fl> gsin, durch <placeName ref="1273">Ensisheim</placeName> und Brisach zogen uff Dan<fl>9</fl> in Burgundt.<fl>10</fl></s>
+				<s n="8" lang="de" state="auto">Hat <la>inter prandendum</la> zuͦ <placeName ref="339" state="auto_name">Nüwenburg</placeName><fl>11</fl> gsagt, do im <pb_edition start_of="347"/> gfragt der burgenmeyster<fl>12</fl>, wann k[eyserliche] m[ajestat] frid welte machen: Der keyser mache frid, wann er wölle; so habe er uff den huͤttigen tag mer dan 30000 mann verloren.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="de" state="auto">Die von <placeName ref="922">Friburg</placeName> nemen im namen k. m. knecht an.</s>
+				<s n="10" lang="de" state="auto">Es louffen ouch vil lantzknecht by unß umb her.</s>
+				<s n="11" lang="de" state="auto">Wo sy hin wendt<fl>13</fl>, weiß ich nit.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="12" lang="de" state="auto">Herr <persName ref="18835">Johan Hilchi</persName><fl>14</fl> ligt noch zuͦ Francfurt.</s>
+				<s n="13" lang="de" state="auto">Wartet mann, wan der von Buͤren<fl>15</fl> widerumb komme vom keyser.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="14" lang="de" state="auto">Die von <placeName ref="492">Straßburg</placeName> sollent hernn <persName ref="6733">Jacob Sturm</persName> und <persName ref="18230">Matthis Pfarrer</persName>, ammeyster<fl>16</fl>, zuͦr<fl>a</fl> k. m. gschickt haben.</s>
+				<s n="15" lang="de" state="auto">Was sie wellen außrichten, kan ich noch nit wüssen.<pb_edition start_of="348"/></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="16" lang="de" state="auto">Mann sagt, <la>elector <persName ref="19065" state="auto_name">Saxonię</persName><fl>17</fl></la> sölle dem margraff <persName ref="18422">Albrecht</persName><fl>18</fl> entgegenziehen, in willens, mit den keyserischen zuͦ schlagen.</s>
+				<s n="17" lang="de" state="auto">Got geb den sig!</s>
+				<s n="18" lang="de" state="auto">Der elector sol ouch den bischoff von Würtzburg<fl>19</fl> angriffen.</s>
+				<s n="19" lang="de" state="auto">Es wirt ein wunderberlicher lermen<fl>20</fl> werden in der christenheyt,<pb_scan n="204v."/> wo<fl>21</fl> got nit wirt frid nemmen.<fl>22</fl></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="20" lang="de" state="auto"><la>Hoc certum est:</la> Es hat ein buͤr<fl>23</fl> von Haͤgigen<fl>24</fl> <la>(est pagus miliare<fl>25</fl> a <placeName ref="28">Basilea</placeName> distans)<fl>b</fl></la> geschriben, das mann sym junckeren solle 80 centner<fl>c</fl><fl>26</fl> schicken.</s>
+				<s n="21" lang="de" state="auto">Heist <persName ref="7463">Hans Ludwig von Eptingen</persName>.<fl>27</fl></s>
+				<s n="22" lang="de" state="auto">Scribt derby, wie ein grosser sterbent noch by inen sey.</s>
+				<s n="23" lang="de" state="auto">Dann<fl>28</fl> diser juncker hat 9 buren in den dorff uffgebracht.<fl>29</fl></s>
+				<s n="24" lang="de" state="auto">Die 8 sindt gstorben; der nuͤnt lebt noch.</s>
+				<s n="25" lang="la" state="auto">Utinam omnes perirent, qui male volunt Christo et eius verbo et ministris!</s>
+				<s n="26" lang="la" state="manual">Amen.</s>
+				<s n="27" lang="la" state="manual">In die Mathie 1546.<fl>30</fl></s>
+				<s n="28" lang="la" state="auto">Tuus G.</s>
+				<s n="29" lang="la" state="auto">Salutabis omnes fratres in domino.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="30" lang="de" state="auto">Dem wolgelerten herren m. Heinrychen Bullingern, lütpriester zu Zürich, mynem geliebsten herren.</s>
+				<s n="31" lang="de" state="auto">Zurich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2822">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage</i> zun <i>oder</i> zum.</fn>
+			<fn ref="b"><i>Klammern ergänzt.</i></fn>
+			<fn ref="c"><i>Auflösung einer aus einem</i> c <i>gefolgt von einer Schleife bestehenden Abkürzung, wie diejenige, die etwa bei Paul Arnold</i> Grun, <i>Schlüssel zu alten und neuen Abkürzungen, Limburg an der Lahn 1966, S. 236, 1. Spalte, 2. Zeile, belegt ist.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Das von <persName ref="1278">Gast</persName> unten angeführte Jahr "1546" ist in Anbetracht des Inhalts dieses Briefes (besonders der Z. 8-10) auf den Matthiastag im Februar (und nicht auf jenen im September) 1547 zu datieren.</fn>
+			<fn ref="2"><persName ref="8418">Myconius</persName> war seit Anfang 1547 öfters krank; vgl. <link fk_file="12802">Nr. 2753</link>,22f; <link fk_file="12846">Nr. 2797</link>,1. 55f; <i>Henrich, <persName ref="8418">Myconius</persName> BW</i> 939, <link fk_file="11098">Nr. 1055</link>.</fn>
+			<fn ref="3"><persName ref="8098">Georg von Württemberg-Mömpelgard</persName>. - In seinem Brief von Mitte Januar (<link fk_file="12802">Nr. 2753</link>) hatte <persName ref="1278">Gast</persName> an Bullinger berichtet, dass man in <placeName ref="28">Basel</placeName> noch auf <persName ref="8098">Georg</persName> warte. Deshalb die hier schon längst überholte Angabe, zumal <persName ref="1278">Gast</persName> nicht wissen konnte, dass Bullinger bereits am 20. Januar durch <persName ref="8418">Myconius</persName> in <link fk_file="12810">Nr. 2761</link>,47, über <persName ref="8098">Georgs</persName> Ankunft informiert worden war.</fn>
+			<fn ref="4" type="bio" fk_person="18534">Höchstwahrscheinlich Graf Friedrich XI. von Castel! (geb. 29. Juli 1522 zu <placeName ref="2397">Castell</placeName> in Unterfranken, gest. 16. September 1552), der vom Katholizismus zum Protestantismus übertrat und von <persName ref="18538">Kaiser Karl V.</persName> in die Acht genommen wurde, weil er sich am Schmalkaldischen Krieg auf der Seite der Protestanten beteiligt hatte. Dass er schon damals in Kontakt mit dem Hause <placeName ref="572">Württemberg</placeName> stand, ist nicht auszuschließen, zumal sein Bruder Heinrich IV. von <placeName ref="2397">Castell</placeName> (1525-1595) später in die Dienste <persName ref="1546">Christophs von Württemberg</persName> trat; s. Friedrich Wilhelm <i>Viehbeck,</i> Abriß einer genealogischen Geschichte des Gräflichen Hauses <placeName ref="2397">Castell</placeName> in <entity id="19" type="geo_region">Franken</entity>, [Rüdenhausen] 1813, S. 52f; Gustav C. <i>Knod,</i> Deutsche Studenten in Bologna, 1289-1562. Biographischer <bibl>Index</bibl> zu den Acta nationis Germanicae universitatis Bononiensis, [Berlin] 1899, S. 238f, <link fk_file="11715">Nr. 1672</link>f.</fn>
+			<fn ref="5"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="6">sehr.</fn>
+			<fn ref="7"><persName ref="7706">Nicolas Perrenot</persName>, Herr von Granvelle.</fn>
+			<fn ref="8"><placeName ref="922">Freiburg i.Br.</placeName></fn>
+			<fn ref="9"><placeName ref="2189">Thann</placeName> (Dép. Haut-Rhin, F).</fn>
+			<fn ref="10">Diese Nachricht stimmt. <persName ref="7706">Nicolas Perrenot</persName>, Herr von Granvelle, war am 6. Februar nach <placeName ref="631">Burgund</placeName> aufgebrochen und wollte spätestens nach dreieinhalb Monaten wieder zurückkehren; s. <bibl>Venetianische Depeschen</bibl> II 167f, Anm. 2; <bibl>NBD</bibl> IX 470,13; Daniel <i>Antony,</i> <persName ref="7706">Nicolas Perrenot</persName> de Granvelle. Premier conseiller de Charles Quint, Clamecy 2006, S. 500- 503.</fn>
+			<fn ref="11"><placeName ref="339">Neuenburg am Rhein</placeName>.</fn>
+			<fn ref="12">Vermutlich Hans Schirm, der irgendwann zwischen dem 10. September 1546 (Todesdatum des Bürgermeisters <persName ref="7481">Leonhard Fuchs</persName>; s. <i>AK</i> XI/2 LXIX) und dem 21. März 1550 (s. <i>AK</i> VII 411, Anm. 2) als Bürgermeister von <placeName ref="339">Neuenburg</placeName> nachgewiesen ist; s. <i>AK</i> VI 371.</fn>
+			<fn ref="13">wollen.</fn>
+			<fn ref="14" type="bio" fk_person="18835"><persName ref="18835">Johann Hilchen von Lorch</persName> (geb. 1484, gest. am 15. April 1548), kaiserlicher Feldmarschall, 1547 in Diensten des Grafen <persName ref="18394">Wilhelm (des Reichen) von Nassau-Dillenburg</persName>; s. F[riedrich] <i>Otto,</i> <persName ref="18835">Johann Hilchen von Lorch</persName>, in: Annalen des Vereins für Nassauische Altertumskunde und Geschichtsforschung 24, 1892, Wiesbaden 1892, 16-19.</fn>
+			<fn ref="15"><persName ref="7459">Maximilian von Egmont</persName>, Graf von Büren. - Dass Büren sich zum Kaiser begeben hatte, geht auch aus Nr. 28 12,25- 32, hervor.</fn>
+			<fn ref="16">1547 war weder <persName ref="6733">Sturm</persName> noch <persName ref="18230">Mathis Pfarrer</persName> amtierender Ammeister von <placeName ref="492">Straßburg</placeName>. Vor diesem Zeitpunkt aber hatte Pfarrer schon mehrmals das Amt des Ammeisters und <persName ref="6733">Sturm</persName> das des Stettmeisters innegehabt; s. Jacques <i>Hatt,</i> Liste des membres du Grand Sénat de Strasbourg, des Stettmeistres, des ammeistres, des Conseils des XXI, XIII et des XV, du XIII e siècle à 1789, Strasbourg 1963, S. 211. 610. 624. - <persName ref="6733">Sturm</persName>, Pfarrer und <persName ref="5121">Marx Hag</persName> verließen <placeName ref="492">Straßburg</placeName> am 12. Februar, trafen am 19. in <placeName ref="513">Ulm</placeName> ein (s. <link fk_file="12859">Nr. 2810</link>, Anm. 45) und wurden am Tag darauf von <persName ref="7705">Antoine Perrenot</persName>, Bischof von Arras, empfangen (s. <bibl>PC</bibl> IV/I 613-615; Nr. 562). Ihnen wurden noch zwei weitere <placeName ref="492">Straßburger</placeName> Gesandte beigesellt, nämlich <persName ref="7633">Hans von Lindenfels</persName> und <persName ref="5376">Konrad Joham</persName>; s. ebd. 624, Anm. 9. Am 23. handelte man die Bedingungen zu einer versöhnung aus (s. ebd. 622; 646f, Nr. 578 - zum endgültigen vertrag s. ebd., S. 658- 660, <link fk_file="10626">Nr. 588</link>). Dabei blieb der Stadt eine kaiserliche Besatzung erspart (s. auch S. 620f. 647). Anfang März besprach man in <placeName ref="492">Straßburg</placeName> die Bedingungen (626-633, Nr. 569), und der Rat gab am 7. März den Gesandten die Zustimmung dazu (635-640, Nr. 572). Daraufhin gelangte <persName ref="6733">Sturm</persName> mit drei weiteren Gesandten (zu deren Namen s. <link fk_file="12897">Nr. 2848</link>, Anm. 27), allerdings ohne <persName ref="18230">Mathis Pfarrer</persName> (s. dazu <link fk_file="12919">Nr. 2870</link>,26-29), am 13. März nach <placeName ref="360">Nördlingen</placeName> (654), wo der Kaiser sich aufhielt, nachdem er <placeName ref="513">Ulm</placeName> am 4. verlassen hatte. Am 21. leisteten sie den Fußfall, ehe der Kaiser noch am selben Tag <placeName ref="360">Nördlingen</placeName> in Richtung <placeName ref="361">Nürnberg</placeName> verließ (658). Die Friedensbedingungen wurden im Vertrag vom 21. März festgehalten (658-660, <link fk_file="10626">Nr. 588</link>). Offiziell wurde den Straßburgern keine Geldstrafe auferlegt. Dennoch verlangte der Kaiser 30000 oder 36000 Florin (Gulden) sowie die Lieferung von 12 Kanonen und die entsprechende Munition; s. <persName ref="18107">Johann Georg Saladins</persName> <placeName ref="492">Straßburger</placeName> Chronik <i>(MGEGDE 2</i> XXIII 351) und <persName ref="17869">Daniel Specklins</persName>, "Collectanea" <i>(MGEGDE2</i> XIV 361f, <link fk_file="12430">Nr. 2383</link>).</fn>
+			<fn ref="17">Kurfürst <persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="18">Markgraf <persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach. - Siehe dazu <link fk_file="12859">Nr. 2810</link>, Anm. 38.</fn>
+			<fn ref="19"><persName ref="7882">Melchior Zobel</persName>. - Siehe dazu Christoph <i>Bauer,</i> <persName ref="7882">Melchior Zobel</persName> von Giebelstadt, Fürstbischof von Würzburg (1544-1558), Münster 1998, S. 299f.</fn>
+			<fn ref="20">wunderberlicher lermen: großer Aufstand; s. <bibl>SI</bibl> III 1383; XVI 629.</fn>
+			<fn ref="21">wenn.</fn>
+			<fn ref="22">frid nemmen: Frieden schaffen; s. <bibl>SI</bibl> IV 729.</fn>
+			<fn ref="23">Unbekannt.</fn>
+			<fn ref="24">Gemeint ist vermutlich Häsingen (<placeName ref="2398">Hésingue</placeName>, Dép. Haut-Rhin. F), etwa 7 km von <placeName ref="28">Basel</placeName> entfernt, damals ein Lehen des Klosters <placeName ref="2058">Murbach</placeName>.</fn>
+			<fn ref="25">Eine deutsche Meile entsprach etwa 7 bis 8 km.</fn>
+			<fn ref="26">Vom lat. centuria (Hauptleute). Hier vermutlich im allgemeinen Sinn von Kriegsleute.</fn>
+			<fn ref="27">Die Grafen <persName ref="7463">von Eptingen</persName> standen seit dem 15. Jh. in österreichischen Diensten. - Ein Graf dieses Namens ist für diese Zeit belegt, doch konnte nichts Näheres über ihn ermittelt werden.</fn>
+			<fn ref="28">Denn.</fn>
+			<fn ref="29">angeworben; s. <bibl>SI</bibl> V 710.</fn>
+			<fn ref="30">Siehe oben Anm. 1.</fn>
+		</num>
+	</footnotes>
+</file>

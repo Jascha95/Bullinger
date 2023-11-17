@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12801" id_hbbw="2752" id_irg_sort="2752" id_sort="127520">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12801</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2752</arpa>
+		<scan_pages/>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26133" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26134" vf="1" fk_add_type="1">
+				<person id="8018" fk_id="8018">
+					<name>Haller d.J.</name>
+					<forename>Johannes</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12801">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">14</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19364">
+				<doc_type id="7">Kopie</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 46,593</signature>
+				<author>von unbekannter Hand</author>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12350" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2752, S. 123</entry>
+				<page>123</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="23">
+				<lang id="1" iso="de" count="10" p="43.5"/>
+				<lang id="5" iso="la" count="13" p="56.5"/>
+			</sentences>
+			<words count="207">
+				<lang id="1" iso="de" count="92" p="44.4"/>
+				<lang id="5" iso="la" count="115" p="55.6"/>
+			</words>
+			<chars count="1152">
+				<lang id="1" iso="de" count="470" p="40.8"/>
+				<lang id="5" iso="la" count="682" p="59.2"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2752" page="122">
+		<div ref="1">
+			[1] Bullinger kann leider auf <persName ref="8018">Hallers</persName> drei Briefe vom 10., 23. und 27. Dezember [<bibl>HBBW</bibl> XVIII,
+			<link fk_file="12759">Nr. 2712</link>; <link fk_file="12770">Nr. 2723</link>;
+			<link fk_file="12774">Nr. 2726</link>] nicht ausführlich antworten. Er muss sich auf das Wichtigste
+			beschränken.
+		</div>
+		<div ref="2">
+			[2] Angesichts der Kapitulation so vieler Städte [vor <persName ref="18538">Kaiser Karl V.</persName>] hat <persName ref="8018">Haller</persName> gefragt, was denn zu tun
+			wäre. Bullinger rät ihm, so lange wie möglich in <placeName ref="1976">Augsburg</placeName>
+			auszuharren; er selbst würde derzeit dort noch bleiben können. Wäre es aber nicht mehr möglich, seinen
+			Glauben auszuüben und dort zu leben, würde er die besten Ratsmitglieder von seinem Weggang informieren und
+			versuchen, sich von diesen ein gutes Zeugnis ausstellen zu lassen. Unterdessen hat er mit <persName ref="8018">Hallers</persName> Verwandten
+			gesprochen. Sie werden beim Zürcher Rat erreichen, dass dieser <persName ref="8018">Haller</persName> der
+			<placeName ref="1976">Augsburger</placeName> Obrigkeit mit einem Brief ganz besonders empfiehlt.
+			<persName ref="8354">Georg Frölich</persName> wird <placeName ref="1976">Augsburg</placeName> auch nur dann verlassen, wenn er merkt,
+			dass alles verloren ist. Bullinger hofft fest auf Gott. <persName ref="8018">Haller</persName> [und die anderen Zürcher in
+			<placeName ref="1976">Augsburg</placeName>] sollen das Gleiche tun!
+		</div>
+		<div ref="3">
+			[3] Die Unterwerfung <placeName ref="513">Ulms</placeName> und anderer Städte unter den Kaiser
+			wird schlimme Folgen haben.
+		</div>
+		<div ref="4">
+			[4] Gestern schrieb <persName ref="4857">Wilhelm Frölich</persName> aus
+			<placeName ref="760">Solothurn</placeName> über den Plan des französischen <persName ref="7637">Königs Franz I.</persName>, in
+			<entity id="16" type="geo_country">Italien</entity> einzufallen. Dieser verfüge bereits über 18000
+			französische Soldaten, werbe 6000 <entity id="16" type="geo_country">Italiener</entity> an und begehre noch
+			14000 Eidgenossen. Vernimmt er aber, wie „mutig“ sich die Deutschen dem Kaiser kampflos ergeben haben,
+			wird<pb_edition start_of="123"/> wohl auch er sein Vorhaben aufgeben! So oder so ist nicht diesem
+			„ägyptischen König“, sondern Christus allein zu trauen.
+		</div>
+		<div ref="5">
+			[5] Gruß. <persName ref="1453">Haller</persName> bleibe standhaft!
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2752" page="123">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">G[ratiam] et p[acem].</s>
+				<s n="2" lang="la" state="auto">Ternas a te accepi, <persName ref="1453">Hallere</persName>, primas 10. decembris, secundas 23., tertias 27. decembris<fl>2</fl> datas.</s>
+				<s n="3" lang="la" state="auto">Ad eas non licuit ordine respondere.</s>
+				<s n="4" lang="la" state="auto">Summas rerum persequar:</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="la" state="auto">Petis consilium,<fl>3</fl> quid agas perturbatis hisce temporibus et urbibus plerisque deficientibus.</s>
+				<s n="6" lang="la" state="auto">Ego <placeName ref="1976">Augustae</placeName> haererem, quoad liceret; et omnino haerere possem.</s>
+				<s n="7" lang="la" state="auto">Ubi propter religionem et vitam diutius haerere non possem, cum optimorum ex senatu conscientia<fl>4</fl> discederem, ita ut, si fieri posset, saltem a bonis mecum reportarem testimonium.</s>
+				<s n="8" lang="la" state="auto">Interea monui affines tuos.<fl>5</fl></s>
+				<s n="9" lang="la" state="auto">Illi literas a senatu nostro impetrabunt, ut <placeName ref="1976">Augustano</placeName> senatui te commendent, ne te negligant.</s>
+				<s n="10" lang="la" state="auto"><persName ref="8354">Laetus</persName><fl>6</fl> non discedet, nisi omnia viderit desperata.</s>
+				<s n="11" lang="de" state="auto">Ich trawen gott baß.<fl>7</fl></s>
+				<s n="12" lang="de" state="auto">Sind<fl>8</fl> redlich und truwend doch auch gott, etc.</s>
+				<s n="13" lang="de" state="auto">Wer in menschen vertruwt, der fällt.<fl>9</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="14" lang="de" state="auto">Wir haben hie, daß <placeName ref="513">Ulmm</placeName> und vil der stetten samt <placeName ref="572">Wirtenberg</placeName><fl>10</fl> sich an deß keysers<fl>11</fl> gnad ergeben, etc.</s>
+				<s n="15" lang="de" state="auto">Darauß wirt hernach ein ungnad gottes und der menschen!<fl>12</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="16" lang="de" state="auto">Gestern schreibt <persName ref="4857">Frölich</persName><fl>13</fl> auß <placeName ref="760">Solothurn</placeName>, der könig auß Franckreich<fl>14</fl> werde begehren 14000 Eidgnossen.</s>
+				<s n="17" lang="de" state="auto">Habe gerüst 18000 Franzosen.</s>
+				<s n="18" lang="de" state="auto">Näme an 6000 <entity id="16" type="geo_country">Italier</entity>.</s>
+				<s n="19" lang="de" state="auto">Werde in <entity id="16" type="geo_country">Italiam</entity> fallen, etc.</s>
+				<s n="20" lang="de" state="auto">Zu besorgen, wann er verstat den klugen<fl>15</fl> mut der Teütschen, die sich ohne schlacht underthun lassend, steckh er ouch ynn<fl>16</fl>, <la>quanquam nihil prorsus fidam regi Aegyptio</la>.<fl>17</fl></s>
+				<s n="21" lang="la" state="auto">Domino fido.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="22" lang="la" state="auto">In hoc aeternum vale.</s>
+				<s n="23" lang="la" state="auto">Sis constans et fortis in domino.</s>
+				<note type="address">[Ohne Adresse<fl>18</fl>]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2752">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Randbemerkungen und Unterstreichungen von <persName ref="1628">Johann Heinrich Hottinger</persName>.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Datum, Unterschrift und Adresse wurden vom Abschreiber durch einen Vermerk am Briefanfang ersetzt: <i>Idem</i> [= Bullinger] <i>Eidem</i> [= <persName ref="1453">Haller</persName>]. <i>Tiguro Augustam. 14. ianuarii 1547.</i></fn>
+			<fn ref="2">1546. - Gemeint sind die Briefe <bibl>HBBW</bibl> XVIII, <link fk_file="12759">Nr. 2712</link>. 2723. 2726.</fn>
+			<fn ref="3">Ebd., S. 446.</fn>
+			<fn ref="4">Wissen.</fn>
+			<fn ref="5" type="bio" fk_person="5410">Darunter <persName ref="5410">Konrad Kambli</persName> (1515-1585), der Bruder von Elsbeth, der in Begleitung von mindestens einem weiteren "affinis" am 23. Januar Zürich verließ, um nach <placeName ref="1976">Augsburg</placeName> zu reisen; s. <persName ref="1453">Wolfgang Hallers</persName> Kalendereinträge zum Jahr 1547 (Zürich ZB, Ms D 269/4a, sub dato); <link fk_file="12829">Nr. 2780</link>, Anm. 5; <link fk_file="12835">Nr. 2786</link>,1f. 17f; <link fk_file="12840">Nr. 2791</link>,1-4.</fn>
+			<fn ref="6"><persName ref="8354">Georg Frölich</persName>.</fn>
+			<fn ref="7">lieber, eher; s. <bibl>SI</bibl> IV 1652 (ich stelle es lieber Gott anheim).</fn>
+			<fn ref="8">Seid. - Bullinger meint hier auch die drei anderen Zürcher Pfarrer in <placeName ref="1976">Augsburg</placeName>. <persName ref="8130">Lorenz Meyer (Agricola)</persName>, <persName ref="2812">(Hans) Thoman Ruman (Römer)</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.</persName></fn>
+			<fn ref="9">Vgl. Ps 118 (Vulg. 117), 8.</fn>
+			<fn ref="10"><persName ref="9780">Herzog Ulrich von Württemberg</persName>.</fn>
+			<fn ref="11"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="12">Gemeint ist: Daraus entsteht sowohl Gottes Missfallen als auch Unglück für die Menschen; s. <bibl>SI</bibl> II 660.</fn>
+			<fn ref="13"><persName ref="4857">Wilhelm Frölich</persName>. - Vgl. <link fk_file="12800">Nr. 2751</link>,53-59.</fn>
+			<fn ref="14">Franz Ï.</fn>
+			<fn ref="15">hervorragenden; s. <bibl>SI</bibl> III 622f. - Hier ironisch.</fn>
+			<fn ref="16">steckh er ouch ynn: gibt er auch auf.</fn>
+			<fn ref="17">Anspielung auf 2Kön 18, 21. 25; Jes 36, 6. 9. - Gemeint ist Franz Ï.</fn>
+			<fn ref="18">Vorliegender Brief, den Bullinger seinem Brief an <persName ref="8055">Ambrosius Blarer</persName> vom gleichen Tag beilegte (s. <link fk_file="12800">Nr. 2751</link>,62f), gelangte erst am 28. Januar nach Augsburg, nachdem einige der in oben Z. 8-10 erwähnten, "affines" schon dort eingetroffen waren; s. <link fk_file="12835">Nr. 2786</link>,1f.</fn>
+		</num>
+	</footnotes>
+</file>

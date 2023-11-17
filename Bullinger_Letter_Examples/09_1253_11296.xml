@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11296" id_hbbw="1253" id_irg_sort="1253" id_sort="112530">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11296</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1253</arpa>
+		<scan_pages>
+			<scan id="26265" dir="11296/Autograph/" page="1">00 E_II_342__fol__92_r_.tif</scan>
+			<scan id="26266" dir="11296/Autograph/" page="2">01 E_II_342__fol__92_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22926" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22927" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11296">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">4</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17768">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,92</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11082" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1253, S. 104</entry>
+				<page>104</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="21">
+				<lang id="5" iso="la" count="21" p="100.0"/>
+			</sentences>
+			<words count="225">
+				<lang id="5" iso="la" count="225" p="100.0"/>
+			</words>
+			<chars count="1342">
+				<lang id="5" iso="la" count="1342" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1253" page="104">
+		<div ref="1">
+			Wundert sich, daß <persName ref="8418">Myconius</persName> und
+			<persName ref="1365">Grynäus</persName> nicht antworten, nachdem er ihr Urteil über sein Buch „De
+			origine erroris“ erbeten hat [<link fk_file="11282">Nr. 1239</link>]. Einem Schreiben aus
+			<placeName ref="425">Rom</placeName> ist zu entnehmen, in
+			<placeName ref="1098">Florenz</placeName> sei ein von <persName ref="19981">Papst [Paul III.]</persName> veranlaßter
+			Anschlag auf Herzog [Cosimo
+			I.] gescheitert, <entity id="5" type="geo_island">Sizilien</entity> werde vom Türken bedroht, eine deutsche
+			Gesandtschaft habe in <placeName ref="425">Rom</placeName> für ein Bündnis gegen die Evangelischen
+			geworben, und in <entity id="9" type="geo_country">England</entity> solle der französische Kronprinz
+			[<persName ref="18500">Heinrich</persName>] als König eingesetzt und mit
+			Maria [Tudor], der Tochter
+			<persName ref="7386">Katharinas [von Aragonien]</persName>,
+			verheiratet werden. Gruß; Empfehlung <persName ref="8011">Gwalthers</persName>.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1253" page="104">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et vitae innocentiam a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Expostulares mecum, si tanto tempore nihil ad te dedissem litterarum, <persName ref="8418">Myconi</persName> charissime, quanto nunc tuis careo<fl>1</fl>.</s>
+				<s n="3" lang="la" state="auto">Aut offenderim te aut non recte valeas necesse est.</s>
+				<s n="4" lang="la" state="auto">Mallem autem id libere exponeres quam sileres perpetuo.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Miseram ad te et <persName ref="1365">Grynaeum</persName> exemplar lib[ri De] Orig[ine] erroris.</s>
+				<s n="6" lang="la" state="auto">Petieram vestrum iuditium<fl>2</fl>, sed nemo vel verbum respondet.</s>
+				<s n="7" lang="la" state="auto">Forte nondum licuit percurrere.</s>
+				<s n="8" lang="la" state="auto">Et de rebus vestris nihil scribitis.<pb_edition start_of="105"/></s>
+			</p>
+			<p>
+				<s n="9" lang="la" state="auto">A <placeName ref="425">Roma</placeName> scribit amicus quidam<fl>3</fl> hisce diebus captum esse <placeName ref="1098">Florentiae</placeName> quendam<fl>4</fl>, qui dicat fateaturque missum se a pontifice<fl>5</fl>, ut duci<fl>6</fl> venenum propinaret, quo <persName ref="4758" state="auto_name">Aloysium</persName><fl>7</fl> suum <placeName ref="1098">Florentinis</placeName> obtrudere liceret.</s>
+				<s n="10" lang="la" state="auto">Idem scribit Turcam maxima instructum classe <entity id="5" type="geo_island">Siciliae</entity> minitari<fl>a</fl><fl>8</fl>.</s>
+				<s n="11" lang="la" state="auto">Scribit legatos quosdam Germanicos <placeName ref="425">Romae</placeName> foederis cuiusdam contra evangelicos consecrandi gratia affuisse<fl>9</fl>; nescire vero, quid actum sit etc.</s>
+				<s n="12" lang="la" state="auto">Putat is praeterea<fl>b</fl> Anglo<fl>10</fl> bellum parari<fl>11</fl>, quo eiiciatur regno et surrogetur ei delphinas<fl>12</fl>.</s>
+				<s n="13" lang="la" state="auto">Id ubi factum fuerit, separabitur authoritate summi pontificis ab eo uxor<fl>13</fl> pontificio creta sanguine, iungetur autem illi coniugio <persName ref="18505" state="auto_name">Maria</persName><fl>14</fl>, <persName ref="7386">Catharinae</persName> <entity id="29" type="geo_country">Hispanae</entity> repudiatae ab Anglo filia etc.</s>
+				<s n="14" lang="la" state="auto">Haec et alia truculenta et proditoria a <placeName ref="425">Roma</placeName> scribit, qui <placeName ref="425">Romanensium</placeName> practicarum non omnino inscius est.</s>
+				<s n="15" lang="la" state="auto">Ego illa tibi communicare volui; si forte et alia huius generis tibi innotuerint, significes.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Oremus dominum, ut fuso antichristo ipse in ecclesia sua regnet ac triumphet.</s>
+				<s n="17" lang="la" state="auto">Vale una cum d. <persName ref="1365">Grynaeo</persName> et caeteris.</s>
+				<s n="18" lang="la" state="auto">Commendatum tibi habebis <persName ref="8011">Gvalterum</persName> meum.</s>
+				<s n="19" lang="la" state="auto">12. aprilis 1539.</s>
+			</p>
+			<p>
+				<s n="20" lang="la" state="auto">H. Bullingerus tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="21" lang="la" state="auto">Domino <persName ref="8418">Osvaldo Myconio</persName>, fratri charissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1253">
+		<alpha>
+			<fn ref="a"><i>korrigiert aus</i> minist...</fn>
+			<fn ref="b">praeterea <i>am Rande nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Bullinger erhielt <persName ref="8418">Myconius</persName>' Brief vom 8. April (oben <link fk_file="11295">Nr. 1252</link>) erst verspätet; vgl. unten <link fk_file="11299">Nr. 1256</link>, 2-4.</fn>
+			<fn ref="2">Siehe oben <link fk_file="11282">Nr. 1239</link>, 10-15.</fn>
+			<fn ref="3">Unbekannt; das Schreiben scheint verloren zu sein (vgl. auch unten <link fk_file="11300">Nr. 1257</link>, 6-16).</fn>
+			<fn ref="4">Unbekannt; anscheinend handelt es sich um ein bloßes Gerücht.</fn>
+			<fn ref="5"><persName ref="19981">Paul III.</persName></fn>
+			<fn ref="6"><persName ref="7659">Cosimo I. de' Medici</persName>.</fn>
+			<fn ref="7" type="bio" fk_person="4758"><persName ref="4758">Pier Luigi (Petrus Aloisius) Farnese</persName>, 1503-1547, Sohn <persName ref="19981">Papst Pauls III.</persName>, galt als Condottiere von rücksichtsloser Wildheit. Wegen seiner Beteiligung am Sacco di Roma war er exkommuniziert worden; nach der Papstwahl seines Vaters gelangte er jedoch rasch zu Ansehen und Einfluß in <placeName ref="425">Rom</placeName>. 1545 machte ihn der Papst zum Herzog von <placeName ref="1122">Parma</placeName> und <placeName ref="1161">Piacenza</placeName>. Zwei Jahre später fiel er einem Mordanschlag von kaiserlicher Seite zum Opfer. - Lit.: <bibl>Pastor</bibl> V 18f. 619-622 und Reg.; Corrado <i>Argegni,</i> Condottieri, capitani, tribuni, Milano 1936. -Enciclopedia biografica e bibliografica "Italiana", Bd. XIX/1, S. 367f.</fn>
+			<fn ref="8">Für eine akute Bedrohung <entity id="5" type="geo_island">Siziliens</entity> gibt es aus dieser Zeit keine konkreten Anhaltspunkte.</fn>
+			<fn ref="9">Vielleicht bezieht sich das Gerücht auf den bayerischen Rat <persName ref="6713">Georg Stockhamer</persName>, der am 9. Dezember 1538 mit einem Hilfegesuch Herzog Wilhelms IV. zum Papst entsandt worden war; s. Acta reformationis catholicae ecclesiam Germaniae concernentia saeculi XVI, Bd. III, 1. Teil, hg. v. Georg Pfeilschifter, Regensburg 1968, S. 15.</fn>
+			<fn ref="10"><persName ref="18505">König Heinrich VIII.</persName></fn>
+			<fn ref="11">Zu den Gerüchten über einen bevorstehenden Angriff auf <entity id="9" type="geo_country">England</entity> vgl. oben <link fk_file="11295">Nr. 1252</link>, 6-8 u. ö.</fn>
+			<fn ref="12">Kronprinz Heinrich.</fn>
+			<fn ref="13"><persName ref="7662">Katharina von Medici</persName>.</fn>
+			<fn ref="14" type="bio" fk_person="18505">Maria Tudor (1516-1558), die spätere Königin Maria I., Tochter <persName ref="18505">Heinrichs VIII.</persName> und <persName ref="7386">Katharinas von Aragonien</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

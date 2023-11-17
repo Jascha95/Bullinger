@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12812" id_hbbw="2763" id_irg_sort="2763" id_sort="127630">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12812</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2763</arpa>
+		<scan_pages>
+			<scan id="29990" dir="12812/Autograph/" page="1">00 E_II_357__S__66_.tif</scan>
+			<scan id="29991" dir="12812/Autograph/" page="2">01 E_II_357__S__67_.tif</scan>
+			<scan id="29992" dir="12812/Autograph/" page="3">02 E_II_357__fol__68_r_.tif</scan>
+			<scan id="29993" dir="12812/Autograph/" page="4">03 E_II_357__fol__68_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26163" vf="0" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26164" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12812">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">22</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19378">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357,66–68</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9030" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 570f, Nr. 1396</entry>
+			</print>
+			<print id="12406" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2763, S. 168</entry>
+				<page>168</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="60">
+				<lang id="1" iso="de" count="60" p="100.0"/>
+			</sentences>
+			<words count="1021">
+				<lang id="1" iso="de" count="1021" p="100.0"/>
+			</words>
+			<chars count="5189">
+				<lang id="1" iso="de" count="5189" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2763" page="167">
+		<div ref="1">
+			[1] <persName ref="8055">Blarer</persName> hofft, dass der am Vortag entsandte Bote [...] seinen Brief
+			[<link fk_file="12811">Nr. 2762</link>] überbracht hat.
+		</div>
+		<div ref="2">
+			[2] Heute erhielt er den [Hohentwieler] Vertrag. Die Verzagtheit und Verzweiflung [<persName ref="9780">Herzog Ulrichs von Württemberg</persName>] lässt <persName ref="8055">Blarer</persName> Blut schwitzen! Er wollte das Dokument
+			für Bullinger abschreiben, erfuhr aber, dass der <placeName ref="457">Konstanzer</placeName> Rat es
+			mit dem gegenwärtigen Boten [...] dem Zürcher Rat übersenden wird.
+		</div>
+		<div ref="3">
+			[3] Genauso wie Bullinger ihn letzthin [in einem nicht erhaltenen Brief] beschworen hat [standhaft zu
+			bleiben], möchte nun auch er Bullinger dringlich bitten, sich in
+			<placeName ref="587">Zürich</placeName> für die
+			<placeName ref="457">Konstanzer</placeName> einzusetzen, zumal aus dem Hohentwieler Vertrag die
+			Absichten <persName ref="18538">Kaiser Karls V.</persName> deutlich hervorgehen. Unter ständiger Erwähnung des Hauses
+			<entity id="35" type="geo_country">Österreich</entity> fordert dieser, als naturgemäßer Herr anerkannt zu
+			werden. Wenn die Eidgenossen den Ernst der Lage nicht erkennen, so steht allen [den Konstanzern und den
+			Eidgenossen] bald eine schändliche Knechtschaft unter den Spaniern bevor. Bullinger soll an <persName ref="8055">Blarer</persName> denken
+			und den Zürchern gut zureden, damit sie keine Entscheidungen treffen, die nicht zu verantworten sind.
+		</div>
+		<div ref="4">
+			[4] Der Herr lässt sich nicht verspotten, sondern fordert, dass man aufrecht handelt und sich seines Namens
+			nicht schämt. Wenn man doch nur ein Einsehen hätte! Käme es nicht dazu, werden die Eidgenossen und die
+			<placeName ref="457">Konstanzer</placeName> die schlimmen Folgen ausbaden müssen.
+		</div>
+		<div ref="5">
+			[5] Während der Woche ist ein stattlicher Reiter [...] durch den
+			<placeName ref="774">Thurgau</placeName> geritten und hat die Gegend besichtigt. Als er in einem
+			Dörfchen auf eine Hochzeitsgesellschaft stieß, setzte er sich zu den Bauern, trank mit ihnen und sagte unter
+			anderem: „Oh ihr Schweizer, bald werdet ihr mit einem Fuß im Rhein
+			und mit dem anderen im Blut waten müssen!“ Als etliche ihn daraufhin verprügeln wollten, sagte ein alter
+			Mann, man solle ihn laufen lassen, weil sich sonst [die
+			<placeName ref="774">Thurgauer</placeName>] auch nirgendwohin mehr begeben könnten, ohne
+			verprügelt zu werden. Wie konnte sich der Reiter nur eine solche Vermessenheit auf Schweizer Boden erlauben
+			und auch noch ungestraft davonkommen?
+		</div>
+		<div ref="6">
+			[6] Bullinger soll sich nochmals den Hohentwieler Vertrag anschauen. Es ist doch so, als sagte der Kaiser:
+			„Ich lasse dir dein Fürstentum noch acht Tage, bis sich mir eine gute Gelegenheit bietet, es dir zu
+			entziehen.“
+		</div>
+		<div ref="7">
+			[7] Der junge Herzog <persName ref="1546">Christoph [von Württemberg]</persName> ist mit
+			Gemahlin [Anna Maria, geb. von Brandenburg-Ansbach] und Kindern nach
+			<placeName ref="28">Basel</placeName> geflohen, vermutlich, um den Hohentwieler Vertrag nicht
+			ratifizieren zu müssen. Seine Niederlassung in <placeName ref="28">Basel</placeName> erklärt sich
+			auch durch die Ankunft von 1200 Reitern im <placeName ref="631">Burgund</placeName>, die vorhaben,
+			[die Grafschaft Mömpelgard] einzunehmen. Auf seiner Flucht nach
+			<placeName ref="28">Basel</placeName> soll man versucht haben, ihn und seinen [Sohn Eberhard]
+			festzunehmen.
+		</div>
+		<div ref="8">
+			[8] Die Zürcher sollen bitten und beten! Die betrübte Zeit der Makkabäer ist angebrochen! Wenn Gott keinen
+			<persName ref="18167">Judas [Makkabäus]</persName> schickt und sich um diesen kein gutes, frommes Volk schart, so ist es um uns geschehen.
+			Möge Gott den Willen verleihen, sich zu ihm zu bekehren und seine Gebote zu halten, um seine Gnade erlangen
+			zu können.
+		</div>
+		<div ref="9">
+			[9] Es ist bestürzend zu hören (auch wenn Bullinger noch nichts darüber geschrieben hat), dass die
+			eidgenössischen Reisläufer, die den Schmalkaldenern zugelaufen sind, nun bestraft werden sollen und die
+			Zürcher dem sogar zustimmen! Diese Nachricht ist genauso enttäuschend wie der Brief des Zürcher Rats [durch
+			den <placeName ref="457">Konstanz</placeName> erfahren hat, dass die Eidgenossen der Stadt keine
+			Hilfe zusagen wollen]. Gott lebt aber. Er wird helfen!
+		</div>
+		<div ref="10">
+			[10] In der vergangenen Nacht sind Abgeordnete aus <placeName ref="291">Lindau</placeName>
+			eingetroffen. Diese Stadt wird ebenfalls von den Nachbarn zur baldigen Ergebung aufgefordert.
+		</div>
+		<div ref="11">
+			[11] Es fällt den Menschen schwer, alles auf Gott zu setzen. Gott sei gedankt für die Standhaftigkeit, die
+			er <persName ref="8055">Blarer</persName> verleiht. Dieser will lieber sterben, als in eine schändliche Versöhnung verwickelt zu werden.
+			Doch nur eine Handvoll Leute im Rat und unter den Bürgern ist seiner Meinung. Die Mehrheit ist anders
+			gesinnt. Er kann genau spüren, wie schwach der Rat und wie enttäuscht er über das Schreiben
+			der<pb_edition start_of="168"/> Zürcher ist, in dem lediglich versichert wurde, „dass man tun werde, was man
+			verantworten könne“. Bis vor Kurzem hat man noch ganz anders geredet!
+		</div>
+		<div ref="12">
+			[12] <persName ref="8055">Blarer</persName> wäre es am liebsten, wenn man weder von den Zürchern noch von irgendjemand, sondern nur von
+			Gott allein etwas erwarten würde. Doch da die Mehrheit anders gesinnt ist, hofft <persName ref="8055">Blarer</persName>, dass dieser
+			Schwachheit auf gebührende, ehrbare Weise abgeholfen werden kann, um viel Ärger zu verhüten.
+		</div>
+		<div ref="13">
+			[13] Könnten die Eidgenossen doch nur das ihnen bevorstehende Übel erkennen und ihre Haltung überdenken!
+		</div>
+		<div ref="14">
+			[14] Nur Mut! Das Ende ist da. Deshalb ist es wohl für Rat und Hilfe zu spät. Dies entspricht dem gerechten
+			Urteil Gottes, der die Seelen der Seinen ewig erhalten möge.
+		</div>
+		<div ref="15">
+			[15] Grüße.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2763" page="168">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Sonders vertrauwter bruͦder, auff gestert hab ich euch ain botten<fl>1</fl> zuͦgeschickt; achten, euch wol zuͦkommen sein.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="2" lang="de" state="auto">Auff heutt kompt mir fuͤr der wirtembergisch vertrag oder articul seiner versuͤnung,<fl>2</fl> wie man sy nennt, darob ich wol hett moͤgen bluͦt schwytzen und gar zuͦ wasser werden<fl>3</fl>, das wir so verzweyfelt und verzagt handlen!</s>
+				<s n="3" lang="de" state="auto">Hett euch die articul abgeschriben, wa<fl>4</fl> ich nitt vernommen, das mine herrnn den ewern dieselbigen by disem botten<fl>5</fl> zuͦschickten.<fl>6</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="4" lang="de" state="auto">Hab euch aber dabey erinneren wellen und vermanen, ouch bezeugen<fl>7</fl>, so hoch und theür ir mich nechermal bezeugt und beschworen hapt,<fl>8</fl> nichts zuͦ underlassen by den ewern, damitt gmainen sachen geholffen werde.</s>
+				<s n="5" lang="de" state="auto">Dann diewyl ir in disen articuln secht, wahin des kaisers<fl>9</fl> grund<fl>10</fl> steht und gelegt ist, und das man inn muͦsß für ain naturlichen herren bekennen (daß doch kain kaiser ye begert hat)<fl>a</fl>, und das hausß Österrich für und für gemeldt<fl>11</fl> wirt, so lassts euch angelegen sein.<fl>12</fl></s>
+				<s n="6" lang="de" state="auto">Dann wellend ir, Aidgnossen, diß ding nitt mercken und verston, so merck und verstand ich wol, das dye strauff und plag vorhanden ist und wir all gar bald in schwäreste der Spanyer dienstbarkait<fl>13</fl> kommen muͤssind.</s>
+				<s n="7" lang="de" state="auto">Gott sey es ewigklich klagt, das wir allso mitt schand und schmach muͦssen zuͦ grund gehn und nitt so maͤhr<fl>14</fl> rytterlich und dapffer<fl>15</fl> darob<fl>16</fl> lydend.</s>
+				<s n="8" lang="de" state="auto">Nun gedenckt an mich,<fl>17</fl> und secht, was ir thuet.</s>
+				<s n="9" lang="de" state="auto">Sprecht den ewern dapfer zuͦ, sparet nicht, damitt sy nitt da sytzen und <pb_edition start_of="169"/> in sachen bewilligen, und iaa dartzuͦsagind, die aber nitt verantwurtlich<fl>18</fl> seyen.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="10" lang="de" state="auto">Ach gott, der herr, lasst sich nitt fatzen<fl>19</fl> noch aͤffen.<fl>20</fl></s>
+				<s n="11" lang="de" state="auto">Er will, daß man uffrecht und grad handle und sich seines nammens nitt bescheme.</s>
+				<s n="12" lang="de" state="auto">Ach, daß wirs bedaͤchten!</s>
+				<s n="13" lang="de" state="auto">Es wirt uns unser schad und zuͦ spat wytzig<fl>21</fl> machen.</s>
+				<s n="14" lang="de" state="auto">Das bad ist euch und unß uberthon.<fl>22</fl></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="15" lang="de" state="auto"><fl>b</fl> Es ist diß nechst tag in diser wochen ain ansehlicher ruͤter<fl>23</fl> durch vyl flecken im Turgöw geritten.</s>
+				<s n="16" lang="de" state="auto">Waist nieman, wer er ist.</s>
+				<s n="17" lang="de" state="auto">Hat das glend<fl>24</fl> besichtiget, und under anderm in ain flecken kommen.</s>
+				<s n="18" lang="de" state="auto">Ist ain hochzyt gewesen.</s>
+				<s n="19" lang="de" state="auto">Hat er sich ouch zuͦ den puren gesetzt, mitt inn truncken, under anderm gesagt: „O ir schwytzer, es wirt in kurtzen tagen darzuͦkommen, das ir mitt dem ainen fuͦß im Ryn<fl>25</fl>, mitt dem andern im bluͦt watten muͤssen.“<fl>b_2</fl></s>
+				<s n="20" lang="de" state="auto">Haben ettlich inn wellen schlachen.</s>
+				<s n="21" lang="de" state="auto">Hat ain alter man gesagt: „Ey, last inn loffen; wir doͤrfften sunst ouch den kopff nienen hinuͦß strecken, man schluͤge unß.“</s>
+				<s n="22" lang="de" state="auto">Gedenkt, was diß fur ain vermessenhait und praesagium seye uff ewerm boden, und hat ongerechtfertigt hingehn muͤssen.<fl>26</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="23" lang="de" state="auto"><pb_scan n="67"/>Lieber, besecht den vertrag<fl>27</fl> und wirtembergisch versuͤnung recht und erwegts mitt fleyß.</s>
+				<s n="24" lang="de" state="auto">Ist es nitt ain lauter<fl>28</fl> tyranney und nitt anderst dann: „Ich will dir din furstenthuͦmb noch acht tag lassen bysß zuͦ meiner bessten gelegenhait; darnach will ich dirs gar nemmen; hab ursach und anspruch gnuͦg?“</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="25" lang="de" state="auto">Der jung hertzog <persName ref="1546">Christoph</persName><fl>29</fl> ist mitt seinem gemachel<fl>30</fl> und kinden<fl>31</fl> gen <placeName ref="28">Basel</placeName> gewichen.<fl>32</fl></s>
+				<s n="26" lang="de" state="auto">Achten von deßwegen<fl>33</fl>, das er diß unbillich versoͤnung nitt ratificieren muͤsse.<fl>34</fl></s>
+				<s n="27" lang="de" state="auto">Daneben wirt hergeschriben, man hab inn fachen<fl>35</fl> söllen und die jungen<fl>36</fl> hinweg fuͤren.</s>
+				<s n="28" lang="de" state="auto">Seind 1200 pferdt in <placeName ref="631">Burgund</placeName> darum ankommen, damitt <placeName ref="572">Wirtemberg</placeName> gar eingezogen wurd.<fl>37</fl></s>
+				<s n="29" lang="de" state="auto">Des seye er gewarnet worden und allso gewychen.<pb_edition start_of="170"/></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="30" lang="de" state="auto">Ach hellfft uns bitten und betten!</s>
+				<s n="31" lang="de" state="auto">Es seind warlich der Machabeer zeyten, und wann gott nitt etwan ain Judam<fl>38</fl> erweckt, und ain guͦts froms voͤlckle sich zuͦsammenn schlecht<fl>39</fl>, das nichts dann gott, sein wort und das vatterland suͦcht, so ists sonst gethon.</s>
+				<s n="32" lang="de" state="auto">Gott verleych ernst, bekerung und eyfer, damitt wir unß hertzlich zuͦ imm bekerind, vergangne übel behertzigind und mitt styffem<fl>40</fl> fursatz kunfftigklich unß in gottes wolgefellige weg rychtind, damitt er ursach hab, unß zuͦ begnaden und ehr mitt unß einzelegen.<fl>41</fl></s>
+				<s n="33" lang="de" state="auto">Amen.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="34" lang="de" state="auto">Es ist erschrocklich zuͦ hoͤren, das alle eweren, so dem reych<fl>42</fl> gezogen<fl>43</fl>, gestraufft sollen sein an ehr und guͦt, und ewer herren und ander auch vornem in soͤlichen abschyden stehn sollen.<fl>44</fl></s>
+				<s n="35" lang="de" state="auto">Es sagends ye vyl leut offenlich, wiewol ir kain meldung davon thaind<fl>45</fl>; dann<fl>46</fl> das (wie ewer schreiben<fl>47</fl> gleych argwon verursacht hat), staind glatt nitt, wie es billich sollt.<fl>48</fl></s>
+				<s n="36" lang="de" state="auto">Aber noch lebt der allt, starck gott!<fl>49</fl></s>
+				<s n="37" lang="de" state="auto">Dem seye lob und preyß in ewigkait.</s>
+				<s n="38" lang="de" state="auto">Er wirt noch seinen arm usstrecken und unß vaͤtterlich hellffen.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="39" lang="de" state="auto"><pb_scan n="68"/>Die von Lyndauw sind vergangner nacht hieher kommen und noch hie.</s>
+				<s n="40" lang="de" state="auto">Denen werden vyl guͦter wort zuͦgeschriben.</s>
+				<s n="41" lang="de" state="auto">Inen wirt ouch von ettlich <fl>c</fl>iren nachpuren<fl>c_2</fl> trungelich<fl>50</fl> gerathen, sich bald zuͦ ergeben.</s>
+				<s n="42" lang="de" state="auto">Was sy thain werden, mag ich nitt wissen.<fl>51</fl></s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="43" lang="de" state="auto">Ach gott, es sind dem flaisch schwer sachen<fl>52</fl>, alles allain uff gott setzen und wagen,<fl>53</fl> und wenig sind, die diß gab habend, dann es ist die hoͤchst gelassenhait.<fl>54</fl></s>
+				<s n="44" lang="de" state="auto">Gott seye ewig lob und danck, der mir uff diß stund diß hertz geben hat!</s>
+				<s n="45" lang="de" state="auto">Er wells in mir stercken und halten, das ich warlich, warlich, lieber und zuͦ tausend mal mitt rath und that helffen wellt, verderben und sterben, und alles thain und lyden, das moͤglich, dann in soͤlich schentlich, verzweyfelt versoͤnung gewickelt<fl>55</fl> werden, die ich nitt waiß zuͦ sechen noch ze hoͤren, geschwyg selbs darinn gemengt<fl>56</fl> ze sein.</s>
+				<s n="46" lang="de" state="auto">Und obwol noch ain handvol soͤlicher leut<fl>57</fl> im rath und gmain sind by uns<fl>d</fl>, noch ist der grösser hauff anderst gesinnet.</s>
+				<s n="47" lang="de" state="auto">Und sich<fl>58</fl> gleychwol yetzund allso bar<fl>59</fl> die schwachait, und wie hoch beschwerlich es von<fl>60</fl> ewern herren vom gmainen <pb_edition start_of="171"/> rathsman uffgenommen und verstanden wirt, das sy schreiben, sy wellind thain, das sy verantwurten mögen;<fl>61</fl> welchs bysher vyl anderst gelaut hat!</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="48" lang="de" state="auto">Ich wellt mins tails, das man weder uff euch noch yemands seche, dann uff den ainigen gott und die mittel, die man frey uss seinen gnaden haben und zuͦ hand bringen möcht.</s>
+				<s n="49" lang="de" state="auto">Ich sich aber, wie die gmain wellt gesinnet, und das es nitt yedermans ding ist.</s>
+				<s n="50" lang="de" state="auto">Drum wellt ich ouch hertzlich gern, das gemainer schwachait durch zymlich<fl>62</fl>, erbar weg geholffen wurd<fl>63</fl>, damitt vyl ergers verhuͤt wurde<fl>64</fl>.</s>
+			</p>
+		</div>
+		<div ref_regest="13">
+			<p>
+				<s n="51" lang="de" state="auto">O min gott, koͤndten ir Aidgnossen sechen mitt dem rechten oug in das euch berait<fl>65</fl> ubel, ouch von der wellt,<fl>66</fl> ir söllten euch bald ains andern und bessern bedenken!</s>
+			</p>
+		</div>
+		<div ref_regest="14">
+			<p>
+				<s n="52" lang="de" state="auto">Wolan!</s>
+				<s n="53" lang="de" state="auto">Ich denck offt, es ist am end<fl>67</fl> und kerab.<fl>68</fl></s>
+				<s n="54" lang="de" state="auto">Darum ist weder hilff noch rat noch yetzt zyt.</s>
+				<s n="55" lang="de" state="auto">Und so guͦt mittel sind, kan man sich dero nitt gebrauchen.</s>
+				<s n="56" lang="de" state="auto">Das sind die erschrocklichen, aber gerechten urtail gottes.</s>
+				<s n="57" lang="de" state="auto">Der erhallt unsre selen ewigklich.</s>
+			</p>
+		</div>
+		<div ref_regest="15">
+			<p>
+				<s n="58" lang="de" state="auto">Gruͤzt alle menschen.</s>
+				<s n="59" lang="de" state="auto">Datum 22. jenners aubends 1547.<fl>e</fl></s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="60" lang="de" state="auto">An Hainrich Bullinger zuͦ <placeName ref="587">Zürich</placeName>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2763">
+		<alpha>
+			<fn ref="a"><i>Hier und im Folgenden Klammern ergänzt.</i></fn>
+			<fn ref="b-b"><i>Dazu am Rande</i> Diß ist gewisß und war.</fn>
+			<fn ref="c-c"><i>Am oberen Rand nachgetragen.</i></fn>
+			<fn ref="d">by uns <i>vor dem Zeilenbeginn angebracht.</i></fn>
+			<fn ref="e"><i>Korrigiert aus</i> 1544.</fn>
+			<!-- Splits -->
+			<fn ref="b"><i>Dazu am Rande</i> Diß ist gewisß und war.</fn>
+			<fn ref="c"><i>Am oberen Rand nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Der unbekannte Bote, der <persName ref="8055">Blarers</persName> Brief vom Vortag überbrachte; s. <link fk_file="12811">Nr. 2762</link>,94.</fn>
+			<fn ref="2">Gemeint ist der zwischen <persName ref="9780">Herzog Ulrich von Württemberg</persName> und <persName ref="18538">Kaiser Karl V.</persName> geschlossene Hohentwieler Vertrag; s. <link fk_file="12795">Nr. 2746</link>, Anm. 21.</fn>
+			<fn ref="3">gar zü wasser werden: in Tränen (mich) auflösen; vgl. <bibl>SI</bibl> XVI 1803.</fn>
+			<fn ref="4">wenn.</fn>
+			<fn ref="5">Unbekannt.</fn>
+			<fn ref="6">Nämlich mit dem Brief des <placeName ref="457">Konstanzer</placeName> Rats an den Zürcher Rat vom 22. Januar (<placeName ref="587">Zürich</placeName> StA, A 177, <link fk_file="10192">Nr. 161</link>). Ihm war eine aus <placeName ref="291">Lindau</placeName> zugeschickte Abschrift des Hohentwieler Vertrags beigelegt (aaO, <link fk_file="10187">Nr. 156</link>).</fn>
+			<fn ref="7">überzeugen (wollen).</fn>
+			<fn ref="8">Auf diesen nicht erhaltenen Brief Bullingers bezog sich <persName ref="8055">Blarer</persName> schon in <link fk_file="12811">Nr. 2762</link>,1f.</fn>
+			<fn ref="9"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="10">Absicht.</fn>
+			<fn ref="11">für und für gemeldt: immer wieder erwähnt.</fn>
+			<fn ref="12">lassts euch angelegen sein: nehmt euch die Angelegenheit zu Herzen; s. <i>FNHDW</i> I 1147 s.v. angelegen.</fn>
+			<fn ref="13">Knechtschaft.</fn>
+			<fn ref="14">nitt so mahr: nicht lieber; s. <bibl>SI</bibl> IV 360.</fn>
+			<fn ref="15">Ironisch gemeint.</fn>
+			<fn ref="16">deshalb.</fn>
+			<fn ref="17">Anspielung auf <persName ref="8055">Blarers</persName> Bitte an Bullinger in <link fk_file="12811">Nr. 2762</link>,53-80.</fn>
+			<fn ref="18">zu verantworten.</fn>
+			<fn ref="19">verspotten; s. <bibl>Fischer</bibl> II 982.</fn>
+			<fn ref="20">betrügen; s. <bibl>Fischer</bibl> I 108.</fn>
+			<fn ref="21">klug; einsichtig.</fn>
+			<fn ref="22">Das bad ist euch und unß überthon: Ihr (die Zürcher) und wir (die <placeName ref="457">Konstanzer</placeName>) werden die Sache ausbaden müssen; vgl. <bibl>Wander</bibl> I 219, Nr. 35.</fn>
+			<fn ref="23">Unbekannt.</fn>
+			<fn ref="24">Gelände; Gegend.</fn>
+			<fn ref="25">Rhein.</fn>
+			<fn ref="26">Und hat ongerechtfertigt hingehn müssen: Und [die Angelegenheit] blieb ungestraft.</fn>
+			<fn ref="27">Den schon oben Z. 3-7 erwähnten Hohentwieler Vertrag.</fn>
+			<fn ref="28">klare.</fn>
+			<fn ref="29"><persName ref="1546">Christoph von Württemberg</persName>.</fn>
+			<fn ref="30" type="bio" fk_person="18818">Gemahlin (<persName ref="18818">Anna Maria von Württemberg, geb. von Brandenburg-Ansbach</persName>).</fn>
+			<fn ref="31">Siehe dazu unten Anm. 36.</fn>
+			<fn ref="32">Siehe <link fk_file="12810">Nr. 2761</link>.45-47, und Anm. 9.</fn>
+			<fn ref="33">von deßwegen: aus diesem Grund.</fn>
+			<fn ref="34"><persName ref="1546">Herzog Christoph</persName> ratifizierte den Vertrag erst unter Protest am 3. Februar; s. <i>Heyd, Ulrich von Württ.</i> III 476f.</fn>
+			<fn ref="35">inn fachen: ihn (<persName ref="1546">Christoph</persName>) festnehmen.</fn>
+			<fn ref="36" type="bio" fk_person="1546">Richtig: den Jungen. - Zu dieser Zeit hatte <persName ref="1546">Christoph</persName> nur einen Sohn, Eberhard, geb. in Mömpelgard am 7. Januar 1545, gest. in <placeName ref="195">Göppingen</placeName> ain 2. Mai 1568. Sein zweites Kind. Tochter Hedwig, kam erst in <placeName ref="28">Basel</placeName> zur Welt; s. <link fk_file="12810">Nr. 2761</link>, Anm. 23.</fn>
+			<fn ref="37">Zu den Rüstungen gegen <placeName ref="572">Württemberg-Mömpelgard</placeName> s. <bibl>EA</bibl> IV/1d 781 zu h.</fn>
+			<fn ref="38"><persName ref="18167">Judas Makkabäus</persName>, jüdischer Freiheitskämpfer.</fn>
+			<fn ref="39">tut.</fn>
+			<fn ref="40">festem.</fn>
+			<fn ref="41">damitt er ehr mitt unß einzelegen: damit es ihm zur Ehre gereicht.</fn>
+			<fn ref="42">den Schmalkaldenern.</fn>
+			<fn ref="43">zugezogen (sind).</fn>
+			<fn ref="44">Siehe dazu <link fk_file="12811">Nr. 2762</link> und Anm. 26; <link fk_file="12865">Nr. 2816</link>, Anm. 78.</fn>
+			<fn ref="45">tut.</fn>
+			<fn ref="46">46 denn.</fn>
+			<fn ref="47">47 Das bereits in <link fk_file="12811">Nr. 2762</link>,4-26. 35-41, kritisierte Schreiben des Zücher Rats an den <placeName ref="457">Konstanzer</placeName> Rat.</fn>
+			<fn ref="48">staind glatt nitt, wie es billich sollt: ent spricht durchaus nicht dem, was sich gehören würde.</fn>
+			<fn ref="49">Zur Redewendung s. <bibl>Fischer</bibl> I 154f.</fn>
+			<fn ref="50">dringend.</fn>
+			<fn ref="51">Siehe dazu <link fk_file="12795">Nr. 2746</link>, Anm. 9.</fn>
+			<fn ref="52">Vgl. Mt 26, 41 par.; Phil 3, 3.</fn>
+			<fn ref="53">Vgl. 2Kor 1, 9.</fn>
+			<fn ref="54">Vertrauen in Gott; Gottergebenheit.</fn>
+			<fn ref="55">verwickelt.</fn>
+			<fn ref="56">involviert.</fn>
+			<fn ref="57">die wie <persName ref="8055">Blarer</persName> denken.</fn>
+			<fn ref="58">(ich) sehe.</fn>
+			<fn ref="59">allso bar: derart deutlich; s. <bibl>Fischer</bibl> I 631.</fn>
+			<fn ref="60">ausgehend von.</fn>
+			<fn ref="61">Vgl. <link fk_file="12811">Nr. 2762</link>,35f.</fn>
+			<fn ref="62">gebührenden.</fn>
+			<fn ref="63">würde.</fn>
+			<fn ref="64">Anspielung auf <persName ref="4082">Zwicks</persName> Plan; s. <link fk_file="12811">Nr. 2762</link>,53-80.</fn>
+			<fn ref="65">bevorstehende.</fn>
+			<fn ref="66">d.h. nicht nur vonseiten Gottes, sondern auch vonseiten dieser Welt.</fn>
+			<fn ref="67">es ist am end: das Ende ist da.</fn>
+			<fn ref="68">der letzte Tanz (s. <bibl>Fischer</bibl> IV 333f), hier im Sinne von Ende (vgl. <bibl>Wander</bibl> II 1235, Nr. 3 s.v. Kehraus).</fn>
+		</num>
+	</footnotes>
+</file>

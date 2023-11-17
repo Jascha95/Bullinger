@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11349" id_hbbw="1306" id_irg_sort="1306" id_sort="113060">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11349</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1306</arpa>
+		<scan_pages>
+			<scan id="26380" dir="11349/Autograph/" page="1">00 E_II_377__fol__2691_r_.tif</scan>
+			<scan id="26381" dir="11349/Autograph/" page="2">01 E_II_377__fol__2691_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23040" vf="1" fk_add_type="1">
+				<person id="536" fk_id="536">
+					<name>Caesarius</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="267" vf="1" fk_id="267" long="6.95" lat="50.93333">Köln</place>
+				<district id="127">Nordrhein-Westfalen</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23041" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11349">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">8</month>
+				<day fk_d="" d="" vf="1" fn="">31</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17820">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 377,2691</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7471" fk_bib="0">
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>Krafft 126f</entry>
+			</print>
+			<print id="11167" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1306, S. 210</entry>
+				<page>210</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="16">
+				<lang id="5" iso="la" count="16" p="100.0"/>
+			</sentences>
+			<words count="345">
+				<lang id="5" iso="la" count="345" p="100.0"/>
+			</words>
+			<chars count="2004">
+				<lang id="5" iso="la" count="2004" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1306" page="210">
+		<div ref="1">
+			Konnte Bullingers Epistelkommentar noch nicht zu Ende lesen; einem Priester, der ihm den Band für viel Geld
+			abkaufen wollte, versprach er die Beschaffung eines Exemplars von der
+			[<placeName ref="157">Frankfurter</placeName>] Messe. Dankt für zwei weitere von Bullinger
+			geschenkte Bücher, „De origine erroris“ und „De scripturae sanctae authoritate“, die er mit Genuß gelesen
+			hat. Der Rat [in <placeName ref="267">Köln</placeName>] hat [1538] ein Einfuhrverbot für
+			lutherische Bücher beschlossen; einige Pfarrer predigen evangelisch, doch sie müssen jederzeit mit einer
+			Anzeige bei der Kirchenführung rechnen. Hat <persName ref="8011">[Rudolf] Gwalther</persName> wegen Zeitmangels nicht geschrieben.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1306" page="210">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Salutem in Christo Iesu, domino et servatore nostro.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Quo magis in tuis versor lucubrationibus, Henrice charissime, hoc<fl>a</fl> maiore<fl>b</fl> in dies illarum voluptate afficior.</s>
+				<s n="3" lang="la" state="auto">Commentaria in omnes apostolorum epistolas<fl>2</fl> nondum absolvi, id quod hac evenit occasione, quod videlicet alio occupatus studio.</s>
+				<s n="4" lang="la" state="auto">Interim illa sacrificus<fl>3</fl> quidam et doctus et pius a me<fl>c</fl> commodato accepit et legit atque, ubi reddidit, illud post habitas gratias<fl>d</fl> adiecit se cupere ac velle ea vel pluris emere, quam alias constent, quocumque precio.</s>
+				<s n="5" lang="la" state="auto">Cui ego tum respondi me nolle istis ullo pacto carere, ut quę mihi dono missa sint ab optimo amico, viro plane humanissimo, curare<pb_edition start_of="211"/> tamen velle, uti post proximas nundinas<fl>e</fl><fl>4</fl> ea sit habiturus; ac proinde cuidam studioso et evangelico<fl>f</fl> viro commisi, uti pro sacrifico illa secum ad nos adferat recepturus protinus pro illis iustum precium nec sine foenore.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Quam sim pręterea delectatus lectione illorum duorum librorum, alterius De origine errorum<fl>5</fl>, alterius autem De authoritate scripturę sanctę<fl>6</fl>, vix equidem effari possum, quos non minus tua sponte et ex mera erga me benevolentia tua dono misisti<fl>g</fl> quam commentaria ipsa in apostolorum epistolas, pro quibus omnibus quas unquam dignas tibi gratias referam, mi Bullingere, mi, inquam, charissime Bullingere idemque et humanissime et doctissime.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Apud nos anno superiori vetitum est senatus decreto, ne bibliopolę nostri ullos Lutheranorum libros <placeName ref="267">Coloniam</placeName> adferant<fl>7</fl>.</s>
+				<s n="8" lang="la" state="auto">Si qui tamen adferuntur, id clanculum fit nec sine metu et quidem propter metum Iudeorum<fl>8</fl>.</s>
+				<s n="9" lang="la" state="auto">Tu nihilo minus perge, ut feliciter sane coepisti.</s>
+				<s n="10" lang="la" state="auto">Sunt apud nos concionatores quidam, unus videlicet et alter, qui pure evangelicam tradunt scripturam et nihil docent nisi ea, quę ex novo et vetere<fl>h</fl> testamento hauriunt, et tamen tuti non sunt ex suspitione tantum propter coryphęos illos studiosissime observantes, ut, si vel verbo labantur, ansam arriperent ad traducendum eos atque accusandum coram<fl>i</fl> principibus sacerdotum<fl>9</fl>.</s>
+				<s n="11" lang="la" state="auto">Sed sunt et inter istos Gamalieles<fl>10</fl> aliquot ac proinde Nicodemi<fl>11</fl>.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Bene vale.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto"><placeName ref="267">Colonię</placeName>, pridie calendas mensis septembris anno 15[..]<fl>k</fl>.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto"><persName ref="8011">Gvalterum</persName> tuum imo et meum verbis meis quam officiosissime salutabis, cui<fl>l</fl> sane scrip[siss]em<fl>m</fl>, si per ocium vacasset.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto"><persName ref="536">Ioannes Cęsarius</persName>, ex animo tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="16" lang="la" state="auto">Doctissimo eidemque insigni pietate viro Henrico Bullingero, apud Tigurum concionatori celeberrimo, amico suo optimo et prope incomparabili.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1306">
+		<alpha>
+			<fn ref="a"><i>vor</i> hoc <i>gestrichenes</i> tan.</fn>
+			<fn ref="b"><i>in der Vorlage</i> maiori.</fn>
+			<fn ref="c">me <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="d"><i>in der Vorlage gratia.</i></fn>
+			<fn ref="e"><i>vor</i> nundinas <i>gestrichenes</i> ea s.</fn>
+			<fn ref="f"><i>vor</i> evangelico <i>gestrichenes</i> eva.</fn>
+			<fn ref="g"><i>in der Vorlage</i> misi.</fn>
+			<fn ref="h"><i>in der Vorlage</i> veteri.</fn>
+			<fn ref="i"><i>vor</i> coram <i>gestrichenes</i> pr.</fn>
+			<fn ref="k"><i>Die Jahrzahl</i> MCCCCC <i>ist nicht fertig geschrieben.</i></fn>
+			<fn ref="l"><i>Der Schluß des Satzes (ab</i> cui) <i>ist offenbar nachträglich beigefügt worden.</i></fn>
+			<fn ref="m"><i>Beim Einbinden des Briefes teilweise zugeklebt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1"><persName ref="536">Caesarius</persName> dankt u. a. für Bullingers Buch "De origine erroris", von dem im März 1539 eine Neubearbeitung erschienen war (vgl. unten Z. 13-19). Bullinger erwähnt das vorliegende Schreiben in seinem Brief an <persName ref="8049">Vadian</persName> vom 3. Oktober 1539 (unten <link fk_file="11355">Nr. 1312</link>).</fn>
+			<fn ref="2">Siehe <bibl>HBBibl</bibl> I 84; bereits am 16. Oktober 1537 hatte sich <persName ref="536">Caesarius</persName> für den als Geschenk angekündigten, aber noch nicht eingetroffenen Epistelkommentar bedankt (s. <bibl>HBBW VII</bibl> <link fk_file="11099">[Nr. 1056]</link>, S. 284, 18-21. 29-31).</fn>
+			<fn ref="3">Unbekannt.</fn>
+			<fn ref="4">Zur <placeName ref="157">Frankfurter</placeName> Herbstmesse vgl. <bibl>HBBW</bibl> VI <link fk_file="10925">[Nr. 884]</link>, S. 406, Anm. 5.</fn>
+			<fn ref="5"><bibl>HBBibl</bibl> I 12; vgl. <link fk_file="11280">Nr. 1237</link>, Anm. 7.</fn>
+			<fn ref="6"><bibl>HBBibl</bibl> I 111.</fn>
+			<fn ref="7">Die <placeName ref="267">Kölner</placeName> Ratsbeschlüsse 1538 erwähnen kein diesbezügliches Mandat. Unter dem 10. Juli ist jedoch von einem nach <placeName ref="244">Kassel</placeName> entwichenen und wieder zurückgekehrten lutherischen Drucker die Rede, der zum Verlassen der Stadt aufgefordert werden solle. Vgl. Beschlüsse des Rates der Stadt <placeName ref="267">Köln</placeName>, 1320-1550, Bd. 4: 1531-1540, bearb. v. Manfred Groten, Düsseldorf 1988. -Publikationen der Gesellschaft für rheinische Geschichte, 65, S. 552, <link fk_file="10335">Nr. 304</link>.</fn>
+			<fn ref="8">Vgl. Joh 7, 13 u. ö.</fn>
+			<fn ref="9">Vgl. Lk II, 53f; 20, 19f.</fn>
+			<fn ref="10">Vgl. Apg 5, 34-42.</fn>
+			<fn ref="11">Nikodemiten, heimliche Anhänger der evangelischen Lehre (nach Nikodemus in Joh 3).</fn>
+		</num>
+	</footnotes>
+</file>

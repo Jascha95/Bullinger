@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12798" id_hbbw="2749" id_irg_sort="2749" id_sort="127490">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12798</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2749</arpa>
+		<scan_pages>
+			<scan id="29919" dir="12798/Original/" page="1">00 Ms_A_43_455_476_00001.tif</scan>
+			<scan id="29920" dir="12798/Original/" page="2">01 Ms_A_43_455_476_00002.tif</scan>
+			<scan id="29921" dir="12798/Original/" page="3">02 Ms_A_43_455_476_00003.tif</scan>
+			<scan id="29922" dir="12798/Original/" page="4">03 Ms_A_43_455_476_00004.tif</scan>
+			<scan id="29923" dir="12798/Original/" page="5">04 Ms_A_43_455_476_00005.tif</scan>
+			<scan id="29924" dir="12798/Original/" page="6">05 Ms_A_43_455_476_00006.tif</scan>
+			<scan id="29925" dir="12798/Original/" page="7">06 Ms_A_43_455_476_00007.tif</scan>
+			<scan id="29926" dir="12798/Original/" page="8">07 Ms_A_43_455_476_00008.tif</scan>
+			<scan id="29927" dir="12798/Original/" page="9">08 Ms_A_43_455_476_00009.tif</scan>
+			<scan id="29928" dir="12798/Original/" page="10">09 Ms_A_43_455_476_00010.tif</scan>
+			<scan id="29929" dir="12798/Original/" page="11">10 Ms_A_43_455_476_00011.tif</scan>
+			<scan id="29930" dir="12798/Original/" page="12">11 Ms_A_43_455_476_00012.tif</scan>
+			<scan id="29931" dir="12798/Original/" page="13">12 Ms_A_43_455_476_00013.tif</scan>
+			<scan id="29932" dir="12798/Original/" page="14">13 Ms_A_43_455_476_00014.tif</scan>
+			<scan id="29933" dir="12798/Original/" page="15">14 Ms_A_43_455_476_00015.tif</scan>
+			<scan id="29934" dir="12798/Original/" page="16">15 Ms_A_43_455_476_00016.tif</scan>
+			<scan id="29935" dir="12798/Original/" page="17">16 Ms_A_43_455_476_00017.tif</scan>
+			<scan id="29936" dir="12798/Original/" page="18">17 Ms_A_43_455_476_00018.tif</scan>
+			<scan id="29937" dir="12798/Original/" page="19">18 Ms_A_43_455_476_00019.tif</scan>
+			<scan id="29938" dir="12798/Original/" page="20">19 Ms_A_43_455_476_00020.tif</scan>
+			<scan id="29939" dir="12798/Original/" page="21">20 Ms_A_43_455_476_00021.tif</scan>
+			<scan id="29940" dir="12798/Original/" page="22">21 Ms_A_43_455_476_00022.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26127" vf="1" fk_add_type="1">
+				<person id="8354" fk_id="8354">
+					<name>Frölich (Laetus)</name>
+					<forename>Georg</forename>
+				</person>
+				<place id="18" vf="1" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26128" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12798">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19361">
+				<doc_type id="1">Original</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms A 43,455–476</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9013" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Friedrich Roth, Eine noch unbekannte reformationsgeschichtliche Denkschrift des Augsburger Stadtschreibers Georg Frölich aus den ersten Tagen des Jahres 1547, in: Beiträge zur bayerischen Kirchengeschichte XXXII/1, 1925, 75–87</entry>
+			</print>
+			<print id="12374" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2749, S. 116</entry>
+				<page>116</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="7">
+				<lang id="1" iso="de" count="7" p="100.0"/>
+			</sentences>
+			<words count="88">
+				<lang id="1" iso="de" count="88" p="100.0"/>
+			</words>
+			<chars count="428">
+				<lang id="1" iso="de" count="428" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2749" page="116">
+		<div ref="1">
+			[1] In 25 Punkten erwägt <persName ref="8354">Frölich</persName> die Gründe, warum der Rat von
+			<placeName ref="1976">Augsburg</placeName> sich nicht <persName ref="18538">Kaiser Karl V.</persName> widersetzen sollte, und welche
+			Probleme auf <placeName ref="1976">Augsburg</placeName> zukämen, wenn die Stadt sich nicht wie
+			<placeName ref="513">Ulm</placeName> und andere Städte mit dem Kaiser verständigen würde. Diese
+			Aufzählung wird mit einer Bemerkung<fl>c</fl> über die Vertrauenswürdigkeit des Kaisers abgeschlossen und
+			mit der Überlegung, dass, falls der Kaiser sich nicht an den Frieden halten würde,
+			<placeName ref="1976">Augsburg</placeName> frei wäre, sich dem Kaiser erneut zu widersetzen.
+		</div>
+		<div ref="2">
+			[2] Ebenfalls in 25 Punkten erläutert <persName ref="8354">Frölich</persName> die Gründe, warum der Rat von
+			<placeName ref="1976">Augsburg</placeName> dem Kaiser keinen Gehorsam leisten sollte, und welche
+			Probleme <placeName ref="1976">Augsburg</placeName> hätte, wenn die Stadt sich wie
+			<placeName ref="513">Ulm</placeName> und andere Städte mit dem Kaiser verständigen würde.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2749" page="116">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Ursachen, das ain ersamer ratte zu <placeName ref="1976">Augspurg</placeName> sich der kay. mt. nitt widersetzen soll, unnd was für unrat daraus ervolge, wann man ir nit wie <placeName ref="513">Ulm</placeName> unnd annder stette gehorsame</s>
+			</p>
+			<p>
+				<s n="2" lang="de" state="manual">1. Die hailig schrifft will ...</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">Ursachen, warumb ain ersamer rat zu <placeName ref="1976">Augspurg</placeName> der kay. mt. inn obgemeltem fall nit gehorsamen soll, unnd was für unrat daraus ervolge, wann man sich wie <placeName ref="513">Ulme</placeName> unnd anndere ergebe</s>
+			</p>
+			<p>
+				<s n="4" lang="de" state="manual">1. Es ist war, man soll dem kunig ...</s>
+			</p>
+			<p>
+				<note type="date">[Datum am Ende des Gutachtens:]</note>
+				<s n="5" lang="de" state="auto">12. Januarii 1546.</s>
+				<s n="6" lang="de" state="auto"><persName ref="8354">Georg Frölich</persName>, Stadtschreiber zu <placeName ref="1976">Augspurg</placeName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="7" lang="de" state="auto">M. Heinrych Bullinger zuͦ Zürich.<fl>d</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2749">
+		<alpha>
+			<fn ref="a" meta="1"><i>Kanzleihand. - Datum, Unterschrift und Adresse von <persName ref="8354">Frölichs</persName> Hand.</i></fn>
+			<fn ref="b" meta="1">Der von Roth veröffentlichte Text enthält einige Varianten gegenüber der an Bullinger gesandten Fassung. Ferner scheinen in der von Roth benutzten Vorlage die Argumente für und gegen eine Ergebung an den Kaiser im Schriftbild einander gegenübergestellt gewesen zu sein, was bei der an Bullinger übermittelten Fassung nicht der Fall ist.</fn>
+			<fn ref="c"><i>Eine Bemerkung, die in der Fassung für Bullinger die Nr. 25 trägt, jedoch in der von Roth veröffentlichten Fassung dem letzten Punkt 24 angefügt wurde.</i></fn>
+			<fn ref="d"><i>Daneben von unbekannter, zeitgenössischer Hand:</i> Bedencken von wegen der Aussönung, etc., 1547. - <i>Auf der Rückseite der von Roth veröffentlichten Fassung steht:</i> Warumb man sich mit der kai. mt. vertragen und nitt vertragen mag; <i>s.</i> Roth, <i>aaO, S. 73, Anm. 2.</i></fn>
+		</alpha>
+		<num/>
+	</footnotes>
+</file>

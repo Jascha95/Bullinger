@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11253" id_hbbw="1210" id_irg_sort="1210" id_sort="112100">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11253</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1210</arpa>
+		<scan_pages>
+			<scan id="26182" dir="11253/Autograph/" page="1">00 E_II_342__fol__101_r_.tif</scan>
+			<scan id="26183" dir="11253/Autograph/" page="2">01 E_II_342__fol__101_v_.tif</scan>
+		</scan_pages>
+		<reference id="42" fk_id="42" fk_lang_code="42">
+			<entry>Die Vadianische Briefsammlung der Stadtbibliothek St. Gallen, hg. v. Emil Arbenz und Hermann Wartmann, 7 Bde., St. Gallen 1890-1913 - MVG 24-30a.</entry>
+			<title>Vadian BW V</title>
+			<abbrev>VBS</abbrev>
+			<editor>Arbenz, Emil; Wartmann, Hermann</editor>
+			<period>1531-1540</period>
+			<year>1890-1913</year>
+			<place>St. Gallen</place>
+			<publisher>Fehr'sche Buchhandlung</publisher>
+			<volume>V</volume>
+		</reference>
+		<senders>
+			<sender id="22826" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22827" vf="1" fk_add_type="1">
+				<person id="8049" fk_id="8049">
+					<name>Vadian (von Watt)</name>
+					<forename>Joachim</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11253">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">1</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17727">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,101</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9531" fk_bib="0">
+				<entry>Vadian BW V, S. 516f, Nr. 1031</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="41">
+				<lang id="1" iso="de" count="13" p="31.7"/>
+				<lang id="5" iso="la" count="28" p="68.3"/>
+			</sentences>
+			<words count="552">
+				<lang id="1" iso="de" count="198" p="35.9"/>
+				<lang id="5" iso="la" count="354" p="64.1"/>
+			</words>
+			<chars count="3095">
+				<lang id="1" iso="de" count="911" p="29.4"/>
+				<lang id="5" iso="la" count="2184" p="70.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1210" page="27">
+		<div ref="1">
+			<persName ref="7227">Zwinglis Witwe [Anna, geb. Reinhart]</persName> ist gestorben.
+			Vernimmt aus <entity id="11" type="geo_country">Frankreich</entity>, daß der <persName ref="18538">Kaiser [Karl V.]</persName> im Frühling in die
+			<entity id="20" type="geo_country">Niederlande</entity> ziehen wolle, daß
+			Herzog [<persName ref="18538">Karl</persName>] von
+			Orléans dessen Tochter [<persName ref="18776">Maria</persName>]
+			heiraten und das Herzogtum <placeName ref="306">Mailand</placeName> erhalten soll, daß der
+			<persName ref="19216">Erzbischof von Rouen</persName> [richtig: der Bischof von Châlonssur-Marne,
+			<persName ref="7625">Robert de Lenoncourt</persName>] Kardinal geworden sei und daß
+			[<persName ref="19981">Papst Paul III.</persName>] sich auch in
+			<entity id="29" type="geo_country">Spanien</entity> [durch Ernennungen] alle verpflichte; letzterer hat
+			seinen Sohn [richtig: seinen Enkel, <persName ref="4757">Ottavio Farnese</persName>] mit
+			[<persName ref="7704">Margarete von Parma</persName>] verheiratet.
+			<persName ref="315">Bedrot</persName> schreibt, in <placeName ref="492">Straßburg</placeName>
+			werde <persName ref="467">Bucer</persName> von der Reise zu
+			<persName ref="1974">Luther</persName> und zu <persName ref="18574">[Landgraf Philipp]</persName> zurückerwartet. In diesem unruhigen Winter werden überall
+			Pläne gegen die Protestanten geschmiedet, die im Frühjahr zur Ausführung kommen werden; hat gehört, daß
+			Hauptleute, die bisher in bayerischem Sold standen, in <placeName ref="1711">Ingweiler</placeName>
+			[Elsaß] Soldaten anwerben. Die Drohungen der Kaiserlichen wegen des Herzogtums
+			<entity id="21" type="geo_region">Geldern</entity> schrecken Herzog <persName ref="18605">[Wilhelm] von Jülich</persName> nicht;
+			dieser wird vielleicht mit <persName ref="19236">[Anton] von Lothringen</persName>,
+			der Ansprüche geltend macht, ein Abkommen treffen.
+			<persName ref="8418">Myconius</persName> schreibt [<link fk_file="11251">Nr. 1208</link>], daß die
+			Kleriker von <placeName ref="1702">Minden</placeName> die Bischöfe von Köln
+			[<persName ref="8462">Hermann von Wied</persName>], Trier
+			[<persName ref="7671">Johann III. von Metzenhausen</persName>], Münster und
+			<placeName ref="1702">Minden</placeName> [<persName ref="7843">Franz von Waldeck</persName>], den Herzog von
+			Braunschweig [Heinrich IX. d. J.] und
+			Georg Schenck [von
+			Tautenburg] als Exekutoren der Reichsacht vorgeschlagen hätten und
+			daß es Gerüchte gebe, wonach [König]
+			Ferdinand, [<persName ref="18590">König Sigismund I.</persName>] von Polen und der ungarische Woiwode
+			[<persName ref="7234">Johannes I. Zápolya</persName>] in
+			<placeName ref="546">Wien</placeName> zusammenkommen würden, an einem andern Ort auch der Kaiser,
+			<persName ref="7637">[König Franz I.] von Frankreich</persName> und der Papst, um über die Unterdrückung des
+			Protestantismus zu verhandeln. Die Täufer in <entity id="46" type="geo_region">Niederdeutschland</entity>
+			sind erneut unruhig. Ist angesichts dieser Vorzeichen pessimistisch in bezug auf die Zukunft des
+			Protestantismus. Bittet um Neuigkeiten. <persName ref="459">[Heinrich] Brennwald</persName> ließ durch seinen Sohn
+			Hans Jakob die zehn Gulden für
+			<persName ref="4196">[Sebastian] Uriel [Appenzeller]</persName> bei seiner Nichte [...]
+			<persName ref="19945">Rubli</persName> einfordern, doch diese hat die Zahlung verweigert mit der
+			Begründung, sie hätte ihre Unterstützung nicht für die Erziehung der Knaben, sondern erst für die Lehrzeit
+			zugesagt; Bullinger hält dies für eine Ausrede, hat sich aber mit
+			<persName ref="459">Brennwald</persName> geeinigt, ihr einen Aufschub bis zum 16. Oktober zu geben.
+			Grüße und Bitte, etwas gegen das Überhandnehmen des Würfel- und Kartenspiels zu tun; in Zürich wird nun
+			ernsthaft dagegen eingeschritten.
+		</div>
+	</regest>
+	<letter lang="la" edition="VBS" vol="5" fk_bibliography="42" nr="1031" page="516">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et vitae innocentiam a Domino.</s>
+				<s n="2" lang="la" state="auto">Recte valemus hic omnes, Deo gratia nisi quod Zvinglii uxor ad aliquot septimanas graviter decubuit, tandem hisce diebus mirum quam feliciter migravit ad dominum.</s>
+				<s n="3" lang="la" state="auto">Scribunt ex Gallia boni viri, Caesarem ad ver futurum transiturum Gallias in <entity id="20" type="geo_country">Germaniam Inferiorem</entity>, ducem Aurelianensem ducturum filiam Caesaris et dominum futurum Mediolani, archiepiscopum Rotomagensem non ita pridem factum cardinalem, ut iam sint in Gallia cardinales numero 12.</s>
+				<s n="4" lang="la" state="auto">In Hispania similiter aget, ut omnes sibi devinciat.</s>
+				<s n="5" lang="la" state="auto">Filio suo dedit uxorem Florentinam viduam.</s>
+				<s n="6" lang="la" state="auto">- Bedrottus ad me 14. Decembris scribit: «Exspectamus D. Bucerum in dies, qui ad Luterum et Cattorum principem ante mensem profectus est.»</s>
+				<s n="7" lang="la" state="auto">- Decem proximis annis nullam hiemem fuisse putant ista magis inquietam; adeo enim passim agitantur consilia ac pra(c)ticę, in Lutheranos eruptura ad ver.</s>
+				<s n="8" lang="la" state="auto">Hodie quidem audio, in pago Ingwyler sub dicione comitum a Bittsch conscribi militem ab iis imperatoribus, qui hactenus a Bavaro acceperunt pensiones annuas.</s>
+				<s n="9" lang="la" state="auto">Discursare sane incipiunt Cares.</s>
+				<s n="10" lang="la" state="auto">Quid futurum sit, dominus novit.</s>
+				<s n="11" lang="la" state="auto">Protasis fabulae displicet.</s>
+				<s n="12" lang="la" state="auto">Iuliacensi ob Gelriam valde minantur Caesareani.</s>
+				<s n="13" lang="la" state="auto">Ille vero, suorum fide et potentia fretus, nil metuit.</s>
+				<s n="14" lang="la" state="auto">Cum Lotharingio transiget forte; nam is nescio quid iuris ad Gelriam sibi vendicat.</s>
+				<s n="15" lang="la" state="auto">A Basilea scribit Myconius: «Myndenses pfapfi petierunt nuper a camera Spirensi, ut dent sibi exsecutores banni episcopos Coloniensem, Treverensem, Monasteriensem, Myndensem, ducem Brunschwicensem, Georgium Schenck, vicarium Caesaris in Phrysia.</s>
+				<s n="16" lang="la" state="auto">Rumor deinde est, Ferdinandum, Polonum et Vaywodam Ung(ariae) conventuros Viennae, alibi Caesarem, Gallum et papam, ut serio tractent de opprimendis Lutheranis.</s>
+				<s n="17" lang="la" state="auto">Anabaptistae in <entity id="20" type="geo_country">Inferiore Germania</entity> regem excitarant iterum; sed prehensus et capite truncatus dicitur.»</s>
+				<s n="18" lang="la" state="auto">Vide, mi Vadiane, quibus auspiciis hic annus ingrediatur.</s>
+				<s n="19" lang="la" state="auto">Quid futurum sit, coniicere potes.</s>
+				<s n="20" lang="la" state="auto">Ego nihil ommino mihi, immo nobis metuo; solam ingratitudinem nostram metuo.</s>
+				<s n="21" lang="la" state="auto">Mori non est miserum; opprimi autem veritatem, idque propter merita nostra, et iugum Antichristi in colla nepotum, immo liberorum nostrorum revocari, id demum longe miserrimum est.</s>
+				<s n="22" lang="la" state="auto">Dominus misereatur nostri et parcat nobis propter gloriam nominis sui.</s>
+				<s n="23" lang="la" state="auto">Vale, et si quid habes, communica, sicut fecisti hactenus.</s>
+			</p>
+			<p>
+				<s n="24" lang="de" state="auto">Mitt dem h(errn) propst Brenwald hab ich der 10 gl. halb geredt den Urielen zuͦ ververtigen.</s>
+				<s n="25" lang="de" state="auto">Der hat sinen son Hansen Jacoben zuͦ der Rublin, die siner Schwester dochter, gesand(t) zuͦ höuschen.</s>
+				<s n="26" lang="de" state="auto">Hat sy geantwurt, sy hab nüt verheissen ze gäben, die kind zuͦ ziehen, sunder wenn der knaben einer erwachs, ein stür an ein handtwerch ze lernen zuͦ gäben.</s>
+				<s n="27" lang="de" state="auto">Darzuͦ sye ietzund nitt in iro vermugen, ützid baar ze gäben.</s>
+				<s n="28" lang="de" state="auto">Die antwurt hat mir der propst, der mir auch die ersten, die ich üch zuͦschreib, ggäben.</s>
+				<s n="29" lang="de" state="auto">Da bin ich dero übel zuͦfriden xin und hab vermeindt, es sye ein uffzug, damitt hernach nüt uß der sach werde.</s>
+				<s n="30" lang="de" state="auto">Uff das hat der propst also mitt mir abgeredt: biß uff Galli werde iro yngon.</s>
+				<s n="31" lang="de" state="auto">Da sye er guͦter hoffnung er wolle vermögen, das sy biß dann die 10 gl. leg.</s>
+				<s n="32" lang="de" state="auto">Darz wil ich min flissigen dienst ouch nitt spaaren; wiewol mir ietzund bas gefallen hätt, sy hätte es ietzund gäben, damitt sy ouch dann ghein ynzüg thäte.</s>
+				<s n="33" lang="la" state="auto">Odi huiusmodi beneficia.</s>
+				<s n="34" lang="de" state="auto">Ich kan im aber nitt thuͦn.</s>
+				<s n="35" lang="de" state="auto">Wie man mir angipt, also schryb ich.</s>
+				<s n="36" lang="de" state="auto">Gott wölt, es were besser.</s>
+				<s n="37" lang="la" state="auto">Salutabis mihi fratres contionatores et iuva hos, ne ludus aleae et chartarum vincat et erumpat.</s>
+				<s n="38" lang="de" state="auto">Die unsern habends erst ernstlich abgestellt und straffend aber alle, die so gespillt etc.</s>
+				<s n="39" lang="la" state="auto">1. Ianuarii 1539.</s>
+				<s n="40" lang="la" state="auto">H(einricus) Bull(ingerus) tuus.</s>
+			</p>
+			<p>
+				<s n="41" lang="la" state="auto">Clarissimo viro D. Ioachimo Vadiano, domino suo colendissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="42" nr="1031"/>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1210" page="27"/>
+			<footnotes fk_bibliography="11" nr="1210"/>
+		</alternative>
+	</alternatives>
+</file>

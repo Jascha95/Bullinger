@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11371" id_hbbw="1328" id_irg_sort="1328" id_sort="113280">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11371</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1328</arpa>
+		<scan_pages>
+			<scan id="26426" dir="11371/Autograph/" page="1">00 E_II_343__fol__158_r_.tif</scan>
+			<scan id="26427" dir="11371/Autograph/" page="2">01 E_II_343__fol__158_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23084" vf="1" fk_add_type="1">
+				<person id="3876" fk_id="3876">
+					<name>Werdmüller</name>
+					<forename>Ulrich</forename>
+				</person>
+				<place id="417" vf="1" fk_id="417" long="8.796108" lat="47.552776">Rickenbach</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23085" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11371">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">11</month>
+				<day fk_d="" d="" vf="1" fn="">11</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17842">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343,158</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11122" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1328, S. 248</entry>
+				<page>248</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="9">
+				<lang id="1" iso="de" count="2" p="22.2"/>
+				<lang id="5" iso="la" count="7" p="77.8"/>
+			</sentences>
+			<words count="125">
+				<lang id="1" iso="de" count="8" p="6.4"/>
+				<lang id="5" iso="la" count="117" p="93.6"/>
+			</words>
+			<chars count="783">
+				<lang id="1" iso="de" count="57" p="7.3"/>
+				<lang id="5" iso="la" count="726" p="92.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1328" page="248">
+		<div ref="1">
+			Bullingers Vorwurf, er habe einem Kranken das Unservater als Heilmittel verordnet, beruht auf einer
+			Verleumdung; von solchem Aberglauben halten ihn nicht nur Glaubens-, sondern auch Vernunftgründe ab.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1328" page="248">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et tranquillam conscientiam etc.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">A synodo<fl>1</fl> ut cum molesta podagra in ędes refocillaturus sitim cum fratribus Mathię <placeName ref="555">Vituduri</placeName><fl>2</fl>, humanissime vir, redii, idem scripturam<fl>3</fl> tradidit mihi legem tuam continentem valetudinario me cuidam ad numerum orationem dominicam pro pristina recuperanda sanitate iniunxisse etc.</s>
+				<s n="3" lang="la" state="auto">Oro, ne me tantillum et infidelem, artis et medices<fl>4</fl> virtutisque naturalium facere velis ignarum.</s>
+				<s n="4" lang="la" state="auto">Si gratia et fides deessent, longa tamen dies, quae etiam homini leones parere facit<fl>5</fl>, et docti ethnici, in quorum contumeliam, si fidei et Christo, cuius uterque sumus, parcere non velim, superstitionem hanc iniunxisse prohibuissent ipsaque meamet utcunque tenuis Minerva<fl>6</fl>.</s>
+				<s n="5" lang="la" state="auto">Delatus ergo apud te.</s>
+				<s n="6" lang="la" state="auto">Mendacem habe delatorem, mi doctissime pręceptor.</s>
+			</p>
+			<p>
+				<s n="7" lang="de" state="auto">Ex <placeName ref="417">Rickenbach</placeName>, Martini etc. 39.</s>
+			</p>
+			<p>
+				<s n="8" lang="de" state="auto"><persName ref="3876">Huldrichus Werdmüller</persName>, servulus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="9" lang="la" state="auto">Et docto atque pio magistro Heinricho Bullinger, pręceptori suo in domino charissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1328">
+		<alpha/>
+		<num>
+			<fn ref="1">Die Zürcher Herbstsynode 1539 hatte am 21. Oktober stattgefunden; s. Zürich StA, E II 1, 238.</fn>
+			<fn ref="2"><persName ref="1550">Matthias Hirsgarter</persName> in <placeName ref="555">Winterthur</placeName>.</fn>
+			<fn ref="3">Nicht erhalten.</fn>
+			<fn ref="4">d. h. medicinae (wohl in falscher Analogie zu griech. <el state="verified">ϕυσικῆς</el>.</fn>
+			<fn ref="5">Vgl. <persName ref="19948">Tibull</persName>, Elegiae, 1, 4, 17.</fn>
+			<fn ref="6">im Sinne von: Bildung.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11376" id_hbbw="1333" id_irg_sort="1333" id_sort="113330">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11376</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1333</arpa>
+		<scan_pages/>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23094" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23095" vf="1" fk_add_type="1">
+				<person id="3067" fk_id="3067">
+					<name>Stumpf</name>
+					<forename>Johannes</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11376">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">12</month>
+				<day fk_d="" d="" vf="1" fn="">8</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17847">
+				<doc_type id="7">Kopie</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms S 47,68</signature>
+				<author>Simler, Johann Jakob</author>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11161" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1333, S. 256</entry>
+				<page>256</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="19">
+				<lang id="1" iso="de" count="16" p="84.2"/>
+				<lang id="5" iso="la" count="3" p="15.8"/>
+			</sentences>
+			<words count="273">
+				<lang id="1" iso="de" count="264" p="96.7"/>
+				<lang id="5" iso="la" count="9" p="3.3"/>
+			</words>
+			<chars count="1301">
+				<lang id="1" iso="de" count="1247" p="95.8"/>
+				<lang id="5" iso="la" count="54" p="4.2"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1333" page="256">
+		<div ref="1">
+			<persName ref="5308">Wolfgang [Huber]</persName> hat das Geld
+			und den Brief überbracht. <persName ref="4754">Michael Farner</persName>, der offenbar noch nicht
+			rechtmäßig [in sein Pfarramt] eingesetzt worden ist und erwartet, daß dies die Stadtpfarrer veranlassen,
+			soll selbst - wie das die anderen bisher auch getan haben - beim Bürgermeister den Vertreter der Obrigkeit
+			erfragen, der ihn der Gemeinde vorstellt, und auch den Dekan bestellen. Bullinger hat für
+			<persName ref="5839">Wolfgang [Meyers]</persName> Kleid ein
+			Pfund zusammengebracht; wird <persName ref="6730">Stumpf</persName> wissen lassen, wieviel Geld noch
+			zusammenkommt. Wird mit dem Pfleger verhandeln. In bezug auf das Schriftstück aus dem Papstzug ist keine
+			Eile geboten. Hat für das Büchlein dreieinhalb Schilling bezahlt. Grüße.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="9" fk_bibliography="11" nr="1333" page="256">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Stumpffio suo.</s>
+			</p>
+			<p>
+				<s n="2" lang="de" state="auto">Gnad und frid von gott durch unseren herren Jesum.</s>
+				<s n="3" lang="de" state="auto">H[err] Wolff<fl>1</fl> hatt mir überantwurt gällt und brieff<fl>2</fl>, namlich 1 lib. 10 ß.<pb_edition start_of="257"/></s>
+				<s n="4" lang="de" state="auto">Uß dem brieff verston ich, wie herr <persName ref="4754">Michel Farner</persName> noch nitt yngesetzt sye<fl>3</fl>, wie der bruch und rächt ist, und das ir uns, die wir hie predgind, den last uff den halß legind<fl>4</fl> etc.</s>
+				<s n="5" lang="de" state="auto">Da, so wüßind, das es noch nie von uns gebrucht, ouch nie an uns gemutet<fl>5</fl>, das wir nahinlauffen und die uffbringind<fl>6</fl>, die sölichs, wie der apostolisch bruch ist, volstreckind<fl>7</fl>.</s>
+				<s n="6" lang="de" state="auto">Also habend imm aber die erwellten, verordneten pfarrer thun<fl>8</fl>: Wenn sy uff ein pfarr geordnet, sind sy zum burgermeister gangen und begärt, man sölle uff iro kosten inen anzeygen, wer sy der gemeind fürstelle.</s>
+				<s n="7" lang="de" state="auto">Dann hat der stattschriber dem verordneten der stadt, dem vogt oder wemm es befolhen, zugeschriben, und so hat der pfarrer ouch den dächen<fl>9</fl> demnach bestellt.</s>
+				<s n="8" lang="de" state="auto">Dorumb thüge herr Michel wie ander lüt, so acht<fl>10</fl> ich, gangs<fl>11</fl> imm wie ander lüten.</s>
+				<s n="9" lang="de" state="auto">So stat imm zuͦ<fl>12</fl>, zereden und darinn zuͦ arbeiten<fl>13</fl>.</s>
+				<s n="10" lang="de" state="auto">Derhalben kumme er heryn<fl>14</fl> und loß<fl>15</fl> den entscheid des burgermeisters.</s>
+			</p>
+			<p>
+				<s n="11" lang="de" state="auto">An bruder <persName ref="5839" state="auto_name">Wolffen</persName><fl>16</fl> kleid hab ich zuͦ einem lib., hoff, mir sölle noch wyter werden<fl>17</fl>; doch will ich uch die antwurt wüssen lassen, was mir worden.</s>
+				<s n="12" lang="de" state="auto">Wann ir schon mee sammlind, wirt es wol gebrucht.</s>
+				<s n="13" lang="de" state="auto">Die summ ist ouch nitt klein<fl>18</fl>.</s>
+			</p>
+			<p>
+				<s n="14" lang="de" state="auto">Mitt dem pfläger<fl>19</fl> will ich üwerm befelch nach handlen das best ich kan<fl>20</fl>.</s>
+			</p>
+			<p>
+				<s n="15" lang="de" state="auto">Des brieffs, imm bapstzug<fl>b</fl> geschriben<fl>21</fl>, mag ich wol erwarten<fl>22</fl>, und thut nitt nodt.<pb_edition start_of="258"/></s>
+			</p>
+			<p>
+				<s n="16" lang="de" state="auto">Umb das büchlin<fl>23</fl> hab ich bezalt von üwert wägen 3 1/2 ß. Gott bewar üch.</s>
+			</p>
+			<p>
+				<s n="17" lang="de" state="manual">Montags nach Nicolai 1539.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Salvam volo familiam tuam.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Tuus H. Bullingerus<fl>c</fl>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1333">
+		<alpha>
+			<fn ref="a" meta="1"><i>Nach dem nicht mehr vorhandenen Autograph, das sich in der "Bibliotheca cl. prof Hulderici" befand (vgl. dazu <bibl>HBBW IV</bibl> <link fk_file="10501">[Nr. 466]</link>, S. 377, Anm. a).</i></fn>
+			<fn ref="b"><i>Vor</i> bapstzug <i>gestrichener Buchstabe.</i></fn>
+			<fn ref="c"><i>Darunter, vom Abschreiber beigefügt:</i> nach dem 6. Dec.</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="5308">Wolfgang Huber</persName>, Keller des ehemaligen Klosters <placeName ref="435">Rüti</placeName>.</fn>
+			<fn ref="2">Nicht erhalten.</fn>
+			<fn ref="3">Offenbar war <persName ref="4754">Michael Farner</persName> nach der Entlassung des kranken <persName ref="7194">Ulrich Zingg</persName> (s. oben <link fk_file="11334">Nr. 1291</link>; 1295, 5-16; 1296, 3-7) als Pfarrer nach <placeName ref="127">Dürnten</placeName> gewählt worden (die Angaben in <bibl>HBBW IV</bibl> <link fk_file="10508">[Nr. 472]</link>, S. 396, Anm. 1, sind demnach zu präzisieren).</fn>
+			<fn ref="4">die Verantwortung zuschiebt.</fn>
+			<fn ref="5">von uns erwartet.</fn>
+			<fn ref="6">aufbieten.</fn>
+			<fn ref="7">Das Einsetzungsverfahren für Pfarrer war in der Prädikanten- und Synodalordnung von 1532 festgelegt worden; s. <bibl>AZürcherRef</bibl> 1899, S. 828f.</fn>
+			<fn ref="8">So haben es aber die gewählten, mit einem Amt versehenen Pfarrer getan.</fn>
+			<fn ref="9">Dekan.</fn>
+			<fn ref="10">denke.</fn>
+			<fn ref="11">gehe es.</fn>
+			<fn ref="12">liegt es an ihm.</fn>
+			<fn ref="13">sich zu bemühen.</fn>
+			<fn ref="14">in die Stadt.</fn>
+			<fn ref="15">höre.</fn>
+			<fn ref="16" type="bio" fk_person="5839">Über <persName ref="5839">Wolfgang Meyer</persName>, auch in Schreiben des Jahres 1540 (vgl. Zürich ZB, Ms A 70, 359 und 639) "Bruder Wolf" genannt, vgl. oben <link fk_file="11340">Nr. 1297</link>, Anm. 4.</fn>
+			<fn ref="17">ich werde noch mehr bekommen.</fn>
+			<fn ref="18">Genaueres ist zu dieser Sammelaktion nicht bekannt.</fn>
+			<fn ref="19">Wohl <persName ref="7085">Oswald Wirz</persName>, 1534-1547 Schaffner der Komturei <placeName ref="70">Bubikon</placeName>; s. Roberto <i>Fröhlich,</i> Die Eigenleute des Johanniterhauses <placeName ref="70">Bubikon</placeName>. Eigenschaft und Leibherrschaft im Herrschaftsbereich der Johanniterkomturei <placeName ref="70">Bubikon</placeName>, 1192-1789, Diss. iur. Zürich, Zürich 1993, S. 343.</fn>
+			<fn ref="20">Zur Sache ist nichts weiter bekannt.</fn>
+			<fn ref="21">Gemeint ist ein Schreiben, das <persName ref="6730">Stumpf</persName> wohl für eine Schilderung des militärischen Auszugs der Zürcher auf der Seite des Papstes 1521 (Piacenzerzug) verwenden wollte. Die Beschreibung des Zugs fehlt in seiner Chronik (s. <persName ref="6730">Stumpf</persName>, Reformationschronik I, S. 293, 13 mit Anm. b), während Bullinger ausführlich darauf eingeht (s. <bibl>HBRG</bibl> 151-67, bes. S. 56-59: Schreiben der Hauptleute in päpstlichem Dienst vom 16. Oktober 1521, vgl. auch <bibl>EA</bibl> IV/1a 114f, Nr. II).</fn>
+			<fn ref="22">kann ich gut abwarten.</fn>
+			<fn ref="23">Nicht bekannt.</fn>
+		</num>
+	</footnotes>
+</file>

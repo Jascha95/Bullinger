@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11323" id_hbbw="1280" id_irg_sort="1280" id_sort="112800">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11323</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1280</arpa>
+		<scan_pages>
+			<scan id="26329" dir="11323/Autograph/" page="1">00 E_II_359__fol__2789_r_.tif</scan>
+			<scan id="26330" dir="11323/Autograph/" page="2">01 E_II_359__fol__2789_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22980" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22981" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11323">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">6</month>
+				<day fk_d="" d="" vf="1" fn="">15</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17795">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2789r.-v.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11175" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1280, S. 155</entry>
+				<page>155</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="32">
+				<lang id="5" iso="la" count="32" p="100.0"/>
+			</sentences>
+			<words count="387">
+				<lang id="5" iso="la" count="387" p="100.0"/>
+			</words>
+			<chars count="2273">
+				<lang id="5" iso="la" count="2273" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1280" page="155">
+		<div ref="1">
+			<persName ref="4830">Adam Frey</persName> hat ihm am 12. Juni [in
+			<placeName ref="1738">Schliengen</placeName>] von Berichten aus Zürich über die Feindseligkeit
+			seiner Frau [<persName ref="5976">Agathe Studler</persName>]
+			erzählt; diese wird insbesondere vom neuen Landvogt zu <placeName ref="21">Baden</placeName>
+			[<persName ref="3860">Jost von Meggen</persName>] unterstützt und steht vielleicht nicht ohne Grund
+			im Verdacht, <persName ref="4830">Frey</persName> vergiftet zu haben. Der fromme und geduldige Kranke
+			hofft auf Bullingers Beistand; <persName ref="8011">Gwalther</persName> bittet in seinem Namen, sich
+			bei Gelegenheit im Gespräch mit Ratsangehörigen für ihn zu verwenden. Grüsse.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1280" page="155">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Fui duodecima iunii die, humanissime pater, apud <persName ref="4830">Adamum Fry</persName><fl>1</fl>, qui apud me multa de uxoris<fl>2</fl> suę iniuriis, contumeliis et minis conquęstus est.<pb_edition start_of="156"/></s>
+				<s n="3" lang="la" state="auto">Fuerunt enim quidam, qui illi hac de re non pauca retulerunt<fl>3</fl>.</s>
+				<s n="4" lang="la" state="auto">Fuit et civis Tigurinus<fl>4</fl>, qui illi uxoris consilium omne exposuit; eius scilicet nomen horret, minatur dira quęque, captivitatem, quam perpessa est<fl>5</fl>, se ulturam clamitat.</s>
+				<s n="5" lang="la" state="auto">Nec desunt vultures, qui praedae spe inducti pestilentissimo scorto blandiantur.</s>
+				<s n="6" lang="la" state="auto">Sunt, qui opem promittant.</s>
+				<s n="7" lang="la" state="auto">Inter hos autem corypheus est <placeName ref="300">Lucernanus</placeName> ille praefectus, qui Badenam perveniet<fl>6</fl>, cum quo cognationis aliquam affinitatem hęc simulans multa consilia confert.</s>
+				<s n="8" lang="la" state="auto">Donavit munus non contemnendum eius uxori<fl>7</fl>.</s>
+				<s n="9" lang="la" state="auto">Hic opem pollicitus est.</s>
+				<s n="10" lang="la" state="auto">Hisce interim optimus vir, pius et mira alioquin insignis patientia, non parum commovetur.</s>
+				<s n="11" lang="la" state="auto">Timet, ne fraudibus ei nocere possit, metuit, ne in paupertatem extremam huius astutia detrudatur<fl>a</fl>, veretur denique, ne Tigurini magistratus favor a se abalienetur.</s>
+				<s n="12" lang="la" state="auto">Non tamen ignoras, charissime pater, quę suspitiones de eius morbo iam olim apud vos conceptae sint; non etenim desunt quam plurimi, qui fortasse non falso dubitant ab uxore hanc illi offulam oblatam esse.</s>
+				<s n="13" lang="la" state="auto">Dixit hec eidem <persName ref="4830">Adamo</persName> medicus<fl>8</fl> ille alter, qui obiit.</s>
+				<s n="14" lang="la" state="auto">Hęc quoque, quae nunc ei medetur mulier<fl>9</fl>, quę antehac morbi caussam nemini revelare voluit, uxoris atrocitate permota se omnem rem, morbi scilicet caussam et authorem, exposituram<fl>b</fl> minatur.</s>
+				<s n="15" lang="la" state="auto">Hęc, inquam, mihi rem omnem retulit, <persName ref="4830">Adamum</persName> scilicet cibo venefico hunc contraxisse morbum eiusque epuli instructricem<fl>c</fl> esse uxorem eius.</s>
+				<s n="16" lang="la" state="auto">Haec ut tibi scriberem, <persName ref="4830">Adamus</persName> rogavit.</s>
+				<s n="17" lang="la" state="auto">Tuum in hac re consilium implorat.</s>
+				<s n="18" lang="la" state="auto">Nam quantum adhuc iudicare licet, etiam aliis testibus hęc a muliere hac revelabuntur.</s>
+				<s n="19" lang="la" state="auto">Te hoc facturum sperat, quod amicissimus eius faceret.</s>
+				<s n="20" lang="la" state="auto">Eius, quaeso, causam, si forte privatim apud quosdam senatores inciderit sermo, suscipe, ne vir bonus, pius et patrię amantissimus sceleratissimę<pb_edition start_of="157"/><pb_scan n="2789v."/> mulieris insidiis circumventus damnum aliquod accipiat.</s>
+				<s n="21" lang="la" state="auto">Spem sanitatis concepit.</s>
+				<s n="22" lang="la" state="auto">Ego quoque bene de illo spero.</s>
+				<s n="23" lang="la" state="auto">Deus faxit, ne spem irritam conceperimus.</s>
+				<s n="24" lang="la" state="auto">Hęc eius nomine in tuum sinum effundere volui, quoniam ipse sic postulabat.</s>
+				<s n="25" lang="la" state="auto">Tu, quęso, quid in hac causa agendum sit, edissere.</s>
+			</p>
+			<p>
+				<s n="26" lang="la" state="auto">Alia nunc, quae scribam, non habeo.</s>
+				<s n="27" lang="la" state="auto">Tu hęc aequi bonique consulas.</s>
+				<s n="28" lang="la" state="auto">Salutabis nomine meo quam familiarissime uxorem<fl>10</fl> et matrem<fl>11</fl> tuam, humanissimas matronas, totam denique familiam et imprimis liberorum tuorum coetum<fl>12</fl>.</s>
+				<s n="29" lang="la" state="auto">Vale bene, pater humanissime, deusque te nobis diu incolumem servet.</s>
+			</p>
+			<p>
+				<s n="30" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, ex aedibus d. <persName ref="8418">Miconii</persName>, 15. iunii 1539.</s>
+				<s n="31" lang="la" state="auto">Tui observantissimus <persName ref="8011">Rodolphus<lb/> Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="32" lang="la" state="auto">Clarissimo viro d. Heinricho Bullingero, patri suo imprimis colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1280">
+		<alpha>
+			<fn ref="a"><i>vor</i> detrudatur <i>gestrichenes</i> prod.</fn>
+			<fn ref="b"><i>vor</i> exposituram <i>gestrichenes</i> reve.</fn>
+			<fn ref="c"><i>vor</i> instructricem <i>gestrichenes</i> apparitora[?].</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="4830">Adam Frey</persName> (in <placeName ref="1738">Schliengen</placeName>, vgl. oben <link fk_file="11317">Nr. 1274</link>, 33f mit Anm. 20).</fn>
+			<fn ref="2" type="bio" fk_person="4830"><persName ref="4830">Freys</persName> Ehefrau <persName ref="5976">Agathe Studler</persName> war eine natürliche Tochter des aus Zürich stammenden <placeName ref="457">Konstanzer</placeName> Chorherrn <persName ref="6729">Kaspar Studler</persName>, der sie mit einem beträchtlichen Erbe ausstattete (vgl. <i>Meyer,</i> Zürich und Rom 208f, Nr. 97; Zürich StA, C IV 6. 4, Urkunde vom 26. September 1505). Nach ihrer Scheidung von <persName ref="4830">Adam Frey</persName> (vgl. oben <link fk_file="11297">Nr. 1254</link>, Anm. 3) heiratete sie 1542 <persName ref="5009">Heinrich Grebel</persName> (s. Zürich Stadtarchiv, VIII C Nr. 1, 22. August 1542). 1546 wurde gegen sie (wie schon 1538/39) wegen des Vorwurfs ermittelt, mehrere Personen mit "unnathürlichen dynngen" geschädigt zu haben. Um weiterer Folterung zu entgehen, legte sie ein Geständnis ab und wurde daraufhin zum Tod durch Ertränken verurteilt (vgl. die Akten in Zürich StA, A 26. 3, Nr. 19 und das Urteil in B VI 257, 64r.-65r.). - Lit.: Die Wickiana. <persName ref="8461">Johann Jakob Wicks</persName> Nachrichtensammlung aus dem 16. Jahrhundert. Texte und Bilder zu den Jahren 1560-1571, ausgewählt, kommentiert und eingeleitet von Matthias Senn, Küsnacht-Zürich 1975, S. 78f; [Carl <i>Keller-Escher],</i> Die Familie Grebel. Blätter aus ihrer Geschichte, gesammelt zur Erinnerung an die am 27. Oktober 1386 erfolgte Einbürgerung in Zürich. Für Freunde als Manuskript gedruckt, Frauenfeld [1884], S. 32-34.</fn>
+			<fn ref="3">Die Untersuchungsakten enthalten die Aussagen mehrerer Zürcher, die <persName ref="4830">Frey</persName> in <placeName ref="1738">Schliengen</placeName> besucht hatten; s. Zürich StA, A 27. 159, Nr. 22.</fn>
+			<fn ref="4">Welcher der Besucher <persName ref="4830">Freys</persName> gemeint ist, bleibt offen.</fn>
+			<fn ref="5">Vgl. oben <link fk_file="11297">Nr. 1254</link>, Anm. 3.</fn>
+			<fn ref="6">Gemeint ist <persName ref="3860">Jost von Meggen</persName>, 1539-1541 Landvogt zu <placeName ref="21">Baden</placeName> (s. <bibl>EA</bibl> IV/1c 1316). Er ist mehrfach als Beistand von <persName ref="5976">Agathe Studler</persName> erwähnt und verwahrte zeitweise Wertsachen aus ihrem Besitz; s. <i>Keller-Escher,</i> aaO, S. 32; Zürich StA, B IV 16, 27r. und B V 6, 89r.-90v.</fn>
+			<fn ref="7">Apollonia Hutter (s. Paul M. <i>Krieg,</i> Die Schweizergarde in Rom, <placeName ref="300">Luzern</placeName> 1960, S. 63).</fn>
+			<fn ref="8">Unbekannt.</fn>
+			<fn ref="9">Unbekannt.</fn>
+			<fn ref="10" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="11" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+			<fn ref="12">Vgl. oben <link fk_file="11260">Nr. 1217</link>, Anm. 46, und <link fk_file="11320">Nr. 1277</link>, Anm. 17.</fn>
+		</num>
+	</footnotes>
+</file>

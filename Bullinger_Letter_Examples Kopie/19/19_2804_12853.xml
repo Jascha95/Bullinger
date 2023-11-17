@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12853" id_hbbw="2804" id_irg_sort="2804" id_sort="128040">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12853</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2804</arpa>
+		<scan_pages>
+			<scan id="30082" dir="12853/Autograph/" page="1">00 E_II_357__fol__228_r_.tif</scan>
+			<scan id="30083" dir="12853/Autograph/" page="2">01 E_II_357__fol__228_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26250" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26251" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12853">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">9</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19420">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357,228</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9089" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 588, Nr. 1409</entry>
+			</print>
+			<print id="12443" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2804, S. 286</entry>
+				<page>286</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="13">
+				<lang id="1" iso="de" count="12" p="92.3"/>
+				<lang id="5" iso="la" count="1" p="7.7"/>
+			</sentences>
+			<words count="345">
+				<lang id="1" iso="de" count="344" p="99.7"/>
+				<lang id="5" iso="la" count="1" p="0.3"/>
+			</words>
+			<chars count="1860">
+				<lang id="1" iso="de" count="1858" p="99.9"/>
+				<lang id="5" iso="la" count="2" p="0.1"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2804" page="286">
+		<div ref="1">
+			[1] Wie es der Briefüberbringer <persName ref="18000">Hans Stadelmann</persName>, Pfarrer in <placeName ref="9">Altnau</placeName>
+			im <placeName ref="774">Thurgau</placeName>, auch selbst berichten wird, beschuldigt ihn der
+			<placeName ref="774">Thurgauer</placeName> Landvogt <persName ref="5278">Leonhard Holzhalb</persName>, ein Aufwiegler zu sein,
+			weil er zu Beginn des [Schmalkaldischen] Krieges etliche Männer gefragt hat, warum sie denn nicht auch in
+			den Krieg zögen, zumal es nicht anzunehmen sei, dass sie dafür angeklagt und bestraft würden. Als
+			<persName ref="8055">Blarer</persName> von <persName ref="18000">Stadelmann</persName> um Rat gebeten wurde, erschien es ihm am besten,
+			diesen mit dem vorliegenden Empfehlungsschreiben zu versehen, damit er bald aus der Sache herauskäme und
+			nicht etwa vor der Tagsatzung erscheinen müsste.
+		</div>
+		<div ref="2">
+			[2] Bullinger möge also in <persName ref="8055">Blarers</persName> Namen die Zürcher bitten, allen
+			voran die Bürgermeister <persName ref="1888">Hans Rudolf Lavater</persName> und Johannes Haab, in dieser Angelegenheit an <persName ref="5278">Holzhalb</persName> zu
+			schreiben, damit dieser nach Möglichkeit Milde walten lässt. <persName ref="8055">Blarer</persName>
+			wird sich dafür den Bürgermeistern und Bullinger höchst dankbar erweisen, umso mehr, als <persName ref="18000">Stadelmann</persName> ein
+			guter Pfarrer ist und jeder rechtschaffene Mann wie dieser gehandelt hätte, ja sogar noch handeln würde.
+		</div>
+		<div ref="3">
+			[3] Da <persName ref="8055">Blarer</persName> nicht weiß, wann <persName ref="18000">Stadelmann</persName> nach
+			<placeName ref="587">Zürich</placeName> kommt, meldet er nichts Weiteres, da sich ohnehin bald ein
+			Bote nach <placeName ref="587">Zürich</placeName> finden lassen wird.
+		</div>
+		<div ref="4">
+			[4] [P.S.]: Möge der Überbringer spüren, dass <persName ref="8055">Blarers</persName> Fürbitte bei
+			Bullinger und den Zürcher Bürgermeistern wirksam ist, worum auch
+			<persName ref="8178">Thomas Blarer</persName> bittet.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2804" page="286">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="de" state="auto">Furgeliepter, vertrauwter herr und bruͦder.</s>
+				<s n="3" lang="de" state="auto">Zoͤger<fl>1</fl>, herr <persName ref="18000">Hans Stadelmann</persName>, pfarrer zuͦ Altnow im Turgoͤw,<fl>2</fl> wuͤrt yetzund von dem landvogt<fl>3</fl> ouch angezogen<fl>4</fl> alls ain uffwigler, diewyl er anfang diß laidigen kriegs<fl>5</fl> zuͦ ettlichen gesagt, warum sy nitt ouch ziechind, etc.; er achte nitt<fl>6</fl>, das sy desshalb anzogen und gestraufft werdind, etc., wie er euch dann selbs wol anzoͤgen wirt.</s>
+				<s n="4" lang="de" state="auto">Diewyl im aber der handel gantz beschwaͤrlich, wie ir selbs erachten moͤgen, und er meines raths begert, hat mich fuͤr das best angesechen, das er gen Zuͤrich kere und euch sampt meiner furschrifft<fl>7</fl> bitte, im hilfflich ze sein, damitt er zum nechsten<fl>8</fl> ausß der sach kommen moͤchte und nitt vyl-<pb_edition start_of="287"/>licht fur gmain Aidgnossen<fl>9</fl> muͤsste; welcher rath ime wol gefallen und allso den weg under die fuͤsß genommen hat.<fl>10</fl></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="de" state="auto">Langt demnach an euch mein gar freuntlich, bruͤderlich bitt, ir wellt fuͤr euch selbs, auch von meinen wegen, bey ewern herren, sonderlich by meinen gunstigen lieben herrn burgermaistern <persName ref="1888">Lavater</persName><fl>11</fl> und <persName ref="1419" state="auto_name">Haben</persName><fl>12</fl>, anhalten, damitt ewerm landtvogt yetz im Turgoͤw von gemelts<fl>13</fl> pfarrers wegen geschriben wurde, das ime, sovyl mitt fuͦgen ymmer gesin mag<fl>14</fl>, milterung bescheche.</s>
+				<s n="6" lang="de" state="auto">Beger ich um sy und euch<fl>15</fl>, wa<fl>16</fl> mir moͤglich, uff das fruntlichest und dienstlichest zuͦ beschulden<fl>17</fl>, dann<fl>18</fl> diser pfarrer ain guͦter, geschickter unnd angenemer pfarrer und prediger ist, zuͦ dem das<fl>19</fl> der handel an im<fl>20</fl> selbs dermassen gestalltet, das mancher biderbman<fl>21</fl> soͤlich redden geuͤbt hat und hette, ouch noch uͤbte in derglichen fellen, das allso wol mittliden in soͤllichen fellen mitt yedem biderman ze haben und das best ze handlen ist.</s>
+				<s n="7" lang="de" state="auto">Das wellt meinem vertrauwen nach diß orts<fl>22</fl> ouch thain<fl>23</fl> und meinen gemeldten günstigen lieben herrn burgermaistern mein gantz guͦtwillig dienst mitt empietung alles guͦten anzoͤgen.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="8" lang="de" state="auto">Diewyl ich nitt waiß, wie bald zoͤger hinin<fl>24</fl> kompt, hab ich sonst nichts schreiben wellen, dann ich gedenck, diß tag on das<fl>25</fl> bottschafft zuͦ euch haben moͤgen.</s>
+				<s n="9" lang="de" state="auto">Datum den 9. februarii aubends 1547.</s>
+				<s n="10" lang="de" state="auto">Ambr. Bl.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="11" lang="de" state="auto">Thaind hierinn sampt meinen günstigen lieben herrn burgermaistern, das der guͦt pfarrer befind, sich mines furpitts genossen haben.<fl>26</fl></s>
+				<s n="12" lang="de" state="auto">Beger ich<fl>b</fl> aller ding dienstlich<fl>27</fl> zuͦ verglichen.<fl>28</fl></s>
+				<s n="13" lang="de" state="auto">Dessglichen bitt ouch euch all mein lieber bruͦder.<fl>29</fl></s>
+				<note type="address">[Ohne Adresse<fl>30</fl>]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2804">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit zahlreichen Schnittspuren.</i></fn>
+			<fn ref="b">In <i>der Vorlage</i> ist.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Der Briefüberbringer.</fn>
+			<fn ref="2" type="bio" fk_person="18000"><persName ref="18000">Hans Stadelmann</persName>, der von 1526 bis 1539 als Pfarrer in <placeName ref="362">Oberglatt</placeName> (<entity id="90" type="geo_region">Toggenburg</entity>, Kt. St. Gallen) nachgewiesen ist. Der vorliegenden Stelle zufolge hatte er spätestens 1547 die Pfarrstelle (die ein Lehen des <placeName ref="457">Konstanzer</placeName> Domstifts war; s. <placeName ref="587">Zürich</placeName> StA, G I 179, f. 125v.) in <placeName ref="9">Altnau</placeName> (Kt. <placeName ref="774">Thurgau</placeName>; etwa 11 km südöstlich von <placeName ref="457">Konstanz</placeName>) inne. 1556 wurde er Dekan der Pfarrer des Oberthurgaus. Er starb am 8. Mai 1561. Es ist ein auf den 16. Mai 1554 datierter Brief an Bullinger erhalten, in dem er einer der Unterzeichner ist (<placeName ref="587">Zürich</placeName> ZB, Ms F 40, 314f; <i>Kessler, Sabbata 653).</i> - Lit.: <i>Pf-St. Gallen</i> 293; <persName ref="6340">Johannes Rütiner</persName>, Diarium 1529-1539, hg. v. Ernst Gerhard Rüsch, Textband II/2, St. Gallen 1996, Abs. 294s. 301. 372a. 414b; <i>Pf-<placeName ref="774">Thurgau</placeName></i> 223; <i>Kessler, Sabbata</i> Reg.</fn>
+			<fn ref="3">Landvogt im <placeName ref="774">Thurgau</placeName> war der Zürcher <persName ref="5278">Leonhard Holzhalb</persName>.</fn>
+			<fn ref="4">angeklagt; s. <bibl>Fischer</bibl> I 288.</fn>
+			<fn ref="5">Nämlich des Schmalkaldischen Kriegs.</fn>
+			<fn ref="6">achte nitt: nehme nicht an.</fn>
+			<fn ref="7">Empfehlungsschreiben; <bibl>Fischer</bibl> II 1871f.</fn>
+			<fn ref="8">zum nechsten: bald.</fn>
+			<fn ref="9">Also vor die Tagsatzung zu Baden.</fn>
+			<fn ref="10">den weg under die füsß genommen hat: sich auf den Weg gemacht hat.</fn>
+			<fn ref="11"><persName ref="1888">Hans Rudolf Lavater</persName>.</fn>
+			<fn ref="12"><persName ref="1419">Johannes Haab</persName>.</fn>
+			<fn ref="13">erwähnten.</fn>
+			<fn ref="14">sovyl mitt fügen ymmer gesin mag: soweit es zu verantworten ist.</fn>
+			<fn ref="15">um sy und euch: was sie (die Bürgermeister) und euch (Bullinger) anbetrifft.</fn>
+			<fn ref="16">wenn.</fn>
+			<fn ref="17">vergelten.</fn>
+			<fn ref="18">denn.</fn>
+			<fn ref="19">zü dem das: zumal.</fn>
+			<fn ref="20">sich.</fn>
+			<fn ref="21">rechtschaffener Mann.</fn>
+			<fn ref="22">dih Orts: in dieser Angelegenheit.</fn>
+			<fn ref="23">tun.</fn>
+			<fn ref="24">nach Zürich.</fn>
+			<fn ref="25">on das: ohnehin; s. <bibl>Fischer</bibl> V 60.</fn>
+			<fn ref="26">befind, sich mines furpitts genossen haben: die Wirsamkeit meiner Fürbitte spüren kann.</fn>
+			<fn ref="27">dienstfertig.</fn>
+			<fn ref="28">vergelten.</fn>
+			<fn ref="29"><persName ref="8178">Thomas Blarer</persName>.</fn>
+			<fn ref="30">Der Brief wurde Stadelmann anvertraut (s. <link fk_file="12861">Nr. 2812</link>,85-87), der ihn aber Blarer zurückbrachte, da seine Angelegenheit schon im Thurgau geklärt werden konnte. Dennoch schickte Blarer (wohl zur Information) vorliegendes Schreiben an Bullinger zusammen mit seinem Brief vom 19. Februar; s. <link fk_file="12865">Nr. 2816</link>,73-75.</fn>
+		</num>
+	</footnotes>
+</file>

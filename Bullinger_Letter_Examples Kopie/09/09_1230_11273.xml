@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11273" id_hbbw="1230" id_irg_sort="1230" id_sort="112300">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11273</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1230</arpa>
+		<scan_pages>
+			<scan id="26223" dir="11273/Autograph/" page="1">00 E_II_336__fol__204_r_.tif</scan>
+			<scan id="26224" dir="11273/Autograph/" page="2">01 E_II_336__fol__204_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22866" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22867" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11273">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">23</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17747">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 336,204</signature>
+				<signature_old>E II 336,186</signature_old>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11172" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1230, S. 64</entry>
+				<page>64</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="26">
+				<lang id="5" iso="la" count="26" p="100.0"/>
+			</sentences>
+			<words count="345">
+				<lang id="5" iso="la" count="345" p="100.0"/>
+			</words>
+			<chars count="2037">
+				<lang id="5" iso="la" count="2037" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1230" page="64">
+		<div ref="1">
+			Dankt im Namen seiner Auftraggeber für die Antwort [<link fk_file="11270">Nr. 1227</link>], die allerdings
+			enttäuschend ist, da die Übermittlung vertraulicher Nachrichten beim Fehlen eines Geheimen Rates riskant
+			bleibt; die Basler Abgeordneten werden jedoch den Zürchern an der
+			<placeName ref="21">Badener</placeName> Tagsatzung einiges zur Beratung vorlegen. Daß Kriegsgefahr
+			droht, sobald der <placeName ref="157">Frankfurter</placeName> Bundestag zu Ende ist, belegen die
+			Werbungen und Musterungen der Gegner; die Gefährdung anderer evangelischer Stände kann den Eidgenossen nicht
+			gleichgültig sein. <persName ref="8011">Rudolf [Gwalther]</persName> ist zu ihm zurückgekehrt. Der Frau von
+			<persName ref="1365">Grynäus</persName> <persName ref="5044">[Katharina Lompart]</persName>
+			geht es wieder besser.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1230" page="64">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Ago gratias, mi Bullingere, tibi tuisque, quod tam prompte et clare, quę petiimus, expedivistis<fl>1</fl>.</s>
+				<s n="3" lang="la" state="auto">Quamvis enim responsum non sit ad vota nostra datum, satisfactum est tamen animis, quibus nonnihil erat spei rem melius eventuram, ut iam sciant nihil sperandum.</s>
+				<s n="4" lang="la" state="auto">Doluit mihi protinus post bellum, quod audiveram senatum rerum occultarum (ut ita dicam), qui, dum probus est, non potest non esse utilissimus et adhuc habetur non sine magno commodo in magnis rebuspublicis, sublatum<fl>2</fl>.</s>
+				<s n="5" lang="la" state="auto">Pręvideram enim, quae mala forent hinc exoritura, praesertim quoad Quinque Pagi hostes esse non desinerent.<pb_edition start_of="65"/></s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">An vero non grande malum, quod occulta non audemus indicare vestris nisi grandi cum incommodo - propter hostem communem - nostro?</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Et tamen, dum tacemus, fieri potest, ut incommodum fiat gravius.</s>
+				<s n="8" lang="la" state="auto">Si consilia papistarum procedent, intelliges aliquando, quę nunc sunt immanifestiora.</s>
+			</p>
+			<p>
+				<s n="9" lang="la" state="auto">Narravi meis, quę scripsisti; quid consultarint, nescio.</s>
+				<s n="10" lang="la" state="auto">Non est dubium tamen, quin dederint in mandatis aliquid legatis, quod sit de rebus gravioribus illis conferendum cum vestris in comitiis <placeName ref="1724">Badensibus</placeName><fl>3</fl>.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Convenerunt iterum principes et civitates evangelici foederis Francfordię<fl>4</fl>.</s>
+				<s n="12" lang="la" state="auto">Nemo est, qui non timeat bellum post comitia ea dissoluta.</s>
+				<s n="13" lang="la" state="auto">Sic heri scripsit e praelectoribus quidam Argentinensibus<fl>5</fl>: „Scimus (hoc in sinum tibi) finitimos vestros sollicitari in foedus adversariorum a Ferdinandinis et papisticis.“<fl>6</fl></s>
+				<s n="14" lang="la" state="auto">Quid in animo sit, novit deus.</s>
+				<s n="15" lang="la" state="auto">Equidem, quę praesagit mihi mens mea, in praesens dissimulo, non quod apud te non audeam ea pronunciare, sed quod novi te mecum eadem sentire vel me dissimulante maxime.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Nobilitas per Sveviam itidem requiritur non sine maximo terrore civitatum Svevicarum<fl>7</fl>.</s>
+				<s n="17" lang="la" state="auto">A vicinis nostris delectus habentur<fl>8</fl>, verum ad quid, ignoratur.</s>
+				<s n="18" lang="la" state="auto">Interim sedemus nos, tanquam omnia sint pacatissima, cum nihil magis constare queat quam omnes impias consultationes contra nos solos esse.</s>
+				<s n="19" lang="la" state="auto">De Helvetico evangelio non est cura cuipiam; at si delerentur (quod dominus avertat) principes, civitates, regna, quę fovent magna diligentia verbum Christi, quid de nobis futurum esset, quis ignorat?</s>
+				<s n="20" lang="la" state="auto">Hęc perplexa perplexo animo scripta, quęso, boni consulas.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Vale cum tuis feliciter in domino.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto"><persName ref="8011">Rodulfus</persName><fl>9</fl> tuus rediit ad me<fl>10</fl>.</s>
+				<s n="23" lang="la" state="auto"><persName ref="1365">Grynęi</persName> uxor revalescere incipit<fl>11</fl>.<pb_edition start_of="66"/></s>
+				<s n="24" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, 23. februarii anno 39.</s>
+			</p>
+			<p>
+				<s n="25" lang="la" state="auto"><persName ref="8418">Os. Myconius</persName> tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="26" lang="la" state="auto">Domino Heinricho Bullingero, episcopo Tigurinorum primario, fratri ac domino in Christo venerando suo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1230">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichungen von späterer Hand.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Bullinger hatte aufgrund einer durch <persName ref="8418">Myconius</persName> übermittelten Anfrage aus Basler Magistratskreisen sondiert, ob eine Wiedereinführung des Geheimen Rates möglich wäre; vgl. oben <link fk_file="11269">Nr. 1226</link>f.</fn>
+			<fn ref="2">Zur Abschaffung des Zürcher Geheimen Rates nach dem Zweiten Kappelerkrieg s. oben <link fk_file="11270">Nr. 1227</link>, Anm. 4.</fn>
+			<fn ref="3"><placeName ref="28">Basel</placeName> wurde an der <placeName ref="21">Badener</placeName> Tagsatzung vom 25. Februar durch <persName ref="18029">Christoph Offenburg</persName> und <persName ref="6310">Heinrich Ryhiner</persName> vertreten, Zürich durch <persName ref="1888">Hans Rudolf Lavater</persName> und <persName ref="3493">Bernhard von Cham</persName> (s. <bibl>EA</bibl> IV/1c 1065). Die Basler waren instruiert, mit den Delegierten der evangelischen Städte zu beraten, wie auf die Rüstungen in der Nachbarschaft reagiert werden solle; s. <bibl>EA</bibl> IV/1c 1064 (zu dd).</fn>
+			<fn ref="4">Am 14. Februar war in <placeName ref="157">Frankfurt</placeName> ein Schmalkaldischer Bundestag zusammengetreten, an dem insbesondere über den Religionsfrieden verhandelt wurde; s. Rainer <i>Wohlfeil,</i> Art. <placeName ref="157">Frankfurter</placeName> Anstand, in: <bibl>TRE</bibl> XI 342-346 (mit weiterer Lit.). Zu den Ergebnissen vgl. auch unten <link fk_file="11304">Nr. 1261</link>, 2-21.</fn>
+			<fn ref="5">Zu denken ist an <persName ref="315">Bedrot</persName>; dessen undatierter Brief an <persName ref="8418">Myconius</persName> (Zürich ZB, Ms F 80, 44), den GWalther bei seiner Rückkehr nach <placeName ref="28">Basel</placeName> (vgl. unten Z. 32) überbracht haben dürfte, enthält allerdings die zitierte Stelle nicht.</fn>
+			<fn ref="6">Wahrscheinlich bezieht sich der Schreiber auf das Gerücht, der <placeName ref="361">Nürnberger</placeName> Bund umwerbe die <placeName ref="2448">Fünf Orte</placeName> (vgl. <bibl>PC</bibl> II 541. 556f. 564f).</fn>
+			<fn ref="7">Zu den laufenden Verhandlungen über den Anschluß der schwäbischen Prälaten, Grafen und Ritter an den <placeName ref="361">Nürnberger</placeName> Bund vgl. besonders <bibl>Gerwig Blarer BA</bibl> I 364-368, <link fk_file="10572">Nr. 536</link>.</fn>
+			<fn ref="8">In der oben Anm. 3 erwähnten Instruktion ist von Rüstungen in der Herrschaft <placeName ref="434">Rötteln</placeName> die Rede.</fn>
+			<fn ref="9"><persName ref="8011">Rudolf Gwalther</persName>.</fn>
+			<fn ref="10"><persName ref="8011">Gwalther</persName> kann <placeName ref="492">Straßburg</placeName> frühestens um Mitte Februar verlassen haben, da er noch vor seiner Abreise erste Nachrichten vom <placeName ref="157">Frankfurter</placeName> Bundestag erhielt (vgl. unten <link fk_file="11275">Nr. 1232</link>, 33f).</fn>
+			<fn ref="11">Zur Erkrankung von <persName ref="5044">Katharina Lompart</persName> vgl. oben <link fk_file="11269">Nr. 1226</link>, 19.</fn>
+		</num>
+	</footnotes>
+</file>

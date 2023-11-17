@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12860" id_hbbw="2811" id_irg_sort="2811" id_sort="128110">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12860</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2811</arpa>
+		<scan_pages>
+			<scan id="30100" dir="12860/Autograph/" page="1">00 E_II_356__S__66_.tif</scan>
+			<scan id="30101" dir="12860/Autograph/" page="2">01 E_II_356__S__67_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26264" vf="1" fk_add_type="1">
+				<person id="1865" fk_id="1865">
+					<name>Kröttlin</name>
+					<forename>Gabriel</forename>
+				</person>
+				<place id="409" vf="" fk_id="409" long="9.61062" lat="47.78198">Ravensburg</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26265" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12860">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19427">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 356,66</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12376" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2811, S. 303</entry>
+				<page>303</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="10">
+				<lang id="1" iso="de" count="10" p="100.0"/>
+			</sentences>
+			<words count="328">
+				<lang id="1" iso="de" count="328" p="100.0"/>
+			</words>
+			<chars count="1727">
+				<lang id="1" iso="de" count="1727" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2811" page="303">
+		<div ref="1">
+			[1] Letztens richtete <persName ref="1865">Kröttlin</persName> einen Brief an Bullinger [nicht erhalten] und an seinen Freund
+			<persName ref="3959">Johannes Willing</persName>, weil er gerne seinen Sohn <persName ref="18124">[Hans Baptist</persName>?] in Zürich
+			ausbilden lassen würde, zumal er weiß, dass dort die beste christliche Disziplin herrscht. Daraufhin schrieb
+			ihm <persName ref="3959">Willing</persName>, dass Bullinger das Anliegen wohlwollend aufgenommen habe und sich um eine Unterkunft für den
+			Sohn bemühe. <persName ref="1865">Kröttlin</persName> ist sehr dankbar dafür.
+		</div>
+		<div ref="2">
+			[2] Er hegt weiterhin den Plan, den Sohn baldmöglichst nach Zürich zu schicken. Doch durch den schlimmen
+			Kriegsverlauf wie auch durch die Schneefälle kommt es zu einer Verzögerung. Der Junge bleibe jedoch
+			Bullinger empfohlen, damit er bei einem guten Lehrer christlich erzogen und in den Sprachen gut ausgebildet
+			werde. <persName ref="1865">Kröttlin</persName> wird jährlich für den Unterhalt aufkommen und sich auch Bullinger dankbar erweisen.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2811" page="303">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Erwurdiger, hochgelerter, e[wer] e[rwurd] seyen mein gantz fraintlich, willig dinst.</s>
+				<s n="2" lang="de" state="auto">Verschiner tagen hab ich e. e. und dabey ouch meinem sunders gunstigen fraind, dem <persName ref="3959">Joanni Willing</persName><fl>1</fl>, geschriben,<fl>2</fl> wie das ich ain jungen sun<fl>3</fl> hab, den ich gern gen Zurch zum studio schicken wolt.</s>
+				<s n="3" lang="de" state="auto">Dieweyl ich <pb_edition start_of="304"/> aber an dem selbigen ort nit sunders<fl>4</fl> bekandt, hab ich e. e. und darneben gedachtem <persName ref="3959">Willing</persName>, meinem sunder guͦten fraind, geschriben und gebetten, gedachten meinen son zu befurdren, als<fl>5</fl> ich zu e. e. noch schreyb und beger, den an dem selbigen ort (da ich waiß, das alle guͦt disciplin und christenlich zucht fur<fl>6</fl> andern orten gelert wirt) zu erhalten.</s>
+				<s n="4" lang="de" state="auto">Darauf ist mir jungst von gedachtem <persName ref="3959">Willing</persName> ain schreyben zukomen, darinn er mir anzaigt, wie sich e. e. in disem me[inem]<fl>a</fl> beger gantz gutwillig erzaigt und habe meinen sun mit sunderm fleiß underzuͦbringen sich bemeydt<fl>7</fl>; des ich mich billich aufs allerhoechest geg[en] der selb e. e. bedanckh.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="de" state="auto">Ich bin ouch nochmals<fl>8</fl> willen, denselbigen mein sun dahin zu schicken.</s>
+				<s n="6" lang="de" state="auto">Das es aber etlich tag underlassen beliben<fl>9</fl>, ist die schuld nit<fl>b</fl>, das ich ains anders bedacht seye, sund[er] alain, das die loef laider (got erbarms) dißer zeyt bey uns kriegs halber sich so sorcklich<fl>10</fl> zutra[gen] haben und volgends<fl>11</fl> das wetter mit schnee d[er] gestalt ouch begeben,<fl>12</fl> das ich ine so eylends nit ha[b] könden abfertigen.</s>
+				<s n="7" lang="de" state="auto">Aber mit hilf des almechtigen guetigen gots bin ich noch willens, denselbigen aufs furderlichst<fl>13</fl>, es ymer sein mag, e. e. zuzusch[icken] mit gantz christenlichem und fraintlichem pitt und beger, e. e. welle den annemen und, wie ich sunders<fl>14</fl> zweyfels auß christenlichem eyfer b[e]gere, denselbigen bevolchen sein lasen zu der gl[ori] und er gottes, und zu erlernung aller christe[n]licher kunst, zucht und guter sprach zu befurd[ren],<pb_scan n="66v."/> bey<fl>c</fl> ainem guten preceptori underzubringen.</s>
+				<s n="8" lang="de" state="auto">Was ich dann jaͤrlich darvon<fl>15</fl> zu thun schuldig, bin ich gantz urbuttig<fl>16</fl>, und<fl>17</fl> soͤllichs umb e. e. gegen got und im zeyt<fl>18</fl> zu verdinen<fl>19</fl> mich erbietende.</s>
+				<s n="9" lang="de" state="auto">Datum den 12. februarii im 47ten jar.</s>
+				<s n="10" lang="de" state="auto">E. e. williger <persName ref="1865">Gabriel Kröttlin</persName>, statschreyber zu <placeName ref="409">Ravenspurg</placeName>.</s>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse.]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2811">
+		<alpha>
+			<fn ref="a"><i>Hier und unten Textverlust am rechten Blattrand.</i></fn>
+			<fn ref="b"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="c"><i>In der Vorlage steht vor</i> bey <i>in der Marginalie</i> by.</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="3959">Johannes Willing</persName>, damals Stipendiat in Zürich; s. <bibl>HBBW</bibl> XVIII 143f, Anm. 3.</fn>
+			<fn ref="2">Der Brief an Bullinger ist nicht erhalten.</fn>
+			<fn ref="3" type="bio" fk_person="18124">In Frage kommen <persName ref="18124">Hans Baptist</persName>, Gedeon und Gabriel; s. Alfons <i>Dreher,</i> Das Patriziat der Reichsstadt <placeName ref="409">Ravensburg</placeName> (4. Teil), in: Zeitschrift für Württembergische Landesgeschichte 24, 1965, 80. - Hier ist am ehesten <persName ref="18124">Hans Baptist</persName> gemeint, der sich in Basel im Jahr 1548/49 unter den Namen "<persName ref="18124">Johannes Kretlinus</persName>" immatrikulierte; s. <i>M-Basel</i> II 60, Nr. 56. Er ließ sich spätestens 1556 als Jurist in <placeName ref="409">Ravensburg</placeName> nieder, war in diesem Jahr Bürger und Dr. iur. Er starb zwischen 1591 und 1600; s. <i>Dreher,</i> aaO. Gedeon immatrikulierte sich erst am 15. Januar 1551 in Tübingen; s. <i>M-Tübingen</i> I 349.</fn>
+			<fn ref="4">besonders.</fn>
+			<fn ref="5">wie auch.</fn>
+			<fn ref="6">mehr als (an).</fn>
+			<fn ref="7">bemüht.</fn>
+			<fn ref="8">weiterhin.</fn>
+			<fn ref="9">geblieben.</fn>
+			<fn ref="10">besorgniserregend.</fn>
+			<fn ref="11">daraufhin.</fn>
+			<fn ref="12">Vgl. <link fk_file="12852">Nr. 2803</link>,9.</fn>
+			<fn ref="13">aufs furderlichst: schnellstmöglich.</fn>
+			<fn ref="14">ohne.</fn>
+			<fn ref="15">dafür; s. <i>FNHDW V</i> 314.</fn>
+			<fn ref="16">guten Willens.</fn>
+			<fn ref="17">auch.</fn>
+			<fn ref="18">im zeyt: im Zeitlichen; in diesem Leben.</fn>
+			<fn ref="19">vergelten.</fn>
+		</num>
+	</footnotes>
+</file>

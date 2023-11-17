@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11280" id_hbbw="1237" id_irg_sort="1237" id_sort="112370">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11280</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1237</arpa>
+		<scan_pages>
+			<scan id="26233" dir="11280/Autograph/" page="1">00 Pa_14_2_5_01.tif</scan>
+			<scan id="26234" dir="11280/Autograph/" page="2">01 Pa_14_2_5_02.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22880" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22881" vf="1" fk_add_type="1">
+				<person id="3700" fk_id="3700">
+					<name>von Rümlang</name>
+					<forename>Eberhard</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11280">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">8</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17752">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="93" fk_place="582">Zofingen StB</archive>
+				<signature>Pa 14.2, Nr. 5</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7401" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>C.O. X/2, S. 321f, Nr. 161</entry>
+			</print>
+			<print id="11102" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1237, S. 78</entry>
+				<page>78</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="31">
+				<lang id="1" iso="de" count="1" p="3.2"/>
+				<lang id="5" iso="la" count="30" p="96.8"/>
+			</sentences>
+			<words count="318">
+				<lang id="1" iso="de" count="4" p="1.3"/>
+				<lang id="5" iso="la" count="314" p="98.7"/>
+			</words>
+			<chars count="1871">
+				<lang id="1" iso="de" count="26" p="1.4"/>
+				<lang id="5" iso="la" count="1845" p="98.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1237" page="77">
+		<div ref="1">
+			<persName ref="3700">Rümlang</persName> braucht <persName ref="5837">Sebastian [Meyer]</persName> nicht zu entschädigen, da
+			<persName ref="1227">Froschauer</persName> ihn zufriedenstellen wird;
+			<persName ref="5837">Meyers</persName> Sorge, <persName ref="1974">Luther</persName> könnte [an
+			der Vorrede zum Apokalypsenkommentar] Anstoß nehmen, ist unberechtigt, denn sollte die Konkordie Kritik an
+			einem fehlbaren Menschen verbieten, ist sie ohnehin unhaltbar. Kann sich eine Veröffentlichung des [Ersten]
+			Helvetischen Bekenntnisses nur mit Zustimmung [der beteiligten Orte] vorstellen. Schenkt ihm und
+			<persName ref="4610">Peter Cyro</persName> sein neues Buch „De origine erroris“ und bittet um
+			Beurteilung. Weist auf die [neuerschienene] Bibelübersetzung <persName ref="2270">Münsters</persName>
+			hin, zu der er eine Einleitung verfaßt hat. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1237" page="78">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et vitae innocentiam a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Non est, <persName ref="3700">Eberharde</persName> mi, ut doctori <persName ref="5837">Sebastiano</persName><fl>1</fl> de tuo quicquam numeres; <persName ref="1227">Froschouerus</persName> illi satisfaciet.</s>
+				<s n="3" lang="la" state="auto">Cum enim ipsi, quod scripseras<fl>2</fl>, suggererem, ille dixit se homini satisfacturum.</s>
+				<s n="4" lang="la" state="auto">De aliis ne sis sollicitus.</s>
+				<s n="5" lang="la" state="auto">Interim modestia tua novit seni aliquid condonare.</s>
+				<s n="6" lang="la" state="auto">Frustra vero ipse metuit offendi <persName ref="1974">Lutherum</persName><fl>3</fl>.</s>
+				<s n="7" lang="la" state="auto">Pluris enim veritas quam <persName ref="1974">Lutherus</persName> habebitur a theologo.</s>
+				<s n="8" lang="la" state="auto">Nemini autem obscurum est, quam temere de quibusdam libris scripturae sacrae pronunciarit <persName ref="1974">Lutherus</persName><fl>b</fl><fl>4</fl>.</s>
+				<s n="9" lang="la" state="auto">Ego non video, quid peccarit doctor <persName ref="5837">Sebastianus</persName>.</s>
+				<s n="10" lang="la" state="auto">Quod si concordiae conditiones id possunt, ut nemo pro veritate contra <persName ref="1974">Lutherum</persName> vel os aperiat, cum homo sit <persName ref="1974">Lutherus</persName>, non deus, pereant concordiae conditiones.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Ego agnosco <persName ref="1974">Lutherum</persName> esse hominem, qui et falli possit et fallere, qui de errore admonendus sit et revocandus.</s>
+				<s n="12" lang="la" state="auto">Non probo illos, qui ex ipso nobis novum pectoris scrinium fabricare statuunt<fl>5</fl>.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">An possit vulgari confessio ecclesiarum Helvetiae<fl>6</fl>, ignoro.</s>
+				<s n="14" lang="la" state="auto">Vellem autem communi omnium consensu vulgari, et fortassis suo tempore et loco id fiet.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto">Quid ego hac hieme scripserim, vides: duos libros De origine erroris<fl>7</fl>.</s>
+				<s n="16" lang="la" state="auto">Non sine sudore et labore ingenti illos conscripsi.</s>
+				<s n="17" lang="la" state="auto">Forte non probabunt illos quidam.</s>
+				<s n="18" lang="la" state="auto">Sed veritatem intrepide scripsi, veritatem deo adiuvante in finem usque tuebor.</s>
+				<s n="19" lang="la" state="auto">Hoc autem exemplar ea lege tibi dono, ut donum commune habeas cum clarissimo viro d. <persName ref="4610" state="auto_name">Petro Gyrone</persName><fl>8</fl>, scriba inclytae urbis vestrae.</s>
+				<s n="20" lang="la" state="auto">Atque dominum oro, faxit, ut animos alioqui coniunctos efficiat hoc communi dono<fl>c</fl> coniunctiores.</s>
+				<s n="21" lang="la" state="auto">Salutabis mihi virum et mea ipsi obsequia offeres.</s>
+				<s n="22" lang="la" state="auto">Amo enim candorem et eruditionem hominis illustrem.</s>
+				<s n="23" lang="la" state="auto">Expecto iuditium de libro meo<fl>9</fl>.</s>
+			</p>
+			<p>
+				<s n="24" lang="la" state="auto">Vidisti forsan Biblia Latina e versione <persName ref="2270">Munsteri</persName> ex veritate Hebraica<fl>10</fl>, cui praefixi expositionem de omnibus libris sacrae scripturae eorumque dignitate et praestantia<fl>11</fl>.</s>
+				<s n="25" lang="la" state="auto">Omni studio in ea annixus sum, ut sacrarum litterarum studium omnibus commendarem.<pb_edition start_of="79"/></s>
+			</p>
+			<p>
+				<s n="26" lang="la" state="auto">Vale, <persName ref="3700">Eberharte</persName> mi, et tibi de me quod de fratre polliceberis.</s>
+				<s n="27" lang="la" state="auto">8. martii anno 1539.</s>
+			</p>
+			<p>
+				<s n="28" lang="la" state="auto">Salutabis mihi concionatores fratres <persName ref="2810">Erasmum</persName><fl>12</fl>, <persName ref="5837">Sebastianum</persName>, <persName ref="20015">Conzenum</persName><fl>13</fl> etc.</s>
+			</p>
+			<p>
+				<s n="29" lang="la" state="auto">H. Bullingerus tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="30" lang="la" state="auto">Et genere et eruditione claro viro <persName ref="3700">Eberharto a Rümlang</persName>, scribae <placeName ref="41">Bernensi</placeName>, amico syncero.</s>
+				<s n="31" lang="de" state="auto">Dem Seckelschryber zuͦ <placeName ref="41">Bernn</placeName>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1237">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichungen von späterer Hand.</i></fn>
+			<fn ref="b">Lutherus <i>am Rande nachgetragen.</i></fn>
+			<fn ref="c">hoc communi dono <i>am Rande nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="5837">Sebastian Meyer</persName>.</fn>
+			<fn ref="2">Siehe oben <link fk_file="11267">Nr. 1224</link>, 29-44.</fn>
+			<fn ref="3"><persName ref="5837">Meyer</persName> glaubte, in der Vorrede zu seinem Apokalypsenkommentar <persName ref="1974">Luthers</persName> Geringschätzung der Apokalypse zu scharf kritisiert zu haben; vgl. ebd., Z. 8-28.</fn>
+			<fn ref="4">Bullinger bezieht sich zweifellos auf <persName ref="1974">Luthers</persName> kritische Würdigung der neutestamentlichen Schriften in den Vorreden zu seinen Übersetzungen (vgl. etwa <bibl>WA</bibl> DB VI 10).</fn>
+			<fn ref="5">Gemäß kanonischem Recht trägt der Papst "iura omnia in scrinio pectoris sui"; d. h. er verkörpert gleichsam das Recht (s. CorpIC, VII. 2, 1).</fn>
+			<fn ref="6">das Erste Helvetische Bekenntnis; vgl. oben <link fk_file="11267">Nr. 1224</link>, 57-65.</fn>
+			<fn ref="7">Bei dem im März 1539 bei <persName ref="1227">Froschauer</persName> gedruckten Werk "De origine erroris libri duo" (<bibl>HBBibl</bibl> I 12) handelt sich um eine Neubearbeitung zweier Schriften von 1528 bzw. 1529 (<bibl>HBBibl</bibl> I 10f); vgl. HBD27, 11f und oben <link fk_file="11276">Nr. 1233</link>f.</fn>
+			<fn ref="8"><persName ref="4610">Peter Cyro</persName>.</fn>
+			<fn ref="9">Vgl. unten <link fk_file="11354">Nr. 1311</link>, 17-33.</fn>
+			<fn ref="10">Die 1539 bei <persName ref="1227">Froschauer</persName> gedruckte "Biblia sacra utriusque testamenti" (<bibl>BZD</bibl> C 275) enthielt <persName ref="2270">Sebastian Münsters</persName> Übersetzung des Alten Testaments, das Neue Testament in der Version des Erasmus sowie die Apokryphen.</fn>
+			<fn ref="11"><bibl>HBBibl</bibl> I 114; vgl. <bibl>HBD</bibl> 27, 13-15.</fn>
+			<fn ref="12"><persName ref="2810">Erasmus Ritter</persName>.</fn>
+			<fn ref="13"><persName ref="20015">Peter Kunz</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

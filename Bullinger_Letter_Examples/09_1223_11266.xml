@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11266" id_hbbw="1223" id_irg_sort="1223" id_sort="112230">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11266</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1223</arpa>
+		<scan_pages>
+			<scan id="26212" dir="11266/Autograph/" page="1">00 E_II_359__fol__2794_r_.tif</scan>
+			<scan id="26213" dir="11266/Autograph/" page="2">01 E_II_359__fol__2794_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22852" vf="1" fk_add_type="1">
+				<person id="1010" fk_id="1010">
+					<name>Erb</name>
+					<forename>Matthias</forename>
+				</person>
+				<place id="411" vf="1" fk_id="411" long="7.29707" lat="48.16672">Reichenweier</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22853" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11266">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">5</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17740">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2794r.-v.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11153" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1223, S. 52</entry>
+				<page>52</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="32">
+				<lang id="5" iso="la" count="32" p="100.0"/>
+			</sentences>
+			<words count="439">
+				<lang id="5" iso="la" count="439" p="100.0"/>
+			</words>
+			<chars count="2695">
+				<lang id="5" iso="la" count="2695" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1223" page="51">
+		<div ref="1">
+			Möchte Bullinger, dem er noch unbekannt ist, nicht behelligen, schreibt aber auch im Namen seiner Kirche.
+			Auf der Suche nach einem Pfarrer für <placeName ref="1718">Volgelsheim</placeName> nannte ihm
+			<persName ref="315">[Jakob] Bedrot</persName> einen unbescholtenen, gelehrten Mann in <placeName ref="159">Frauenfeld</placeName>,
+			der des tyrannischen Landvogtes [<persName ref="4762">Hans Faßbind</persName>] wegen kaum wird bleiben
+			können; falls ihn Bullinger kennt, soll er sich mit <persName ref="8437">Erasmus Schmid</persName>
+			besprechen. Vernahm [folgende] Nachrichten und Gerüchte: Herzog [<persName ref="18604">Wilhelm IV.</persName>] von Bayern, <persName ref="7637">König [Franz I.]</persName>
+			von Frankreich und <persName ref="18538">Kaiser [Karl V.]</persName> werben im <placeName ref="632">Elsaß</placeName> Reiter und Fußtruppen an; die protestantischen Stände
+			werden in <placeName ref="157">Frankfurt am Main</placeName> tagen, während die anderen kürzlich in
+			<placeName ref="145">Esslingen</placeName> beisammen waren; die <placeName ref="492">Straßburger</placeName>, <placeName ref="452">Schlettstadter</placeName> und
+			<placeName ref="101">Colmarer</placeName> beraten sich; von der Rückkehr der Gesandten aus <entity id="29" type="geo_country">Spanien</entity> erwartet man [den Entscheid über] Krieg
+			oder Frieden; der Streit zwischen Bischof [Wilhelm] von <placeName ref="492">Straßburg</placeName>
+			und<pb_edition start_of="52"/> Graf <persName ref="7492">Wilhelm von Fürstenberg</persName> ist
+			vorläufig beigelegt; <persName ref="467">Bucer</persName> kehrte nach dem Täufergespräch, dem Besuch bei <persName ref="1974">Luther</persName> und [<persName ref="2095">Melanchthon</persName>] sowie
+			einer Disputation mit <persName ref="7091">[Georg] Witzel</persName> in <placeName ref="284">Leipzig</placeName> aus
+			<placeName ref="664">Hessen</placeName> [nach
+			<placeName ref="492">Straßburg</placeName>] zurück; Barbarossa verlor vierzig [Schiffe]. Grüße an
+			<persName ref="8412">[Kaspar] Megander</persName> und an <persName ref="1753">Leo [Jud]</persName>; hofft, daß dessen Schwester
+			[<persName ref="17855">Clara Schmid</persName>], die <persName ref="1753">Jud</persName> nächstens den Sohn
+			[<persName ref="8009">Johannes Fabricius Montanus</persName>] schicken wird, mit den Ihren [in das
+			evangelische <placeName ref="411">Reichenweier</placeName>] umzieht.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1223" page="52">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratia domini tecum.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Scio te non aegre laturum, optime Bullingere, pro tua singulari humanitate, quod ego, obscuri nominis homuntio tibique prorsum ignotus, meis ineptiis interturbo te, hominem non modo christianę religionis antistitem celeberrimum, sed gravioribus etiamnum offitiis occupatissimum.</s>
+				<s n="3" lang="la" state="auto">Ea spe fretus scribo non meo, sed magis nomine ecclesię nostrae, quę in dies adolesceret in Christo, modo constituti essent pii et ludi et ecclesię ministri.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">Atque ut intelligas, quid velim: Multis iam diebus quesivimus ubivis fere gentium ministrum, qui eruditioni<fl>a</fl> pietatem adiunxerit, ut ecclesię in Folckelsheim<fl>2</fl> haud procul a monte <placeName ref="64">Brisaco</placeName><fl>3</fl> praeficeretur.</s>
+				<s n="5" lang="la" state="auto">Verum frustramur.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Adhoc quibusdam pagis ludimoderatores praefecimus, sed homines vanissimę vitę, quos nunc (ne ecclesiam amplius offendant) satrapę principis nostri<fl>4</fl> dimittentes ablegarunt, nec sunt, quos substituamus.</s>
+				<s n="7" lang="la" state="auto">Scripsi et fratribus <placeName ref="492">Argentoratensibus</placeName>, nec illi inopiam nostram levarunt.</s>
+				<s n="8" lang="la" state="auto"><persName ref="315">Bedrottus</persName> significavit mihi per literas<fl>5</fl> integrum ac eruditum virum<fl>6</fl> esse, cuius nomen tamen non indicavit, apud <placeName ref="159">Frauenfeldium</placeName> in Turgoia, qui ilhic non diu ob pręfecti<fl>7</fl> impiam tyrannidem conditionem et locum sit habiturus.</s>
+				<s n="9" lang="la" state="auto">Is si tibi cognitus est, confer cum <persName ref="8437">Erasmo Fabritio</persName>, qui ecclesię nostrae primas, an ei reipublicae christianę aptus sit necne; novit enim faciem ecclesiarum in nostro agro, tum et de stipendiis et locorum situm.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Varii rumores miręque feruntur practicę: Bavarus<fl>8</fl> apud nos equites conscribit occulte idque salario percharo; in quos, ignoramus<fl>9</fl>.</s>
+				<s n="11" lang="la" state="auto">Gregarii milites per antesignanos contrahuntur a Gallo<fl>10</fl> et caesare<fl>11</fl>.</s>
+				<s n="12" lang="la" state="auto">Trepidat Germania.</s>
+				<s n="13" lang="la" state="auto">Civitates protestantes comitia post quindenam habebunt Francfordię<fl>12</fl>; reliquę, [quae] Christum non confitentur<fl>b</fl>, nuper fuerunt Eslingę<fl>13</fl>, quae veredarium<pb_edition start_of="53"/><fl>14</fl> ad caesarem miserunt; cuius rei gratia, ignoratur.</s>
+				<s n="14" lang="la" state="auto"><placeName ref="492">Argentoratenses</placeName> vicinos Selestadienses ac <placeName ref="101">Colmarienses</placeName> nuper ad se in concilium vocarunt<fl>15</fl>.</s>
+				<s n="15" lang="la" state="auto">Latent<fl>c</fl> omnia.</s>
+				<s n="16" lang="la" state="auto">Putant multi veredarios ex <entity id="29" type="geo_country">Hispania</entity> reversos vel pacem vel bellum nunciaturos<fl>16</fl>.</s>
+				<s n="17" lang="la" state="auto">Lis inter episcopum <placeName ref="492">Argentoratensem</placeName><fl>17</fl> et comitem <persName ref="7492">Wilhelmum a Furstenberg</persName> composita est, nescio quam diu<fl>18</fl>.</s>
+				<s n="18" lang="la" state="auto"><persName ref="467">Bucerus</persName> ex <persName ref="18574">Hassia</persName> rediit a principe <placeName ref="311">Cattorum</placeName><fl>19</fl> honorifice dimissus.</s>
+				<s n="19" lang="la" state="auto">Colloquium habuit cum anabaptistis, cui dominus adfuit, ut multi resipuerint<fl>20</fl>.</s>
+				<s n="20" lang="la" state="auto">Deinde fuit cum <persName ref="1974">Luthero</persName> et <persName ref="2095">Philippo</persName><fl>21</fl>; <placeName ref="284">Lipsię</placeName> egit cum <persName ref="7091">Wicelio</persName><fl>22</fl>.</s>
+				<s n="21" lang="la" state="auto">Barbarossę perierunt in mari non minus quadraginta<fl>23</fl>.</s>
+				<s n="22" lang="la" state="auto">De <persName ref="18593" state="auto_name">Turca</persName><fl>24</fl> sunt, qui metuant<fl>d</fl> etc.</s>
+				<s n="23" lang="la" state="auto">Tu roga<pb_edition start_of="54"/> dominum cum tuis fratribus ac ecclesia, ut ista omnia dirigat ad sui nominis gloriam, ne nos tradat in reprobum sensum<fl>25</fl> ob impia facinora nostra.</s>
+				<s n="24" lang="la" state="auto">Quod et pro te facturi sumus cum nostris.</s>
+			</p>
+			<p>
+				<s n="25" lang="la" state="auto">Salutabis meum, meum inquam, <persName ref="8412">Megandrum</persName> et <persName ref="1753">Leonem</persName><fl>26</fl>, apud cuius sororem<fl>27</fl> nuper fui in <placeName ref="1605">Bergheim</placeName>, quę illi<fl>e</fl> filium<fl>28</fl> propediem missura<fl>f</fl> est.</s>
+				<s n="26" lang="la" state="auto">Spero eam cum viro<fl>29</fl> ac omnibus suis ad nos migraturam, ut eripiatur ex Babilone<fl>30</fl> etc.</s>
+				<s n="27" lang="la" state="auto">Dominus adsit tibi suo spiritu ac roboret ad sui nominis confessionem diutissime<fl>g</fl>.</s>
+				<s n="28" lang="la" state="auto">Tu ista boni consule; alias meliora.</s>
+			</p>
+			<p>
+				<s n="29" lang="la" state="auto">Raptim, ex <placeName ref="411">Richenvilla</placeName>, 5. die februarii 1539.</s>
+				<s n="30" lang="la" state="auto">Tuissimus</s>
+			</p>
+			<p>
+				<s n="31" lang="la" state="auto"><persName ref="1010">Matthias Erbius</persName>, ecclesię <placeName ref="411">Richenvillę</placeName> minister.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="32" lang="la" state="auto">Ornatissimo cum pietate tum eruditione viro d. Henrycho Bullingero, ecclesię Tigurinę antistiti vigilantissimo, suo fratri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1223">
+		<alpha>
+			<fn ref="a"><i>vor</i> eruditioni <i>gestrichener, unlesbarer Buchstabe.</i></fn>
+			<fn ref="b">[quae] Christum non confitentur <i>am Rande nachgetragen; im engen Einband z. T. unlesbar.</i></fn>
+			<fn ref="c"><i>vor</i> Latent <i>gestrichenes</i> exitus.</fn>
+			<fn ref="d"><i>von</i> Barbarossae <i>bis</i> metuant <i>am Rande nachgetragen.</i></fn>
+			<fn ref="e">illi <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="f">missura <i>korrigiert</i> aus missuras.</fn>
+			<fn ref="g">diutissime <i>korrigiert</i> aus diutissimae.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1" type="bio" fk_person="1010"><persName ref="1010">Matthias Erb</persName>, 1495-1571, aus dem badischen Ettlingen stammend, wurde 1538 - nach Studien in Pforzheim und Tübingen sowie Schul- und Kirchendienst in der Schweiz, in Baden-Baden und im badischen Gengenbach - von Graf <persName ref="8098">Georg von Württemberg</persName> als Nachfolger von <persName ref="8437">Erasmus Schmid</persName> nach <placeName ref="411">Reichenweier</placeName> berufen. Der zwinglisch gesinnte Erb wirkte dort als Pfarrer und Superintendent, bis er 1561 durch die Lutheraner vertrieben wurde. Den Lebensabend verbrachte er in Rappoltsweiler unter dem Schutz der Gräfin Anna Alexandria von Rappoltstein. Aus der umfangreichen Korrespondenz mit Bullinger sind noch über 180 Briefe überliefert. - Lit.: Heinrich <i>Rochou,</i> <persName ref="1010">Matthias Erb</persName>, ein elsässischer Glaubenszeuge aus der Reformationszeit, <placeName ref="492">Straßburg</placeName> 1900. - Beiträge zur Landesund Volkeskunde von Elsass-Lothringen 26; Heinz <i>Scheible,</i> <persName ref="2095">Melanchthons</persName> Pforzheimer Schulzeit. Studien zur humanistischen Bildungselite, in: Pforzheim in der frühen Neuzeit, hg. v. Hans-Peter Becht, Sigmaringen 1989. - Pforzheimer Geschichtsblätter 7, S. 9-50, hier S. 35f; Beat Rudolf <i>Jenny,</i> Bullingers Briefwechsel mit dem Elsässer Reformator <persName ref="1010">Matthias Erb</persName> (1539-1571), in: <bibl>HBGesA</bibl> II <i>57-86; Bopp</i> 140f; Franz <i>Brendle,</i> in: RGG<sup>4</sup> II 1384f.</fn>
+			<fn ref="2">Volgeisheim (Grafschaft Horburg, Elsaß).</fn>
+			<fn ref="3"><placeName ref="64">Breisach am Rhein</placeName> (Kr. Breisgau-Hochschwarzwald, Baden-Württemberg).</fn>
+			<fn ref="4">Graf <persName ref="8098">Georg von Württemberg-Mömpelgard</persName>.</fn>
+			<fn ref="5">Nicht erhalten.</fn>
+			<fn ref="6">Gemeint ist wohl der <placeName ref="159">Frauenfelder</placeName> Pfarrer <persName ref="1044">Heinrich Fehr</persName>.</fn>
+			<fn ref="7"><persName ref="4762">Hans Faßbind</persName>, von <placeName ref="2450">Schwyz</placeName>, 1538-1540 Landvogt im <placeName ref="774">Thurgau</placeName> (s. <bibl>EA</bibl> IV/1c 1316).</fn>
+			<fn ref="8"><persName ref="18604">Wilhelm IV.</persName>, Herzog von Bayern.</fn>
+			<fn ref="9">Vgl. <bibl>PC</bibl> II 545.</fn>
+			<fn ref="10"><persName ref="7637">Franz I.</persName>, König von Frankreich.</fn>
+			<fn ref="11"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="12">Vgl. unten <link fk_file="11273">Nr. 1230</link>, Anm. 4.</fn>
+			<fn ref="13">Zum (überkonfessionellen) Städtetag, der auf den 22. Dezember 1538 nach <placeName ref="145">Esslingen</placeName> einberufen worden war, s. <bibl>PC</bibl> II 532, <link fk_file="10591">Nr. 555</link> mit Anm. 1.</fn>
+			<fn ref="14">Gemeint ist vielleicht <persName ref="8310">Ulrich Chelius</persName>, der im Januar 1539 mit unbekanntem Auftrag an den Kaiserhof reiste (s. <bibl>PC</bibl> II 540).</fn>
+			<fn ref="15">Näheres ist darüber nicht bekannt.</fn>
+			<fn ref="16">Gleichzeitig mit <persName ref="8310">Chelius</persName> hielten sich auch der Koadjutor von <placeName ref="307">Mainz</placeName>, <persName ref="18522">Johann Albrecht von Brandenburg</persName>, und der bayerische Gesandte <persName ref="5043">Bonaccursius von Gryn</persName> in <placeName ref="1719">Toledo</placeName> auf; s. <bibl>PC</bibl> II 557; Joachim <i>Lauchs,</i> <placeName ref="619">Bayern</placeName> und die deutschen Protestanten 1534-1546. Deutsche Fürstenpolitik zwischen Konfession und Libertät, Neustadt a. d. Aisch 1978. - Einzelarbeiten aus der Kirchengeschichte <placeName ref="619">Bayerns</placeName> 56, S. 139-142.</fn>
+			<fn ref="17"><persName ref="7572">Wilhelm von Honstein</persName>, Bischof von <placeName ref="492">Straßburg</placeName>.</fn>
+			<fn ref="18">Die Versuche <persName ref="7492">Wilhelms von Fürstenberg</persName>, das Kloster <placeName ref="1720">Gengenbach</placeName> zu säkularisieren, hatten zu einem jahrelangen Konflikt mit dem Bischof geführt, der mit der Pensionierung des Abtes im Februar 1539 keineswegs beendet war (vgl. dazu Johannes Volker <i>Wagner,</i> Graf <persName ref="7492">Wilhelm von Fürstenberg</persName>, 1491-1549, und die politisch-geistigen Mächte seiner Zeit, Stuttgart 1966. - Pariser Historische Studien, 4, S. 190-194).</fn>
+			<fn ref="19"><persName ref="18574">Philipp, Landgraf von Hessen</persName>.</fn>
+			<fn ref="20">Zum Täufergespräch in <placeName ref="311">Marburg</placeName>, 30. Okt. bis 1. Nov. 1538, vgl. <bibl>HBBW</bibl> VIII <link fk_file="11243">[Nr. 1200]</link>, S. 269, Anm. 4.</fn>
+			<fn ref="21"><persName ref="2095">Philipp Melanchthon</persName>. - Zum <placeName ref="558">Wittenberger</placeName> Aufenthalt <persName ref="467">Bucers</persName>, 11.-20./21. Nov. 1538, vgl. <bibl>HBBW</bibl> VIII <link fk_file="11240">[Nr. 1197]</link>, S. 263, Anm. 6.</fn>
+			<fn ref="22" type="bio" fk_person="467">In <placeName ref="284">Leipzig</placeName> hatten <persName ref="467">Bucer</persName>, <persName ref="4771">Johannes Feige</persName>, <persName ref="4423">Gregor Brück</persName> und <persName ref="2095">Melanchthon</persName> mit <persName ref="7431">Georg von Carlowitz</persName>, <persName ref="4743">Ludwig Fachs</persName> und Georg Witze! verhandelt (vgl. <bibl>MBW</bibl> 2141). - <persName ref="7091">Georg Witzel</persName>, von <placeName ref="1721">Vacha (Wartburgkreis, Thüringen)</placeName>, 1501-1573, empfing - nach Studien in <placeName ref="142">Erfurt</placeName> und in <placeName ref="558">Wittenberg</placeName> - 1520 die Priesterweihe. Er wurde zum Lutheranhänger, heiratete und übernahm 1525 ein Pfarramt in <placeName ref="1722">Niemegk</placeName> bei <placeName ref="558">Wittenberg</placeName>. Im Jahre 1531 kehrte er jedoch zur katholischen Kirche zurück und zog 1533 als Priester nach <placeName ref="1323">Eisleben</placeName>. 1538 holte ihn <persName ref="19058">Herzog Georg von Sachsen</persName> nach <placeName ref="121">Dresden</placeName>. Nach 1539 in <placeName ref="40">Berlin</placeName>, 1541 in <placeName ref="1570">Fulda</placeName> und ab 1554 in <placeName ref="307">Mainz</placeName> wandte er sich publizistisch gegen die Reformation und entwickelte, aufgrund v. a. seiner Kirchenväter- und Erasmusstudien, ein Reformprogramm. - Lit.: Barbara <i>Henze,</i> Aus Liebe zur Kirchenreform. Die Bemühungen <persName ref="7091">Georg Witzels</persName> (1501-1573) um die Kircheneinheit. Münster 1995. - Reformationsgeschichtliche Studien und Texte, 133; Remigius <i>Bäumer,</i> <persName ref="7091">Georg Witzel</persName> (1501-1573), in: Katholische Theologen der Reformationszeit, 1, hg. v. Erwin Iserloh, Münster 1984, S. 125-132; R. <i>Jauernig,</i> in: RGG<sup>3</sup> VI 1787f.</fn>
+			<fn ref="23">Der Versuch von <persName ref="19042">Cheireddin Barbarossa</persName>, die Festung <placeName ref="1723">Castelnuovo (Hercegnovi, Montenegro)</placeName>, die am 27. Oktober 1538 von der Ligaflotte eingenommen worden war, zu entsetzen, scheiterte im Seesturm, in dem etwa vierzig Schiffe verlorengingen; s. <bibl>Cardauns</bibl> 26.</fn>
+			<fn ref="24"><persName ref="18593">Sultan Suleiman I.</persName></fn>
+			<fn ref="25">Vgl. Röm 1, 28.</fn>
+			<fn ref="26"><persName ref="1753">Leo Jud</persName>.</fn>
+			<fn ref="27">Clara, in <placeName ref="1605">Bergheim</placeName> (Elsaß) verheiratet mit <persName ref="6448">Jakob Schmid</persName> (s. <bibl>Graubünden, Korr.</bibl> II. S. VII).</fn>
+			<fn ref="28"><persName ref="8009">Johannes Fabricius Montanus</persName> (vgl. <bibl>Graubünden, Korr.</bibl> II, S. IX).</fn>
+			<fn ref="29">Siehe oben Anm. 27.</fn>
+			<fn ref="30">aus der babylonischen Gefangenschaft.</fn>
+		</num>
+	</footnotes>
+</file>

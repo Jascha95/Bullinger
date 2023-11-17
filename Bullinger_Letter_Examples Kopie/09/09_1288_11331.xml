@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11331" id_hbbw="1288" id_irg_sort="1288" id_sort="112880">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11331</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1288</arpa>
+		<scan_pages>
+			<scan id="26349" dir="11331/Autograph/" page="1">00 E_II_359__fol__2788_r_.tif</scan>
+			<scan id="26350" dir="11331/Autograph/" page="2">01 E_II_359__fol__2788_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22996" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="280" vf="1" fk_id="280" long="6.63282" lat="46.516">Lausanne</place>
+				<district id="195">Waadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22997" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11331">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">7</month>
+				<day fk_d="" d="" vf="1" fn="">13</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17802">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2788r.-v.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11095" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1288, S. 176</entry>
+				<page>176</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="37">
+				<lang id="5" iso="la" count="37" p="100.0"/>
+			</sentences>
+			<words count="659">
+				<lang id="5" iso="la" count="659" p="100.0"/>
+			</words>
+			<chars count="3726">
+				<lang id="5" iso="la" count="3726" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1288" page="176">
+		<div ref="1">
+			Hofft auf Verständnis für seinen Wechsel nach <placeName ref="280">Lausanne</placeName>; hat sich
+			nach Beratungen mit <persName ref="8459">Otto [Werdmüller]</persName>, <persName ref="7073">[Leonhard] Hospinian</persName> und anderen für diesen Ort entschieden, da sich auch
+			<persName ref="1283">Konrad [Geßner]</persName> hier aufhält und
+			da er schon lange Französisch lernen wollte. Konnte nicht bei <persName ref="1283">Geßner</persName>
+			unterkommen, hat aber in <persName ref="8031">Béat Comte</persName> einen Logisgeber gefunden, der ihn
+			fördern wird. Kann hier freier als in <placeName ref="28">Basel</placeName> seinen Studien
+			nachgehen; vor allem widmet er sich [der Übersetzung des „Onomastikon“ von]
+			<persName ref="6127">Pollux</persName>, liest daneben mit Hilfe von <persName ref="8031">Comte</persName> das französische [Neue?]
+			Testament, hört theologische Vorlesungen und studiert <persName ref="4544">Cicero</persName>. Bittet
+			um Fürsprache, damit er ein Jahr in <placeName ref="280">Lausanne</placeName> bleiben darf; hier
+			werden die Zürcher und ihre Kirche sehr geschätzt. Es wird berichtet, der französische
+			<persName ref="7637">König [Franz I.]</persName> werde von
+			Ängsten verfolgt. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1288" page="176">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Rerum mearum statum foelicissimum esse scias, humanissime pater, nisi quod hoc unum me discrutiat, quod animi vestri de meo consilio sententiam nondum comperi, quam tamen mihi iniquiorem fore non puto, cum omnibus bene consyderatis circumstantiis hoc mihi et utile et honestum fuisse omnino pateat.</s>
+				<s n="3" lang="la" state="auto">Hoc nunc primum rogo, ut hoc, quicquid <placeName ref="28">Basileae</placeName> factum est<fl>1</fl>,<pb_edition start_of="177"/> mea culpa nihil factum esse credas.</s>
+				<s n="4" lang="la" state="auto">Quam enim in hac re cautus fuerim, aliorum esto iuditium, quorum consilia in hac re, quę mihi gravissima videbatur, imploravi.</s>
+				<s n="5" lang="la" state="auto">Sunt ii praeter Othonem<fl>2</fl> nostrum viri boni et docti, studiorum meorum participes<fl>b</fl>, inter quos et <persName ref="7073">Hospinianus</persName><fl>3</fl> mei instituti et caussae totius ignarus non fuit, qui eodem modo<fl>c</fl> in hac re mihi astipulatus est.</s>
+				<s n="6" lang="la" state="auto">De loco, quem nam peterem, varie consultum fuit.</s>
+				<s n="7" lang="la" state="auto">Multi <placeName ref="492">Argentinam</placeName>, multi Tigurum, nonnulli <placeName ref="512">Tubingam</placeName>, nulli tamen, ut <placeName ref="28">Basileae</placeName> remanerem, suaserunt.</s>
+				<s n="8" lang="la" state="auto">Obtulit se tandem <placeName ref="280">Losannę</placeName> mentio, inde maxime, quod et <persName ref="1283">Conradum</persName><fl>4</fl> nostrum ibi me inventurum scibam et Gallicę linguę studium, quod iam olim pectore conceperam, ibi me absolvere posse sperabam.</s>
+				<s n="9" lang="la" state="auto">Deo itaque optimo maximo fidens eo me contuli.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Itineris successus faustus foelixque fuit, adventus longe foelicior; a <persName ref="8031" state="auto_name">Comite</persName><fl>5</fl> enim, cuius humanitatem et ante mihi multi prędicarant, benigno animo receptus sum<fl>d</fl>.</s>
+				<s n="11" lang="la" state="auto">Cum <persName ref="1283">Conrado</persName> ob linguę nostrę comertium et suppellectilis, qua omnino caret, raritatem vivere non potui.</s>
+				<s n="12" lang="la" state="auto">Familiam, inter quam habito, honestissimam nactus sum nec minus doctam.</s>
+				<s n="13" lang="la" state="auto">Non desunt caussae, quibus et doctior et melior fieri possum.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">Studia mea eadem, imo liberiora sunt, quam <placeName ref="28">Basileae</placeName> unquam fuerint, quoniam nullis nec familiae nec aliarum rerum impedimentis intricor.</s>
+				<s n="15" lang="la" state="auto">Maxima tamen temporis pars in <persName ref="8011" state="auto_name">Polluce</persName><fl>6</fl> teritur, quoniam statim post nundinas<pb_edition start_of="178"/><fl>7</fl> pręlo committetur.</s>
+				<s n="16" lang="la" state="auto">Horam etiam unam et alteram in testamento Gallico<fl>8</fl> lego, quę mihi herus meus interpretatur, cui ego vicissim in Gallicę<fl>e</fl> linguę studio adsum.</s>
+				<s n="17" lang="la" state="auto">Lectionem theologicam audio, <persName ref="4544">Ciceronis</persName> etiam lectionem non intermitto.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Nec nunc aliud quidquam est, nisi quod summis, quibus possum, precibus te rogo et obsecro, charissime pater, quoniam in te harum rerum summa maxime consumitur, tu mihi apud nostros adsis, ut eorum cum voluntate id, quod maxime cupio et e re mea est, facere possim.</s>
+				<s n="19" lang="la" state="auto">Fac, queso, concedant, ut per unius tantum anni spatium in Gallia morari liceat.</s>
+				<s n="20" lang="la" state="auto">Sed quid Galliam dixi?</s>
+				<s n="21" lang="la" state="auto"><placeName ref="280">Losannam</placeName> volo; hanc etenim, quia pietatis<pb_scan n="2788v."/> libertati resistit, non cupio.</s>
+				<s n="22" lang="la" state="auto">Hic autem non modo, quod reliqua religionis capita attinet, sed et quod eucharistię sacramentum spectat, liberrime vivere licet.</s>
+				<s n="23" lang="la" state="auto">Amamini hic vos ab omnibus; amat vos et omnibus vestram ecclesiam non raro summis laudibus anteponit<fl>f</fl> d. <persName ref="8031">Beatus Comes</persName>, hospes meus, et eo etiam, quod Tigurinus sum, profusius me amat; amatur hoc nomine etiam <persName ref="1283">Conradus</persName> noster.</s>
+			</p>
+			<p>
+				<s n="24" lang="la" state="auto">Sinite ergo, ut inter nostri nominis amatores aliquandiu versari liceat.</s>
+				<s n="25" lang="la" state="auto">Permitte, quęso, ut diu desideratam Gallicę linguae cognitionem tandem absolvam, quam hic aeque ut in media Gallia addiscere licet<fl>g</fl>; purissime enim omnis nostra familia loquitur.</s>
+				<s n="26" lang="la" state="auto">Hoc certe si concesseritis, ego vicissim curabo, ne ullam omnino inobedientię speciem in me unquam experiamini, curabo denique, ne meum offitium nulla in re frustra requiratis.</s>
+				<s n="27" lang="la" state="auto">Quod cum facere et debeam et velim, gratissimo tamen et alacri animo id fiet, si vos in hac re mihi non defuisse videam.</s>
+				<s n="28" lang="la" state="auto">Quare, mi pater, quoniam tu hic plurimum potes et mearum fortunarum<fl>h</fl> studiorumque hactenus patronus et dux fuisti, ad tuum auxilium maxime confugio hoc certo de te sperans te hoc mihi non negaturum.</s>
+			</p>
+			<p>
+				<s n="29" lang="la" state="auto">Plura non habeo, quod scribam, nisi quod Galliarum regem<fl>9</fl> furiis agitari prędicant et <persName ref="8031">Comes</persName> se certo se<fl>i</fl> audivisse ait<fl>10</fl>.</s>
+				<s n="30" lang="la" state="auto">Interdixit, ne quis in toto regno gerat gladium, arma omnia recondidit nec filiae<fl>11</fl> fidit nec filiis<fl>12</fl>; uxoris<fl>13</fl> quoque fidem suspectam habet.</s>
+				<s n="31" lang="la" state="auto">Timet, ne aedifitia, in quibus habitat,<pb_edition start_of="179"/> ruant; domum aliquam ingressurus aliquos, qui aedifitii firmitatem explorent, pręmittit, misereque in summa hunc vexat diabolus.</s>
+				<s n="32" lang="la" state="auto">Digno tandem etiam peribit supplitio et iam olim debitas poenas persolvet.</s>
+			</p>
+			<p>
+				<s n="33" lang="la" state="auto">Salutabis nomine meo quam familiarissime matrem<fl>14</fl> et uxorem<fl>15</fl> tuam cum tota familia, Ioannem<fl>16</fl> quoque fratrem, cui proxime scribam<fl>17</fl>.</s>
+				<s n="34" lang="la" state="auto">Vale, charissime, et me tibi comendatissimum habeto.</s>
+				<s n="35" lang="la" state="auto">13. iulii 1539, <placeName ref="280">Losannę</placeName>, ex aedibus d. Beati Comitis.</s>
+			</p>
+			<p>
+				<s n="36" lang="la" state="auto">Tui observantissimus <persName ref="8011">Rod. Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="37" lang="la" state="auto">Eruditione et pietate clarissimo viro d. Heinrycho Bullingero, patri suo imprimis colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1288">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichung von späterer Hand.</i></fn>
+			<fn ref="b"><i>in der Vorlage</i> partipes.</fn>
+			<fn ref="c">modo <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="d">sum <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="e"><i>wohl irrtümlich für</i> Germanicae.</fn>
+			<fn ref="f">anteponit <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="g">licet <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="h"><i>korrigiert aus</i> meae fortunae.</fn>
+			<fn ref="i">se <i>irrtümlich wiederholt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Über die Gründe von <persName ref="8011">Gwalthers</persName> plötzlichem Weggang aus <placeName ref="28">Basel</placeName> ist nichts bekannt. Möglicherweise kam er als Kostgänger von <persName ref="8418">Myconius</persName> wegen des Konflikts zwischen der Universität und den Theologen in eine schwierige Lage (vgl. auch oben <link fk_file="11321">Nr. 1278</link>, 45-49).</fn>
+			<fn ref="2"><persName ref="8459">Otto Werdmüller</persName>.</fn>
+			<fn ref="3"><persName ref="7073">Leonhard Hospinian</persName>.</fn>
+			<fn ref="4"><persName ref="1283">Konrad Geßner</persName>.</fn>
+			<fn ref="5" type="bio" fk_person="8031"><persName ref="8031">Béat Comte (Beatus Comes Donzarensis)</persName>, von Donzère (Dép. Drôme, Frankreich), gest. 1578, studierte 1536 in <placeName ref="328">Montpellier</placeName> Medizin. 1537 kam er nach <placeName ref="280">Lausanne</placeName>, wo er 1538 zweiter Pfarrer neben <persName ref="3429">Viret</persName> wurde. 1545 gab er dieses Amt auf. Durch Heirat Herr von <placeName ref="1748">Mex (Kanton Waadt)</placeName> geworden, widmete er sich nun ganz seiner schon vorher ausgeübten Tätigkeit als Arzt. Mit Bullinger und <persName ref="8011">Gwalther</persName> wechselte er zwischen 1540 und 1548 mehrere Briefe, doch scheint der Kontakt - wohl wegen seiner maßlosen Ausfälle gegen <persName ref="3429">Viret</persName> und <persName ref="540">Calvin</persName> - später abgebrochen zu sein. Nach der Krise von 1559, die zur Entlassung <persName ref="3429">Virets</persName> führte, amtete er 1559-1562 als Rektor der Akademie und Professor artium. - Lit.: Matricule de l'Université de médecine de <placeName ref="328">Montpellier</placeName> (1503-1599), hg. v. Marcel Gouron, Genf 1957. - Travaux d'Humanisme et Renaissance XXV, S. 77, <link fk_file="11258">Nr. 1215</link>; Corr. des réformateurs IV-IX, Reg.; <bibl>CO</bibl> X/2-XIII und XVII, Reg.; Berchtold Haller, Bern in seinen Rathsmanualen 1465-1565, hg. v. Historischen Verein des Kantons Bern, Bd. I, Bern 1900, S. 447f. 463-465; Henri <i>Vuilleumier,</i> in: Eugène und Emile <i>Haag,</i> La France protestante, 2. Aufl., hg. v. Henri Bordier, Bd. 4, Paris 1884, Sp. 568-571; Eugène <i>Olivier,</i> Les années Lausannoises (1537-40) de <persName ref="1283">Conrad Gesner</persName>, in: Schweizerische Zeitschrift für Geschichte 1, 1951, S. 405-407.</fn>
+			<fn ref="6" type="bio" fk_person="8011"><persName ref="8011">Gwalther</persName> arbeitete an einer lateinischen Übersetzung des "Onomastikon" von <persName ref="6127">Iulius Pollux (Polydeukes)</persName>, die 1541 bei <persName ref="7062">Robert Winter</persName> in <placeName ref="28">Basel</placeName> erschien (VD 16, P 4057; En Basileia Polei tes Germanias = Griechischer Geist aus Basler Pressen [Ausstellung und Katalog: Frank Hieronymus], <placeName ref="28">Basel</placeName> 1992. - Publikationen der Universitätsbibliothek <placeName ref="28">Basel</placeName> Nr. 15, S. 112-114, Nr. 81). Das Werk enthält nach Sachgruppen geordnete attische Ausdrücke und Synonyme; sein Autor stammte aus dem ägyptischen Naukratis und lebte im 2. Jahrhundert n. Chr. als Lehrer der Rhetorik in Athen. - Lit.: Hans <i>Gärtner,</i> in: <bibl>KP</bibl> IV 980f.</fn>
+			<fn ref="7">Zum Termin der <placeName ref="157">Frankfurter</placeName> Herbstmesse s. <bibl>HBBW</bibl> VI <link fk_file="10925">[Nr. 884]</link>, S. 406, Anm. 5.</fn>
+			<fn ref="8">Gemeint ist entweder das Neue Testament oder eine Vollbibel (in der Übersetzung von Lefèvre d'Etaples oder <persName ref="19943">Olivétan</persName>; vgl. Basil <i>Hall,</i> Art. Bibelübersetzungen III/3, in: <bibl>TRE</bibl> VI 255f).</fn>
+			<fn ref="9"><persName ref="7637">Franz I.</persName></fn>
+			<fn ref="10">Es handelt sich um haltlose Gerüchte.</fn>
+			<fn ref="11">Prinzessin Margarete.</fn>
+			<fn ref="12">Kronprinz <persName ref="18500">Heinrich</persName> und Herzog <persName ref="18538">Karl von Orléans</persName>.</fn>
+			<fn ref="13"><persName ref="17886">Eleonore von Habsburg</persName>, Königin von <entity id="11" type="geo_country">Frankreich</entity>.</fn>
+			<fn ref="14" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+			<fn ref="15" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="16"><persName ref="527">Johannes Bullinger</persName>.</fn>
+			<fn ref="17">Ein entsprechender Brief ist nicht vorhanden.</fn>
+		</num>
+	</footnotes>
+</file>

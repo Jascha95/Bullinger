@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12868" id_hbbw="2819" id_irg_sort="2819" id_sort="128190">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12868</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2819</arpa>
+		<scan_pages>
+			<scan id="30120" dir="12868/Autograph/" page="1">00 E_II_343__fol__299_r_.tif</scan>
+			<scan id="30121" dir="12868/Autograph/" page="2">01 E_II_343__fol__299_v_.tif</scan>
+			<scan id="30122" dir="12868/Beilage/" page="1">00 E_II_346__fol__527_r_.tif</scan>
+			<scan id="30123" dir="12868/Beilage/" page="2">01 E_II_346__fol__527_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26280" vf="0" fk_add_type="1">
+				<person id="8311" fk_id="8311">
+					<name>Claudius (Clodius)</name>
+					<forename>Matthias</forename>
+				</person>
+				<place id="473" vf="" fk_id="473" long="9.3765878" lat="47.4250593">St.Gallen</place>
+				<district id="169">St.Gallen</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26281" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12868">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">20</day>
+			</min>
+			<max fk_d="0" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">26</day>
+			</max>
+		</date>
+		<documents>
+			<document id="19435">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343a,299</signature>
+			</document>
+			<document id="19436">
+				<doc_type id="3">Beilage</doc_type>
+				<file_type id="3">Beilage</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 346a,527</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12393" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2819, S. 328</entry>
+				<page>328</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="27">
+				<lang id="5" iso="la" count="27" p="100.0"/>
+			</sentences>
+			<words count="541">
+				<lang id="5" iso="la" count="541" p="100.0"/>
+			</words>
+			<chars count="3274">
+				<lang id="5" iso="la" count="3274" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2819" page="327">
+		<div ref="1">
+			[1] Bullinger soll sich nicht wundern, dass <persName ref="8311">Claudius</persName> nicht schreibt, obwohl ihm Boten zur Verfügung stehen.
+			Er hat nichts Lesenswertes mitzuteilen und will auch nicht Bullingers Zeit mit seinen konfusen Briefen
+			verschwenden, da dieser schon so viel zu tun hat.
+		</div>
+		<div ref="2">
+			[2] <persName ref="6355">Hieronymus Sailer</persName>, <persName ref="8311">Claudius</persName>’ Dienstherr, lässt ausrichten, dass er Bullingers Brief vom 4. Februar
+			[nicht erhalten] und die Silbermünze mit dem Christusbildnis empfangen hat. <persName ref="8032">Francisco de Enzinas</persName> wird
+			<persName ref="6355">Sailers</persName> Dank schon ausgerichtet haben. Letzterer möchte aber noch betonen, dass das ihm erwiesene Wohlwollen
+			ihn noch mehr berührt als das wertvolle Geschenk selbst!
+		</div>
+		<div ref="3">
+			[3] Es gibt kaum etwas mitzuteilen, außer dass heute die Meldung aus
+			<placeName ref="15">Antwerpen</placeName> kam, <persName ref="18538">Kaiser Karl V.</persName> habe den frommen, betagten
+			<placeName ref="267">Kölner</placeName> Erzbischof
+			<persName ref="8462">Hermann von Wied</persName> entlassen, ihm die Kurwürde entzogen und an dessen
+			Stelle einen Kanoniker namens <persName ref="18420">Adolf von Schaumburg</persName> eingesetzt, welcher vom
+			<placeName ref="267">Kölner</placeName> Klerus mit Begeisterung empfangen worden sei. Der
+			Erzbischof soll sich nicht gewehrt und lediglich gesagt haben, dass er sich für die Verwaltung dieser
+			Kirchenprovinz wohl nicht geeignet habe und daher seine Stelle willig einem anderen überlasse.
+		</div>
+		<div ref="4">
+			[4] Die Herzöge <persName ref="1546">Christoph</persName> und <persName ref="9780">Ulrich von Württemberg</persName> sollen ihre Länder an <persName ref="7637">König Franz I. von Frankreich</persName>
+			verkauft haben. <persName ref="6355">Sailer</persName> möchte wissen, ob Bullinger Verbürgtes darüber weiß.
+		</div>
+		<div ref="5">
+			[5] Beiliegend übermittelt <persName ref="6355">Sailer</persName> ein Schreiben aus <placeName ref="1976">Augsburg</placeName>.
+			Darin wird das<pb_edition start_of="328"/> Verhältnis zwischen Kaiser und <persName ref="19981">Papst Paul III.</persName> gut ersichtlich.
+			Möge die Nachricht stimmen! Da nun der Kaiser seine Macht in Deutschland ausüben kann und sich auch schon um
+			die Religionsangelegenheit kümmert, ist nämlich [aus Sicht des Papstes] zu befürchten, dass er das ihm
+			gegebene Versprechen nicht einhalten werde.
+		</div>
+		<div ref="6">
+			[6] [Beilage:] Am 2. Februar empfing der Kaiser den päpstlichen Gesandten [<persName ref="6913">Girolamo Verallo</persName>]. Dieser
+			eröffnete ihm die drei folgenden Vorwürfe des Papstes:
+		</div>
+		<div ref="7">
+			[7] Erstens wundere sich der Papst, dass <persName ref="6913">Verallo</persName> so selten zu einem Gespräch mit dem Kaiser vorgelassen und
+			nur von <persName ref="7706">Nicolas Perrenot</persName>, dem Herr von Granvelle, empfangen werde. Hierzu gab der Kaiser verschiedene Gründe
+			an, unter anderem seine unzähligen Schwierigkeiten mit den Feinden und seine angeschlagene Gesundheit.
+			Deshalb dachte er, dass es wohl ausreichen würde, wenn <persName ref="6913">Verallo</persName> die Angelegenheiten des Papstes seinem Rat
+			[Granvelle] mitteilte!
+		</div>
+		<div ref="8">
+			[8] Zweitens wundere sich der Papst, dass er bei der Begnadigung der deutschen Städte vom Kaiser überhaupt
+			nicht erwähnt werde, wo er sich ihm doch so behilflich erwiesen hat (als wollte der Papst diese Städte
+			gemeinsam mit dem Kaiser innehaben!). Daraufhin fragte der Kaiser lachend, ob denn der Papst ihn in das
+			Bündnis mit den Eidgenossen einbezogen habe? Zudem meinte er, dass der Papst überhaupt keinen Grund hätte,
+			sich zu beschweren, weil er die Religionsangelegenheit keineswegs vergessen habe!
+		</div>
+		<div ref="9">
+			[9] Drittens könne der Papst nicht verstehen, wieso der Kaiser das so ruhmreiche italienische Heer nicht
+			heimgeschickt hat und stattdessen bei sich in dieser Kälte zurückhält. Der Kaiser antwortete: Falls <persName ref="6913">Verallo</persName>
+			schon vor einigen Tagen vorhatte, über die Beurlaubung der
+			<entity id="16" type="geo_country">Italiener</entity> mit ihm zu sprechen, bereue er es sehr, ihn nicht
+			sogleich empfangen zu haben. Er hätte nämlich die <entity id="16" type="geo_country">Italiener</entity>
+			sofort entlassen! <persName ref="6913">Verallo</persName> wisse ja, welches Unheil sie während des Krieges verursacht haben! Am Tag darauf
+			bestellte der Kaiser die italienischen Hauptleute zu sich und entließ sie alle. Es war erstaunlich
+			festzustellen, wie sehr sich der Kaiser über diese Entlassung freute. Er muss gegen den Papst sehr
+			aufgebracht sein. Aus <placeName ref="1976">Augsburg</placeName>, den 15. Februar.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2819" page="328">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Non mirabitur humanitas tua me ad te<fl>b</fl> privatim nihil scribere, praesertim tanta tabellariorum opportunitate.</s>
+				<s n="3" lang="la" state="auto">Sed mihi ignoscet t[ua] h[umanitas], quia te, tanto viro, nihil dignum habeo.</s>
+				<s n="4" lang="la" state="auto">Absterret etiam, quod tanta negotiorum mole hisce temporibus obrutus es, ut parum superesse temporis putem ad legenda incondita mea scripta.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="la" state="auto">Quae vero nunc scribo, ea domini<fl>3</fl> nomine ad te exarare iussus sum.</s>
+				<s n="6" lang="la" state="auto">Accepit tuas literas 4. februarii missas<fl>4</fl> una cum incluso nummo argenteo imaginem Iesu representante.<fl>5</fl></s>
+				<s n="7" lang="la" state="auto">Et quia per d. <persName ref="8032">Franciscum Dryandrum</persName><fl>6</fl> iussit tibi magnas agere gratias, tamen, ut cognoscas sibi eum acceptum fuisse nec<pb_edition start_of="329"/> tam magnitudinem et praestantiam illius quam animum gratum dantis considerare, iubet tibi denuo etiam per me gratias agere cum summae suae<fl>c</fl> erga te benevolentiae commemoratione.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="8" lang="la" state="auto">Atque nova quaedam tibi scribere volens nihil plane memoratu dignum succurrebat, quam quod hodie ex <placeName ref="15">Antverpia</placeName><fl>7</fl> allatum est caesarem<fl>8</fl> abdicasse <fl>d</fl>[e]piscopatu et functione electoria<fl>d_2</fl> venerabilem et pientissimum virum archiepiscopum <placeName ref="267">Coloniensem</placeName><fl>9</fl> et in eius locus substituisse coadiutorem quendam canonicum nomine de<fl>e</fl> Schomberg, qui ante aliquot dies <placeName ref="267">Coloniam</placeName> ingressus magno <placeName ref="267">Coloniensium</placeName> applausu exceptus est.</s>
+				<s n="9" lang="la" state="auto">Iste vero venerabilis senex nihil contra locutus est quam se prorsus non idoneum nec suffitientem esse huius ecclesiae <fl>f</fl>[et] reipublicae<fl>f_2</fl> administrationi, itaque alteri libenter locum dare.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="10" lang="la" state="auto">Preterea fama est hic ducem iuniorem et seniorem <persName ref="9780">Wirtembergensis</persName> ditionis<fl>10</fl> suas omnes regiones et civitates Francorum regi<fl>11</fl> certo pretio vendidisse.</s>
+				<s n="11" lang="la" state="auto">Si quid hisce de rebus vel de aliis certius habeas, rogat se dominus per opportunitatem vicissim certiorem fieri.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="12" lang="la" state="auto">Mittit tibi dominus exem-<pb_scan n="299v."/>plar literarum ex <placeName ref="1976">Augusta</placeName><fl>12</fl>, nescio a<fl>g</fl> quo missum<fl>h</fl>, in quibus leges, quomodo inter caesarem et <persName ref="19981" state="auto_name">papam</persName><fl>13</fl> conveniat, si utique his<fl>14</fl> credendum est.</s>
+				<s n="13" lang="la" state="auto">Sed quia iam tyrannidem exercuit<fl>15</fl> et in religionem grassare incepit, metuendum, ne compositis paulisper in Germania rebus non prestet ei<fl>16</fl> fidem, quam dedit.<fl>17</fl><pb_edition start_of="330"/></s>
+				<note type="signature">[Ohne Unterschrift<fl>i</fl>]</note>
+				<note type="address">[Adresse darunter]</note>
+				<s n="14" lang="la" state="auto">Clarissimo et ornatissimo viro Heinricho Bullingero, Tyguri a contionibus, domino suo plurimum observando.</s>
+				<s n="15" lang="la" state="auto">Tyguri.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<note type="attachment">[Beilage:]<fl>18</fl></note>
+				<s n="16" lang="la" state="auto"><pb_scan n="E II 346a, 527"/>Caesar pontificis legatum<fl>19</fl> secunda foebruarii excepit, quum tria se caesari propositurum diceret:</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="17" lang="la" state="auto">Primum pontificem admodum mirari, quoniam<fl>j</fl> suo nuntio tam rarus ad caesarem daretur accessus aut colloquendi facultas, potissimum quum multa narraret loca,<fl>20</fl> in quibus caesar illum ad Grandvelanum<fl>21</fl> remitteret.</s>
+				<s n="18" lang="la" state="auto">Hic caesar respondit, quam illo aut illo loco fuisset impeditus, quam multum negotii ab inimicis illi impenderet, quam non semper fuisset recta valetudine,<fl>22</fl> et<fl>k</fl> eiusmodi per multa, adeo ut finem faciens putaverit illi sat esse, si suo consilio<fl>23</fl> sua nuncius pontificius communicaret.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="19" lang="la" state="auto">Secundus fuit pontificem admodum mirari, quoniam<fl>l</fl>, quum caesar tanta auxilia ab illo accepisset,<fl>24</fl> illius nullam faceret mentionem in suscipiendis Germanie civitatibus, perinde<fl>25</fl> ac si eas sibi cum caesare communes esse vellet.</s>
+				<s n="20" lang="la" state="auto">Risit caesar et, quam sollicite illum Helvetico foederi<fl>26</fl> inclusisset, interrogavit, putavitque pontificem nihil minus quam tale quid murmurare oportuisse, quum in<fl>m</fl> illis, quae ad religionem spectant, occupandus esset.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="21" lang="la" state="auto">Tertio miratus est pontifex, quamobrem tam fortes milites et mundi huius gloriam, <entity id="16" type="geo_country">Italicum</entity> exercitum, his frigoribus<fl>27</fl> tam diu detineret et non potius illum in <entity id="16" type="geo_country">Italiam</entity> remitteret.</s>
+				<s n="22" lang="la" state="auto">Inquit caesar: „Si, mi nunci<fl>n</fl>, veniam vestris militibus petiturus ad me ante dies aliquot accessum cupivisti, profecto nunc doleo illum tibi non datum esse,<pb_scan n="527v."/> ut eos remitterem, qui victorię meae<pb_edition start_of="331"/> potius obstiterunt quam profuerunt!</s>
+				<s n="23" lang="la" state="auto">Nosti enim, inquit, quantorum malorum autores fuere!“<fl>28</fl></s>
+				<s n="24" lang="la" state="auto">Atque ita convocatis caesar altero die militum praefectis eos abire iussit.<fl>29</fl></s>
+				<s n="25" lang="la" state="auto">Ac mirum quam caesar letetur se ab illis liberum, adeo ut multis argumentis colligam caesaris animum in pontificem esse admodum ulceratum.<fl>30</fl></s>
+				<s n="26" lang="la" state="auto">Ex <placeName ref="1976">Augusta</placeName>, 15. februarii.</s>
+				<s n="27" lang="la" state="auto">Tuus Clodius.<fl>31</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2819">
+		<alpha>
+			<fn ref="a" meta="1"><i>Die Falten der Beilage zeigen, dass Letztere bereits zusammengefaltet in den großer zusammengefalteten Brief eingeschoben wurde.</i></fn>
+			<fn ref="b"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="c"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="d-d"><i>Am Rande nachgetragen. Das</i> e <i>in</i> episcopatu <i>ist im engen Einband verdeckt.</i></fn>
+			<fn ref="e"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="f-f">Am Rande nachgetragen. Das et <i>ist im engen Einband verdeckt.</i></fn>
+			<fn ref="g"><i>In der Vorlage ist das a durchgestrichen, als wollte <persName ref="8311">Claudius</persName> die Tatsache vertuschen, dass dieser Brief an <persName ref="6355">Sailer</persName> gerichtet war.</i></fn>
+			<fn ref="h"><i>In der Vorlage aus</i> missurarum <i>korrigiert.</i></fn>
+			<fn ref="i"><i>Von späterer Hand wurde irrtümlich hinzugefügt:</i> Joh. Comander.</fn>
+			<fn ref="j"><i>In der Vorlage als</i> qm <i>abgekürzt, wobei hier in Anbetracht von unten Z. 50 auch</i> quamobrem <i>gemeint sein könnte.</i></fn>
+			<fn ref="k"><i>Fehlt in der Vorlage.</i></fn>
+			<fn ref="l"><i>Siehe oben Anm. j.</i></fn>
+			<fn ref="m">in <i>Fehlt in der Vorlage.</i></fn>
+			<fn ref="n"><i>lii der Vorlage</i> nuncii.</fn>
+			<!-- Splits -->
+			<fn ref="d"><i>Am Rande nachgetragen. Das</i> e <i>in</i> episcopatu <i>ist im engen Einband verdeckt.</i></fn>
+			<fn ref="f">Am Rande nachgetragen. Das et <i>ist im engen Einband verdeckt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Da aus unten Z. 26-28 hervorgeht, dass <persName ref="6355">Hieronymus Sailer</persName> einen Brief aus <placeName ref="1976">Augsburg</placeName> erhalten hat, wird vorliegender Brief noch in St. Gallen verfasst worden sein. Zu den damaligen Aufenthaltsorten von Sailer s. <bibl>HBBW</bibl> XVII 195, Anm. 2.</fn>
+			<fn ref="2" meta="1">Dem vorliegenden Schreiben ist die Abschrift eines Briefes aus <placeName ref="1976">Augsburg</placeName> vom 15. Februar 1547 beigelegt. Angesichts der Tatsache. dass <placeName ref="1976">Augsburg</placeName> etwa 180 km von St. Gallen entfernt ist, kann vorliegendes Schreiben kaum vor dem 20. Februar entstanden sein. Da <persName ref="8311">Claudius</persName> uten Z. 1-5 betont, schon länger nicht mehr geschrieben zu haben, wird vorliegendes Schreiben vor <persName ref="8311">Claudius</persName>' Brief <link fk_file="12883">Nr. 2834</link> vom 3. März 1547 zu datieren sein. Da ferner der zuletzt erwähnte Brief einen nicht mehr erhaltenen Brief Bullingers voraussetzt, in dem Bullinger sich (genauso wie <persName ref="8311">Claudius</persName> im vorliegenden Brief) für sein längeres Schweigen entschuldigt (s. <link fk_file="12883">Nr. 2834</link>,1 f), wird der nicht mehr erhaltene Brief Bullingers, den <persName ref="8311">Claudius</persName> am 3. März beantwortete, wohl eine Antwort auf vorliegendes Schreiben gewesen sein. Da Zürich etwa 80 km von St. Gallen entfernt liegt, kann vorliegendes Schreiben kaum nach dem 26. Februar angesetzt werden.</fn>
+			<fn ref="3"><persName ref="6355">Hieronymus Sailer</persName>.</fn>
+			<fn ref="4">Nicht erhalten.</fn>
+			<fn ref="5" type="bio" fk_person="19875">Eine silberne Medaille, wie vermutlich diejenige, die in <bibl>Zürcher Kunst</bibl> 203, Nr. 245; und Zürcher Münzen und Medaillen. Ausstellungskatalog, Zürich 1969, S. 25. 52, <link fk_file="10159">Nr. 128</link>, abgebildet ist. - Falls diese Medaille tatsächlich durch Walzenprägung entstanden ist, wie es Emil <i>Hahn,</i> Jakob Stampfer, Goldschmied, Medailleur und Stempelschneider von Zürich 1505-1579, in: Mitteilungen der Antiquarischen Gesellschaft in Zürich, XXVIII/1, 1915, 19 (Beschreibung auf S. 44, Nr. 23; Abbildung auf Tafel IV), behauptet, käme diese Münze hier nicht in Frage und wäre erst nach 1555/56 anzusetzen. Vielleicht aber bedarf diese Behauptung einer Hinterfragung, oder es handelt sich hier um eine frühere Prägung dieser Medaille. - Anlass dieses Geschenkes wird wohl die Geburt von <persName ref="6355">Sailers</persName> Tochter Felicitas gewesen sein; s. <link fk_file="12845">Nr. 2796</link>, Anm. 2.</fn>
+			<fn ref="6"><persName ref="8032">Francisco de Enzinas</persName>, der sich etwa am 15. Februar (s. <link fk_file="12858">Nr. 2809</link>) offensichtlich via Zürich von St. Gallen nach <placeName ref="28">Basel</placeName> zurückbegeben hatte.</fn>
+			<fn ref="7" type="bio" fk_person="19875">Wo Sailer geschäftlich tätig war; s. Conradin <i>Bonorand,</i> <persName ref="6355">Hieronymus Sailer</persName> aus St. Gallen, Schwiegersohn des <placeName ref="1976">Augsburger</placeName> Großkaufherrn <persName ref="7003">Bartholomäus Welser</persName>, und seine Tätigkeit im Lichte seines Briefwechsels mit <persName ref="8049">Vadian</persName>, in: <bibl>Zwa</bibl> 20, 1993, 110f. 120.</fn>
+			<fn ref="8"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="9"><persName ref="8462">Hermann von Wied</persName>, der am 24. Januar de facto durch den Eid abgesetzt wurde, den die Landstände dem vom Papst bereits im Juli 1546 designierten Nachfolger <persName ref="18420">Adolf III. von Schaumburg</persName> auf Befehl der kaiserlichen Kommissare leisteten; s. <link fk_file="12842">Nr. 2793</link>, Anm. 3.</fn>
+			<fn ref="10">Die Herzöge <persName ref="1546">Christoph</persName> und <persName ref="9780">Ulrich von Württemberg</persName>.</fn>
+			<fn ref="11"><persName ref="7637">König Franz I. von Frankreich</persName>. - Siehe dazu <link fk_file="12802">Nr. 2753</link>,14-16; <link fk_file="12866">Nr. 2817</link>.</fn>
+			<fn ref="12">Die unten veröffentlichte Beilage.</fn>
+			<fn ref="13"><persName ref="19981">Paul III.</persName></fn>
+			<fn ref="14">his literis.</fn>
+			<fn ref="15">Subjekt ist der Kaiser.</fn>
+			<fn ref="16">dem Papst.</fn>
+			<fn ref="17">Im Vertrag zwischen dem Kaiser und dem Papst vom 26. Juni 1546 (s. dazu <bibl>HBBW</bibl> XVII 146 und Anm. 52; 288, Anm. 10) war u.a. festgelegt worden, dass ohne Erlaubnis des Papstes oder dessen Legaten der Kaiser mit den Gegnern des <entity id="27" type="other">Konzils</entity> und den Protestanten keine Abkommen schließen dürfe, die dem katholischen Glauben nachteilig sein könnten; s. Des Bapsts und Kayserlicher Mayestät Bündtnuß, aus dem Latein ins Teutsch Transferiert, s.l. 1546 <i>(VD16</i> ZV 16721), f. A4r.</fn>
+			<fn ref="18">Dieser in Augsburg von einer unbekannten Person verfasste Brief war an <persName ref="6355">Hieronymus Sailer</persName> gerichtet (s. oben Z. 26-28) und könnte von Claudius paraphrasiert worden sein.</fn>
+			<fn ref="19"><persName ref="6913">Girolamo Verallo</persName>, der am 2. Februar 1547 dem Kaiser ein päpstliches Breve vom 22. Januar überreichte, dessen Inhalt sich gut mit dem Inhalt der vorliegenden Beilage deckt. Verallo berichete selbst über sein Gespräch mit dem Kaiser in einem Brief vom 2. und 3. Februar <i>(NBD</i> IX 442-451, <link fk_file="10163">Nr. 132</link>). Vgl. ferner <bibl>Pastor</bibl> V 593-595.</fn>
+			<fn ref="20">Zu verstehen: er erzählte von vielen Fällen.</fn>
+			<fn ref="21"><persName ref="7706">Nicolas Perrenot</persName>, Herr von Granvelle.</fn>
+			<fn ref="22">Vgl. etwa <link fk_file="12791">Nr. 2742</link>,13f; <link fk_file="12817">Nr. 2768</link>,14f; <link fk_file="12820">Nr. 2771</link>,38-41.</fn>
+			<fn ref="23">seinem Rat (gemeint ist Granvelle).</fn>
+			<fn ref="24">Der Papst hatte im Juni 1546 mit dem Kaiser ein Bündnis geschlossen (s. oben Anm. 17), laut dem er den Krieg führenden Kaiser mit Geld und Hilfstruppen Unterstützen würde; s. <bibl>HBBW</bibl> XVII 230, Anm. 57; 288,9f. Siehe aber auch <bibl>HBBW</bibl> XVIII 137, Anm. 49.</fn>
+			<fn ref="25">Von hier an kommentiert der unbekannte Briefschreiber.</fn>
+			<fn ref="26">Welches Bündnis gemeint ist, bleibt schleierhaft. Vermutlich handelt es sich um das angeblich von <persName ref="19981">Papst Paul III.</persName> geplante Bündnis mit den Innerschweizern; s. <bibl>EA</bibl> IV/1d 779 aa, Nr. 5. Das falsche Gerücht könnte in Zusammenhang mit der Mitte Februar in <placeName ref="300">Luzern</placeName> nachgewiesenen Gesandtschaft des Papstes an <placeName ref="2448">die V Orte</placeName> entstanden sein; s. aaO, 769 d.</fn>
+			<fn ref="27">Zum kalten Winter 1546/47 s. <link fk_file="12837">Nr. 2788</link>, Anm. 28; <link fk_file="12852">Nr. 2803</link>,9; <link fk_file="12860">Nr. 2811</link>,18.</fn>
+			<fn ref="28">Vgl. <bibl>HBBW</bibl> XVIII 91,76-79; 117,24-29; 137,45f; 227,37-39: 265f,34-37, sowie <bibl>NBD</bibl> IX 443-445.</fn>
+			<fn ref="29">Vgl. <link fk_file="12820">Nr. 2771</link>,49-51; <link fk_file="12861">Nr. 2812</link>,21f.</fn>
+			<fn ref="30">Diese Vermutung des unbekannten Briefschreibers wird durch den Bericht <persName ref="6913">Verallos</persName> bestätigt; s. <bibl>NBD</bibl> IX 443.</fn>
+			<fn ref="31">Diese Unterschrift gilt für die ganze Briefsendung, zumal <persName ref="8311">Claudius</persName> nicht der Verfasser, sondern nur der Abschreiber vorliegender Beilage war.</fn>
+		</num>
+	</footnotes>
+</file>

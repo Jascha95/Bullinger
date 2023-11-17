@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11335" id_hbbw="1292" id_irg_sort="1292" id_sort="112920">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11335</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1292</arpa>
+		<scan_pages>
+			<scan id="26355" dir="11335/Autograph/" page="1">00 E_II_345__fol__227_r_.tif</scan>
+			<scan id="26356" dir="11335/Autograph/" page="2">01 E_II_345__fol__227_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23008" vf="1" fk_add_type="1">
+				<person id="1039" fk_id="1039">
+					<name>Euander</name>
+					<forename>Benedikt</forename>
+				</person>
+				<place id="907" vf="1" fk_id="907" long="10.315784" lat="47.722857">Kempten im Allgäu</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23009" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11335">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">8</month>
+				<day fk_d="" d="" vf="1" fn="">5</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17806">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 345,227</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11166" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1292, S. 185</entry>
+				<page>185</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="8">
+				<lang id="5" iso="la" count="8" p="100.0"/>
+			</sentences>
+			<words count="178">
+				<lang id="5" iso="la" count="178" p="100.0"/>
+			</words>
+			<chars count="1051">
+				<lang id="5" iso="la" count="1051" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1292" page="184">
+		<div ref="1">
+			Die Kopie des Dialoges „Syfrid“ von <persName ref="8426">Paul Rasdorfer</persName>, die er geschickt
+			hat, ist zwar fehlerhaft, doch Bullinger kann ihr dennoch entnehmen, welche Ungereimtheiten zum Abendmahl
+			die Pfarrer in <placeName ref="907">Kempten</placeName> täglich auf den Kanzeln von sich geben; sie
+			sind schon wieder derart uneins, daß der Rat kaum Ruhe herstellen konnte und sie beinahe entlassen hätte.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1292" page="185">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Ego tibi nuper misi, doctissime vir, dialogum <persName ref="8426">Pauli Rasdorffer</persName>, cui titulum indidit Syfrid<fl>2</fl>, quem si accepisti, id quod minime dubito, certe in aliquibus locis mendosum et male scriptum accepisti; nam cum ab eo nullis praecibus impetrare possem, ut mihi eius dialogi transcribendi copiam faceret, per alium<fl>3</fl> ex ipsius amicis non vulgarem transcribi curavi, quo pollicitis stare possem.</s>
+				<s n="3" lang="la" state="auto">Qui dum nec Latine calleret nec ipsius characteribus assuetus<fl>a</fl> esset, erravit stilo in aliquibus dictionibus, sed ita tamen, ut ipsius et prędicatorum nostrorum omnium animum et sententiam, quam nunc in eucharistiae negotio tenent<fl>4</fl>, facile estimare possis, licet ista vix sit umbra eius absurditatis, quam quotidie magnis vocibus et longissimis orationibus intonant populo.</s>
+				<s n="4" lang="la" state="auto">Sed ne te hoc lateat: Iam iterum inter se discordant et quidem gravius quam unquam antehac, adeo ut hos tumultus senatus ipse maximis laboribus vix tandem sedaverit; ita erumpit pax, quae non ex spiritu dei conflatur, et exilium, quod mihi et aliis interminabantur, pene ipsis usu venisset<fl>b</fl>.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Vale.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Cambidoni, 5. augusti.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto"><persName ref="1039">Benedictus Euander</persName> tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="8" lang="la" state="auto">Pietate atque eruditione eximio viro magistro Heinricho<fl>c</fl> Bullingero, contionatori Tigurino primario, domino suo colendissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1292">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> asuetus.</fn>
+			<fn ref="b"><i>von</i> et exilium <i>bis</i> venisset <i>am Rande nachgetragen.</i></fn>
+			<fn ref="c"><i>in der Vorlage</i> Heimricho.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Der Briefinhalt verweist das Schreiben <persName ref="1039">Euanders</persName> eindeutig ins Jahr 1539, in dem der Streit der <placeName ref="907">Kemptener</placeName> Pfarrer über die Abendmahlslehre (vgl. unten Anm. 4) nach scheinbarer Beruhigung erneut eskauerte (vgl. oben <link fk_file="11263">Nr. 1220</link>, 5-7, und <link fk_file="11289">Nr. 1246</link>, 15f, sowie die Bemerkung über <persName ref="6402">Simprecht Schenck</persName> in Bullingers Brief an Grynäus vom 12. Dezember, unten <link fk_file="11378">Nr. 1335</link>). In den gleichen Zusammenhang (eventuell ins Vorjahr) gehört auch der nur mit einem Tagesdatum (18.) versehene Brief <persName ref="1039">Euanders</persName> an <persName ref="8127">Pellikan</persName> in Zürich ZB, Ms F 47, 249; vgl. auch <persName ref="1039">Euander</persName> an <persName ref="8127">Pellikan</persName>, 20. November 1539 (Zürich ZB, Ms F 47, 32).</fn>
+			<fn ref="2">Die Schrift scheint nicht mehr erhalten zu sein.</fn>
+			<fn ref="3">Unbekannt.</fn>
+			<fn ref="4" type="bio" fk_person="6402">Zum Streit zwischen Anhängern der zwinglischen und der lutherischen Abendmahlsauffassung in <placeName ref="907">Kempten</placeName>, der im August 1539 zu <persName ref="6402">Simprecht Schencks</persName> Entlassung führte, vgl. die in Anm. 1 genannten Briefe sowie Emil <i>Schenck,</i> <persName ref="6402">Simprecht Schenck</persName>. Das Lebensbild eines schwäbischen Reformators, Darmstadt 1938. -Beiträge zur Geschichte der Familie Schenck, 5, S. 43.</fn>
+		</num>
+	</footnotes>
+</file>

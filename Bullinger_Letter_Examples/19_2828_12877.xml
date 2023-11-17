@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12877" id_hbbw="2828" id_irg_sort="2828" id_sort="128280">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12877</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2828</arpa>
+		<scan_pages>
+			<scan id="30158" dir="12877/Autograph/" page="1">00 Ms F 62 (415)_00001.tif</scan>
+			<scan id="30159" dir="12877/Autograph/" page="2">01 Ms F 62 (415)_00002.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26298" vf="1" fk_add_type="1">
+				<person id="8126" fk_id="8126">
+					<name>Oporin(us, Herbster)</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26299" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12877">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">26</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19447">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 62,415</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12342" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2828, S. 370</entry>
+				<page>370</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="13">
+				<lang id="5" iso="la" count="13" p="100.0"/>
+			</sentences>
+			<words count="108">
+				<lang id="5" iso="la" count="108" p="100.0"/>
+			</words>
+			<chars count="598">
+				<lang id="5" iso="la" count="598" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2828" page="370">
+		<div ref="1">
+			[1] Bullinger möge den beiliegenden Brief <persName ref="2336">Bernardino Ochinos</persName> nach
+			<placeName ref="1976">Augsburg</placeName> weiterleiten. Dieser wohnt noch bei
+			<persName ref="8126">Oporin</persName>, weiß aber noch nicht, ob er in
+			<placeName ref="28">Basel</placeName> bleiben wird.
+		</div>
+		<div ref="2">
+			[2] Es wäre schön, wenn die Dinge, die man über die Zürcher hört, falsch wären. Der Herr verherrliche
+			seinen Namen und vernichte die Anhänger Satans!
+		</div>
+		<div ref="3">
+			[3] Was von den [in Verhandlung mit <persName ref="18538">Kaiser Karl V.</persName> stehenden] Straßburgern zu erwarten ist, bleibt unklar.
+			Viele aber erhoffen Besseres von <placeName ref="457">Konstanz</placeName>.
+		</div>
+		<div ref="4">
+			[4] Grüße, auch an die gemeinsamen Freunde.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2828" page="370">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Literas hasce <persName ref="2336">Bernardini Ochini</persName> nostri ut curare <placeName ref="1976">Augustam</placeName> velis, uterque te sedulo oramus, mi d. Bullingere.</s>
+				<s n="3" lang="la" state="auto">Adhuc ille apud me agit, incertus, an hic mansurus sit necne.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="la" state="auto">Audivimus et de vobis, quę falsa quam vera esse malumus.<fl>1</fl></s>
+				<s n="5" lang="la" state="auto">Utinam dominus gloriam nominis sui promoveat et sathanae membra conficiat spiritu oris sui!<fl>2</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="6" lang="la" state="auto">De <placeName ref="492">Argentina</placeName> quid sperandum sit, nescio.</s>
+				<s n="7" lang="la" state="auto">De <placeName ref="457">Constantia</placeName> multos melius sperare audimus.</s>
+				<s n="8" lang="la" state="auto">Novit autem dominus, qui sunt sui;<fl>3</fl> quem ut pro nobis quoque diligenter ores, ex animo petimus.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="la" state="auto">Bene vale, optime atque doctissime vir, et amicos nostros communes per occasionem saluta.</s>
+				<s n="10" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, 26. februarii 1547.</s>
+				<s n="11" lang="la" state="auto"><persName ref="8126">Io. Oporinus</persName>, tuus ex animo.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="12" lang="la" state="auto">D. Henrico Bullingero, amico clarissimo suo.</s>
+				<s n="13" lang="la" state="auto"><placeName ref="587">Tiguri</placeName>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2828">
+		<alpha/>
+		<num>
+			<fn ref="1"><persName ref="8126">Oporin</persName> bezieht sich auf die Spannungen, die in <placeName ref="587">Zürich</placeName> entstanden (s. dazu <link fk_file="12816">Nr. 2767</link>,97-100; <i>Henrich, Myconius BW</i> 940, <link fk_file="11099">Nr. 1056</link>) in Folge der an den Tagsatzungen zu <placeName ref="21">Baden</placeName> seit 1546 (bis 1548) immer wieder eingeleiteten Verfahren <placeName ref="2448">der Fünf Orte</placeName> gegen die Veröffentlichung von <persName ref="8011">Gwalthers</persName> "Endtchrist" (s. dazu schon <link fk_file="12806">Nr. 2757</link>, Anm. 11; <link fk_file="12846">Nr. 2797</link>, Anm. 6). Mit ihren Verfahren versuchten diese Orte, Einfluss auf die Innenpolitik der Zürcher zu nehmen. An der <placeName ref="21">Badener</placeName> Tagsatzung von Anfang Dezember 1546 wurde beschlossen, dass jeder mit einer Druckerei versehene Ort künftig darauf achten müsse, dass keine für die anderen Verbündeten beleidigenden Bücher mehr gedruckt würden. Aus Bullingers Briefwechsel wird zudem ersichtlich, dass ein Teil der Bevölkerung der Stadt und Landschaft <placeName ref="587">Zürich</placeName> und dementsprechend auch einige Amtsinhaber den "Pfaffen", wie sie ihre Prediger bezeichneten (s. z.B. <link fk_file="12835">Nr. 2786</link>,87-90; <bibl>HBBW</bibl> XVIII 212,52f), nicht wohlgesinnt waren, sodass es sogar zur Aufforderung kam, die Predigten der Pfarrer von den politischen Behörden besser kontrollieren zu lassen, was wiederum nach <persName ref="8011">Gwalthers</persName> und Bullingers erster Verantwortung vor dem Rat vom 29. Januar 1547 (s. dazu <link fk_file="12816">Nr. 2767</link>, Anm. 82) am 28. Mai 1547 eine erneute Rechtfertigung dieser beiden Pfarrer nötig machte; s. <i>Bächtold, Rat</i> 94-103.</fn>
+			<fn ref="2">2Thess 2, 8.</fn>
+			<fn ref="3">2Tim 2, 19.</fn>
+		</num>
+	</footnotes>
+</file>

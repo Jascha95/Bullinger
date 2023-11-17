@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12908" id_hbbw="2859" id_irg_sort="2859" id_sort="128590">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12908</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2859</arpa>
+		<scan_pages>
+			<scan id="30223" dir="12908/Autograph/" page="1">00 E_II_343__fol__347_r_.tif</scan>
+			<scan id="30224" dir="12908/Autograph/" page="2">01 E_II_343__fol__347_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen <persName ref="18538">Kaiser Karl V.</persName> unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26364" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26365" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12908">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="" fn="1">24</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19480">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343a,347</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9162" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 951f, Nr. 1066</entry>
+			</print>
+			<print id="12441" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2859, S. 446</entry>
+				<page>446</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="33">
+				<lang id="5" iso="la" count="33" p="100.0"/>
+			</sentences>
+			<words count="380">
+				<lang id="1" iso="de" count="5" p="1.3"/>
+				<lang id="5" iso="la" count="375" p="98.7"/>
+			</words>
+			<chars count="2079">
+				<lang id="1" iso="de" count="24" p="1.2"/>
+				<lang id="5" iso="la" count="2055" p="98.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2859" page="445">
+		<div ref="1">
+			[1] Bei seiner Ankunft in <placeName ref="28">Basel</placeName> hat <persName ref="1227">Christoph Froschauer</persName> den an
+			<persName ref="8418">Myconius</persName> sowie an <persName ref="1278">Johannes Gast</persName> gerichteten Brief
+			[<link fk_file="12899">Nr. 2850</link>] sogleich <persName ref="8418">Myconius</persName> überreicht. Beim Lesen wunderte sich dieser, dass
+			in dem auch an ihn gerichteten Brief Bullinger darum bat, den Brief ebenfalls ihm, <persName ref="8418">Myconius</persName>, dem er nicht
+			schreiben könne, zu zeigen! Dies nur, damit auch Bullinger über seine Vergesslichkeit lachen kann!
+		</div>
+		<div ref="2">
+			[2] Die aus <placeName ref="311">Marburg</placeName> zurückkehrenden Zürcher [Studenten, Fabricius
+			Montanus, <persName ref="6534">Karl Schweninger</persName>, <persName ref="8469">Heinrich Hindermann</persName>, <persName ref="1234">Hans Rudolf Funk</persName> und vielleicht auch <persName ref="5838">Wilhelm Meyer</persName>]
+			erzählen nichts Gutes über Landgraf <persName ref="18574">Philipp von Hessen</persName>. Vermutlich aber verbirgt dieser nur sein
+			eigentliches Vorhaben. <persName ref="8418">Myconius</persName> schenkt ihm jedenfalls weiterhin sein Vertrauen, zumal dieser einen [...]
+			seiner Berater niederschlug, nachdem dieser ihm empfohlen hatte, den Frieden mit <persName ref="18538">Kaiser Karl V.</persName> zu suchen.
+			Beim Landgrafen muss es sich also um einen Gottesmann handeln, der den vom Kaiser angebotenen Frieden
+			verabscheut! Denn wie schon ein <placeName ref="1976">Augsburger</placeName> [...] in seinem Brief
+			meinte: „Was ist denn das für ein Frieden, der keiner ist?“ Kein Wunder, dass unter solchen Umständen
+			<persName ref="8417">Wolfgang Musculus</persName> und auch andere
+			<placeName ref="1976">Augsburg</placeName> verlassen wollen. Die Papisten haben gesiegt, während der
+			viel größere Teil verloren hat! Letzterer muss nun auslöffeln, was er sich selbst eingebrockt hat!
+		</div>
+		<div ref="3">
+			[3] Über <placeName ref="492">Straßburg</placeName> gibt es nichts als Gerüchte. Man hofft, bald
+			Verbürgtes zu erfahren.
+		</div>
+		<div ref="4">
+			[4] Der jetzt nach Zürich kommende Engländer [<persName ref="1560">John Hooper</persName>] sei den Zürchern empfohlen. <persName ref="8418">Myconius</persName> kennt ihn
+			zwar nicht gut, hofft aber, dass er der großen Frömmigkeit seiner Frau <persName ref="8473">[Anne t’Serclaes]</persName> gerecht wird.
+		</div>
+		<div ref="5">
+			[5] Das Bündnis, von dem Bullinger auf der Rückseite seines Briefes schrieb, soll nur dem Kaiser und seiner
+			Devise „Immer weiter“ einen richtigen Schlag versetzen, auch wenn davon kein Fortschritt für das Evangelium
+			zu erwarten ist!
+		</div>
+		<div ref="6">
+			[6] Was <persName ref="8418">Myconius</persName> über die vier mit Gold und Silber beladenen Schiffe aus „Indien“ [<entity id="37" type="geo_country">Amerika</entity>]
+			in<pb_edition start_of="446"/> seinem Brief [<link fk_file="12904">Nr. 2855</link>] mitgeteilt hat, muss
+			berichtigt werden. Die Schiffe gingen nicht in <placeName ref="15">Antwerpen</placeName> vor Anker,
+			sondern in Spanien, von wo die Kaufleute das für den Krieg gegen Deutschland bestimmte Geld allmählich nach
+			<placeName ref="15">Antwerpen</placeName> bringen werden. Doch auch dies kann <persName ref="8418">Myconius</persName> nicht so
+			richtig glauben, da der Kaiser bekanntlich so geizig ist!
+		</div>
+		<div ref="7">
+			[7] Die Basler, die sich nach <placeName ref="492">Straßburg</placeName> begeben haben, sind noch
+			immer nicht zurück.
+		</div>
+		<div ref="8">
+			[8] Grüße, auch an die ganze Familie und an <persName ref="8011">Rudolf Gwalther</persName>, dem <persName ref="8418">Myconius</persName> bald schreiben wird.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2859" page="446" state="names_checked">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Mirum, cur ita luseris in literis<fl>2</fl> per <persName ref="1227">Froschoverum</persName> missis.</s>
+				<s n="3" lang="la" state="auto">Cum enim eas ad me et ad <persName ref="1278">Gastium</persName> inscripsisses et <persName ref="1227">Froschoverus</persName> protinus mihi reddidisset, postquam ad finem legendo pervenissem, hęc invenio: <de>„diß zeigend an d. <persName ref="8418">Myconio</persName>“,</de> et paulo post: „Libenter scripsissem d. <persName ref="8418">Myconio</persName>; nihil possum.“<fl>3</fl></s>
+				<s n="4" lang="la" state="auto">Coepi ridere (ut qui mox videram errorem et lapsum memoriae)<fl>a</fl>, nam oblitus eras et mihi literas inscriptas!<fl>4</fl></s>
+				<s n="5" lang="la" state="auto">Volui hoc indicatum, ut et tu rideres.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="6" lang="la" state="auto">Pręterea qui redeunt ad vos ex <placeName ref="311">Marpurgo</placeName>,<fl>5</fl> non fausta dicunt de Hesso.<fl>6</fl></s>
+				<s n="7" lang="la" state="auto">Miror, nisi forsitan, quae habet in animo, non vult esse nota.</s>
+				<s n="8" lang="la" state="auto">Ego de principe <fl>b</fl>bonam spem<fl>b_2</fl> concepi ab initio, ut mala de ipso non facile credam.</s>
+				<s n="9" lang="la" state="auto">Confirmat me, quod, dum rogavit sententias suorum, quid in his turbis putarent sibi faciendum, et unus<fl>7</fl> ex his consuleret pacificandum cum cęsare<fl>8</fl>, eundem pugnis satis contudit.</s>
+				<s n="10" lang="la" state="auto">Videtur enim mihi vir dei, qui a pace, qualem dat cęsar, abhorret.</s>
+				<s n="11" lang="la" state="auto">Consentio itaque non difficulter Augustano<fl>9</fl>, qui scripsit: „O pacem, non pacem, sed multarum calamitatum parentem!“</s>
+				<s n="12" lang="la" state="auto">Non mirum igitur, abitum si minantur <persName ref="8417">Musculus</persName> et alii.<fl>10</fl></s>
+				<s n="13" lang="la" state="auto">Sed papistę vicerunt, et pars longe maior victus<fl>11</fl> est!</s>
+				<s n="14" lang="la" state="auto">Ferant igitur, quę libenter, imo nemine petente, receperunt.<fl>12</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="15" lang="la" state="auto">De <placeName ref="492">Argentinensibus</placeName> nondum accipio praeter rumores, sed plane falsos.</s>
+				<s n="16" lang="la" state="auto">Quę vera sunt, expecto in dies.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="17" lang="la" state="auto">Anglum<fl>13</fl>, qui venit ad vos, habeto commendatum.</s>
+				<s n="18" lang="la" state="auto">Habet enim speciem pietatis et doctrinę sanę; quamobrem dignum arbitror, ut cui a vobis bene fiat.</s>
+				<s n="19" lang="la" state="auto">Uxor<fl>14</fl> multo piissima est.</s>
+				<s n="20" lang="la" state="auto">Vellem itaque maritum haberet per omnia respondentem; quod dico non ob aliud, nisi quod non ita multis diebus cum eo familiaritatem contraxi,<fl>15</fl> unde ad plaenum potuerim nosse ingenium viri.<pb_edition start_of="447"/></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="21" lang="la" state="auto">Foedus, quo de a tergo literarum tuarum<fl>16</fl>, utinam ictum foret!</s>
+				<s n="22" lang="la" state="auto">Non quod ita faveam foederibus pro evangelio, sed ut <persName ref="18538">Carolus</persName> haberet, quos cogeretur timere, si forte aliquando casurum esset istud „Plus ultra“.<fl>17</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="23" lang="la" state="auto">De navibus quatuor non recte scripsi.<fl>18</fl></s>
+				<s n="24" lang="la" state="auto">Venerunt ex nescio qua Indię parte naves tot, onustę auro et argento, in <entity id="29" type="geo_country">Hispaniam</entity>, et ex <entity id="29" type="geo_country">Hispania</entity> paulatim per mercatores importantur <placeName ref="15">Antwerpię</placeName> in damnum Germanię.</s>
+				<s n="25" lang="la" state="auto">Manet tamen adhuc dubium, si ita sit, ob avariciam cęsaris incogitabilem.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="26" lang="la" state="auto">Qui<fl>19</fl> hinc abierunt <placeName ref="492">Argentinam</placeName>, nondum redierunt.</s>
+				<s n="27" lang="la" state="auto">Adhuc ergo ignoro, quid rei sit.</s>
+				<s n="28" lang="la" state="auto">Plura non habeo.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="29" lang="la" state="auto">Vale in domino cum tuis et <persName ref="8011">Gvaltero</persName>, cui scribam, cum primum fuerit ocium.</s>
+				<s n="30" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, 44.<fl>c</fl> martii anno 1547.</s>
+				<s n="31" lang="la" state="auto"><persName ref="8418">Os. Myconius</persName> tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="32" lang="la" state="auto">D. Heinricho Bullingero doctissimo, episcopo Tigurino dignissimo, fratri ac domino venerando suo.</s>
+				<s n="33" lang="la" state="auto">Ti[guri].<fl>d</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2859">
+		<alpha>
+			<fn ref="a"><i>Klammern ergänzt.</i></fn>
+			<fn ref="b-b"><i>Fehlt in der Vorlage.</i></fn>
+			<fn ref="c"><i>Richtig</i> 24.: <i>s. oben Anm. 1.</i></fn>
+			<fn ref="d"><i>Textverlust bei der Entfernung des Siegels.</i></fn>
+			<!-- Splits -->
+			<fn ref="b"><i>Fehlt in der Vorlage.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Das richtige Datum muss sich aus der unten in Z. 35 fehlerhaften Angabe "44." erklären können. Da unten in Z. 28-30 <persName ref="8418">Myconius</persName> eine Nachricht richtigstellt, die er in <link fk_file="12904">Nr. 2855</link>,12f, vom 21. März übermittelt hat, datiert vorliegender Brief vom 24. März - zu welchem Schluss auch Bullinger in seinem Brief an <persName ref="8418">Myconius</persName> vom 4. April <i>1547 (Henrich, <persName ref="8418">Myconius</persName> BW 955,</i> <link fk_file="11113">Nr. 1070</link>) gekommen ist.</fn>
+			<fn ref="2">Brief <link fk_file="12899">Nr. 2850</link> vom 19. März. - Vgl. <link fk_file="12905">Nr. 2856</link>,2.</fn>
+			<fn ref="3">Nr. 2850,16. 17.</fn>
+			<fn ref="4">Die richtige Erklärung dafür ist eher in <link fk_file="12899">Nr. 2850</link>, Anm. 30, zu finden.</fn>
+			<fn ref="5">Gemeint sind die seit 1545 in <placeName ref="311">Marburg</placeName> studierenden Zürcher Fabricius Montanus (<persName ref="8009">Johannes Schmid</persName>), <persName ref="6534">Karl Schweninger</persName>, <persName ref="8469">Heinrich Hindermann (Opisander)</persName>, <persName ref="1234">Hans Rudolf Funk</persName> und vielleicht auch <persName ref="5838">Wilhelm Meyer</persName>; s. zuletzt <bibl>HBBW</bibl> XVII 428f, Anm. 59.</fn>
+			<fn ref="6">Landgraf <persName ref="18574">Philipp von Hessen</persName>.</fn>
+			<fn ref="7">Unbekannt.</fn>
+			<fn ref="8"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="9">Unbekannt.</fn>
+			<fn ref="10">Vgl. Nr. 2753,25f; <link fk_file="12808">Nr. 2759</link>,59f; <link fk_file="12840">Nr. 2791</link>,38-41; <link fk_file="12888">Nr. 2839</link>,15-19.</fn>
+			<fn ref="11">Mit der "pars longe major" sind die Schmalkaldener gemeint.</fn>
+			<fn ref="12">Kritik am Frieden, den die süddeutschen Städte mit dem Kaiser suchten.</fn>
+			<fn ref="13"><persName ref="1560">John Hooper</persName>; vgl. <link fk_file="12910">Nr. 2861</link>.</fn>
+			<fn ref="14"><persName ref="8473">Anne t'Serclaes</persName>.</fn>
+			<fn ref="15" type="bio" fk_person="1560">Vielleicht an der kurz zuvor in <placeName ref="28">Basel</placeName> gefeierten Hochzeit von <persName ref="1560">Hooper</persName>; s. <link fk_file="12910">Nr. 2861</link>.</fn>
+			<fn ref="16">In <link fk_file="12899">Nr. 2850</link>,22f. -Angesprochen ist die Nachricht von dem Bündnis, das die <entity id="20136" type="group">Hansestädte</entity> angeblich mit <entity id="9" type="geo_country">England</entity>, <entity id="11" type="geo_country">Frankreich</entity>, <entity id="8" type="geo_country">Dänemark</entity>. <entity id="24" type="geo_country">Polen</entity> und <placeName ref="749">Sachsen</placeName> geschlossen hatten.</fn>
+			<fn ref="17">Die Devise von <persName ref="18538">Karl V.</persName>; s. <i>Brandi, <persName ref="18538">Karl V.</persName></i> I 48f.</fn>
+			<fn ref="18">In <link fk_file="12904">Nr. 2855</link>,12f.</fn>
+			<fn ref="19">Unbekannt.</fn>
+		</num>
+	</footnotes>
+</file>

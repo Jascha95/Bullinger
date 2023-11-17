@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12879" id_hbbw="2830" id_irg_sort="2830" id_sort="128300">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12879</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2830</arpa>
+		<scan_pages>
+			<scan id="30160" dir="12879/Autograph/" page="1">00 E_II_453__fol__240_r_.tif</scan>
+			<scan id="30161" dir="12879/Autograph/" page="2">01 E_II_453__fol__240_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26302" vf="1" fk_add_type="1">
+				<person id="2809" fk_id="2809">
+					<name>Richmut</name>
+					<forename>Gotthard</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26303" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date/>
+		<documents>
+			<document id="19449">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 453,240</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12420" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2830, S. 375</entry>
+				<page>375</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="10">
+				<lang id="1" iso="de" count="10" p="100.0"/>
+			</sentences>
+			<words count="149">
+				<lang id="1" iso="de" count="149" p="100.0"/>
+			</words>
+			<chars count="638">
+				<lang id="1" iso="de" count="638" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2830" page="375">
+		<div ref="1">
+			[1] <persName ref="2809">Richmut</persName> ist dankbar, dass Bullinger die Einladung zum gestrigen
+			Abendessen angenommen hat. Wegen der auswärtigen Gäste haben seine Freunde und er sich umso mehr über dessen
+			Anwesenheit gefreut.
+		</div>
+		<div ref="2">
+			[2] Doch statt es dabei bleiben zu lassen, sendet Bullinger nun 4 Batzen durch Meister Andreas [...].
+			<persName ref="2809">Richmut</persName> schickt sie zurück, zumal er ihn nicht einlud, um beschenkt
+			zu werden. Müsste man ihm für jede Mahlzeit so viel Geld geben, wäre er gewiss ein teurer Gastgeber!
+		</div>
+		<div ref="3">
+			[3] Bullinger soll es ihm nicht übelnehmen. Gruß.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2830" page="375">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Min sundren willig dienst und was ich eren, libs und guͦtz vermag zuͦvor, gunstiger lieber meister Henrich.</s>
+				<s n="2" lang="de" state="auto">Wie ich uch nachst<fl>2</fl> bat, das ir so gütig weltent sin und mit uns essen, das hand ir thon<fl>3</fl>; dorum ich uch frundlichen danck.</s>
+				<s n="3" lang="de" state="auto">Und ist mir und andren minen frunden ein freud gesin<fl>4</fl> von wegen der frömden.<fl>5</fl></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="de" state="auto">Und aber ir hand<fl>6</fl> es nit darby lan<fl>7</fl> pliben und meister Andressen<fl>8</fl> gen<fl>9</fl> 4 batzen: Soͤlly<fl>10</fl> fur uch gaben.<fl>11</fl></s>
+				<s n="5" lang="de" state="auto">Die schick uch hie wider.</s>
+				<s n="6" lang="de" state="auto">Ich han uch for anzeigt, das ich uch nut drum laden<fl>12</fl>, das ir gaben soͤllent; und so ir gaben weltent, wet ich uch nit geladen han.<fl>13</fl></s>
+				<s n="7" lang="de" state="auto">Ich wer ein dürer wurt<fl>14</fl>, wan ieder um<fl>15</fl> 1 mal<fl>16</fl> 4 batzen soͤlt gen!</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="8" lang="de" state="auto">Semlichs<fl>17</fl> nempt im besten uff, und wo ich uch kan dienen mit minem lib und guͦt, sond<fl>18</fl> ir uch des genbtzlich<fl>19</fl> zuͦ mir versechen.<fl>20</fl></s>
+				<s n="9" lang="de" state="auto">Damit got mit uns!</s>
+				<s n="10" lang="de" state="auto">Gothart Richmuͦt.</s>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse.]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2830">
+		<alpha/>
+		<num>
+			<fn ref="1" meta="1">Vorliegendes Brieflein kann nicht datiert werden. Da aber im vorliegenden Band die Rede von <persName ref="2809">Gotthard Richmut</persName> ist (s. <link fk_file="12873">Nr. 2824</link>,47-49), welcher <placeName ref="587">Zürich</placeName> 1555 verließ, veröffentlichen wir es hier. Es könnte allerdings sowohl aus einer früheren als auch aus einer späteren Zeit stammen. Das Interesse des Dokuments liegt darin, dass es von einem ziemlich vertrauten Umgang zwischen Bullinger und Richmut zeugt.</fn>
+			<fn ref="2">gestern Abend.</fn>
+			<fn ref="3">getan.</fn>
+			<fn ref="4">gewesen.</fn>
+			<fn ref="5">Gemeint sind hier auswärtige Gäste.</fn>
+			<fn ref="6">habt.</fn>
+			<fn ref="7">lassen.</fn>
+			<fn ref="8">Ist hier etwa der Drucker Andreas Gess ner gemeint, der Zunftmeister der Saffranzunft war und von 1542 bis 1567 dem Baptistalrat angehörte? Vgl. nämlich <bibl>HBBW</bibl> V 241,71f.</fn>
+			<fn ref="9">gegeben.</fn>
+			<fn ref="10">(Er) solle (sie).</fn>
+			<fn ref="11">schenken.</fn>
+			<fn ref="12">drum laden: deswegen eingeladen (habe).</fn>
+			<fn ref="13">wet ich uch nit geladen han: hätte ich euch nicht eingeladen.</fn>
+			<fn ref="14">dürer wurt: teurer Gastgeber.</fn>
+			<fn ref="15">für.</fn>
+			<fn ref="16">Mahlzeit.</fn>
+			<fn ref="17">Solches.</fn>
+			<fn ref="18">sollt.</fn>
+			<fn ref="19">gänzlich.</fn>
+			<fn ref="20">zü mir versechen: von mir erwarten.</fn>
+		</num>
+	</footnotes>
+</file>

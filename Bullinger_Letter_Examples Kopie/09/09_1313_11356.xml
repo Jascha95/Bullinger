@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11356" id_hbbw="1313" id_irg_sort="1313" id_sort="113130">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11356</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1313</arpa>
+		<scan_pages>
+			<scan id="26392" dir="11356/Autograph/" page="1">00 E_II_343__fol__153_r_.tif</scan>
+			<scan id="26393" dir="11356/Autograph/" page="2">01 E_II_343__fol__153_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23054" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23055" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11356">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">10</month>
+				<day fk_d="" d="" vf="1" fn="">4</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17827">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343,153</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7477" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Barge II 608, Nr. 53</entry>
+			</print>
+			<print id="11108" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1313, S. 225</entry>
+				<page>225</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="30">
+				<lang id="5" iso="la" count="30" p="100.0"/>
+			</sentences>
+			<words count="329">
+				<lang id="1" iso="de" count="3" p="0.9"/>
+				<lang id="5" iso="la" count="326" p="99.1"/>
+			</words>
+			<chars count="1850">
+				<lang id="1" iso="de" count="18" p="1.0"/>
+				<lang id="5" iso="la" count="1832" p="99.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1313" page="224">
+		<div ref="1">
+			Konnte durch <persName ref="4830">Adam Frey</persName> erst kurz berichten
+			[<link fk_file="11353">Nr. 1310</link>]. Entgegen seiner Hoffnung hat sich die Unruhe während seiner
+			Abwesenheit verschärft, und nun sieht er sich mit <persName ref="8054">Markus [Bertschi]</persName>, <persName ref="1365">Grynäus</persName> und andern
+			Wohlmeinenden schwerer Anfeindung ausgesetzt, hinter der <persName ref="4349">Karlstadt</persName>
+			steht; wenn die Zürcher diesen nicht zurückrufen, wird er die Basler Kirche ins Verderben stürzen, zur
+			Freude aller Gegner der Pfarrer, die er mit seiner Lauheit für sich einnimmt. Dieser Brief soll verbrannt
+			werden.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1313" page="225">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Scripsi per <persName ref="4830">Adam Phrygium</persName><fl>1</fl>, ut potui.</s>
+				<s n="3" lang="la" state="auto">Putaram, si paulisper abessem<fl>2</fl>, rem omnem interea sedari, verum ubi redii, turbulentiora reperi omnia<fl>3</fl>.</s>
+				<s n="4" lang="la" state="auto">Conatus sum privata querela per capita summa<fl>4</fl> rebus subvenire et huc incidi, ut pericliter de fama, nec ego solus, sed mecum <persName ref="8054">Marcus</persName> et <persName ref="1365">Grynęus</persName><fl>5</fl>.</s>
+				<s n="5" lang="la" state="auto">De his neminem audeo convenire, apud neminem conqueri; apud quos audeo, iacent nobiscum.</s>
+				<s n="6" lang="la" state="auto">Optimi quique e summatibus in eodem sunt periculo.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Ille, quo nihil urbs habet sanctius, vereor, dolore consummatur<fl>6</fl>.</s>
+				<s n="8" lang="la" state="auto">Hęc, nescis quanto timore, ad te; tot habet enim cacodęmones <persName ref="4349">Carolstadius</persName>, ut resciat omnia.</s>
+				<s n="9" lang="la" state="auto">Hic est dux omnis perditionis.</s>
+				<s n="10" lang="la" state="auto">O deus, quanta pernicies; quanto malo per me liberati estis, dum a vobis diabolum huc pertraxi contra bonorum voluntatem<fl>7</fl>.</s>
+				<s n="11" lang="la" state="auto">Vester adhuc est; revocate, ut interitus omnis boni tollatur.</s>
+				<s n="12" lang="la" state="auto">Utuntur isto malo, qui nobis et evangelio ob unam parrhisiam<fl>8</fl> male volunt.</s>
+				<s n="13" lang="la" state="auto">Is sinit, quo est ingenio, se duci, quamobrem nomen habet optimi, doctissimi, imo servatoris scholę et evangelii ac<fl>a</fl> titulum, cum contra sit talis, qualem nusquam non accusat <placeName ref="558">Wittenberga</placeName>.</s>
+				<s n="14" lang="la" state="auto">Ut intelligas, undenam laus illi: Vocatur benignus et dulciloquus, qui neminem corripiat, <de state="verified">latt<fl>9</fl> jederman bliben</de> et brevis est in concionando et demum vult nos obpressos magno adplausu hostium nostrorum, id est eorum, qui non possunt ferre salem et lucem evangelicam<fl>10</fl>.</s>
+				<s n="15" lang="la" state="auto">Audiunt ipsum anabaptistę, papistę, fex totius civitatis, male evangelici, hoc est, qui fidem sibi fingunt sine operum fructibus placere deo, et quicquid est huius generis.</s>
+				<s n="16" lang="la" state="auto">Et multi, qui neminem audiunt e nobis, illum laudant tamen, quod nobis obsistat.</s>
+				<s n="17" lang="la" state="auto">Sed quid fit?</s>
+				<s n="18" lang="la" state="auto">Quicquid impie patrat, nobis, si diis placet, imputatur, ita ut libenter pro seditiosis accusarent.</s>
+				<s n="19" lang="la" state="auto">Summa: Malum in singula momenta expectamus.</s>
+				<s n="20" lang="la" state="auto">„Abite“, inquis.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Non licet; ita sumus conclusi.</s>
+				<s n="22" lang="la" state="auto">„Quo?“</s>
+				<s n="23" lang="la" state="auto">Dicere non ausim.</s>
+				<s n="24" lang="la" state="auto">„Cave“, putes, „odium aliquid dictare.“</s>
+				<s n="25" lang="la" state="auto">Dolor est; nam contra me quae agit, continere per gratiam domini possum, at quae contra ecclesiam, haud dissimulare.</s>
+			</p>
+			<p>
+				<s n="26" lang="la" state="auto">His lectis omnia dabis Vulcano; nam servata malum ferent.<pb_edition start_of="226"/></s>
+				<s n="27" lang="la" state="auto">Vale cum tuis et nobiscum doleto dominum instanter pro nobis orans.</s>
+			</p>
+			<p>
+				<s n="28" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, raptim, 4. octobris anno 39.</s>
+			</p>
+			<p>
+				<s n="29" lang="la" state="auto">Tuus <persName ref="8418">Myconius</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="30" lang="la" state="auto">Domino Heinricho Bullingero suo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1313">
+		<alpha>
+			<fn ref="a">ac <i>am Rande nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="4830">Adam Frey</persName> überbrachte <persName ref="8418">Myconius</persName>' Brief vom 19. September; s. oben <link fk_file="11353">Nr. 1310</link>, 23-29.</fn>
+			<fn ref="2">Zur Badekur von <persName ref="8418">Myconius</persName> vgl. oben <link fk_file="11348">Nr. 1305</link>, 2f; 1310, 231.</fn>
+			<fn ref="3">Gegenstand des Streits war nicht mehr nur die neue Universitätsordnung (vgl. zuletzt oben <link fk_file="11353">Nr. 1310</link>, 1-13), sondern zunehmend auch die Handhabung der Kirchenzucht durch die Pfarrer; vgl. <bibl>Burckhardt-Biedermann</bibl> 449-453.</fn>
+			<fn ref="4">d. h. auf dem Weg über die Regierenden.</fn>
+			<fn ref="5">Aus einem Schreiben von <persName ref="8418">Myconius</persName>, <persName ref="8054">Markus Bertschi</persName> Und <persName ref="1365">Grynäus</persName> an Bürgermeister <persName ref="2271">Adelberg Meyer</persName> vom 1. Oktober geht hervor, daß <persName ref="4349">Karlstadt</persName> sie der Lüge bezichtigt hatte; s. Zürich ZB, Ms F 81, 364b.</fn>
+			<fn ref="6">Die Rede ist von Altbürgermeister <persName ref="8129">Jakob Meyer</persName>; zu dessen Erkrankung vgl. unten <link fk_file="11372">Nr. 1329</link>, 421, und <persName ref="8418">Myconius</persName> an Vadian, 7. März 1540 (<bibl>Vadian BW V</bibl> 612f).</fn>
+			<fn ref="7">Zum Wechsel <persName ref="4349">Karlstadts</persName> nach <placeName ref="28">Basel</placeName>, für den sich <persName ref="8418">Myconius</persName> bei Bullinger mehrmals eingesetzt hatte, vgl. <bibl>Barge</bibl> II 455-460; Hans-Peter <i>Hasse,</i> Zum Aufenthalt <persName ref="4349">Karlstadts</persName> in Zürich (1530-1534), in: <bibl>Zwa</bibl> XVIII/4+5. 1990/91, S. 379-381.</fn>
+			<fn ref="8">griech. <el state="verified">παρρησία</el> freimütige Rede.</fn>
+			<fn ref="9">läßt.</fn>
+			<fn ref="10">Vgl. Mt 5, 13-16.</fn>
+		</num>
+	</footnotes>
+</file>

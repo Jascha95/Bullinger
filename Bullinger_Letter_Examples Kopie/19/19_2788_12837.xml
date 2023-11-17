@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12837" id_hbbw="2788" id_irg_sort="2788" id_sort="127880">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12837</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2788</arpa>
+		<scan_pages>
+			<scan id="30036" dir="12837/Autograph/" page="1">00 E_II_342__fol__164_r_.tif</scan>
+			<scan id="30037" dir="12837/Autograph/" page="2">01 E_II_342__fol__164_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26217" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26218" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12837">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">2</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19403">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,164</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9066" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 935, Nr. 1051</entry>
+			</print>
+			<print id="12415" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2788, S. 242</entry>
+				<page>242</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="29">
+				<lang id="1" iso="de" count="19" p="65.5"/>
+				<lang id="5" iso="la" count="10" p="34.5"/>
+			</sentences>
+			<words count="311">
+				<lang id="1" iso="de" count="231" p="74.3"/>
+				<lang id="5" iso="la" count="80" p="25.7"/>
+			</words>
+			<chars count="1621">
+				<lang id="1" iso="de" count="1158" p="71.4"/>
+				<lang id="5" iso="la" count="463" p="28.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2788" page="242">
+		<div ref="1">
+			[1] Für die Menschen ist die Lage zum Verzweifeln, nicht aber für Gott, der gewiss noch retten kann.
+		</div>
+		<div ref="2">
+			[2] <persName ref="8126">Johannes Oporin</persName> wird einen vertraulichen Bericht über den Eid
+			zeigen, den die fünf Städte [<placeName ref="45">Biberach</placeName>,
+			<placeName ref="234">Isny</placeName>, <placeName ref="907">Kempten</placeName>,
+			<placeName ref="320">Memmingen</placeName> und <placeName ref="409">Ravensburg</placeName>
+			dem <persName ref="18538">Kaiser Karl V.</persName>] leisten mussten. Um die süddeutschen Städte ist es geschehen, sogar um
+			<placeName ref="1976">Augsburg</placeName>!
+		</div>
+		<div ref="3">
+			[3] <persName ref="2336">Bernardino Ochino</persName> ist nach <placeName ref="457">Konstanz</placeName> geflohen. So konnte er
+			der Auslieferungsforderung des Kaisers zuvorkommen. Auch <persName ref="2916">Sebastian Schertlin</persName> gelang die Flucht, doch ist
+			dessen Aufenthaltsort noch unbekannt. Wie es um <persName ref="8018">Johannes Haller</persName> und
+			die anderen [in <placeName ref="1976">Augsburg</placeName> wirkenden] Zürcher [<persName ref="8130">Lorenz Meyer</persName>, <persName ref="2812">Thoman Ruman</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.]</persName> steht, weiß Bullinger nicht. Der Zürcher Rat hat am Sonntag [30. Januar]
+			einen Boten [<persName ref="7193">Hans Zingg</persName>] dahin geschickt.
+		</div>
+		<div ref="4">
+			[4] <persName ref="19043">Anton Fugger</persName> hat den Frieden [zwischen <placeName ref="1976">Augsburg</placeName> und dem
+			Kaiser] ausgehandelt. Dadurch wird deutlich, dass <placeName ref="1976">Augsburgs</placeName> Unheil
+			von den „Zöllnern“ kommt. Das kaiserliche Versprechen, laut dem die
+			<placeName ref="1976">Augsburger</placeName> weiterhin ihre Religion frei ausüben dürfen, ist eine
+			List.
+		</div>
+		<div ref="5">
+			[5] <placeName ref="291">Lindau</placeName> soll ebenfalls kapituliert haben. Wie lange wird
+			<placeName ref="457">Konstanz</placeName> noch standhalten? Bischof <persName ref="7852">Johann von Weeze</persName> hat sich
+			angeboten, zwischen dieser Stadt und dem Kaiser zu vermitteln. Gott möge das Ende herbeiführen! Der Kaiser
+			lässt sich persönlich sehen, um zu zeigen, dass ihm nichts fehlt.
+		</div>
+		<div ref="6">
+			[6] Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> und Landgraf <persName ref="18574">Philipp von Hessen</persName> sollen sich tapfer halten. Ob das
+			stimmt, weiß Bullinger nicht. <persName ref="8418">Myconius</persName>, der wohl Nachrichten aus dem
+			Norden erhält, möchte diese doch jeweils mitteilen!
+		</div>
+		<div ref="7">
+			[7] Gruß.
+		</div>
+		<div ref="8">
+			[8] Die menschliche Treue ist dahin! Man muss sich zum Herrn wenden. Er wird die Seinen nicht verlassen,
+			auch wenn er sie derzeit mit Recht bestraft. Unterdessen sollen Bullinger und
+			<persName ref="8418">Myconius</persName> weiterhin das Wort des Lebens verkündigen!
+		</div>
+		<div ref="9">
+			[9] Segenswunsch.
+		</div>
+		<div ref="10">
+			[10] P.S.: Grüße an <persName ref="1278">Johannes Gast</persName>. Warum schweigt er denn so lange?
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2788" page="242">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">G[nad] und f[rid].</s>
+				<s n="2" lang="de" state="auto">Die sachen stand vast<fl>1</fl> ellendiklich der menschen halb,<fl>2</fl> aber der menschen halb, sag ich, nitt des herren halb, der gwüßlich sin eer retten<fl>a</fl> und unser heyl fürderet.<pb_edition start_of="243"/></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">Wie die 5 stett<fl>3</fl> ein fuͦßfal und eyd gethan, wirt üch <persName ref="8126">Oporinus</persName> zeigen;<fl>4</fl> doch spreytents nitt wyt<fl>5</fl>, dann<fl>6</fl> mitt soͤlichem geding<fl>7</fl> hab ich imms<fl>8</fl> gaͤben.</s>
+				<s n="4" lang="de" state="auto">Es ist überhin<fl>9</fl> umb und mitt allen oberlendischen stetten, ouch mitt <placeName ref="1976">Augspurg</placeName>.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="5" lang="de" state="auto"><persName ref="2336">Bernhardinus Ochinus</persName> ist gen <placeName ref="457">Constantz</placeName> endrunnen<fl>10</fl>, dann inn der keyser<fl>11</fl> herusgeforderet<fl>12</fl> sampt h. <persName ref="2916">Sebastian Schertli</persName>.</s>
+				<s n="6" lang="de" state="auto">Wo der hinkummen, weiß ich nitt.<fl>13</fl></s>
+				<s n="7" lang="de" state="auto">Wie es umb <persName ref="8018">Hallern</persName> und die unsern<fl>14</fl> stande, weiß ich nitt.</s>
+				<s n="8" lang="de" state="auto">Min herren habend hinuß sontags<fl>15</fl> ein louͤffer<fl>16</fl> gesandt.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="la" state="auto"><de><persName ref="19043">Anthoni Fugger</persName> hat den friden gemacht,<fl>17</fl></de> ut videamus hanc calamitatem oriri maxime ex publicanis.<fl>18</fl></s>
+				<s n="10" lang="de" state="auto">Der keyser hat inen zuͦgesagt, sy ze bliben lassen by irer religion und libertet.<fl>19</fl></s>
+				<s n="11" lang="la" state="auto">Sed fucus est; artes et mendacia sunt!</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="12" lang="de" state="auto">Lindow sol ouch überhin sin.<fl>20</fl></s>
+				<s n="13" lang="de" state="auto">Wie lang <placeName ref="457">Constantz</placeName> constans blib, weist gott!</s>
+				<s n="14" lang="de" state="auto">Der bischoff von Lunden<fl>21</fl> embüt sich vil vaͤtterlicher trüw und liebe, und wie er iren<fl>22</fl> by k[eyserlicher] m[ajestat] ein guͦten eerlichen friden bekommen woͤlle.</s>
+				<s n="15" lang="de" state="auto">Gott mache ein end dem ellenden laͤben!</s>
+				<s n="16" lang="de" state="auto">Der keyser sol sich fry saͤhen und hoͤren lassen, ye das es kein mangel ist,<fl>23</fl> dann<fl>24</fl> das er laͤpt.<fl>25</fl><pb_edition start_of="244"/></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="17" lang="de" state="auto"><persName ref="19065" state="auto_name">Saxen</persName><fl>26</fl> und <persName ref="18574">Hessen</persName><fl>27</fl> soͤllend sich dappffer umbthuͦn.<fl>28</fl></s>
+				<s n="18" lang="de" state="auto">Weiß ich nitt<fl>b</fl>, ob es war oder wie vil daran ist.</s>
+				<s n="19" lang="de" state="auto">Ich hoͤrte gern allwaͤg<fl>29</fl> von üch, was ir von under<fl>30</fl> heruff haͤttind, dann da soͤltend ir wol ettwas anzeigens haben.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="20" lang="de" state="auto">Gott mitt üch.</s>
+				<s n="21" lang="la" state="auto">2. februarii 1547.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="22" lang="la" state="auto">Parum aut nihil fidei,<fl>31</fl> soliditatis et constantiae video superesse apud homines.</s>
+				<s n="23" lang="la" state="auto">Proinde convertamur ad dominum, qui, etsi afflixerit nos pro meritis, attamen suis non deerit; ac simus, quaeso, fortes in domino, verbum vitae<fl>32</fl> et consolationis nobis commissum a deo annunciantes.</s>
+				<s n="24" lang="la" state="auto">Dominus aderit suis!</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="25" lang="la" state="auto">Vale iterum.</s>
+				<s n="26" lang="la" state="auto">Bullingerus tuus.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="27" lang="la" state="auto">Valeat plurimum <persName ref="1278">Gastius</persName>, de cuius silentio<fl>33</fl> plusquam nimio non possum satis mirari.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="28" lang="la" state="auto">D. <persName ref="8418">Myconio</persName> suo.</s>
+				<s n="29" lang="de" state="auto"><placeName ref="28">Basel</placeName>.<fl>34</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2788">
+		<alpha>
+			<fn ref="a"><i>Zu erwarten wäre</i> retten wird.</fn>
+			<fn ref="b">nitt <i>Fehlt in der Vorlage.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">sehr.</fn>
+			<fn ref="2">Hier im Sinne von "was die Menschen anbetrifft", und nicht im Sinne von "wegen der Menschen", da sonst die darauffolgende Angabe "nitt des herren halb" im Widerspruch mit der Aussage unten in Z. 26f stünde. -Für diese Bedeutung von "halb" s. <i>FNHDW</i> VII 905f.</fn>
+			<fn ref="3"><placeName ref="45">Biberach</placeName>, <placeName ref="234">Isny</placeName>, <placeName ref="907">Kempten</placeName>, <placeName ref="320">Memmingen</placeName> und <placeName ref="409">Ravensburg</placeName>. - Zur Ergebung dieser Orte s. <link fk_file="12790">Nr. 2741</link>, Anm. 4.</fn>
+			<fn ref="4">Dieser Angabe zufolge hat <persName ref="8126">Oporin</persName> bei seiner Abreise aus <placeName ref="587">Zürich</placeName> (s. dazu <link fk_file="12832">Nr. 2783</link>, Anm. 1) offensichtlich das Dokument mitgenommen, welches der <placeName ref="457">Konstanzer</placeName> Rat an den Zürcher Rat in Kopie (zusammen mit einem Begleitschreiben vom 26. Januar) übersandt hatte, und welches eine Zusammenfassung des Eids der fünf Städte enthielt; s. <link fk_file="12824">Nr. 2775</link>,20f.</fn>
+			<fn ref="5">spreytents nitt wyt: verbreitet es nicht weiter; s. <i>SI X</i> 951f.</fn>
+			<fn ref="6">denn.</fn>
+			<fn ref="7">Bedingung.</fn>
+			<fn ref="8">ihm es.</fn>
+			<fn ref="9">geschehen; s. <bibl>SI</bibl> II 1324.</fn>
+			<fn ref="10">gen <placeName ref="457">Constantz</placeName> endrunnen: nach <placeName ref="457">Konstanz</placeName> entronnen. - <persName ref="2336">Ochino</persName> traf dort am Abend des 29. Januars ein; s. <link fk_file="12831">Nr. 2782</link>,49f. Allerdings war er am Abfassungstag dieses Briefes bereits auf dem Weg von St. Gallen nach <placeName ref="587">Zürich</placeName>, wo er noch am gleichen Tag ankam; s. <link fk_file="12838">Nr. 2789</link>.</fn>
+			<fn ref="11"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="12">seine Auslieferung gefordert (hat). - Siehe dazu <link fk_file="12818">Nr. 2769</link>,10f; <link fk_file="12831">Nr. 2782</link>,49f; <link fk_file="12835">Nr. 2786</link>,9f.</fn>
+			<fn ref="13">Zu Schertlins Route s. <link fk_file="12818">Nr. 2769</link>, Anm. 18.</fn>
+			<fn ref="14"><persName ref="8130">Lorenz Meyer (Agricola)</persName>, <persName ref="2812">(Hans) Thoman Ruman (Römer)</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.</persName></fn>
+			<fn ref="15">30. Januar.</fn>
+			<fn ref="16"><persName ref="7193">Hans Zingg</persName> (1520-1580), dessen Reise 15 Tage dauerte; s. <placeName ref="587">Zürich</placeName> StA, F III 32, Seckelamtsrechnungen 1546/47, S. 67 der Ausgabenabteilung für laufende Boten. Zingg beförderte einen vom 30. Januar datierten Brief des Zürcher Rats an den <placeName ref="1976">Augsburger</placeName> Rat (<placeName ref="587">Zürich</placeName> StA, B IV 16, f. 133 - Entwurf), dem auch ein Schreiben desselben an <persName ref="8018">Haller</persName> beigelegt war; s. <link fk_file="12835">Nr. 2786</link>, Anm. 8; <link fk_file="12854">Nr. 2805</link>,1f.</fn>
+			<fn ref="17">Siehe dazu <link fk_file="12818">Nr. 2769</link>,6f.</fn>
+			<fn ref="18">In Anspielung auf die im Neuen Testament geäußerte scharfe Kritik gegen die Zolleinnehmer, die hier mit den Kaufleuten in Verbindung gebracht werden.</fn>
+			<fn ref="19">Siehe <link fk_file="12818">Nr. 2769</link>,7f; <link fk_file="12835">Nr. 2786</link>,22-26.</fn>
+			<fn ref="20">Siehe dazu <link fk_file="12795">Nr. 2746</link>, Anm. 9.</fn>
+			<fn ref="21"><persName ref="7852">Johann von Weeze</persName>, nominell seit 1522 Erzbischof von Lund (Schweden). - Zur Sache s. <link fk_file="12833">Nr. 2784</link>,10-13.</fn>
+			<fn ref="22">ihnen.</fn>
+			<fn ref="23">ye das es kein mangel ist: Damit alle gut sehen können, dass ihm nichts fehlt.</fn>
+			<fn ref="24">sondern; s. <bibl>SI</bibl> XIII 33.</fn>
+			<fn ref="25">Zu den Gerüchten um den angeblichen Tod des Kaisers s. die in <link fk_file="12831">Nr. 2782</link>, Anm. 20, angeführten Stellen.</fn>
+			<fn ref="26">Kurfürst <persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="27">Landgraf <persName ref="18574">Philipp von Hessen</persName>.</fn>
+			<fn ref="28">eifrig tätig sein; vgl. <bibl>SI</bibl> XIII 387. -Diese Meldung kann kaum stimmen, da der Kurfürst, der von <placeName ref="284">Leipzig</placeName> abgezogen war, wegen der Kälte sein Kriegsvolk nicht länger im Feld halten konnte (s. <bibl>Mentz</bibl> III 556. Nr. 74) und sein Winterlager in bzw. um <placeName ref="1530">Altenburg</placeName> nahm (s. <bibl>Voigt, Moritz</bibl> 308. 311). Der Landgraf zeigte sich in jenen Tagen sehr unschlüssig; s. <bibl>PC</bibl> IV/1 596f, Nr. 551.</fn>
+			<fn ref="29">jeweils.</fn>
+			<fn ref="30">von under: aus dem Norden. - Hier ist besonders die Stadt <placeName ref="492">Straßburg</placeName> gemeint, mit der <persName ref="8418">Myconius</persName> in brieflichem Kontakt stand.</fn>
+			<fn ref="31">Vgl. Ps 146 (Vulg. 145), 2f.</fn>
+			<fn ref="32">Joh 6, 68; Apg 5, 20.</fn>
+			<fn ref="33"><persName ref="1278">Gast</persName> hatte zuletzt zwischen dem 15. und dem 19. Januar (<link fk_file="12802">Nr. 2753</link>) an Bullinger geschrieben.</fn>
+			<fn ref="34">Der Überbringer dieses Briefes könnte der oben in Z. 4 erwähnte <persName ref="8126">Oporin</persName> gewesen sein.</fn>
+		</num>
+	</footnotes>
+</file>

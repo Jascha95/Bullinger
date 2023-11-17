@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12785" id_hbbw="2736" id_irg_sort="2736" id_sort="127360">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12785</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2736</arpa>
+		<scan_pages>
+			<scan id="29885" dir="12785/Autograph/" page="1">00 E_II_366__fol__42_r_.tif</scan>
+			<scan id="29886" dir="12785/Autograph/" page="2">01 E_II_366__fol__42_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26093" vf="1" fk_add_type="1">
+				<person id="8032" fk_id="8032">
+					<name>Dryander (de Enzinas)</name>
+					<forename>Franciscus</forename>
+				</person>
+				<place id="28" vf="" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26094" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12785">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">1</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19347">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 366,42</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="8995" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Boehmer, Dryander 403f, Nr. 17</entry>
+			</print>
+			<print id="8996" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Enzinas BW 160–163, Nr. 20</entry>
+			</print>
+			<print id="8997" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Enzinas BW 160–163, Nr. 20</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="23">
+				<lang id="5" iso="la" count="23" p="100.0"/>
+			</sentences>
+			<words count="308">
+				<lang id="5" iso="la" count="308" p="100.0"/>
+			</words>
+			<chars count="1830">
+				<lang id="5" iso="la" count="1830" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2736" page="75">
+		<div ref="1">
+			[1] Es tut <persName ref="8032">Enzinas</persName> furchtbar leid, dass er weder zu Weihnachten noch jetzt mit <persName ref="5213">Johannes Herwagen</persName> nach
+			Zürich gekommen ist. Er hätte so gerne die Gottesdienstform der Zürcher kennen gelernt und sich mit
+			Letzteren ausgetauscht. Doch wird er derzeit leider wegen Bagatellen davon abgehalten. Wenn nichts
+			Unerwartetes eintrifft, hofft er, in etwa 20 Tagen die geplante Reise anzutreten.
+		</div>
+		<div ref="2">
+			[2] <persName ref="18538">Kaiser Karl V.</persName> soll von den Toten auferstanden sein und unerwartet gesiegt haben. Vielleicht entspricht
+			dies Gottes Plan, ihn nämlich nach einem Sieg noch tiefer fallen zu lassen; denn <persName ref="8032">Enzinas</persName> kann nicht glauben,
+			dass Gott seine Kirche diesem Tyrannen ausliefern wird. Bestimmt will er nun die Seinen züchtigen.
+		</div>
+		<div ref="3">
+			[3] <persName ref="8032">Enzinas</persName> fragt sich, ob die Helvetier klug handeln, wenn sie in diesen gefährlichen Zeiten, die für sie
+			noch bedrohlicher sind als für die deutschen Protestanten, auch weiterhin nichts tun. Ferner wird der Kaiser
+			sich jedes einzelnen [Ortes] viel leichter bemächtigen können, als wenn alle [Orte] zusammenhielten.
+			Demzufolge wäre es ganz unvernünftig, wenn einige [Orte]<fl>1</fl> allein in den Kampf zögen, weil die
+			anderen ihnen nicht helfen wollen. Doch was vermag die menschliche Hilfe? Der Sieg kommt ja vom Himmel.
+		</div>
+		<div ref="4">
+			[4] <persName ref="18250">Herzog Moritz von Sachsen</persName> soll vom dänischen <persName ref="18449">König Christian III.</persName> und von den <entity id="20136" type="group">Hansestädten</entity> geschlagen
+			worden sein. Wenn dies nur wahr wäre! Wissen die Zürcher etwas dazu?
+		</div>
+		<div ref="5">
+			[5] Der für <persName ref="1227">Christoph Froschauer</persName> bestimmten Sendung des Basler Buchhändlers
+			<persName ref="6073">Heinrich Petri</persName> hat <persName ref="8032">Enzinas</persName> ein Buch [...] für <persName ref="6355">Hieronymus Sailer</persName>
+			beigelegt. Sobald Bullinger dieses erhält, möchte er es an <persName ref="6355">Sailer</persName> weiterleiten. Das Gleiche gilt auch für
+			den Brief. <persName ref="8032">Enzinas</persName> wird Bullinger all die dadurch entstandenen Ausgaben zurückerstatten, sogar mit einem
+			Zins.
+		</div>
+		<div ref="6">
+			[6] Grüße an <persName ref="8127">Konrad Pellikan</persName> und <persName ref="8171">Theodor Bibliander</persName>, denen <persName ref="8032">Enzinas</persName>
+			ein gutes neues Jahr wünscht. Auch Bullinger und dessen Familie wünscht er alles Gute.
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2736" page="75">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. D.</s>
+				<s n="2" lang="la" state="auto">Valde doleo neque ad festum natalis Christi potuisse ad vos venire neque iam posse cum <persName ref="5213">Hervagio</persName>.</s>
+				<s n="3" lang="la" state="auto">Alioqui nihil mihi gratius fuisset quam vestros ritus ecclesiasticos videre vestraque frui consuetudine.</s>
+				<s n="4" lang="la" state="auto">Sed impeditus rebus non ita magni momenti venire non potui.</s>
+				<s n="5" lang="la" state="auto">Ubi me ex hoc pistrino explicavero, quod intra dies viginti futurum spero, sine dubio veniam, nisi quid aliud interea contingat divinitus.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="6" lang="la" state="auto">Audio <persName ref="18538" state="auto_name">imperatorem</persName><fl>2</fl> revixisse sibique gratulari istam sibi optatam atque insperatam victoriam; facile est vincere non repugnantes.</s>
+				<s n="7" lang="la" state="auto">Fortassis deus vult eum collocare in sublimi quodam dignitatis gradu, ut eo tandem ex altiore loco praecipitetur, velle autem huic tyranno tradere suam ecclesiam laniandam nunquam credam.</s>
+				<s n="8" lang="la" state="auto">Interim nos peracerbe castigamur, quod utinam in salutem nostram convertatur, sicut vere deo credentibus solet contingere.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="9" lang="la" state="auto">Caeterum in tanto periculo publico nescio an sapienter ab Helvetiis factum videatur, quod in tanta causa, in qua non minus aut etiam magis ipsi quam reliqui evangelii professores petantur, nondum se moverint, neque scio an aliquid etiamnum certi ab ipsis sperandum esse videatur.</s>
+				<s n="10" lang="la" state="auto">Imperator facilius franget singulos quam coniunctos, et metuendum est, ne soli cogantur pugnare, qui cum aliis noluerunt.</s>
+				<s n="11" lang="la" state="auto">Video auxilia humana nulla esse.</s>
+				<s n="12" lang="la" state="auto">De coelo nobis speranda erit victoria neque dubitandum adfuturum esse invocantibus vera fide etiam in rebus afflictissimis.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="13" lang="la" state="auto">Accepimus <persName ref="18250" state="auto_name">Mauricium</persName><fl>3</fl> esse fusum et fugatum a rege <persName ref="18449" state="auto_name">Daniae</persName><fl>4</fl> et maritimis civitatibus.</s>
+				<s n="14" lang="la" state="auto">Utinam sit verum!</s>
+				<s n="15" lang="la" state="auto">Si quid habes, quod posset nos aliqua molestia levare, communica nobis.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="16" lang="la" state="auto">In vasculo librorum bibliopolae <persName ref="6073">Petri</persName> ad vestrum typographum<fl>5</fl> misi librum ad <persName ref="6355">Sailerum</persName>; quaeso, ut, cumprimum accipias, ad eum transmitti iubeas, et literas mittes primo nuncio.</s>
+				<s n="17" lang="la" state="auto">Quicquid in istiusmodi rebus vel sumptus vel laboribus imponetur, rependam omniam etiam cum foenore.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="18" lang="la" state="auto">Saluta meis verbis patrem <persName ref="8127">Pellicanum</persName>, d. <persName ref="8171">Theodorum</persName><fl>6</fl> et reliquos fratres, quibus omnibus foelicem huius anni auspicium precaberis.</s>
+				<s n="19" lang="la" state="auto">Tibi ego cum tota familia fausta omnia opto.</s>
+			</p>
+			<p>
+				<s n="20" lang="la" state="auto">Bene vale, primo die anni 1547.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Tuus Franciscus Dryander.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="22" lang="la" state="auto">Clarissimo viro domino Henrico Bullingero.</s>
+				<s n="23" lang="la" state="auto">Tiguri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2736">
+		<alpha/>
+		<num>
+			<fn ref="1">Gemeint sind die vier protestantischen Orte.</fn>
+			<fn ref="2"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="3"><persName ref="18250">Moritz von Sachsen</persName>.</fn>
+			<fn ref="4"><persName ref="18449">Christian III.</persName></fn>
+			<fn ref="5"><persName ref="1227">Christoph Froschauer</persName>.</fn>
+			<fn ref="6"><persName ref="8171">Theodor Bibliander</persName>.</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2736" page="75"/>
+			<footnotes fk_bibliography="22" nr="2736">
+				<alpha/>
+				<num>
+					<fn ref="1">Gemeint sind die vier protestantischen Orte.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

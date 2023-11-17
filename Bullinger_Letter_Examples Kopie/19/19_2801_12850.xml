@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12850" id_hbbw="2801" id_irg_sort="2801" id_sort="128010">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12850</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2801</arpa>
+		<scan_pages>
+			<scan id="30074" dir="12850/Autograph/" page="1">00 E_II_364__S__83_.tif</scan>
+			<scan id="30075" dir="12850/Autograph/" page="2">01 E_II_364__S__84_.tif</scan>
+			<scan id="30076" dir="12850/Autograph/" page="3">02 E_II_364__S__78_a_.tif</scan>
+			<scan id="30077" dir="12850/Autograph/" page="4">03 E_II_364__S__78_b_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26244" vf="1" fk_add_type="1">
+				<person id="4082" fk_id="4082">
+					<name>Zwick</name>
+					<forename>Konrad</forename>
+				</person>
+				<place id="257" vf="1" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26245" vf="0" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12850">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">7</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19417">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 364,83 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12355" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2801, S. 279</entry>
+				<page>279</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="11">
+				<lang id="1" iso="de" count="9" p="81.8"/>
+				<lang id="5" iso="la" count="2" p="18.2"/>
+			</sentences>
+			<words count="330">
+				<lang id="1" iso="de" count="324" p="98.2"/>
+				<lang id="5" iso="la" count="6" p="1.8"/>
+			</words>
+			<chars count="1759">
+				<lang id="1" iso="de" count="1728" p="98.2"/>
+				<lang id="5" iso="la" count="31" p="1.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2801" page="278">
+		<div ref="1">
+			[1] Nachdem <persName ref="6182">Jörg Regelin</persName> am Morgen abgereist war, erhielt <persName ref="4082">Zwick</persName> die Nachricht, dass <persName ref="18538">Kaiser Karl V.</persName> den XIII
+			Orten geschrieben hat, er wolle <placeName ref="1976">Augsburg</placeName>,
+			<placeName ref="492">Straßburg</placeName>, <placeName ref="457">Konstanz</placeName> und
+			<placeName ref="291">Lindau</placeName><pb_edition start_of="279"/> strafen, und erwarte deshalb
+			von ihnen, dass sie diesen Städten nicht zu Hilfe kommen. Da dieses Schreiben erst nach der letzten
+			Tagsatzung eingetroffen ist, sollte man versuchen, <persName ref="7637">König Franz I.</persName> dazu zu bringen, die Eidgenossen
+			anzuhalten, sich mit folgender Bitte an den Kaiser zu wenden: Er solle nichts gegen
+			<placeName ref="457">Konstanz</placeName> unternehmen, da diese Stadt sich bisher allen Nachbarn
+			gegenüber friedlich erwiesen hat, dies wohl auch künftig tun wird, er also von ihrer Seite nichts zu
+			befürchten habe, und die Eidgenossen sich ihm gegenüber dafür erkenntlich zeigen werden.
+		</div>
+		<div ref="2">
+			[2] Falls man solch ein Schreiben nicht erlangen könnte, sollte man den Brief des Kaisers geheim halten,
+			und die vier protestantischen Orte sollten einen etwaigen nachteiligen Beschluss der XIII Orte gegenüber
+			<placeName ref="457">Konstanz</placeName> weder annehmen noch ablehnen, sondern diesen für ihre
+			Räte zur Besprechung mitnehmen, gleichzeitig aber die anderen Orte darauf aufmerksam machen, dass die
+			Angelegenheit besonders gut überdacht werden muss, da <placeName ref="457">Konstanz</placeName>
+			eine strategisch wichtige Stadt für die Eidgenossenschaft darstellt und die Vier Orte ihr gegenüber
+			[freundlich] gesinnt sind. Die anderen Orte wären dadurch nicht verärgert, und wenn der [kaiserliche] Gegner
+			davon erführe, würde ihn dies davon abhalten, etwas gegen <placeName ref="457">Konstanz</placeName>
+			zu unternehmen.
+		</div>
+		<div ref="3">
+			[3] Die Ratsgremien der Vier Orte sollten die Angelegenheit den jeweiligen Geheimen Räten zur Beratung
+			anvertrauen, damit diese erneut [auf einer Tagsatzung] besprochen werden kann. Sollte es dann zu keiner
+			gemeinsamen Stellungnahme [der Eidgenossen] kommen, so bliebe immerhin der Feind [über deren Absichten] im
+			Unklaren.
+		</div>
+		<div ref="4">
+			[4] <persName ref="4082">Zwick</persName> sucht mit allen Mitteln, eine Ergebung <placeName ref="457">Konstanz</placeName>’
+			hinauszuzögern und den <placeName ref="457">Konstanzer</placeName> Rat mit irgendwelchen
+			menschlichen Hoffnungen zu versehen, denn sonst würde dieser sich wohl wie die anderen Städte ebenfalls
+			ergeben. Gott erbarme sich!
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2801" page="279">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">L[ieber] herr und fruind, nachdem <persName ref="6182">Jerg Regelin</persName> hütt morgens hinweg gangen,<fl>2</fl> kumpt mir kuntschafft, das der kaiser<fl>3</fl> den 13 ortten geschriben, wie er willens sye, <placeName ref="1976">Augspurg</placeName>, <placeName ref="492">Straßburg</placeName>, <placeName ref="457">Costentz</placeName> und Lindo zuͦ straffen, mit beger, das sy sich deren stett nichts beladen wellend, etc.</s>
+				<s n="2" lang="de" state="auto">Wo nun solich schriben uff dem nechsten tag zuͦ <placeName ref="21">Baden</placeName><fl>4</fl> nit gwesen und erst sydert<fl>5</fl> kummen were, geduchte mich<fl>6</fl>, es were guͦt, wo man die practick<fl>7</fl> anrichten kuindt<fl>8</fl>, das der Frantzoß<fl>9</fl> by den Aidgnosen anhielte, das sy die kay[serlich] may[estat] bettent<fl>10</fl>, diewyl sy nit anderst wisstent, dann<fl>11</fl> das die von <pb_edition start_of="280"/> <placeName ref="457">Costentz</placeName> sich bißher gegen allen nachpuren fridlich gehalten und dasselbig on zwyfel hinfur ouch thuͦn wurdent, und ir may[estat] sich irenthalb nit zuͦ befaren hette<fl>12</fl>, das dan die k. may. noch zur zit<fl>13</fl> gegen der statt <placeName ref="457">Costentz</placeName> still ston und nichts beschwerlichs gegen ir furnemmen wellte; das weltent sy, etc., verdienen.<fl>14</fl></s>
+				<s n="3" lang="de" state="auto">Ain solliche mainung<fl>15</fl> moͤcht wol erschießen.<fl>16</fl></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="de" state="auto">Mag aber ouch ain sollichs nit erlangt werden, so were doch guͦt, das es haimlich blib und die evangelischen oͤrtter<fl>17</fl> der anderen Aidgnosen schluss<fl>18</fl>, der wider uns sin wurde, nit bewilligetent noch abschluͤgent, sonder annemment hinder sich zuͦ bringen<fl>19</fl> und baß<fl>20</fl> zuͦ berathschlagen, mit anzaigung, diewyl sy wissent, waß gemainer Aidgnoschafft an diser statt<fl>21</fl> gelegen und wie ire gmainden der statt halb gesinnet, so werde irer herren notturfft erforderen, den sachen wol nachzuͦgedencken.</s>
+				<s n="5" lang="de" state="auto">Solichs kuindtent die Aidgnosen nit zürnnen, und so es ußkemme, wurde der gegentail<fl>22</fl> gewißlich dester minder<fl>23</fl> ettwas furnemmen.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="6" lang="de" state="auto">In den raͤten<fl>24</fl> kuindte man<pb_scan n="84"/> die sach also anrichten, das man die beratschlagung ettlichen als<fl>25</fl> den gehaimen bevelhe uff ain wideranbringen.<fl>26</fl></s>
+				<s n="7" lang="de" state="auto">Wurdent dann kaine guͦte mittel gefunden, so blib doch die sach in gehaim, und wisstent die find nit, weß man bedacht were.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="8" lang="de" state="auto">Ach gott, ich wolt gern weg suͦchen, wie die sach verzogen<fl>27</fl> werden moͤcht, und das mine hernn nit alles menschlichen trosts beruͦbt wurdent, dann sunst sorg ich, wir werdent thuͦn wie ander.</s>
+				<s n="9" lang="de" state="auto">Gott erbarm sich unser umb Christi Iesum willen.</s>
+				<s n="10" lang="la" state="auto">Datum 7. februarii 47.</s>
+				<s n="11" lang="la" state="auto"><persName ref="4082">Conrat Zwick</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse<fl>a</fl>]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2801">
+		<alpha>
+			<fn ref="a"><i>Darunter Bullingers Empfangsvermerk: 7.</i> februarii.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Der Empfänger ergibt sich aus der Erwähnung des Boten Jörg Regeln (Z. 1f), dem <persName ref="4082">Zwicks</persName> erster Brief dieses Tages anvertraut wurde (vgl. <link fk_file="12849">Nr. 2800</link>,72-76), wie auch aus dem Inhalt des vorliegenden Briefs.</fn>
+			<fn ref="2">Siehe dazu oben Anm. 1.</fn>
+			<fn ref="3"><persName ref="18538">Karl V.</persName> - Es handelt sich um den Brief des Kaisers an die XIII Orte vom 18. Januar, der am Abend des 28. Januars in <placeName ref="21">Baden</placeName> eingetroffen war; s. <bibl>EA</bibl> IV/1d 763 zu a. Am 7. Februar informierte der St. Galler Seckelmeister, <persName ref="4686">Ambrosius Eigen</persName>, den Geheimen Rat von <placeName ref="457">Konstanz</placeName> über dieses Schreiben (s. aaO, S. 765) entsprechend den hier vorgebrachten Aussagen <persName ref="4082">Zwicks</persName>. - Man muss sich jedoch fragen, ob die von Eigen vermittelte Information tatsächlich im kaiserlichen Schreiben enthalten war, und ob der in aaO, 781f zu h und 1, abgedruckte und vermutlich irrtümlich auf den 13. Januar datierte Brief des Kaisers an die XIII Orte nicht mit dem hier erwähnten Schreiben identisch ist. Dass in der Veröffentlichung dieses angeblich vom 13. Januar datierten Schreibens keine Stelle den Aussagen Eigens bzw. <persName ref="4082">Zwicks</persName> entspricht. kann wie folgt erklärt werden: 1) Die entsprechende Stelle wurde in der in <bibl>EA</bibl> IVd/1, 781f, erfolgten Teilveröffentlichung nicht berücksichtigt; 2) Die durch Eigen übermittelten Informationen waren falsch.</fn>
+			<fn ref="4">Gemeint ist die vergangene ("nechste") Tagsatzung zu <placeName ref="21">Baden</placeName>, die am 10. Januar begonnen hatte; s. <link fk_file="12786">Nr. 2737</link>, Anm. 3.</fn>
+			<fn ref="5">seither.</fn>
+			<fn ref="6">geduchte mich: schiene mir.</fn>
+			<fn ref="7">geheime Verhandlung; s. <bibl>SI</bibl> V 568.</fn>
+			<fn ref="8">könnte.</fn>
+			<fn ref="9">Franz Ï.</fn>
+			<fn ref="10">hüten.</fn>
+			<fn ref="11">als.</fn>
+			<fn ref="12">sich irenthaib nit zü befaren hette: keine Angst vor ihnen haben müsste.</fn>
+			<fn ref="13">zur zit: derzeit.</fn>
+			<fn ref="14">vergelten.</fn>
+			<fn ref="15">Antrag.</fn>
+			<fn ref="16">nützen; s. <bibl>SI</bibl> VIII 1391-1393.</fn>
+			<fn ref="17">Basel, Bern, Schaffhausen und Zürich.</fn>
+			<fn ref="18">Beschluss.</fn>
+			<fn ref="19">annemment hinder sich zill bringen: mitnehmen würden, um ihn ihren jeweiligen Räten zu unterbreiten.</fn>
+			<fn ref="20">besser.</fn>
+			<fn ref="21"><placeName ref="457">Konstanz</placeName>.</fn>
+			<fn ref="22">(kaiserliche) Gegner.</fn>
+			<fn ref="23">dester minder: umso weniger.</fn>
+			<fn ref="24">den Ratsgremien der jeweiligen Orte.</fn>
+			<fn ref="25">wie.</fn>
+			<fn ref="26">ein erneutes Vorbringen (an einer künftigen Tagsatzung).</fn>
+			<fn ref="27">verzögert. - Angesprochen ist hier die Übergabe von <placeName ref="457">Konstanz</placeName> an den Kaiser.</fn>
+		</num>
+	</footnotes>
+</file>

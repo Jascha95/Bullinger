@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11271" id_hbbw="1228" id_irg_sort="1228" id_sort="112280">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11271</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1228</arpa>
+		<scan_pages>
+			<scan id="26220" dir="11271/Kopie/" page="1">00 StAGR_A-Sp-III-11a-VI-B-7-4_Bullinger_01.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22862" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22863" vf="1" fk_add_type="1">
+				<person id="8451" fk_id="8451">
+					<name>Travers</name>
+					<forename>Johannes (Gian)</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="11271">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">21</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17745">
+				<doc_type id="7">Kopie</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="24" fk_place="98">StAGR</archive>
+				<signature>A Sp III/11a VI. B. 7.4</signature>
+				<signature_old>A Sp III/11a, VI. B. 7. 4, S. 332</signature_old>
+				<author>a Porta, Petrus Dominicus Rosius</author>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9527" fk_bib="0">
+				<entry>Petrus Dominicus Rosius a Porta, Historia reformationis ecclesiarum Raeticarum, Tomus I/1, Chur 1771, S. 193f</entry>
+			</print>
+			<print id="9528" fk_bib="0">
+				<entry>Graubünden, Korr. I, S. 13f, Nr. 12</entry>
+			</print>
+			<print id="9529" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Wilhelm Jenny, Johannes Comander</entry>
+			</print>
+			<print id="9530" fk_bib="0">
+				<entry>Lebensgeschichte des Reformators der Stadt Chur, Bd. I, Zürich 1969, S. 281f</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="19">
+				<lang id="5" iso="la" count="19" p="100.0"/>
+			</sentences>
+			<words count="368">
+				<lang id="5" iso="la" count="368" p="100.0"/>
+			</words>
+			<chars count="2349">
+				<lang id="5" iso="la" count="2349" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1228" page="62">
+		<div ref="1">
+			Ermuntert <persName ref="6831">Travers</persName>, Wissenschaft und Gelehrte zum Wohle von Staat und
+			Kirche zu fördern, denn deren Geringschätzung zerstört die Gesetze, schwächt die Staatswesen und läßt die
+			Kirchen zugrunde gehen. Die römische Kirche etwa konnte ihren Kult dank Schulen und Klöstern innerhalb von
+			zwei Jahrhunderten im ganzen Westen durchsetzen; es müssen daher jetzt Schulen errichtet werden, um der
+			wahren Religion und der Gerechtigkeit zum Durchbruch zu verhelfen. Bittet
+			<persName ref="6831">Travers</persName>, sich mit aller Kraft für deren Errichtung und Erhaltung
+			einzusetzen. Läßt <persName ref="6827">Anton Travers</persName>
+			grüßen.
+		</div>
+	</regest>
+	<letter lang="la" edition="GR" vol="I" fk_bibliography="39" nr="12" page="13">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. Gratiam et vitae innocentiam a Domino.</s>
+				<s n="2" lang="la" state="auto">Pietas et humanitas, vir clarissime, quam omnes boni in te praedicant Deoque omnium bonorum datori unico gratias agunt, effecit, ut hasce ad te litteras meas scribere coeperim.</s>
+				<s n="3" lang="la" state="auto">Volo autem iis te in Domino hortari, ut, quod diligenter facis, pergas strenue et semper agere, favere videlicet pietati, litteris ac litteratis.</s>
+				<s n="4" lang="la" state="auto">Nihil hic loquor de litteratis quibusdam ostentatoribus et hominibus stolidis, quorum eruditio nemini prodest adeoque ne ipsis quidem, qui possident; sed de iliis loquor, qui scientiae suae coniunxerunt sanctam et Dei et proximi dilectionem atque ideo omnibus prodesse cupiunt, obesse nemini, qui gloriam servatoris et dilecti domini Iesu Christi promovent, iustitiam et innocentiam docent, veram religionem constanter tradunt, iniustitiam, flagitia, libidinem et superstitionem impugnant, sternunt, opprimunt.</s>
+				<s n="5" lang="la" state="auto">Hinc enim incolumitatem regnorum, multorum hominum salutem et gloriam et vitam immortalem existere videmus.</s>
+				<s n="6" lang="la" state="auto">Rursus experientia docti certo novimus negligentia et contemtu litterarum et litteratorum perire leges, flaccescere respublicas et totas pessumire ecclesias.</s>
+				<s n="7" lang="la" state="auto">Viderunt hoc ante aliquot secula pontificis Romani consiliarii, religionem scilicet et ritus Romanae ecclesiae in occidentis regna plane non posse transfundi, nisi institutis scholis, ex quibus prodirent, qui legibus, concionibus et orationibus evidentibus hominum inclinarent animos.</s>
+				<s n="8" lang="la" state="auto">Constituta sunt ergo collegia et coenobia, ex quibus prodiere viri artibus et ad dicendum persuadendumque instructi, qui uno atque altero seculo totum occidentem Romanae subdiderunt cathedrae.</s>
+				<s n="9" lang="la" state="auto">Nisi igitur insanimus et male grati Christo redemtori esse volumus, scholas etiam nostro seculo instaurabimus, in quibus artes quidem sobrie et inprimis divina puritas religionis biblica adolescentibus diligenter tradatur.</s>
+				<s n="10" lang="la" state="auto">Ex his enim prodibunt haud dubie post annos aliquot, qui superstitionem et omnem iniustitiam accusabunt et damnatam in exsilium deportari efficient, rursus qui verae religionis et iustitiae doctrina patriam salvam et gratissimas Christo ecclesias conservabunt.</s>
+				<s n="11" lang="la" state="auto">Vides pro tua prudentia, quantum patriae et ecclesiae bonum exhibeant, qui litteras restituunt et litteratis adsunt.</s>
+				<s n="12" lang="la" state="auto">Iam vero, quid apud tuos possis, non ignoras nec, quid debes, nescis.</s>
+				<s n="13" lang="la" state="auto">Quid igitur restat aliud, quam ut totus e viribus omnino omnibus tuis ad studia reparanda et conservanda convertaris?</s>
+				<s n="14" lang="la" state="auto">Vivit enim, aeternum vivit, qui pro hoc pulcherrimo et honestissimo instituto tuo lauream tibi paravit.</s>
+				<s n="15" lang="la" state="auto">Dominus Iesus servet te.</s>
+				<s n="16" lang="la" state="auto">Tiguri, 21. Februarii, anno 1539.</s>
+				<s n="17" lang="la" state="auto">Salutabis <persName ref="6827">Antonium Traversum</persName>.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Heinrychus Bullingerus tuus.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Clarissimo viro <persName ref="6831">Ioanni Traverso</persName>, inter Rhetos viro primario, domino suo colendissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="39" nr="12"/>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1228" page="62"/>
+			<footnotes fk_bibliography="11" nr="1228">
+				<alpha>
+					<fn ref="a"><i>Autograph verschollen; vgl. Oskar</i> Vasella, <i>Wo ist der Briefwechsel des Johann Travers?, in: Bündnerisches Monatsblatt 1942, Nr. 9, S. 261-264.</i></fn>
+				</alpha>
+				<num>
+					<fn ref="1" type="bio"><persName ref="6831">Johannes Travers</persName>, 1483-1563, von Zuoz, einem adeligen Geschlecht entstammend, erwarb sich früh eine hohe humanistische Bildung (1505 Immatrikulation in Leipzig). 1515 nahm er an der Schlacht von Marignano teil, und in den Müsserkriegen führte er Bündner Truppen an. Er diente dem Oberengadin viele Jahre als Landschreiber und als Landammann und war zudem häufig als Gesandter an Tagsatzungen oder in diplomatischer Mission bei ausländischen Potentaten. Er stand mit Calvin, Glarean, Melanchthon u. a. in brieflicher Verbindung. Im Jahre 1539 setzte er sich - bestärkt durch den vorliegenden Brief Bullingers - kraftvoll für die Errichtung einer Lateinschule in Chur ein. Der auch literarisch tätige Travers suchte das Romanische zur Schriftsprache zu erheben. Den Reformideen gegenüber verhielt er sich vorerst distanziert, bekannte sich aber zu Beginn der fünfziger Jahren zur Reformation, förderte deren Durchführung im Oberengadin und predigte bisweilen selbst. Sein Widerstand gegen die Säkularisierung des Bistums Chur 1560 entfremdete ihn Bullinger, mit dem er einen freundschaftlichen Briefwechsel gepflegt hatte; 37 Briefe sind aus ihrer Korrespondenz erhalten geblieben. - Lit.: Constant <i>Wieser,</i> Johann Travers 1483-1563, in: Bedeutende Bündner aus fünf Jahrhunderten, Bd. I, Chur 1970, S. 43-61; <bibl>Graubünden, Korr.</bibl> I LIII-LVI; Conradin <i>Bonorand,</i> Personenkommentar II zum Vadianischen Briefwerk, St. Gallen 1983. - Vadian-Studien, 11, S. 388; <i>ders.,</i> Vadian und Graubünden. Aspekte der Personenund Kommunikationsgeschichte im Zeitalter des Humanismus und der Reformation, Chur 1991. - Quellen und Forschungen zur Bündner Geschichte, 3, S. 121f; <bibl>HBLS</bibl> VII 38f.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

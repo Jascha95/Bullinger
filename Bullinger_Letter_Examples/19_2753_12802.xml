@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12802" id_hbbw="2753" id_irg_sort="2753" id_sort="127530">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12802</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2753</arpa>
+		<scan_pages>
+			<scan id="29943" dir="12802/Autograph/" page="1">00 E_II_366__fol__105_r_.tif</scan>
+			<scan id="29944" dir="12802/Autograph/" page="2">01 E_II_366__fol__105_v_.tif</scan>
+			<scan id="29945" dir="12802/Autograph/" page="3">02 E_II_366__fol__105_a_r_.tif</scan>
+			<scan id="29946" dir="12802/Autograph/" page="4">03 E_II_366__fol__105_a_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26135" vf="1" fk_add_type="1">
+				<person id="1278" fk_id="1278">
+					<name>Gast</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="28" vf="" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26136" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12802">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">15</day>
+			</min>
+			<max fk_d="0" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">19</day>
+			</max>
+		</date>
+		<documents>
+			<document id="19365">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 366,105–105a</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12373" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2753, S. 125</entry>
+				<page>125</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="51">
+				<lang id="1" iso="de" count="18" p="35.3"/>
+				<lang id="5" iso="la" count="33" p="64.7"/>
+			</sentences>
+			<words count="495">
+				<lang id="1" iso="de" count="205" p="41.4"/>
+				<lang id="5" iso="la" count="290" p="58.6"/>
+			</words>
+			<chars count="2779">
+				<lang id="1" iso="de" count="1040" p="37.4"/>
+				<lang id="5" iso="la" count="1739" p="62.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2753" page="124">
+		<div ref="1">
+			[1] Was soll man denn noch schreiben? Der Mensch ist nichtig, unnütz und unzuverlässig! Kaum wurden [die
+			Protestanten] von Gott erprobt, haben sie sich schon den gottlosen papistischen Satzungen unterstellt! Was
+			wäre passiert, wenn sie es mit einem noch schwereren Kreuz zu tun gehabt hätten? Bestimmt hätten sie
+			Christus verleugnet! <persName ref="1278">Gast</persName> übertreibt nicht die List der Pseudoevangelischen!
+		</div>
+		<div ref="2">
+			[2] Das Geld, das er für [den Kauf der für Bullingers Frau <persName ref="8051">Anna, geb. Adlischwyler</persName>, bestimmten] Wolle
+			[ausgegeben hat], hat er zurückerhalten. Seine Gattin <persName ref="4970">[Apollonia, geb. Glaser]</persName> bedankt sich für die
+			beigelegten Geschenke. Sie hat vor, sich dafür zu revanchieren.
+		</div>
+		<div ref="3">
+			[3] Der fromme Herzog <persName ref="1546">Christoph von Württemberg</persName> hat sich mit seiner Frau [Anna Maria, geb.
+			Brandenburg-Ansbach] in <placeName ref="28">Basel</placeName> niedergelassen. Man erwartet nun Graf
+			<persName ref="8098">Georg [von Württemberg-Mömpelgard]</persName> mit seinem ganzen Haus und mit allen Predigern [seiner Herrschaft].
+			Wahrscheinlich ist <persName ref="18538">Kaiser Karl V.</persName> ihm gegenüber gnadenlos. Dieser hat dem Grafen eine enorme Geldbuße
+			auferlegt. Entweder wird der Graf diese bezahlen oder sein Gebiet <persName ref="7637">König Franz I. von Frankreich</persName> verkaufen
+			oder verpfänden müssen, bis der Zorn des Kaisers sich legt. Bullinger weiß bestimmt, dass <persName ref="1546">Herzog Christoph</persName>
+			<persName ref="7637">König Franz I.</persName> Mömpelgard geschenkt hat, und dass überall in Mömpelgard wie auch in der umliegenden
+			Landschaft das Zeichen der [bourbonischen] Lilie angebracht wurde.
+		</div>
+		<div ref="4">
+			[4] Bullinger wird auch über den Inhalt des schmeichelhaften Briefes, den der fuchsartige Kaiser den
+			Eidgenossen schrieb, gut informiert sein. <placeName ref="513">Ulm</placeName>, <placeName ref="1976">Augsburg</placeName> und die
+			anderen [süddeutschen]<pb_edition start_of="125"/> Städte haben sich alle den ungerechten Bedingungen des
+			Kaisers unterworfen. Die Stadt <placeName ref="492">Straßburg</placeName> hält noch stand, ihre
+			Obrigkeit schwankt aber bereits. <persName ref="18574">Philipp von Hessen</persName> soll seine Truppen auflösen und die Gunst des Kaisers
+			suchen. <persName ref="1278">Gast</persName> denkt oft an den Psalmvers „Vertraut dem Menschen nicht!“ [Ps 146, 2f]. Der erkrankte <persName ref="8418">Myconius</persName>
+			wird Weiteres berichten. Er ist bettlägerig, und seine Frau [Margret] ist noch kränker als er.
+		</div>
+		<div ref="5">
+			[5] Vor einigen Tagen traf der aus <placeName ref="1976">Augsburg</placeName> kommende <persName ref="3018">Francesco Stancaro</persName> in <placeName ref="28">Basel</placeName> ein. Der gelehrte Hebraist und Gräzist fürchtet
+			sich vor dem Kaiser und <persName ref="18477">König Ferdinand I.</persName> <persName ref="8417">Wolfgang Musculus</persName> hat auch
+			vor, das unruhige <placeName ref="1976">Augsburg</placeName> zu verlassen.
+		</div>
+		<div ref="6">
+			[6] Der tapfere Krieger <persName ref="7537">Claus von Hattstatt</persName> wollte <persName ref="1546">Herzog Christoph</persName> in
+			<placeName ref="28">Basel</placeName> besuchen. Als er in
+			<placeName ref="1273">Ensisheim</placeName> im Wirtshaus speiste, wurde er verhaftet und ins Schloss
+			geführt, wo er einen Eid ablegen musste, während seine Begleiter schon in der Wirtschaft dazu gezwungen
+			wurden. Man wirft ihm vor, auf der Seite <entity id="11" type="geo_country">Frankreichs</entity> und der
+			[Reichs]städte zu sein. Was wird das noch geben?
+		</div>
+		<div ref="7">
+			[7] Der Kaiser soll vorhaben, sich nach Schlettstadt zu begeben, um von dort aus gegen
+			<placeName ref="492">Straßburg</placeName> zu ziehen und das
+			<placeName ref="632">Elsass</placeName>, besonders [die Herrschaft Reichenweier und die Grafschaft
+			<placeName ref="221">Horburg</placeName>], zu verwüsten. Alle haben Angst. So werden die Bösen und
+			die heuchlerischen Anhänger des Evangeliums entlarvt.
+		</div>
+		<div ref="8">
+			[8] Bullinger wird wohl erfahren haben, wie <persName ref="458">Johannes Brenz</persName> behandelt
+			wurde. Die Papisten rühmen sich des kaiserlichen Erfolgs und lästern sogar dabei!
+		</div>
+		<div ref="9">
+			[9] Dass <persName ref="1278">Gast</persName> selten schreibt, möge Bullinger verzeihen.
+		</div>
+		<div ref="10">
+			[10] <persName ref="8418">Myconius</persName> wird erzählen, wie Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> gegen den perfiden Herzog <persName ref="18250">Moritz</persName> vorgeht. Vor Beginn des
+			Krieges sind [Agnes, geb. von Hessen], die Gattin des Letzteren und die Kinder von [Sibylle, geb. von
+			Jülich-Kleve-Berg], die Gattin des alten Kurfürsten <persName ref="19065">Johann Friedrich</persName>, weinend vor <persName ref="18250">Moritz</persName> auf die Knie
+			gefallen und haben ihn angefleht, nicht gegen seinen Verwandten einen Krieg anzufangen. <persName ref="18250">Moritz</persName> erwiderte
+			zornig: „Ich werde sowieso tun, was ich dem Kaiser versprochen habe. Ich werde der zukünftige Kurfürst sein.
+			Lasst mich in Ruhe!“ Nun aber ist er völlig machtlos, ja vielleicht schon gefangen, während sein Gebiet
+			verwüstet ist.
+		</div>
+		<div ref="11">
+			[11] Grüße an <persName ref="8171">Theodor Bibliander</persName>, <persName ref="8127">Konrad Pellikan</persName>, <persName ref="8011">Rudolf Gwalther</persName>
+			und besonders an <persName ref="4844">Johannes Fries</persName>.
+		</div>
+		<div ref="12">
+			[12] In Eile.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2753" page="125">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. in domino.</s>
+				<s n="2" lang="la" state="auto">Quid scribam, nescio.</s>
+				<s n="3" lang="la" state="auto">Homines esse vanos,<fl>2</fl> inutiles, nullius fidei nosti.</s>
+				<s n="4" lang="la" state="auto">Dominus nos parum probat, et mox deficimus ad impias papistarum constitutiones!</s>
+				<s n="5" lang="la" state="auto">Quid, si maior et acerbior crux nos<fl>a</fl> molestaret, putas tales facerint.<fl>3</fl></s>
+				<s n="6" lang="la" state="auto">Christum ipsum absque dubio pernegarent.</s>
+				<s n="7" lang="la" state="auto">Verum nolo exaggerare nostrorum, hoc est pseudoevangelicorum, perfidiam.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="8" lang="de" state="auto">Ich hab das gelt entpfangen von der wollen.<fl>4</fl></s>
+				<s n="9" lang="de" state="auto">Myn hußfrow<fl>5</fl> sagt uch danck umb die schencky.<fl>6</fl></s>
+				<s n="10" lang="de" state="auto">Sy ist nachgendiger zyt<fl>7</fl> in willens, sölichs zuͦ beschulden.<fl>8</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="11" lang="la" state="auto"><persName ref="9780">Dux Wirtembergensis</persName> Christophorus<fl>9</fl> cum uxore<fl>10</fl> apud nos haeret, pius princeps, verbum domini amans.</s>
+				<s n="12" lang="la" state="auto">Expectamus Georgium principem<fl>11</fl> cum tota familia et omnibus suis ministris verbi.</s>
+				<s n="13" lang="la" state="auto">Nam caesar<fl>12</fl> illum in gratiam accipere recusat fortassis.</s>
+				<s n="14" lang="la" state="auto">Quaerit summam pecunię ab eo, quam aut dabit <pb_edition start_of="126"/> aut regi <persName ref="7637">Galliae</persName><fl>13</fl> suam ditionem oppignerabit vel vendet ad tempus, donec furor caesareanus parum extinctus fuerit.</s>
+				<s n="15" lang="la" state="auto">Nec te ignorare puto ducem <persName ref="1546" state="auto_name">Wirttembergensem</persName><fl>14</fl> Mümpelgart Gallo dedisse et lilia passim in civitate et agris affixa esse.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="16" lang="la" state="auto"><persName ref="18477">Caesarem</persName> Helvetiis blandis verbis scripsisse<fl>15</fl> nosti melius quam ego.</s>
+				<s n="17" lang="la" state="auto">Hoc est vulpino mori agere.</s>
+				<s n="18" lang="la" state="auto"><placeName ref="513">Ulma</placeName>, <placeName ref="1976">Augusta</placeName> et<pb_scan n="105v."/> reliquae civitates in gratiam caesaris adsumptę iniquis conditionibus.<fl>16</fl></s>
+				<s n="19" lang="la" state="auto">Argentina persistit adhuc, sed vacillant primates.</s>
+				<s n="20" lang="la" state="auto"><persName ref="3590" state="auto_name">Cattum</persName><fl>17</fl> aiunt dimittere suos milites.</s>
+				<s n="21" lang="la" state="auto">Ambit caesaris favorem.</s>
+				<s n="22" lang="la" state="auto">Psalmi dictum saepius recordor: „Nolite confidere in homine“,<fl>18</fl> etc.</s>
+				<s n="23" lang="la" state="auto">Reliqua a <persName ref="8418">Myconio</persName> aegrotante accipies.</s>
+				<s n="24" lang="la" state="auto">Ipse lecto adflictus cum uxore<fl>19</fl>, quae crudeliori morbo laborat quam ipse.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="25" lang="la" state="auto">Hisce diebus ad nos venit ab <placeName ref="1976">Augusta</placeName> Stengarus<fl>20</fl>, Hebraice et Gręce doctus homo, qui caesaris et <persName ref="18477">Ferdinandi</persName> tyrannidem timuit.</s>
+				<s n="26" lang="la" state="auto"><persName ref="8417">Musculus</persName><fl>21</fl> meditatur locum mutare.</s>
+				<s n="27" lang="la" state="auto">Cives turbulenti sunt, nec mirum.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="28" lang="de" state="auto">Es hat <persName ref="7537">Claus von Hattstat</persName><fl>22</fl>, <la>nobilis, miles strenuus,</la> wöllen gon <placeName ref="28">Basel</placeName> rütten zum Wirtemberger.<fl>23</fl></s>
+				<s n="29" lang="de" state="auto">Da ist er zu Ensesheim gefangen, als er do zuͦ ymbiß geesset hatt.</s>
+				<s n="30" lang="de" state="auto">Hat ins schloß müssen schweren; die knecht ins wurtshuß.</s>
+				<s n="31" lang="de" state="auto">Man zücht in<fl>24</fl>, er sey frantzoͤsiß und stettisch.</s>
+				<s n="32" lang="de" state="auto">Also brockt sich das muͦß<fl>25</fl> yn.<pb_edition start_of="127"/></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="33" lang="de" state="auto">Man sagt, der keiser wölle gon Schletstatt sich laͤgeren, die von <placeName ref="492">Straßburg</placeName> zuͦ kriegen, das Elseß zuͦ verderben, besonder das wirtembergisch ländli.<fl>26</fl></s>
+				<s n="34" lang="de" state="auto">Es ist iederman erschrocken.</s>
+				<s n="35" lang="de" state="auto">Domit wirt die warheit gelü-<pb_scan n="105a,r."/>tret in den bößen<fl>27</fl>, die glissner<fl>28</fl> an tag gebracht, die sich under dem schin des evangeliß haben ir boßheit bedeckt.<fl>29</fl></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="36" lang="la" state="auto">Quid cum <persName ref="458">Brentio</persName> actum sit, clam te esse non puto.<fl>30</fl></s>
+				<s n="37" lang="la" state="auto">Papistę gloriantur de successu felici caesaris.</s>
+				<s n="38" lang="la" state="auto">Ponunt os in cęlum,<fl>31</fl> etc.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="39" lang="la" state="auto">Vale et ignosce, quod raro scribo.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="40" lang="de" state="auto"><la><persName ref="8418">Myconius</persName> narrabit, quid elector in <persName ref="19065">Saxonia</persName><fl>32</fl> agat cum perfido Mauritio;<fl>33</fl></la> vor welchem syn hußfrow<fl>34</fl>, kinder<fl>35</fl> deß alten fursten frow<fl>36</fl>, uff die knü nider gfallen vor anfang deß kriegs, in gebetten mit weinenden ougen, er<fl>b</fl> soͤlle kein krieg anheben wider sinn vetteren<fl>37</fl>, der im so vil guͦts thon habe.</s>
+				<s n="41" lang="de" state="auto">Do ist er ergrimpt worden.</s>
+				<s n="42" lang="de" state="auto">Gsagt: „Ich wirt das thuͦn, das ich dem keyser zuͦgsagt habe, es treffe an, was es welle.</s>
+				<s n="43" lang="de" state="auto">Ich bin zuͦ küntftiger churfurst!</s>
+				<s n="44" lang="de" state="auto">Darumb lassent mich mit lieb<fl>38</fl>.“</s>
+				<s n="45" lang="la" state="auto">Ita discessit, sed totus<fl>c</fl> exactus vastata sua regione et, ut quidam dicunt, etiam captus.</s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="46" lang="la" state="auto">Hęc paucis volui ad te scribere.</s>
+				<s n="47" lang="la" state="auto">Salutato nomine meo d. <persName ref="8171">Theodorum</persName><fl>39</fl>, <persName ref="8127">Pellicanum</persName>, praecipue <persName ref="4844" state="auto_name">Frisium</persName><fl>40</fl> cum <persName ref="8011">Gvalthero</persName> et r[eli]quis<fl>d</fl> ministris.</s>
+				<s n="48" lang="la" state="auto">Nosti manum.</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="49" lang="la" state="auto">Raptim.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="50" lang="de" state="auto">Dem eerwürdigen und wolgelerten herren m. Heinrych Bullingeren, mynem lieben günstigen herren.</s>
+				<s n="51" lang="de" state="auto">Zürich.<fl>41</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2753">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage</i> non.</fn>
+			<fn ref="b"><i>In der Vorlage</i> es.</fn>
+			<fn ref="c"><i>Unsichere Lesung.</i></fn>
+			<fn ref="d"><i>Textverlust bei der Entfernung des Siegels.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Das Jahr 1547 ergibt sich aus der Erwähnung von <persName ref="3018">Francesco Stancaros</persName> Ankunft in <placeName ref="28">Basel</placeName> (s. unten Z. 24f). Da <persName ref="1278">Gast</persName> unten in Z. 6-8 Bullinger gegenüber einen Geldbetrag verdankt, den er am 6. oder 7. Januar erhalten hatte (vgl. Nr. 2740,20f, mit <link fk_file="12810">Nr. 2761</link>,61f), Bullinger aber am 19. Januar noch immer nicht wusste, ob <persName ref="1278">Gast</persName> den Betrag erhalten hatte (s. <link fk_file="12806">Nr. 2757</link>,12f), ist (angesichts der Tatsache, dass es in der Regel drei bis vier Tage brauchte, um einen Brief zwischen <placeName ref="28">Basel</placeName> und zürich zu befördern) vorliegendes Schreiben kaum vor dem 15. Januar anzusetzen. Da zur Abfassungszeit des Briefes Graf <persName ref="8098">Georg von Württemberg-Mömpelgard</persName> in <placeName ref="28">Basel</placeName> noch erwartet wurde (s. unten z. 10f), der Graf aber am 20. Januar dort nachgewiesen ist (s. <link fk_file="12810">Nr. 2761</link>,47), datiert der Brief vor dem 19. Januar. Die Erwähnung von <persName ref="458">Johannes Brenz</persName> in unten Z. 37 sowie die Ankündigung einer baldigen Mitteilung von <persName ref="8418">Myconius</persName> über Kurfürst <persName ref="19065">Johann Friedrich</persName> in unten Z. 40, die es tatsächlich in <persName ref="8418">Myconius</persName>' Brief vom 20. Januar gibt (s. <link fk_file="12810">Nr. 2761</link>,43-46), sprechen ebenfalls für unsere Datierung, auch wenn die Nachricht einer Erkrankung von <persName ref="8418">Myconius</persName> in Z. 22 und die Behauptung einer angeblich bereits erfolgten Unterwerfung <placeName ref="1976">Augsburgs</placeName> unter den Kaiser in Z. 18f dazu verleiten könnten, vorliegenden Brief etwa um den 1. Februar anzusetzen: Denn am 6. Februar (nicht aber am 20. Januar) berichtete nämlich <persName ref="8418">Myconius</persName>, dass er krank sei (s. <link fk_file="12846">Nr. 2797</link>,1), und erst am 24. Januar hatte <placeName ref="1976">Augsburg</placeName> beschlossen, sich dem Kaiser zu unterwerfen (s. <link fk_file="12818">Nr. 2769</link>, Anm. 7) Da es aber wahrscheinlicher ist, dass die Nachricht einer Unterwerfung <placeName ref="1976">Augsburgs</placeName> verfrüht und Folge eines falschen Gerüchtes war, als dass <persName ref="1278">Gast</persName> am 1. Februar noch immer nichts über die Anwesenheit des Grafen in <placeName ref="28">Basel</placeName> wusste, ist die frühere Datierung der späteren vorzuziehen. Demzufolge ist die im vorliegenden Brief erwähnte Krankheit <persName ref="8418">Myconius</persName>' nicht identisch mit dessen im Februar belegter schwereren Erkrankung.</fn>
+			<fn ref="2">Weish 13, 1.</fn>
+			<fn ref="3">= fecerint (s. dazu <bibl>Stotz</bibl> IV 209f, <link fk_file="10148">Nr. 118</link>.6).</fn>
+			<fn ref="4">Vgl. <link fk_file="12787">Nr. 2738</link>,16f; <link fk_file="12789">Nr. 2740</link>,20f; <link fk_file="12806">Nr. 2757</link>,12f.</fn>
+			<fn ref="5" type="bio" fk_person="4970"><persName ref="4970">Apollonia, geb. Glaser</persName>.</fn>
+			<fn ref="6">das Geschenk.</fn>
+			<fn ref="7">nachgendiger zyt: später.</fn>
+			<fn ref="8">vergelten.</fn>
+			<fn ref="9"><persName ref="1546">Christoph von Württemberg</persName>, der Anfang Januar in <placeName ref="28">Basel</placeName> eingetroffen war; s. <link fk_file="12810">Nr. 2761</link>, Anm. 9.</fn>
+			<fn ref="10" type="bio" fk_person="18818"><persName ref="18818">Anna Maria von Württemberg, geb. Brandenburg-Ansbach</persName>.</fn>
+			<fn ref="11">Graf <persName ref="8098">Georg von Württemberg-Mömpelgard</persName>.</fn>
+			<fn ref="12"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="13"><persName ref="7637">Franz I.</persName></fn>
+			<fn ref="14">Hier ist <persName ref="1546">Herzog Christoph</persName> gemeint.</fn>
+			<fn ref="15">Der am 27. Dezember verfasste Brief des Kaisers an die Eidgenossen, der spätestens am 10. Januar auf der Tagsatzung in <placeName ref="21">Baden</placeName> eingetroffen war und dort beantwortet wurde; s. <link fk_file="12800">Nr. 2751</link>, Anm. 47.</fn>
+			<fn ref="16">Zur Unterwerfung <placeName ref="513">Ulms</placeName> s. Nr. 2734, Anm. 4. Die süddeutschen Städte <placeName ref="45">Biberach</placeName>, <placeName ref="234">Isny</placeName>, <placeName ref="907">Kempten</placeName>, <placeName ref="320">Memmingen</placeName> und <placeName ref="409">Ravensburg</placeName> waren im Begriff, den Treueid zu leisten; s. Nr. 2741, Anm. 4. <placeName ref="1976">Augsburg</placeName> aber sollte sich erst am 24. Januar offiziell dazu entschließen; s. <link fk_file="12818">Nr. 2769</link>, Anm. 7. Doch war es schon vor diesem Zeitpunkt zu Annäherungen mit dem Kaiser gekommen, die auf eine baldige Unterwerfung der Stadt deuteten; s. <bibl>HBBW</bibl> XVIII 441,9f; <link fk_file="12786">Nr. 2737</link>, Anm. 14; <link fk_file="12790">Nr. 2741</link>,9-11; <link fk_file="12793">Nr. 2744</link>,16f; <link fk_file="12795">Nr. 2746</link>,12-14; <link fk_file="12808">Nr. 2759</link>,6-18.</fn>
+			<fn ref="17"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="18">Ps 146 (Vulg. 145), 2f.</fn>
+			<fn ref="19">Margret, deren Geburtsname unbekannt ist. Siehe zu ihr <i>Henrich, <persName ref="8418">Myconius</persName> BW</i> 12 und Anm. 21.</fn>
+			<fn ref="20"><persName ref="3018">Francesco Stancaro</persName>. - Aus dieser Stelle geht hervor, dass Stancaro und <persName ref="2336">Bernardino Ochino</persName> nicht zusammen in <placeName ref="28">Basel</placeName> eintrafen. Sie werden <placeName ref="1976">Augsburg</placeName> auch nicht gemeinsam und bestimmt nicht erst am 29. Januar verlassen haben, zumal Ochino an diesem Tag bereits in <placeName ref="457">Konstanz</placeName> nachzuweisen ist; s. <link fk_file="12831">Nr. 2782</link>,49f. Dementsprechend sind unsere Angaben in <bibl>HBBW</bibl> XVIII 280, Anm. 6, zu korrigieren.</fn>
+			<fn ref="21"><persName ref="8417">Wolfgang Musculus</persName>. - Vgl. <link fk_file="12808">Nr. 2759</link>,59f.</fn>
+			<fn ref="22">Der Söldnerführer Claus (Niklaus) von <persName ref="7537">Hattstatt</persName> (1510-1585), der im Laufe seines Lebens seine Dienste verfeindeten Lagern anbot. -Vorliegende Stelle (derzeit die einzig bekannte Quelle für die 1547 erfolgte Festnahme <persName ref="7537">Hattstatts</persName> in <placeName ref="1273">Ensisheim</placeName>) wirft ein neues Licht auf die in späteren Quellen angeführten Gründe für <persName ref="7537">Hattstatts</persName> Verhaftung. Dieser wurde erst im Mai 1548 wieder auf freien Fuß gesetzt; vgl. Veronika <i>Feller-Vest,</i> Die Herren von <persName ref="7537">Hattstatt</persName>. Rechtliche, wirtschaftliche und kulturgeschichtliche Aspekte einer Adelsherrschaft (13. bis 16. Jahrhundert), Bern 1982, S. 253-263. 373- 376.</fn>
+			<fn ref="23"><persName ref="1546">Christoph von Württemberg</persName>.</fn>
+			<fn ref="24">zücht in: bezichtigt ihn; s. <bibl>Fischer</bibl> VI/1 1095 s.v. "zeihen".</fn>
+			<fn ref="25">Ein Brei (hier im schlechten Sinne des Wortes, wie etwa in <bibl>Wander</bibl> III 783f s.v. Mus; <bibl>SI</bibl> V 562f s.v. inbrocken). - Die vorliegende Äußerung entspricht etwa "Das gibt noch eine rechte Sache".</fn>
+			<fn ref="26">Die Grafschaft <placeName ref="221">Horburg</placeName> und die Herrschaft Reichenweier.</fn>
+			<fn ref="27">wirt die warheit gelütret in den bößen: werden die Bösen entlarvt (indem die Wahrheit über sie ans Licht kommt); s. <bibl>SI</bibl> III 1516f.</fn>
+			<fn ref="28">Heuchler.</fn>
+			<fn ref="29">Ähnliche Beurteilung auch in <bibl>HBBW</bibl> XVIII 453.15-20; <link fk_file="12800">Nr. 2751</link>,26f.</fn>
+			<fn ref="30">Über <persName ref="458">Johannes Brenz</persName> s. Nr. 28 12,97-99.</fn>
+			<fn ref="31">Os in coclum ponere: Gegen Gott lästern, in Anlehnung an Ps 73 (Vulg. 72), 9. - Siehe ferner Dan 7, 25.</fn>
+			<fn ref="32"><persName ref="19065">Johann Friedrich I.</persName></fn>
+			<fn ref="33">Nämlich in <link fk_file="12810">Nr. 2761</link>,43-46.</fn>
+			<fn ref="34" type="bio" fk_person="18825"><persName ref="18825">Agnes von Sachsen, geb. von Hessen</persName>.</fn>
+			<fn ref="35">Zu deren Namen s. <link fk_file="12898">Nr. 2849</link>,Anm. 25.</fn>
+			<fn ref="36" type="bio" fk_person="19078"><persName ref="19078">Sibylle von Jülich-Kleve-Berg</persName> (gest. 21. Februar 1554), die Gattin Johann Friedrichs.</fn>
+			<fn ref="37">Zur Verwandtschaft zwischen den beiden Fürsten s. <bibl>HBBW</bibl> XVIII 229, Anm. 81.</fn>
+			<fn ref="38">lassent mich mit lieb: Lasst mich in Ruhe; s. <i>FNHDW</i> 1131, Nr. 8.</fn>
+			<fn ref="39"><persName ref="8171">Theodor Bibliander</persName>.</fn>
+			<fn ref="40"><persName ref="4844">Johannes Fries</persName>.</fn>
+			<fn ref="41">Dieser Brief wurde vielleicht, wie auch <persName ref="714">Celio Secondo Curiones</persName> Brief vom 18. Januar, dem von <placeName ref="28">Basel</placeName> via Zürich nach <entity id="16" type="geo_country">Italien</entity> reisenden, nicht identifizierten Juden anvertraut; s. <link fk_file="12807">Nr. 2758</link>,26-31.</fn>
+		</num>
+	</footnotes>
+</file>

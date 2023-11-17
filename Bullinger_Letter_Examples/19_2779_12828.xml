@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12828" id_hbbw="2779" id_irg_sort="2779" id_sort="127790">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12828</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2779</arpa>
+		<scan_pages>
+			<scan id="30020" dir="12828/Autograph/" page="1">00 E_II_360__S__417_.tif</scan>
+			<scan id="30021" dir="12828/Autograph/" page="2">01 E_II_360__S__418_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26199" vf="1" fk_add_type="1">
+				<person id="1804" fk_id="1804">
+					<name>Kilchmeyer</name>
+					<forename>Jodocus</forename>
+				</person>
+				<place id="41" vf="1" fk_id="41" long="7.44744" lat="46.94809">Bern</place>
+				<district id="28">Bern</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26200" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12828">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">29</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19394">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 360,417</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12390" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2779, S. 217</entry>
+				<page>217</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="28">
+				<lang id="5" iso="la" count="28" p="100.0"/>
+			</sentences>
+			<words count="529">
+				<lang id="5" iso="la" count="529" p="100.0"/>
+			</words>
+			<chars count="3102">
+				<lang id="5" iso="la" count="3102" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2779" page="217">
+		<div ref="1">
+			[1] <persName ref="1804">Kilchmeyer</persName> empfing Bullingers Brief [nicht erhalten] am 29.
+			Januar. Wie gut, dass die Zürcher gegen den Antichristen nicht nur äußerlich, sondern auch innerlich rüsten!
+			Gott gewähre ihnen den Sieg zur Ehre seines Namens und zur Erlösung seiner Kirche!
+		</div>
+		<div ref="2">
+			[2] Das gegen die Dunkelmänner [<persName ref="5097">Johannes Ulrich Göppel</persName> und <persName ref="2938">Benedikt Schürmeister</persName>] konzipierte Urteil wurde den <placeName ref="41">Berner</placeName> Pfarrern bereits
+			vorgelegt, jedoch noch nicht dem Rat. Am 24. Januar erlitt nämlich
+			<persName ref="1804">Kilchmeyer</persName> (möglicherweise als Folge seiner früheren Krankheit) einen
+			unerwarteten Rückfall. Als <persName ref="3099">Simon Sulzer</persName> davon hörte, bot er sogleich
+			seine Hilfe an. <persName ref="1804">Kilchmeyer</persName> hätte dies geschätzt, wüsste er nicht, dass
+			<persName ref="3099">Sulzer</persName> lediglich wie ein Geier auf seine Beute lauert.
+			<persName ref="8364">Beat Gering</persName>, der seine Antipathie nicht verbergen kann, kam nicht zu
+			Besuch. Zuvor waren die Erwartungen der beiden enttäuscht worden, indem sie erleben mussten, wie Gott
+			<persName ref="1804">Kilchmeyer</persName> so gut heilte, dass dieser am 1. Januar mit frischen
+			Kräften wieder predigen konnte (wobei er so schwer krank war, dass sogar einige
+			<placeName ref="41">Berner</placeName> Patrizier um ihn bangten und ihn zwangen, einen Arzt
+			[<persName ref="17845">Christoph Christeiner</persName>] zu sich zu lassen).
+		</div>
+		<div ref="3">
+			[3] <persName ref="1804">Kilchmeyer</persName> will nun selbst diesen Rückfall Bullinger melden,
+			damit dieser, falls er von anderen davon hören sollte, sich keine Sorgen um ihn und um die
+			<placeName ref="41">Berner</placeName> Kirche macht. Vielmehr soll Bullinger weiterhin für ihn
+			beten, damit Gott ihm die Kraft gibt (falls es dessen Willen entspricht), den Acker weiter zu pflügen und
+			alle steinigen Hindernisse zu beseitigen, sodass Gottes Reich sich allen offenbaren mag. Gott allein gebührt
+			die Ehre, die weder Bullinger (der <persName ref="1804">Kilchmeyer</persName> [des
+			<placeName ref="41">Berner</placeName> Kirchendienstes] für würdig befand und ihm zu der Stelle
+			verhalf) noch <persName ref="1804">Kilchmeyer</persName> (der zögerte [der Berufung] Folge zu leisten)
+			verdienen. Doch weiß <persName ref="1804">Kilchmeyer</persName> auch, dass die Tugend sich für
+			denjenigen lohnen wird, der sie aufrichtig übt, wie es bereits Seneca gelehrt hat.
+		</div>
+		<div ref="4">
+			[4] Gruß an die Gattin <persName ref="8051">[Anna, geb. Adlischwyler]</persName>, an die Familie, an den Gevatter <persName ref="167">Johann Jakob Ammann</persName> und
+			den stets hilfsbereiten <persName ref="4844">Johannes Fries</persName>.
+		</div>
+		<div ref="5">
+			[5] In diesen Tagen wurden vier <placeName ref="41">Berner</placeName> Studenten
+			[<persName ref="4617">Jonas Danmatter</persName>, <persName ref="8355">Johannes Fädminger</persName>, <persName ref="5477">Johann Knechtenhofer</persName> und <persName ref="5911">Abel Mühlhofer</persName>] mit einem Empfehlungsschreiben
+			[<link fk_file="12813">Nr. 2764</link>] nach <placeName ref="587">Zürich</placeName> entsandt.
+			Bullinger möge die Erwartungen der <placeName ref="41">Berner</placeName> erfüllen. Es wäre gut
+			(und Bullinger weiß, wieso), wenn die Zürcher Behörden nun auch vier Zürcher Stipendiaten zu einem Studium
+			nach <placeName ref="41">Bern</placeName> schickten. Es sollte sich dabei um junge, noch in der
+			Grundausbildung stehende Knaben handeln, da die [bernischen lutherischen] Pfaffen dafür gesorgt haben, dass
+			es bislang keine theologische Ausbildung für ältere Schüler gibt.
+			<persName ref="1804">Kilchmeyer</persName> wäre dem Zürcher Rat völlig ergeben, wenn dieser ihn zum
+			Kostgeber bestimmen würde. Der Zürcher Rat würde in ihm einen auf den guten Ruf
+			<placeName ref="587">Zürichs</placeName> bedachten und verständnisvollen, doch zugleich strengen
+			und keinesfalls nachlässigen Präzeptor und Vater finden.
+		</div>
+		<div ref="6">
+			[6] Abermaliger Gruß.
+		</div>
+		<div ref="7">
+			[7] [P.S.:] Grüße von <persName ref="6811">Johannes Wäber</persName>,
+			<persName ref="3700">Eberhard von Rümlang</persName> und
+			<persName ref="2600">Nikolaus Pfister</persName>.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2779" page="217">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. 29. die ianuarii redditę sunt mihi, doctissime vir et in domino frater dilectissime, literę tuę<fl>1</fl> plurimum me exhilarantes, pręsertim vero, quod docebant adversum antichristi<fl>2</fl> regnum tam in urbe quam in agro <placeName ref="587">Tigurino</placeName> omnes paratos esse, non apparatu modo bellico, sed eciam animorum ala-<pb_edition start_of="218"/>critate instructissimos, in quo uno<fl>3</fl> sane existimo fiduciam vincendi pendere.<fl>4</fl></s>
+				<s n="2" lang="la" state="auto">Dominus, cuius est vincere et in fugam convertere hostes,<fl>5</fl> erigat, roboret inque suam gloriam atque ecclesię suae salutem victores faciat conservetque!</s>
+				<s n="3" lang="la" state="manual">Amen.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="la" state="auto">Sentencia nostra in confutationem controversiae quorundam tenebrionum<fl>6</fl> - nosti, quos intelligam - inter nos<fl>7</fl> quidem lata est, sed nondum magnifico senatui nostro aperta et proposita, idque propter quandam infirmitatem (reliquias veterum mearum febrium esse arbitror), quę insperato me 24. ianuarii obruit adeo, ut unam concionem ommittere fuerim coactus.</s>
+				<s n="5" lang="la" state="auto">Hoc audiens <persName ref="3099">Sulzerus</persName> meus (en hominis fidem!)<fl>a</fl><fl>8</fl> festinans accurrit tristis, maerens operamque suam in omnem eventum pollicens.</s>
+				<s n="6" lang="la" state="auto">Gratias ei debeo plurimas, si non ut vultur prędam quaerens advolasset.</s>
+				<s n="7" lang="la" state="auto"><persName ref="8364" state="auto_name">Battus</persName><fl>9</fl> noster, apertior hostis, ne quidem videre me dignatus est.</s>
+				<s n="8" lang="la" state="auto">Sed quid universorum dominus?<fl>10</fl></s>
+				<s n="9" lang="la" state="auto">Cum inhiarent prędę, delusi sunt.<fl>11</fl></s>
+				<s n="10" lang="la" state="auto">Divina enim clemencia derepente me erigens<fl>b</fl><fl>12</fl> usque adeo fecit fortem, cordatum et in veteri pelle prorsus novum, ut primo die ianuarii non modo me in cętu publico videre, sed concionantem eciam audire compulsi sint!</s>
+				<s n="11" lang="la" state="auto">Credo investigabili dei providencia<fl>13</fl> id factum esse meque piorum pręcibus aratro dominico<fl>14</fl> rursus impositum.</s>
+				<s n="12" lang="la" state="auto">Turbavit enim inopinata mea valetudo multorum animos, eciam nobilium ac optimatium, quorum consilio medicum<fl>15</fl> eciam admisi contra omne propositum meum, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="13" lang="la" state="auto">Hanc infirmitatem meam nolui te latere, ne forte eam ex rumore incertaque fama audiens sortem meam ecclesięque causam aut nimis aut frustra plangeres.</s>
+				<s n="14" lang="la" state="auto">Curaresque<fl>c</fl> posthac ut antea semper tuis me pręcibus commendare domino, ut, si ita fuerit voluntas eius, pręsto adsit, quo aratrum, in quem me (nec sine tua opera) coniecit, ligavit arctissimeque obstrinxit, ita trahere possim rudem tellurem, scopulos, radices et omnia fructuum bonorum impedimenta infringere extirpare, ut palam videatur domini esse regnum,<fl>16</fl> neque tibi, quod me dignum iudicasti, neque mihi, tarde<fl>17</fl> quidem sed <pb_edition start_of="219"/> iuste obedienti, quicquam glorię vel virium tribuatur.</s>
+				<s n="15" lang="la" state="auto">Nihil enim nostrum est quam gloriari in domino<fl>18</fl> idque omnibus inculcare.</s>
+				<s n="16" lang="la" state="auto">Si quod est pręmium virtutis (ut non ambigo)<fl>d</fl>, non interibit.</s>
+				<s n="17" lang="la" state="auto">Aut cui, quęso, vel inter aethnicos aut vivo aut mortuo virtus gratiam non retulit, si modo illam, ut <persName ref="4804">Seneca</persName> noster docet,<fl>19</fl> bona fide secutus est; si non se pinxit et ornavit?</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="18" lang="la" state="auto">Vale, vale cum uxore<fl>20</fl> et familia omni.</s>
+				<s n="19" lang="la" state="auto">D. <persName ref="167">Iacobum Ammianum</persName>,<fl>21</fl> compatrem meum, <persName ref="4844" state="auto_name">Frisium</persName><fl>22</fl> omnibus natum plurimum valere iubeo.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="20" lang="la" state="auto">Hisce diebus quatuor ex studiosis nostris<fl>23</fl> Tigurum mittuntur literis ad te datis.</s>
+				<s n="21" lang="la" state="auto">Tuum erit, ut speramus, omnia pro dignitate exequi e fide nostra.</s>
+				<s n="22" lang="la" state="auto">Desydero et ex vestris stipendiariis<fl>e</fl> quatuor (causam nosti), sed tales, qui in elementis adhuc imbuendi sint (pro maioribus enim lectio theologica apud nos adhuc non est pessimis pfaffis<fl>24</fl> impedientibus, ut oportet, instituta)<fl>f</fl>, et qui mittuntur pueri, si tantum mihi tribuit fidei magistratus Tigurinus, quare ego me totum eius agnosco.</s>
+				<s n="23" lang="la" state="auto">In me habebunt in gloriam Tiguri hospitem, patrem et pręceptorem sęverum, indulgentem nihilque denique negligentem.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="24" lang="la" state="auto">Vale iterum.</s>
+				<s n="25" lang="la" state="auto">Ex <placeName ref="41">Berna</placeName>, 29. die ianuarii anno 1547.</s>
+				<s n="26" lang="la" state="auto"><persName ref="1804">Iodocus K.</persName> tuus semper.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="27" lang="la" state="auto"><persName ref="6811">Textorius</persName><fl>25</fl>, <persName ref="3700">Eberhardus</persName><fl>26</fl>, <persName ref="2600">Artopeus</persName><fl>27</fl> vos omnes salutant.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="28" lang="la" state="auto">Eruditione et vigilia sacra eximio viro d. Heinricho Bullingero, amplissimae ecclesiae Tigurinae pastori dignissimo, domino ac fratri suo semper colendo et dilectissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2779">
+		<alpha>
+			<fn ref="a"><i>Klammern ergänzt.</i></fn>
+			<fn ref="b"><i>In der Vorlage</i> erigens.</fn>
+			<fn ref="c"><i>Die Buchstaben</i> ra <i>wurden über der Zeile nachgetragen.</i></fn>
+			<fn ref="d"><i>Klammern ergänzt.</i></fn>
+			<fn ref="e"><i>Am Rande nachgetragen.</i></fn>
+			<fn ref="f"><i>Klammern ergänzt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">erhalten.</fn>
+			<fn ref="2">Gemeint sind <persName ref="19981">Papst Paul III.</persName> und dessen Mitstreiter <persName ref="18538">Kaiser Karl V.</persName></fn>
+			<fn ref="3">Gemeint ist Gott.</fn>
+			<fn ref="4">Vgl. Dtn 28, 7; 1Sam 17, 47.</fn>
+			<fn ref="5">2Chr 25, 8.</fn>
+			<fn ref="6">Die Zofinger Pfarrer <persName ref="5097">Johannes Ulrich Göppel</persName> und <persName ref="2938">Benedikt Schürmeister</persName>; s. <link fk_file="12796">Nr. 2747</link> vom 11. Januar und Nr. 2756 vom 17. Januar 1547.</fn>
+			<fn ref="7">unter den <placeName ref="41">Berner</placeName> Geistlichen.</fn>
+			<fn ref="8">Ironische Bemerkung.</fn>
+			<fn ref="9"><persName ref="8364">Beat Gering</persName>.</fn>
+			<fn ref="10">Sir 50, 24.</fn>
+			<fn ref="11">Ps 124 (Vulg. 123), 6f.</fn>
+			<fn ref="12">Von der oben in Z. 11f erwähnten Krankheit, von der er vermutlich im Dezember 1546 befallen wurde und mit der er seinen flüchtigen Schwächeanfall vom 24. Januar erklärt.</fn>
+			<fn ref="13">Vgl. Röm 11, 33.</fn>
+			<fn ref="14">In Anspielung auf Lk 9, 62.</fn>
+			<fn ref="15">Vermutlich der damalige <placeName ref="41">Berner</placeName> Stadtarzt <persName ref="17845">Christoph Christeiner (Christophorus Christianus)</persName> aus <placeName ref="431">Rottweil</placeName>, der dieses Amt bis zum 17. Oktober 1556 ausübte; s. Yvonne <i>Thurnheer,</i> Die Stadtärzte und ihr Amt im alten <placeName ref="41">Bern</placeName>, Diss. med., <placeName ref="41">Bern</placeName> <i>1945, S.</i> 33.</fn>
+			<fn ref="16">In Anlehnung an Mt 13, 4-8 par.</fn>
+			<fn ref="17"><persName ref="1804">Kilchmeyer</persName> stand der Berufung nach <placeName ref="41">Bern</placeName> ziemlich zurückhaltend gegenüber; s. <bibl>HBBW</bibl> XIV, 124; XVII 457, Anm. 5.</fn>
+			<fn ref="18">1Kor 1, 31; 2Kor 10, 17; Gal 6, 14.</fn>
+			<fn ref="19"><i>Seneca,</i> Ad Lucilium epistulae morales, 66. 102.</fn>
+			<fn ref="20" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="21">Der Schulaufseher <persName ref="167">Johann Jakob Ammann</persName>.</fn>
+			<fn ref="22">Schulmeister <persName ref="4844">Johannes Fries</persName>.</fn>
+			<fn ref="23"><persName ref="4617">Jonas Danmatter</persName>, <persName ref="8355">Johannes Fädminger</persName>, <persName ref="5477">Johann Knechtenhofer</persName> und <persName ref="5911">Abel Mühlhofer</persName>, die mit Brief <link fk_file="12813">Nr. 2764</link> vom 23. Januar 1547 nach Zürich geschickt worden waren.</fn>
+			<fn ref="24">Gemeint sind die Prediger <placeName ref="41">Berns</placeName>, die dem Luthertum nahestanden (u.a. <persName ref="8364">Gering</persName> und <persName ref="3099">Sulzer</persName>). - Für den Bezug des Wortes "Pfaffen" auf protestantische Pfarrer s. z.B. <bibl>HBBW</bibl> XVIII 200,33; 212,52f.</fn>
+			<fn ref="25"><persName ref="6811">Johannes Wäber</persName>.</fn>
+			<fn ref="26"><persName ref="3700">Eberhard von Rümlang</persName>.</fn>
+			<fn ref="27"><persName ref="2600">Nikolaus Pfister</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

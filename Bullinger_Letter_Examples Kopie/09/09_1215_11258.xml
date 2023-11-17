@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11258" id_hbbw="1215" id_irg_sort="1215" id_sort="112150">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11258</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1215</arpa>
+		<scan_pages>
+			<scan id="26190" dir="11258/Autograph/" page="1">00 E_II_336__fol__202_r_.tif</scan>
+			<scan id="26191" dir="11258/Autograph/" page="2">01 E_II_336__fol__202_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22836" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22837" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11258">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">19</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17732">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 336,202</signature>
+				<signature_old>E II 336,184</signature_old>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11115" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1215, S. 33</entry>
+				<page>33</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="24">
+				<lang id="1" iso="de" count="1" p="4.2"/>
+				<lang id="5" iso="la" count="23" p="95.8"/>
+			</sentences>
+			<words count="443">
+				<lang id="1" iso="de" count="113" p="25.5"/>
+				<lang id="5" iso="la" count="330" p="74.5"/>
+			</words>
+			<chars count="2560">
+				<lang id="1" iso="de" count="629" p="24.6"/>
+				<lang id="5" iso="la" count="1931" p="75.4"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1215" page="32">
+		<div ref="1">
+			Das lange Warten auf Briefe läßt ihn um Bullingers Freundschaft fürchten. Unterrichtet ihn über die Artikel
+			zur Erneuerung der Universität, die der Rektor [<persName ref="6212">Hieronymus Artulf</persName>]
+			zusammen mit einigen Deputaten aufgesetzt hat; mit seinem Widerstand gegen die Unterstellung der Diener am
+			Wort unter die Universität hat <persName ref="8418">Myconius</persName> bisher nur erreicht, daß die
+			Deputaten die Sache aufschoben, während <persName ref="1365">Grynäus</persName> vor allem dagegen
+			kämpft, als Lehrer der Theologie das Bakkalaureat erwerben zu müssen. Fragt nochmals nach dem Wortlaut des
+			Doktoratseides, den ihm der Vizekanzler [<persName ref="4349">Karlstadt</persName>] vorenthält. Dankt
+			für Nachrichten über erschreckende Wunderzeichen und berichtet seinerseits über Opfer der Pest im Haus von
+			<persName ref="1365">Grynäus</persName>. Bittet um Stellungnahme zum mitgeteilten Artikel.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1215" page="33">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Ob literarum dilationem iterum verebar, ne mei fores oblitus.</s>
+				<s n="3" lang="la" state="auto">Recte igitur addis in fine<fl>1</fl>, boni consulam, quod serius scribas.</s>
+				<s n="4" lang="la" state="auto">Synceros amicos non lubens amitto, e quibus tu certe primas obtines.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Cęterum, ut rectius adhuc intelligas universitatis negocium: Iam a decimo anno moliuntur reformationem sine modo, et peius habet illa quam initio.</s>
+				<s n="6" lang="la" state="auto">Ut vero libenter omnes sapere videri volumus, huius anni praeses<fl>2</fl> academię rem de integro sumpsit in manus, articulos<fl>3</fl> posuit una cum deputatis quibusdam<fl>4</fl>, ubi tertius ministerium vexare conatur; quartus est de gradibus et in primis tentat <persName ref="1365">Grynęum</persName>.</s>
+				<s n="7" lang="de" state="auto">Adscribam tertium<fl>b</fl>: „Nach dem in allen communen und rechtschafnen politien der lenderen, stetten, gwerben und handtierungen von nöuten ist und sin wil, das man gehorsammi<fl>5</fl> und den gebotten und verbotten, hochen und nidren, gehorch, also und glicher gstalt und noch vil meer wil die noturft und gemeine ruͦw erforderen, daß nit allein aller faculteten professores und regenten oder die, so studierens halb sich hie erhalten, sonders ouch die, so mit den fryen künsten oder in h[eiliger] gschrift umgand<fl>6</fl> und sich daruß neren wellen, der universitet mandaten gehorsammen, dorumb hulden<fl>7</fl>, ouch söliche gehorsammi zethuͦn angehalten werdint, do mit ein jeder siner leer, wie er die bruch, so er dorumb erforderet, rechenschaft zegeben verbunden sy.“</s>
+				<s n="8" lang="la" state="auto">Ex his verbis postquam ego collegeram illos velle ministerium verbi subiicere universitati et articulo contraire studerem, interposuerunt se deputati senatores, ut negocium sileat, non autem sit sublatum.</s>
+				<s n="9" lang="la" state="auto">Expone tu, obsecro, quid articulus ille videatur velle tibi.</s>
+				<s n="10" lang="la" state="auto">Contra quartum pugnavit acriter d. <persName ref="1365">Grynęus</persName>; inter alia sic enim habuit: Omnes professores gradum habeant professioni ipsorum accommodum.</s>
+				<s n="11" lang="la" state="auto">Iam quia <persName ref="1365">Grynęus</persName> est professor theologię, cogitur isto articulo fieri baccalarius.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Vide, mi Bullingere, quid tentet satan, dum timet pacem doctrinę evangelicae.</s>
+				<s n="13" lang="la" state="auto">Quia ergo in libro ad regem Anglię<fl>8</fl> iuramentum scripsisti episcoporum papae faciendum<fl>9</fl>, rogaram<fl>10</fl>, si invenire posses et doctorum theologię iuramentum, ad me dares; nam vicecancellarius<fl>11</fl>, qui id habet, ad me venire<fl>c</fl><pb_edition start_of="34"/> non sinit.</s>
+				<s n="14" lang="la" state="auto">His nugis divexamur ingenti cum scandalo ecclesiarum.</s>
+				<s n="15" lang="la" state="auto">Illud hic me solatur, quod extra culpam sumus nos, quicquid tandem quidam imputent.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Ago vero tibi gratias pro horrendis illis miraculis, quę misisti; quamvis enim admodum sint stupenda, mirum tamen, quam me delectet ea nosse.</s>
+			</p>
+			<p>
+				<s n="17" lang="la" state="auto">Sed et horrendum quiddam tibi quoque dicam: Hodie funera duo adultorum hominum, ancillę<fl>12</fl> et iuvenis nobilis <persName ref="19946" state="auto_name">Galli</persName><fl>13</fl>, ex ędibus d. <persName ref="1365">Grynęi</persName> sunt elata, quod nescio, si alicubi hac tempestate sit apud nos factum.</s>
+				<s n="18" lang="la" state="auto">Ante dies octo pariter ancilla Tigurina<fl>14</fl> apud eundem obiit.</s>
+				<s n="19" lang="la" state="auto">Orabitis ergo dominum pro nobis.</s>
+				<s n="20" lang="la" state="auto">Rescribe in tempore, si tantum fuerit ocii, de articulo<fl>15</fl>, quem mitto; conantur enim, qui posuerunt, aliter interpretari.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Vale cum tuis in domino cumque fratribus omnibus.</s>
+				<s n="22" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, raptim, 19. ianuarii anno 39.</s>
+			</p>
+			<p>
+				<s n="23" lang="la" state="auto">Tuus <persName ref="8418">Myconius</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="24" lang="la" state="auto">Domino Heinricho Bullingero, Tigurinorum episcopo, fratri in domino venerando suo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1215">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Randbemerkung und Unterstreichungen von späterer Hand.</i></fn>
+			<fn ref="b"><i>Randbemerkung:</i> Haec tibi soli.</fn>
+			<fn ref="c"><i>vor</i> venire <i>ein gestrichener Buchstabe.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="8418">Myconius</persName> bezieht sich auf einen verlorenen Brief Bullingers.</fn>
+			<fn ref="2">Rektor <persName ref="6212">Hieronymus Artulf</persName> (vgl. Amerbach, Korr. V 172f, <link fk_file="12316">Nr. 2269</link>).</fn>
+			<fn ref="3">Zu den "Concepta pro instauranda universitate", die <persName ref="8418">Myconius</persName> nachfolgend zitiert, s. <bibl>HBBW</bibl> VIII <link fk_file="11248">[Nr. 1205]</link>, S. 285, Anm. 10.</fn>
+			<fn ref="4">Deputaten waren im Frühjahr 1539 <persName ref="8349">Hans Rudolf Frey</persName>, <persName ref="6306">Fridolin Ryff</persName> und <persName ref="6310">Heinrich Ryhiner</persName>; s. <bibl>Thommen</bibl> 75f und 325f, je Anm.1.</fn>
+			<fn ref="5">Gehorsam leiste.</fn>
+			<fn ref="6">sich befassen.</fn>
+			<fn ref="7">sich dazu verpflichten.</fn>
+			<fn ref="8">"De scripturae sanctae authoritate ... ad sereniss. Angliae regem <persName ref="18505">Heinrychum VIII.</persName> Heinrychi Bullingeri libri duo", Zürich 1538 <bibl>HBBibl</bibl> I 111).</fn>
+			<fn ref="9">Bullinger zitiert aaO, fol. 150v.-151v. nicht nur eine Eidesformel für Bischöfe, sondern auch einen Doktoratseid (gestützt auf eine durch <persName ref="2301">Osiander</persName> besorgte Zusammenstellung; vgl. <bibl>HBBW</bibl> VIII, <link fk_file="11158">Nr. 1115</link>, S. 111).</fn>
+			<fn ref="10">am 6. Dezember 1538, s. <bibl>HBBW</bibl> VIII <link fk_file="11248">[Nr. 1205]</link>, S. 285f, 35-38.</fn>
+			<fn ref="11">Das Vizekanzieramt wurde jeweils auf zehn Jahre den Dekanen der vier Fakultäten verliehen (s. <bibl>Thommen</bibl> 34). Dekan der theologischen Fakultät war zu diesem Zeitpunkt <persName ref="4349">Karlstadt</persName> (s. ebd., S. 107).</fn>
+			<fn ref="12">Unbekannt.</fn>
+			<fn ref="13" type="bio" fk_person="19946"><persName ref="19946">Sphyractes</persName> teilt <persName ref="164">Amerbach</persName> am 30. Januar den Tod eines vornehmen Pensionärs von <persName ref="1365">Grynäus</persName> mit; er bezeichnet ihn als "adolescens Ferrariensis, cui nomen Joanni (vt opinor) Vauclero" (<persName ref="164">Amerbach</persName>. Korr. V 197. <link fk_file="12346">Nr. 2299</link>. 13f).</fn>
+			<fn ref="14">Unbekannt.</fn>
+			<fn ref="15">Oben Z. 9-19.</fn>
+		</num>
+	</footnotes>
+</file>

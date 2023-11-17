@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11254" id_hbbw="1211" id_irg_sort="1211" id_sort="112110">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11254</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1211</arpa>
+		<scan_pages>
+			<scan id="26184" dir="11254/Autograph/" page="1">00 E_II_359__fol__2772_r_.tif</scan>
+			<scan id="26185" dir="11254/Autograph/" page="2">01 E_II_359__fol__2772_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22828" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="491" vf="" fk_id="491" long="7.7507127" lat="48.584614">Straßburg</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22829" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11254">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">4</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17728">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2772</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11094" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1211, S. 28</entry>
+				<page>28</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="25">
+				<lang id="1" iso="de" count="1" p="4.0"/>
+				<lang id="5" iso="la" count="24" p="96.0"/>
+			</sentences>
+			<words count="382">
+				<lang id="1" iso="de" count="7" p="1.8"/>
+				<lang id="5" iso="la" count="375" p="98.2"/>
+			</words>
+			<chars count="2126">
+				<lang id="1" iso="de" count="43" p="2.0"/>
+				<lang id="5" iso="la" count="2083" p="98.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1211" page="28">
+		<div ref="1">
+			Ist gesund, abgesehen von Augenbeschwerden. Bedauert, daß Bullinger seinen Brief
+			[<link fk_file="11249">Nr. 1206</link>] so spät erhalten hat, und bittet nochmals um Stellungnahme zu
+			seinen Reiseplänen; für die Briefübermittlung steht <persName ref="8459">Otto [Werdmüller]</persName> zur Verfügung. Stimmt den Ratschlägen für eine
+			bescheidene Ernährung zu, möchte aber den Kostgeber für die verbleibende Zeit nicht mehr wechseln, da die
+			Einsparung gering wäre. Wird sich um den Brief für <persName ref="8422">Nicholas [Partridge]</persName> kümmern. Kann keine Neuigkeiten berichten; die in
+			<placeName ref="558">Wittenberg</placeName> erschienene und vielgerühmte Tragödie „Pammachius“
+			[von <persName ref="8124">Thomas Naogeorg</persName>] konnte er nicht finden. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1211" page="28">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Valetudinem meam incolumem esse scias, pater observande, si oculorum tam valerem acumine quam reliquo corporis habitu; hi enim nescio qua de causa viribus suis indies remissis etiam dolores non raro mihi parturiunt.</s>
+			</p>
+			<p>
+				<s n="3" lang="la" state="auto">Sed dabit deus his quoque finem<fl>1</fl>.</s>
+				<s n="4" lang="la" state="auto">Literas meas<fl>2</fl> tam sero ad te pervenisse maxime doleo; hę enim si citius ad te perlatę fuissent, et meis et sodalis mei<fl>3</fl> negotiis non parum profuissent, si de nova profectione nostra<fl>4</fl> certum abs te responsum accepissemus.</s>
+				<s n="5" lang="la" state="auto">Spero tamen te hoc curaturum, ut brevissime id abs te habeam.</s>
+				<s n="6" lang="la" state="auto">Si enim tabellarius tibi defuerit, qui <placeName ref="492">Argentinam</placeName> petat, <placeName ref="28">Basileam</placeName> missas literas <persName ref="8459">Otho</persName><fl>5</fl> noster singulis fere diebus ad me<fl>b</fl> transmittere potest.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Scripsisti mihi vitae meae rationem proximis datis literis<fl>6</fl>, quod quidem consilium utilissimum esset, si talem usquam invenire possem hospitem.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto">Nam te omnino hoc opinari intelligo, sumptus hos meos propter splendidiores nobis mensas appositas maiores fieri, quod autem revera non est.</s>
+				<s n="9" lang="la" state="auto">Nam cum apud te, quem solum patris loco mihi colendum puto, nihil cęlare ausim, certo scias me, quoad vixerim, frugaliori mensa acceptum minime fuisse, ita ut non raro exoptem cum<fl>c</fl> Helvetica frugalitate omnes nostrę mensae delitias commutare.</s>
+				<s n="10" lang="la" state="auto">Ad mensuram enim bibendum est, cum singulis singula tantum apponantur pocula eaque minima semelque tantum repleta, quod ego curarem minime, si huius soli aquam ferre possem.</s>
+				<s n="11" lang="la" state="auto">Cibi, quibus cibamur, lautissimi sunt, olera et rapae.</s>
+				<s n="12" lang="la" state="auto">Tamen non possem quemquam invenire, qui me eodem modo viliori quam 26 florenorum pretio aleret<fl>7</fl>.</s>
+				<s n="13" lang="la" state="auto">Ego<pb_edition start_of="29"/> unius floreni causa, cum mox mihi discedendum sit, hospitem mutare parum decorum esse puto.</s>
+				<s n="14" lang="la" state="auto">Verno tempore res meas melius se habituras spero.</s>
+				<s n="15" lang="la" state="auto">Te rogo, ut consilio meo (quod ante tibi explanavi) bene perpenso tuo me subleves consilio, quod nunc expecto indies.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Curabo, ut <persName ref="8422" state="auto_name">Nicolao</persName><fl>8</fl> nostro hęc in Angliam scribam<fl>9</fl>, quam primum potero.</s>
+			</p>
+			<p>
+				<s n="17" lang="la" state="auto">Varii apud nos sunt rumores, sed nihil certi habetur.</s>
+				<s n="18" lang="la" state="auto">Edita nuper est tragedia quędam <placeName ref="558">Witembergae</placeName>, quam Pammachium<fl>10</fl> vocant; eam omnes cum maxime laudent, tibi misissem, si venalem invenire potuissem.</s>
+				<s n="19" lang="la" state="auto">Plura nunc scribere non possum nec habeo, quorum relatione te iuvari intelligam.</s>
+				<s n="20" lang="la" state="auto">Tu hęc mea aequo, ut soles, animo accipe.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Salutem dicas nomine meo matri<fl>11</fl> et uxori<fl>12</fl> tuę et universae familiae tuę, quibus hunc annum quam fortunatissimum esse precor.</s>
+				<s n="22" lang="la" state="auto">4. ianuarii 1539.</s>
+			</p>
+			<p>
+				<s n="23" lang="la" state="auto"><persName ref="8011">Rod. Gvalterus</persName>, tui observantissimus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="24" lang="la" state="auto">Vere pio et erudito d. Heinrycho Bullingero, patrono suo imprimis colendo.</s>
+				<s n="25" lang="de" state="auto">An M. Heinrich Bullinger, predicanten zuͦ Zürich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1211">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichung von späterer Hand.</i></fn>
+			<fn ref="b"><i>nach</i> me <i>gestrichenes</i> p.</fn>
+			<fn ref="c">cum <i>über der Zeile nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="18867">Vergil</persName>, Aeneis, 1, 199.</fn>
+			<fn ref="2"><bibl>HBBW</bibl> VIII, <link fk_file="11249">Nr. 1206</link>.</fn>
+			<fn ref="3"><persName ref="2553">Martin Peyer</persName>.</fn>
+			<fn ref="4">Die Rede ist von der geplanten Reise nach <placeName ref="558">Wittenberg</placeName>; vgl. ebd., Z. 28-70.</fn>
+			<fn ref="5"><persName ref="8459">Otto Werdmüller</persName>.</fn>
+			<fn ref="6">Nicht erhalten.</fn>
+			<fn ref="7">Gemeint ist das Kostgeld für ein ganzes Jahr; vgl. <bibl>HBBW</bibl> VIII <link fk_file="11234">[Nr. 1191]</link>, S. 254, 16-20.</fn>
+			<fn ref="8"><persName ref="8422">Nicholas Partridge</persName>.</fn>
+			<fn ref="9">Ein entsprechender Brief ist nicht erhalten (vgl. auch unten <link fk_file="11260">Nr. 1217</link>, 82-84).</fn>
+			<fn ref="10"><persName ref="8124">Thomas Naogeorgs</persName> "Tragoedia nova Pammachius", das bedeutendste protestantische Kampfdrama, erschien 1538 bei <persName ref="5703">Hans Lufft</persName> in <placeName ref="558">Wittenberg</placeName> (hg. v. Hans-Gert Roloff in: <persName ref="8124">Thomas Naogeorg</persName>, Sämtliche Werke, Bd. I, Berlin 1975. - Ausgaben deutscher Literatur des XV. bis XVIII. Jahrhunderts 50).</fn>
+			<fn ref="11" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+			<fn ref="12" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11332" id_hbbw="1289" id_irg_sort="1289" id_sort="112890">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11332</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1289</arpa>
+		<scan_pages>
+			<scan id="26351" dir="11332/Autograph/" page="1">00 E_II_364__fol__59_r_.tif</scan>
+			<scan id="26352" dir="11332/Autograph/" page="2">01 E_II_364__fol__59_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22998" vf="1" fk_add_type="1">
+				<person id="4079" fk_id="4079">
+					<name>Zwick</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22999" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11332">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">7</month>
+				<day fk_d="" d="" vf="1" fn="">22</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17803">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 364,59</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11114" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1289, S. 179</entry>
+				<page>179</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="15">
+				<lang id="1" iso="de" count="1" p="6.7"/>
+				<lang id="5" iso="la" count="14" p="93.3"/>
+			</sentences>
+			<words count="160">
+				<lang id="1" iso="de" count="3" p="1.9"/>
+				<lang id="5" iso="la" count="157" p="98.1"/>
+			</words>
+			<chars count="930">
+				<lang id="1" iso="de" count="13" p="1.4"/>
+				<lang id="5" iso="la" count="917" p="98.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1289" page="179">
+		<div ref="1">
+			Hat <persName ref="1974">Luthers</persName> Kritik an <persName ref="4091">Zwingli</persName>
+			[in: „Von den Konziliis und Kirchen“] übersehen; empfiehlt ein freundliches Schreiben, das
+			<persName ref="1974">Luther</persName> Gelegenheit zur Stellungnahme gibt. Begrüßt die Ablehnung der
+			[<placeName ref="361">Nürnberger</placeName>?] Zusammenkunft durch [Zürich].
+			<persName ref="8055">Ambrosius [Blarer]</persName> kann die
+			Erfolgsaussichten seiner Bemühungen um die <placeName ref="1976">Augsburger</placeName> Kirche noch
+			nicht abschätzen und braucht Unterstützung durch Gebet. <persName ref="4079">Zwicks</persName> Bitten
+			um <persName ref="8049">Vadians</persName> Brief über die Verherrlichung Christi
+			[<link fk_file="10936">Nr. 894</link>] bzw. um Nennung eines [als Hilfskraft geeigneten] jungen Mannes
+			sind noch unbeantwortet. Was <persName ref="4225">Michael [Back?]</persName> aus <placeName ref="546">Wien</placeName>
+			geschrieben hat, wird <persName ref="1753">Leo [Jud]</persName>
+			mitteilen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1289" page="179">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Aut non legi aut non observavi, Bullingere suavissime, eum locum, ubi <persName ref="1974">Lutherus</persName> <persName ref="4091">Zvinglium</persName> perstringit<fl>1</fl>.</s>
+				<s n="3" lang="la" state="auto">Caeterum cavendum est forte, ne quid in illum retorqueatur.</s>
+				<s n="4" lang="la" state="auto">Excusandus tamen esset praeceptor a discipulo amicis literis erga <persName ref="1974">Lutherum</persName>, non solum propter excusationem, sed ut audires, quid ille contra aut quo animo in vos etc.<pb_edition start_of="180"/></s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Quod vestri conventum negaverunt<fl>2</fl>, libenter audimus; sic enim se res habet, quemadmodum scribis<fl>3</fl>.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto"><persName ref="8055">Ambrosius</persName><fl>4</fl> de instituenda domo dei apud <placeName ref="1976">Augustanos</placeName> nec sperat aliquid nec desperat etiamnum.</s>
+				<s n="7" lang="la" state="auto">In neutram partem satis habet coniecturarum; preces autem ad dominum extorquet a nobis omnibus, quibus iuvetur in conatibus suis.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto">Tu de epistola <persName ref="8049">Vadiani</persName> de glorificatione Christi<fl>5</fl> nichil rescripsisti, cum ipsius iussu ad me dare illam possis et debeas; nam sic impetravi.</s>
+				<s n="9" lang="la" state="auto">Nec de adolescente<fl>6</fl> quicquam addidisti, quanquam non mittendo, sed describendo.</s>
+				<s n="10" lang="la" state="auto">Quid <persName ref="4225">Michael</persName><fl>7</fl> ad me ex <placeName ref="546">Wienna</placeName><fl>8</fl>, dicet <persName ref="1753">Leo</persName><fl>9</fl>.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Tu vale.</s>
+				<s n="12" lang="de" state="auto">22. iulii 1539.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Totam familiam tuam salvam volo.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">Tuus <persName ref="4079">Io. Zvick</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="15" lang="la" state="auto">Domino Hainricho Bullingero, Tigurinae ecclesię pastori vigilantissimo, fratri et domino unice deamando.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1289">
+		<alpha/>
+		<num>
+			<fn ref="1">Gemeint ist eine Stelle in <persName ref="1974">Luthers</persName> Schrift "Von den Konziliis und Kirchen" (<bibl>WA</bibl> L 488-653; vgl. oben <link fk_file="11329">Nr. 1286</link>, 10f), an der <persName ref="4091">Zwingli</persName> in die Nähe der Nestorianer gerückt wird (aaO, S. 591, 9-14).</fn>
+			<fn ref="2">Wahrscheinlich ist das geplante Religionsgespräch in <placeName ref="361">Nürnberg</placeName> gemeint (vgl. oben <link fk_file="11304">Nr. 1261</link>, Anm. 6). Ein formeller Ablehnungsbeschluß ist zwar nicht bekannt, vgl. aber die Gutachten eines Unbekannten und Bullingers in Zürich StA, E II 347, 190-203.</fn>
+			<fn ref="3">Bullingers Brief ist nicht erhalten.</fn>
+			<fn ref="4"><persName ref="8055">Ambrosius Blarer</persName>; vgl. oben <link fk_file="11329">Nr. 1286</link>, 2f.</fn>
+			<fn ref="5">Vgl. oben <link fk_file="11325">Nr. 1282</link>, 22-24.</fn>
+			<fn ref="6">Vgl. oben <link fk_file="11329">Nr. 1286</link>, 14-18.</fn>
+			<fn ref="7"><persName ref="4225">Michael Back</persName>(?); vgl. oben <link fk_file="11263">Nr. 1220</link>, 121 mit Anm. 9.</fn>
+			<fn ref="8">Der Brief aus <placeName ref="546">Wien</placeName> ist nicht erhalten.</fn>
+			<fn ref="9"><persName ref="1753">Leo Jud</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

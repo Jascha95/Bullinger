@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11256" id_hbbw="1213" id_irg_sort="1213" id_sort="112130">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11256</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1213</arpa>
+		<scan_pages/>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22832" vf="1" fk_add_type="1">
+				<person id="8049" fk_id="8049">
+					<name>Vadian (von Watt)</name>
+					<forename>Joachim</forename>
+				</person>
+				<place id="474" vf="1" fk_id="473" long="9.37477" lat="47.42391">St. Gallen</place>
+				<district id="169">St.Gallen</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22833" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11256">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">13</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17730">
+				<doc_type id="9">Teilkopie</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 23,41/42</signature>
+				<note>eingelegtes Blatt</note>
+				<author>Wick, Johann Jakob</author>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11137" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1213, S. 30</entry>
+				<page>30</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="7">
+				<lang id="1" iso="de" count="5" p="71.4"/>
+				<lang id="5" iso="la" count="2" p="28.6"/>
+			</sentences>
+			<words count="85">
+				<lang id="1" iso="de" count="79" p="92.9"/>
+				<lang id="5" iso="la" count="6" p="7.1"/>
+			</words>
+			<chars count="429">
+				<lang id="1" iso="de" count="395" p="92.1"/>
+				<lang id="5" iso="la" count="34" p="7.9"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1213" page="30">
+		<div ref="1">
+			Schickt ein ihm von Stadtschreiber [<persName ref="4764">Augustin Fechter</persName>] übermitteltes
+			Gedicht, das in <placeName ref="1115">Überlingen</placeName> an einer Kirchentür angeschlagen
+			worden war.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="9" fk_bibliography="11" nr="1213" page="30">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Zuͦ<fl>b</fl> <placeName ref="1115">Überlingen</placeName> hatt einer an die kilchthür einen rymen angeschlagen, welcher abgnommen und ussgangen ist<fl>1</fl>.</s>
+				<s n="2" lang="de" state="auto">Von dem hatt mir der stattschryber<fl>2</fl> des<fl>c</fl> ein abgschrifft von wunders wägen zuͦ gestelt.</s>
+				<s n="3" lang="de" state="auto">Lutet also:<pb_edition start_of="31"/> Ich fragen hie on allen list, worum so vil tüfel und nun<fl>3</fl> ein gott ist?</s>
+			</p>
+			<p>
+				<s n="4" lang="de" state="auto">Antwurt: Lieber fründ, nun hab gedult, es ist der münchen und pfaffen schuld.</s>
+			</p>
+			<p>
+				<s n="5" lang="de" state="auto">Hettend sy in allen iren mässen so vil tüfel als<fl>4</fl> hergott gfrässen, werind tüfel gar vertriben und iro keiner überbliben.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Vale.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Sangalli, 13. ianuarii anno 1539<fl>d</fl>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1213">
+		<alpha>
+			<fn ref="a" meta="1"><i>Das verlorene Original enthielt offenbar auch Ausführungen zum Fall des Knaben</i> <persName ref="4196">Sebastian Uriel Appenzeller</persName> (s. unten <link fk_file="11259">Nr. 1216</link>); vgl. auch oben <link fk_file="11253">Nr. 1210</link>.</fn>
+			<fn ref="b"><i>Darüber</i> Ex litteris d[octoris] Ioachimi Vadiani ad dominum Heynirichumi Bullingerum.</fn>
+			<fn ref="c">des <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="d"><i>Darunter von anderer Hand:</i> A.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">verbreitet worden ist. - So soll auch <persName ref="3481">Simprecht Vogt</persName> das Schmähgedicht im Gespräch mit dem Abt von <placeName ref="413">Rheinau</placeName> angeführt haben (s. Jakob <i>Wipf</i> Reformationsgeschichte der Stadt und Landschaft Schafthausen, Zürich 1929, S. 311); vgl. auch die zeitgenössische handschriftliche Wiedergabe auf der letzten Seite des Werkes "In orationem dominicam saluberrimae ac sanctissimae meditationes ..." von <persName ref="1278">Johannes Gast</persName>, Basel 1543, im Exemplar Zürich ZB, 5. 395.</fn>
+			<fn ref="2"><persName ref="4764">Augustin Fechter</persName>.</fn>
+			<fn ref="3">nur.</fn>
+			<fn ref="4">wie.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12842" id_hbbw="2793" id_irg_sort="2793" id_sort="127930">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12842</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2793</arpa>
+		<scan_pages>
+			<scan id="30052" dir="12842/Autograph/" page="1">00 E_II_338__fol__1439_r_.tif</scan>
+			<scan id="30053" dir="12842/Autograph/" page="2">01 E_II_338__fol__1439_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26228" vf="1" fk_add_type="1">
+				<person id="2262" fk_id="2262">
+					<name>Medmann</name>
+					<forename>Peter</forename>
+				</person>
+				<place id="77" vf="" fk_id="77" long="6.9777" lat="50.68213">Buschhoven</place>
+				<district id="127">Nordrhein-Westfalen</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26229" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12842">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">4</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19409">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 338,1439</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9072" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Pollet, Relations II 179f, Nr. 49</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="14">
+				<lang id="5" iso="la" count="14" p="100.0"/>
+			</sentences>
+			<words count="157">
+				<lang id="5" iso="la" count="157" p="100.0"/>
+			</words>
+			<chars count="978">
+				<lang id="5" iso="la" count="978" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2793" page="259">
+		<div ref="1">
+			[1] Der Überbringer [...] wird unter anderem über die von den kaiserlichen Kommissaren [<persName ref="7610">Philip de Lalaing</persName>
+			und <persName ref="7372">Viglius van Zwichem</persName>]<fl>2</fl> durchgeführte Amtsenthebung des
+			<placeName ref="267">Kölner</placeName> Erzbischofs
+			<persName ref="8462">Hermann von Wied</persName> berichten.<fl>3</fl> <persName ref="2262">Medmann</persName> übersendet drei
+			Schriften, darunter jene „Wahrhafte Erzählung“, die leider nur zu wahr ist!<fl>4</fl> Möglichst viele sollen
+			diese Schriften lesen, vor allem die Zürcher Obrigkeit. Die [evangelisch gesinnten] Prädikanten [in
+			<placeName ref="267">Köln</placeName>] müssen die Stadt verlassen. Auch <persName ref="2262">Medmann</persName> ist am Packen.
+			Vielleicht zieht er nach <placeName ref="492">Straßburg</placeName>.<fl>5</fl>
+		</div>
+		<div ref="2">
+			[2] In „Belgien“ gibt es wieder Verfolgungen. <persName ref="8371">Albert [Hardenberg]</persName> wurde erneut von den Löwener [Theologen] bei <persName ref="18538">Kaiser Karl V.</persName> angeklagt. Vor allem [<persName ref="7610">Philip de Lalaing</persName>,] der Herr von Corney und von Gelderland, verfolgte <persName ref="8371">Hardenberg</persName>, als dieser noch in
+			<placeName ref="2388">Kempen</placeName><fl>6</fl> tätig war.
+		</div>
+		<div ref="3">
+			[3] Bullinger möge ausführlich zurückschreiben. <persName ref="2262">Medmann</persName> wird berichten, sooft er kann.
+		</div>
+		<div ref="4">
+			[4] [P.S.:] Mögen die [Eidgenossen] doch begreifen, dass der Kaiser nur die [Austilgung der evangelischen]
+			Religion im Sinne hat!
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2793" page="259">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. Qui tibi meas reddit, mi Bulingere, potest tibi multa narrare, quae praeteritis diebus hic evenerunt, quomodo noster ab omni gubernatione per commissarios caesarianos amotus, et alia.</s>
+				<s n="2" lang="la" state="auto">Ego mitto ad te tria scripta, ex quibus etiam non pauca cognosces et leges, quod sat scio, non sine stomacho.</s>
+				<s n="3" lang="la" state="auto">Vellem illam veram narrationem, quae, mihi hic credas velim, est verissima, a multis isthic legi et inprimis a vestrae reipublicae moderatoribus.</s>
+				<s n="4" lang="la" state="auto">Concionatoribus, ut scribitur, nullus amplius manendi locus concedetur.</s>
+				<s n="5" lang="la" state="auto">Ego etiam coepi convasare fortassis iturus <placeName ref="492">Argentinam</placeName>.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="6" lang="la" state="auto">In <entity id="5" type="geo_country">Belgico</entity> nova instituitur persequutio.</s>
+				<s n="7" lang="la" state="auto"><placeName ref="1322">Lovanienses</placeName> d. <persName ref="8371">Albertum</persName> denuo apud caesarem accusarunt, cui Cornei, summus ducatus Gelrici praefectus,<fl>7</fl> valde insidiatus fuit, quando adhuc <placeName ref="2388">Kempenae</placeName> docebat.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="8" lang="la" state="auto">Oro, ut rescribas copiose.</s>
+				<s n="9" lang="la" state="auto">Ego nullam occasionem scribendi ad te neglexero.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">4. februarii 1547.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Tuus toto pectore<fl>8</fl>, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="12" lang="la" state="auto">Utinam vere intelligeretis, quorsum Caroli molimina tendant!</s>
+				<s n="13" lang="la" state="auto">Quid enim habuit aliud contra nostrum, quam causam religionis?</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="14" lang="la" state="auto">D. Henrico Bullingero, sacrarum literarum in Tigurina ecclesia professori diligentissimo, viro ornatissimo, suo colendo. S.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2793">
+		<alpha/>
+		<num>
+			<fn ref="1" meta="1">Vgl. <link fk_file="12809">Nr. 2760</link>, Anm. 2.</fn>
+			<fn ref="2">Siehe dazu schon <link fk_file="12809">Nr. 2760</link> vom 20. Januar.</fn>
+			<fn ref="3">Am 24. Januar wurde von Wied abgesetzt und <persName ref="18420">Adolf III. von Schaumburg</persName> an dessen Stelle ernannt; s. <i>Varrentrapp</i> 273; Hansgeorg <i>Molitor,</i> Das Erzbistum Köln im Zeitalter der Glaubenskämpfe, 1515-1688, Köln 2008, S. 379.</fn>
+			<fn ref="4">Gemeint sind folgende kleine Schriften des Erzbischofs: Warhaffte erzelung der Geschieht, Bonn [vor dem 15. Juli] 1546 (s. <i>Schlüter 305,</i> <link fk_file="10229">Nr. 198</link>; ein Exemplar davon in Zürich ZB, Signatur: 9.55/3); Christliche, rechtmessige und bestendige Appellation und Protestation, [Bonn, Januar 15471], mit Texten vom 12. November 1546 und 11. Januar 1547 (s. <i>Schlüter 331,</i> Nr. 235), zumal Medmann diesen Druck auch an <persName ref="8032">Francisco de Enzinas</persName> schickte (s. Enzinas an Bullinger, 8. Mai 1547, <bibl>Enzinas BW</bibl> 234-238, wo Anm. 8 zu korrigieren ist); Ein offene schrifft an des Ertzstiffts Cöllen Graven, Ritterschafft unnd der Stette verordenten, [Bonn, kurz nach dem 22. Januar 1547] (s. <i>Schlüter</i> 332, <link fk_file="10268">Nr. 237</link>; Zürich ZB, Signatur: 9.55/4). -Schon in <link fk_file="12809">Nr. 2760</link> hatte Medmann die Sendung von Schriften zur Kölner Reformation angekündigt.</fn>
+			<fn ref="5">Dieses Vorhaben wurde auch Enzinas mitgeteilt, wie aus dem in oben Anm. 4 erwähnten Brief Enzinas' hervorgeht. Der Erzbischof hegte einen ähnlichen Plan; s. Oswald Myconius an Bullinger, 11. August 1547 <i>(Henrich, Myconius BW</i> 981, <link fk_file="11139">Nr. 1096</link>). Dazu kam es aber nicht. Im September 1547 befand sich Medmann noch beim Erzbischof in Buschhoven (s. Medmann an Bullinger, 10. September 1547, Zürich StA, E II 338, 1440), mit dem er sich erst um die Jahreswende 1551/52 in dessen Stammschloss in der Grafschaft Wied (Rheinland-Pfalz) zurückzog; s. <i>Molitor</i> aaO, S. 159.</fn>
+			<fn ref="6">Kempen (Kr. Viersen, Nordrhein-Westfalen), von wo Hardenberg schon vor dem 25. Januar 1547 vertrieben wurde; s. <bibl>Janse, Hardenberg</bibl> 29.</fn>
+			<fn ref="7"><persName ref="7610">Philip de Lalaing</persName>, Herr von Corney und von Gelderland.</fn>
+			<fn ref="8"><bibl>Adagia</bibl>, 1, 4, 26 (<bibl>ASD</bibl> II/1 428, <link fk_file="10357">Nr. 326</link>).</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2793" page="259"/>
+			<footnotes fk_bibliography="22" nr="2793">
+				<alpha/>
+				<num>
+					<fn ref="1" meta="1">Vgl. <link fk_file="12809">Nr. 2760</link>, Anm. 2.</fn>
+					<fn ref="2">Siehe dazu schon <link fk_file="12809">Nr. 2760</link> vom 20. Januar.</fn>
+					<fn ref="3">Am 24. Januar wurde von Wied abgesetzt und <persName ref="18420">Adolf III. von Schaumburg</persName> an dessen Stelle ernannt; s. <i>Varrentrapp</i> 273; Hansgeorg <i>Molitor,</i> Das Erzbistum Köln im Zeitalter der Glaubenskämpfe, 1515-1688, Köln 2008, S. 379.</fn>
+					<fn ref="4">Gemeint sind folgende kleine Schriften des Erzbischofs: Warhaffte erzelung der Geschieht, Bonn [vor dem 15. Juli] 1546 (s. <i>Schlüter 305,</i> <link fk_file="10229">Nr. 198</link>; ein Exemplar davon in Zürich ZB, Signatur: 9.55/3); Christliche, rechtmessige und bestendige Appellation und Protestation, [Bonn, Januar 15471], mit Texten vom 12. November 1546 und 11. Januar 1547 (s. <i>Schlüter 331,</i> Nr. 235), zumal Medmann diesen Druck auch an <persName ref="8032">Francisco de Enzinas</persName> schickte (s. Enzinas an Bullinger, 8. Mai 1547, <bibl>Enzinas BW</bibl> 234-238, wo Anm. 8 zu korrigieren ist); Ein offene schrifft an des Ertzstiffts Cöllen Graven, Ritterschafft unnd der Stette verordenten, [Bonn, kurz nach dem 22. Januar 1547] (s. <i>Schlüter</i> 332, <link fk_file="10268">Nr. 237</link>; Zürich ZB, Signatur: 9.55/4). -Schon in <link fk_file="12809">Nr. 2760</link> hatte Medmann die Sendung von Schriften zur Kölner Reformation angekündigt.</fn>
+					<fn ref="5">Dieses Vorhaben wurde auch Enzinas mitgeteilt, wie aus dem in oben Anm. 4 erwähnten Brief Enzinas' hervorgeht. Der Erzbischof hegte einen ähnlichen Plan; s. Oswald Myconius an Bullinger, 11. August 1547 <i>(Henrich, Myconius BW</i> 981, <link fk_file="11139">Nr. 1096</link>). Dazu kam es aber nicht. Im September 1547 befand sich Medmann noch beim Erzbischof in Buschhoven (s. Medmann an Bullinger, 10. September 1547, Zürich StA, E II 338, 1440), mit dem er sich erst um die Jahreswende 1551/52 in dessen Stammschloss in der Grafschaft Wied (Rheinland-Pfalz) zurückzog; s. <i>Molitor</i> aaO, S. 159.</fn>
+					<fn ref="6">Kempen (Kr. Viersen, Nordrhein-Westfalen), von wo Hardenberg schon vor dem 25. Januar 1547 vertrieben wurde; s. <bibl>Janse, Hardenberg</bibl> 29.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

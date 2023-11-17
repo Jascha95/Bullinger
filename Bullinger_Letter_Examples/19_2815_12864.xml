@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12864" id_hbbw="2815" id_irg_sort="2815" id_sort="128150">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12864</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2815</arpa>
+		<scan_pages/>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26272" vf="1" fk_add_type="1">
+				<person id="9046" fk_id="9046">
+					<name>Pistorius (Niddanus, Becker) d.Ä.</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="311" vf="1" fk_id="311" long="8.77069" lat="50.80904">Marburg</place>
+				<district id="71">Hessen</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26273" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12864">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">18</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19431">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="78" fk_place="474">St. Gallen KB</archive>
+				<signature>Ms 35 (VBS VI),228</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12436" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2815, S. 317</entry>
+				<page>317</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="21">
+				<lang id="5" iso="la" count="21" p="100.0"/>
+			</sentences>
+			<words count="412">
+				<lang id="5" iso="la" count="412" p="100.0"/>
+			</words>
+			<chars count="2444">
+				<lang id="5" iso="la" count="2444" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2815" page="316">
+		<div ref="1">
+			[1] <persName ref="9046">Pistorius</persName> hat nicht auf den im Mai [empfangenen] Brief Bullingers [<bibl>HBBW</bibl> XVI,
+			<link fk_file="12448">Nr. 2401</link>, vom 31. März] geantwortet, weil er wegen des Krieges in Deutschland
+			keinen Boten finden konnte. Auch jetzt hat er nicht die Zeit dazu. Er wollte nämlich gerade von
+			<placeName ref="311">Marburg</placeName> [nach <placeName ref="1678">Nidda</placeName>]
+			aufbrechen, als er hörte, dass die Zürcher [Studenten] heimkehren. So ergreift er die Gelegenheit, Bullinger
+			wenigstens zu grüßen.
+		</div>
+		<div ref="2">
+			[2] Die schlimme Uneinigkeit im [evangelischen Lager] stellt eine große Gefahr dar. Der Feind steht vor der
+			Tür! Man rechnet jederzeit damit, dass er von <placeName ref="157">Frankfurt</placeName> aus
+			angreift. Die Pfarrer in der Landschaft <placeName ref="1678">Nidda</placeName> sind der Gefahr
+			besonders ausgesetzt. Landgraf <persName ref="18574">Philipp von Hessen</persName> vertraut auf
+			den Schutz seiner Festungsanlagen, die von der armen Bevölkerung verstärkt wurden. Nun aber soll diese auch
+			noch für deren Unterhalt durch Steuern aufkommen, sodass sie sich kaum mehr zu ernähren vermag. Kann man
+			dann noch auf Gottes Hilfe hoffen?
+		</div>
+		<div ref="3">
+			[3] Sollte das Gerücht von einem Abkommen [der Schmalkaldener] mit
+			<entity id="11" type="geo_country">Frankreich</entity> stimmen, dann wäre das gar nicht gut. Man denke doch
+			an das von den Propheten verschrieene Bündnis des jüdischen Volkes mit dem ägyptischen König! <persName ref="9046">Pistorius</persName> wäre
+			viel eher dafür, dass die [Protestanten] sich der Rute des<pb_edition start_of="317"/> Herrn unterwürfen,
+			mit der schon Nebukadnezar gezüchtigt wurde und mit der nun auch ihre Undankbarkeit und Vergehen bestraft
+			werden müssen, als dass sie ein Bündnis mit <entity id="34" type="geo_country">Ägypten</entity> eingingen,
+			indem sie zu ihrem eigenen Verderben im Namen des Herrn behaupten, dass diese Allianz notwendig sei. Egal
+			welcher Gefahr <persName ref="9046">Pistorius</persName> wegen seines Glaubens ausgesetzt wird, er weiß, dass es sich dabei um den
+			universalen, richtigen Glauben handelt. Christus verleihe ihm Standhaftigkeit!
+		</div>
+		<div ref="4">
+			[4] Bullingers Brief wird er nach den Kriegswirren beantworten. Und sollte Gott die Zerstörung der Kirchen
+			in <placeName ref="664">Hessen</placeName> zulassen und dabei <persName ref="9046">Pistorius</persName> aus diesem Jammertal
+			erlösen, dann wird er sich vielleicht darüber mit Bullinger mündlich unterhalten können. Nur so viel:
+			Bullinger hat die [Abendmahls]auffassung von <persName ref="9046">Pistorius</persName> und den Kollegen, die sich diesbezüglich angemessen
+			äußern, nicht wirklich begriffen. Er sollte sie nicht mit jenen verwechseln, die Dinge behaupten und lehren,
+			die unangebracht sind und von denen sie gar nichts verstehen!
+		</div>
+		<div ref="5">
+			[5] Bullinger möge über den Stand der Dinge in Zürich berichten und seine Meinung über den Krieg mitteilen.
+		</div>
+		<div ref="6">
+			[6] Gruß, auch an die Kollegen, besonders an <persName ref="8011">Rudolf Gwalther</persName>, und Bitte um Gebet. In Eile.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2815" page="317">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Graciam et pacem a deo, patre nostro per Iesum Christum, in spiritu sancto.</s>
+				<s n="2" lang="la" state="auto">Quod hactenus, Bulingere in domino summopere colende, nihil ad te dederim literarum neque tuis ad me datis in mense Maio<fl>1</fl> responderim, nulla alia causa est, quam quod in tanta rerum omnium per Germaniam perturbatione nullus obvenire potuit commodus nuntius neque etiam modo respondere possum brevitate temporis impeditus.</s>
+				<s n="3" lang="la" state="auto">Cum enim iamiam essem abiturus,<fl>2</fl> significatum est mihi vestros<fl>3</fl> patriam velle petere.</s>
+				<s n="4" lang="la" state="auto">Non potui igitur non te per literas vel salutare.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="la" state="auto">Nos propter ecclesiarum Christi dissipationem, ne dicam an oppressionem, sumus constituti in summo et dolore et periculo.</s>
+				<s n="6" lang="la" state="auto">Cum enim habemus modo hostes vicinos, quottidie impressionem hostium ex Francofordia<fl>4</fl> expectare cogimur, destituti omni praesidio humano, presertim nos, qui per agrum <placeName ref="1678">Niddanum</placeName> Christum profiteremur.</s>
+				<s n="7" lang="la" state="auto">Princeps noster<fl>5</fl> videtur omnem spem collocasse in munitiones.</s>
+				<s n="8" lang="la" state="auto">Verum cum hę sint sudore pauperum extructę, et iam sanguine egenorum gravissimis exactionibus conservare eas conetur, videre non possum, quem successum deus daturus sit.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="9" lang="la" state="auto">Neque placet foedus Gallicum,<fl>6</fl> si modo rumor vera spargit.</s>
+				<s n="10" lang="la" state="auto">Quem enim finem foedus Judeorum cum rege <entity id="34" type="geo_country">Egyptio</entity><fl>7</fl> sortitum sit, ex scripturis pro-<pb_edition start_of="318"/>phetorum facile liquet!</s>
+				<s n="11" lang="la" state="auto">Ego potius, si adhiberer in consilium, consulerem, ut <persName ref="18562">Nebucadnezari</persName> virgę<fl>8</fl> domini punientis et nostram ingratitudinem et immania scelera nos subiiceremus salva vera religione, quam, si et apud nos persequi conaretur<fl>9</fl>, quisque suo periculo<fl>10</fl> in nomine domini profiteretur, necessum foret.</s>
+				<s n="12" lang="la" state="auto">Certe quicunque casus me oppressurus sit in professione confessionis nostrę, quam et catholicam et orthodoxam ecclesię Christi esse non dubito!</s>
+				<s n="13" lang="la" state="auto">Fortiter persistam per Christum, qui me corroborabit,<fl>11</fl> in quo omnia,<fl>12</fl> sine quo nihil et sumus et possumus.<fl>13</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="14" lang="la" state="auto">Respondebo autem tuis literis peramice, quamprimum bellici tumultus vel paululum quieverint,<fl>14</fl> aut, si ita visum est domino, ut ecclesias nostras hosti devastandas permiserit, meque ex hisce malis in hac vita liberaverit, forte coram hisce de rebus loquemur.</s>
+				<s n="15" lang="la" state="auto">Te enim non plane mentem meam intellexisse video nostrorumque sententiam<fl>15</fl> percepisse, eorum maxime, qui dextre hac de re loquuntur.</s>
+				<s n="16" lang="la" state="auto">Nolo enim me iungere iis, qui adfirmant ea, quę ignorant, et docent, quę non oporteat.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="17" lang="la" state="auto">Si potes, oro, ut quo in statu res vestrę sint, mihi quoque significes, quidve tu de hoc bellico tumultu sentias.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="18" lang="la" state="auto">Hisce vale in domino Iesu, Bulingere charissime, atque symmistas tuos omnes ac singulos, communes nostros dominos ac amicos, presertim <persName ref="8011">Rudolphum</persName><fl>16</fl> nostrum, saluta meo nomine quam offitiosissime, nostrasque ecclesias deo, patri domini nostri Iesu Christi, precibus vestris commendate.</s>
+				<s n="19" lang="la" state="auto">Raptim, ex Martispurgo<fl>17</fl>, 18. februarii anno domini 1547.</s>
+				<s n="20" lang="la" state="auto"><persName ref="9046">Joannes Pistorius</persName>, ex animo tuus totus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="21" lang="la" state="auto">Viro et pietate et eruditione claro d. Henrycho Bulingero, ecclesiastę Tigurino, domino suo summopere colendo.<fl>a</fl><fl>18</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2815">
+		<alpha>
+			<fn ref="a"><i>Darunter von einer späteren Hand:</i> <persName ref="9046">Joannes Pistorius</persName>.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Damit ist Bullingers Brief zum Abendmahlsstreit vom 31. März 1546 <i>(HBBW</i> XVI, <link fk_file="12448">Nr. 2401</link>) gemeint (vgl. unten Z. 27-33), den <persName ref="9046">Pistorius</persName> offensichtlich erst im Mai erhalten hatte.</fn>
+			<fn ref="2"><persName ref="9046">Pistorius</persName> wohnte nämlich in <placeName ref="1678">Nidda</placeName>, etwa 50 km südlich von <placeName ref="311">Marburg</placeName>.</fn>
+			<fn ref="3"><persName ref="8009">Johannes Fabricius (Schmid) Montanus</persName>, <persName ref="1234">Hans Rudolf Funk</persName>, <persName ref="8469">Heinrich Hindermann (Opisander)</persName>, <persName ref="6534">Karl Schweninger</persName> und vielleicht auch <persName ref="5838">Wilhelm Meyer</persName>; s. <bibl>HBBW</bibl> XV 542f, Anm. 2; XVI 137. Sie kamen im März 1547 zurück nach Zürich; s. <bibl>HBBW</bibl> XVII 428f, Anm. 59.</fn>
+			<fn ref="4">50 km südlich von <placeName ref="1678">Nidda</placeName>. - <placeName ref="157">Frankfurt</placeName> war von den Truppen <persName ref="7459">Maximilians von Egmont</persName>, Graf von Büren, besetzt; s. <link fk_file="12792">Nr. 2743</link>, Anm. 40; <link fk_file="12859">Nr. 2810</link>, Anm. 5.</fn>
+			<fn ref="5"><persName ref="18574">Philipp von Hessen</persName>.</fn>
+			<fn ref="6">Anspielung auf das Bündnis, das die Schmalkaldener damals mit <persName ref="7637">König Franz I.</persName> gegen <persName ref="18538">Karl V.</persName> zu schließen versuchten; s. dazu <bibl>HBBW</bibl> XVIII 92; 236,32-34 und Anm. 27; 249f; 321f; 336,22-24; 348f; 393f.</fn>
+			<fn ref="7">Gemeint ist <persName ref="7637">Franz I.</persName>; vgl. etwa <bibl>HBBW</bibl> XVIII 336,24.</fn>
+			<fn ref="8">Anspielung auf Dan 4.</fn>
+			<fn ref="9">persequi conaretur [foedus cum rege Egyptio].</fn>
+			<fn ref="10">Indem einer behauptet, dass diese Allianz mit <entity id="34" type="geo_country">Ägypten</entity> notwendig sei, und so Gottes Zorn auf sich zieht; vgl. z.B. Jes 30, 1-7; Jer 2, 36.</fn>
+			<fn ref="11">Vgl. 1Tim 1, 12.</fn>
+			<fn ref="12">Vgl. Kol 2, 10.</fn>
+			<fn ref="13">Vgl. Joh 15, 5; Apg 17, 28; Phil 4, 13.</fn>
+			<fn ref="14">Siehe oben Anm. 1. - Dies ist der letzte bekannte Brief an Bullinger von dem damals 45 Jahre alten <persName ref="9046">Pistorius</persName> (gest. 1580).</fn>
+			<fn ref="15">über das Abendmahl.</fn>
+			<fn ref="16"><persName ref="8011">Rudolf Gwalther</persName>.</fn>
+			<fn ref="17">Hier liegt ein Wortspiel vor, welches auf den damaligen Kriegszustand in <placeName ref="664">Hessen</placeName> anspielt.</fn>
+			<fn ref="18">Dieser Brief wurde genauso wie Brief <link fk_file="12867">Nr. 2818</link> vom 20. Februar den nach Zürich zurückreisenden, oben in Anm. 3 genannten Studenten anvertraut: vgl. <link fk_file="12867">Nr. 2818</link>, Anm. 22.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12913" id_hbbw="2864" id_irg_sort="2864" id_sort="128640">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12913</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2864</arpa>
+		<scan_pages>
+			<scan id="30235" dir="12913/Autograph/" page="1">00 E_II_351__fol__46_r_.tif</scan>
+			<scan id="30236" dir="12913/Autograph/" page="2">01 E_II_351__fol__46_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26374" vf="1" fk_add_type="1">
+				<person id="8049" fk_id="8049">
+					<name>Vadian (von Watt)</name>
+					<forename>Joachim</forename>
+				</person>
+				<place id="474" vf="1" fk_id="473" long="9.37477" lat="47.42391">St. Gallen</place>
+				<district id="169">St.Gallen</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26375" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12913">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">28</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19485">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 351,46</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9170" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Vadian BW VI, S. 609f, Nr. 1527</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="14">
+				<lang id="1" iso="de" count="3" p="21.4"/>
+				<lang id="5" iso="la" count="11" p="78.6"/>
+			</sentences>
+			<words count="324">
+				<lang id="1" iso="de" count="163" p="50.3"/>
+				<lang id="5" iso="la" count="161" p="49.7"/>
+			</words>
+			<chars count="1808">
+				<lang id="1" iso="de" count="827" p="45.7"/>
+				<lang id="5" iso="la" count="981" p="54.3"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2864" page="457">
+		<div ref="1">
+			[1] <persName ref="8083">Johann Valentin Furtmüller</persName> und <persName ref="7188">Anton Zili</persName><fl>1</fl> informieren
+			Bullinger, dass der ehemalige Pfarrer von <placeName ref="1083">Gais</placeName> [<persName ref="4459">Balthasar Buol</persName>],
+			ein großer Schwätzer, den man entließ, weil er sich täglich im Wirtshaus betrank und von dort nach Hause
+			geführt oder getragen werden musste, nun in <placeName ref="2409">Kesswil</placeName>
+			(<placeName ref="774">Thurgau</placeName>) als Prädikant angenommen wurde. Daher bitten sie
+			Bullinger inständig, dessen Entlassung bei dem [aus Zürich stammenden]
+			<placeName ref="774">Thurgauer</placeName> Landvogt [<persName ref="5278">Leonhard Holzhalb</persName>] zu bewirken, damit jener
+			auf die andere Seite des [Boden]sees (woher er kam) zurückgeschickt werde! Er gehört dem St. Galler Kapitel
+			an, wo er allen Kollegen lästig fällt.<fl>2</fl> Bestimmt gibt es in
+			<placeName ref="457">Konstanz</placeName> fromme Pfarrer, die der Pfarrei
+			<placeName ref="2409">Kesswil</placeName> und auch anderen Kirchgemeinden gut dienen könnten.
+		</div>
+		<div ref="2">
+			[2] Die gute Nachricht, die Bullinger übermitteln ließ,<fl>3</fl> wurde mit Freude empfangen. Möge die
+			Gottlosigkeit endlich besiegt werden und es nicht zu einer unerhörten Tyrannei kommen! In einem Brief aus
+			<placeName ref="361">Nürnberg</placeName>, der gestern eintraf, stand, dass nach der Niederlage des
+			Herzogs <persName ref="18250">Moritz von Sachsen</persName> bei <placeName ref="2396">Rochlitz</placeName> dieser noch
+			woanders<fl>4</fl> vom Kurfürsten <persName ref="19065">Johann Friedrich von Sachsen</persName> besiegt wurde und einen Verlust von 8000 Mann
+			hinnehmen musste. Auch [das Bistum] <placeName ref="1703">Bamberg</placeName> soll von Truppen des
+			Kurfürsten besetzt<pb_edition start_of="458"/> worden sein.<fl>5</fl> Zweifelsohne ziehen die
+			<entity id="19" type="geo_region">Franken</entity> den Kurfürsten <persName ref="18538">Kaiser Karl V.</persName> vor, und wird der mit guten
+			Truppen versehene Kurfürst den Kaiser angreifen, egal, wie groß dessen Heer sein mag.
+		</div>
+		<div ref="3">
+			[3] <persName ref="8049">Vadian</persName> wird weiterhin Neuigkeiten übermitteln, und Bullinger soll nach der
+			<placeName ref="21">Badener</placeName> Tagsatzung<fl>6</fl> ausführlich mitteilen, was er von
+			<persName ref="1419">Johannes Haab</persName> darüber in Erfahrung bringen konnte, da die St. Galler keinen Gesandten in
+			<placeName ref="21">Baden</placeName> haben werden. Die letzten Aufzeichnungen Bullingers zur
+			vorhergehenden Tagsatzung<fl>7</fl> wurden von den Ratsherren, denen <persName ref="8049">Vadian</persName><fl>8</fl> sie vorlas, sehr
+			geschätzt.
+		</div>
+		<div ref="4">
+			[4] Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2864" page="457">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. P. D.</s>
+				<s n="2" lang="de" state="auto"><persName ref="8083">Fortmüller</persName><fl>9</fl> und <persName ref="7188">Antoni Zyli</persName><fl>10</fl>, unser prediger, habend mich diser tagen gar vast<fl>11</fl> gebetten, an euch ze schreyben, wie die von <placeName ref="2409">Kesswil</placeName> imm Turgöw ainen<fl>12</fl> zuͦ predigen angenomen, der vormals ain zeyt lang uff Gaiß imm landt Appenzell sich endthalten<fl>13</fl> und doch zuͦletzst urlob empfangen hab<fl>14</fl>, von wegen das er täglichs in demm weinhuß<fl>15</fl> ligt, vil unruͦw macht, übel schwêrdt und so voll wirt, das man in in sein behusung fuͤren und tragen muͦß; hat khainen verstand, kan wol schwetzen und ist khain grond darhinder, richt gar vil anstoßes und verletzung an, etc.</s>
+				<s n="3" lang="de" state="auto">Harum<fl>16</fl> ir ernstlich pitt an e[wer] w[ürde] were: Hettend so wol thuͦn und die sach durch den herren landtvogt im Turgöuw<fl>17</fl> dermaßen angericht, damit er<fl>18</fl> da dannen<fl>19</fl> und widerum über see<fl>20</fl> (da dannen er khommen ist) verwysen wurde.</s>
+				<s n="4" lang="de" state="auto">Er ghört in das Santgaller capitel und ist allen bruͤdern überlegen<fl>21</fl>, und werind zuͦ <placeName ref="457">Costentz</placeName> wol fromme bruͤder, die disser pfarr <placeName ref="2409">Kesswil</placeName> und andern eerlichen kirchorinen<fl>22</fl> wol möchtind mit guͦten exemplen vorsten, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="la" state="auto">Nuncium illum laetum<fl>23</fl>, cuius meministi, certe laetis animis accepimus precamurque dominum, ut tandem succumbat impietas<fl>24</fl> nec succedat pro voto saevę et inauditae tyrannidi.</s>
+				<s n="6" lang="la" state="auto">Nostri haeri literas e <placeName ref="361">Norimberga</placeName> acceperunt, quibus significatur, post cladem illam Rochlicensem<fl>25</fl> <persName ref="18250" state="auto_name">Mauricii</persName><fl>26</fl> copias alio loco rursum profligatas, octo milibus equitum et peditum desideratis.</s>
+				<s n="7" lang="la" state="auto">Ferunt et <placeName ref="1703">Bambergam</placeName> occupatam ab electoris<fl>27</fl> copiis, nec est dubium, quin Franci Germanici plus faveant Saxoni quam caesari<fl>28</fl>.</s>
+				<s n="8" lang="la" state="auto">Certum est instructissimo exercitu electorem adorsurum caesaris exercitum, quantuscunque tandem sit futurus, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="9" lang="la" state="auto">Si quid novi erit in posterum, non reticebo et te oratum velim, ut, quoniam neminem iis appetentibus commitiis legatum ad Thermas<fl>29</fl> habebimus, tu te finitis illis ex Habio nostro omnia, quae modo concredi<fl>30</fl> possunt, intelligere et ad me bene longis perscribere velis.</s>
+				<s n="10" lang="la" state="auto">Nuperas<fl>31</fl> enim tuas paris argumenti, quum in senatu legissem,<fl>32</fl> summa tui gratia auditę sunt.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="11" lang="la" state="auto">Vale.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Sangalli, 5. calendas aprilis, anno 1547.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Tuus ex animo <persName ref="8049">Ioachimus Vadianus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="14" lang="la" state="auto">Doctissimo viro domino Henrycho Bullingero, clarę ecclesiae Tigurinae episcopo, domino suo colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2864">
+		<alpha/>
+		<num>
+			<fn ref="1" type="bio" fk_person="7188"><persName ref="7188">Anton Zili</persName>, von St. Gallen, geb. 13. Februar 1494, gest. 29. März 1571, der seit 1542 Pfarrer an der St. Laurenzen-Kirche in St. Gallen war, während Furtmüller im gleichen Jahr zum Prediger der gleichen Kirche ernannt wurde. Von 1554 bis 1563 war Zili Präsident der St. Galler Synode. Seine Bibliothek ging nach seinem Tode an die Stadt über; s. <i>Pf-St. Gallen 25f.</i></fn>
+			<fn ref="2">Balthasar Buol aus dem Prättigau, ab 1546 Pfarrer in Gais (Kt. Appenzell Außerrhoden); s. Johann Caspar <i>Zellweger,</i> Geschichte des Appenzellischen Volkes, Bd. 3/2, Trogen 1840, S. 336f; <i>Pf-Appenzell'</i> 86, wo die Vermutung, dass Buol vielleicht nicht bis 1550 in Gais amtete, aufgrund des vorliegenden Briefes nun als sicher gelten kann: Buol wird bereits vor März 1547 entlassen worden sein. Wie lange er in der am Bodensee gelegenen Gemeinde Kesswil (Bezirk Arbon, Kt. Thurgau) tätig blieb, ist unbekannt. Aus vorliegendem Brief geht hervor, dass er vor 1546 in Deutschland gewirkt hatte. Näheres ließ sich nicht ermitteln.</fn>
+			<fn ref="3">Mit <link fk_file="12906">Nr. 2857</link>.</fn>
+			<fn ref="4">Ein falsches Gerücht.</fn>
+			<fn ref="5">Gemeint ist der von einigen kurfürstlichen Befehlshabern unternommene Streifzug gegen das fränkische, zum Bistum Bamberg gehörende Territorium des gefangenen Markgrafen Albrecht II. Alcibiades von Brandenburg-Kulmbach. Nach der Besetzung von Hof an der Saale am 10. März wurden Schlösser und Dörfer bis Münchberg (beide Ortschaften in Oberfranken, Bayern) gebrandschatzt; s. <i>Voigt, Moritz 341; <persName ref="18250">Moritz von Sachsen</persName> PK</i> III 301, <link fk_file="10456">Nr. 421</link>, Anm.</fn>
+			<fn ref="6">Die am 28. März begann; s. dazu <link fk_file="12911">Nr. 2862</link>, Anm. 58.</fn>
+			<fn ref="7">Die am 28. Februar begonnen hatte; s. <link fk_file="12866">Nr. 2817</link>, Anm. 4.</fn>
+			<fn ref="8">Der 1547 Bürgermeister war.</fn>
+			<fn ref="9"><persName ref="8083">Johann Valentin Furtmüller</persName>.</fn>
+			<fn ref="10"><persName ref="7188">Anton Zili</persName>.</fn>
+			<fn ref="11">sehr.</fn>
+			<fn ref="12"><persName ref="4459">Balthasar Buol</persName> aus dem <entity id="110" type="geo_region">Prättigau</entity>.</fn>
+			<fn ref="13">unterhalten, ernährt.</fn>
+			<fn ref="14">urlob empfangen hab: entlassen worden ist.</fn>
+			<fn ref="15">Wirtshaus, Schenke.</fn>
+			<fn ref="16">Deswegen. - Typisch für den Kanzleistil <persName ref="8049">Vadians</persName>; s. <bibl>SI</bibl> I 228.</fn>
+			<fn ref="17"><persName ref="5278">Leonhard Holzhalb</persName> von Zürich.</fn>
+			<fn ref="18">Gemeint ist <persName ref="4459">Buol</persName>.</fn>
+			<fn ref="19">von dort (weg); s. <bibl>SI</bibl> XIII 97.</fn>
+			<fn ref="20"><entity id="1" type="geo_lake">Bodensee</entity>.</fn>
+			<fn ref="21">lästig; s. <bibl>Fischer</bibl> VI/1 44; <bibl>Grimm</bibl> XXIII 383.</fn>
+			<fn ref="22">Plural von Kilchhöri, Chilchhöri: Kirchgemeinden (und die Gesamtheit der zu ihr Gehörenden); s. <bibl>SI</bibl> II 1577f.</fn>
+			<fn ref="23">Damit ist der von Bullinger am 23. März mit <link fk_file="12906">Nr. 2857</link> empfohlene Stadtbote Melchior Vögeli gemeint, der den <placeName ref="474">Sankt Gallern</placeName> eine gute Nachricht übermittelte.</fn>
+			<fn ref="24">Gemeint ist die Gottlosigkeit des Kaisers und seiner Anhänger.</fn>
+			<fn ref="25"><placeName ref="2396">Rochlitz</placeName>. - Siehe <link fk_file="12881">Nr. 2832</link>, <qv>fn17099-2</qv>.</fn>
+			<fn ref="26"><persName ref="18250">Moritz von Sachsen</persName>.</fn>
+			<fn ref="27"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="28"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="29"><placeName ref="21">Baden</placeName> (Kt. Aargau).</fn>
+			<fn ref="30">anvertraut werden.</fn>
+			<fn ref="31">Wohl bei der vorherigen Tagsatzung vom 28. Februar; s. <link fk_file="12866">Nr. 2817</link>, <qv>fn17084-1</qv>.</fn>
+			<fn ref="32"><persName ref="8049">Vadian</persName> war 1547 Bürgermeister.</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="VBS" vol="6" fk_bibliography="41" nr="1527" page="609">
+				<p>
+					 <s n="1" lang="la" state="auto">S. P. D.</s>
+					 <s n="2" lang="de" state="auto">Fortmüller und Antoni Zyli, unser prediger, habend mich diser tagen gar vast gebëtten, an euch ze schreyben, wie die von Kesswil im Turgöw ainen zuͦ predigen angenomen, der vormals ain zeyt lang uff Gaiß im landt Appenzell sich endthalten und doch zuͦletzst urlob empfangen hab, von wegen das er täglichs in dem weinhuß ligt, vil unruͦw macht, übel schwêrdt und so voll wirt, das man in in sein behusung fuͤren und tragen muͦß; hat khainen verstand, khan wol schwëtzen und ist khain grond darhinder, richt gar vil anstoßes und verletzung an etc.</s>
+					 <s n="3" lang="de" state="auto">Harum ir ernstlich pitt an e(wer) W(ürde) wëre: hettend so wol thuͦn und die sach durch herren landtvogt im Turgöuw dermaßen angericht, damit er da dannen und widerum über See (da dannen er khommen ist) verwysen wurde.</s>
+					 <s n="4" lang="de" state="auto">Er ghört in das Santgaller capitel und ist allen bruͤdern überlegen, und werind zu <placeName ref="457">Costentz</placeName> wol fromme bruͤder, die disser pfarr Kesswil und andern eerlichen kirchorinen wol möchtind mit guͦten exemplen vorston etc.</s>
+				</p>
+				<p>
+					 <s n="5" lang="la" state="auto">Nuntium illum Laetum, cuius meministi, certe laetis animis accepimus precamurque dominum, ut tandem succumbat impietas nec succedat pro voto suavę et inauditae tyrannidi.</s>
+					 <s n="6" lang="la" state="auto">Nostri heri literas e Norimberga acceperunt, quibus significatur, post cladem illam Rochlicensem Mauricii copias alio loco rursum profligatas, octo milibus equitum et peditum desideratis.</s>
+					 <s n="7" lang="la" state="auto">Ferunt et Bambergam occupatam ab electoris copiis, nec est dubium, quin Franci Germanici plus faveant Saxoni quam Caesari.</s>
+					 <s n="8" lang="la" state="auto">Certum est, instructissimo exercitu electorem adorsurum Caesaris exercitum, quantuscunque tandem sit futurus etc.</s>
+					 <s n="9" lang="la" state="auto">Si quid novi erit in posterum, non reticebo et te oratum velim, ut quoniam neminem iis appetentibus comitiis legatum ad Thermas habebimus, tute finitis illis ex Habio nostro omnia, quae modo concredi possunt, intelligere et ad me bene longis perscribere velis.</s>
+					 <s n="10" lang="la" state="auto">Nuperas enim tuas paris argumenti quum in senatu legissem, summa tui gratia auditę sunt.</s>
+					 <s n="11" lang="la" state="auto">Vale.</s>
+					 <s n="12" lang="la" state="auto">Sangalli, V. Kalendas Aprilis, anno MDXLVII.</s>
+				</p>
+				<p>
+					 <s n="13" lang="la" state="auto">Tuus ex animo Ioachimus Vadianus.</s>
+				</p>
+				<p>
+					 <s n="14" lang="la" state="auto">Doctissimo viro domino Henrycho Bullingero, clarę ecclesiae Tigurinae episcopo, domino suo colendo.</s>
+				</p>
+			</content>
+			<footnotes fk_bibliography="41" nr="1527"/>
+		</alternative>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2864" page="457"/>
+			<footnotes fk_bibliography="22" nr="2864">
+				<alpha/>
+				<num>
+					 <fn ref="1" type="bio" fk_person="7188"><persName ref="7188">Anton Zili</persName>, von St. Gallen, geb. 13. Februar 1494, gest. 29. März 1571, der seit 1542 Pfarrer an der St. Laurenzen-Kirche in St. Gallen war, während Furtmüller im gleichen Jahr zum Prediger der gleichen Kirche ernannt wurde. Von 1554 bis 1563 war Zili Präsident der St. Galler Synode. Seine Bibliothek ging nach seinem Tode an die Stadt über; s. <i>Pf-St. Gallen 25f.</i></fn>
+					 <fn ref="2">Balthasar Buol aus dem Prättigau, ab 1546 Pfarrer in Gais (Kt. Appenzell Außerrhoden); s. Johann Caspar <i>Zellweger,</i> Geschichte des Appenzellischen Volkes, Bd. 3/2, Trogen 1840, S. 336f; <i>Pf-Appenzell'</i> 86, wo die Vermutung, dass Buol vielleicht nicht bis 1550 in Gais amtete, aufgrund des vorliegenden Briefes nun als sicher gelten kann: Buol wird bereits vor März 1547 entlassen worden sein. Wie lange er in der am Bodensee gelegenen Gemeinde Kesswil (Bezirk Arbon, Kt. Thurgau) tätig blieb, ist unbekannt. Aus vorliegendem Brief geht hervor, dass er vor 1546 in Deutschland gewirkt hatte. Näheres ließ sich nicht ermitteln.</fn>
+					 <fn ref="3">Mit <link fk_file="12906">Nr. 2857</link>.</fn>
+					 <fn ref="4">Ein falsches Gerücht.</fn>
+					 <fn ref="5">Gemeint ist der von einigen kurfürstlichen Befehlshabern unternommene Streifzug gegen das fränkische, zum Bistum Bamberg gehörende Territorium des gefangenen Markgrafen Albrecht II. Alcibiades von Brandenburg-Kulmbach. Nach der Besetzung von Hof an der Saale am 10. März wurden Schlösser und Dörfer bis Münchberg (beide Ortschaften in Oberfranken, Bayern) gebrandschatzt; s. <i>Voigt, Moritz 341; <persName ref="18250">Moritz von Sachsen</persName> PK</i> III 301, <link fk_file="10456">Nr. 421</link>, Anm.</fn>
+					 <fn ref="6">Die am 28. März begann; s. dazu <link fk_file="12911">Nr. 2862</link>, Anm. 58.</fn>
+					 <fn ref="7">Die am 28. Februar begonnen hatte; s. <link fk_file="12866">Nr. 2817</link>, Anm. 4.</fn>
+					 <fn ref="8">Der 1547 Bürgermeister war.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

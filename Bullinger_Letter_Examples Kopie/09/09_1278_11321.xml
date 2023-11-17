@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11321" id_hbbw="1278" id_irg_sort="1278" id_sort="112780">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11321</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1278</arpa>
+		<scan_pages>
+			<scan id="26325" dir="11321/Autograph/" page="1">00 E_II_336__fol__209_r_.tif</scan>
+			<scan id="26326" dir="11321/Autograph/" page="2">01 E_II_336__fol__209_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22976" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22977" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11321">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">6</month>
+				<day fk_d="" d="" vf="1" fn="">8</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17793">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 336,209r.-v.</signature>
+				<signature_old>E II 336,191r.-v.</signature_old>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11112" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1278, S. 152</entry>
+				<page>152</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="42">
+				<lang id="5" iso="la" count="42" p="100.0"/>
+			</sentences>
+			<words count="706">
+				<lang id="5" iso="la" count="706" p="100.0"/>
+			</words>
+			<chars count="4256">
+				<lang id="5" iso="la" count="4256" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1278" page="152">
+		<div ref="1">
+			Die Briefe vom 7. Mai [<link fk_file="11310">Nr. 1267</link>f] sind erst am 6. Juni bei
+			<persName ref="5046">Grynäus</persName> zum Vorschein gekommen. Vom
+			<placeName ref="361">Nürnberger</placeName> Religionsgespräch erhofft sich
+			<persName ref="8418">Myconius</persName> nach anfänglicher Skepsis gegenüber den Vermittlern und den
+			Zugeständnissen [der <placeName ref="1202">Schmalkaldener</placeName>] nun doch Vorteile, da sich
+			unabhängig vom Verhalten der Gegner zeigen wird, auf wessen Seite das Recht ist. Fürchtet, daß
+			<persName ref="4349">Karlstadts</persName> Haß gegen ihn durch einen Brief von
+			<persName ref="8171">Theodor [Bibliander]</persName> noch
+			verstärkt wurde; nachdem sich [die Theologen] schriftlich [gegen die neuen Universitätsstatuten] geäußert
+			haben, gibt es nun neue Diskussionen. Seine früheren Mitteilungen über
+			Herzog <persName ref="19058">Georg [von Sachsen]</persName> beruhen auf den Aussagen eines Boten
+			[<persName ref="8098">Georgs von Württemberg]</persName>, der
+			außerdem berichtete, ein Großteil der Universität <placeName ref="558">Wittenberg</placeName> sei
+			bereits nach <placeName ref="284">Leipzig</placeName> verlegt worden.
+			<persName ref="1998">Johannes [Lüthard]</persName> hat eine
+			Abschrift der Eingabe [der Theologen] angefertigt und wird auch mündlich berichten. Geburt von
+			<persName ref="5046">[Samuel] Grynäus</persName>.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1278" page="152">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Literę, quas ad nos dedisti 7. maii<fl>1</fl>, inventę sunt tandem casu 6. iunii in ędibus d. <persName ref="1365">Grynęi</persName>; hic enim dum chartulam dilaceravit, ex ea literę ceciderunt.</s>
+			</p>
+			<p>
+				<s n="3" lang="la" state="auto">Quocirca non mirare, quod ad eas nec responsum est nec doctoris <persName ref="8049">Vadiani</persName> epistola<fl>2</fl> remissa.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">De conventu <placeName ref="361">Norinbergensi</placeName><fl>3</fl> principio, dum audirem, fortiter perturbabar; in mentem enim veniebant multa et varia, in primis autem, quod audiveram arbitros nescio quos adhibendos a cęsare<fl>4</fl> et <persName ref="18477">Ferdinando</persName>, qui disceptationis deberent esse pacificatores.</s>
+				<s n="5" lang="la" state="auto">Accedebat querimonia quorundam etiam, qui in legatione <placeName ref="157">Francfordiensi</placeName> agebant, quibus valde dolebat indiligentia, qua quidem egerant, quicquid est domini<fl>5</fl>.</s>
+				<s n="6" lang="la" state="auto">Ut autem hic dolor, ita gaudium in Christi clementia, qui non hominum negligentiam, sed causam suam respiciens rem ad articulos, quos nosti<fl>6</fl>, perduxerat, quamvis et hic non aliter satisfactum, quam dum, quod evenit, aequi consulere cogimur.</s>
+				<s n="7" lang="la" state="auto">In illis autem articulis, maxime tamen quę pertinent ad conventum, principibus sequestribus multum certe permissum est, quod <persName ref="18520">Ioachimus</persName><fl>7</fl> ad evangelium totus procumberet, Palatinus<fl>8</fl> accederet in dies magis ac magis.</s>
+				<s n="8" lang="la" state="auto">In conventu putabant<pb_edition start_of="153"/> illud futurum, ut, qualitercunque res caderet, a nobis staret ęquitas; nam si hunc eluserint, habetur causa, quare nec concilium liberum ferre possint hostes; si quid praevaricabuntur praesentes, erunt iterum manifesti.</s>
+				<s n="9" lang="la" state="auto">Si, ut pactum est, successerit, spes erit causam dei melius audituram apud multos ex adversariorum numero, etiamsi reliqui vehementius furore movebuntur et persequutionem instituent crudelissimam; tunc tandem enim illud fiet, quod Christus vere fidelibus suis promisit<fl>9</fl>, et dabit procul dubio constantiam et perseverantiam in finem usque<fl>10</fl>.</s>
+				<s n="10" lang="la" state="auto">Multo autem corda piorum reddentur solidiora, quicquid accidat, postquam apud hostes omnia fecerunt, quę decuit, ad eos domino communi lucrifaciendos, tametsi frus[tra]<fl>b</fl>.</s>
+				<s n="11" lang="la" state="auto">Adde, quod et illud consideratum est valde diligenter, quanam difficultate extrema illa possint copulari, quibus nihil esse potest magis seiunctum.</s>
+				<s n="12" lang="la" state="auto">Vocamus nos papam antichristum et omnes eius fautores antichristi servos; ille contra nos vocat hęreticos et schismaticos et desertores ecclesię.</s>
+				<s n="13" lang="la" state="auto">Qualis, quaeso, copula fuerit, qua tam separata, imo vero tam contraria possint coniungi?</s>
+				<s n="14" lang="la" state="auto">Dico libere: Non erit.</s>
+				<s n="15" lang="la" state="auto">Scimus papam non relicturum suum locum; scimus nostros non cessuros de sententia salutis.</s>
+				<s n="16" lang="la" state="auto">Ad quid igitur conventus?</s>
+				<s n="17" lang="la" state="auto">Ut, quę libris hactenus frustra contendentibus in lucem sunt edita, coram audiantur, discutiantur, ventilentur et cogant adversarios tueri sua contra veritatem et conscientiam vel cedere, tum ut mundus sciat, quam veritas lucem non timeat<fl>11</fl>.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Constat enim, quam hactenus male audiverimus de fuga concilii.</s>
+				<s n="19" lang="la" state="auto">Hęc igitur postquam audivi<fl>12</fl> et pro mea tenuitate consideravi, perturbatio sic imminuta est, ut cum multis timere incipiam, ne veniant hostes <placeName ref="361">Norinbergam</placeName>.</s>
+				<s n="20" lang="la" state="auto">Nescio, quę me spes teneat, ubi inter se partes mentes aperuerint, nobis omnia feliciora futura, sive persequutionem ferre compellamur sive pacem in veritate consequamur.</s>
+				<s n="21" lang="la" state="auto">Ita quidem hęc apud te effundo, qualiter video te quoque fecisse, [nam?]<fl>c</fl> domino magna illa committo; servabit is suos, quicquid nos interim per negligentiam deperdamus.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Reliqua sunt: <persName ref="8171">Theodorus</persName><fl>13</fl> non gratum fecit mihi, quod <persName ref="4349">Carolostadio</persName> scripsit<fl>14</fl>; nam in immensum gravius reddit odium viri contra me.</s>
+				<s n="23" lang="la" state="auto">Suspicatur enim me <persName ref="8171">Theodorum</persName> excitasse.</s>
+				<s n="24" lang="la" state="auto">Quicquid fit contra ipsum, ex me suspicatur exiisse.</s>
+				<s n="25" lang="la" state="auto">Dum mecum est, bla[n]dus<fl>d</fl> est, ridet, veneratur; dum abest, mirum quam me graviter accuset, in primis velim sese eiectum.</s>
+				<s n="26" lang="la" state="auto">Apud te ista loquor.</s>
+			</p>
+			<p>
+				<s n="27" lang="la" state="auto">Tu quę doces, quibus consolaris et fortem facis<fl>15</fl>, scias esse mihi gratissima<pb_edition start_of="154"/> et iucundissima, imo et latura, dum tempus er[it]<fl>e</fl>, utilitatem.</s>
+				<s n="28" lang="la" state="auto">Reddidimus semel rationem, quur pugnemus contra positas leges<fl>16</fl>, domin[is]<fl>f</fl> et universitatis delectui<fl>17</fl>.</s>
+				<s n="29" lang="la" state="auto">Petierunt, ut descriptum responsum sibi offeramus; morem gessimus<fl>18</fl>.</s>
+				<s n="30" lang="la" state="auto">Nunc igitur cogitant, consultant, disputant, scribunt et tueri conantur, quod tamen condidisse se negarunt palam, nempe leges.</s>
+				<s n="31" lang="la" state="auto">Quales tu iudicas eiusmodi homines esse?</s>
+				<s n="32" lang="la" state="auto">De his plura, postquam videbimus, qualibus armis sua sint defensuri.</s>
+			</p>
+			<p>
+				<s n="33" lang="la" state="auto">De <persName ref="19058">Georgio</persName> duce<fl>19</fl> rogavi nuper tabellionem<fl>20</fl>, qui venerat in ędes meas, <placeName ref="28">Basileam</placeName> a principe suo<fl>21</fl> missus, omnia, quae ad te scripsi<fl>22</fl>.</s>
+				<s n="34" lang="la" state="auto">Nihil non adseruit hoc adiecto<pb_scan n="191v."/> principem suum ex ingenti gaudio timere, ne res sic evenerit, et magnam partem scholę Witenbergensis iam translatam esse <placeName ref="284">Lipsiam</placeName><fl>23</fl> ac omnia habere feliciter.</s>
+			</p>
+			<p>
+				<s n="35" lang="la" state="auto">Fratri <persName ref="1998">Ioanni</persName><fl>24</fl> ad describendum dedi, quę magistris nostris obtulimus<fl>25</fl>.</s>
+				<s n="36" lang="la" state="auto">Excerpta sunt ex scripto longissimo, quod congessimus, ut, si foret opus, senatus haberet, qua ratione defendere nostra possemus.</s>
+				<s n="37" lang="la" state="auto">Is narrabit ploeno ore<fl>26</fl>, quam misere diveximur, quod titulis caremus et repugnamus.</s>
+			</p>
+			<p>
+				<s n="38" lang="la" state="auto">Vale cum domo tua et viam domini strenue prosequere.</s>
+				<s n="39" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, 8. iunii anno 39.</s>
+			</p>
+			<p>
+				<s n="40" lang="la" state="auto"><persName ref="8418">Os. Myconius</persName> tuus.</s>
+			</p>
+			<p>
+				<s n="41" lang="la" state="auto">Nocte praecedente d. <persName ref="5046">Grynaeus</persName> filium<fl>27</fl> accepit ab uxore<fl>28</fl>, quo tu putas gaudio! etc.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="42" lang="la" state="auto">Domino Heinricho Bullingero, Tigurinorum antistiti fidelissimo doctissimoque, fratri in domino venerando suo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1278">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichungen von späterer Hand.</i></fn>
+			<fn ref="b-d"><i>Rand beschädigt.</i></fn>
+			<fn ref="e-f"><i>Rand beschädigt.</i></fn>
+			<!-- Splits -->
+			<fn ref="b"><i>Rand beschädigt.</i></fn>
+			<fn ref="c"><i>Rand beschädigt.</i></fn>
+			<fn ref="d"><i>Rand beschädigt.</i></fn>
+			<fn ref="e"><i>Rand beschädigt.</i></fn>
+			<fn ref="f"><i>Rand beschädigt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Gemeint ist Bullingers Brief an <persName ref="8418">Myconius</persName> (oben <link fk_file="11311">Nr. 1268</link>) und wohl auch jener an <persName ref="5046">Grynäus</persName> (oben <link fk_file="11310">Nr. 1267</link>).</fn>
+			<fn ref="2">Siehe oben <link fk_file="11310">Nr. 1267</link>, 3-5 mit Anm. 2.</fn>
+			<fn ref="3">Bullinger hatte seinen Unmut über das in <placeName ref="157">Frankfurt</placeName> beschlossene Religionsgespräch zum Ausdruck gebracht; s. oben <link fk_file="11310">Nr. 1267</link>, 9-13; 1268, 13-34.</fn>
+			<fn ref="4"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="5">Vgl. etwa <persName ref="467">Bucers</persName> Kritik an <persName ref="18574">Philipp von Hessen</persName> und <persName ref="19065">Johann Friedrich von Sachsen</persName> in seinem Brief an <persName ref="8055">Ambrosius Blarer</persName> vom 30. April (<bibl>Blarer BW</bibl> II 23f).</fn>
+			<fn ref="6">Gemeint ist der <placeName ref="157">Frankfurter</placeName> Anstand vom 19. April; vgl. oben <link fk_file="11316">Nr. 1273</link>, 19-21.</fn>
+			<fn ref="7"><persName ref="18520">Joachim II.</persName>, Kurfürst von Brandenburg.</fn>
+			<fn ref="8"><persName ref="18548">Ludwig V.</persName>, Kurfürst von der Pfalz.</fn>
+			<fn ref="9">Vgl. etwa Mt 10, 17-25; 24, 3-14.</fn>
+			<fn ref="10">Vgl. Mt 10, 22; 24, 13.</fn>
+			<fn ref="11">Vgl. Joh3,21.</fn>
+			<fn ref="12"><persName ref="8418">Myconius</persName> lehnt sich an Überlegungen <persName ref="467">Bucers</persName> an; vgl. dessen undatierten Brief an <persName ref="8418">Myconius</persName> und <persName ref="1365">Grynäus</persName> in Zürich ZB, Ms F 80, 140, aber auch das oben Anm. 5 erwähnte Schreiben.</fn>
+			<fn ref="13"><persName ref="8171">Theodor Bibliander</persName>.</fn>
+			<fn ref="14"><persName ref="8171">Bibliander</persName> hatte zwar am 26. Mai in einem Brief an <persName ref="8418">Myconius</persName> angekündigt, <persName ref="4349">Karlstadt</persName> ermahnen zu wollen (s. Zürich StA, E II 340, 142), doch verzichtete er auf Rat von Freunden darauf (s. ebd., 124).</fn>
+			<fn ref="15"><persName ref="8418">Myconius</persName> bezieht sich auf Bullingers eingangs erwähnten Brief.</fn>
+			<fn ref="16">Gemeint sind die neuen Universitätsstatuten; s. oben <link fk_file="11307">Nr. 1264</link>, 1-7.</fn>
+			<fn ref="17">d. h. dem Rat und der Regenz.</fn>
+			<fn ref="18">Vgl. unten Z. 63-66.</fn>
+			<fn ref="19">Herzog <persName ref="19058">Georg von Sachsen</persName>.</fn>
+			<fn ref="20">Unbekannt.</fn>
+			<fn ref="21">Graf <persName ref="8098">Georg von Württemberg-Mömpelgard</persName>; vgl. oben <link fk_file="11316">Nr. 1273</link>, 33-35.</fn>
+			<fn ref="22">Ebd., Z. 21-33.</fn>
+			<fn ref="23">Ein unzutreffendes Gerücht.</fn>
+			<fn ref="24"><persName ref="1998">Johannes Lüthard</persName> (<persName ref="8418">Myconius</persName> nennt ihn auch "frater Ioannes minorita", s. Zürich StA, E II 343, 160).</fn>
+			<fn ref="25">Die undatierte Stellungnahme der Theologen gegen die neuen Universitätsstatuten ist nur in Abschrift überliefert (<placeName ref="28">Basel</placeName> UB, Ms. Ki. Ar. 23a, 175r.-177v.); <persName ref="1998">Lüthards</persName> Kopie scheint verloren zu sein. Zum Inhalt vgl. <bibl>Burckhardt-Biedermann</bibl> 469f.</fn>
+			<fn ref="26">Zu <persName ref="1998">Lüthards</persName> Besuch in Zürich vgl. <bibl>Pellikan, Chronikon</bibl> 149.</fn>
+			<fn ref="27" type="bio" fk_person="5046"><persName ref="5046">Samuel Grynäus</persName>, 1539-1599, immatrikulierte sich 1551/52 in <placeName ref="28">Basel</placeName>, 1559 in <placeName ref="512">Tübingen</placeName> und 1561 in <placeName ref="1690">Dôle</placeName>. 1565 wurde er in <placeName ref="28">Basel</placeName> zum Magister und 1569 zum Doktor beider Rechte promoviert. Ab 1571 lehrte er an der juristischen Fakultät, und 1591 wurde er zum Stadtsyndicus ernannt. - Lit.: <placeName ref="28">Basel</placeName>, Matrikel II 72, Nr. 21; Professoren der Universität <placeName ref="28">Basel</placeName> aus fünf Jahrhunderten. Bildnisse und Würdigungen, hg. v. Andreas Staehelin, <placeName ref="28">Basel</placeName> 1960, S. 54f.</fn>
+			<fn ref="28" type="bio" fk_person="5044"><persName ref="5044">Katharina, geb. Lompart</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

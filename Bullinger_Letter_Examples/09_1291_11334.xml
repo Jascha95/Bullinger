@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11334" id_hbbw="1291" id_irg_sort="1291" id_sort="112910">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11334</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1291</arpa>
+		<scan_pages/>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23003" vf="1" fk_add_type="2">
+				<title id="49" fk_place="">Pfarrer</title>
+				<institution id="15" fk_place="">Kapitel</institution>
+				<text>die Pfarrer des Wetzikoner Kapitels</text>
+				<place id="70" vf="1" fk_id="70" long="8.8179" lat="47.26698">Bubikon</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23005" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+			<addressee id="23006" vf="1" fk_add_type="1">
+				<person id="1753" fk_id="1753">
+					<name>Jud</name>
+					<forename>Leo</forename>
+				</person>
+			</addressee>
+			<addressee id="23007" vf="1" fk_add_type="1">
+				<person id="8412" fk_id="8412">
+					<name>Megander (Großmann)</name>
+					<forename>Kaspar</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11334">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">7</month>
+				<day fk_d="" d="" vf="1" fn="">29</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17805">
+				<doc_type id="1">Original</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms A 70,355, Nr. 36</signature>
+				<author>Stumpf, Johannes</author>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11077" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1291, S. 183</entry>
+				<page>183</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="8">
+				<lang id="1" iso="de" count="8" p="100.0"/>
+			</sentences>
+			<words count="363">
+				<lang id="1" iso="de" count="363" p="100.0"/>
+			</words>
+			<chars count="2046">
+				<lang id="1" iso="de" count="2046" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1291" page="182">
+		<div ref="1">
+			Die Kirchgemeinde <placeName ref="127">Dürnten</placeName> wird seit Jahr und Tag nur mangelhaft
+			betreut, weil ihr Pfarrer, <persName ref="7194">Ulrich [Zingg]</persName>, krank ist, und weil sie daher notdürftig von Diakonen [und
+			Pfarrern] aus den umliegenden Gemeinden versehen werden muß. Da nun Pfarrer
+			[<persName ref="7194">Zingg</persName>] - wie sie vernommen haben - von seinen Amtspflichten befreit
+			worden ist und mit seiner Familie anderweitig versorgt wird, bitten sie, beim Rat auf die Besetzung des
+			Amtes mit einem ständigen Pfarrer zu drängen.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="9" fk_bibliography="11" nr="1291" page="183">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Gnad und frid von gott, dem vatter, durch Christum, synen gesalbten etc.</s>
+			</p>
+			<p>
+				<s n="2" lang="de" state="auto">Fromme, getrüwen, lieben hern und vätter, nachdem durch schwere kranckheyt bruͦder <persName ref="7194">Ulrichen</persName><fl>2</fl>, pfarers zu <placeName ref="127">Dürnten</placeName>, dießelbige pfar und kilch zu <placeName ref="127">Dürnten</placeName> nunhar by jar und tagen (so lang des gedachten bruͦders siechtagen<fl>3</fl> im bett, artznen zu Zürich und badenfart gewert hat) hin und wider stuckwerchs wyße, jetz durch den diaconum zu <placeName ref="1244">Wald</placeName><fl>4</fl>, denn<fl>5</fl> durch den von Gosßow<fl>6</fl>, ettwan<fl>7</fl> durch den von <persName ref="6730" state="auto_name">Bubicken</persName><fl>8</fl> und ouch den von Rütti<fl>9</fl> eben onordelich versehen<fl>10</fl> worden, da dan die gmeynd unßers bedunckens nit wenig zu unwillen und die kilch (so vorhin durch die widertöuffer beschmeytzt<fl>11</fl>) zu merer zerrüttung und unordnung gefürdert ist.</s>
+			</p>
+			<p>
+				<s n="3" lang="de" state="auto">Diewyl wir dan warlich bericht<fl>12</fl> werdend, das unßer g[nedig] h[erren], ein wyßer rhadt, obgenannten hern <persName ref="7194">Ulrichen</persName> die pfar Durnten, noch andere ampter, gestalt nach synes onvermögens<fl>13</fl>, dißer zyt zuversehen zu blodt<fl>14</fl> syn erkennt<fl>15</fl> und deßhalb in mit synen kinden sonst nach nodturfft vätterlich zuversorgen vor handen<fl>16</fl> und bevolhen<fl>a</fl> habend, und sich aber die vollendung<fl>17</fl> solchs bevelchs zu längerem verzug neygen mochte, dardurch der kilchen nit geholffen werden und das folck durch zuvil lange beroubung eynes stätten<fl>18</fl> hirtens in merer verdruß und liederlicheit gefürdert werden mochte, herumb<fl>19</fl> ist an uch, unßere lieben herrn und vätter, unßer dienstlich<fl>20</fl> bidt und früntlich begären, nach gestalt der sachen by unßern g. h.<pb_edition start_of="184"/> anzehalten<fl>21</fl> und flyß zuthon, darmit die obberürte kilch (die denn eynes tapffern, wolgelerten manns wol wert, ouch mit zimlich guttem inkommen der besoldung begabt<fl>22</fl> ist) one lengern verzug mit eynem stätten hirten versehen werdi.</s>
+				<s n="4" lang="de" state="auto">Das achten<fl>23</fl> wir gantz von nodten und nützlich syn, wollend ouch solchs umb uch sampt und jedem besonder<fl>24</fl> unßers vermogens früntlich zuverdienen<fl>25</fl> geflisßen syn.</s>
+				<s n="5" lang="de" state="auto">Hiemit habend uns gemeynlich und sonderlich als uwern willigen brüedern all zyt zugepietten, und sind dem hern sampt uwer bevolhnen kilchen in trüwen bevolhen.</s>
+			</p>
+			<p>
+				<s n="6" lang="de" state="auto">Datum Buͦbicken uß gmeynem colloquio, 29. iulii anno etc. 1539, under unßers mitbruͦders von Buͦbicken<fl>26</fl> gewonlichem bittschett<fl>27</fl> und merckzeichen<fl>28</fl> beschlosßen.</s>
+			</p>
+			<p>
+				<s n="7" lang="de" state="auto">U[wer] a[ller] w[illige] b[rüeder], die diener der kilchen in ampt Grüeningen sampt und sonders.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="8" lang="de" state="auto">Den frommen, wolgelerten unnd getrüwen M. Heinrichen Bullingern, M. <persName ref="1753">Leoni Iude</persName> und <persName ref="8412">Casparn Megandern</persName> etc., dienern der kilchen Zürich, unßern lieben herrn unnd vättern gemeynlich und jedem besonder zu handen.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1291">
+		<alpha>
+			<fn ref="a"><i>vor</i> bevolhen <i>gestrichenes</i> ge.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Das vorliegende Schreiben wurde am 12. August nach Zürich abgeschickt; vgl. unten <link fk_file="11338">Nr. 1295</link>, 12-14, mit Anm. 10.</fn>
+			<fn ref="2" type="bio" fk_person="7194"><persName ref="7194">Ulrich Zingg</persName>, gest. 1549, war bis zur Reformation Konventual im Kloster <placeName ref="435">Rüti</placeName> (Kt. Zürich). Seit spätestens 1524 amtete er als Pfarrer in <placeName ref="127">Dürnten</placeName>. 1528 nahm er an der <placeName ref="41">Berner</placeName> Disputation teil. Im Jahre 1541 geriet er - nun Pfarrer in <placeName ref="435">Rüti</placeName> - in schwere Auseinandersetzungen mit dem Klosteramtmann <persName ref="5115">Hans Habersaat</persName>, wobei er von der Frühjahrssynode ein gutes Zeugnis ausgestellt erhielt. 1542 wurde er Helfer zu St. Jakob (Zürich), erhielt 1545 das Bürgerrecht und war schließlich ab 1547 als Diakon (Leutpriesterpfrund) am Großmünster tätig. - Lit.: Zürich StA, E II 1, 268; Pfarrer des Wetzikoner Kapitels an Bullinger u. a. Pfarrer, 15. März 1541 (ebd. 273-276); Pfarrerbuch 657; AZürcherRef, Reg.; <bibl>HBLS</bibl> VII 666.</fn>
+			<fn ref="3">Krankheit.</fn>
+			<fn ref="4"><persName ref="6797">Dietrich Thöny</persName>, seit 1533 Diakon in <placeName ref="1244">Wald</placeName> (Kt. Zürich); vgl. Pfarrerbuch 98 und 565.</fn>
+			<fn ref="5">bald ... bald.</fn>
+			<fn ref="6"><persName ref="6293">Joachim Rugglisberger</persName>, seit 1536 Diakon in <placeName ref="909">Goßau</placeName> (Kt. Zürich); vgl. Pfarrerbuch 35 und 491.</fn>
+			<fn ref="7">manchmal.</fn>
+			<fn ref="8"><persName ref="6730">Johannes Stumpf</persName>.</fn>
+			<fn ref="9"><persName ref="4754">Michael Farner</persName>, seit 1536 Pfarrer in <placeName ref="435">Rüti</placeName>; vgl. <bibl>HBBW</bibl> IV <link fk_file="10508">[Nr. 472]</link>, S. 396, Anm. 1, sowie <persName ref="8130">Lorenz Meyer</persName> an <persName ref="6730">Stumpf</persName>, 1. Juni 1536 (Zürich ZB, Ms S 313, 8r.); Pfarrerbuch 268 irrt.</fn>
+			<fn ref="10">nur unzureichend betreut.</fn>
+			<fn ref="11" type="bio" fk_person="7194">besudelt. - 1526 war gegen <persName ref="7194">Ulrich Zingg</persName> wegen Äußerungen gegen die Kindertaufe ermittelt worden (s. <bibl>QGTS</bibl> I 183-188). 1533 widerrief die Täuferin <persName ref="17767">Adelheid Hotz</persName> von <placeName ref="127">Dürnten</placeName> (s. ebd., S. 329, <link fk_file="10335">Nr. 304</link>u).</fn>
+			<fn ref="12">zuverlässig informiert.</fn>
+			<fn ref="13">wegen seiner Kränklichkeit.</fn>
+			<fn ref="14">schwach.</fn>
+			<fn ref="15">beurteilt.</fn>
+			<fn ref="16">vorgenommen.</fn>
+			<fn ref="17">Ausführung.</fn>
+			<fn ref="18">ständigen.</fn>
+			<fn ref="19">deshalb.</fn>
+			<fn ref="20">dienstbeflissen, ergeben.</fn>
+			<fn ref="21">zu bitten, zu drängen.</fn>
+			<fn ref="22">dotiert.</fn>
+			<fn ref="23">erachten.</fn>
+			<fn ref="24">gemeinsam und jedem einzelnen.</fn>
+			<fn ref="25">zu entgelten.</fn>
+			<fn ref="26"><persName ref="6730">Johannes Stumpf</persName>.</fn>
+			<fn ref="27">Petschaft.</fn>
+			<fn ref="28">Kennzeichen.</fn>
+		</num>
+	</footnotes>
+</file>

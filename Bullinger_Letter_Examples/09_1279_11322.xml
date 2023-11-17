@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11322" id_hbbw="1279" id_irg_sort="1279" id_sort="112790">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11322</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1279</arpa>
+		<scan_pages>
+			<scan id="26327" dir="11322/Autograph/" page="1">00 E_II_342__fol__99_r_.tif</scan>
+			<scan id="26328" dir="11322/Autograph/" page="2">01 E_II_342__fol__99_v_.tif</scan>
+		</scan_pages>
+		<reference id="42" fk_id="42" fk_lang_code="42">
+			<entry>Die Vadianische Briefsammlung der Stadtbibliothek St. Gallen, hg. v. Emil Arbenz und Hermann Wartmann, 7 Bde., St. Gallen 1890-1913 - MVG 24-30a.</entry>
+			<title>Vadian BW V</title>
+			<abbrev>VBS</abbrev>
+			<editor>Arbenz, Emil; Wartmann, Hermann</editor>
+			<period>1531-1540</period>
+			<year>1890-1913</year>
+			<place>St. Gallen</place>
+			<publisher>Fehr'sche Buchhandlung</publisher>
+			<volume>V</volume>
+		</reference>
+		<senders>
+			<sender id="22978" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22979" vf="1" fk_add_type="1">
+				<person id="8049" fk_id="8049">
+					<name>Vadian (von Watt)</name>
+					<forename>Joachim</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11322">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">6</month>
+				<day fk_d="" d="" vf="1" fn="">14</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17794">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,99</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9520" fk_bib="0">
+				<entry>Vadian BW V, S. 562f, Nr. 1062</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="17">
+				<lang id="1" iso="de" count="1" p="5.9"/>
+				<lang id="5" iso="la" count="16" p="94.1"/>
+			</sentences>
+			<words count="165">
+				<lang id="1" iso="de" count="6" p="3.6"/>
+				<lang id="5" iso="la" count="159" p="96.4"/>
+			</words>
+			<chars count="975">
+				<lang id="1" iso="de" count="31" p="3.2"/>
+				<lang id="5" iso="la" count="944" p="96.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1279" page="155">
+		<div ref="1">
+			Erkennt in <persName ref="8049">Vadians</persName> Bemühungen seine große Wertschätzung. Hat seinen
+			ausführlichen und gelehrten Brief zur [geplanten] Nürnberger Tagung gelesen; bleibt zwar bei seiner Meinung,
+			wird sich aber mit <persName ref="8049">Vadian</persName> freuen, wenn die Sache besser ausgeht als
+			von ihm selbst vorausgesagt. Übersendet [den Schlußteil von] <persName ref="8049">Vadians</persName>
+			Brief [<link fk_file="10936">Nr. 894</link>], den er zusammen mit den [fünf] Büchern des
+			Vigilius [„Contra Eutychen“] publizieren möchte; hat ihn verändert,
+			wird jedoch nichts gegen den Willen <persName ref="8049">Vadians</persName> tun, und bittet um
+			Rücksendung durch <persName ref="1888">[Hans Rudolf] Lavater</persName>.
+		</div>
+	</regest>
+	<letter lang="la" edition="VBS" vol="5" fk_bibliography="42" nr="1062" page="562">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et vitae innocentiam a domino.</s>
+				<s n="2" lang="la" state="auto">Video, Vadiane mi, et experior subinde maioribus accedentibus argumentis, quanti me facias et quantum ames; nullis enim laboribus, etsi occupatissimus sis, parcis.</s>
+				<s n="3" lang="la" state="auto">Legi copiosam illam et doctam epistolam, superioribus diebus ad me datam de conventu Nerobergensi, et ago gratias tibi ingentes.</s>
+				<s n="4" lang="la" state="auto">Interim vero de priore sententia (ne quid dissimulem) nihil mutavi.</s>
+				<s n="5" lang="la" state="auto">Quodsi melius cesserit res, quam ipse vaticinatus sum, gratias agam tecum domino.</s>
+				<s n="6" lang="la" state="auto">De his tamen alias plura.</s>
+				<s n="7" lang="la" state="auto">- Nunc vero, ne tibi molestus esse desinam, epistolam tuam, immo nostram, tibi mitto, quam statui addere libris Vigilii et vulgare.</s>
+				<s n="8" lang="la" state="auto">Mitto autem, ut videas, quomodo vulgandam commode credamus.</s>
+				<s n="9" lang="la" state="auto">Quod si displicuerit, nil sine tuo consensu tentabo.</s>
+				<s n="10" lang="la" state="auto">Reddes ergo epistolam Lavatero nostro.</s>
+				<s n="11" lang="la" state="auto">Nihil mutatum in priore folio, sed rescriptum propter cohaerentiam posterioris, in quo multa, ut vides, intermissa sunt.</s>
+				<s n="12" lang="la" state="auto">Oro autem per dominum et humanitatem tuam praeclaram, ne aegre feras meam impudentiam.</s>
+				<s n="13" lang="la" state="auto">Valebis.</s>
+				<s n="14" lang="la" state="auto">14. Iunii, anno 1539.</s>
+				<s n="15" lang="la" state="auto">H(einricus) Bullingerus tuus.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">D. Ioachimo Vadiano, domino colendissimo.</s>
+				<s n="17" lang="de" state="auto">- Dem herren bürgermeister von Watt.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="42" nr="1062"/>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1279" page="155"/>
+			<footnotes fk_bibliography="11" nr="1279"/>
+		</alternative>
+	</alternatives>
+</file>

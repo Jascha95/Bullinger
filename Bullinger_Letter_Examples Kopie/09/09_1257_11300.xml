@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11300" id_hbbw="1257" id_irg_sort="1257" id_sort="112570">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11300</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1257</arpa>
+		<scan_pages>
+			<scan id="26275" dir="11300/Autograph/" page="1">00 E_II_336__fol__206_r_.tif</scan>
+			<scan id="26276" dir="11300/Autograph/" page="2">01 E_II_336__fol__206_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22934" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22935" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11300">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">4</month>
+				<day fk_d="" d="" vf="1" fn="">22</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17772">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 336,206</signature>
+				<signature_old>E II 336,188</signature_old>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11103" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1257, S. 113</entry>
+				<page>113</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="31">
+				<lang id="5" iso="la" count="31" p="100.0"/>
+			</sentences>
+			<words count="475">
+				<lang id="5" iso="la" count="475" p="100.0"/>
+			</words>
+			<chars count="2816">
+				<lang id="5" iso="la" count="2816" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1257" page="113">
+		<div ref="1">
+			Schweigt zum bereits widerrufenen Tadel; <persName ref="1365">Grynäus</persName> wird ihr gemeinsames
+			Exemplar von Bullingers [„De origine erroris“] als erster lesen.
+			[<persName ref="18505">Heinrich VIII.</persName>] ist vorläufig
+			nicht in den [Schmalkaldischen] Bund aufgenommen worden; aus
+			<entity id="16" type="geo_country">Italien</entity> ist außer den von Bullinger mitgeteilten Nachrichten
+			über <entity id="9" type="geo_country">England</entity> weiter zu vernehmen,
+			[<persName ref="7637">Franz I.</persName>] habe einen Frieden zwischen
+			[<persName ref="18538">Karl V.</persName>] und [<persName ref="18593">Suleiman I.</persName>]
+			vermittelt, die Flotte [der Liga gegen die Türken] sei abgezogen worden, der Kaiser wolle über
+			<placeName ref="306">Mailand</placeName> in die
+			<entity id="20" type="geo_country">Niederlande</entity> reisen und seine Freundschaft mit
+			[<persName ref="7637">Franz I.</persName>] werde zur Restitution
+			<entity id="75" type="geo_region">Savoyens</entity> führen. <persName ref="6351">Sadoleto</persName>
+			hat die <placeName ref="167">Genfer</placeName> aufgefordert, vom Evangelium abzustehen; eine
+			Antwort wird vorbereitet. Ein Bericht aus <placeName ref="157">Frankfurt</placeName>, wonach die
+			Vorschläge des kaiserlichen Orators [<persName ref="7852">Johann von Weeze</persName>] nur unter
+			Einschränkungen akzeptiert würden, gibt Anlaß zur Hoffnung; nun soll über einen sechsmonatigen Stillstand
+			und eine neue Tagung in <placeName ref="361">Nürnberg</placeName> verhandelt werden.
+			<persName ref="1055">Frecht</persName> und <persName ref="8441">Schwenckfeld</persName> streiten
+			über die Vergöttlichung Christi; Bullinger soll <persName ref="1055">Frecht</persName> durch
+			Übermittlung von Vadians Brief [<link fk_file="10936">Nr. 894</link>] unterstützen und auch eine Abschrift
+			nach <placeName ref="28">Basel</placeName> schicken, da
+			<persName ref="1365">Grynäus</persName> eine Zusendung von
+			[Hieronymus zum Lamb?] aus
+			<placeName ref="471">Speyer</placeName> beantworten muß.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1257" page="113">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Expostulationem tuam quia ipse excusas<fl>1</fl>, non est opus repurgatione.</s>
+				<s n="3" lang="la" state="auto">Librum tuum<fl>2</fl> legissem iampridem, si meus esset<fl>3</fl>; hoc pacto ligandus est prius, deinde quoque priores equidem libenter concedam <persName ref="1365">Grynęo</persName>; sic fiet, ut in manus veniat vix post nescio quam longa tempora.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">De <persName ref="18505" state="auto_name">Anglo</persName><fl>4</fl> scribunt boni viri<fl>5</fl> non receptum in foedus<fl>6</fl> neque recipiendum, donec reformarit ecclesiam.</s>
+				<s n="5" lang="la" state="auto">Quę scripsisti ex <placeName ref="425">Romanensi</placeName> quodam de regno Anglię<fl>7</fl>, tribunus vetus<fl>8</fl> postea praelegit mihi, et in coena eiusdem diei literas vidi scriptas <entity id="16" type="geo_country">Italice</entity>, quę continebant eadem, insuper autem <persName ref="7637" state="auto_name">Gallum</persName><fl>9</fl> effecisse, ut pax sit facta inter cęsarem<fl>10</fl> et <persName ref="18593" state="auto_name">Turcam</persName><fl>11</fl> in quinquennium<fl>12</fl>.</s>
+				<s n="6" lang="la" state="auto">In testimonium huius naves, quę armis et commeatu fuerant onustę, redisse <placeName ref="1121">Genuam</placeName> et commeatum expositum, ut vendatur; naves item, quibus praefuit hactenus <persName ref="17784">Andreas</persName><fl>13</fl> ille, in <entity id="29" type="geo_country">Hispaniam</entity> reductas.</s>
+				<s n="7" lang="la" state="auto">Cęsarem venturum<pb_edition start_of="114"/> brevi <placeName ref="306">Mediolanum</placeName>, inde sive navigio sive per Gallias descensurum in <entity id="20" type="geo_country">Germaniam Inferiorem</entity>.</s>
+				<s n="8" lang="la" state="auto">Tantam vero amiciciam esse inter cęsarem et Gallum, quanta non possit esse inter alios quoscunque.</s>
+				<s n="9" lang="la" state="auto">Hinc pactum, ut et <entity id="75" type="geo_region">Sabaudiensis</entity><fl>14</fl> aliquando reponatur.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Ex aliis praeterea literis<fl>15</fl> ad me constat <placeName ref="167">Genevates</placeName> senatus et fratres sollicitatos esse per literas<fl>16</fl> a <persName ref="6351">Sadoleto</persName><fl>17</fl>, ut deserant evangelium; fratres pie respondisse, senatum parare responsum, sed nescitur quale<fl>18</fl>.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Redeo ad Anglum.</s>
+				<s n="12" lang="la" state="auto">Doluit mihi non receptum in foedus, at literis<fl>19</fl> ex <placeName ref="157">Francfordia</placeName> dolor abolitus.</s>
+				<s n="13" lang="la" state="auto"><persName ref="7852" state="auto_name">Orator</persName><fl>20</fl> cęsaris magna pertinacia hęret in his tribus articulis: ne quem amplius nostri recipiant in foedus et ne quem ex ecclesiasticis eiiciant suo loco atque ut adsint contra Turcam.</s>
+				<s n="14" lang="la" state="auto">Primum admiserunt nostri, sed hac lege, ne et ipsi in suum foedus quendam admittant et libera sit defensio etiam non foederatorum seu ut promittatur talibus quies.</s>
+				<s n="15" lang="la" state="auto">Hoc responsum me restituit in spem.</s>
+				<s n="16" lang="la" state="auto">Alterum itidem permiserunt, modo scholis et parochiis provideant ex bonis ecclesiarum, et tertium quoque, si cęteri status auxilia similiter ferant.</s>
+				<s n="17" lang="la" state="auto">Verum has leges renuit orator, ut intelligas nil nisi fraudes fovere istos.</s>
+				<s n="18" lang="la" state="auto">Obtulit tandem inducias in sex menses, et priusquam responsum, dictum est aliud quidpiam novi adlaturum esse cęsarianum.</s>
+				<s n="19" lang="la" state="auto">Expectatur id, quid sit.</s>
+				<s n="20" lang="la" state="auto">Inducię si fuerint pactę, de conventu agetur doctiorum et sęcularium ad certum numerum in urbem Nurenbergensem.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Hęc certa sunt omnia.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Pręterea contentio est inter <persName ref="1055">Frechtum</persName><fl>b</fl> <placeName ref="513">Ulmensem</placeName> et <persName ref="8441">Schwenckfeld[ium]</persName> de Christo deificato<fl>21</fl>; huius libellus<fl>22</fl> missus est ad <persName ref="1365">Grynęum</persName> ex <placeName ref="471">Spira</placeName><fl>23</fl>.<pb_edition start_of="115"/></s>
+				<s n="23" lang="la" state="auto">Venit in mentem epistola consulis <persName ref="8049">Ioachimi</persName> de glorificatione Christi<fl>24</fl>, quam utilissimam iudicavimus ad negocium illud sedandum<fl>25</fl> (eam quamvis tu miseris pridem huc, nescimus tamen, ubi sit).</s>
+				<s n="24" lang="la" state="auto">Epistolam ergo descriptam arbitratur <persName ref="1365">Grynęus</persName> mittendam prorsus <placeName ref="457">Constantiam</placeName> et inde ad <persName ref="1055">Frechtum</persName>; id enim plurimum conducturum.</s>
+				<s n="25" lang="la" state="auto">Inest enim, quod abstersurum esset errorem <persName ref="8441">Schwenckfeldii</persName> de discrimine Christi deificati et glorificati; hic enim hęret.</s>
+			</p>
+			<p>
+				<s n="26" lang="la" state="auto">In tempore fieri prodesset, priusquam in propatulum veniat contentio.</s>
+				<s n="27" lang="la" state="auto">Quia vero et <persName ref="1365">Grynęo</persName> respondendum est <placeName ref="471">Spirensi</placeName> doctori legum<fl>c</fl><fl>26</fl>, non inutile foret, si et nos eandem epistolam habere possemus.</s>
+			</p>
+			<p>
+				<s n="28" lang="la" state="auto">Vale cum tuis et ecclesiam hortare, ut dominum precetur pro auxilio contra hostes tam insidiosos.</s>
+			</p>
+			<p>
+				<s n="29" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, 22. aprilis anno 39.</s>
+			</p>
+			<p>
+				<s n="30" lang="la" state="auto"><persName ref="8418">Os. Myconius</persName> tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="31" lang="la" state="auto">Domino Heinricho Bullingero, episcopo Tigurino vigilantissimo doctissimoque, in domino perquam venerando suo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1257">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichungen von späterer Hand.</i></fn>
+			<fn ref="b"><i>in der Vorlage</i> Frectum.</fn>
+			<fn ref="c"><i>in der Vorlage</i> II.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Siehe oben <link fk_file="11299">Nr. 1256</link>, 2-4.</fn>
+			<fn ref="2">"De origine erroris libri duo" (<bibl>HBBibl</bibl> I 12); vgl. oben <link fk_file="11296">Nr. 1253</link>, 5-7.</fn>
+			<fn ref="3">Bullinger hatte <persName ref="8418">Myconius</persName> und <persName ref="1365">Grynäus</persName> ein gemeinsames Exemplar geschenkt; vgl. oben <link fk_file="11282">Nr. 1239</link>, 10-15.</fn>
+			<fn ref="4"><persName ref="18505">König Heinrich VIII.</persName></fn>
+			<fn ref="5">Unbekannt.</fn>
+			<fn ref="6">Vgl. oben <link fk_file="11299">Nr. 1256</link>, 6f.</fn>
+			<fn ref="7">Siehe oben <link fk_file="11296">Nr. 1253</link>, 13-17.</fn>
+			<fn ref="8">Altbürgermeister <persName ref="8129">Jakob Meyer</persName>.</fn>
+			<fn ref="9"><persName ref="7637">König Franz I.</persName></fn>
+			<fn ref="10"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="11"><persName ref="18593">Sultan Suleiman I.</persName></fn>
+			<fn ref="12">Anlaß zu solchen Gerüchten gaben die gleichzeitig laufenden Verhandlungen über einen durch <entity id="11" type="geo_country">Frankreich</entity> vermittelten Waffenstillstand, s. <i>Brandi</i> I 359 und II 286. Die aus <entity id="16" type="geo_country">Italien</entity> nach <placeName ref="28">Basel</placeName> gelangten Nachrichten wurden an <placeName ref="492">Straßburg</placeName> weitergeleitet, s. <bibl>PC</bibl> II 594f.</fn>
+			<fn ref="13"><persName ref="17784">Andrea Doria</persName>.</fn>
+			<fn ref="14"><persName ref="18536">Karl III., Herzog von Savoyen</persName>.</fn>
+			<fn ref="15">Ein entsprechender Brief ließ sich nicht auffinden.</fn>
+			<fn ref="16"><persName ref="6351">Sadoletos</persName> Brief an die <placeName ref="167">Genfer</placeName> vom 18. März 1539, ein Aufruf zur Bewahrung der Einheit der Kirche, ist gedruckt in: <bibl>CO</bibl> V 369-384.</fn>
+			<fn ref="17" type="bio" fk_person="6351"><persName ref="6351">Jacopo Sadoleto</persName>, 1477-1547, von <placeName ref="954">Modena</placeName>, kam 1498/99 nach <placeName ref="425">Rom</placeName> und wirkte dort ab 1513 als päpstlicher Sekretär. Nach 1527 hielt er sich überwiegend in <persName ref="19944">Carpentras</persName> auf, dessen Bischof er seit 1517 war. 1536 wurde er in die Kommission für Kirchenreform berufen und zum Kardinal ernannt. Als humanistisch geprägter Reformtheologe trat er für das Konzil ein und suchte das Gespräch mit Reformatoren wie <persName ref="2095">Melanchthon</persName> und <persName ref="3088">Johannes Sturm</persName>, ohne jedoch die Entwicklung wesentlich beeinflussen zu können. - Lit.: Wolfgang <i>Reinhard,</i> in: Katholische Theologen der Reformationszeit, Bd. 4, hg. v. Erwin Iserloh, Münster 1987. -Katholisches Leben und Kirchenreform im Zeitalter der Glaubensspaltung 47, S. 29-42; Gerhard <i>Müller,</i> in: RGG<sup>3</sup> V 1278f; Richard M. <i>Douglas,</i> in: <bibl>Contemporaries</bibl> III 183-187; <bibl>CSA</bibl> 112 339- 342.</fn>
+			<fn ref="18">Eine ausführliche Antwort aus der Feder <persName ref="540">Calvins</persName> erfolgte erst am 1. September; s. <bibl>CO</bibl> V 385-416; <bibl>CSA</bibl> I/2 337-429.</fn>
+			<fn ref="19">Die folgenden Nachrichten gehen wohl direkt oder indirekt auf einen Bericht <persName ref="467">Bucers</persName> zurück. <persName ref="315">Bedrot</persName> zitiert ein entsprechendes Schreiben <persName ref="467">Bucers</persName> vom 14. April in seinem Brief an <persName ref="8055">Ambrosius Blarer</persName> vom 18. April (s. <bibl>Blarer BW</bibl> II 220f). Zum Gang der Verhandlungen s. <bibl>Fuchtel</bibl> 181ff.</fn>
+			<fn ref="20"><persName ref="7852">Johann von Weeze</persName>.</fn>
+			<fn ref="21">Bullinger war durch <persName ref="1055">Martin Frecht</persName> laufend über diesen Konflikt informiert worden; s. <bibl>HBBW</bibl> VIII, <link fk_file="11192">Nr. 1149</link>, 1154, 1161, 1186 und 1200.</fn>
+			<fn ref="22"><persName ref="8418">Myconius</persName> bezieht sich vermutlich auf eine Abschrift des christologischen Traktats, den <persName ref="8441">Schwenckfeld</persName> im August 1538 gegen <persName ref="1055">Frecht</persName> gerichtet hatte (<bibl>CSch</bibl> VI 128-139).</fn>
+			<fn ref="23">Vgl. unten Z. 42-44 mit Anm. 26.</fn>
+			<fn ref="24">Gemeint ist die umfangreiche christologische Abhandlung, die <persName ref="8049">Vadian</persName> im September 1536 auf Wunsch Bullingers verfaßt hatte (Teildruck: <bibl>HBBW</bibl> VI, <link fk_file="10936">Nr. 894</link>). Aufgrund der Anfrage aus <placeName ref="28">Basel</placeName> entschloß sich Bullinger 1539 zu ihrer Veröffentlichung (s. <bibl>HBBibl</bibl> I 113; Widmungsvorrede: unten <link fk_file="11326">Nr. 1283</link>; vgl. auch unten <link fk_file="11322">Nr. 1279</link>, <link fk_file="11378">Nr. 1335</link> und passim).</fn>
+			<fn ref="25">Vgl. <bibl>HBBW</bibl> VI, <link fk_file="10955">Nr. 913</link>.</fn>
+			<fn ref="26" type="bio" fk_person="8441">Die Rede ist wohl von Dr. Hieronymus zum Lamb (Lamm, Lamp) d. A., gest. 1539, von <placeName ref="471">Speyer</placeName>, Jurist und Freund <persName ref="8441">Schwenckfelds</persName>. Über seine Korrespondenz mit <persName ref="1365">Grynäus</persName> ist sonst nichts bekannt. - Lit.: <bibl>CSch</bibl> VI 428f.</fn>
+		</num>
+	</footnotes>
+</file>

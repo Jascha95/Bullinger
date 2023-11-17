@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11287" id_hbbw="1244" id_irg_sort="1244" id_sort="112440">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11287</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1244</arpa>
+		<scan_pages/>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22900" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22901" vf="1" fk_add_type="1">
+				<person id="1010" fk_id="1010">
+					<name>Erb</name>
+					<forename>Matthias</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11287">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">14</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17759">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="6" fk_place="28">Basel UB</archive>
+				<signature>Ms. Ki. Ar. 25c Nr. 83</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11171" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1244, S. 86</entry>
+				<page>86</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="32">
+				<lang id="1" iso="de" count="1" p="3.1"/>
+				<lang id="5" iso="la" count="31" p="96.9"/>
+			</sentences>
+			<words count="306">
+				<lang id="1" iso="de" count="4" p="1.3"/>
+				<lang id="5" iso="la" count="302" p="98.7"/>
+			</words>
+			<chars count="1878">
+				<lang id="1" iso="de" count="28" p="1.5"/>
+				<lang id="5" iso="la" count="1850" p="98.5"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1244" page="86">
+		<div ref="1">
+			<persName ref="1010">Erb</persName> braucht sich nicht zu entschuldigen, Bullinger freut sich über die
+			Briefe gelehrter und frommer Menschen. Von <persName ref="8437">[Erasmus] Schmid</persName> wurde Markus [...] als
+			Pfarrer für <placeName ref="1718">Volgelsheim</placeName> empfohlen; auch Bullinger hält ihn für
+			geeignet. Ermahnt <persName ref="1010">Erb</persName>, sein neues Amt nach dem Willen und zur Ehre
+			Gottes zu verwalten. Ist beunruhigt ob der Kriegsgerüchte und beklagt die religiöse Lauheit und
+			Sittenverderbnis der Protestanten; sie sollten sich - mit dem Beispiel der gescheiterten Kriegspolitik der
+			<entity id="28" type="geo_country">Schweizer</entity> Reformierten vor Augen - nicht zu sehr auf die Mittel
+			des Krieges und auf die Verbündeten verlassen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1244" page="86">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et vitae innocentiam a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Tantum abest, <persName ref="1010">Erbie</persName> dilectissime, ut ulla putes apud me excusatione opus esse, quod ad ignotum scribis<fl>1</fl>, ut ipse potius tibi agam gratias pro humanitate illa tua.</s>
+				<s n="3" lang="la" state="auto">Gratissimae enim sunt mihi doctorum et piorum virorum litterae.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">De ministro ecclesiae Folkesheym<fl>2</fl> praeficiendo<fl>a</fl> non est, quod scribam amplius.</s>
+				<s n="5" lang="la" state="auto">Virum enim optimum <persName ref="19956">Marcum</persName><fl>3</fl> illum commendavit tibi <persName ref="8437">Fabritius</persName><fl>4</fl> noster, quem et ego tibi, si modo haesit, diligenter commendo.</s>
+				<s n="6" lang="la" state="auto">Pius enim est ac doctus satis.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Et quia functionem nactus es sanctam et gravem<fl>5</fl>, hortor te, ut Spartam, quam nactus es, ornes<fl>6</fl>.</s>
+				<s n="8" lang="la" state="auto">Non hominum ministri sumus, sed aeterni dei.</s>
+				<s n="9" lang="la" state="auto">Neque commissa nobis sunt terrena, sed agitur de incolumitate multarum animarum.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Ergo sancta diligentia nostra pluribus prodesse, negligentia plurimos perdere possumus.</s>
+				<s n="11" lang="la" state="auto">Agitur et de gloria et ignominia divini nominis.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Neque praemium propositum est periturum, sed immortale et aeternum.</s>
+				<s n="13" lang="la" state="auto">Curramus ergo in studio prudenter et fortiter.</s>
+				<s n="14" lang="la" state="auto">Plurimos domino nostro adducamus, ut, cum ille venerit pastorum princeps, immarcescibili corona<fl>7</fl> nos donet.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto">Tumultus illi rumoresque bellorum<fl>8</fl> mire me conturbant.</s>
+				<s n="16" lang="la" state="auto">Terret enim me ingratitudo nostrorum.</s>
+				<s n="17" lang="la" state="auto">Saturi sumus.</s>
+				<s n="18" lang="la" state="auto">Fastidimus verbum dei, sanam doctrinam sufferre non possumus.</s>
+				<s n="19" lang="la" state="auto">Avaritiam, luxum, sanguinem, sacrilegia, adulteria, oppressionem, artes denique pessimas accusari nolumus.</s>
+				<s n="20" lang="la" state="auto">Christum<pb_edition start_of="87"/> ore profitemur, vivimus Bachanalia<fl>9</fl>.</s>
+				<s n="21" lang="la" state="auto">Futurum est<fl>b</fl> itaque, ut iudicium domini a domo dei incipiens aliquando perveniat ad hostes nostros<fl>10</fl>.</s>
+				<s n="22" lang="la" state="auto">Utinam nostri non adeo feroces essent!</s>
+				<s n="23" lang="la" state="auto">Ferocia nostra in Helvetiis non felicem sortita est exitum<fl>11</fl>.</s>
+				<s n="24" lang="la" state="auto">Utinam nostra infelicitate et clade alii<fl>12</fl> docti aut praemoniti saperent humilius!</s>
+				<s n="25" lang="la" state="auto">Videntur quoque nostri foederibus et instrumentis bellicis plus nimium confidere.</s>
+				<s n="26" lang="la" state="auto">Orandus itaque dominus et instituendi diligenter, qui rerum gubernaculis adhibiti sunt, omnia agant prudenter in timore dei ac humilitate cordis, non quae sua, sed quae Christi sunt quaerentes.</s>
+			</p>
+			<p>
+				<s n="27" lang="la" state="auto">Dominus sit cum spiritu tuo.</s>
+				<s n="28" lang="la" state="auto">Scripsi tardius, quod per negotia citius non potui.</s>
+				<s n="29" lang="la" state="auto">14. martii anno 1539.</s>
+			</p>
+			<p>
+				<s n="30" lang="la" state="auto">H. Bullingerus tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="31" lang="la" state="auto">Domino <persName ref="1010">Matthiae Erbio</persName>, concionatori ecclesiae Richenvillae, fratri charissimo.</s>
+				<s n="32" lang="de" state="auto">Dem predicanten ze Rychenwyler.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1244">
+		<alpha>
+			<fn ref="a"><i>von</i> ministro <i>bis</i> praeficiendo <i>am Rande nachgetragen für im Text gestrichenes, nur teilweise lesbares</i> Fry[...].</fn>
+			<fn ref="b">Futurum est <i>über gestrichenem, unlesbarem Wort.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Siehe oben <link fk_file="11266">Nr. 1223</link>, 2-5.</fn>
+			<fn ref="2">Volgeisheim (Grafschaft Horburg, Elsaß).</fn>
+			<fn ref="3">Nicht weiter bekannt.</fn>
+			<fn ref="4"><persName ref="8437">Erasmus Schmid</persName>.</fn>
+			<fn ref="5"><persName ref="1010">Erb</persName> hatte am 29. September 1538 in <placeName ref="411">Reichenweier</placeName> die Nachfolge von <persName ref="8437">Erasmus Schmid</persName> angetreten (vgl. <bibl>HBBW VIII</bibl> <link fk_file="11187">[Nr. 1144]</link>, S. 164, Anm. 90).</fn>
+			<fn ref="6"><bibl>Adagia</bibl>, 2, 5, 1 (<bibl>LB</bibl> II 551).</fn>
+			<fn ref="7">1Petr 5, 4.</fn>
+			<fn ref="8">Siehe oben <link fk_file="11266">Nr. 1223</link>, 21-37.</fn>
+			<fn ref="9">Vgl. <persName ref="5396">Juvenal</persName>, Satiren, 2, 3.</fn>
+			<fn ref="10">Vgl. 1Petr 4, 17.</fn>
+			<fn ref="11">Spielt auf die Kriegspolitik Zürichs und der anderen reformierten Orte der <entity id="28" type="geo_country">Schweiz</entity> an, welche im Zweiten Kappelerkrieg 1531 mit der Niederlage endete.</fn>
+			<fn ref="12">Im Schmalkaldischen Bund war seit der Verhängung der kaiserlichen Acht über <placeName ref="1702">Minden</placeName> und im Vorfeld der <placeName ref="157">Frankfurter</placeName> Tagung zunehmend kriegerische Stimmung aufgekommen, und bereits hatten auch - von <persName ref="18574">Philipp von Hessen</persName> und <persName ref="19065">Johann Friedrich I. von Sachsen</persName> veranlaßt - militärische Rüstungen stattgefunden; vgl. dazu Georg <i>Mentz,</i> <persName ref="19065">Johann Friedrich der Großmütige</persName>, Bd. II, Jena 1908, S. 171-184.</fn>
+		</num>
+	</footnotes>
+</file>

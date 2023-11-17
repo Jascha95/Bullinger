@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11309" id_hbbw="1266" id_irg_sort="1266" id_sort="112660">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11309</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1266</arpa>
+		<scan_pages>
+			<scan id="26299" dir="11309/Autograph/" page="1">00 E_II_441__fol__156_r_.tif</scan>
+			<scan id="26300" dir="11309/Autograph/" page="2">01 E_II_441__fol__156_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22952" vf="1" fk_add_type="1">
+				<person id="1415" fk_id="1415">
+					<name>Hoch</name>
+					<forename>Georg</forename>
+				</person>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22953" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11309">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">5</month>
+				<day fk_d="" d="" vf="" fn="">6</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17781">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 441,156</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11092" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1266, S. 132</entry>
+				<page>132</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="9">
+				<lang id="5" iso="la" count="9" p="100.0"/>
+			</sentences>
+			<words count="171">
+				<lang id="5" iso="la" count="171" p="100.0"/>
+			</words>
+			<chars count="1026">
+				<lang id="5" iso="la" count="1026" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1266" page="131">
+		<div ref="1">
+			Da die Feiertagsordnung auf der Landschaft weitherum nicht befolgt wird, bittet
+			<persName ref="1415">Hoch</persName> - mit Verweis auf <placeName ref="41">Bern</placeName>,
+			<placeName ref="28">Basel</placeName> und <placeName ref="474">St. Gallen</placeName> und
+			auf die Folgen der Bußenpraxis - dringend um Bullingers Rat; dieser möge ihm das sprachliche Ungeschick
+			nachsehen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1266" page="132">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Salus multa, pater etc.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Inductione iuratorum paternum a te exposcimus consilium.</s>
+				<s n="3" lang="la" state="auto">Inobedientia in servandis festis<fl>3</fl> sic in multos ac loca multa insiliit, ut difficile, immo impossibile sit penam ab singulis insumere, cum multorum ac communis argumentatio et querela sit iam maius in rure scandalum non vivere festis.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">Quo bene sensati vicini nostri, <placeName ref="41">Bernenses</placeName>, <placeName ref="28">Basilienses</placeName> et (si bene percepimus) apud S. Gallum viri evangelici moti ea omnia praeter diem dominicum aboleverint exceptis extraneis, ultraque querulose sic argumentantur (cui et ego faveo) damnum<fl>a</fl> in pauperes semper recidere eo, quod divitibus ac multis mechanicis (ut puta) sutoribus, sartoribus etc. semper abundet labor ocultandus, qui ceteris desit.</s>
+				<s n="5" lang="la" state="auto">Que tue charitati in charitate offerre non erubui, non quod vota nostra aliquid velint aut debeant, sed quod semper iuramento satisfacere haud nec magistratui obedire gliscimus.</s>
+				<s n="6" lang="la" state="auto">Obnixe te patrem, ut consulas, flagitamus.</s>
+				<s n="7" lang="la" state="auto">Inerti <persName ref="19149">Prisciano</persName><fl>4</fl> indulge et fave ac cum omnibus tuis foeliciter vale.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto"><persName ref="1415">Georgius Hoch</persName>, in Enbrach ecclesiae minister verbi.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="9" lang="la" state="auto">Pio ac honesto viro Henricho Bulingero, ecclesiae Thuricensis speculatori fidelissimo ac suo in primis patrono peramando, debentur littere.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1266">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> dampnum.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1" type="bio" fk_person="1415"><persName ref="1415">Georg Hoch</persName>, von Meersburg, gest. 1545, 1502 an der Universität Wien immatrikuliert, wurde 1512 Leutpriester in <placeName ref="137">Embrach</placeName>. Er nahm 1528 an der <placeName ref="41">Berner</placeName> Disputation teil. Seine Amtsführung wurde verschiedentlich gerügt, so an der Frühjahrssynode 1528 für sein unzeitiges Durchführen der Abendmahlsgottesdienste und 1529 durch den Amtmann des Stiftes <placeName ref="137">Embrach</placeName> für sein unkritisches Predigen (er meide die Erwähnung von Lastern); an der Herbstsynode 1530 wurde festgehalten, daß sich Hoch und seine Frau gebessert hätten. - Lit.: Béatrice <i>Wiggenhauser,</i> Klerikale Karrieren. Das ländliche Chorherrenstift <placeName ref="137">Embrach</placeName> und seine Mitglieder im Mittelalter, Zürich 1997, S. 351; Pfarrerbuch 29 und 344.</fn>
+			<fn ref="2" meta="1">Wohl vor der Zürcher Frühlingssynode vom 6. Mai 1539, an der die Feiertagsfrage zur Sprache kam (s. Zürich StA, E II 1, 236, und Anton <i>Largiadèr,</i> Das reformierte Zürich und die Fest- und Heiligentage, in: <bibl>Zwa</bibl> IX 497-525, hier: 514).</fn>
+			<fn ref="3">Zu den Zürcher Feiertagsmandaten vom 28. März 1526 und vom 26. März 1530 vgl. <i>Largiadèr,</i> aaO, S. 510-513.</fn>
+			<fn ref="4">Anspielung auf den lateinischen Grammatiker des 6. Jahrhunderts n. Chr. (vgl. <bibl>LAW</bibl> 2437).</fn>
+		</num>
+	</footnotes>
+</file>

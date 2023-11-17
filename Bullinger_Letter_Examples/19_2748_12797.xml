@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12797" id_hbbw="2748" id_irg_sort="2748" id_sort="127480">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12797</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2748</arpa>
+		<scan_pages>
+			<scan id="29917" dir="12797/Autograph/" page="1">00 E_II_356__fol__72_r_.tif</scan>
+			<scan id="29918" dir="12797/Autograph/" page="2">01 E_II_356__fol__72_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26125" vf="1" fk_add_type="1">
+				<person id="8504" fk_id="8504">
+					<name>Serin (Soerinus)</name>
+					<forename>Leonhard</forename>
+				</person>
+				<place id="513" vf="1" fk_id="513" long="9.99155" lat="48.39841">Ulm</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26126" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12797">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">11</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19360">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 356,72</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12445" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2748, S. 114</entry>
+				<page>114</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="20">
+				<lang id="1" iso="de" count="1" p="5.0"/>
+				<lang id="5" iso="la" count="19" p="95.0"/>
+			</sentences>
+			<words count="301">
+				<lang id="1" iso="de" count="1" p="0.3"/>
+				<lang id="5" iso="la" count="300" p="99.7"/>
+			</words>
+			<chars count="1769">
+				<lang id="1" iso="de" count="6" p="0.3"/>
+				<lang id="5" iso="la" count="1763" p="99.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2748" page="114">
+		<div ref="1">
+			[1] Gruß.
+		</div>
+		<div ref="2">
+			[2] <persName ref="8504">Serin</persName> nutzt die sich mit dem Boten [...] bietende Gelegenheit, um nachzufragen, ob Bullinger sein
+			letztes Schreiben vom 5. November 1546 [<bibl>HBBW</bibl> XVIII, <link fk_file="12707">Nr. 2660</link>] mit wichtigen
+			Nachrichten erhalten hat. Es kommt ihm nämlich seltsam vor, dass er seit Bullingers Brief vom 4. September
+			[<bibl>HBBW</bibl> XVII, <link fk_file="12612">Nr. 2565</link>] mit der Übersendung von <persName ref="8011">Rudolf Gwalthers</persName> „Endtchrist“
+			nichts mehr von ihm hörte.
+		</div>
+		<div ref="3">
+			[3] Bullinger soll nicht denken, dass wegen der Einigung zwischen dem
+			<placeName ref="513">Ulmer</placeName> Rat und <persName ref="18538">Kaiser Karl V.</persName> die
+			<placeName ref="513">Ulmer</placeName> Prediger etwas Schlimmes auszustehen hätten oder in der
+			Religionsangelegenheit etwas verändert wäre. Denn dem Kaiser sind aufgrund der vertraglichen Regelung
+			solange die Hände gebunden, bis ein sogenanntes freies, christliches
+			<entity id="27" type="other">Konzil</entity> darüber entscheidet. Jedoch nützt das dem früheren Kollegen
+			[<persName ref="8504">Serin</persName> selbst?] von <persName ref="1055">Martin Frecht</persName> in
+			<placeName ref="1603">Dillingen</placeName> gar nichts! Einige Adlige und Kanoniker aus dem Gefolge
+			des Dillinger Bischofs [<persName ref="7840">Otto Truchsess von Waldburg</persName>] wollten ihn nämlich nachts in seinem Haus in der Gegend
+			von <placeName ref="513">Ulm</placeName> festnehmen, fanden ihn aber nicht und ließen ihm daher
+			ausrichten, dass sich der Bischof bestimmt an ihm rächen werde, weil er das „Verbrechen“ begangen hätte, im
+			Territorium von <placeName ref="1603">Dillingen</placeName> zu predigen!
+		</div>
+		<div ref="4">
+			[4] Weitere Neuigkeiten gibt es kaum. <persName ref="8049">Vadian</persName> wird bestimmt die Nachrichten von den Ulmern und von
+			<persName ref="458">Johannes Brenz</persName> mitgeteilt haben.
+			Über Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> und Landgraf <persName ref="18574">Philipp von Hessen</persName> sind dermaßen vage Gerüchte im
+			Umlauf, dass man eher diese beiden als den Kaiser für tot halten könnte!
+		</div>
+		<div ref="5">
+			[5] Gruß und Bitte um Gebet.
+		</div>
+		<div ref="6">
+			[6] [P.S.:] Eben wird gemeldet, dass der Kaiser bald nach <placeName ref="513">Ulm</placeName>
+			kommen soll. Der Herr stehe uns bei!
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2748" page="114">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Salve plurimum, reverendissime Bullingere, cum toto tuo collegio.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="2" lang="la" state="auto">Etsi studio me contineam, ne ęquo sępius te meis literis interpellem, modo tamen ob tabellarii<fl>1</fl> commoditatem non potui mihi temperare, quin interrogarem te, num acceperis, quas ad te 5. novembris dedi.<fl>2</fl></s>
+				<s n="3" lang="la" state="auto">Dubium enim mihi facit, quod a 4. usque septembris, qua mihi scribens<fl>3</fl> Antichristum<fl>4</fl> misisti, nihil omnino a te habeo.</s>
+				<s n="4" lang="la" state="auto">Rogo igitur, pro tua humanitate certiorem me facias.</s>
+				<s n="5" lang="la" state="auto">Ego enim in proxima illa mea epistola tibi significavi, quę nonnihil refert te novisse.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="6" lang="la" state="auto">Deinde libuit etiam nonnihil tibi scribere, ne audiens <placeName ref="513">Ulmensem</placeName> magistratum cum cęsarea maiestate<fl>5</fl> transegisse cogitares nobis concionatoribus quid adversi accidisse aut relligionis statum nonnihil immutatum esse.</s>
+				<s n="7" lang="la" state="auto">Nam ex pacto nihil poterit tentare cęsar in hisce negotiis ante liberum et christianum (ut loqui solent et expetere) concilium.</s>
+				<s n="8" lang="la" state="auto">Sed heus, Bullingere, parum iuvat hęc pacis conditio bonum hunc virum<fl>6</fl>, qui <persName ref="1055">Frechti</persName><fl>7</fl> fuit collega Dil-<pb_edition start_of="115"/>lingę.</s>
+				<s n="9" lang="la" state="auto">Nam episcopi <placeName ref="1603">Dillingensis</placeName><fl>8</fl> satellites illum noctu domi suę in agro <placeName ref="513">Ulmensi</placeName> hac hebdomade quaesierunt comprehendendum.</s>
+				<s n="10" lang="la" state="auto">Et, ut non invenerunt, per vicinos illi mandaverunt nobiles quidam et canonici, quos et ille bene novit, episcopum illi futurum esse hostem apertum et certo ulturum, quod extraordinarium in agro <placeName ref="1603">Dillingensi</placeName> prędicando perpetravit facinus.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="11" lang="la" state="auto">De novis aliis, quae tibi censeam inaudita, parum habeo.</s>
+				<s n="12" lang="la" state="auto">Quę autem <persName ref="8049">Vadianus</persName> habet e nostris et <persName ref="458">Brentio</persName>, tibi illum communicasse arbitror.<fl>9</fl></s>
+				<s n="13" lang="la" state="auto">De Sa[xon]e<fl>a</fl><fl>10</fl> et Catto<fl>11</fl> tam nihil nobis constat, ut citius credas eos esse defunctos quam cęsarem.<fl>12</fl></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="14" lang="la" state="auto">Bene vale et dominum nobiscum lauda et invoca, ut nos conservet.</s>
+				<s n="15" lang="la" state="auto"><placeName ref="513">Ulmę</placeName>, 11. ianuarii anno, etc., 47.</s>
+				<s n="16" lang="la" state="auto">Leonhartus Soerinus.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="17" lang="la" state="auto">Paulo post, quam hęc sunt scripta, cęsaream maiestatem propediem huc venturam<fl>13</fl> nobis nunciatur.</s>
+				<s n="18" lang="la" state="auto">Dominus pro sua immensa clementia omnia bene vertat et nobis adsit dirigens, custodiens et conservans nos!</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="19" lang="la" state="auto">Pietate et doctrina praeclaro ac de omnibus theologię candidatis adeoque tota Christi ecclesia optime merito Heynrycho Bullingero, fratri in domino plurimum dilecto et colendo.</s>
+				<s n="20" lang="de" state="auto">Zürch.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2748">
+		<alpha>
+			<fn ref="a"><i>Textverlust durch Papierverlust.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Unbekannt.</fn>
+			<fn ref="2"><bibl>HBBW</bibl> XVIII, <link fk_file="12707">Nr. 2660</link>.</fn>
+			<fn ref="3"><bibl>HBBW</bibl> XVII, <link fk_file="12612">Nr. 2565</link>.</fn>
+			<fn ref="4">Die deutsche Fassung von <persName ref="8011">Gwalthers</persName> Endtchrist; s. <bibl>HBBW</bibl> XVII 400, Anm. 7.</fn>
+			<fn ref="5"><persName ref="18538">Karl V.</persName> - Zur Sache s. <link fk_file="12783">Nr. 2734</link>, Anm. 4 und Anm. 6.</fn>
+			<fn ref="6">Vielleicht meint <persName ref="8504">Serin</persName> sich selbst damit; s. die Einleitung.</fn>
+			<fn ref="7"><persName ref="1055">Martin Frecht</persName> war im Sommer 1546 als Prediger nach <placeName ref="1603">Dillingen</placeName> entsandt worden; s. <bibl>HBBW</bibl> XVII 286 mit Anm. 42.</fn>
+			<fn ref="8">Bischof <persName ref="7840">Otto Truchsess von Waldburg</persName>.</fn>
+			<fn ref="9">Der zuletzt bekannte Brief von <persName ref="8049">Vadian</persName> an Bullinger datiert vom 11. Dezember 1546 <i>(HBBW</i> XVIII, <link fk_file="12761">Nr. 2714</link>) und enthält Nachrichten über <persName ref="1055">Frecht</persName> und <placeName ref="513">Ulm</placeName>. - Über <persName ref="458">Johannes Brenz</persName> s. zuletzt <bibl>HBBW</bibl> XVIII 427f; 445f mit Anm. 30; ferner <link fk_file="12861">Nr. 2812</link>,97-99.</fn>
+			<fn ref="10">Kurfürst <persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="11">Landgraf <persName ref="18574">Philipp von Hessen</persName>. - Vgl. auch <link fk_file="12793">Nr. 2744</link>,23f.</fn>
+			<fn ref="12">Zu den schon seit einigen Wochen grassierenden Gerüchten über den Tod des Kaisers s. <bibl>HBBW</bibl> XVIII 353, Anm. 20; und <link fk_file="12803">Nr. 2754</link>,13-20.</fn>
+			<fn ref="13">Der Kaiser kam am 25. Januar 1547 nach <placeName ref="513">Ulm</placeName> und blieb dort bis zum 4. März; s. <link fk_file="12803">Nr. 2754</link>, Anm. 18.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11374" id_hbbw="1331" id_irg_sort="1331" id_sort="113310">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11374</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1331</arpa>
+		<scan_pages>
+			<scan id="26432" dir="11374/Autograph/" page="1">00 E_II_360__S__355_.tif</scan>
+			<scan id="26433" dir="11374/Autograph/" page="2">01 E_II_360__S__356_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23090" vf="1" fk_add_type="1">
+				<person id="3700" fk_id="3700">
+					<name>von Rümlang</name>
+					<forename>Eberhard</forename>
+				</person>
+				<place id="41" vf="1" fk_id="41" long="7.44744" lat="46.94809">Bern</place>
+				<district id="28">Bern</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23091" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11374">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">11</month>
+				<day fk_d="" d="" vf="1" fn="">28</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17845">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 360,355</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11113" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1331, S. 251</entry>
+				<page>251</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="15">
+				<lang id="5" iso="la" count="15" p="100.0"/>
+			</sentences>
+			<words count="247">
+				<lang id="5" iso="la" count="247" p="100.0"/>
+			</words>
+			<chars count="1514">
+				<lang id="5" iso="la" count="1514" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1331" page="251">
+		<div ref="1">
+			Dankt für Bullingers Brief, der ihn in seiner Auffassung vom Abendmahl bestärkt hat;
+			[<persName ref="5837">Sebastian Meyer</persName> und
+			<persName ref="20015">Peter Kunz</persName>], die sich in unhaltbarer Weise auf den Wortlaut der
+			Schrift und auf <persName ref="4541">Chrysostomus</persName> berufen, sind von
+			<persName ref="467">Bucer</persName> verführt, werden es aber kaum wagen, das Wort „bedeutet“ [aus der
+			<placeName ref="41">Berner</placeName> Abendmahlsliturgie] zu streichen, da sie damit nicht
+			durchkommen würden. Wird Bullingers Brief [an <persName ref="8011">Gwalther</persName>] nach
+			<placeName ref="330">Morges</placeName> bzw. an Venner
+			<persName ref="8389">[Peter] Im Haag</persName> weiterreichen.
+			Gruß; bittet um Nachsicht, da er sich nicht gesund fühlt.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1331" page="251">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Redditę sunt mihi literę tuę<fl>1</fl>, quę ut iucundissimę ita quoque gratissimę fuerunt idque multas ob causas, imprimis vero, quod negotium dominicę coenae breviter et absolute, ut nihil prorsus desiderare queam, complexę sint.</s>
+				<s n="3" lang="la" state="auto">Obfirmato sum animo, ut ne latum culmum (quod aiunt<fl>2</fl>) me a percepta eademque vera sententia deturbent ac detorqueant, quicquid interim machinentur<pb_edition start_of="252"/> coelum ac terram confundentes<fl>3</fl>, neque periculum est in plebe quoque, quę solitis et assuetis insistet.</s>
+				<s n="4" lang="la" state="auto">Utuntur hoc praetextu nos uti debere formulis loquendi scripturarum neque quicquam demere vel addere.</s>
+				<s n="5" lang="la" state="auto">Sed bone deus, quanta absurditas in multis eveniret, si spiritus sanctus sui ipsius interpres<fl>a</fl><fl>4</fl> idque vi et consequentiis scripturarum negligeretur?</s>
+				<s n="6" lang="la" state="auto">Adhibent etiam <persName ref="4541">Chrysostomum</persName>, qui in Corinthiis refert domini<fl>b</fl> corpus dentibus nostris conterendum exhiberi<fl>5</fl>.</s>
+				<s n="7" lang="la" state="auto">Iam si non adsit tropus, quomodo Christi corpus non in hoc transigendo negotio pateretur?</s>
+				<s n="8" lang="la" state="auto">Sed nescio quę vesania eos deturbarit; arbitror tamen id ex ambitione factum, cum <persName ref="467">Buceri</persName> blanditiis et praeconiis sunt delibuti et dementati<fl>c</fl>.</s>
+				<s n="9" lang="la" state="auto">Sentiunt quorundam indignationem de amovendo verbo „significat“<fl>6</fl>, ut putem ipsos destituros neque hoc flagitium movere ausuros, quod ego ab ipsis nolim<fl>d</fl> fieri, ut versutia fallaciaque eorum deprehenderetur; nam absque dubio causa caderent nihilque efficerent etc.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Bona fide literas tuas <placeName ref="330">Morgetum</placeName> mittam<fl>7</fl> et signifero Im Hag, ubi primum domum reversus fuerit, reddam<fl>8</fl>.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Quęso, salutato<fl>e</fl> universum doctorum sodalitium meo nomine.</s>
+				<s n="12" lang="la" state="auto">Dum hec scribebam, aliquantulum fui afflictę valetudinis; proinde boni consule.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Datum <placeName ref="41">Bernę</placeName>, die Veneris ante festum Andreę anno 1539.</s>
+				<s n="14" lang="la" state="auto">Tuus <persName ref="3700">Eberardus a Rümlang</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="15" lang="la" state="auto">Doctissimo et integerrimo viro d. Heinrycho Bullingero, ecclesiastę Tiguri primario, suo observando amico et patrono.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1331">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> interpes.</fn>
+			<fn ref="b">refert domini <i>am Rande nachgetragen.</i></fn>
+			<fn ref="c">dementati <i>am Rande nachgetragen.</i></fn>
+			<fn ref="d"><i>korrigiert aus</i> velim.</fn>
+			<fn ref="e"><i>am Wortende ein gestrichener Buchstabe.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Der Brief ist nicht erhalten, doch zitiert <persName ref="3700">Rümlang</persName> in seinem Brief an Bullinger vom 21. März 1540 einen Abschnitt daraus (s. Zürich StA, E II 346, 121).</fn>
+			<fn ref="2">Vgl. Adagia, 1, 5, 6 (<bibl>LB</bibl> II 184f).</fn>
+			<fn ref="3">Vgl. Adagia, 1, 3, 81 (<bibl>LB</bibl> II 142). <persName ref="3700">Rümlang</persName> spielt auf die in seinem Brief vom 20. Oktober (oben <link fk_file="11363">Nr. 1320</link>) geschilderten Bestrebungen von <persName ref="5837">Sebastian Meyer</persName> und <persName ref="20015">Peter Kunz</persName> an.</fn>
+			<fn ref="4">In seiner "Assertio omnium articulorum" von 1520 bezeichnet <persName ref="1974">Luther</persName> die Hl. Schrift als "sui ipsius interpres"; s. <bibl>WA</bibl> VII 97, 23.</fn>
+			<fn ref="5">Die zitierte Stelle findet sich in Homilie 46 zu Joh 6, 41f (<bibl>MPG</bibl> 59, 260); vgl. <bibl>HBBW</bibl> IV <link fk_file="10518">[Nr. 482]</link>, S. 427f, Anm. 48.</fn>
+			<fn ref="6">Die Rede ist von der entsprechenden Formulierung in der <placeName ref="41">Berner</placeName> Abendmahlsliturgie ("daß das brochen brot syn brochnen gecrützgeten lyb ... bedütte", s. "Ordnung unnd Satzung deß Eegrichts ...", Zurich [1529], f. D3v.), vgl. oben <link fk_file="11363">Nr. 1320</link>. Die Abendmahlsliturgie war 1529 zusammen mit der Ehegerichtsordnung und weiteren liturgischen Formularen in einer Auflage von 400 Exemplaren gedruckt worden; s. <bibl>BZD</bibl> C 158 und <bibl>ABernerRef</bibl> 2189.</fn>
+			<fn ref="7">Gemeint ist gewiß Bullingers Brief an <persName ref="8011">Gwalther</persName> vom 2. November, der den Adressaten am 10. Dezember erreichte; vgl. unten <link fk_file="11379">Nr. 1336</link>, 2f.</fn>
+			<fn ref="8">Ein Brief Bullingers an Venner <persName ref="8389">Peter Im Haag</persName> ist aus dem in Frage kommenden Zeitraum nicht bekannt.</fn>
+		</num>
+	</footnotes>
+</file>

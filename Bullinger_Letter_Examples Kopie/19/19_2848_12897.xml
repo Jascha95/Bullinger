@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12897" id_hbbw="2848" id_irg_sort="2848" id_sort="128480">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12897</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2848</arpa>
+		<scan_pages>
+			<scan id="30200" dir="12897/Autograph/" page="1">00 E_II_366__fol__237_r_.tif</scan>
+			<scan id="30201" dir="12897/Autograph/" page="2">01 E_II_366__fol__237_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26338" vf="1" fk_add_type="1">
+				<person id="1278" fk_id="1278">
+					<name>Gast</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26339" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12897">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">17</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19469">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 366,237</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12339" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2848, S. 421</entry>
+				<page>421</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="42">
+				<lang id="1" iso="de" count="28" p="66.7"/>
+				<lang id="5" iso="la" count="14" p="33.3"/>
+			</sentences>
+			<words count="474">
+				<lang id="1" iso="de" count="371" p="78.3"/>
+				<lang id="5" iso="la" count="103" p="21.7"/>
+			</words>
+			<chars count="2497">
+				<lang id="1" iso="de" count="1864" p="74.6"/>
+				<lang id="5" iso="la" count="633" p="25.4"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2848" page="420">
+		<div ref="1">
+			[1] Hier einige Neuigkeiten aus Briefen oder Erzählungen von anderen.
+		</div>
+		<div ref="2">
+			[2] Das kaiserliche Kriegsvolk, das <persName ref="18327">Ruff von Reischach</persName> vor Fastnacht in [ <entity id="119" type="geo_region">Süddeutschland</entity>] anwarb, wurde am
+			Musterort unweit von <placeName ref="61">Bremen</placeName> durch die <entity id="20136" type="group">Hansestädte</entity> dezimiert. Wenn
+			doch nur die [Schmalkaldener ebenso beherzt gekämpft] hätten, wäre die Lage jetzt nicht so misslich! Die
+			<entity id="20136" type="group">Hansestädte</entity> und <entity id="8" type="geo_country">Dänemark</entity> brechen zum Krieg auf; wohin, ist
+			unbekannt.
+		</div>
+		<div ref="3">
+			[3] Als Nachfolger des verstorbenen polnischen Königs [<persName ref="18590">Sigismund I.</persName>] wurde sein Sohn [<persName ref="18590">Sigismund II.</persName>] in
+			<placeName ref="260">Krakau</placeName> gekrönt. Ein Bote aus Breslau [...] erzählte, dass bei der
+			Krönung der Gesandte [...] des türkischen Sultans Suleiman zugegen war, dass Suleiman seine Tochter dem
+			jungen König versprochen habe und die Hochzeit nach Ostern [10. April 1547] stattfinden werde.
+		</div>
+		<div ref="4">
+			[4] Auf Antrag <persName ref="18477">König Ferdinands I.</persName> hat die Obrigkeit von Breslau diesem eine Steuer von einem Groschen pro
+			Sack Getreide für den Kampf gegen Suleiman bewilligt. Doch schon nach 15 Wochen wurde ihm diese Abmachung
+			wieder aufgekündigt. Die Breslauer wollen nämlich mit dem Geld selbst gegen die Türken rüsten.
+		</div>
+		<div ref="5">
+			[5] Ferdinand wollte auch, dass Breslau dem <persName ref="18538">Kaiser Karl V.</persName> Geschütz und Munition liefere. Viele Stadtherren
+			willigten ein. Doch als der Beschluss ausgeführt werden sollte, erhob sich bei einer Volksversammlung solch
+			ein Widerstand, dass man Ferdinand absagen musste und dabei auf die bedrohlichen Rüstungen Suleimans
+			verwies.
+		</div>
+		<div ref="6">
+			[6] Vor wenigen Tagen kam ein Bote [...] aus <placeName ref="513">Ulm</placeName>. Er berichtete
+			Schreckliches über die Verwüstung der Stadt durch den Kaiser, der zudem zehn Kanonen mit Munition und viel
+			Geld beschlagnahmte. Infolge des stürmischen Regenwetters ist dieser noch in
+			<placeName ref="360">Nördlingen</placeName>.
+		</div>
+		<div ref="7">
+			[7] Ein Fremder [...] wirbt mit 100 Kavalleristen Knechte bei
+			<placeName ref="1273">Ensisheim</placeName> an (man weiß nicht, wofür). Zu seinem Ärger aber bieten
+			sich nur wenige an.
+		</div>
+		<div ref="8">
+			[8] Landgraf <persName ref="18574">Philipp von Hessen</persName> rüstet angeblich.
+		</div>
+		<div ref="9">
+			[9] Aus <placeName ref="492">Straßburg</placeName> wurden Gesandte
+			[<persName ref="6733">Jakob Sturm</persName>, <persName ref="5121">Marx Hag</persName>, <persName ref="7504">Friedrich von Gottesheim</persName> und <persName ref="1340">Ludwig Gremp</persName>]
+			abgeordnet, um den Friedensvertrag mit dem Kaiser abzuschließen. Die
+			<placeName ref="492">Straßburger</placeName> sind wohl nicht ganz bei Trost, denn wie die anderen
+			Städte beten sie dabei einen verwesenden Abgott an! Sie werden schon noch merken, dass dieser einen Hass
+			gegen die deutsche Freiheit hegt, der so tief sitzt wie der des <persName ref="6901">Publius Vatinius</persName>.
+		</div>
+		<div ref="10">
+			[10] Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> soll wieder im Besitz seines Landes einschließlich
+			<placeName ref="284">Leipzigs</placeName> sein und <persName ref="18250">Herzog Moritz von Sachsen</persName> zwei Niederlagen
+			zugefügt haben.
+		</div>
+		<div ref="11">
+			[11] Aufgrund einer brieflichen Mitteilung, die von <placeName ref="396">Prag</placeName> über
+			<placeName ref="1976">Augsburg</placeName> nach <placeName ref="28">Basel</placeName>
+			gelangte, gilt es als sicher, dass es in <placeName ref="2449">Böhmen</placeName> einen Aufstand
+			gegen <persName ref="18477">König Ferdinand</persName> gibt, da die <placeName ref="2449">Böhmen</placeName> wegen ihres Bündnisses
+			mit dem Kurfürsten nicht gegen Letzteren ziehen wollen, obwohl Ferdinand das nachdrücklich fordert. Daher
+			eilt der Kaiser dem König zu, um dessen Vertreibung zu verhindern.
+		</div>
+		<div ref="12">
+			[12] Im kommenden Sommer wird es zu gewaltigen Unruhen kommen, und Gottes Reich wird sich entgegen allen
+			Erwartungen ausbreiten. Gruß. Das Übrige schreibt <persName ref="8418">Myconius</persName>. Was gibt
+			es Neues in Zürich?
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2848" page="421">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. in domino.</s>
+				<s n="2" lang="la" state="auto">Nova, quę mihi ab aliis scripta et narrata sunt, paucis accipe:</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">Die knecht, die vor faßnacht<fl>2</fl> angenomen sindt in disen landen dem keyser mit Ruͦffli von Rischach<fl>3</fl>, sindt geschlagen worden mit anderen knechten uff dem musterplatz nit wyt von <placeName ref="61">Brem</placeName><fl>4</fl> von den Seestetten.<fl>5</fl></s>
+				<s n="4" lang="de" state="auto">Sindt iren wenig darvon kommen.</s>
+				<s n="5" lang="de" state="auto">Hetten die unseren soͤlichs gethan, es stiende baß!<fl>6</fl></s>
+				<s n="6" lang="de" state="auto">Die Seestett mit Denmarckt syndt uff<fl>7</fl>; wohin, kan mann nit wuͤssen.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="de" state="auto">Der künig von <entity id="24" type="geo_country">Polen</entity> ist gestorben<fl>8</fl>; der son<fl>9</fl> des kunig zuͦ <placeName ref="260">Cracovia</placeName> gekroͤnet zuͦ ein künig des <entity id="24" type="geo_country">Polenlandt</entity>.</s>
+				<s n="8" lang="de" state="auto">By der krönung sol gsin des Turcken legat<fl>10</fl> mit 400 pferden, koͤstlich gekleidet, und die sag ist (diß habe ich mundtlich gehoͤrt von eim botten<fl>11</fl> dise tag von <placeName ref="66">Breslauw</placeName>)<fl>a</fl>, das dem jungen künig der <persName ref="18593" state="auto_name">Turck</persName><fl>12</fl> sein tochter vermaͤhelet habe,<fl>13</fl> und dise woͤllen hochzeit haben nach ostern<fl>14</fl> zuͦ Crocauw.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="de" state="auto"><la>Idem tabellarius dixit:</la> Die von Preslauw sindt uß bitt <persName ref="18477">Ferdinandi</persName><fl>15</fl>, des küngs, bewegt worden, das sy ein groschen uff ein sack mit korn haben geschlagen, im dise steür zuͦ geben, damit er sich dester baß möchte richten, wider den Turcken zuͦ stritten.</s>
+				<s n="10" lang="de" state="auto">Es ist etwas darzwischen gefallen, das sy im das gelt allein haben geben 15 wochen lang.</s>
+				<s n="11" lang="de" state="auto">Do haben sy diß im abkündet.<fl>16</fl></s>
+				<s n="12" lang="de" state="auto">Woͤllens inen selber behalten, wider den Turcken zuͦ stritten.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="13" lang="de" state="auto">Item <persName ref="18477">Ferdinandus</persName> hat von der statt Preslauw begert, geschütz und pulver dem keyser zuͦzuͦschicken, das im ettlich der grossen Hansen<fl>17</fl> haben verwilliget.</s>
+				<s n="14" lang="de" state="auto">Da<fl>18</fl> mans hat wellen richten, do ist die gmein [da g]sin.<fl>b</fl></s>
+				<s n="15" lang="de" state="auto">Gemurmelt also, das mans im wider abgekündet h[at] von wegen der grossen rustüng des Turckens.<fl>19</fl><pb_edition start_of="422"/></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="16" lang="de" state="auto">Es ist ein <placeName ref="28">Baselbott</placeName><fl>20</fl> dise tag von <placeName ref="513">Ulm</placeName> kommen.</s>
+				<s n="17" lang="de" state="auto">Der sag grüsame ding, wie <placeName ref="513">Ulm</placeName> verwüstet sey, wie sy der keyser<fl>21</fl> beroubt hab, genomen 10 stück buchsen mit aller rustüng, vil gelt hinweg.</s>
+				<s n="18" lang="de" state="auto">Lytt<fl>22</fl> zuͦ Nörlingen.</s>
+				<s n="19" lang="la" state="auto">Propter tempestatem pluviarum <de>kan er nit witers ziehen.</de></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="20" lang="de" state="auto"><pb_scan n="v."/>Es lyt zuͦ <placeName ref="1273">Ensisheim</placeName> ein welscher<fl>23</fl> herr mit 100 pferden.</s>
+				<s n="21" lang="de" state="auto">Nympt knecht an.</s>
+				<s n="22" lang="de" state="auto">Findt aber wenig kriegsvolck, das er selbs unwillig<fl>24</fl> ist.</s>
+				<s n="23" lang="de" state="auto">Wohin er sy bruchen wil, ist still.<fl>25</fl></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="24" lang="de" state="auto">Der landtgraff<fl>26</fl> sol in einer rustüng sein.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="25" lang="de" state="auto">Die von <placeName ref="492">Straßburg</placeName><fl>27</fl> ritten dem keyser nach.</s>
+				<s n="26" lang="de" state="auto">Begeren ein vertrag.</s>
+				<s n="27" lang="la" state="auto">Insaniunt cum reliquis civitatibus adorantque putridum idolum caesaris!<fl>28</fl></s>
+				<s n="28" lang="la" state="auto">Sentient tandem, quid egerint cum hoste, qui libertatem Germanicam odio Vatiniano<fl>29</fl> prosequitur.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="29" lang="de" state="auto">Der <la>elector <persName ref="19065" state="auto_name">Saxonię</persName><fl>30</fl></la> sol alß<fl>31</fl> sin landt wider haben, mit <placeName ref="284">Lipsig</placeName>.<fl>32</fl></s>
+				<s n="30" lang="de" state="auto">Es soll ouch hertzog <persName ref="18250">Moritz</persName> zwey mal geschlagen sin.<fl>33</fl><pb_edition start_of="423"/></s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="31" lang="de" state="auto">In <placeName ref="2449" state="auto_name">Behem</placeName><fl>34</fl> ist ein grosser zwitrach wider dem kunig<fl>35</fl>, <la>hocque certum est.</la></s>
+				<s n="32" lang="la" state="auto">Nam ex <placeName ref="396">Praga</placeName> <placeName ref="1976">Augustam</placeName> scriptum est; ab <placeName ref="1976">Augusta</placeName> nostris.</s>
+				<s n="33" lang="la" state="auto">Nam nolunt incommodare Saxoni propter fędus;<fl>36</fl> sed <persName ref="18477">Ferdinandus</persName> instat et urget.</s>
+				<s n="34" lang="la" state="auto">Propterea et caesar properat,<fl>37</fl> ne <persName ref="18477">Ferdinandus</persName> rex eiciatur ex Bohemia.</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="35" lang="la" state="auto">Videmus hac aestate turbas ingentes ac domini regnum propagatum iri contra omnium expectationem!</s>
+				<s n="36" lang="la" state="auto">Vale.</s>
+				<s n="37" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, 1545<fl>c</fl>, martii 17.</s>
+				<s n="38" lang="la" state="auto">Reliqua <persName ref="8418">Myconius</persName>.<fl>38</fl></s>
+				<s n="39" lang="la" state="auto">Rescribe, quid apud vos novi sit.</s>
+				<s n="40" lang="la" state="auto">Tuus G[astius].</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="41" lang="de" state="auto">An den eerwürdigen herren Meyster Heinrych Bullinger, lüttpriester zuͦ Zürich, mynen lieben, günstigen herren und frundt.</s>
+				<s n="42" lang="de" state="auto">Zurich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2848">
+		<alpha>
+			<fn ref="a"><i>Klammern ergänzt.</i></fn>
+			<fn ref="b"><i>Hier und unten Textverlust bei der Entfernung des Siegels.</i></fn>
+			<fn ref="c"><i>Richtig ist</i> 1547; <i>s. dazu oben Anm. 1.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Dass die unten Z. 43 angeführte Jahresangabe nicht richtig sein kann, geht allein schon aus den in unten Z. 24-27 überlieferten Nachrichten hervor, wo von einem desolaten Zustand der Stadt Ulm nach dem dortigen Aufenthalt des Kaisers die Rede ist und zudem berichtet wird, dass Letzterer sich nun in Nördlingen aufhält. Demzufolge kommt hier nur das Jahr 1547 in Frage, welches außerdem durch viele weitere, im vorliegenden Brief übermittelte Angaben bestätigt wird.</fn>
+			<fn ref="2">Der Fastnachtsdienstag fiel im Jahr 1547 auf den 22. Februar. - Durch ein Basler Mandat vom 1. März 1546 war es ausdrücklich verboten worden, nach Aschermittwoch Fastnacht zu halten; s. <i><persName ref="1278">Gast</persName>, Tagebuch</i> 263, Anm. 16. Somit ist es ausgeschlossen, dass die Basler Fastnacht schon damals erst am Montag nach Aschermittwoch ("Hirsmontag" - im Jahre 1547 der 28. Februar) stattgefunden hätte, wie es heute üblich ist. - <persName ref="1278">Gast</persName> hatte über diese Anwerbung in <link fk_file="12871">Nr. 2822</link>,12f, berichtet.</fn>
+			<fn ref="3"><persName ref="18327">Ruff (Rudolph) von Reischach</persName>; s. <bibl>HBBW</bibl> XV 672f, Anm. 7.</fn>
+			<fn ref="4"><placeName ref="61">Bremen</placeName>. - Vgl. <bibl>PC</bibl> IV/1 660, Nr. 589. Die Stadt wurde seit dem 19. Februar 1547 durch den Burggrafen in <placeName ref="2012">Zeeland</placeName>, <persName ref="7445">Jobst von Cruningen</persName>. belagert, der den Oberbefehl über ein kaiserliches Heer führte; s. <link fk_file="12846">Nr. 2797</link>, Anm. 28; Helmut <i>Lucke,</i> <placeName ref="61">Bremen</placeName> im Schmalkaldischen Bund 1540-1547, <placeName ref="61">Bremen</placeName> 1955, S. 70. 77. Ob die hier übermittelte Nachricht stimmt, konnte nicht ermittelt werden.</fn>
+			<fn ref="5"><entity id="20136" type="group">Hansestädten</entity>.</fn>
+			<fn ref="6">besser.</fn>
+			<fn ref="7">syndt uff: brechen auf.</fn>
+			<fn ref="8" type="bio" fk_person="18590"><persName ref="18590">Sigismund I.</persName> starb erst am 1. April 1548. Vgl. allerdings schon <link fk_file="12890">Nr. 2841</link>,73f und <link fk_file="12907">Nr. 2858</link>,44.</fn>
+			<fn ref="9"><persName ref="18590">Sigismund II. August</persName>. der später König wurde.</fn>
+			<fn ref="10">Unbekannt.</fn>
+			<fn ref="11">Unbekannt.</fn>
+			<fn ref="12"><persName ref="18593">Sultan Suleiman I.</persName></fn>
+			<fn ref="13">Ein falsches Gerücht.</fn>
+			<fn ref="14">D.h. nach dem 10. April 1547.</fn>
+			<fn ref="15"><persName ref="18477">Ferdinand I.</persName></fn>
+			<fn ref="16">gekündigt.</fn>
+			<fn ref="17">grossen Hansen: angesehene Persönlichkeiten bzw. hochrangige Militärs; s. <bibl>SI</bibl> II 147 lf: <i>Grimm X 456f.</i></fn>
+			<fn ref="18">Als.</fn>
+			<fn ref="19">Zu den Rüstungen von Suleiman s. <link fk_file="12876">Nr. 2827</link>, Anm. 13; <link fk_file="12881">Nr. 2832</link>,19-23.</fn>
+			<fn ref="20">Unbekannt. - Gemeint ist ein für <placeName ref="28">Basel</placeName> bestimmter Bote aus der Stadt <placeName ref="513">Ulm</placeName>; s. <bibl>SI</bibl> IV 1883.</fn>
+			<fn ref="21"><persName ref="18538">Karl V.</persName>, der sich in <placeName ref="513">Ulm</placeName> zwischen dem 25. Januar und dem 4. März aufgehalten hatte; s. Nr. 2754, Anm. 18.</fn>
+			<fn ref="22">Subjekt ist der Kaiser. - Er hielt sich in <placeName ref="360">Nördlingen</placeName> zwischen dem 5. und dem 21. März 1547 auf; s. <bibl>Stälin</bibl> 579. Dort wurde er durch Gichtanfälle (die vermutlich vom schlechten Wetter verstärkt wurden) zurückgehalten; s. <i><persName ref="18250">Moritz von Sachsen</persName> PK</i> III 296, <link fk_file="10450">Nr. 415</link>.</fn>
+			<fn ref="23">Ein unbekannter <entity id="16" type="geo_country">Italiener</entity> oder Spanier.</fn>
+			<fn ref="24">unzufrieden.</fn>
+			<fn ref="25">nicht gesagt.</fn>
+			<fn ref="26"><persName ref="18574">Philipp von Hessen</persName>. - Zu ähnlichen Meldungen s. Nr. 2773,16f; Nr. 2782,34f; Nr. 2810,37; Nr. 2815,13-16; Nr. 2842,28- 31; Nr. 2844,19-21; Nr. 2858,23-26. Hier dürfte die Bestellung der Festungen <placeName ref="244">Kassel</placeName>, <placeName ref="2401">Gießen</placeName> und Ziegenhain gemeint sein; s. <bibl>PA</bibl> I 587, <link fk_file="10975">Nr. 933</link>. Zudem ließ der Landgraf ab 24. März die hessische Ritterschaft aufbieten, da der Feind in die <entity id="201" type="geo_region">Grafschaft Waldeck</entity> einzufallen drohte; s. ebd., 589, <link fk_file="10980">Nr. 938</link>. Zugleich aber stand Philipp in Friedensverhandlungen und war auch seit mehreren Tagen bereit, den Fußfall zu leisten (s. <i><persName ref="18250">Moritz von Sachsen</persName> PK</i> III 279, <link fk_file="10420">Nr. 386</link>), nie aber, gegen den Kurfürsten <persName ref="19065">Johann Friedrich von Sachsen</persName> zu ziehen (s. ebd., S. 283, <link fk_file="10428">Nr. 393</link>; 299f, <link fk_file="10455">Nr. 420</link>; Lettres et mémoires d'État des roys, princes et ambassadeurs et autres ministres sous les règnes de François Jet, Henri II et François II, hg. von <persName ref="6215">Guillaume Ribier</persName>, Bd. 1, Paris 1666, S. 624. 631f; und <link fk_file="12893">Nr. 2844</link>, Anm. 12).</fn>
+			<fn ref="27">Gemeint sind die Abgeordneten <placeName ref="492">Straßburgs</placeName> zum Kaiser, nämlich <persName ref="6733">Jakob Sturm</persName>, <persName ref="5121">Marx Hag</persName>, <persName ref="7504">Friedrich von Gottesheim</persName> und <persName ref="1340">Ludwig Gremp</persName>; s. <bibl>PC</bibl> IV/1 633, <link fk_file="10607">Nr. 569</link>, Anm. 33; 654, <link fk_file="10624">Nr. 586</link>. - Siehe dazu bereits <link fk_file="12871">Nr. 2822</link>, Anm. 16.</fn>
+			<fn ref="28">Anspielung auf Apk 13, 15; 14,9. 11; 19. 20; 20, 4.</fn>
+			<fn ref="29">odio Vatiniano: Zitat aus einem Gedicht des römischen Dichters <persName ref="18839">Catull</persName> (Carmina, 14, 3), welches adressiert ist an <persName ref="18839">Catulls</persName> Freund Calvus, der sich infolge mehrerer Anzeigen gegen den Politiker <persName ref="6901">Publius Vatinius</persName> dessen Hass zugezogen hatte. vgl. auch <bibl>Adagia</bibl> 2, 2, 94 <i>(ASD</i> II/3 206, <link fk_file="11237">Nr. 1194</link>).</fn>
+			<fn ref="30"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="31">all(es).</fn>
+			<fn ref="32">Ein falsches Gerücht. - Siehe dazu schon <link fk_file="12806">Nr. 2757</link>, Anm. 76.</fn>
+			<fn ref="33">Während der Schlacht bei <placeName ref="2396">Rochlitz</placeName> am 2. März kam es zu zwei Gefechten, in denen die Truppen des Kurfürsten die des Markgrafen <persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach besiegten; s. <i>Voigi, Albrecht</i> 149f.</fn>
+			<fn ref="34"><placeName ref="2449">Böhmen</placeName>.</fn>
+			<fn ref="35"><persName ref="18477">Ferdinand I.</persName> - Siehe dazu <link fk_file="12890">Nr. 2841</link>, Anm. 54.</fn>
+			<fn ref="36">Vgl. <link fk_file="12846">Nr. 2797</link>,50f; <link fk_file="12905">Nr. 2856</link>, Anm. 5; <link fk_file="12907">Nr. 2858</link>,35-37.</fn>
+			<fn ref="37" type="bio" fk_person="18534">Tatsächlich hatte <persName ref="18538">Karl V.</persName> seinem Bruder Ferdinand zugesagt, ihm unverzüglich zu Hilfe zu kommen; s. <bibl>Voigt, Moritz</bibl> 336f; <bibl>Moritz von Sachsen PK</bibl> III 296, <link fk_file="10450">Nr. 415</link> (Anfang). Als er am 21. März <placeName ref="360">Nördlingen</placeName> verließ, zog er über <placeName ref="2402">Öttingen</placeName> (21. März), <placeName ref="191">Gunzenhausen</placeName> (22. März) und <placeName ref="1967">Schwabach</placeName> (24. März) nach <placeName ref="361">Nürnberg</placeName>, wo er sich vom 24. bis zum 28. März aufhielt; s. <bibl>Stälin</bibl> 579f.</fn>
+			<fn ref="38">Dazu scheint es nicht vor dem 21. März (mit Nr. 2855) gekommen zu sein.</fn>
+		</num>
+	</footnotes>
+</file>

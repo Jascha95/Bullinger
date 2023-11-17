@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12815" id_hbbw="2766" id_irg_sort="2766" id_sort="127660">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12815</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2766</arpa>
+		<scan_pages>
+			<scan id="30000" dir="12815/Autograph/" page="1">00 Ms F 62 (478)_00001.tif</scan>
+			<scan id="30001" dir="12815/Autograph/" page="2">01 Ms F 62 (478)_00002.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26171" vf="1" fk_add_type="1">
+				<person id="8442" fk_id="8442">
+					<name>Simler (Simmler)</name>
+					<forename>Josias</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26172" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12815">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">23</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19381">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 62,478</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12385" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2766, S. 176</entry>
+				<page>176</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="15">
+				<lang id="5" iso="la" count="15" p="100.0"/>
+			</sentences>
+			<words count="223">
+				<lang id="5" iso="la" count="223" p="100.0"/>
+			</words>
+			<chars count="1345">
+				<lang id="5" iso="la" count="1345" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2766" page="176">
+		<div ref="1">
+			[1] <persName ref="8443">Simler</persName> hat zwar kaum etwas Mitteilenswertes, schreibt aber
+			trotzdem, um den gegenwärtigen zuverlässigen Überbringer [<persName ref="5441">Isaak Keller</persName>] nicht ohne einen Brief nach Zürich
+			gehen zu lassen, zumal dieser es sehr wünscht, Bullinger brieflich empfohlen zu werden. Es handelt sich um
+			einen guten Freund, der <persName ref="1365">Simon Grynäus</persName>’ Stiefsohn ist und sich dem
+			Studium ziemlich eifrig widmet, wie Bullinger von dessen Begleitern [<persName ref="8032">Francisco de Enzinas</persName> und
+			<persName ref="8126">Johannes Oporin</persName>] wohl erfahren
+			wird.
+		</div>
+		<div ref="2">
+			[2] Josias hat das von Bullinger übermittelte Geld und den
+			beigelegten Brief gut erhalten und dankt dafür. Noch weiß er nicht, wie es mit seinem Studium weitergehen
+			wird. Doch werden sich bestimmt Bullinger und Josias’ Vater
+			[<persName ref="8443">Peter Simler</persName>] darüber beraten und einen guten Entscheid treffen.
+		</div>
+		<div ref="3">
+			[3] In <placeName ref="28">Basel</placeName> lehrt jetzt
+			<persName ref="714">Celio Secondo Curione</persName>, ein
+			vortrefflicher Rhetoriklehrer und Redner. <persName ref="8443">Simler</persName> ist von dessen
+			Vorlesung beeindruckt. Es gibt auch eine gute Vorlesung im Fach Mathematik, dessen Fehlen im Lehrangebot der
+			Zürcher seines Erachtens eine Lücke darstellt. Josias liebt das Fach
+			sehr. Deshalb würde es ihm nichts ausmachen, wenn er in <placeName ref="28">Basel</placeName>
+			bleiben müsste und sein Studium nicht woanders fortsetzen könnte. Bullinger möge bei Gelegenheit seinen
+			Beschluss mitteilen.
+		</div>
+		<div ref="4">
+			[4] Gruß an <persName ref="8051">Anna [geb. Adlischwyler]</persName> und an die ganze Familie. Grüße von
+			<persName ref="8443">Simlers</persName> Hausherrn [<persName ref="8406">Konrad Wolfhart</persName>] sowie von <persName ref="7228">Huldrych Zwingli d.J.</persName>
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2766" page="176">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratia et pax a domino per Christum Iesum.</s>
+				<s n="2" lang="la" state="auto">Etsi nihil magnopere necessarium habebam, quod scriberem, Bullingere, pater charissime, tamen, cum haberem, cui recte darem litteras, adolescentem hunc<fl>2</fl> summa mihi familiaritate coniunctum, non potui ipsum inanem dimittere<fl>a</fl>, cum praesertim ipse maxime optaret aliquas a me habere litteras.</s>
+				<s n="3" lang="la" state="auto">Est autem <persName ref="1365">Grinei</persName><fl>3</fl> privignus, iuvenis bonus litterisque satis intentus (quod ex ipsius comitibus<fl>4</fl> te cogni-<pb_edition start_of="177"/>turum haud dubit[o]<fl>b</fl>).</s>
+				<s n="4" lang="la" state="auto">Est quoque mihi summa summa familiaritate coniunctus.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="la" state="auto">Pecunias una cum litteris accepi, quas ad me perferendas curasti, ob quas magnas tibi habeo gratias.<fl>5</fl></s>
+				<s n="6" lang="la" state="auto">Etsi autem de meo negotio<fl>6</fl> nihil adhuc certi habeam, tamen non dubito, quin, quod maxime in utilitatem meam sit, consulturus patri<fl>7</fl> sis.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="la" state="auto">Habemus nunc rhetorem egregium et, ut videt[ur], oratorem praestantem, <persName ref="714">Coelium Secundum</persName>,<fl>8</fl> cuius lectio dici non pot[est] quam mihi placeat meque detineat.</s>
+				<s n="8" lang="la" state="auto">Est quoque mathematum lectio bon[a] apud nos,<fl>9</fl> mea quidem sententia qua vos carent, quandoquidem studia mirum in modum me alliciunt afficiuntque, ut non ingratum futurum sit, si <placeName ref="28">Basileę</placeName> sit manendum, si alio proficisci non possem.</s>
+				<s n="9" lang="la" state="auto">Te quaeso, ut, cum vacaverit, me certiorem de tua sententia reddas.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="10" lang="la" state="auto">Dominus te omnemque familiam quam diutissime incolumem conservet!</s>
+				<s n="11" lang="la" state="auto">Plurimam quoque meo nomine uxori<fl>10</fl> ac omni familię salutem dicito.</s>
+				<s n="12" lang="la" state="auto">Salutem plurimam tibi dicunt dominus meus<fl>11</fl> et <persName ref="4091">Zvinglius</persName>.<fl>12</fl></s>
+				<s n="13" lang="la" state="auto">Datum <placeName ref="28">Basileę</placeName>, 23. ianuarii.</s>
+				<s n="14" lang="la" state="auto">Tibi omni tempore deditissimus <persName ref="8442">Josias Simlerus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="15" lang="la" state="auto">Vigilantissimo Tigurinę ecclesię pastori, domino Heinricho Bullingero, domino et patri suo colendissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2766">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage</i> dimitterem.</fn>
+			<fn ref="b"><i>Hier und unten Textverlust durch Papierverlust.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Das Jahr geht eindeutig aus Z. 9f und 13-15 hervor.</fn>
+			<fn ref="2" type="bio" fk_person="5441">Gemeint ist (wie aus dem Folgenden hervorgeht) <persName ref="5441">Isaak Keller</persName> (1530-1596). Er war ein Sohn von <persName ref="1365">Simon Grynäus</persName>' zweiter Frau <persName ref="5044">Katharina Lompart</persName> aus deren erster Ehe. Zwischen 1553 und 1579 wirkte er als Professor der Medizin in <placeName ref="28">Basel</placeName>; s. <i>Henrich, Mvconius BW</i> 693, Anm. 247. - Der Jugendliche unternahm (vermutlich am 24. Januar) die Reise nach Zürich in Begleitung von <persName ref="8126">Johannes Oporin</persName> und <persName ref="8032">Francisco de Enzinas</persName>. Seine Rückreise nach <placeName ref="28">Basel</placeName> trat er wohl am 2. Februar in Begleitung von Oporin an; vgl. <link fk_file="12810">Nr. 2761</link>,63; <link fk_file="12832">Nr. 2783</link>, Anm. 1; <i>Henrich, Myconius BW</i> 934, <link fk_file="11093">Nr. 1050</link>. Am 6. Februar ist er wieder in <placeName ref="28">Basel</placeName> nachgewiesen; s. <link fk_file="12846">Nr. 2797</link>,9f.</fn>
+			<fn ref="3"><persName ref="1365">Simon Grynäus</persName>.</fn>
+			<fn ref="4">Gemeint sind <persName ref="8032">Enzinas</persName> und <persName ref="8126">Oporin</persName>; s. oben Anm. 2.</fn>
+			<fn ref="5">Vgl. <link fk_file="12806">Nr. 2757</link>,15 (wo auch der Brief erwähnt ist).</fn>
+			<fn ref="6" type="bio" fk_person="8442">Es ging dabei um <persName ref="8442">Josias Simlers</persName> weiteres Studium. Er konnte nach vielen Bitten im Frühsommer 1547 erreichen, dass sein Vater <persName ref="8443">Peter Simler</persName> ihn nach <placeName ref="492">Straßburg</placeName> ziehen ließ (s. <persName ref="8442">Josias Simler</persName> an Bullinger, 1. Juni 1547, Zürich StA, E II 340, 373), obwohl dieser gewünscht hatte, dass Josias sein Studium so schnell wie möglich abschließen würde (s. <bibl>HBBW</bibl> XVI 219f).</fn>
+			<fn ref="7"><persName ref="8443">Peter Simler</persName>.</fn>
+			<fn ref="8">Zu <persName ref="714">Cello Secondo Curiones</persName> Ankunft und Tätigkeit in <placeName ref="28">Basel</placeName> s. <link fk_file="12784">Nr. 2735</link>, Anm. 2. Im Jahr 1547 las <persName ref="714">Curione</persName> in Ablösung von <persName ref="8384">Johannes Hospinian</persName> über die Reden von Cicero oder Demosthenes sowie über die Rhetorica ad Herennium; s. <i>Thommen,</i> Übersichtstabelle IX (nach S. 348).</fn>
+			<fn ref="9">Der Mathematikunterricht wurde damals von <persName ref="8466">Wolfgang Wissenburg</persName> erteilt; s. <bibl>Athenae rauricae</bibl> 411; <bibl>Thommen</bibl> 114.</fn>
+			<fn ref="10" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="11"><persName ref="8406">Konrad Wolfhart (Lycosthenes)</persName>; s. <bibl>HBBW</bibl> XVI 219, Anm. 4.</fn>
+			<fn ref="12"><persName ref="7228">Huldrych Zwingli d.J.</persName></fn>
+		</num>
+	</footnotes>
+</file>

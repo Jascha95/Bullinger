@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12870" id_hbbw="2821" id_irg_sort="2821" id_sort="128210">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12870</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2821</arpa>
+		<scan_pages>
+			<scan id="30130" dir="12870/Autograph/" page="1">00 E_II_370__fol__569_r_.tif</scan>
+			<scan id="30131" dir="12870/Autograph/" page="2">01 E_II_370__fol__569_v_.tif</scan>
+			<scan id="30132" dir="12870/Autograph/" page="3">02 E_II_370__fol__570_r_.tif</scan>
+			<scan id="30133" dir="12870/Autograph/" page="4">03 E_II_370__fol__570_v_.tif</scan>
+			<scan id="30134" dir="12870/Autograph/" page="5">04 E_II_370__fol__52_r_.tif</scan>
+			<scan id="30135" dir="12870/Autograph/" page="6">05 E_II_370__fol__52_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26284" vf="1" fk_add_type="1">
+				<person id="8018" fk_id="8018">
+					<name>Haller d.J.</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="18" vf="1" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26285" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12870">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">21</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19438">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 370a,569 f.</signature>
+			</document>
+			<document id="19439">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 370,52</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12407" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2821, S. 337</entry>
+				<page>337</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="165">
+				<lang id="1" iso="de" count="95" p="57.6"/>
+				<lang id="5" iso="la" count="70" p="42.4"/>
+			</sentences>
+			<words count="1871">
+				<lang id="1" iso="de" count="1144" p="61.1"/>
+				<lang id="5" iso="la" count="727" p="38.9"/>
+			</words>
+			<chars count="10190">
+				<lang id="1" iso="de" count="5858" p="57.5"/>
+				<lang id="5" iso="la" count="4332" p="42.5"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2821" page="336">
+		<div ref="1">
+			[1] Nachdem <persName ref="8018">Haller</persName> seinen Brief [<link fk_file="12854">Nr. 2805</link>] durch den Zürcher Ratsboten [<persName ref="7193">Hans Zingg</persName>] an Bullinger abgeschickt hatte, empfing er zwei Briefe von Bullinger [nicht erhalten], die allerdings
+			sehr lange unterwegs waren. Eine Antwort darauf dürfte überflüssig sein, da <persName ref="8018">Haller</persName> zur Genüge klar gemacht
+			hat, dass er nie ängstlich war (hoffentlich denkt nun Bullinger auch anders über ihn). Er orientierte sich
+			an den besten Männern in <placeName ref="1976">Augsburg</placeName> und wollte die Stadt nur wegen
+			deren bevorstehenden unwürdigen Lage verlassen.
+		</div>
+		<div ref="2">
+			[2] Nun geschieht hier das, was <persName ref="8018">Haller</persName> schon lange befürchtete und was sich bereits in anderen
+			[oberdeutschen Städten] abgespielt hat. Heute sollen sechs kaiserliche Fähnlein unter dem Obristen <persName ref="7760">Graf von Schramberg</persName>
+			[richtig: <persName ref="7760">Bernhard von Schaumburg</persName>] in die Stadt einmarschieren. Der Obrist war schon vor vier
+			Tagen hier. Er logierte im Fuggerhaus, in der Nähe von <persName ref="8018">Hallers</persName> Unterkunft. Das Kriegsvolk will man bei den
+			wohlhabenden Bürgern einquartieren und nicht bei den Armen, um jeglichen Aufruhr zu vermeiden. Der Obrist
+			meinte sowieso, dass es eine Schande wäre, die verdienstvollen Kriegsleute bei den Armen oder in den
+			Klöstern (wo man schon Betten für sie bereitgestellt hatte) so eng beieinander wie in einem Spital
+			unterzubringen! Man gab ihm also nach. Er und seine Leute speisten hier, zahlten aber nicht, und sagten nur,
+			dass <persName ref="18538">Kaiser Karl V.</persName> bald kommen und die Rechnung bezahlen werde. Allein schon dies brachte die Bürger auf,
+			und es ist kaum zu erwarten, dass die Bürgerschaft mit den Besatzern gut auskommen wird. In der Stadt
+			wimmelt es bereits von roten Schärpen [der Kaiserlichen].
+		</div>
+		<div ref="3">
+			[3] Die Predigten werden noch fleißig besucht.
+		</div>
+		<div ref="4">
+			[4] <persName ref="7197">Hans Wilpert Zoller</persName> sollte nach Zürich zurückkehren. Vermutlich wird er das auch tun, denn er steht in
+			Gefahr. <persName ref="8018">Haller</persName> nimmt zudem an, dass er sich verschuldet, denn trotz seiner Ermahnungen lebt er auf großem
+			Fuße.
+		</div>
+		<div ref="5">
+			[5] <persName ref="8130">Lorenz Meyer</persName> und <persName ref="6544">Rudolf Schwyzer d.Ä.</persName> werden nach Erhalt ihres Reisegeldes nach Zürich zurückkehren.
+			<persName ref="2812">Thoman Ruman</persName> würde sie gerne begleiten, doch der <placeName ref="1976">Augsburger</placeName> Rat
+			will, dass er bleibt. <persName ref="8018">Haller</persName> schrieb bereits darüber.
+		</div>
+		<div ref="6">
+			[6] Vielleicht werden schon bald alle wegziehen müssen, wenn nämlich der Kaiser so weitermacht wie bisher.
+			Denn dann werden die Prädikanten vor einem Problem stehen, zumal man bereits von ihnen verlangt, im
+			Gottesdienst namentlich für <persName ref="18538">Karl V.</persName> und <persName ref="18477">König Ferdinand I.</persName> zu beten! Das hat schon zu Spannungen unter den
+			Kollegen geführt. Alle sind gewillt, allgemein für die Feinde zu beten; diese aber mit Namen zu nennen (wo
+			man doch zuvor in den Gebeten die Namen des Kurfürsten <persName ref="19065">Johann Friedrich von Sachsen</persName>, der Fürsten und der
+			Reichsstände erwähnt hat), wird in der Kirche Anstoß erregen. Als Pfarrer <persName ref="18636">Johann Heinrich Held von Tiefenau</persName>
+			nach der Ergebung der Stadt anordnete, für den gnadenreichsten Kaiser zu beten, sorgte dies bereits für
+			große Irritation (wäre es im Interesse der Kirche, würde <persName ref="8018">Haller</persName> nicht zögern, den Kaiser namentlich zu
+			erwähnen). Zudem hörte er (auch wenn nur von Privat- und nicht von Amtspersonen), dass man den Predigern
+			vorschreiben will, sich nicht heftig gegen die Messe und die gottlosen Feinde des Evangeliums zu äußern.
+			Sollten sie sich nicht an diese Anweisung halten [und sollte es zu einem Aufruhr kommen], wird man sie dafür
+			verantwortlich machen. Der Kaiser ist nur schon darüber verärgert, dass die Pfarrer die Gemeinden ermahnen,
+			keinen Anstoß am Erfolg der Gottlosen zu nehmen.
+		</div>
+		<div ref="7">
+			[7] Zweifellos wird der Teufel sich austoben. Es könnte so wie in
+			<placeName ref="513">Ulm</placeName> kommen. Der Kaiser hat sich dort eine Kirche ausgesucht, in
+			der er täglich die Messe hört. Vielleicht werden die Kaiserlichen das Gleiche in
+			<placeName ref="1976">Augsburg</placeName> beanspruchen. Es verstößt gegen <persName ref="8018">Hallers</persName> Gewissen, dem
+			Antichristen einen Platz einzuräumen! Aber noch sind die Dinge in der Schwebe. Zu gegebener Zeit wird er
+			Bullinger um Rat fragen.
+		</div>
+		<div ref="8">
+			[8] Die Bedingungen des<pb_edition start_of="337"/> <placeName ref="1976">Augsburger</placeName>
+			Friedensschlusses kann <persName ref="8018">Haller</persName> hier nur aus dem Gedächtnis wiedergeben, wie er sie hörte, als sie von
+			jemandem [...] verlesen wurden. <persName ref="8018">Haller</persName> notierte sie sich zwar sofort, als er nach Hause kam, möglicherweise
+			aber sind sie nicht vollständig. [Darauf folgen neun Punkte des Friedensschlusses zwischen
+			<placeName ref="1976">Augsburg</placeName> und dem Kaiser, die gelegentlich von <persName ref="8018">Haller</persName> kommentiert
+			werden.]
+		</div>
+		<div ref="9">
+			[9] Die <placeName ref="513">Ulmer</placeName> sind noch schlimmere Verpflichtungen eingegangen,
+			und dennoch wurde ihr Land in Anwesenheit des Kaisers beinahe völlig zerstört.
+		</div>
+		<div ref="10">
+			[10] <persName ref="9780">Herzog Ulrich von Württemberg</persName> musste noch ärgere Vorgaben annehmen. <persName ref="8018">Haller</persName> hat sie in Abschrift von
+			einem guten Mann [...] erhalten. [Darauf folgen 18 Artikel des Friedens zwischen dem Herzog und dem Kaiser,
+			die <persName ref="8018">Haller</persName> stellenweise bewertet.]
+		</div>
+		<div ref="11">
+			[11] Die Annahme dieser Verträge wird für Deutschland eine ewige Schande darstellen!
+		</div>
+		<div ref="12">
+			[12] Kein Wort in diesen Verträgen über die Religion. Der Kaiser wollte das Thema nicht behandeln, weil er
+			ja angeblich den Krieg nicht der Religion halber begonnen hat! Die Folgen davon wird Bullinger sich ausmalen
+			können. Der Herr befreie seine Kirche aus dieser Tyrannei!
+		</div>
+		<div ref="13">
+			[13] Über den Kurfürsten hört man lediglich, dass er ein großes Heer habe und seine Angelegenheit energisch
+			vorantreibe. Der Herr stärke ihn!
+		</div>
+		<div ref="14">
+			[14] Viele behaupten, dass Landgraf <persName ref="18574">Philipp von Hessen</persName> ein Verräter sei und [vom Vorhaben seines Schwagers
+			<persName ref="18250">Moritz</persName>’ von Sachsen] gewusst habe. Hoffentlich stimmt das nicht!
+		</div>
+		<div ref="15">
+			[15] Der Kaiser wirbt in <placeName ref="361">Nürnberg</placeName> Truppen für drei Regimenter an,
+			die gegen den Kurfürsten bestimmt sind. <persName ref="18449">König Christian III. von Dänemark</persName> hält zum Kaiser. Auch mit den
+			<entity id="20136" type="group">Hansestädten</entity> steht es anders, als man es behauptet hat. <entity id="24" type="geo_country">Polen</entity>
+			soll <persName ref="18477">König Ferdinand</persName> den Gehorsam aufgekündigt haben. Die <placeName ref="2449">Böhmen</placeName>
+			wollen diesem nicht zu Hilfe kommen, außer dass sie bereit sind, ihr Land zu schirmen. Am 27. Januar starb
+			<persName ref="7584">Anna Jagiello</persName>, Ferdinands Gattin. Auch der englische <persName ref="18505">König Heinrich VIII.</persName> soll tot sein. Über <persName ref="7637">König Franz I. von Frankreich</persName> gibt es so viele Gerüchte, dass sie gar nicht alle wahr sein können und es <persName ref="8018">Haller</persName>
+			widerstrebt, davon zu schreiben. Weiß Bullinger etwas darüber? Stimmt es, dass <persName ref="7706">Nicolas Perrenot</persName>, Herr von
+			Granvelle, zur <placeName ref="21">Badener</placeName> Tagsatzung [vom 28. Februar] kommt?
+		</div>
+		<div ref="16">
+			[16] So erfüllt sich die Heilige Schrift! Man erhebe das Haupt, denn die Erlösung naht! Gruß und
+			Empfehlung.
+		</div>
+		<div ref="17">
+			[17] <persName ref="8018">Haller</persName> hat seine Predigtreihe über den zweiten Timotheusbrief bald fertig. Er wollte nun über das
+			Johannesevangelium predigen, auch wenn <persName ref="8417">Wolfgang Musculus</persName> (jedoch zu
+			einer anderen Stunde und an einem anderen Ort) ebenfalls darüber spricht. Aber angesichts der unsicheren
+			Lage, in der sich die Kirche befindet, scheint ihm die Apostelgeschichte viel passender! <persName ref="8018">Haller</persName> besitzt
+			Bullingers entsprechenden Kommentar. Bullinger möge seine Predigtnotizen zu diesem Buch (wenn er solche hat)
+			von einem armen Studenten abschreiben lassen. <persName ref="8018">Haller</persName> wird die Kosten dafür übernehmen.
+		</div>
+		<div ref="18">
+			[18] Gruß an die Kollegen, an <persName ref="8051">Anna [geb. Adlischwyler]</persName> und an die Kinder. Grüße von <persName ref="8130">Meyer</persName>, <persName ref="2812">Ruman</persName>, Schwyzer,
+			<persName ref="8417">Musculus</persName>, <persName ref="1860">Michael Keller</persName>, <persName ref="8354">Georg Frölich</persName>, <persName ref="5341">Sebastian Lepusculus</persName> und
+			<persName ref="8173">Sixt Birck</persName>.
+		</div>
+		<div ref="19">
+			[19] [P.S.:] Bullinger soll auch <persName ref="3493">Bernhard von Cham</persName>, den Landvogt von
+			<placeName ref="266">Kyburg</placeName>, über die hier mitgeteilten Friedensverträge informieren.
+			<persName ref="8018">Haller</persName> hat keine Zeit, diese ihm auch abzuschreiben.
+		</div>
+		<div ref="20">
+			[20] <persName ref="7197">Zoller</persName> ist gerade da und lässt grüßen. Während <persName ref="8018">Haller</persName> und <persName ref="7197">Zoller</persName> den Brief des Landvogtes lasen, kamen
+			die oben erwähnten sechs Fähnlein an. Es sind etwa 1200 Mann. In den nächsten Tagen sollen noch einmal so
+			viele kommen.
+		</div>
+		<div ref="21">
+			[21] [Über der Adresse verzeichnete <persName ref="8018">Haller</persName> die Zusammenstellung des kurfürstlichen Heeres sowie die Namen
+			dessen Anführer.] Aus dem Land des Kurfürsten ist noch niemand ausgerückt. Der polnische <persName ref="18590">König [Sigismund II. August]</persName> und <persName ref="8616">Herzog Albrecht von Preußen</persName> haben Ferdinand den Gehorsam aufgekündigt. Dies wurde dem
+			<placeName ref="1976">Augsburger</placeName> Rat geschrieben. <persName ref="8018">Haller</persName> erfuhr davon, als er den Brief
+			schloss.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2821" page="337">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. et pax per dominum nostrum Iesum Christum.</s>
+				<s n="2" lang="la" state="auto">Ex quo postremas<fl>1</fl> ad te dedi per publicum illum Tigurini senatus tabellarium<fl>2</fl>, binas<fl>3</fl> a te accepi, quas tamen diu in itinere retentas esse ex dato comprehendi, ad quas (quia iam dudum animum tibi meum aperui et sufficienter)<fl>b</fl> satis me a suspicione, <pb_edition start_of="338"/> qua me suspectum habes et prorsus concidisse animo dicis, purgavi meo iudicio.</s>
+				<s n="3" lang="la" state="auto">Spero etiam te meliora tibi posthac de me persuasurum, ideoque ad illas nunc respondere supervacaneum.</s>
+				<s n="4" lang="la" state="auto">Feci, quod vidi optimos quosque facere, et profecto non metu, sed rei indignitate motus discedere cupivi.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="la" state="auto">Iam evenit nobis, quod diu metuimus, et quod in aliis hactenus spectavimus, nunc sentimus ipsi.</s>
+				<s n="6" lang="de" state="auto">Uff hütt datum koͤmmend 6 fennli keiserscher inn dstatt.</s>
+				<s n="7" lang="de" state="auto">Der obrist ist graff von Schramberg.<fl>4</fl></s>
+				<s n="8" lang="de" state="auto">Ist vor 4 tagen hie gsin, ins <persName ref="19043">Fuggers</persName> hus, nach<fl>5</fl> bi miner herberg, ingfuriert.<fl>6</fl></s>
+				<s n="9" lang="de" state="auto">Die knecht sind allein in die rychsten hüser inglusiert.</s>
+				<s n="10" lang="de" state="auto">Den armen und waͤberen<fl>7</fl> hatt man verschonet, damitt si nitt ufruͤrig syend.</s>
+				<s n="11" lang="de" state="auto">Si<fl>8</fl> habend auch bi keinem armen wellen liggen, sonder wo es inen gfalt.</s>
+				<s n="12" lang="de" state="auto">Man hatt in ettliche kloͤster vil wellen leggen, damitt die burgerschafft dest minder beschwert wurd.</s>
+				<s n="13" lang="de" state="auto">Und habend die burger bett darin gen<fl>9</fl>, aber si wellend nitt darinn liggen.</s>
+				<s n="14" lang="de" state="auto">Der obrist hatt gsagt, es wer ein schand, das man die eerlichen lüt, mitt denen man land und lüt gwunnen hatt, also<fl>10</fl> soͤlt uff einander legen als<fl>11</fl> imm spital!</s>
+				<s n="15" lang="de" state="auto">In summa: Si sind herren.</s>
+				<s n="16" lang="de" state="auto">Man muͦß thuͦn, was si wend.<fl>12</fl></s>
+				<s n="17" lang="de" state="auto">Etlich habend hinnen zecht<fl>13</fl> und hingangen.<fl>14</fl></s>
+				<s n="18" lang="de" state="auto">Gsagt, der keiser<fl>15</fl> koͤmm bald; werde die ürten<fl>16</fl> zalen.</s>
+				<s n="19" lang="de" state="auto">Hept sich der muͦtwill schon an.</s>
+				<s n="20" lang="de" state="auto">Gott erbarms!</s>
+				<s n="21" lang="de" state="auto">Die burgerschafft ist unwillig und hitzig.</s>
+				<s n="22" lang="de" state="auto">Ist eines großen übels zuͦ besorgen, dann<fl>17</fl> si werdend sich nitt mitt einander vertragen koͤnnen.</s>
+				<s n="23" lang="de" state="auto">Die statt laufft schon voll roter binden<fl>18</fl>, das eims hertz brechen moͤchte.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="24" lang="de" state="auto">Predig gat noch starck von statt.<fl>19</fl></s>
+				<s n="25" lang="de" state="auto">Die frommen sind yferig.</s>
+				<s n="26" lang="de" state="auto">Gott erhalts!</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="27" lang="de" state="auto"><persName ref="7197">Zollern</persName><fl>20</fl> welt ich raten, das er hinzug.<fl>21</fl></s>
+				<s n="28" lang="de" state="auto">Glaub auch, er werde es thuͦn, dann er wirt großen ufsatz<fl>22</fl> von inn<fl>23</fl> han.<fl>24</fl></s>
+				<s n="29" lang="la" state="auto">Vereor, ne aere alieno prematur, <pb_edition start_of="339"/> quamvis nihil mihi dixerit.</s>
+				<s n="30" lang="la" state="auto">Nimium semper (quantumvis fideliter monuerim) voluit esse sumptuosus.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="31" lang="la" state="auto">Fratres duo, <persName ref="8130">Laurentius</persName><fl>25</fl> et <persName ref="6544">Rodolphus</persName><fl>26</fl>, expectant angariae imminentis stipendium.<fl>27</fl></s>
+				<s n="32" lang="la" state="auto">Tunc discedent.</s>
+				<s n="33" lang="la" state="auto"><persName ref="2812">Romanus</persName><fl>28</fl> libenter cum eis abiret, sed, quoniam senatui gratus, nolunt eum dimittere, ut proximus scripsi.<fl>29</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="34" lang="la" state="auto">Dabitur fortassis omnibus tandem discedendi occasio, si caesar, ut cępit, pergat.</s>
+				<s n="35" lang="de" state="auto"><la>Quantum<pb_scan n="569v."/> enim iudicare possum,</la> wirt man uns bald ein ingriff thuͦn.<fl>30</fl></s>
+				<s n="36" lang="la" state="auto">Iam volunt, ut nominemus caesarem et regiam maiestatem<fl>31</fl> in suggestu et pro his hortemur ecclesiam orare!</s>
+				<s n="37" lang="la" state="auto">Magna hinc inter fratres orta contentio.</s>
+				<s n="38" lang="la" state="auto">Pro eo et omnibus hostibus orandum nemo negavit, imo facimus hoc omnes,<fl>32</fl> sed, an debeat iam nominari, tam repentina mutatione facta paucis placuit.</s>
+				<s n="39" lang="la" state="auto">Nominavimus hactenus electorem<fl>33</fl>, principes et status imperii.</s>
+				<s n="40" lang="la" state="auto">Si iam his omissis alios nominemus, erit offendiculosum ecclesiae.</s>
+				<s n="41" lang="la" state="auto">Nam mirum, quantae calumniae sint ortae, quod Heldius<fl>34</fl>, unus ex ministris, statim, ut audivit nostros se caesari dedisse, iussit ecclesiam pro illo clementissimo caesare orare.</s>
+				<s n="42" lang="la" state="auto">Liberum itaque nobis permissum vel implicite vel explicite pro eo orare.</s>
+				<s n="43" lang="la" state="auto">Si e re ecclesiae viderem esse, non vellem detrectare etiam ipsum nominare, quantum autem intelligo, mox etiam aliquem modum praescribent, ne acrius invehamur contra missam et impios evangelii hostes (quamvis hoc a publicis nondum, a privatis multum audivi personis), et, si non faciamus, iam omnis culpa in nos convertetur.</s>
+				<s n="44" lang="la" state="auto">Iam enim quidam dicunt nos nostris concionibus irritare caesarem, cum monemus ecclesiam, ne impii offendatur successu.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="45" lang="de" state="auto"><la>Non ergo dubito,</la> das uns deß tüfels vil begegnen werde.</s>
+				<s n="46" lang="la" state="auto">Periculum etiam est, ne accidat, quod et <placeName ref="513">Ulmae</placeName>.</s>
+				<s n="47" lang="la" state="auto">Delegit<fl>35</fl> illic sibi templum peculiare, in quo singulis diebus missam audit.<fl>36</fl></s>
+				<s n="48" lang="la" state="auto">Postulabunt<fl>37</fl> forte<fl>c</fl> etiam hic sibi dari templum.</s>
+				<s n="49" lang="la" state="auto">Ego, qui Christi servus sum, antichristo locum dare bona conscientia non possum!</s>
+				<s n="50" lang="la" state="auto">Sed, quoniam haec adhuc dubia sunt omnia, tuum in tempore peto consilium.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="51" lang="la" state="auto">Conditiones pacis nostrae describere non possum certo omnes.</s>
+				<s n="52" lang="la" state="auto">Audivi nuper quendam<fl>38</fl> ex scheda recitare.</s>
+				<s n="53" lang="la" state="auto">Quantum ergo memoria comprehendere valui, statim domum reversus, ne exciderent, antequam tibi scriberem, annotavi.</s>
+				<s n="54" lang="la" state="auto">Eiusmodi autem percepi:</s>
+				<s n="55" lang="de" state="manual"><pb_edition start_of="340"/>1. Si soͤllend sich ergeben uff gnad und ungnad.</s>
+				<s n="56" lang="la" state="auto">N[ota] B[ene]!</s>
+				<s n="57" lang="de" state="auto">2. Was er inen für volk in die statt legge, soͤllend si ufnemmen und versehen.</s>
+				<s n="58" lang="de" state="auto">Ist kein zal gmeldet.</s>
+				<s n="59" lang="de" state="auto">3. Sind usgnon<fl>39</fl> alle ansprach<fl>40</fl>, so küng[liche] m[a]j[esta]t<fl>41</fl> und der cardinal von <placeName ref="1976">Augspurg</placeName><fl>42</fl>, auch andere, an si<fl>43</fl> und die iren habend.</s>
+				<s n="60" lang="de" state="auto">Darumb si sich mitt inen vertragen soͤllind; darzuͦer gnedigst mittlen welle.</s>
+				<s n="61" lang="de" state="auto">Das darff uns wol ein nüwen krieg machen!</s>
+				<s n="62" lang="de" state="auto">Man kan nitt mitt inn<fl>44</fl> nahen kan.<fl>45</fl></s>
+				<s n="63" lang="de" state="auto">Si wend onzal vil gaͤlt han.</s>
+				<s n="64" lang="de" state="auto">Statt<fl>46</fl> man noch in teglicher handlung.<fl>47</fl></s>
+				<s n="65" lang="de" state="auto">Die seckel muͤßend einmal<fl>48</fl> suber grumpt<fl>49</fl> werden.</s>
+				<s n="66" lang="de" state="auto">4. Alle, so uß der statt sind,<fl>50</fl> one engeltnuß bin<fl>51</fl> alten eeren, one verletzung,<pb_scan n="570r."/> wider hinin laßen ungeacht ir<fl>52</fl> burgerlichen constitution und ordnungen.</s>
+				<s n="67" lang="de" state="auto">Der artickel wirt uns die pfaffen wider inhin bringen!</s>
+				<s n="68" lang="de" state="auto">Dann si dorumb uß der statt zogen, das<fl>53</fl> si nitt woltend der ordnungen gleben<fl>54</fl> wie ander burger in stür und umbgaͤlt.<fl>55</fl></s>
+				<s n="69" lang="de" state="auto">5. Die meßigung<fl>56</fl> (also nemmend<fl>57</fl> si das gaͤlt, so er<fl>58</fl> vorderet, mitt eim nüwen termino) erlegen nach glegenheit der statt.</s>
+				<s n="70" lang="de" state="auto">N[ota]: Er wil si wol strecken<fl>59</fl>; meint, si habend es wol.</s>
+				<s n="71" lang="de" state="auto">6. Die justitien deß camergrichts, so ir mjt. ordnen<fl>60</fl>, soͤllend si halten.</s>
+				<s n="72" lang="la" state="auto">Quid hac in causa hactenus actum sit, non ignoras.</s>
+				<s n="73" lang="de" state="auto">7. Die pündtnuß mitt Sachßen, Heßen, auch allen ir mjt. widerwertigen, verlaßen<fl>61</fl> und in keine wider ir mjt. und das hus Oͤsterrych niemermeer bewilligen.</s>
+				<s n="74" lang="de" state="auto">Da wirt er guͦt mitt inn machen han!<fl>62</fl></s>
+				<s n="75" lang="de" state="auto">8. Den eid<fl>63</fl> wie andere stett uff ein nüws wider thuͦn.<pb_edition start_of="341"/></s>
+				<s n="76" lang="de" state="auto">N.: D. <persName ref="7689">Naves</persName><fl>64</fl> ist usgritten zuͦ <placeName ref="513">Ulm</placeName>.</s>
+				<s n="77" lang="de" state="auto">Hatt soͤllen den eid von <placeName ref="1976">Augspurg</placeName> innen.<fl>65</fl></s>
+				<s n="78" lang="de" state="auto">Und als er gen Gintzpurg<fl>66</fl> kommen, ist inn ain wee ankan<fl>67</fl> (etlich sagend der schlag<fl>68</fl>), das er wider gen <placeName ref="513">Ulm</placeName> sich hatt muͤßen fuͤren laßen.<fl>69</fl></s>
+				<s n="79" lang="de" state="auto">9. Allem dem, so ir k[eiserliche] m[ajestat] fürhin imm rych zuͦ friden deßelben und einikeit ordnen werd, gehorchen.</s>
+				<s n="80" lang="de" state="auto">Darin<fl>70</fl> mag der glaub und alles das gschloßen werden, so in anficht.<fl>71</fl></s>
+				<s n="81" lang="la" state="auto">Haec ego memoria retinens annotavi.</s>
+				<s n="82" lang="la" state="auto">Pauca puto me intermisisse.</s>
+				<s n="83" lang="la" state="auto">Vides, qualis pax!</s>
+				<s n="84" lang="la" state="auto">Quid nobis expectandum!</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="85" lang="la" state="auto"><placeName ref="513">Ulmenses</placeName> magis turpes recepere<fl>72</fl> conditiones vastato quamvis eorum tantumnon funditus agro ipsisque caesaris praesentia pressis.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="86" lang="de" state="auto"><placeName ref="572">Wirtenberg</placeName> nach<fl>73</fl> schandtlicher!</s>
+				<s n="87" lang="la" state="auto">Illas descriptas habeo ex quodam viro bono.<fl>74</fl></s>
+				<s n="88" lang="de" state="auto">1. Erstlich soͤllend siner h[ertzoglichen] g[nade]n gesandten den fuͦßfal thuͦn und umb gnadt bitten.</s>
+				<s n="89" lang="de" state="auto">2. Sol in 6 wuchen eigner person den fuͦßfal thuͦn und bekennen, das er wider ir mjt. gehandlet.</s>
+				<s n="90" lang="de" state="auto">3. Sol ir mt. für iren rechten, natürlichen herren erkennen.</s>
+				<s n="91" lang="de" state="auto">4. Den justitien, so ir mt. ordnen werden, soll er die gebürlich underhaltung<fl>75</fl> leisten.</s>
+				<s n="92" lang="de" state="auto">5. Sol hertzog <persName ref="19065">Hanns Fridrichen</persName>, etwan<fl>76</fl> hertzogen zuͦ <persName ref="19065">Sachsen</persName>, und <persName ref="18574">Philipsen von Heßen</persName> kein bistand thuͦn, noch den anderen deß pundts, sonder ir mjt. helffen vermoͤg der acht<fl>77</fl> wider jetzige oder andere.<fl>78</fl></s>
+				<s n="93" lang="de" state="auto">6. Soll kein handtierung, irer maj[estat] widerwertig, gestatten.</s>
+				<s n="94" lang="de" state="auto">7. Alle pündtnuß wider ir mjt. und Oͤsterrych uffsagen und nimmermeer in keine kommen.<pb_scan n="570v."/></s>
+				<s n="95" lang="de" state="auto">[9.]<fl>d</fl> Soll ir mjt. und Oͤsterrych, so offt si es begeren, paß durchs landt und offnung<fl>79</fl> aller irer bevestigung geben.<fl>e</fl><pb_edition start_of="342"/></s>
+				<s n="96" lang="de" state="auto">Huͤt dich, Eidtgnoschafft!<fl>e_2</fl></s>
+				<s n="97" lang="de" state="auto">[10.] Alles gschütz und munition, so imm land bliben, den feinden gehoͤrig, sol ir mjt. überandtwort werden.</s>
+				<s n="98" lang="la" state="auto">Aiunt maximum esse thesaurum.</s>
+				<s n="99" lang="la" state="auto">Omnes enim status aliquot illic reliquerunt tormenta.</s>
+				<s n="100" lang="de" state="auto">[11.] Sol der k[üniglichen] mjt. zalen 300000 fl. rynisch zuͦ 15 batzen<fl>80</fl> (halb<fl>81</fl> in 15 tagen und den rest inn 25 tagen nechst darnach) zuͦ <placeName ref="513">Ulm</placeName> erlegen.</s>
+				<s n="101" lang="de" state="auto">[12.] <placeName ref="1913">Schorndorff</placeName>, Hohen Asperg und Kirchen an der <placeName ref="1402" state="auto_name">Egg</placeName><fl>82</fl> sollend ir mjt. ingeben<fl>83</fl> werden zuͦ versicherung und volziehung deß vertrags.</s>
+				<s n="102" lang="de" state="auto">[13.] Ir mjt. behaltend aller deren sprüch<fl>84</fl> und vorderung bevor<fl>85</fl>, so v[on]<fl>f</fl> imm schaden genommen.<fl>86</fl></s>
+				<s n="103" lang="de" state="auto">Sol sich mitt inen vertragen<fl>87</fl> oder irer<fl>g</fl> m[ajesta]t erkanntnuß geleben.<fl>88</fl></s>
+				<s n="104" lang="de" state="auto">[14.] Desglichen soͤllend<fl>h</fl> sich verzihen beide hertzogen, <persName ref="9780">Ulrich</persName> und Christoff, alle[r] gerechtikeit<fl>89</fl>, so si haben moͤchtend in der graffschafft Burgun[d], es sye<fl>90</fl> wider wen es well.</s>
+				<s n="105" lang="de" state="auto">Soͤllend si anderst nitt dann <fl>i</fl>vor dem landrechten recht<fl>i_2</fl> nemmen, wie ander underthonen.</s>
+				<s n="106" lang="de" state="auto">Das hatt h[erzog] Christoff nitt thuͦn wellen und darumb (wie m[an] sagt) Mümpelgart dem küng in Franckrych<fl>91</fl> zkauffen gen, die<fl>92</fl> das lehen vom hus <placeName ref="631">Burgund</placeName> hatt.</s>
+				<s n="107" lang="de" state="auto">[15.] Für dise guͦthat, so imm beschehen, sol der k[eiserlichen] und kön[iglichen] mjt. vorbeh[alten] sin alle ir gerechtikeit, so si zuͦ dem fürstenthumb <placeName ref="572">Wirtenberg</placeName> habend.</s>
+				<s n="108" lang="la" state="auto">NB!</s>
+				<s n="109" lang="de" state="auto">[16.] Der cadawisch vertrag<fl>93</fl> soll bi krefften bliben.</s>
+				<s n="110" lang="de" state="auto">[17.] So er<fl>94</fl> das alles, in dem vertrag begriffen, halten, so verzicht ir mjt. imm alles, so er wider si gehandlet.<pb_edition start_of="343"/></s>
+				<s n="111" lang="de" state="auto">[18.] Graff <persName ref="8098">Georg von Wirtenberg</persName>, ir f[ürstlich] gn[aden] bruͦder, als der<fl>95</fl> so offendt[lich] rebelliert, sol ußgeschlossen sin; auch ander all ir f. gn. und[er]thonen, so jetzund imm dienst wider ir mjt. sind.</s>
+				<s n="112" lang="de" state="auto">Die soll er a[ll] für fyend halten.</s>
+				<s n="113" lang="de" state="auto">Derselbigen guͤter soͤllend ir mjt. confisc[iert] sin und bliben.</s>
+				<s n="114" lang="de" state="auto">[19.] Soll den vertrag in 4 tagen ratificieren, und hertzog Christoff sol den in 6 wuchen ratificieren und auch alles, so darinn begriffen, halten.</s>
+				<s n="115" lang="de" state="auto">Sol in 6 wuchen irer landtschafft den vertrag ratificieren laßen.</s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="116" lang="de" state="auto">Selich vertraͤg anzuͦnemmen, wirt Tütschland ein ewige scha[nd] sin!</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="117" lang="de" state="auto"><pb_scan n="EII 370, 52r."/>Von der religion statt nüt, dann er<fl>96</fl> hatt nitt wellen, das man si gedenck, diewyl er von der religion wegen den krieg nitt angfangen!<fl>97</fl></s>
+				<s n="118" lang="la" state="auto">Quid secuturum sit, ipse iudicare facile potes.</s>
+				<s n="119" lang="la" state="auto">Orandus est dominus, ut ecclesiam suam ab hac tyrannide liberet.</s>
+			</p>
+		</div>
+		<div ref_regest="13">
+			<p>
+				<s n="120" lang="la" state="auto">De electore nihil audimus, quam quod magnas habeat copias et strenue rem gerat.</s>
+				<s n="121" lang="la" state="auto">Dominus confortet illum!</s>
+			</p>
+		</div>
+		<div ref_regest="14">
+			<p>
+				<s n="122" lang="la" state="auto"><persName ref="3590" state="auto_name">Langrafium</persName><fl>98</fl> multi clamant proditorem esse omnisque huius negotii prius fuisse conscium.<fl>99</fl></s>
+				<s n="123" lang="la" state="auto">Ego meliora spero.</s>
+			</p>
+		</div>
+		<div ref_regest="15">
+			<p>
+				<s n="124" lang="de" state="auto">Der keiser richt drü regimennt uf zuͦ <placeName ref="361">Nuremberg</placeName> wider den churfürsten.</s>
+				<s n="125" lang="de" state="auto"><persName ref="18449" state="auto_name">Dennmarck</persName><fl>100</fl> halt sich wol an imm.<fl>101</fl></s>
+				<s n="126" lang="de" state="auto">Die Seestett sond<fl>102</fl> auch nüt, wie man sagt.<fl>103</fl></s>
+				<s n="127" lang="de" state="auto"><entity id="24" type="geo_country">Polen</entity> sol <persName ref="18477">Ferdinando</persName> abgsagt han.</s>
+				<s n="128" lang="de" state="auto">Behem<fl>104</fl> wellend imm nitt helffen, anders dann ir land schirmen.</s>
+				<s n="129" lang="la" state="auto"><persName ref="18477">Ferdinandi</persName> uxor<fl>105</fl> 27. ianuarii obiit.</s>
+				<s n="130" lang="la" state="auto">Aiunt etiam regem <entity id="3002" type="geo_region">Angliae</entity> defunctum esse.<fl>106</fl></s>
+				<s n="131" lang="la" state="auto">Quid Gallus moliatur, incertum: tam varii sparguntur rumores, ut, quoniam omnes veri esse non possunt, pigeat scribere ullos.</s>
+				<s n="132" lang="la" state="auto">Cupio ex te discere aliquid.</s>
+				<s n="133" lang="la" state="auto"><persName ref="7706">Granvellam</persName><fl>107</fl> dicunt apud Helvetiorum esse comitia.<fl>108</fl></s>
+				<s n="134" lang="la" state="auto">Cuperem scire.</s>
+			</p>
+		</div>
+		<div ref_regest="16">
+			<p>
+				<s n="135" lang="la" state="auto">Sic, sic implentur scripturae!</s>
+				<s n="136" lang="la" state="auto">Tempus est, ut levemus capita nostra, quoniam liberatio nostra appropinquat.<fl>109</fl></s>
+				<s n="137" lang="la" state="auto">Vale meque commendatum tibi habeto.</s>
+			</p>
+		</div>
+		<div ref_regest="17">
+			<p>
+				<s n="138" lang="la" state="auto">Posteriorem ad <persName ref="19977">Timotheum</persName> fere finivi.<fl>110</fl></s>
+				<s n="139" lang="la" state="auto">Statueram Ioannis evangelium (quod tamen et <persName ref="8417">Musculus</persName><fl>111</fl>, sed alio hora et alio loco,<fl>112</fl> tractat) sumere.<fl>113</fl></s>
+				<s n="140" lang="la" state="auto">Sed ecclesia ita fluctuante videntur commodius tractari et applicari<fl>114</fl> posse <pb_edition start_of="344"/> Actus apostolorum.</s>
+				<s n="141" lang="la" state="auto">Habeo tua commentaria.<fl>115</fl></s>
+				<s n="142" lang="la" state="auto">Si haberes memorialia<fl>116</fl>, vellem, ut ex studiosis iuvenibus pauperibus alicui describenda dares.</s>
+				<s n="143" lang="la" state="auto">Ego precium persolvam.</s>
+			</p>
+		</div>
+		<div ref_regest="18">
+			<p>
+				<s n="144" lang="la" state="auto">Salvos cupio fratres omnes, uxorem<fl>117</fl> et liberos.<fl>118</fl></s>
+				<s n="145" lang="la" state="auto">Salutant te fratres nostri 3<fl>119</fl>, <persName ref="8417">Musculus</persName> item, <persName ref="1860" state="auto_name">Cellarius</persName><fl>120</fl> et d. <persName ref="8354">Laetus</persName><fl>121</fl>, <persName ref="5341">Lepusculus</persName><fl>122</fl> quoque et, qui hoc mihi semper commendat, <persName ref="8173">Xystus</persName>.<fl>123</fl></s>
+				<s n="146" lang="la" state="auto"><placeName ref="1976">Augustae Vindelicorum</placeName>, 21. februarii 1547.</s>
+				<s n="147" lang="la" state="auto"><persName ref="8018">Hallerus</persName> tuus perpetuo.</s>
+			</p>
+		</div>
+		<div ref_regest="19">
+			<p>
+				<s n="148" lang="de" state="auto">Ich bitt, wellind den herren von <placeName ref="266">Kyburg</placeName><fl>124</fl> diser vertraͤgen berichten.</s>
+				<s n="149" lang="de" state="auto">Hab nitt wyl<fl>125</fl> ghept, es imm als<fl>126</fl> zuͦschriben.</s>
+			</p>
+		</div>
+		<div ref_regest="20">
+			<p>
+				<s n="150" lang="la" state="auto"><persName ref="7197">Zollerus</persName> te salvere iubet, qui, dum haec scribo, me convenit.</s>
+				<s n="151" lang="la" state="auto">Et dum legimus literas a proconsule Kyburgensi scriptas, ecce adsunt 6 illa vexilla, de quibus superius:<fl>127</fl> Vix 1200 continent milites!</s>
+				<s n="152" lang="la" state="auto">Dicunt totidem adhuc ventura intra aliquot dies.</s>
+			</p>
+		</div>
+		<div ref_regest="21">
+			<p>
+				<s n="153" lang="de" state="auto"><pb_scan n="52v."/><fl>j</fl> Deß churfürsten [zuͦ <persName ref="19065">Sachsen</persName>]<fl>k</fl> kriegßvolck, so er diser zyt bi einanderen hatt: 2 regiment ghoͤrend imm zuͦ, 2000 starck.</s>
+				<s n="154" lang="de" state="auto">1 regiment fuͤrt sin bruͦder hertzog <persName ref="18872">Hans Ernst</persName>.<fl>128</fl></s>
+				<s n="155" lang="de" state="auto">1 regiment hertzog <persName ref="18503">Heinrych von Mechelburg</persName>.<fl>129</fl><pb_edition start_of="345"/></s>
+				<s n="156" lang="de" state="auto">1 regiment hertzog Frantz von Lünenburg.<fl>130</fl></s>
+				<s n="157" lang="de" state="auto">1 regiment hertzog <persName ref="18574">Philips von Brunschwig</persName>.<fl>131</fl></s>
+				<s n="158" lang="de" state="auto">1 regiment graff von Altenburg.<fl>132</fl></s>
+				<s n="159" lang="de" state="auto">1 regiment graff von Biechlingen.<fl>133</fl></s>
+				<s n="160" lang="de" state="auto">1 regiment herr Joͤrg von Reckenrott<fl>134</fl>, 10000 starck.</s>
+				<s n="161" lang="de" state="auto">Und ist ins<fl>135</fl> churfürsten land noch nieman uszogen.</s>
+				<s n="162" lang="de" state="auto">Künig uß <entity id="24" type="geo_country">Polen</entity><fl>136</fl> und hertzog <persName ref="8616">Albrecht</persName> uß Prüßen habend dem künig in Behem<fl>137</fl> sunderlich abgsagt.</s>
+				<s n="163" lang="la" state="auto">Haec senatui nostro scripta esse modo accepi, cum iam clausurus essem literas.<fl>j_2</fl></s>
+			</p>
+			<p>
+				<note type="address">[Adresse daneben:]</note>
+				<s n="164" lang="la" state="auto">Clarissimo viro d. Heinrycho Bullingero, Tigurinae ecclesiae antistiti summo, domino et patri suo venerando.</s>
+				<s n="165" lang="de" state="auto">Zürich, an m. Heinrych Bullinger.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2821">
+		<alpha>
+			<fn ref="a" meta="1"><i>Papierfalten und Nadellöcher belegen die Zusammengehörigkeit dieser Blätter.</i></fn>
+			<fn ref="b"><i>Dieses Klammerpaar und alle anderen dieses Briefes, mit Ausnahme desjenigen unten in Z. 134, wurden ergänzt.</i></fn>
+			<fn ref="c"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="d"><i>Mit dem Seitenwechsel übersprang <persName ref="8018">Haller</persName> einen Artikel des Vertrages (Sollen die vom Adell des lands schweren lassen nümmermer wider ir lut, und Österrich zd dienen - Ergänzung nach der in Zürich StA, A 177, <link fk_file="10187">Nr. 156</link>, aufbewahrten Abschrift dieses Vertrages) und vergaß zudem, die folgenden Artikel weiter zu nummerieren.</i></fn>
+			<fn ref="e-e"><i>Am Rande verzeichnet.</i></fn>
+			<fn ref="f"><i>Hier und unten Textverlust beim nachträglichen Einkleben des Blattes in den schon gebundenen Band. Die Ergänzungen erfolgen anhand der in oben Anm. d angeführten Handschrift.</i></fn>
+			<fn ref="g"><i>In der Vorlage</i> ir <i>(umgeschrieben in Anlehnung an A 177, <link fk_file="10187">Nr. 156</link>).</i></fn>
+			<fn ref="h"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="i-i"><i>In der Vorlage</i> von de[m] landtrecht <i>(umgeschrieben in Anlehnung an A 177, <link fk_file="10187">Nr. 156</link>).</i></fn>
+			<fn ref="i-j"><i>Über der Adresse senkrecht angebracht.</i></fn>
+			<fn ref="k"><i>Text im engen Einband verdeckt.</i></fn>
+			<!-- Splits -->
+			<fn ref="e"><i>Am Rande verzeichnet.</i></fn>
+			<fn ref="i"><i>In der Vorlage</i> von de[m] landtrecht <i>(umgeschrieben in Anlehnung an A 177, <link fk_file="10187">Nr. 156</link>).</i></fn>
+			<fn ref="i"><i>Über der Adresse senkrecht angebracht.</i></fn>
+			<fn ref="j"><i>Über der Adresse senkrecht angebracht.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Brief <link fk_file="12854">Nr. 2805</link> vom 9. Februar.</fn>
+			<fn ref="2"><persName ref="7193">Hans Zingg</persName>; s. <link fk_file="12854">Nr. 2805</link>. Anm. 1.</fn>
+			<fn ref="3">Nicht erhalten.</fn>
+			<fn ref="4">Richtig ist <persName ref="7760">Bernhard von Schaumburg</persName>; vgl. <link fk_file="12840">Nr. 2791</link>, Anm. 42; <link fk_file="12861">Nr. 2812</link>,22f.</fn>
+			<fn ref="5">nahe.</fn>
+			<fn ref="6">logiert (worden).</fn>
+			<fn ref="7">Weber. die zur ärmsten sozialen Schicht gehörten; s. <bibl>SI</bibl> XV 100.</fn>
+			<fn ref="8">Die Kriegsleute.</fn>
+			<fn ref="9">gegeben.</fn>
+			<fn ref="10">derart.</fn>
+			<fn ref="11">wie.</fn>
+			<fn ref="12">wollen.</fn>
+			<fn ref="13">hinnen zecht: hier drinnen (in <placeName ref="1976">Augsburg</placeName>) gegessen und getrunken.</fn>
+			<fn ref="14">fortgegangen.</fn>
+			<fn ref="15"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="16">den Betrag für ihre Speisung.</fn>
+			<fn ref="17">denn.</fn>
+			<fn ref="18">roter binden: militärische Abzeichen. - Rote Binden (Schärpen) sowie auf den Harnisch aufgemalte bzw. auf die Kleidung aufgenähte rote Kreuze waren das Kennzeichen der Kaiserlichen; s. Gerhard <i>Quaas,</i> Das Handwerk der Landsknechte. Waffen und Bewaffnung zwischen 1500 und 1600, Osnabrück 1997, S. 68; Max <i>Radlkofer,</i> Der Zug des sächsischen Kurfürsten <persName ref="18250">Moritz</persName> und seiner Verbündeten durch Schwaben im Frühjahr 1552, in: Zeitschrift des Historischen Vereins für Schwaben und Neuburg 17, 1890, 199.</fn>
+			<fn ref="19">gat noch starck von statt: läuft noch gut; vgl. <i>SI XI</i> 1689.</fn>
+			<fn ref="20"><persName ref="7197">Hans Wilpert Zoller</persName>. - Er war nicht geneigt, nach Zürich zurückzukehren; s. <link fk_file="12857">Nr. 2808</link>,30-36.</fn>
+			<fn ref="21">Nach Zürich.</fn>
+			<fn ref="22">Angriffe.</fn>
+			<fn ref="23">Mit "inn" (ihnen) sind die Kaiserlichen gemeint.</fn>
+			<fn ref="24">haben.</fn>
+			<fn ref="25"><persName ref="8130">Lorenz Meyer (Agricola)</persName>.</fn>
+			<fn ref="26"><persName ref="6544">Rudolf Schwyzer d.Ä.</persName></fn>
+			<fn ref="27">Zu verstehen: Sie warten auf das Reisegeld für ihre bevorstehende (in Kriegszeiten nicht ungefährliche) Rückreise. Zu dieser s. <link fk_file="12852">Nr. 2803</link>, Anm. 6.</fn>
+			<fn ref="28"><persName ref="2812">(Haus) Thoman Ruman (Römer)</persName>.</fn>
+			<fn ref="29">Vgl. <link fk_file="12854">Nr. 2805</link>,14f.</fn>
+			<fn ref="30">uns ein ingriff thün: uns eine Regelung aufdrängen.</fn>
+			<fn ref="31"><persName ref="18477">König Ferdinand I.</persName></fn>
+			<fn ref="32">In Anlehnung an Mt 5, 44.</fn>
+			<fn ref="33"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="34"><persName ref="18636">Johann Heinrich Held von Tiefenau</persName>. - Vgl. auch <link fk_file="12919">Nr. 2870</link>,5.</fn>
+			<fn ref="35">Subjekt ist der Kaiser.</fn>
+			<fn ref="36">Siehe Nr. 28 12.7-10.</fn>
+			<fn ref="37">Subjekt sind die Kaiserlichen.</fn>
+			<fn ref="38">Unbekannt.</fn>
+			<fn ref="39">entgegengenommen (hier rechtlich); s. <bibl>SI</bibl> IV 741f.</fn>
+			<fn ref="40">Ansprüche; Forderungsklagen.</fn>
+			<fn ref="41"><persName ref="18477">Ferdinand I.</persName></fn>
+			<fn ref="42"><persName ref="7840">Otto Truchsess von Waldburg</persName>.</fn>
+			<fn ref="43">die <placeName ref="1976">Augsburger</placeName> Ratsherren.</fn>
+			<fn ref="44">ihnen (den Kaiserlichen).</fn>
+			<fn ref="45">nahen kan: verhandeln. - Gemeint ist: Man kann sie rechtlich nicht belangen.</fn>
+			<fn ref="46">Steht.</fn>
+			<fn ref="47">Siehe dazu <link fk_file="12818">Nr. 2769</link>, Anm. 7.</fn>
+			<fn ref="48">freilich; sicherlich; s. <bibl>SI</bibl> IV 146.</fn>
+			<fn ref="49">geleert.</fn>
+			<fn ref="50">Gemeint sind die Katholiken, die aus der Stadt weichen mussten oder wollten, nachdem 1537 die Messfeiern in <placeName ref="1976">Augsburg</placeName> verboten wurden.</fn>
+			<fn ref="51">bei.</fn>
+			<fn ref="52">Jener der Stadt.</fn>
+			<fn ref="53">weil.</fn>
+			<fn ref="54">der ordnungen gleben: nach den [neuen] Regelungen leben.</fn>
+			<fn ref="55">Abgaben.</fn>
+			<fn ref="56">Hier im Sinne von der Geldbuße, über die man sich geeinigt hat; vgl. <i>FNHDW</i> IX/1 1969.</fn>
+			<fn ref="57">nennen; s. <bibl>SI</bibl> IV 747.</fn>
+			<fn ref="58">Der Kaiser.</fn>
+			<fn ref="59">mit Steuern und Abgaben ausbeuten; s. <i>SI XI</i> 2161.</fn>
+			<fn ref="60">anordnen (wird).</fn>
+			<fn ref="61">aufgeben.</fn>
+			<fn ref="62">güt mitt inn machen han: leicht mit ihnen einig werden.</fn>
+			<fn ref="63">Den dem Kaiser zu leistenden Eid.</fn>
+			<fn ref="64">Reichsvizekanzler <persName ref="7689">Johann von Naves</persName>.</fn>
+			<fn ref="65">entgegennehmen (einnehmen).</fn>
+			<fn ref="66"><placeName ref="2178">Günzburg (Bayern, D)</placeName>, etwa 25 km östlich von <placeName ref="513">Ulm</placeName> und 50 km westlich von <placeName ref="1976">Augsburg</placeName>.</fn>
+			<fn ref="67">ist inn ain wee ankan: wurde er von einem Schmerz überfallen.</fn>
+			<fn ref="68">Schlaganfall. - Vielleicht ist hier auch ein von Gott ausgehender "Schlag" gemeint.</fn>
+			<fn ref="69" type="bio" fk_person="7689">Vgl. auch <bibl>Moritz von Sachsen PK</bibl> III 247, Nr. 333. - <persName ref="7689">Johann von Naves</persName> starb am 20. Februar; s. <link fk_file="12873">Nr. 2824</link>, Anm. 5.</fn>
+			<fn ref="70">In den Anordnungen des Kaisers.</fn>
+			<fn ref="71">und alles das gschloßen werden, so in anficht: und all das einbegriffen sein, das ihm einfällt.</fn>
+			<fn ref="72">=receperunt.</fn>
+			<fn ref="73">noch. - Zum württembergischen Frieden s. <link fk_file="12795">Nr. 2746</link>, Anm. 21.</fn>
+			<fn ref="74">Unbekannt.</fn>
+			<fn ref="75">Versorgung (Beiträge).</fn>
+			<fn ref="76">einst. - Eine Pointe gegen den Kurfürsten.</fn>
+			<fn ref="77">vermag der acht: aufgrund der [kaiserlichen] Acht.</fn>
+			<fn ref="78">Feinde.</fn>
+			<fn ref="79">Zugang.</fn>
+			<fn ref="80">Zum Wechselkurs vgl. <bibl>HBBW</bibl> XVIII 342, Anm. 15.</fn>
+			<fn ref="81">die Hälfte.</fn>
+			<fn ref="82">Gemeint ist <placeName ref="1402">Kirchheim unter Teck</placeName>.</fn>
+			<fn ref="83">übergeben.</fn>
+			<fn ref="84">Ansprüche.</fn>
+			<fn ref="85">behaltend bevor: vorbehält.</fn>
+			<fn ref="86">so von imm schaden genommen: die von ihm [<persName ref="9780">Ulrich</persName>] Schaden erlitten (haben).</fn>
+			<fn ref="87">sich mitt inen vertragen: mit ihnen übereinkommen.</fn>
+			<fn ref="88">erkanntnuß geleben: die Beschlüsse (ihrer Majestät) befolgen.</fn>
+			<fn ref="89">sich verzihen alle[r] gerechtikeit: alle Rechtsansprüche aufgeben.</fn>
+			<fn ref="90">sei.</fn>
+			<fn ref="91"><persName ref="7637">Franz I.</persName> - Siehe dazu <link fk_file="12802">Nr. 2753</link>,14-16; <link fk_file="12866">Nr. 2817</link>.</fn>
+			<fn ref="92">Gemeint ist <entity id="11" type="geo_country">Frankreich</entity>.</fn>
+			<fn ref="93">Der Friedensvertrag von Kaaden (Böhmen), 29. Juni 1534, mit dem der Krieg in <placeName ref="572">Württemberg</placeName> beendet wurde. - Ein Artikel dieses Vertrages wird den Zürchern besonders Sorgen bereitet haben; s. dazu <bibl>HBBW</bibl> IV 233, Anm. 14.</fn>
+			<fn ref="94"><persName ref="9780">Ulrich</persName>.</fn>
+			<fn ref="95">als der: da er.</fn>
+			<fn ref="96">Der Kaiser.</fn>
+			<fn ref="97">Vgl. <bibl>HBBW</bibl> XVIII 436,1 201.</fn>
+			<fn ref="98"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="99">Vgl. <link fk_file="12854">Nr. 2805</link>,36f.</fn>
+			<fn ref="100"><persName ref="18449">König Christian III. von Dänemark</persName>.</fn>
+			<fn ref="101">An den Kaiser.</fn>
+			<fn ref="102">sind.</fn>
+			<fn ref="103">Zu irreführenden Nachrichten über <entity id="8" type="geo_country">Dänemark</entity> und die <entity id="20136" type="group">Hansestädte</entity> s. <bibl>HBBW</bibl> XVIII 327,15-18; 339; 426,60f; 439,36f; 452,2; <link fk_file="12785">Nr. 2736</link>; <link fk_file="12810">Nr. 2761</link>,48f. 54-57; <link fk_file="12823">Nr. 2774</link>,31f; <link fk_file="12835">Nr. 2786</link>.71-73.</fn>
+			<fn ref="104"><placeName ref="2449">Böhmen</placeName>. - Siehe dazu schon <link fk_file="12846">Nr. 2797</link>, Anm. 32. Siehe ferner <bibl>Moritz von Sachsen PK</bibl> III 261, <link fk_file="10389">Nr. 357</link>.</fn>
+			<fn ref="105" type="bio" fk_person="7584"><persName ref="7584">Anna Jagiello</persName>, Königin von <placeName ref="2449">Böhmen</placeName> und Ungarn. - Zu ihrem Tod s. <link fk_file="12861">Nr. 2812</link>, Anm. 9.</fn>
+			<fn ref="106"><persName ref="18505">Heinrich VIII.</persName> war am 28. Januar 1547 gestorben.</fn>
+			<fn ref="107"><persName ref="7706">Nicolas Perrenot</persName>, Herr von Granvelle. - Vgl. aber <link fk_file="12861">Nr. 2812</link>,50-54; <link fk_file="12871">Nr. 2822</link>,7f.</fn>
+			<fn ref="108">Gemeint ist die für den 28. Februar geplante Tagsatzung; s. <link fk_file="12866">Nr. 2817</link>, Anm. 4.</fn>
+			<fn ref="109">Lk 21, 28.</fn>
+			<fn ref="110">Siehe dazu <bibl>HBBW</bibl> XVIII 308, Anm. 67, und die dort angeführten Verweise.</fn>
+			<fn ref="111"><persName ref="8417">Wolfgang Musculus</persName>.</fn>
+			<fn ref="112"><persName ref="8417">Musculus</persName> predigte im Dom, <persName ref="8018">Haller</persName> in der St. Moritz-Kirche.</fn>
+			<fn ref="113">Vgl. nämlich <bibl>HBBW</bibl> XVIII 308,98-101.</fn>
+			<fn ref="114">Hier im Sinne von anwenden auf die damalige Kirchgemeinde.</fn>
+			<fn ref="115">Gemeint ist eine der Ausgaben von <i>Bullinger,</i> Commentarius in Acta apostolorum, Zürich 1533, 1535 oder 1540 <i>(HBBib I</i> I 43-45).</fn>
+			<fn ref="116">Damit sind Notizen gemeint, anhand der Bullinger über die Apg gepredigt hatte. Dies tat er jeweils sonntags vom 20. Juni 1546 an bis zum 8. Juli 1548; s. <bibl>HBBW</bibl> XVII 150, Anm. 19 (wo allerdings die zweite Jahresangabe von 1546 auf 1548 zu korrigieren ist). Von dieser Predigtreihe sind autographe Entwürfe nur für die zwischen dem 4. März und dem 27. Mai 1548 gehaltenen Predigten über Apg 24- 27 in Zürich ZB, Msc Car III 203, f. 89-92, 97, 98, erhalten geblieben.</fn>
+			<fn ref="117" type="bio" fk_person="8051"><persName ref="8051">Anna. geb. Adlischwyler</persName>.</fn>
+			<fn ref="118">Zu deren Namen s. <link fk_file="12784">Nr. 2735</link>, Anm. 10.</fn>
+			<fn ref="119"><persName ref="8130">Meyer</persName>, <persName ref="6543">Schwyzer</persName> und <persName ref="2812">Ruman</persName>.</fn>
+			<fn ref="120"><persName ref="1860">Michael Keller</persName>.</fn>
+			<fn ref="121"><persName ref="8354">Georg Frölich</persName>.</fn>
+			<fn ref="122">Der von den Baslern an die <placeName ref="1976">Augsburger</placeName> geliehene <persName ref="5341">Sebastian Lepusculus</persName>.</fn>
+			<fn ref="123"><persName ref="8173">Sixt Birck</persName>.</fn>
+			<fn ref="124"><persName ref="3493">Bernhard von Cham</persName>, Landvogt (proconsul; vgl. unten Z. 185) von <placeName ref="266">Kyburg</placeName>.</fn>
+			<fn ref="125">Zeit (Weile).</fn>
+			<fn ref="126">alles.</fn>
+			<fn ref="127">Nämlich oben in Z. 10f.</fn>
+			<fn ref="128" type="bio" fk_person="18872">Herzog <persName ref="18872">Johann Ernst von Sachsen-Coburg</persName>, Halbbruder des Kurfürsten.</fn>
+			<fn ref="129" type="bio" fk_person="18503">Herzog <persName ref="18503">Heinrich V.</persName> [nach anderer Zählung: III.] (der Friedfertige) von Mecklenburg-Schwerin (geb. am 3. Mai 1479, gest. am 6. Februar 1552; s. <bibl>NDB</bibl> VIII 372). - Er bekannte sich seit 1533 zur evangelischen Lehre; s. Eike <i>Wolgast,</i> Der lange Weg zur obrigkeitlichen Reformation im Herzogtum Mecklenburg. Herzog <persName ref="18503">Heinrich V.</persName> und Herzog <persName ref="18522">Johann Albrecht I.</persName>, in: <i>ders.,</i> Aufsätze zur Reformations- und Reichsgeschichte, Tübingen 2016, S. 293.</fn>
+			<fn ref="130">Herzog <persName ref="7637">Franz von Braunschweig-Lüneburg-Gifhorn</persName>.</fn>
+			<fn ref="131">Herzog <persName ref="19855">Philipp I. von Braunschweig-Grubenhagen</persName>.</fn>
+			<fn ref="132">Graf <persName ref="17854">Christoph von Oldenburg</persName>; vgl. <bibl>HBBW</bibl> XVII 506,10. - Bei <bibl>Pariset, Relations</bibl> 70. 81, Anm. 108, werden ebenfalls Truppenanwerbungen durch <persName ref="7637">Franz von Braunschweig-Lüneburg</persName> und <persName ref="17854">Christoph von Oldenburg</persName> gemeldet.</fn>
+			<fn ref="133">Graf <persName ref="7395">Hubert von Beichlingen</persName>, erst hessischer, dann kursächsischer Oberst; s. <i><persName ref="5743">Mameranus</persName>, Rebel,</i> f. A8r.; <bibl>Gerber, Kriegsrechnungen</bibl> III 273.</fn>
+			<fn ref="134"><persName ref="8098">Georg (Jörg) von Reckerode (Reckrodt)</persName>. - Er hatte im Schmalkaldischen Krieg dem Landgrafen gedient (s. <i><persName ref="5743">Mameranus</persName>, Rebel,</i> f. B 1v.; <bibl>HBBW</bibl> XVII, 144, mit Anm. 24; <i>AK</i> VI 458f, Anm. 1), daraufhin an der Seite des Kurfürsten <placeName ref="284">Leipzig</placeName> belagert (s. <persName ref="8098">Georg</persName> <i>Voigt,</i> Die Belagerung <placeName ref="284">Leipzigs</placeName> 1547, in: Archiv für die Sächsische Geschichte, hg. v. Karl von Weber. Bd. 11. <placeName ref="284">Leipzig</placeName> 1873, S. 275f) und <placeName ref="2396">Rochlitz</placeName> bestürmt (s. <i>MBW-T</i> XVI 163, Nr. 4628a).</fn>
+			<fn ref="135">in des.</fn>
+			<fn ref="136" type="bio" fk_person="18590">Vermutlich ist hier <persName ref="18590">Sigismund II. August</persName> gemeint und nicht dessen Vater <persName ref="18590">Sigismund I.</persName></fn>
+			<fn ref="137"><persName ref="18477">Ferdinand I.</persName>, König von Böhmen.</fn>
+		</num>
+	</footnotes>
+</file>

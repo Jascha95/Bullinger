@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12848" id_hbbw="2799" id_irg_sort="2799" id_sort="127990">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12848</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2799</arpa>
+		<scan_pages>
+			<scan id="30068" dir="12848/Autograph/" page="1">00 E_II_335__fol__2087_r_.tif</scan>
+			<scan id="30069" dir="12848/Autograph/" page="2">01 E_II_335__fol__2087_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26240" vf="1" fk_add_type="1">
+				<person id="3018" fk_id="3018">
+					<name>Stancarus</name>
+					<forename>Franciscus</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26241" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12848">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">7</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19415">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 335,2087</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9083" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Museum Helveticum V/19, Zürich 1751, 490f</entry>
+			</print>
+			<print id="9084" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Petrus Dominicus Rosius a Porta, Historia Reformationis Ecclesiarum Raeticarum, Bd. 1/2, Chur und Lindau 1772, S. 90, Anm. g</entry>
+			</print>
+			<print id="12428" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2799, S. 270</entry>
+				<page>270</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="18">
+				<lang id="5" iso="la" count="18" p="100.0"/>
+			</sentences>
+			<words count="222">
+				<lang id="6" iso="el" count="1" p="0.5"/>
+				<lang id="5" iso="la" count="221" p="99.5"/>
+			</words>
+			<chars count="1340">
+				<lang id="6" iso="el" count="9" p="0.7"/>
+				<lang id="5" iso="la" count="1331" p="99.3"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2799" page="270">
+		<div ref="1">
+			[1] Bullingers Brief [nicht erhalten] erfüllte <persName ref="3018">Stancaro</persName> mit tiefer Freude. Welch gute Nachricht, dass
+			Bullinger sich bei den Bernern um eine Stelle für ihn bemüht! Sollte dies gelingen, wäre es Gott und
+			Bullinger zu verdanken.
+		</div>
+		<div ref="2">
+			[2] <persName ref="3018">Stancaro</persName> ist froh, dass die <placeName ref="41">Berner</placeName> in ihren Kirchen besonders
+			in der Abendmahlslehre keine verwickelten Theorien verbreiten, denn auch er würde niemals solche vertreten!
+			Ihm gefällt die reine, schlichte Lehre von Christus auch in Bezug auf die Sakramente, und genauso wie die
+			<placeName ref="41">Berner</placeName> hat auch er eine Abneigung gegen das Luthertum und das
+			Papsttum. <persName ref="8354">Georg Frölich</persName>, <persName ref="8018">Johannes Haller</persName>, <persName ref="1860">Michael Keller</persName> sowie seine Schriften und die Universität in
+			<placeName ref="546">Wien</placeName> können dies bezeugen.
+		</div>
+		<div ref="3">
+			[3] Bullinger ist aufgrund seiner Hilfsbereitschaft ein wahrhaft christlicher Bischof! <persName ref="3018">Stancaro</persName> wird ihm
+			dafür stets verbunden sein. Bullinger möge ihn baldmöglichst über das Ergebnis seiner Bemühungen
+			informieren.
+		</div>
+		<div ref="4">
+			[4] Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2799" page="270">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Redditae mihi fuerunt literae tuae<fl>2</fl>, venerande antistes, quibus lectis totus summo perfusus sum<fl>a</fl> gaudio, quod enim de prospicienda mihi conditione apud <placeName ref="41">Bernates</placeName> te curaturum scribis.<fl>3</fl></s>
+				<s n="2" lang="la" state="auto">Quid gratius, quid antiquius mihi contingere posset?</s>
+				<s n="3" lang="la" state="auto">Perge itaque, te rogo, in instituto, et, quod tibi suggerit dominus, effice.</s>
+				<s n="4" lang="la" state="auto">Et, si quid confeceris, deo inprimis, deinde tibi summas agam gratias.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="la" state="auto">Quod vero <placeName ref="41">Bernates</placeName> subtilitates ac nodos tam in doctrina quam in planissimo caenae domini negocio ecclesiis suis tradi nolunt, hoc etiam atque etiam laudo, neque ego talia doceo nec unquam docebo.</s>
+				<s n="6" lang="la" state="auto">Placet enim<fl>b</fl> mihi puram ac simplicem doctrinam Christi eiusque verum sacramentorum intellectum sine tricis ecclesiis tradere.</s>
+				<s n="7" lang="la" state="auto">Quod praeterea Luteranismum ac papismum odiunt, hoc mihi a multis iam annis cum illis commune est.</s>
+				<s n="8" lang="la" state="auto">Testes enim (ut alios taceam) sunt <persName ref="8354">Laetus</persName><fl>4</fl>, <persName ref="8018">Hallerus</persName>, <persName ref="1860">Michael Caelarius</persName>.<fl>5</fl></s>
+				<s n="9" lang="la" state="auto">Testantur scripta mea.<fl>6</fl></s>
+				<s n="10" lang="la" state="auto">Testis est tota <placeName ref="546">Viennensis</placeName> academia me nihil <el state="verified">κοινωνίας</el><fl>7</fl> commerciive<pb_edition start_of="271"/> habere cum huiusmodi sectis.</s>
+				<s n="11" lang="la" state="auto">Amo itaque verbi domini simplicitatem illam, quam sacrae literae nobis proponunt.<fl>8</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="12" lang="la" state="auto">Quod tandem in aliis etiam rebus omnem tuam operam, si ea indiguero, mihi polliceris, primum, quod verum ac christianum episcopum decet, facis, deinde me tibi maximo beneficio devinctum semper habebis.</s>
+				<s n="13" lang="la" state="auto">Quamobrem expectabo, ut, quam citius fieri poterit, de toto negocio me certiorem facias.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="14" lang="la" state="auto">Vale.</s>
+				<s n="15" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, 7. februarii 1547.</s>
+				<s n="16" lang="la" state="auto">Tuus in domino <persName ref="3018">Franciscus Stancarus</persName>.<fl>9</fl><pb_edition start_of="272"/></s>
+			</p>
+			<p>
+				<note>[Adresse auf der Rückseite:]</note>
+				<s n="17" lang="la" state="auto">Clarissimo viro d. Henrico Bullingero, antistiti Tigurinae ecclesiae doctissimo et vigilantissimo, suo observando.</s>
+				<s n="18" lang="la" state="auto">Tiguri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2799">
+		<alpha>
+			<fn ref="a"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="b"><i>Unter der Zeile nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Zu <persName ref="3018">Stancaro</persName> s. unten Anm. 9.</fn>
+			<fn ref="2">Nicht erhalten.</fn>
+			<fn ref="3">Bullinger hoffte also, <persName ref="3018">Stancaro</persName> mit der kürzlich in <placeName ref="41">Bern</placeName> freigewordenen Stelle des <persName ref="5047">Thomas Grynäus</persName> oder mit der in <placeName ref="280">Lausanne</placeName> freigewordenen Stelle des <persName ref="714">Cello Secondo Curione</persName> versehen zu können. - Zur Entlassung des Grynäus s. die Verweise in <link fk_file="12786">Nr. 2737</link>, Anm. 12. Zu <persName ref="714">Curiones</persName> Entlassung s. <link fk_file="12784">Nr. 2735</link>, Anm. 2 und Anm. 4.</fn>
+			<fn ref="4"><persName ref="8354">Georg Frölich</persName>.</fn>
+			<fn ref="5"><persName ref="1860">Michael Keller</persName>.</fn>
+			<fn ref="6">Siehe dazu <link fk_file="12852">Nr. 2803</link>, Anm. 10.</fn>
+			<fn ref="7">Gemeinschaft.</fn>
+			<fn ref="8">Vgl. 1Tim 6, 4f; 2Tim 2, 14. 16; Tit 3, 9.</fn>
+			<fn ref="9" type="bio" fk_person="3018"><persName ref="3018">Francesco Stancaro</persName> (geb. ca. 1501 in <placeName ref="1060">Mantua</placeName>, Italien; gest. 12. November 1574 in <placeName ref="2389">Stopnica</placeName>, <entity id="24" type="geo_country">Polen</entity>) widmete sich als Student intensiv dem Hebräischstudium. Eine Zeitlang unterrichtete er in <placeName ref="377">Padua</placeName> die Sprachen, ehe er sich für acht Monate nach <placeName ref="522">Venedig</placeName> zurückziehen musste, wo er inhaftiert wurde. Nachdem ihm die Flucht gelang, ist er 1543 in <placeName ref="96">Chiavenna</placeName> nachweisbar. Im Oktober 1545 (nicht 1544) erhielt er die Hebräischprofessur in <placeName ref="546">Wien</placeName>, von wo er schon Anfang 1546 weichen musste. Von März 1546 bis Anfang Januar 1547 lebte er in <placeName ref="1976">Augsburg</placeName>, wo er Hebräisch und Griechisch unterrichtete. Danach hielt er sich bis kurz vor dem 2. Mai 1547 in <placeName ref="28">Basel</placeName> auf, wo er mehrere Schriften veröffentlichte (s. <i>VD16</i> S8549. S8553. ZV27925. ZV28062 und vielleicht auch ZV23760) und auch zum Drucken hinterließ (welche im Juni und August 1547 erschienen; s. <i>VD16</i> S8544f). Von dort begab er sich wieder nach <placeName ref="1976">Augsburg</placeName>, von wo er noch vor Mitte Februar 1548 (s. <i>AK</i> VII 562) aufbrach, um dann erneut in <placeName ref="96">Chiavenna</placeName> aufzutauchen. Von dort musste er wegen eines schon vor Juni 1548 ausgebrochenen Streites mit <persName ref="2019">Agostino Mainardi</persName> über das Abendmahl vor dem 22. September 1548 weichen. Im Dezember 1548 ist er im <entity id="94" type="geo_region">Veltlin (Valtellina)</entity> bezeugt und Anfang 1549 in <entity id="81" type="geo_region">Siebenbürgen</entity>. Im Herbst 1549 erhielt er die alttestamentliche Professur in <placeName ref="260">Krakau</placeName>, von wo er im März 1550 fliehen musste. Nach einer zweimonatigen Gefangenschaft in <placeName ref="2390">Lipovice (Tschechien)</placeName> begann er im Spätsommer 1550 seine Tätigkeit als Reformator in Kleinpolen. Er stellte bald 50 Regeln auf, an die sich eine Gemeinde, die sich reformieren will, zu halten habe (gedruckt 1552 in <placeName ref="157">Frankfurt</placeName> an der Oder; <i>VD16 S8543).</i> Wegen eines gegen die Protestanten gerichteten Edikts des polnischen <persName ref="18590">Königs Sigismund II. August</persName> verließ er <entity id="24" type="geo_country">Polen</entity> Ende Januar 1551. Im Mai 1551 wurde er Professor für Hebräisch in Königsberg. Infolge seines Streits mit <persName ref="2301">Andreas Osiander</persName> über die Rechtfertigungslehre übersiedelte er schon Ende August 1551 nach <placeName ref="157">Frankfurt</placeName> an der Oder, das er allerdings bereits Ende Mai 1552 verließ, da er die Ansicht vertrat, dass Christus nur nach seiner menschlichen Natur Vermittler sei. Via Zbaszyn (Bentschen), Poznan (Posen) und Szamotuly (Samter) gelangte er im Spätsommer 1553 wieder nach Kleinpolen und von dort nach <entity id="81" type="geo_region">Siebenbürgen</entity>, wo er spätestens Anfang November 1554 nachgewiesen ist. Im Mai 1559 kehrte er nach <entity id="24" type="geo_country">Polen</entity> zurück, verleumdete aber sogleich <persName ref="2095">Melanchthon</persName>, indem er wie schon im Mai 1553 behauptete, dass dieser in seinen Schriften eine arianische Christologie befürwortete. Er ließ darüber eine Flugschrift in Pinczow drucken, die in Zürich StA (E II 371, f. 748-757) erhalten geblieben ist. Bereits Ende August 1559 musste er Pinczow verlassen. Er begab sich nach <placeName ref="122">Dubiecko</placeName>, wo er bis Frühling 1563 den Schutz des Adligen <persName ref="2876">Stanislaw Stadtnicki</persName> genoss. Ab 1559 (s. Zürich StA, E II 371, 743; <i>Beze, Corr.</i> III 87, Anm. 1) bezogen auch die Kirchen der Schweiz Stellung gegen ihn, was 1561 zu einer schriftlichen Polemik mit Zürich führte (s. <bibl>USTC</bibl> 241799. 241976; <i>VD16</i> B9609. S6516). Im Frühjahr 1561 gründete er eine Sonderkirche. 1565 (vielleicht schon früher) ließ er sich unter dem Schutz von Piotr Zborowski in <placeName ref="2389">Stopnica</placeName> definitiv nieder. Von 1568 an kehrten seine Gemeinden allmählich zur Reformierten Kirche zurück, und nach der in Sandomierz (Sandomir) im April 1570 abgehaltenen Generalsynode verlor er seine letzten Anhänger. Er hielt an der Trinitätslehre und Zweinaturenlehre in Christus fest, betonte aber so sehr die Einheit in der Trinität sowie Christi menschliche Natur, dass er des Sabellianismus bzw. Nestorianismus bezichtigt wurde. Schon vor 1547 war er als wankelmütiger, profilierungssüchtiger Hitzkopf bekannt (s. <bibl>Graubünden, Korr.</bibl> I 1340, und gegen Ende seines Lebens befürwortete er sogar die Hinrichtung seiner Gegner. - Außer vorliegendem Brief ist noch ein Brief Bullingers vom 7. Juni 1548 an Stancaro und Mainardi und ein Schreiben Stancaros an die Schweizer Theologen (inklusive Bullinger) aus <placeName ref="122">Dubiecko</placeName> vom 4. Dezember 1560 erhalten. - Lit.: <bibl>ADB</bibl> XXXV 436-439; <i>BBKL X</i> 1148-1152; <bibl>HBBW</bibl> XVIII 280, Anm. 6; 309, Anm. 72; <bibl>Wotschke</bibl> Reg.; <bibl>Bernhard, Stephanskrone</bibl> 220. 273. 359. <i>Ruffini, Stancaro.</i></fn>
+		</num>
+	</footnotes>
+</file>

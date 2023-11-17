@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12827" id_hbbw="2778" id_irg_sort="2778" id_sort="127780">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12827</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2778</arpa>
+		<scan_pages>
+			<scan id="30018" dir="12827/Autograph/" page="1">00 E_II_357__S__218_.tif</scan>
+			<scan id="30019" dir="12827/Autograph/" page="2">01 E_II_357__S__219_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26197" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26198" vf="0" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12827">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">29</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19393">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357,218 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9053" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 579f, Nr. 1402</entry>
+			</print>
+			<print id="12430" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2778, S. 214</entry>
+				<page>214</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="25">
+				<lang id="1" iso="de" count="24" p="96.0"/>
+				<lang id="5" iso="la" count="1" p="4.0"/>
+			</sentences>
+			<words count="613">
+				<lang id="1" iso="de" count="604" p="98.5"/>
+				<lang id="5" iso="la" count="9" p="1.5"/>
+			</words>
+			<chars count="3239">
+				<lang id="1" iso="de" count="3188" p="98.4"/>
+				<lang id="5" iso="la" count="51" p="1.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2778" page="214">
+		<div ref="1">
+			[1] Der Briefüberbringer, <persName ref="8055">Blarers</persName> Vetter
+			<persName ref="4082">Konrad Zwick</persName>, ist vom
+			<placeName ref="457">Konstanzer</placeName> Rat an den Rat von
+			<placeName ref="587">Zürich</placeName> entsandt. Den Grund dafür wird Bullinger von
+			<persName ref="4082">Zwick</persName> selbst erfahren. Er möge sich dessen im öffentlichen Interesse
+			gut annehmen.
+		</div>
+		<div ref="2">
+			[2] <placeName ref="1976">Augsburg</placeName> hat sich <persName ref="18538">Kaiser Karl V.</persName> unterworfen. Allerdings kennt
+			<persName ref="8055">Blarer</persName> die Friedensbedingungen noch nicht. Gestern trafen von <persName ref="8354">Georg Frölich</persName> einige auch an Bullinger gerichtete Schreiben ein, die <persName ref="8055">Blarer</persName>
+			<persName ref="4082">Zwick</persName> ebenfalls anvertraut. Gottes Zorn offenbart sich im kläglichen
+			Versagen aller [Protestanten]. Mit Ausnahme von <placeName ref="492">Straßburg</placeName> und
+			<placeName ref="457">Konstanz</placeName> haben sich nun alle Städte ergeben, und vermutlich wird
+			<placeName ref="457">Konstanz</placeName> diesem Beispiel leider auch bald folgen.
+			<persName ref="8055">Blarer</persName> kennt nämlich die Gesinnung der
+			<placeName ref="457">Konstanzer</placeName> nur zu gut! Die Mehrheit ist nicht imstande, auf Gott
+			zu vertrauen, wenn keine menschliche Hilfe in Aussicht steht.
+		</div>
+		<div ref="3">
+			[3] Daher sollen sich die Zürcher in Wort und Tat für den Erhalt der friedlichen, gutnachbarschaftlichen
+			Beziehungen zwischen <placeName ref="457">Konstanz</placeName> und
+			<placeName ref="587">Zürich</placeName> einsetzen, mit <persName ref="4082">Zwick</persName>
+			alles vertraulich besprechen und Gottes Beistand erbitten. <persName ref="8055">Blarer</persName> wird
+			seinerseits sein Bestes dazu tun. Viel besser ist es, mit Gott Frieden zu haben und in der Welt im Unfrieden
+			zu leben, als einen weltlichen vorübergehenden Frieden zu genießen, dabei aber in Gottes Ungnade zu stehen.
+			<persName ref="8055">Blarer</persName> weiß jedoch, wie schwach die Menschen, ja sogar Gottes Kinder
+			sind.
+		</div>
+		<div ref="4">
+			[4] Bestimmt hat Bullinger den Eid, den die Gesandten der Städte
+			[<placeName ref="45">Biberach</placeName>, <placeName ref="234">Isny</placeName>,
+			<placeName ref="907">Kempten</placeName>, <placeName ref="320">Memmingen</placeName> und
+			<placeName ref="409">Ravensburg</placeName>] dem Kaiser geschworen haben, beim Zürcher Rat zu sehen
+			bekommen. Was meint er denn dazu? Kann man irgendwie solch einen Eid für akzeptabel und entschuldbar halten,
+			zumal er einen Treuebruch gegenüber Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> und Landgraf <persName ref="18574">Philipp von Hessen</persName>
+			bedeutet? So etwas kann man wohl nicht verantworten!
+		</div>
+		<div ref="5">
+			[5] Ebenso wenig begreift <persName ref="8055">Blarer</persName>, wieso die [vier protestantischen
+			Städte] sich den anderen Eidgenossen gegenüber verpflichtet fühlen und sich dadurch zu gottlosen Handlungen
+			hinreißen lassen und weder den Konstanzern noch den anderen [deutschen Protestanten] zu Hilfe kommen! Nun
+			denn! Bullinger versteht ja <persName ref="8055">Blarer</persName>.
+		</div>
+		<div ref="6">
+			[6] Möge der Herr seinen Kindern die Kraft verleihen, seinen Willen auszuführen, damit sie sich nicht
+			gegenseitig ins Verderben stürzen! Bullinger soll für Gottes Kirche beten.
+		</div>
+		<div ref="7">
+			[7] Segenswunsch und Gruß, besonders an die Ratsherren. Gruß von
+			<persName ref="8178">Thomas Blarer</persName>.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2778" page="214">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Furgeliepter herr und bruͦder, hiemitt hapt ir den frommen, christelichen, theuren gottesmann, meinen allerliebsten vetter<fl>2</fl>, der von meinen herren<fl>3</fl> an die eweren<fl>4</fl> abgefertiget ist uß ursachen, wie ir vernemmen werdt.</s>
+				<s n="2" lang="de" state="auto">Den bevilch ich euch zum besten, das ir ime fruntlich und christelich zuͦsprecht, <pb_edition start_of="215"/> nitt von seiner person, aber gmainer sachen wegen, die er als gantz getrulich und hertzlich guͦt maint.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto"><placeName ref="1976">Augspurg</placeName> hat sich auch dem kaiser<fl>5</fl> undergeben;<fl>6</fl> mitt was conditionen, mag ich noch nitt wissen.</s>
+				<s n="4" lang="de" state="auto"><persName ref="8354" state="auto_name">Lętus</persName><fl>7</fl> hat mir auff gestert dise schriben zuͦgeschickt, welch ouch an euch stond.<fl>8</fl></s>
+				<s n="5" lang="de" state="auto">Wie ain grosse strauff ists doch und wie grosser zorn<fl>9</fl> ist es, das yederman alls<fl>10</fl> verzagtlich jemerlich handelt.</s>
+				<s n="6" lang="de" state="auto">Diewyl nun alle stett hindurch<fl>11</fl> und nieman mehr dann<fl>12</fl> <placeName ref="492">Strasburg</placeName> und <placeName ref="457">Costentz</placeName> uberig sind, sorg ich billich, das wir, nach unser statt gelegenhait und nachdem ich die leut laider zum mehrtail, wie sy gesynnet, erkenn, werdend<fl>a</fl> ouch hinunder und dem hufen nachfaren<fl>13</fl>, nammlich, diewyl wir aller menschlicher mittel, durch die unß verhoffelich<fl>14</fl> möcht geholffen werden, gantz und gar entsetzt<fl>15</fl>, und aber die leut (ich red von dem groͤssern hauffen) nitt dermassen gesynnet und auff gott gelassen sind<fl>16</fl>, das sy alles on mittel uff inn wagen wellen und seiner wunderwerck erwarten.<fl>17</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="de" state="auto">Derhalb wellt den sachen zum besten nachgedencken und thain<fl>18</fl>, wie ir moͤgt, damitt ir und wir lenger möchten im fryden bliben und guͦt nachpaurn sein, wie ich euch dann on allen zwyfel genaigt waiß.</s>
+				<s n="8" lang="de" state="auto">Conferieren mitt meinem vetter vertrauwlich von allen sachen und bitten den herren von gantzem hertzen, das er die hertzen (so er doch in seinen henden hat) bewegen und erregen welle zuͦ soͤlichen ratschlegen und fuͤrnemender mittel, durch die unß moͤge liberung<fl>19</fl> widerfaren.</s>
+				<s n="9" lang="de" state="auto">Ich wellte (dem herren seye ewig lob) mynen tails gern alles daran setzen und vyl lieber mitt gottes hylff und bystand tausend toͤd lyden, so es moͤglich, dann etwas wider gott und die liebe<fl>20</fl> nachgeben und bewilligen; dann ye<fl>21</fl> besser mitt gottes friden, in der wellt unfrid und aller anderer ding gefarlichait stehn, dann in gottes ungnad der wellt falschen, nichtigen und augenplicklichen<fl>22</fl> friden haben.</s>
+				<s n="10" lang="de" state="auto">Aber, ach gott, ich<pb_scan n="219"/> waiß das ungloͤbig hertz der boͤsen und grosse schwachait deren, so ich danecht<fl>23</fl> gloub, das sy gottes kinder seyen.</s>
+				<s n="11" lang="de" state="auto">Derhalben ich gern <pb_edition start_of="216"/> wellt furderlich sein zuͦ allem demjhenigen, damitt wir nitt schand und spott wider gott und den nechsten inlegen<fl>24</fl> muͤssen, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="12" lang="de" state="auto">Ir habt den aid, so die gesandten der steddt<fl>25</fl> dem kaiser schweren muͤssen, wol gesechen by ewern herren.<fl>26</fl></s>
+				<s n="13" lang="de" state="auto">Bitt ich euch um gottes willen, schreibt mir mitt drey worten ewer iudicium, ob er doch <la>in aliqua interpretatione</la> moͤg vertedingt<fl>27</fl> und entschuldiget werden, sonderlich, das man verschweren<fl>28</fl> muͦß alle erzoͤgung<fl>29</fl> bruͤderlicher lieb und trüw gegen <persName ref="19065">Sachsen</persName><fl>30</fl> und <persName ref="18574">Hessen</persName>.<fl>31</fl></s>
+				<s n="14" lang="de" state="auto">Ich kans in meinem hertzen und urtail kainswegs finden, das es verantwurtlich seye.</s>
+				<s n="15" lang="de" state="auto">Will ettlicher anderer puncten geschwigen, die in der red der stett und dann im aid ouch begriffen sind.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="16" lang="de" state="auto">Allso<fl>32</fl> kan ich ouch kainswegs finden<fl>33</fl>, wie ir euch gegen ewern andern Aidgnossen<fl>34</fl> mitt gott begeben<fl>35</fl> können, das ir euch weder unser noch anderer wellind in unseren nöten annemmen, damitt wir zuͦ ungoͤttlichen dingen nitt getrungen werden.</s>
+				<s n="17" lang="de" state="auto">Nun wolan!</s>
+				<s n="18" lang="de" state="auto">Ir merckt<fl>36</fl> und verstand mich wol.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="19" lang="de" state="auto">Der herr gott well yederman zuͦ thain geben<fl>37</fl> seinen wolgefelligen willen, damitt sich nitt dermassen ainer an dem andern verschuld, das wir all den gottes zorn und sein grausam straff lyden, und mittainander (das er gnedigklich verhuͤten welle) verderben muͤssind!</s>
+				<s n="20" lang="de" state="auto">Bittend und bettend, so best ir moͤgend fuͤr die kirchen gottes, das sy seliklich erbauwen und nitt dermass zerstoͤrt werden.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="21" lang="de" state="auto">Gott mitt euch und ewerm haus.</s>
+				<s n="22" lang="de" state="auto">Grutzt all guͦt herren und freund, sonderlich <la>administros tuos<fl>38</fl> in domino.</la></s>
+				<s n="23" lang="de" state="auto">Myn lieber bruͦder<fl>39</fl> empeut<fl>40</fl> euch sein dienst und alles guͦts.</s>
+				<s n="24" lang="de" state="auto">Datum in grosser yl, den 29. ianuarii 1547.</s>
+				<s n="25" lang="la" state="auto">A. B.</s>
+				<note>[Ohne Adresse.]<fl>41</fl></note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2778">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage befindet sich vor</i> werdend <i>ein unnötiges</i> wir.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Aus dem Inhalt des Briefes geht hervor, dass der Brief an Bullinger gerichtet ist.</fn>
+			<fn ref="2"><persName ref="4082">Konrad Zwick</persName>. -Er kam mit dem vorliegenden Brief am 29. Januar 1547 nach <placeName ref="587">Zürich</placeName> (s. auch <bibl>EA</bibl> IV/1d 764; <i>Maurer, Übergang 25,</i> wo das falsche Datum vom 27. Januar zu korrigieren ist), vergaß aber dann, den Brief zu übermitteln; s. unten Anm. 41. Spätestens am 1. Februar befand er sich wieder in <placeName ref="457">Konstanz</placeName>, da das von ihm am 1. Februar verfasste Schreiben im Namen des <placeName ref="457">Konstanzer</placeName> Rats an die vier protestantischen Städte (s. dazu <link fk_file="12816">Nr. 2767</link>, Anm. 21) als Abfassungsort <placeName ref="457">Konstanz</placeName> anführt.</fn>
+			<fn ref="3">d.h. vom <placeName ref="457">Konstanzer</placeName> Rat.</fn>
+			<fn ref="4">die Ratsherren von <placeName ref="587">Zürich</placeName>.</fn>
+			<fn ref="5"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="6">Siehe dazu <link fk_file="12818">Nr. 2769</link>, Anm. 7.</fn>
+			<fn ref="7"><persName ref="8354">Georg Frölich</persName>.</fn>
+			<fn ref="8">adressiert sind. - Der Brief <persName ref="8354">Frölichs</persName> an <persName ref="8055">Blarer</persName> findet sich nicht in <i><persName ref="8055">Blarer</persName> BW.</i> - Auch <persName ref="8354">Frölichs</persName> Brief an Bullinger ist nicht erhalten. <persName ref="4082">Zwick</persName> vergaß, diesen zu übermitteln, sodass <persName ref="8055">Blarer</persName> ihn erneut am 1. Februar abschicken musste; s. Nr. 2790,55f.</fn>
+			<fn ref="9">Gottes.</fn>
+			<fn ref="10">so.</fn>
+			<fn ref="11">hinüber (zum Kaiser).</fn>
+			<fn ref="12">außer.</fn>
+			<fn ref="13">dem hufen nachfaren: der Menge folgen.</fn>
+			<fn ref="14">voraussichtlich.</fn>
+			<fn ref="15">aller mittel entsetzt: um jede Hilfe gebracht (sind).</fn>
+			<fn ref="16">gelassen sind: vertrauen.</fn>
+			<fn ref="17">Vgl. <link fk_file="12811">Nr. 2762</link>,77-79.</fn>
+			<fn ref="18">tun.</fn>
+			<fn ref="19">Erleichterung; Befreiung.</fn>
+			<fn ref="20">Die Nächstenliebe, die die <placeName ref="457">Konstanzer</placeName> mit den noch übrig gebliebenen Verbündeten des Schmalkaldischen Bundes und mit den eidgenössischen protestantischen Nachbarn verbindet.</fn>
+			<fn ref="21">dann ye: denn viel.</fn>
+			<fn ref="22">vorübergehenden.</fn>
+			<fn ref="23">dennoch.</fn>
+			<fn ref="24">davontragen.</fn>
+			<fn ref="25">Gemeint sind <placeName ref="45">Biberach</placeName>, <placeName ref="234">Isny</placeName>, <placeName ref="907">Kempten</placeName>, <placeName ref="320">Memmingen</placeName> und <placeName ref="409">Ravensburg</placeName>.</fn>
+			<fn ref="26">Siehe dazu <link fk_file="12824">Nr. 2775</link>,20f.</fn>
+			<fn ref="27">verteidigt.</fn>
+			<fn ref="28">abschwören.</fn>
+			<fn ref="29">Bekundung.</fn>
+			<fn ref="30"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="31">Landgraf <persName ref="18574">Philipp von Hessen</persName>.</fn>
+			<fn ref="32">Desgleichen.</fn>
+			<fn ref="33">begreifen.</fn>
+			<fn ref="34">Mit den Neun Orten.</fn>
+			<fn ref="35">einlassen; verpflichten.</fn>
+			<fn ref="36">begreift.</fn>
+			<fn ref="37">zü thain geben: anleiten zu tun.</fn>
+			<fn ref="38">d.h. die Ratsherren von <placeName ref="587">Zürich</placeName>.</fn>
+			<fn ref="39"><persName ref="8178">Thomas Blarer</persName>.</fn>
+			<fn ref="40">entbietet.</fn>
+			<fn ref="41">Zwick vergaß, vorliegenden Brief auszuhändigen. Daraufhin sandte ihn Blarer erneut an Bullinger, und zwar vermutlich zusammen mit seinem Brief <link fk_file="12831">Nr. 2782</link> vom 31. Januar und seinem Zettelchen <link fk_file="12833">Nr. 2784</link> vom 1. Februar; s. <link fk_file="12831">Nr. 2782</link>, Anm. a; <link fk_file="12833">Nr. 2784</link>,5f; <link fk_file="12839">Nr. 2790</link>,55f.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12813" id_hbbw="2764" id_irg_sort="2764" id_sort="127640">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12813</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2764</arpa>
+		<scan_pages>
+			<scan id="29994" dir="12813/Autograph/" page="1">00 E_II_359__fol__2818_r_.tif</scan>
+			<scan id="29995" dir="12813/Autograph/" page="2">01 E_II_359__fol__2818_v_.tif</scan>
+			<scan id="29996" dir="12813/Autograph/" page="3">02 E_II_359__fol__2819_r_.tif</scan>
+			<scan id="29997" dir="12813/Autograph/" page="4">03 E_II_359__fol__2819_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26165" vf="1" fk_add_type="1">
+				<person id="8012" fk_id="8012">
+					<name>Haller</name>
+					<forename>Sulpitius (Bitzius)</forename>
+				</person>
+				<place id="41" vf="1" fk_id="41" long="7.44744" lat="46.94809">Bern</place>
+				<district id="28">Bern</district>
+				<country id="58">Schweiz</country>
+			</sender>
+			<sender id="26166" vf="1" fk_add_type="2">
+				<title id="63" fk_place="">Schulherren</title>
+				<place id="41" vf="1" fk_id="41" long="7.44744" lat="46.94809">Bern</place>
+				<district id="28">Bern</district>
+				<country id="58">Schweiz</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26167" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+			<addressee id="26168" vf="1" fk_add_type="2">
+				<title id="63" fk_place="">Schulherren</title>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+				<fn>2</fn>
+			</addressee>
+		</addressees>
+		<date id="12813">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">23</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19379">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2818 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12448" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2764, S. 172</entry>
+				<page>172</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="13">
+				<lang id="1" iso="de" count="13" p="100.0"/>
+			</sentences>
+			<words count="648">
+				<lang id="1" iso="de" count="648" p="100.0"/>
+			</words>
+			<chars count="3527">
+				<lang id="1" iso="de" count="3527" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2764" page="171">
+		<div ref="1">
+			[1] Die <placeName ref="41">Berner</placeName> Obrigkeit ist dankbar, dass auf ihre Anfrage hin
+			der Zürcher Rat den gegenwärtigen Studenten <persName ref="5477">Johann Knechtenhofer</persName>, <persName ref="8355">Johannes Fädminger</persName>, <persName ref="5911">Abel Mühlhofer</persName> und
+			<persName ref="4617">Jonas Danmatter</persName> (welche vor ihrer Rückberufung nach <placeName ref="41">Bern</placeName> auf
+			Kosten ihrer Obrigkeit in <placeName ref="492">Straßburg</placeName> studiert haben) bewilligt
+			hat, ihr Studium in <placeName ref="587">Zürich</placeName> fortzusetzen. Bullinger soll für die
+			vom <pb_edition start_of="172"/> Zürcher Rat angeführten Unterhaltskosten zwei Schüler bei <persName ref="8459">Otto Werdmüller</persName>,
+			die zwei anderen bei <persName ref="1039">Benedikt Euander</persName>, und falls dies nicht möglich
+			wäre, bei weiteren geeigneten Kostgebern unterbringen.
+		</div>
+		<div ref="2">
+			[2] Die <placeName ref="41">Berner</placeName> Jugendlichen sollen genauso wie ihre Zürcher
+			Schulkameraden behandelt, unterwiesen und unterrichtet werden, damit sie später imstande sind, ihren Kirchen
+			als wohlerzogene und gut ausgebildete Männer zu dienen und vorzustehen, und sich ferner an die Beschlüsse
+			der <placeName ref="41">Berner</placeName> Disputation [von 1528] und an die bisher anerkannte
+			Religion zu halten.
+		</div>
+		<div ref="3">
+			[3] Sie sollen ihren Zürcher Lehrern gehorchen, den Unterricht fleißig besuchen und sich an den
+			Disputationen, Vortragsübungen und sonst gängigen Übungen fleißig beteiligen. Sie sollen sich anständig,
+			willig und zurückhaltend verhalten, um ihrem Ruf und dem ihrer Obrigkeit nicht zu schaden. Die Schulherren
+			haben dies den vier Studenten ebenfalls eingeschärft.
+		</div>
+		<div ref="4">
+			[4] Falls aber diese sich daran nicht halten sollten und sie sich der Faulheit, des Übermuts oder anderer
+			Verfehlungen schuldig machen würden, sollen sie genauso wie die anderen Studierenden gestraft werden.
+		</div>
+		<div ref="5">
+			[5] Außerdem dürfen sie ohne Kenntnis und Bewilligung ihres Vorgesetzten kein Geld von anderen leihen und
+			nichts (weder Bücher noch Kleider oder sonst etwas) kaufen, zumal die
+			<placeName ref="41">Berner</placeName> Behörden für diese Kosten aufkommen müssen. Da Bullinger
+			wohl nicht die Zeit haben wird, sich um die Bedürfnisse der Studenten zu kümmern, soll er jemand anderen
+			dazu ernennen, dem die Studenten ihre jeweiligen Anliegen vortragen können, soweit diese vernünftig und
+			gebührend sind. Die Buchhaltung soll detailliert und für jeden Studenten separat geführt werden. Jedes halbe
+			Jahr soll abgerechnet werden. Der <placeName ref="41">Berner</placeName> Rat wird die Rechnungen
+			pünktlich begleichen.
+		</div>
+		<div ref="6">
+			[6] Der Rat und die Schulherren von <placeName ref="41">Bern</placeName> werden sich dankbar und
+			hilfsbereit zeigen.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2764" page="172">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Unnser früntlich grus und gutwillig dienst nach unserm vermogen zuvor, hoch und wolgelertten, fürnemmen, wysenn herrn, günstigen, lieben und guthen fründe.</s>
+				<s n="2" lang="de" state="auto">Nachdem unnser g[nädigen] herrn by<fl>3</fl> üwern herrn, iren getruwen lieben Eidtgnoßen, irs anmutens<fl>4</fl> früntliche antwurt<fl>5</fl> und bewilligung ußgebrachtt<fl>6</fl>, das sy<fl>7</fl> ire studiosos (die sy vor<fl>8</fl> uf anndern schulen in irem costen uferzogen, aber da dennen<fl>9</fl> gevordertt)<fl>a</fl> nu mer by inen<fl>10</fl> in ir statt und schulen zu bringen unnd erhaltten mogent (das sy mit danck von inen ufgenommen des erbiettens<fl>11</fl>, inen in glichem und merem ouch ze dienen), habent wir uß irem<fl>12</fl> bevelch dise vier so darvor zu <placeName ref="492">Strasburg</placeName> gsin (<persName ref="5477">Johannem Knechttenhover</persName><fl>13</fl>, <persName ref="8355">Johannem Vedminger</persName><fl>14</fl>, <persName ref="5911">Abelum Mülishover</persName><fl>15</fl> und <persName ref="4617">Jonam Tammatter</persName><fl>16</fl>) zu üch abgeverttiget, der frünntlichen bitt an üch, <pb_edition start_of="173"/> sy nach üwerm besten beduncken underzebringenn, je zwen zesamen (by herrn <persName ref="8459">Werdmüller</persName><fl>17</fl> zwen und by hern <persName ref="1039">Benedicto Evandro</persName><fl>18</fl> ouch zwen) oder wo sy üwers achttens ouch nach gestalt der zit und personenn am basten<fl>19</fl> versechen<fl>20</fl>, umb<fl>21</fl> die summ, wie unsern hern hievor zugeschribenn.<fl>22</fl></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">Hieruf empfelchennt wir sy üch allen gemeinlich<fl>23</fl>, sy in straf<fl>24</fl>, ler und underwysung ze haltten glicher gestaltt<fl>25</fl> wie anndre der herrn von <placeName ref="587">Zürich</placeName> oder üwer eignen, darmit sy in züchttigem wanndell unnd leben, ouch in reiner ler des heiligen evangelii und andern guthen künsten uferzogen, darinn geuͤbt und geschickt werdent zur er<fl>26</fl> unsers hern gottes, ouch zu dienst unsern g. hern und irer kilchenn (das sy denselben hernach nutz sin und vorstan mogent<pb_scan n="2818v."/> als gelertte, wol erzogne maͤnner und diener), sy by heilligem gotswortt, by ir disputation,<fl>27</fl> by angenomner<fl>28</fl> und bißhar gebruchtter religion in aller einfalt und warheitt des heilligen evangelii zu erhaltten; in dem (sovil an üch gelegen) trüw und flys gegen inen nit ze sparen, wie wir uns genzlich zu üch allen gemeinlich und sunderlich<fl>29</fl> versechent.<fl>30</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="4" lang="de" state="auto">Dargegen soͤllent sy ouch üch als irenn preceptoribus in dem allem schuldige, willige ghorsame leisten, alle lectiones flyßig besuchen, sich ouch laßen bruchen und anstellen in disputacionibus, orationibus und in allen andern erlichen geschefften und uͤbungen, wie es ouch uf andern schulen und sunderlich<fl>31</fl> by üch gehaltten wirtt.</s>
+				<s n="5" lang="de" state="auto">Sy soͤllent sich ouch sunst mitt irem wandell, leben und waͤsen nitt ußschweif<fl>32</fl>, sunder ghorsam und inzogen<fl>33</fl> tragen, wie frommen, züchttigenn jünglingen zustat, darmit ir lob<fl>34</fl> nit vor unnsern g. hern und andern stincke; welichs wir inen alles mit ernst vorhin<fl>35</fl> gesagtt.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="6" lang="de" state="auto">Wer unnd welche sich des nit<fl>b</fl> haltten, mit unflyß, stoͤlze und anndrer unghorsame sich strafwirdig befinden, an dem unnd denselbenn bevelchent <pb_edition start_of="174"/> wir üch der sach mitt gebürender straf zuzekhommen<fl>36</fl>, wie an anndern, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="7" lang="de" state="auto">Dannenthin<fl>37</fl> so soͤllent sy ouch für sich selbs<fl>38</fl> nüzit ufnemmen, mercktten noch khoufen<fl>39</fl> (buͤcher, cleider noch annders), diewil es alles uß unser g. hern costen gat und gan wirtt, an<fl>40</fl> vorwüß, rat unnd bewilligen eins uß üch.</s>
+				<s n="8" lang="de" state="auto">Deßhalb wir ouch üch umb daßelb sunderlich gebetten, wo ir, herr Bullinger,<pb_scan n="2819r."/> als unnser sunderlicher lieber herr, das nit verwaltten andrer geschefftten halb (wie wir wol abrechnenn<fl>c</fl><fl>41</fl>), einen andern uß üch darzu ze ordnen, dem sy ir anligen fürbringen und mit deßelben rhat alles handlen.</s>
+				<s n="9" lang="de" state="auto">Was dann inen mangelbar<fl>42</fl> zu ir notdurfft<fl>43</fl>, ouch nach eren<fl>44</fl> unser hern, das mag derselb inen vergoͤnnen und zulaßen, doch das soͤlichs eigentlich<fl>45</fl> ufgeschriben und je zum halben jar (also ist es bißhar an andren ortten, wie sy ouch selb wol wüßent, gebrucht<fl>46</fl>), sampt dem costen in den tisch<fl>47</fl>, uns in guther rechnung von stuck zu stuck<fl>48</fl>, eins jeden sunderbar<fl>49</fl>, überschickt.</s>
+				<s n="10" lang="de" state="auto">Wirt die bezalung daruf eigenntlich<fl>50</fl> erlegt werden.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="11" lang="de" state="auto">Hierinn und anderm von wegen unser g. hern nach unnserm vertrüwen üch bewysen,<fl>51</fl> das werdent wir, vorab<fl>52</fl> unser hern, zu großem dannck von üch ufnemmen und das in glichem und anderm ouch gegen üch beschuldenn.<fl>53</fl></s>
+				<s n="12" lang="de" state="auto">Hiemit üch gott trüwlich bevelchende, datum 23. ianuarii 1547, üwere gutwilligen <persName ref="8012">Sulpitius Haller</persName>, seckellmeister, unnd andre von rhaͤten, predicanten und gelertten, schulhern zu <placeName ref="41">Bern</placeName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="13" lang="de" state="auto">Den hoch und wolgelertten, fürnemmen, wysen hernn meister Heinrichen Bullinger, predicanten, und andern gelerten unnd <pb_edition start_of="175"/> fürgesetzten der schulen in der statt <placeName ref="587">Zürich</placeName>, unsern günstigen, lieben und guten fründenn.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2764">
+		<alpha>
+			<fn ref="a"><i>Dieses und alle anderen Klammerpaare mit Ausnahme des letzten ergänzt.</i></fn>
+			<fn ref="b"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="c"><i>In der Vorlage</i> abrehnenn.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Die Erstellung eines Namensverzeichnisses der <placeName ref="41">Berner</placeName> Schulherren ist für diese Zeit nicht möglich. - Wir danken Barbara Studer-Immenhauser vom StA <placeName ref="41">Bern</placeName> für ihre entsprechenden Ermittlungen.</fn>
+			<fn ref="2" meta="1">Siehe dazu <bibl>HBBW</bibl> XVIII 416, Anm. 3.</fn>
+			<fn ref="3">von.</fn>
+			<fn ref="4">irs anmutens: ihres (der <placeName ref="41">Berner</placeName>) Gesuchs. - Ein entsprechendes Schreiben der <placeName ref="41">Berner</placeName> ist nicht bekannt.</fn>
+			<fn ref="5">Unbekanntes Antwortschreiben der Zürcher.</fn>
+			<fn ref="6">erlangt; s. <bibl>SI</bibl> V 719.</fn>
+			<fn ref="7">Die Ratsherren von <placeName ref="41">Bern</placeName>.</fn>
+			<fn ref="8">zuvor.</fn>
+			<fn ref="9">da dennen: von dort weg.</fn>
+			<fn ref="10">Den Zürchern.</fn>
+			<fn ref="11">Angebots.</fn>
+			<fn ref="12">Der <placeName ref="41">Berner</placeName>.</fn>
+			<fn ref="13">Zu <persName ref="5477">Johann (Hans) Knechtenhofer</persName> (gest. 1569), der von 1559 bis 1567 Professor für Griechisch in <placeName ref="280">Lausanne</placeName> war und vorher und nachher verschiedene Pfarrstellen versah, s. <i>Pf-<placeName ref="41">Bern</placeName></i> 389. 463. 484. 491. 504. 524. 605. 648; <i>Crousaz, L'Académie 538.</i></fn>
+			<fn ref="14"><persName ref="8355">Johannes Fädminger</persName>.</fn>
+			<fn ref="15"><persName ref="5911">Abel Mühlhofer</persName>. - Dieser Stelle zufolge ist in ganz <bibl>HBBW</bibl> XVIII der auf Lohners Angaben hin (im <i>Pf-<placeName ref="41">Bern</placeName></i> 242. 269) angeführte Vorname "Adam" im Einklang mit der in <bibl>HBBW</bibl> XVIII 392, Anm. 52, erwähnten <placeName ref="492">Straßburger</placeName> Quelle in "Abel" zu korrigieren. Diese Richtigstellung erfolgt aufgrund von <persName ref="5911">Mühlhofers</persName> eigenem Eintrag im <placeName ref="41">Berner</placeName> Prädikantenrodel (<placeName ref="41">Bern</placeName> StA, B III 21, <link fk_file="10254">Nr. 223</link>).</fn>
+			<fn ref="16"><persName ref="4617">Jonas Danmatter</persName>.</fn>
+			<fn ref="17"><persName ref="8459">Otto Werdmüller</persName>, damals Leutpriester am Großmünster. Am 17. November 1547 wurde er dort zweiter Archidiakon; s. <placeName ref="587">Zürich</placeName> StA, G I 179, f. 6r.</fn>
+			<fn ref="18">Schulmeister am Fraumünster; s. <bibl>HBBW</bibl> III 154, Anm. 3; X/a 67 (Corrigenda). - In der zweiten Hälfte 1546 wurde der Schulmeister <persName ref="1039">Euander</persName> von der Großmünsterschule in die Fraumünsterschule versetzt, während Schulmeister <persName ref="4844">Johannes Fries</persName> vom Fraumünster zum Großmünster wechselte; s. <bibl>HBBW</bibl> XVIII 343, Anm. 27; vgl. auch <placeName ref="587">Zürich</placeName> StA, E I 17, 6; G II 39.2, Schulausgaben der Jahre 1545/46, f. [1], mit aaO, Schulausgaben der Jahre 1546/47, f. [2]. 1547 wurde ferner Fries' Lohn erhöht und dem Lohn des Schulmeisters im Fraumünster angepasst; vgl. aaO, Schulausgaben der Jahre 1546/47, f. [2], mit E I 17,4.6.9. 11.</fn>
+			<fn ref="19">besten.</fn>
+			<fn ref="20">versorgt (sind); s. <bibl>SI</bibl> VII 568. 570f.</fn>
+			<fn ref="21">für.</fn>
+			<fn ref="22">Mit dem oben bei Anm. 5 erwähnten Brief.</fn>
+			<fn ref="23">zusammen.</fn>
+			<fn ref="24">Disziplin; s. <bibl>SI</bibl> XI 2082.</fn>
+			<fn ref="25">glicher gestaut: auf die gleiche Weise.</fn>
+			<fn ref="26">Ehre.</fn>
+			<fn ref="27">Gemeint sind die Beschlüsse der <placeName ref="41">Berner</placeName> Disputation von 1528.</fn>
+			<fn ref="28">anerkannter.</fn>
+			<fn ref="29">einzeln; s. <bibl>SI</bibl> VII 1140.</fn>
+			<fn ref="30">sich zu üch versechent: von euch erwarten; s. <bibl>SI</bibl> VII 566f.</fn>
+			<fn ref="31">besonders.</fn>
+			<fn ref="32">sich nitt ußschweif tragen: sich nicht ausschweifend benehmen; s. <bibl>SI</bibl> IX 1759.</fn>
+			<fn ref="33">zurückhaltend.</fn>
+			<fn ref="34">Ruf; s. <bibl>SI</bibl> III 993.</fn>
+			<fn ref="35">vorher.</fn>
+			<fn ref="36">beizukommen; s. <bibl>SI</bibl> III 282f.</fn>
+			<fn ref="37">Zudem.</fn>
+			<fn ref="38">für sich selbs: eigenmächtig; vgl. <bibl>SI</bibl> I 956.</fn>
+			<fn ref="39">nüzit ufnemmen, mercktten noch khoufen: nichts (d.h. kein Geld) entlehnen (s. <bibl>SI</bibl> IV 736 s.v. ufnemen), nicht handeln (s. ebd. 415f s.v. märkten) und nichts kaufen.</fn>
+			<fn ref="40">ohne.</fn>
+			<fn ref="41">herleiten (können); s. <bibl>SI</bibl> VI 122.</fn>
+			<fn ref="42">Was dann inen mangelbar: Was ihnen dann fehlt.</fn>
+			<fn ref="43">zu ir notdurfft: für ihre Bedürfnisse.</fn>
+			<fn ref="44">nach eren: im Einklang mit dem guten Ruf.</fn>
+			<fn ref="45">genau; s. <bibl>SI</bibl> I 147f.</fn>
+			<fn ref="46">gehalten worden.</fn>
+			<fn ref="47">in den tisch: für die Verköstigung.</fn>
+			<fn ref="48">von stuck zu stuck: nach jeder einzelnen Position bzw. Ausgabe; vgl. <bibl>SI</bibl> VII 883 (oben) s.v. "Salz".</fn>
+			<fn ref="49">eins jeden sunderbar: für jeden separat.</fn>
+			<fn ref="50">pünktlich; s. <bibl>SI</bibl> I 147f.</fn>
+			<fn ref="51">Gemeint ist: Was in dieser und in anderen Angelegenheiten von euch (worauf wir vertrauen) wegen unserer Herren erwiesen wird.</fn>
+			<fn ref="52">vor allem; s. <i>SI I</i> 31.</fn>
+			<fn ref="53">vergelten.</fn>
+		</num>
+	</footnotes>
+</file>

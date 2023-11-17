@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12904" id_hbbw="2855" id_irg_sort="2855" id_sort="128550">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12904</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2855</arpa>
+		<scan_pages>
+			<scan id="30215" dir="12904/Autograph/" page="1">00 E_II_343__fol__348_r_.tif</scan>
+			<scan id="30216" dir="12904/Autograph/" page="2">01 E_II_343__fol__348_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26356" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26357" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12904">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">21</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19476">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343a,348</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9158" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 950, Nr. 1064</entry>
+			</print>
+			<print id="12368" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2855, S. 438</entry>
+				<page>438</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="20">
+				<lang id="5" iso="la" count="20" p="100.0"/>
+			</sentences>
+			<words count="205">
+				<lang id="5" iso="la" count="205" p="100.0"/>
+			</words>
+			<chars count="1188">
+				<lang id="5" iso="la" count="1188" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2855" page="437">
+		<div ref="1">
+			[1] Es steht fest, dass die <placeName ref="492">Straßburger</placeName> vor zwölf Tagen erneut
+			Gesandte zu <persName ref="18538">Kaiser Karl V.</persName> schickten, um mit diesem einen Frieden auszuhandeln. Die Basler wissen jedoch
+			nicht, was <pb_edition start_of="438"/> seitdem geschehen ist.
+		</div>
+		<div ref="2">
+			[2] Als aber die <placeName ref="492">Straßburger</placeName> Ratsherren vom Sieg des Kurfürsten
+			<persName ref="19065">Johann Friedrich von Sachsen</persName> (der in zwei Schlachten 15000 [Kaiserliche] tötete) und vom [Beschluss] der
+			<entity id="20136" type="group">Hansestädte</entity> erfuhren, schickten sie umgehend einen Reiter [...] ihren Gesandten nach, damit diese den
+			Friedensschluss möglichst hinauszögerten.
+		</div>
+		<div ref="3">
+			[3] Gestern kam ein Abgeordneter [...] des französischen <persName ref="7637">Königs Franz I.</persName> nach
+			<placeName ref="28">Basel</placeName>. Über seinen Auftrag ist nichts bekannt. Er brach schon heute
+			in aller Frühe mit zwei Grafen [...] nach <placeName ref="492">Straßburg</placeName> auf.
+			Angeblich hat der König vor, den Straßburgern ein Heer zur Verfügung zu stellen, wenn diese sich nur nicht
+			dem Kaiser unterwerfen.
+		</div>
+		<div ref="4">
+			[4] Was Bullinger [in Bezug auf den Sieg des Kurfürsten] schrieb, scheint glaubwürdig. Die Kaiserlichen
+			aber werden es als erfunden hinstellen.
+		</div>
+		<div ref="5">
+			[5] Einer [...] aus <placeName ref="15">Antwerpen</placeName> erzählte, dass dort vier Schiffe
+			voller Gold und Silber für den Zug des Kaisers gegen Deutschland angekommen wären. Das ist nicht glaubhaft,
+			da weder <persName ref="7637">Franz I.</persName> noch der englische <persName ref="3207">König Eduard VI.</persName> den Schiffen die Durchfahrt erlaubt hätten. Zudem
+			lässt der Kaiser das Gold nach Spanien bringen, und nicht von dort woandershin!
+		</div>
+		<div ref="6">
+			[6] Die Tatsache, dass der Kaiser neue Truppen in <entity id="16" type="geo_country">Italien</entity>
+			anwirbt, zeigt, wie wenig es zutrifft, dass er und <persName ref="19981">Papst Paul III.</persName> zerstritten seien!
+		</div>
+		<div ref="7">
+			[7] Möge doch bald der Herr sein Heer gegen die Feinde des Evangeliums ziehen lassen! Gruß, auch an <persName ref="8011">Rudolf Gwalther</persName> und an die anderen Kollegen. In Eile.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2855" page="438">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Certum est <placeName ref="492">Argentinenses</placeName> remisisse legatos suos<fl>1</fl> ante dies 12, ut componant cum cęsare.<fl>2</fl></s>
+				<s n="3" lang="la" state="auto">Quid interea actum sit, nescimus.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="la" state="auto">Postquam autem venerunt nuncii de 15 millibus in duobus proeliis interfectis ab electore<fl>3</fl>, et a civitatibus maritimis<fl>4</fl>, miserunt<fl>5</fl> protinus cursorem equestrem<fl>6</fl> ad legatos cęsarem sequentes, ut, si pactio nondum sit facta, eam suspendant et differant pro virili, donec aliter edoceantur.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="5" lang="la" state="auto">Heri venit veredarius<fl>7</fl> Galli.<fl>8</fl></s>
+				<s n="6" lang="la" state="auto">Quid adtulerit, ignoro.</s>
+				<s n="7" lang="la" state="auto">Postridie summo mane abiit festinanter <placeName ref="492">Argentinam</placeName> una cum ducibus duobus.<fl>9</fl></s>
+				<s n="8" lang="la" state="auto">Rumor: regem pro ipsis collecturum exercitum, tantum ne se dedant cęsari.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="la" state="auto">Scripsisti tu plausibilia<fl>10</fl>, quamvis cęsareani dicant omnia ficta, adeo dolet eis malum vel somniare de cęsare.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="10" lang="la" state="auto">Fuit hic <placeName ref="15">Antwerpiensis</placeName>.<fl>11</fl></s>
+				<s n="11" lang="la" state="auto">Is narravit quatuor naves venisse <placeName ref="15">Antwerpiam</placeName> onustas auro et argento contra Germaniam.</s>
+				<s n="12" lang="la" state="auto">Id, quia verisimile non est, non credo: nec Gallus enim nec <persName ref="3207" state="auto_name">Anglus</persName><fl>12</fl> permisissent (hostes cęsaris)<fl>a</fl> naves transire;<fl>13</fl> et cęsar aurum invehit in <entity id="29" type="geo_country">Hispaniam</entity>, non evehit!<pb_edition start_of="439"/></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="13" lang="la" state="auto">Quam vero dissideant <persName ref="19981" state="auto_name">papa</persName><fl>14</fl> et cęsar, annon patet, quod novum exercitum hic petit ex <entity id="16" type="geo_country">Italia</entity>!<fl>15</fl></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="14" lang="la" state="auto">Oremus dominum, imperatorem nostrum, ut et ipse producat aliquando suas copias contra hostes verbis sui.</s>
+				<s n="15" lang="la" state="auto">Vale in Christo.</s>
+				<s n="16" lang="la" state="auto">Salutabis <persName ref="8011">Gvaltherum</persName> et reliquos pios fratres.</s>
+				<s n="17" lang="la" state="auto">Plura nec habui nec potui.</s>
+				<s n="18" lang="la" state="auto"><placeName ref="28">Basileę</placeName> raptim, 21. martii anno 1547.</s>
+				<s n="19" lang="la" state="auto">Tuus Os. M.</s>
+			</p>
+			<p>
+				<note>[Adresse auf der Rückseite:]</note>
+				<s n="20" lang="la" state="auto">D. Heinricho Bullingero, episcopo Tigurino, fratri in domino suo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2855">
+		<alpha>
+			<fn ref="a"><i>Klammern</i> ergänzt.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Zu deren Namen s. <link fk_file="12897">Nr. 2848</link>, Anm. 27. Sie leisteten <persName ref="18538">Kaiser Karl V.</persName> den Fußfall am Abfassungstag des vorliegenden Briefes; s. <link fk_file="12871">Nr. 2822</link>, Anm. 16.</fn>
+			<fn ref="2"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="3">Kurfürst <persName ref="19065">Johann Friedrich I. von Sachsen</persName>. - Zu diesen zwei Schlachten s. <link fk_file="12897">Nr. 2848</link>, Anm. 33.</fn>
+			<fn ref="4">Siehe dazu <link fk_file="12899">Nr. 2850</link>,22f.</fn>
+			<fn ref="5">Subjekt sind die <placeName ref="492">Straßburger</placeName> Ratsherren.</fn>
+			<fn ref="6">Unbekannt. - Vermutlich ein falsches Gerücht.</fn>
+			<fn ref="7">Unbekannt.</fn>
+			<fn ref="8"><persName ref="7637">König Franz I.</persName></fn>
+			<fn ref="9">Unbekannt. -Die <placeName ref="492">Straßburger</placeName> hatten eine Zeitlang eine Annäherung mit <entity id="11" type="geo_country">Frankreich</entity> gesucht; s. <link fk_file="12880">Nr. 2831</link>, Anm. 4.</fn>
+			<fn ref="10">Bezug auf Bullingers Mitteilung in <link fk_file="12899">Nr. 2850</link>,3-9, zu dem bei <placeName ref="2396">Rochlitz</placeName> errungenen Sieg des Kurfürsten über Markgraf <persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach; s. <link fk_file="12881">Nr. 2832</link>, Anm. 35.</fn>
+			<fn ref="11">Unbekannt. - Zu den hier übermittelten Nachrichten vgl. schon Nr. 2854; <link fk_file="12908">Nr. 2859</link>,28-30.</fn>
+			<fn ref="12"><persName ref="3207">Eduard VI.</persName></fn>
+			<fn ref="13">Nämlich durch den <entity id="17" type="geo_river">Ärmelkanal</entity>, um in den Hafen von <placeName ref="15">Antwerpen</placeName> zu gelangen.</fn>
+			<fn ref="14"><persName ref="19981">Paul III.</persName></fn>
+			<fn ref="15">In Bezug auf <link fk_file="12899">Nr. 2850</link>,13-15. - <persName ref="8418">Myconius</persName>' Aussage ist ironisch aufzufassen; vgl. auch <link fk_file="12898">Nr. 2849</link>,14-16.</fn>
+		</num>
+	</footnotes>
+</file>

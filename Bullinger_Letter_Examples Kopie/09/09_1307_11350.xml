@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11350" id_hbbw="1307" id_irg_sort="1307" id_sort="113070">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11350</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1307</arpa>
+		<scan_pages>
+			<scan id="26382" dir="11350/Autograph/" page="1">00 E_II_346__fol__113_r_.tif</scan>
+			<scan id="26383" dir="11350/Autograph/" page="2">01 E_II_346__fol__113_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23042" vf="1" fk_add_type="1">
+				<person id="4079" fk_id="4079">
+					<name>Zwick</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="257" vf="1" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23043" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11350">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">9</month>
+				<day fk_d="" d="" vf="1" fn="">9</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17821">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 346,113</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11117" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1307, S. 212</entry>
+				<page>212</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="20">
+				<lang id="5" iso="la" count="20" p="100.0"/>
+			</sentences>
+			<words count="205">
+				<lang id="5" iso="la" count="205" p="100.0"/>
+			</words>
+			<chars count="1176">
+				<lang id="5" iso="la" count="1176" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1307" page="212">
+		<div ref="1">
+			Inzwischen hat sich ein junger Mann [als Hilfskraft für <persName ref="4079">Zwick</persName>]
+			gefunden. Wünscht genauere Nachricht über den englischen <persName ref="18505">König [Heinrich VIII.]</persName>; auf die Fürsten
+			ist kein Verlaß, wenn auch das entschlossene Vorgehen <persName ref="8098">Georgs [von Württemberg</persName>-Mömpelgard] erfreulich ist. Dankt für den
+			Vigilius [<bibl>HBBibl</bibl> I 113], konnte aber den [mit abgedruckten] Brief
+			<persName ref="8049">Vadians</persName> noch nicht lesen; letzterem hat er neue Schriften
+			<persName ref="8441">Schwenckfelds</persName> zugesandt. Erkundigt sich nach einer Bemerkung über
+			<persName ref="467">Bucer</persName>, die er in einem Brief an die Zürcher gemacht haben soll, und
+			bestätigt die Weiterleitung von Briefen nach <placeName ref="320">Memmingen</placeName> und
+			<placeName ref="907">Kempten</placeName>. Hört aus
+			<placeName ref="1976">Augsburg</placeName> nur, die Predigten
+			[<persName ref="8055">Blarers</persName>] seien gut besucht; verweist für Weiteres auf
+			<persName ref="8127">Pellikan</persName>. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1307" page="212">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Salus et pax Christi.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">De iuvene<fl>1</fl> non est, quod posthac sollicitus sis; contigit enim nobis, qualem desyderavimus<fl>2</fl>.</s>
+			</p>
+			<p>
+				<s n="3" lang="la" state="auto">De rege <persName ref="18505" state="auto_name">Angliae</persName><fl>3</fl> fac nos certiores, ubi, quae scripsisti, certiora audieris<fl>4</fl>.</s>
+				<s n="4" lang="la" state="auto">Si nos fallit, imprudentes fallit; scire enim debuimus et debemus nullam in principibus sitam spem esse.</s>
+				<s n="5" lang="la" state="auto">Quod nunc princeps Georgius<fl>5</fl> fortiter agit, laudemus dominum istudque sic recipiamus, ne fidamus hominibus.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Pro dono Vigilii<fl>6</fl> gratias habeo tibi relaturus, cum dabitur occasio.</s>
+				<s n="7" lang="la" state="auto"><persName ref="8049">Vadiani</persName> epistolam<fl>7</fl> adhuc non legi mille negotiis impeditus.</s>
+				<s n="8" lang="la" state="auto">Misi etiam <persName ref="8049">Vadiano</persName> his diebus, quae per <persName ref="8441">Schwenckfeldium</persName> ędita sunt de hoc articulo<fl>8</fl>.</s>
+				<s n="9" lang="la" state="auto">Miserum est certe novas subinde quaestiones et intricatas admodum nasci.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Dominus autem novit, quo vel commodo vel incommodo istud fiat.<pb_edition start_of="213"/></s>
+				<s n="11" lang="la" state="auto">Porro spargunt quidam a me scriptum ad vos <persName ref="467">Bucerum</persName> fateri libere, quod fidem abnegaverit et veritatem prostituerit.</s>
+				<s n="12" lang="la" state="auto">Hoc non memini me fecisse; cupio autem scire, an tale aliquid in meis literis usquam ad te scripserim<fl>9</fl>.</s>
+				<s n="13" lang="la" state="auto">Literas tuas Memmingam et Campodunum<fl>10</fl> misi tabellione<fl>11</fl> certo.</s>
+				<s n="14" lang="la" state="auto">Ex<fl>a</fl> <placeName ref="1976">Augusta</placeName> nichil audimus nisi maximam et omnino raram frequentiam esse audiendi verbi<fl>12</fl>, quod felix sit et faustum.</s>
+				<s n="15" lang="la" state="auto">Reliqua apud <persName ref="8127">Pellicanum</persName><fl>13</fl>.</s>
+				<s n="16" lang="la" state="auto">Vale non solum meo, sed fratris<fl>14</fl>, <persName ref="8178" state="auto_name">Thomę</persName><fl>15</fl> et omnium fratrum nomine.</s>
+				<s n="17" lang="la" state="auto">Uxorem<fl>16</fl> tuam et matrem<fl>17</fl> salvam volo.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Ex <placeName ref="457">Constantia</placeName>, 9. septembris 1539.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Tuus <persName ref="4079">Io. Zvick</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="20" lang="la" state="auto">Domino Hainricho Bullingero, amicorum et fratrum candidissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1307">
+		<alpha>
+			<fn ref="a"><i>vor</i> Ex <i>gestrichenes</i> A.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Zur Suche nach einer Hilfskraft für <persName ref="4079">Zwick</persName> vgl. oben <link fk_file="11329">Nr. 1286</link>, 14-18; 1289, 13f.</fn>
+			<fn ref="2"><persName ref="8055">Ambrosius Blarer</persName> hatte aus <placeName ref="1976">Augsburg</placeName> einen Jüngling mit guten Hebräischkenntnissen empfohlen; s. <bibl>Blarer BW</bibl> II 33.</fn>
+			<fn ref="3"><persName ref="18505">Heinrich VIII.</persName></fn>
+			<fn ref="4">Bullingers Brief ist nicht erhalten, vgl. aber die entsprechende Bemerkung im Brief an <persName ref="8049">Vadian</persName> vom 26. August (oben <link fk_file="11345">Nr. 1302</link>).</fn>
+			<fn ref="5"><persName ref="8098">Georg von Württemberg-Mömpelgard</persName> (vgl. ebd.).</fn>
+			<fn ref="6">Gemeint sind die fünf Bücher "Contra Eutychen", die Bullinger zusammen mit einem Brief <persName ref="8049">Vadians</persName> herausgegeben hatte; s. <bibl>HBBibl</bibl> I 113 (Widmungsvorrede: oben <link fk_file="11326">Nr. 1283</link>).</fn>
+			<fn ref="7"><persName ref="4079">Zwick</persName> hatte um den erwähnten Brief <persName ref="8049">Vadians</persName> gebeten, bevor von dessen Veröffentlichung die Rede war; s. oben <link fk_file="11325">Nr. 1282</link>, 22-24; 1289, 12f.</fn>
+			<fn ref="8">Zweifellos die "Ermanunge zum waren und selig machende Erkanthnus Christi" sowie das "Summarium ettlicher Argument" vom August 1539 (<bibl>CSch</bibl> VI 501-539, <link fk_file="10321">Nr. 290</link>f); s. Verena Schenker-Frei, Bibliotheca Vadiani, St. Gallen 1973. - <persName ref="8049">Vadian</persName>-Studien 9, S. 387, <link fk_file="11252">Nr. 1209</link>f. Vgl. auch <persName ref="4079">Zwicks</persName> Brief an <persName ref="8049">Vadian</persName> vom 30. August (<persName ref="8049">Vadian</persName> BW V 571f).</fn>
+			<fn ref="9">Eine entsprechende Äußerung ist in <persName ref="4079">Zwicks</persName> Briefen an Bullinger nicht nachzuweisen.</fn>
+			<fn ref="10">Bullingers Briefe an <persName ref="8440">Gervasius Schuler</persName> und <persName ref="1039">Benedikt Euander</persName> sind nicht erhalten, beide sind jedoch erwähnt in Schu-1ers Antwort vom 8. Oktober (unten <link fk_file="11358">Nr. 1315</link>, 2-5 bzw. 39f).</fn>
+			<fn ref="11">Unbekannt.</fn>
+			<fn ref="12">Zu den gutbesuchten Predigten <persName ref="8055">Blarers</persName> in <placeName ref="1976">Augsburg</placeName> vgl. <i>Roth</i> II 442-449.</fn>
+			<fn ref="13">Ein gleichzeitiger Brief an <persName ref="8127">Pellikan</persName> ist nicht erhalten.</fn>
+			<fn ref="14"><persName ref="4082">Konrad Zwick</persName>.</fn>
+			<fn ref="15"><persName ref="8178">Thomas Blarer</persName>.</fn>
+			<fn ref="16" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="17" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11299" id_hbbw="1256" id_irg_sort="1256" id_sort="112560">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11299</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1256</arpa>
+		<scan_pages>
+			<scan id="26273" dir="11299/Autograph/" page="1">00 E_II_342__fol__94_r_.tif</scan>
+			<scan id="26274" dir="11299/Autograph/" page="2">01 E_II_342__fol__94_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22932" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22933" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11299">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">4</month>
+				<day fk_d="" d="" vf="1" fn="">18</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17771">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,94</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11084" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1256, S. 112</entry>
+				<page>112</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="28">
+				<lang id="1" iso="de" count="1" p="3.6"/>
+				<lang id="5" iso="la" count="27" p="96.4"/>
+			</sentences>
+			<words count="252">
+				<lang id="1" iso="de" count="18" p="7.1"/>
+				<lang id="5" iso="la" count="234" p="92.9"/>
+			</words>
+			<chars count="1470">
+				<lang id="1" iso="de" count="80" p="5.4"/>
+				<lang id="5" iso="la" count="1390" p="94.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1256" page="111">
+		<div ref="1">
+			Hat <persName ref="8418">Myconius</persName> zu Unrecht wegen seines Schweigens gescholten. Stimmt
+			seiner Kritik an <persName ref="18538">Kaiser [Karl V.]</persName> zu und möchte wissen, ob
+			<persName ref="18505">[König Heinrich VIII.]</persName> in den [Schmalkaldischen] Bund aufgenommen wurde; hofft auf ein
+			Scheitern des Kaisers und ruft zu bußfertigem Gebet auf. Was
+			<persName ref="1783">[Diethelm] Keller</persName> betrifft, ist
+			ihm kein Schreiben [<placeName ref="28">Basels</placeName>] bekannt. Ist dankbar für alles, was
+			<persName ref="8418">Myconius</persName> für <persName ref="8011">Rudolf [Gwalther]</persName> tut, würde aber dessen Unterbringung lieber
+			<persName ref="1365">Grynäus</persName> zumuten. Fürchtet, bald schlechte Nachrichten zu haben.
+			Empfiehlt <persName ref="8011">Gwalther</persName>, <persName ref="4466">Butler</persName> und
+			<persName ref="6192">Reiffenstein</persName>.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1256" page="112">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et vitae innocentiam a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Praeter meritum expostulaveram tecum proximis litteris<fl>1</fl> super diuturno silentio tuo, <persName ref="8418">Myconi</persName> charissime.</s>
+				<s n="3" lang="la" state="auto">Pulchre enim missis interim litteris<fl>2</fl> resarcisti, quod quaerebar deesse.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">De caesareanis insidiis seu proditionibus<fl>3</fl> nihil dubito.</s>
+				<s n="5" lang="la" state="auto">Dominum oro, ut virum sanguinem et bella volentem<fl>4</fl> opprimat ad gloriam nominis sui.</s>
+				<s n="6" lang="la" state="auto">Si <persName ref="18505" state="auto_name">Anglus</persName><fl>5</fl> in foedus christianum receptus est<fl>6</fl>, fac sciam.</s>
+				<s n="7" lang="la" state="auto">Nostri mercatores huius nihil retulere.</s>
+				<s n="8" lang="la" state="auto">Illi res suas agunt.</s>
+				<s n="9" lang="la" state="auto">Nihil quaestionis aut curae illis est de religione aut periculis evangelio imminentibus.</s>
+				<s n="10" lang="de" state="auto">Ich hoff alls<fl>7</fl>, wölle ye der keysser dem bapst imm arß stecken<fl>8</fl>, er werde ze letst drinn ersticken.</s>
+				<s n="11" lang="la" state="auto">Quamvis perpetuo me terreat nostra ingratitudo, perversitas, ambitio, luxus nimius vitaque impoenitens.</s>
+				<s n="12" lang="la" state="auto">Sed „non nobis, domine, sed nomini tuo da gloriam, ne dicant gentes: Ubi est deus eorum<fl>9</fl>.“</s>
+				<s n="13" lang="la" state="auto">Oremus hoc ardentius, quaseo, et vigilemus, quo vehementius isti nobis malum parant.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">De <persName ref="1783">Cellario</persName><fl>10</fl> nihildum scriptum novi.</s>
+				<s n="15" lang="la" state="auto">Pro tua diligentia gratias tibi ago.</s>
+				<s n="16" lang="la" state="auto"><persName ref="8011">Rodolphus</persName><fl>11</fl> meus non potest satis praedicare tuam beneficentiam et humanitatem<fl>12</fl>.</s>
+				<s n="17" lang="la" state="auto">Dominus sit merces tua.</s>
+				<s n="18" lang="la" state="auto">Iuvabis illum porro haud dubie, quemadmodum hactenus parentis et tutoris loco fuisti.</s>
+				<s n="19" lang="la" state="auto">Utinam reciperetur a d. <persName ref="1365">Grynaeo</persName><fl>13</fl>; non quod apud te male illi prospectum sit, sed quod volentem et benevolum te<fl>a</fl> non gravo impudenter neque onero libenter.</s>
+				<s n="20" lang="la" state="auto"><persName ref="1365">Grynaeus</persName> rebus ecclesiasticis minus occupatus est te.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Novi apud nos nihil habemus.</s>
+				<s n="22" lang="la" state="auto">Faxit dominus, ut non infausta habeamus brevi non ab uno loco.</s>
+			</p>
+			<p>
+				<s n="23" lang="la" state="auto">Vale et me ama.</s>
+				<s n="24" lang="la" state="auto">18. aprilis.</s>
+			</p>
+			<p>
+				<s n="25" lang="la" state="auto"><persName ref="8011">Rodolphum</persName>, <persName ref="4466">Buttlerum</persName><fl>14</fl> et Ryfenstein amato; nam te ex animo colunt.</s>
+				<s n="26" lang="la" state="auto">Anno 1539.</s>
+			</p>
+			<p>
+				<s n="27" lang="la" state="auto">H. Bullingerus tuus ut semper.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="28" lang="la" state="auto">Domino <persName ref="8418">Osvaldo Myconio</persName>, antistiti clarissimo <placeName ref="28">Basileiensis</placeName> ecclesiae, charissimo fratri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1256">
+		<alpha>
+			<fn ref="a">te <i>über der Zeile nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Oben <link fk_file="11296">Nr. 1253</link>, 2-7.</fn>
+			<fn ref="2">Oben <link fk_file="11295">Nr. 1252</link>.</fn>
+			<fn ref="3">Vgl. ebd., Z. 3-21.</fn>
+			<fn ref="4">Gemeint ist <persName ref="18538">Kaiser Karl V.</persName></fn>
+			<fn ref="5"><persName ref="18505">König Heinrich VIII.</persName></fn>
+			<fn ref="6">Vgl. oben <link fk_file="11291">Nr. 1248</link>, 9-11 mit Anm. 8.</fn>
+			<fn ref="7">immer.</fn>
+			<fn ref="8">Vgl. oben <link fk_file="11295">Nr. 1252</link>, 21 mit Anm. 11.</fn>
+			<fn ref="9">Ps 115, 1f (113, 9f Vulg.).</fn>
+			<fn ref="10"><persName ref="1783">Diethelm Keller</persName>; vgl. oben <link fk_file="11295">Nr. 1252</link>, 22-24.</fn>
+			<fn ref="11"><persName ref="8011">Rudolf Gwalther</persName>.</fn>
+			<fn ref="12">Vgl. oben <link fk_file="11275">Nr. 1232</link>, 12-15.</fn>
+			<fn ref="13">Vgl. oben <link fk_file="11295">Nr. 1252</link>, 25-32.</fn>
+			<fn ref="14"><persName ref="4466">John Butler</persName> ist der Überbringer dieses Briefs; vgl. unten <link fk_file="11302">Nr. 1259</link>, 4.</fn>
+		</num>
+	</footnotes>
+</file>

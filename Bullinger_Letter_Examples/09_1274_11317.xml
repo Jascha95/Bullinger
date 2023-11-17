@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11317" id_hbbw="1274" id_irg_sort="1274" id_sort="112740">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11317</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1274</arpa>
+		<scan_pages>
+			<scan id="26317" dir="11317/Autograph/" page="1">00 E_II_359__fol__2786_r_.tif</scan>
+			<scan id="26318" dir="11317/Autograph/" page="2">01 E_II_359__fol__2786_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22968" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22969" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11317">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">5</month>
+				<day fk_d="" d="" vf="1" fn="">23</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17789">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2786r.-v.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11165" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1274, S. 145</entry>
+				<page>145</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="27">
+				<lang id="5" iso="la" count="27" p="100.0"/>
+			</sentences>
+			<words count="373">
+				<lang id="5" iso="la" count="373" p="100.0"/>
+			</words>
+			<chars count="2210">
+				<lang id="5" iso="la" count="2210" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1274" page="145">
+		<div ref="1">
+			Gibt Auskunft über den Verbleib [des Manuskripts der „Alexandreis“] des
+			Walter [von Chaˆ-tillon] und die eventuelle Publikation [des „Carmen
+			paschale“] von <persName ref="6571">Sedulius</persName> sowie über die Kosten mehrerer Bücher. Hat
+			mit <persName ref="8459">Otto [Werdmüller]</persName> im Auftrag
+			<persName ref="8126">Oporins</persName> die Kommentierung einiger Reden
+			<persName ref="4544">Ciceros</persName> übernommen; ihre Beiträge sollen pseudonym erscheinen. Sprach
+			mit <persName ref="8418">Myconius</persName> und <persName ref="1365">Grynäus</persName> über
+			<persName ref="8049">Vadians</persName> Brief [<link fk_file="10936">Nr. 894</link>]. Vom schädlichen
+			Streit um den Doktorgrad wird wohl <persName ref="8418">Myconius</persName> berichten;
+			<persName ref="8011">Gwalther</persName> sähe eine Rückkehr
+			<persName ref="4349">Karlstadts</persName> nach Zürich ungern. Anerbietet sich, Briefe nach
+			<entity id="9" type="geo_country">England</entity> weiterzuleiten. Plant einen Besuch bei
+			<persName ref="4830">Adam Frey</persName>. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1274" page="145">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Accepi literas<fl>1</fl> tuas una cum nummis, patrone humanissime, in quibus <persName ref="8011">Gvaltherum Insulanum</persName><fl>2</fl> restitui tibi cupis; sed hunc<fl>b</fl>, ut ante scripsi<fl>3</fl>, <persName ref="2259">Gregorius Mangolt</persName> a <persName ref="6117">Plattero</persName> accepit.</s>
+				<s n="3" lang="la" state="auto"><persName ref="6571">Sedulium</persName><fl>4</fl> an <placeName ref="28">Basileae</placeName> impressuri sint, ignoro; non tamen eum ibi excusum iri arbitror<fl>c</fl><fl>5</fl>.</s>
+				<s n="4" lang="la" state="auto">Urspurgensis comparavi Chronica<fl>6</fl>; constant 12 batzonibus <placeName ref="457">Constantiensibus</placeName>, <persName ref="18377">Vigilius</persName><fl>7</fl> 2 blapph[art]<fl>8</fl>, <persName ref="6927">Vives</persName> De anima<fl>9</fl> 8 blapp[hart].</s>
+				<s n="5" lang="la" state="auto">Si quid aliud est, quo tibi mea opera opus est, indicato, nec me imorigerum comperies.<pb_edition start_of="146"/></s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Scias autem me nunc quędam sub pręlo habere, quę proximis nundinis<fl>10</fl> in lucem prodibunt.</s>
+				<s n="7" lang="la" state="auto"><persName ref="8126">Oporinus</persName> enim in unum volumen commentarios in omnes <persName ref="4544">Ciceronis</persName> orationes imprimit<fl>11</fl>.</s>
+				<s n="8" lang="la" state="auto">Deerant autem orationes decem, quas nullus exponendas sumpserat.</s>
+				<s n="9" lang="la" state="auto">Has cum <persName ref="8459">Otho</persName><fl>12</fl> sibi delegisset vel <persName ref="8126">Oporini</persName> hortatu impulsus suscepisset nec tam brevi temporis curriculo, quod volebat, exequi posset, meum petiit auxilium, rationem modumque tractandi deliniavit.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Duas ergo posteriores De lege agraria orationes (nam prior mutila est) delegi<fl>13</fl>.</s>
+				<s n="11" lang="la" state="auto">Cum vero vix decem duodecimve dierum spatium mihi esset et ob id nec diligentiam summam adhibere nec multum temporis in rhetorum praeceptis evolvendis insumere possem, nomen proprium supprimere fictitiumque supponere optimum esse et ego et <persName ref="8459">Otho</persName> duximus; nam idem et ipse fecit<fl>14</fl>.</s>
+				<s n="12" lang="la" state="auto">Sic enim nec, quis author sit, scitur, et ubi plus otii fuerit, eas recognoscere et mihi vendicare licet.</s>
+				<s n="13" lang="la" state="auto">De aliis quibusdam proxime copiosius scribam.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">De epistola <persName ref="8049">Vadiani</persName><fl>15</fl> d. <persName ref="8418">Miconium</persName> Gryneumque conveni; quid illi acturi sint, nescio.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto">Habebis autem, ut opinor, ex <persName ref="8418">Miconii</persName> literis certiora de dissidio illo pestilentissimo<fl>16</fl>.</s>
+				<s n="16" lang="la" state="auto">Doctores creari volunt; metuendum, ne hoc efficiant, ut et schola et ecclesia veris doctoribus careat.</s>
+				<s n="17" lang="la" state="auto">Sed hęc deus iudicet.</s>
+				<s n="18" lang="la" state="auto">Sunt, qui dicant<fl>d</fl> <persName ref="4349">Carolstadium</persName> Tigurum rursus spirare; sed ego, quantum mihi<pb_scan n="2786v."/> iuditii inest, huiusmodi virum patriae pręesse nollem.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Nihil pręterea habeo, quod scribam, nisi si habes, quod in Angliam scribas, mitte per d. <persName ref="4466">Butlerum</persName>; est enim quidam mercator<fl>17</fl> <persName ref="8418">Myconio</persName> familiarissimus, qui <placeName ref="15">Antverpiam</placeName> brevi petet literasque se curaturum pollicitus est.</s>
+			</p>
+			<p>
+				<s n="20" lang="la" state="auto"><persName ref="4830">Adamus Phrygio</persName><fl>18</fl> nova iam experitur pharmaca.</s>
+				<s n="21" lang="la" state="auto">Proxima die dominica<fl>19</fl> ipsum conveniam; nam unius tantum horę itinere a <placeName ref="28">Basilea</placeName> abest<fl>20</fl>.<pb_edition start_of="147"/></s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Haec rogo, ut aequi bonique consulas.</s>
+				<s n="23" lang="la" state="auto">Salutabis meis verbis matrem<fl>21</fl> et uxorem<fl>22</fl> tuam, humanissimas matronas, et omnem liberorum coetum<fl>23</fl>.</s>
+				<s n="24" lang="la" state="auto">Vale, patrone charissime, et me, ut facis, amare pergito.</s>
+			</p>
+			<p>
+				<s n="25" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, ex aedibus d. <persName ref="8418">Miconii</persName>, 23. maii 1539.</s>
+				<s n="26" lang="la" state="auto">Tui observantissimus <persName ref="8011">Rodolphus<lb/> Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="27" lang="la" state="auto">Eruditione et pietate insigni viro d. Heinrycho Bullingero, patrono suo imprimis colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1274">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichungen von späterer Hand.</i></fn>
+			<fn ref="b"><i>vor</i> hunc <i>gestrichenes</i> u.</fn>
+			<fn ref="c">arbitror <i>am Rande nachgetragen.</i></fn>
+			<fn ref="d"><i>vor</i> dicant <i>gestrichenes</i> C.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten.</fn>
+			<fn ref="2"><persName ref="18379">Walter von Châtillon</persName>, Alexandreis (Manuskript); vgl. oben <link fk_file="11303">Nr. 1260</link>, 17f.</fn>
+			<fn ref="3">Ebenda.</fn>
+			<fn ref="4"><persName ref="6571">Coelius Sedulius</persName>, Carmen paschale; vgl. oben <link fk_file="11309">Nr. 1266</link>, 18-21; 1270, 12.</fn>
+			<fn ref="5">Das Werk erschien 1541 bei <persName ref="17826">Bartholomäus Westheimer</persName>; s. VD 16, S 5248 (vgl. auch die unfirmierte Ausgabe S 5247).</fn>
+			<fn ref="6">Ob eine lateinische oder eine deutsche Ausgabe der Chronik des <persName ref="7828">Burchard von Ursberg</persName> gemeint ist, bleibt offen; vgl. oben <link fk_file="11313">Nr. 1270</link>, 7-12.</fn>
+			<fn ref="7">Vigilius, Contra Eutychen; vgl. ebd., Z. 7.</fn>
+			<fn ref="8">Vgl. ebd., Anm. 5.</fn>
+			<fn ref="9"><persName ref="6927">Juan Luis Vives</persName>, De anima et vita libri tres; vgl. oben <link fk_file="11303">Nr. 1260</link>, 21f.</fn>
+			<fn ref="10">Zum Termin der <placeName ref="157">Frankfurter</placeName> Herbstmesse s. <bibl>HBBW</bibl> VI <link fk_file="10925">[Nr. 884]</link>, S. 406, Anm. 5.</fn>
+			<fn ref="11">Die von <persName ref="8126">Oporin</persName> herausgegebene Sammlung wurde im September 1539 bei <persName ref="7062">Robert Winter</persName> gedruckt; sie trägt den Titel "In omnes M. Tullii Ciceronis orationes, quot quidem extant, doctissimorum virorum lucubrationes ..." (s. <bibl>Index</bibl> Aureliensis, Catalogus librorum sedecimo saecub impressorum, 1. Teil, Bd. VIII, Baden-Baden 1989, S. 101).</fn>
+			<fn ref="12"><persName ref="8459">Otto Werdmüller</persName>.</fn>
+			<fn ref="13">AaO, Sp. 393-414.</fn>
+			<fn ref="14"><persName ref="8459">Werdmüller</persName> wählte als Pseudonym "<persName ref="8459">Myliander</persName> Tigurinus"; <persName ref="8011">Gwalthers</persName> Kommentare erschienen unter dem Namen "<persName ref="8011">Eubulus Dynaterus</persName>" (vgl. unten <link fk_file="11320">Nr. 1277</link>, 4-8).</fn>
+			<fn ref="15"><bibl>HBBW</bibl> VI, <link fk_file="10936">Nr. 894</link> (Teildruck); s. oben <link fk_file="11310">Nr. 1267</link>, 3-5; 1269, 1f.</fn>
+			<fn ref="16"><persName ref="8418">Myconius</persName> hatte bereits mehrfach vom Konflikt um die neuen Universitätsstatuten berichtet; vgl. oben <link fk_file="11307">Nr. 1264</link> und 1273.</fn>
+			<fn ref="17">Unbekannt.</fn>
+			<fn ref="18"><persName ref="4830">Adam Frey</persName>.</fn>
+			<fn ref="19">25. Mai (Pfingsten).</fn>
+			<fn ref="20" type="bio" fk_person="4830"><persName ref="4830">Frey</persName> hielt sich einige Zeit bei einem Arzt in <placeName ref="1738">Schliengen</placeName> (Kr. Lörrach, Baden-Württemberg) auf, wie den Akten des Verfahrens gegen seine Ehefrau zu entnehmen ist (s. Zürich StA, A 27. 159, Nr. 22).</fn>
+			<fn ref="21" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+			<fn ref="22" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="23">Vgl. oben <link fk_file="11260">Nr. 1217</link>, Anm. 46.</fn>
+		</num>
+	</footnotes>
+</file>

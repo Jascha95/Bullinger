@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12786" id_hbbw="2737" id_irg_sort="2737" id_sort="127370">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12786</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2737</arpa>
+		<scan_pages/>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26095" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26096" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12786">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">2</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19348">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="78" fk_place="474">St. Gallen KB</archive>
+				<signature>Ms 35 (VBS VI),217r.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="8998" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Blarer BW II, S. 558, Nr. 1389</entry>
+			</print>
+			<print id="12363" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2737, S. 76</entry>
+				<page>76</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="25">
+				<lang id="1" iso="de" count="22" p="88.0"/>
+				<lang id="5" iso="la" count="3" p="12.0"/>
+			</sentences>
+			<words count="171">
+				<lang id="1" iso="de" count="162" p="94.7"/>
+				<lang id="5" iso="la" count="9" p="5.3"/>
+			</words>
+			<chars count="823">
+				<lang id="1" iso="de" count="765" p="93.0"/>
+				<lang id="5" iso="la" count="58" p="7.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2737" page="76">
+		<div ref="1">
+			[1] In Eile. Die Sache [von <placeName ref="457">Konstanz</placeName>] steht gut. Die
+			<placeName ref="457">Konstanzer</placeName> sollen nur tapfer sein! In acht Tagen wird eine
+			Tagsatzung zu <placeName ref="21">Baden</placeName> stattfinden. Inzwischen verhandeln die
+			Zürcher mit den drei [protestantischen] Orten. Sobald <persName ref="8123">Georg [Müller]</persName>
+			[vom Treffen mit <persName ref="4082">Konrad Zwick</persName>] zurückgekehrt ist, wird man über das weitere Vorgehen
+			beraten. Alle zeigen sich entschlossen. Man soll jedoch auf Gott und nicht auf den Menschen vertrauen und
+			sich dem Kreuze unterstellen, komme Sieg oder Niederlage. Man flehe zu Gott!
+		</div>
+		<div ref="2">
+			[2] In <placeName ref="41">Bern</placeName> steht es sehr gut. Die
+			<placeName ref="41">Berner</placeName> wollen den [Abendmahls]streit abstellen und sind erneut
+			einer Meinung mit den Zürchern. Sie halten sich an ihre Disputation [von 1528] und verweisen des Landes, wer
+			dies nicht tut.
+		</div>
+		<div ref="3">
+			[3] Bullinger wünscht Informationen zur Lage in <placeName ref="1976">Augsburg</placeName>.
+		</div>
+		<div ref="4">
+			[4] [P.S.:] Heute, zwei Stunden vor Tagesanbruch, hielt man eine Ratssitzung ab.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2737" page="76">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="de" state="auto">In grosser yl.</s>
+				<s n="3" lang="de" state="auto">Die sach stat wol.<fl>1</fl></s>
+				<s n="4" lang="de" state="auto">Sind nun manlich<fl>2</fl> und trostlich!</s>
+				<s n="5" lang="de" state="auto">Gott wirt uns nitt lassen!</s>
+				<s n="6" lang="de" state="auto">Von hüt über 8 tag wirt ein gemeiner tag gen <placeName ref="21">Baden</placeName>.<fl>3</fl></s>
+				<s n="7" lang="de" state="auto">Mittler zyt handlend min herren mitt den 3 orten<fl>4</fl> besonders.</s>
+				<s n="8" lang="de" state="auto">So m. Joͤrg<fl>5</fl> heim kumpt, wirt man dann wyter luͦgen<fl>6</fl>, was ze thuͦn.</s>
+				<s n="9" lang="de" state="auto">Gott hab lob!</s>
+				<s n="10" lang="de" state="auto">Jederman ist dappffer.</s>
+				<s n="11" lang="de" state="auto">Doch soͤllend wir alein uff gott saͤhen, nitt uff fleisch,<fl>7</fl> und uns in das crütz gaͤben,<fl>8</fl> wir sigind oder werdint überwunden.</s>
+				<s n="12" lang="de" state="auto">Lassend uns gott trüwlich, trülich bitten!</s>
+				<s n="13" lang="de" state="auto">Gott mitt üch und den üwern allenn.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="14" lang="de" state="auto">Zuͦ <placeName ref="41">Bern</placeName> stat es seer wol.</s>
+				<s n="15" lang="de" state="auto">Sy woͤllend des spans mitt dem sac[ra]ment<fl>a</fl> nut me.<fl>9</fl></s>
+				<s n="16" lang="de" state="auto">Sind so wol mitt [un]s eins alls von anfang ye.</s>
+				<s n="17" lang="de" state="auto">Sy se[hen]d wider uff<fl>10</fl> <pb_edition start_of="77"/> disputatz.<fl>11</fl></s>
+				<s n="18" lang="de" state="auto">Die darwider thuͦnd, schickents vom land.<fl>12</fl></s>
+				<s n="19" lang="de" state="auto">Gott eewig mitt uns!</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="20" lang="de" state="auto">Ae,<fl>13</fl> wie stat es zuͦ <placeName ref="1976">Augspurg</placeName>?<fl>14</fl></s>
+				<s n="21" lang="de" state="auto">Mich belangt übel!<fl>15</fl></s>
+				<s n="22" lang="la" state="auto">Dominica 2. januarii, hora nona antemeridiana, 1547.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="23" lang="de" state="auto">Man hatt hüt 2 stund vor tag radt gehept.</s>
+				<s n="24" lang="la" state="auto">Bullinger.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="25" lang="de" state="auto">Sinem fürgeliepten und früntlichen herren und bruͦder m. <persName ref="8055">Ambrosio Blaureren</persName>, predicanten zuͦ <placeName ref="457">Costantz</placeName>.<fl>b</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2737">
+		<alpha>
+			<fn ref="a"><i>Hier und unten Textverlust bei der Entfernung des Siegels. Ergänzung anhand der Abschrift <persName ref="2979">Johann Jakob Simlers</persName> (<placeName ref="587">Zürich</placeName> ZB, Ms S 63, 6) mit Ausnahme der letzten Stelle, wo <persName ref="2979">Simler</persName> irrtümlich "sitzend" ergänzt.</i></fn>
+			<fn ref="b"><i>Daneben <persName ref="8055">Blarers</persName> Empfangsvermerk:</i> 4. ianuarii 1547.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">In Bezug auf das am Abfassungstag dieses Briefes stattfindende Treffen zwischen dem Zürcher Abgeordneten <persName ref="8123">Georg (Jörg) Müller</persName> und dem <placeName ref="457">Konstanzer</placeName> Ratsherrn <persName ref="4082">Konrad Zwick</persName> in <placeName ref="489">Stein am Rhein</placeName>. Es ging darum, die <placeName ref="457">Konstanzer</placeName> von einer Einigung mit <persName ref="18538">Kaiser Karl V.</persName> abzuhalten; s. <bibl>HBBW</bibl> XVIII, <link fk_file="12780">Nr. 2731</link>f.</fn>
+			<fn ref="2">Sind nun manlich: Seid nur tapfer.</fn>
+			<fn ref="3">Die Tagsatzung wurde für den 10. Januar nach <placeName ref="21">Baden</placeName> einberufen; s. <bibl>EA</bibl> IV/1d 753- 763.</fn>
+			<fn ref="4">Basel, <placeName ref="41">Bern</placeName>, Schafthausen. - <persName ref="8055">Blarers</persName> Vorschlag zufolge <i>(HBBW</i> XVIII, <link fk_file="12780">Nr. 2731</link>, vom 30. Dezember 1546) sollten die vier protestantischen Orte den Konstanzern ein zinsloses Darlehen anbieten und diesen garantieren, dass sie ihnen im Falle eines kaiserlichen Angriffs zu Hilfe kommen würden, solange sie niemanden zum Nachteil der Eidgenossen durch ihre Stadt passieren lassen und den Feind nicht unterstützen; s. aaO, 460,46-56; 462f, 108-136.</fn>
+			<fn ref="5">Der Ratsherr und Obristmeister <persName ref="8123">Georg Müller</persName>.</fn>
+			<fn ref="6">schauen.</fn>
+			<fn ref="7">D.h. auf den Menschen; vgl. Gal 1, 16.</fn>
+			<fn ref="8">uns in das crütz gäben: das Kreuz auf uns nehmen; vgl. <bibl>SI</bibl> II 74; und Mt 10, 38; 16. 24, par.</fn>
+			<fn ref="9">Zur gespaltenen religiösen Lage in <placeName ref="41">Bern</placeName> s. <bibl>HBBW</bibl> XIV 17.</fn>
+			<fn ref="10">Sy sehend uff: sie achten auf (im Sinne von: sie halten sich an); vgl. <bibl>SI</bibl> VII 525. 549.</fn>
+			<fn ref="11">Die <placeName ref="41">Berner</placeName> Disputation vom Januar 1528.</fn>
+			<fn ref="12">schickents vom land: verweisen sie des Landes; s. <bibl>SI</bibl> VIII 505. -Anspielung auf die Ausweisung des Lehrers <persName ref="5047">Thomas Grynäus</persName> und dessen Schülers <persName ref="7178">Peter Zeller</persName> aus <placeName ref="41">Bern</placeName>; s. zuletzt <bibl>HBBW</bibl> XVIII 368, Anm. 30; 369, Anm. 3; 381f,35-38.</fn>
+			<fn ref="13">Interjektion der Bitte, Aufforderung, usw.; s. <bibl>SI</bibl> I 3.</fn>
+			<fn ref="14">Nachdem sich etliche süddeutsche Städte dem Kaiser unterworfen hatten, überlegte auch <placeName ref="1976">Augsburg</placeName>, in Friedensverhandlungen mit ihm einzutreten; s. <bibl>HBBW</bibl> XVIII, 431,9-16. 28-30.</fn>
+			<fn ref="15">Mich belangt übel: Ich warte ungeduldig (auf Nachrichten); s. <bibl>SI</bibl> III 1334.</fn>
+		</num>
+	</footnotes>
+</file>

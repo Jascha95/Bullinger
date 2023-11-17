@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11265" id_hbbw="1222" id_irg_sort="1222" id_sort="112220">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11265</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1222</arpa>
+		<scan_pages>
+			<scan id="26208" dir="11265/Autograph/" page="1">00 E_II_359__fol__2790_r_.tif</scan>
+			<scan id="26209" dir="11265/Autograph/" page="2">01 E_II_359__fol__2790_v_.tif</scan>
+			<scan id="26210" dir="11265/Autograph/" page="3">02 E_II_359__fol__2790_a_r_.tif</scan>
+			<scan id="26211" dir="11265/Autograph/" page="4">03 E_II_359__fol__2790_a_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22850" vf="1" fk_add_type="1">
+				<person id="8459" fk_id="8459">
+					<name>Werdmüller (Myliander)</name>
+					<forename>Otto</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22851" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11265">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">30</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17739">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2790r.-v.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11179" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1222, S. 48</entry>
+				<page>48</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="25">
+				<lang id="5" iso="la" count="25" p="100.0"/>
+			</sentences>
+			<words count="400">
+				<lang id="5" iso="la" count="400" p="100.0"/>
+			</words>
+			<chars count="2419">
+				<lang id="5" iso="la" count="2419" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1222" page="48">
+		<div ref="1">
+			Gibt auf Bullingers freundliches Schreiben hin gerne Bericht über seine Tätigkeit. Liest mit den ihm
+			anvertrauten Knaben täglich <persName ref="19947">Herodian</persName> auf griechisch,
+			<persName ref="4544">Ciceros</persName> „De officiis“, die Grammatik
+			<persName ref="4530">Ceporins</persName> und die „Syntax“ von
+			<persName ref="18722">Erasmus</persName>. Hört Vorlesungen bei
+			<persName ref="1365">Grynäus</persName>, <persName ref="8126">Oporin</persName> und beim eben
+			nach <placeName ref="28">Basel</placeName> zurückgekehrten [Hieronymus] Gemusäus; hat sich das
+			Studium der Hebräischgrammatik von <persName ref="8171">Theodor [Bibliander]</persName> und der biblischen Bücher vorgenommen. Wäre sehr dankbar,
+			wenn Bullinger auf Wermüllers Vater einwirken würde, damit er dringend benötigte Bücher - von
+			[<persName ref="1365">Grynäus</persName>], <persName ref="4498">Calepino</persName>,
+			<persName ref="4646">Dolet</persName>, <persName ref="18361">Livius</persName>,
+			<persName ref="18700">Augustin</persName>, <persName ref="18581">Plato</persName> und
+			<persName ref="19013">Demosthenes</persName> - anschaffen kann. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1222" page="48">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Quod me prior adpellas literis, humanissime pater, abunde satis animum erga me tuum ostendis vere paternum, etsi iam olim de tua benevolentia minime dubitabam.</s>
+				<s n="3" lang="la" state="auto">Ideoque merito nomen tuum in domino veneror, qui cum tanta eloquentia, eruditione, fide ac religione coniungis insignem humanitatem et amorem in me caeterosque studiosos.</s>
+				<s n="4" lang="la" state="auto">De meis itaque rebus ad te scribo non solum, quod ex offitio tibi superiori debeo, sed ex animo tibi alteri patri cupio notas esse, quarum te libenter accipio ducem et gubernatorem omnium.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Quotidie bis ego praelego pueris fidei meae commissis <persName ref="19947">Herodianum</persName> Gręce<fl>1</fl> et Officia <persName ref="4544">Ciceronis</persName><fl>2</fl>, Grammaticam <persName ref="4530">Ceporini</persName><fl>3</fl> et Syntaxim <persName ref="18722">Erasmi</persName><fl>4</fl>, et<pb_edition start_of="49"/> quod interdiu didicerunt, a coena reposco.</s>
+				<s n="6" lang="la" state="auto">Singulis quoque diebus audio d. <persName ref="1365">Gryneum</persName>, qui nobis rhetoricam <persName ref="19279">Hermogenis</persName><fl>5</fl> interpretatur, et ne plane sim rudis historiarum, audio <persName ref="18582">Plutarchi</persName> vitas<fl>6</fl> Gręce <persName ref="8126">Oporino</persName> praelegente.</s>
+				<s n="7" lang="la" state="auto">Rediit his diebus et doctor <persName ref="4924">Gemuseus</persName><fl>7</fl>, qui perget in posterioribus analyticis<fl>8</fl>, vir in omni genere disciplinarum exercitatissimus; huius lectionem inprimis admiror omniumque minime soleo negligere.</s>
+				<s n="8" lang="la" state="auto">Proposui et grammaticam hebraicam <persName ref="8171">Theodori</persName><fl>9</fl> nostri horasque destinavi sacris literis, ut praecipuorum locorum in theologia tota rationem et demonstrationem aliquo modo cognoscam et in iis etiam alios aliquando possim erudire.</s>
+				<s n="9" lang="la" state="auto">Nec enim est<fl>a</fl> ulla doctrina, quae conscientiam adeo quietam efficiat ipsique deo conciliet.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Haec sunt studia mea, quibus equidem solis addictus sum, nihilque fere temporis ad exercitium stili superest.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Conqueror autem apud te, humanissime pater, quod ingenti librorum inopia laboro, aeris alieni magnitudine premor.</s>
+				<s n="12" lang="la" state="auto">Interea parens<fl>10</fl> abominatur, quos faciam, sumptus, cum ego mihi videar maxime frugalis.</s>
+				<s n="13" lang="la" state="auto">Rescripsi<fl>11</fl> me tibi significaturum libros, quibus carere non possim: Deest mihi Lexicon illud recens <persName ref="3906">Valderi</persName><fl>12</fl>; meum etenim vetus parum satisfacit.</s>
+				<s n="14" lang="la" state="auto">Deest <persName ref="4498">Calepinus</persName> novus<fl>13</fl>, nec enim habeo nisi veterrimum.</s>
+				<s n="15" lang="la" state="auto">Deest uterque <persName ref="4646">Doleti</persName> tomus de<pb_edition start_of="50"/> commentariis linguae <persName ref="4646" state="auto_name">Latinae</persName><fl>14</fl>.</s>
+				<s n="16" lang="la" state="auto">Titum <persName ref="18361">Livium</persName><fl>15</fl> habui nunquam.</s>
+				<s n="17" lang="la" state="auto">His quinque voluminibus emendis, quibus iam olim indigeo, vix 10 floreni sufficiant.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Omitto d[ivi] <persName ref="18700">Augustini</persName> opera<fl>16</fl>, <persName ref="18581">Platonem</persName> Latinum et Gręcum<fl>17</fl>, <persName ref="19013">Demosthenem</persName><fl>18</fl> etc.</s>
+				<s n="19" lang="la" state="auto">Sed his omnibus ego mederi possem, si Froschouero vel dimidium aeris alieni persolveret parens, quod sane tu solus ab eo facile impetrabis; nam et solus authoritate nomineque prudentiae et pietatis apud eum vales.</s>
+				<s n="20" lang="la" state="auto">Ergo pro tua immensa bonitate respicias obedientissimum filium tuum Othonem, quem hucusque semper amore singulari prosecutus es et qui omnia sua studia non alio diriget quam ad gloriam dei patriaeque utilitatem.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Salvam volo familiam tuam, d. <persName ref="8127">Pellicanum</persName>, d. <persName ref="8171">Theodorum</persName><fl>19</fl>, d. Ammanium et reliquos omnes.<pb_edition start_of="51"/></s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, 1539, 30. ianuarii.</s>
+			</p>
+			<p>
+				<s n="23" lang="la" state="auto"><persName ref="8459">Otho Werdmüller[us]</persName><fl>b</fl>, tui amantissi[mus]<fl>c</fl>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf fol. 2790a v.:]</note>
+				<s n="24" lang="la" state="auto">Clarissimo viro domino Henrico Bullingero, domino ac patri suo in primis colendo.</s>
+				<s n="25" lang="la" state="auto">Tiguri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1222">
+		<alpha>
+			<fn ref="a">est <i>vom Schreiber über der Zeile nachgetragen.</i></fn>
+			<fn ref="b-c"><i>Textverlust wgen Beschädigung des Papierrandes.</i></fn>
+			<!-- Splits -->
+			<fn ref="b"><i>Textverlust wgen Beschädigung des Papierrandes.</i></fn>
+			<fn ref="c"><i>Textverlust wgen Beschädigung des Papierrandes.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Gemeint ist die Kaisergeschichte des im 2./3. Jahrhundert in <placeName ref="425">Rom</placeName> lebenden griechischen Historikers <persName ref="19947">Herodian</persName> (vgl. <bibl>LAW</bibl> 1277), die 1534 und wieder 1535 griechisch bei <persName ref="3906">Johann Walder</persName> erschienen war (vgl. VD 16, H 2495f).</fn>
+			<fn ref="2">Von <persName ref="4544">Ciceros</persName> "De officiis" lagen bereits zahlreiche Ausgaben vor (VD 16, C 3151-3231).</fn>
+			<fn ref="3" type="bio" fk_person="6384">Ceporins "Compendium grammaticae graecae" war erstmals 1522 bei <persName ref="6384">Valentin Curio</persName> in <placeName ref="28">Basel</placeName> erschienen. - <persName ref="4530">Jakob Ceporin (Wiesendanger)</persName>, von <placeName ref="1717">Dinhard</placeName> (Kt. Zürich), 1499/1500-1525, studierte nach der Absolvierung der Lateinschule in <placeName ref="555">Winterthur</placeName> an den Universitäten <placeName ref="267">Köln</placeName>, <placeName ref="546">Wien</placeName> und <placeName ref="231">Ingolstadt</placeName>. Nach 1520 war er in wechselnden Stellungen, v. a. im Dienste von Basler Buchdruckern und als Lehrer in Zürich, tätig. Im Juni 1525 wurde er als Professor für Griechisch und Hebräisch an <persName ref="4091">Zwinglis</persName> Theologenschule berufen. Seine Griechisch-Grammatik erlebte zahlreiche Auflagen und war noch im 18. Jahrhundert im Gebrauch. - Lit.: Emil <i>Egli,</i> Ceporins Leben und Schriften, in: <i>Egli,</i> Analecta II 145-160: Christoph <i>Riedweg,</i> Ein Philologe an <persName ref="4091">Zwinglis</persName> Seite. Zum 500. Geburtstag des Zürcher Humanisten Jacob Wiesendanger, gen. Ceporinus (1500-1525), in: Museum Heiveticum 57, 2000, S. 201-219; Wyss 4, Anm. 1; <bibl>Z</bibl> VII 353f, Anm. 3; <bibl>HBLS</bibl> VII 523.</fn>
+			<fn ref="4">Gemeint ist das von <persName ref="18722">Erasmus</persName> überarbeitete und 1515 in <placeName ref="28">Basel</placeName> unter dem Titel "De octo orationis partium constructione libellus" publizierte Werk des englischen Humanisten <persName ref="5664">William Lilye</persName> (Opera omnia Desiderii Erasmi Roterodami, Bd. 1/4, Amsterdam 1973, S. 105-143).</fn>
+			<fn ref="5" type="bio" fk_person="19279">Zu den Ausgaben der rhetorischen Schriften von <persName ref="19279">Hermogenes</persName> im frühen 16. Jh. s. VD 16, H 2476 und 2478-2480. - <persName ref="19279">Hermogenes von Tarsos</persName> wirkte im ausgehenden 2. Jh. n. Chr. als Sophist und Redelehrer in <entity id="31" type="geo_region">Kilikien</entity>. Seine rhetorischen Schriften fanden im Schulbetrieb lange Verwendung (vgl. <bibl>LAW</bibl> 1273).</fn>
+			<fn ref="6">Gemeint sind <persName ref="18582">Plutarchs</persName> "Vitae parallelae"; zur griechischen Basler Ausgabe 1534 von <persName ref="4581">Andreas Cratander</persName> und <persName ref="4261">Johann Bebel</persName> vgl. VD 16. P 3756.</fn>
+			<fn ref="7"><persName ref="4924">Hieronymus Gemusäus (Gschmus, Gmües)</persName>, von <placeName ref="335">Mülhausen</placeName>, 1505-1544, promovierte - nach seiner Ausbildung in <placeName ref="335">Mülhausen</placeName> und <placeName ref="452">Schlettstadt</placeName> sowie Studien in <placeName ref="28">Basel</placeName> (Baccalaureus 1525, Magister artium 1526) und <placeName ref="378">Paris</placeName> - 1533 in <placeName ref="1291">Turin</placeName> zum Doktor der Medizin. Gemusäus, mit <persName ref="6117">Thomas Platter</persName>, <persName ref="18722">Erasmus</persName> u. a. befreundet und von 1529 an der Reformation zugeneigt. wurde 1537 Professor der Medizin an der Universität <placeName ref="28">Basel</placeName>. In seinen Publikationen beschäftigte er sich mit <persName ref="6144">Ptolemäus</persName>, <persName ref="19957">Strabo</persName>, Galen und <persName ref="18432">Aristoteles</persName>. - Lit.: Auguste <i>Stoeber,</i> Jérôme Gemuseus, 2. Aufl., <placeName ref="335">Mülhausen</placeName> 1881; Raymond <i>Oberlé,</i> Hieronymus Gschmus (Gemuseus), in: Nouveau dictionnaire de biographie alsacienne, Nr. 14, Straßburg 1989, S. 1315f; Peter G. <i>Bietenhoiz,</i> in: <bibl>Contemporaries</bibl> II 86.</fn>
+			<fn ref="8">Die "Zweiten Analytiken" von <persName ref="18432">Aristoteles</persName> behandeln die Theorie des Wissens und der Wissenschaften, vgl. Dorothea <i>Frede,</i> in: <bibl>DNP</bibl> I 1138.</fn>
+			<fn ref="9"><persName ref="8171">Theodor Bibliander</persName>, Institutionum grammaticarum de lingua hebraea liber unus, Zürich (<persName ref="1227">Froschauer</persName>) 1535; <bibl>BZD</bibl> C 236.</fn>
+			<fn ref="10"><persName ref="7018">Heinrich Werdmüller</persName>, 1480-1548 (vgl. <bibl>HBLS</bibl> VII 487).</fn>
+			<fn ref="11">Nicht erhalten.</fn>
+			<fn ref="12">Gemeint ist das von <persName ref="1365">Grynäus</persName> herausgegebene, 1539 bei <persName ref="3906">Johann Walder</persName> gedruckte "Lexicon graecum" (VD 16, L 1403).</fn>
+			<fn ref="13">Das "Dictionarium" oder "Lexicon" von Calepino, seit 1510 immer wieder aufgelegt (VD 16, C 226-239), war zuletzt im Jahr 1538 bei <persName ref="3906">Johann Walder</persName> in <placeName ref="28">Basel</placeName> erschienen (VD 16, C 240). - Ambrogio (eigtl. Giacomo) Calepino, ca. 1435 bis ca. 1510, aus Bergamo, seit 1458 Augustifler, lebte - nach Aufenthalten in Mailand, Mantua, Cremona und Brescia - von 1466 an in Bergamo, gänzlich seinen Studien hingegeben. Das "Dictionarium" wurde zu seinem wichtigsten und erfolgreichsten Werk. - Lit.: G. <i>Soldi Rondinini</i> und T. de <i>Mauro,</i> Dizionario biografico degli Italiani, Bd. 16, Rom 1973, S. 669f; Albert <i>Labarre,</i> Bibliographie du dictionarium d'<persName ref="4498">Ambrogio Calepino</persName> 1502-1779, Baden-Baden 1975. - Bibliotheca bibliographica Aureliana, 26; Thomas B. <i>Deutscher,</i> in: <bibl>Contemporaries</bibl> I 244.</fn>
+			<fn ref="14" type="bio" fk_person="4646"><persName ref="4646">Etienne Dolet</persName>, Commentariorum linguae latinae ... epitome duplex, <placeName ref="28">Basel</placeName> (<persName ref="6117">Thomas Platter</persName>) 1537, und Tomus secundus cornmentariorum de latina lingua, <placeName ref="28">Basel</placeName> (<persName ref="17826">Bartholomäus Westheimer</persName>) 1539 (VD 16, D 2153 und D 2154). - <persName ref="4646">Etienne Dolet</persName>, 1508-1546, von <placeName ref="367">Orléans</placeName>, studierte bis 1530 in <placeName ref="378">Paris</placeName> und <placeName ref="377">Padua</placeName>, war anschließend Sekretär des französischen Gesandten in <placeName ref="522">Venedig</placeName> und studierte ab 1532 die Rechte in <placeName ref="1250">Toulouse</placeName>. Von 1534 an arbeitete er als Korrektor in der Offizin des <persName ref="5048">Sebastian Gryphius</persName> in <placeName ref="301">Lyon</placeName>. Bei Gryphius erschienen vorerst seine eigenen Werke - etwa die "Commentarii linguae latinae" (1536, 1538) -, doch ab 1539 druckte er selbst zahlreiche "häretische" Werke (u. a. Schriften von <persName ref="18722">Erasmus</persName>). In einem ersten Häresieverfahren 1542-1543 wurde er begnadigt, in einem weiteren Prozeß 1544-1546 zum Tode verurteilt. - Lit.: R. C. <i>Christie,</i> <persName ref="4646">Etienne Dolet</persName>, the Martyr of the Renaissance, London 1899; Claude <i>Longeon,</i> <persName ref="4646">Etienne Dolet</persName>, in: Bibliotheca dissidentium. Répertoire des non-conformistes religieux des seizième et dix-septième siècles, hg. v. André Séguenny, Baden-Baden 1984. - Bibliotheca bibliographica Aureliana, 95, S. 53-98; Etudes sur <persName ref="4646">Etienne Dolet</persName>, le théâtre au XVIe siècle, le Forez, le Lyonnais et l'histoire du livre, hg. v. Gabriel-André Perouse, Genf 1993. - Travaux d'Humanisme et Renaissance CCLXX; Judith <i>Rice Henderson,</i> in: <bibl>Contemporaries</bibl> I 394-396.</fn>
+			<fn ref="15">Gemeint sind <persName ref="18361">Livius</persName>' Werke zur römischen Geschichte, die bereits in mehreren Ausgaben vorlagen (s. VD 16, L 2090-2095).</fn>
+			<fn ref="16">Zu den Werkausgaben <persName ref="18700">Augustins</persName> von <persName ref="4172">Johann Amerbach</persName>, <persName ref="9729">Johannes Petri</persName> und <persName ref="18129">Johann Froben</persName> 1506 sowie derjenigen von <persName ref="18129">Johann Froben</persName> 1528/29 vgl. VD 16, A 4147 und 4148.</fn>
+			<fn ref="17">Werkausgaben <persName ref="18581">Platos</persName> waren 1532 bei <persName ref="8353">Hieronymus Froben</persName> und <persName ref="4715">Nikolaus Episcopius</persName> lateinisch und 1534 bei <persName ref="3906">Johann Walder</persName> griechisch erschienen (VD 16, P 3277 und 3275).</fn>
+			<fn ref="18">1532 war die erste Werkausgabe von <persName ref="19013">Demosthenes</persName> griechisch bei <persName ref="5213">Johann Herwagen</persName> erschienen (VD 16, D 484).</fn>
+			<fn ref="19"><persName ref="8171">Theodor Bibliander</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

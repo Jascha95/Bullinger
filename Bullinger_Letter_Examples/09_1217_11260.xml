@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11260" id_hbbw="1217" id_irg_sort="1217" id_sort="112170">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11260</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1217</arpa>
+		<scan_pages>
+			<scan id="26194" dir="11260/Autograph/" page="1">00 E_II_359__fol__2773_r_.tif</scan>
+			<scan id="26195" dir="11260/Autograph/" page="2">01 E_II_359__fol__2773_v_.tif</scan>
+			<scan id="26196" dir="11260/Autograph/" page="3">02 E_II_359__fol__2774_r_.tif</scan>
+			<scan id="26197" dir="11260/Autograph/" page="4">03 E_II_359__fol__2774_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22840" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="491" vf="1" fk_id="491" long="7.7507127" lat="48.584614">Straßburg</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22841" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11260">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">25</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17734">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2773r.–2774r.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11164" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1217, S. 35</entry>
+				<page>35</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="43">
+				<lang id="1" iso="de" count="1" p="2.3"/>
+				<lang id="5" iso="la" count="42" p="97.7"/>
+			</sentences>
+			<words count="921">
+				<lang id="1" iso="de" count="15" p="1.6"/>
+				<lang id="5" iso="la" count="906" p="98.4"/>
+			</words>
+			<chars count="5514">
+				<lang id="1" iso="de" count="89" p="1.6"/>
+				<lang id="5" iso="la" count="5425" p="98.4"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1217" page="35">
+		<div ref="1">
+			Erbittet dringend Antwort bezüglich seines Weiterstudiums, da er die Gelegenheit,
+			<persName ref="2553">Martin Peyer</persName> nach
+			<placeName ref="558">Wittenberg</placeName> zu begleiten, nicht verpassen möchte.
+			<persName ref="467">Bucer</persName> ist am 21. Januar mit Neuigkeiten zurückgekehrt, doch
+			<persName ref="8011">Gwalther</persName> weiß noch nichts Näheres. Im Auftrag
+			<persName ref="315">Bedrots</persName> berichtet er über eine von
+			[<persName ref="4460">Franz Burchart</persName>] geleitete hessischsächsische Gesandtschaft nach
+			<entity id="9" type="geo_country">England</entity>, die reich beschenkt wurde;
+			<persName ref="6122">Reginald Poles</persName> Bruder [Henry]
+			hat eine Verschwörung angezettelt, worauf die Schuldigen hingerichtet wurden, wie angeblich auch der Bischof
+			von <placeName ref="296">London</placeName>; die Könige
+			[<persName ref="18519">Jakob V.</persName>] von <entity id="26" type="geo_country">Schottland</entity>
+			und [<persName ref="18505">Heinrich VIII.</persName>] von
+			<entity id="9" type="geo_country">England</entity> haben Frieden geschlossen und streben durch
+			Heiratspolitik eine Verbindung an. Angesichts militärischer und diplomatischer Vorstöße der Türken wird
+			allgemein mit Krieg gerechnet. <persName ref="3088">[Johannes?] Sturm</persName> fordert im Namen der
+			<placeName ref="492">Straßburger</placeName> Kirche öffentliche Rechenschaft von
+			<persName ref="6369">Erasmus Sarcerius</persName> für dessen Vorwürfe gegen
+			<persName ref="4926">Nikolaus Gerbel</persName>. <persName ref="8011">Gwalther</persName> wird
+			besonders durch <persName ref="5203">Christian Herlin</persName> gefördert, der ihn auch privat
+			unterrichtet. Hat noch keinen Boten für den Brief an <persName ref="8422">Nicholas [Partridge]</persName> gefunden. Bullinger soll
+			<persName ref="3958">Stephan Willi</persName> mahnen, <persName ref="8011">Gwalthers</persName>
+			Lautentabulatur zurückzusenden. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1217" page="35">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Literas tuas expecto quotidie, patrone humanissime, quibus me certiorem fieri cuperem, quid nam mihi ad proximas Frankfordianas nundinas<fl>1</fl> agendum sit quove commigrandum.</s>
+				<s n="3" lang="la" state="auto">Animi mei desyderium ex proximis ad te datis literis<fl>2</fl>, ut opinor, intellexisti<fl>b</fl>; tuum de hac re consilium scire cuperem, cuius desyderio nunc adeo teneor, ut nihil mihi gratius contingere posse videatur tuis literis, quae tui animi sententiam mihi testarentur.</s>
+				<s n="4" lang="la" state="auto">Quamobrem te rogo, Moecenas<fl>3</fl> charissime, ut, quam primum fieri potest, animum meum inter spem metumque pendentem<fl>4</fl> scriptis tuis releves.</s>
+				<s n="5" lang="la" state="auto">Recepit <persName ref="2553">Martinus Beyer</persName><fl>5</fl> a suis literas<fl>6</fl>, qui illi liberam abeundi faciunt copiam; hic autem hoc nunc unum cupit, ut me sui itineris habeat comitem<fl>c</fl>.</s>
+				<s n="6" lang="la" state="auto">Tu, quęso, effice, ut charissimo amico et suavissimo sodali, quo hactenus fratris loco usus sum, comitatus <placeName ref="558">Vitembergensem</placeName> scholam invisere possim.</s>
+				<s n="7" lang="la" state="auto">Occasio mihi est<pb_edition start_of="36"/> (quantum ego coniicere possum) commodissima; hanc ne transire sinamus, vęhementer obsecro.</s>
+				<s n="8" lang="la" state="auto">Quid enim ad tanti itineris pericula et tędium sublevandum commodius esse potest quam amicus fidelissimus, cui non modo tua, sed etiam teipsum tuto credere possis.</s>
+				<s n="9" lang="la" state="auto">Accedit etiam aliud longe maximum emolumentum, quod et antea eiusdem schola sectator existens optime nunc novit calletque, quo nam modo et studiorum et victus ratio ibi nobis instituenda sit.</s>
+				<s n="10" lang="la" state="auto">Quod vero sumptus attinet, quorum luxuriam plęrique obiiciunt, maiores non erunt quam alibi, nisi quod <placeName ref="28">Basileae</placeName> quidem minores erunt, interim vero studiis meis non usque adeo secundi.</s>
+				<s n="11" lang="la" state="auto">Te autem denuo rogo, patrone amantissime, quoniam tu solus es, qui mihi orphano consilii auxiliique copiam fecisti et facis hactenus, ut diligenter, quae in rem meam sint, consyderes, et si unquam <persName ref="8011">Rodolphi</persName> tui curam habuisti diligentissimam, hoc nunc concedas (si saltem e re mea esse videbitur), ut charissimi sodalis, quo nunc inter exteros chariorem habeo neminem, comes esse possim.</s>
+				<s n="12" lang="la" state="auto">Verum si alia tua fuerit sententia, age, quodcunque tu consulueris, exequar; hoc saltem cures, obsecro, ut quam brevissimo tempore tuum de hac re responsum habere possim.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Rediit ad nos 21. ianuarii <persName ref="467">Bucerus</persName><fl>7</fl>, qui multa nova attulit, quorum tamen omnium cognitio nondum ad aures meas pervenit.</s>
+				<s n="14" lang="la" state="auto">Hęc autem d. <persName ref="315">Bedrotus</persName>, ut tibi scribam, mandavit: In Angliam missi fuerunt landgravii<fl>8</fl> et <persName ref="19065">Saxoniae</persName> ducis<fl>9</fl> auspitio quatuor legati<fl>10</fl>, quorum primus fuit <persName ref="4460">Franciscus</persName> <placeName ref="537">Vinariensis</placeName><fl>11</fl>, vicecancellarius <persName ref="19065">Saxoniae</persName> ducis, qui longa disputatione cum Anglo-<pb_scan n="2773v."/>rum sophistis habita tandem honoribus muneribusque honerati, imo onerati dimissi sunt.</s>
+				<s n="15" lang="la" state="auto"><persName ref="18505" state="auto_name">Rex</persName><fl>12</fl> enim ipse saepius cum his collocutus varios de ecclesiae reformatione sermones contulit, tandem singulos quingentorum angelatorum<fl>13</fl> munere donatos dimisit.</s>
+				<s n="16" lang="la" state="auto">Interea vero nova quędam coniuratio deprehensa est, quam<fl>d</fl> Rheynaldi <entity id="24" type="geo_country">Poli</entity><fl>14</fl> frater<fl>15</fl> fratris consilio contra regem<pb_edition start_of="37"/> machinatus est, ut ecclesiae reformationem inhibere papisticamque tyrannidem in pristinam dignitatis sedem restituere posset.</s>
+				<s n="17" lang="la" state="auto">Hic vero cum aliis eius consilii consortibus dignas regi poenas dedit<fl>16</fl>.</s>
+				<s n="18" lang="la" state="auto"><placeName ref="296">Londoniensis</placeName> quoque episcopus, ut fama est, qui ante aliquot menses in carceres coniectus est, nunc capitis supplitium subire coactus est<fl>17</fl>.</s>
+				<s n="19" lang="la" state="auto">Procedit in Brittanico regno Christi negotium strenue, favet rex piis egregie et in boni vereque pii principis offitio non cessat.</s>
+				<s n="20" lang="la" state="auto">Inter <entity id="26" type="geo_country">Scotum</entity><fl>18</fl> Anglumque pax firma et rata est<fl>19</fl>, ut etiam <entity id="26" type="geo_country">Scotiae</entity> rex filiam suam in <entity id="3002" type="geo_region">Anglorum</entity> regis gynecęum ablegarit<fl>20</fl>.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Displicet hoc regis institutum aliis principibus maxime aiuntque Gallorum regem<fl>21</fl>, cum hęc ei recitarentur, dixisse <entity id="3002" type="geo_region">Anglorum</entity> regem talem se praestare in omnibus, qualiter hii solent, qui imperio eiici cupiunt et regni administratione defatigati illud abiicere vel amittere desyderant.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Bellum apud nos nemo non expectat.</s>
+				<s n="23" lang="la" state="auto">Turcarum copias et vires omnes metuunt; hi etenim incursione nova facta ex <persName ref="18477">Ungaria</persName> plurimas regiones vastarunt et cępere<fl>22</fl>.</s>
+				<s n="24" lang="la" state="auto">Nunc in hoc est <persName ref="18593" state="auto_name">Soleymanus</persName><fl>23</fl>, ut certis conditionibus a Poloniae rege<fl>24</fl> liberum per eius regnum transitum nancisci possit<fl>25</fl>.</s>
+				<s n="25" lang="la" state="auto">Conveniunt etiam <placeName ref="546">Viennę</placeName> proxime cęsaris<fl>26</fl>, <persName ref="18477">Ferdinandi</persName> Turcaeque legati de indutiis belli acturi<fl>27</fl>.</s>
+				<s n="26" lang="la" state="auto"><placeName ref="522">Venetos</placeName> etiam vexari Turcarum incursionibus te non<pb_edition start_of="38"/> latere arbitror<fl>28</fl>.</s>
+				<s n="27" lang="la" state="auto">Quare nunc scribendi modum constituam, si unum saltem adiecero, cuius relatione te exhileratum iri<fl>e</fl> credo.</s>
+			</p>
+			<p>
+				<s n="28" lang="la" state="auto">Dabit nunc cynicae suę impudentiae poenas, ut spero, condignas <persName ref="6369">Erasmus Sarcerius</persName><fl>29</fl>, qui in Rhetorica<fl>30</fl> sua illa perquam egregia scilicet, in qua Zvinglianos carpit sęvisque lacerat convitiis<fl>31</fl>, etiam optimum senem et doctissimum virum <persName ref="4926">Nicolaum Gerbelium</persName><fl>32</fl>, <placeName ref="492">Argentinensis</placeName> urbis civem, sacrilegii<pb_edition start_of="39"/> accusat, ita etiam defendit, ut ad minimum furtum esse affirmet<fl>33</fl>.</s>
+				<s n="29" lang="la" state="auto">Hic vero, ut hęc ad eum pervenerunt, summa animi acerbitate perculsus indignari ac fremere cępit, tum aliorum <placeName ref="492">Argentinensis</placeName> ecclesiae ministrorum consilia imploravit.</s>
+				<s n="30" lang="la" state="auto">Hi vero communi omnium decreto epistolam et doctam et gravem a <persName ref="6733">Sturmio</persName> conscribi curarunt<fl>34</fl>, quam ad ipsum <persName ref="6369">Sarcerium</persName> per proprium miserunt tabellarium<fl>35</fl> hoc omnino postulantes, ut Sturmianam illam epistolam imprimendam ipse curet suamque adiungat, qua optimo viro tam tetri facinoris palinodiam canat<fl>36</fl> aut eum huius sceleris convincat<fl>37</fl>.<pb_scan n="2774r."/></s>
+				<s n="31" lang="la" state="auto">Misissem ad te Sturmianę epistolae exemplar, nisi eam imprimendam fore scirem et temporis obstaret brevitas.</s>
+			</p>
+			<p>
+				<s n="32" lang="la" state="auto">Plura, quae scribam, non habeo, nisi quod satis foeliciter studia mea procedunt et humaniter tractor a doctis, imprimis a M. <persName ref="5203">Christiano Herlino</persName>, mathematicorum huius temporis nulli secundo<fl>38</fl>, qui et publice et privatim mihi adest.</s>
+				<s n="33" lang="la" state="auto">Publice enim <persName ref="18473">Euclidem</persName> profitetur<fl>f</fl>, privatim mihi et <persName ref="2553">Martino Beyer</persName> spherę institutionem, <persName ref="18303">Melae</persName> Geographiam<fl>39</fl> et <persName ref="6144">Ptolemei</persName> difficiliores locos exposuit, nec adhuc cessat omni modo et tempore mea studia promovere.</s>
+			</p>
+			<p>
+				<s n="34" lang="la" state="auto">Nondum adhuc aliquem nuntium invenire potui, qui vel in Angliam vel <placeName ref="15">Antverpiam</placeName> proficisceretur; verum si aliquis mihi contingat, curabo, ut ea, quae mandavisti<fl>40</fl>, <persName ref="4926">Nicolao</persName><fl>41</fl> scribam.</s>
+				<s n="35" lang="la" state="auto">Pręterea rogo te, ut <persName ref="3958">Stephano Willio</persName> dicas, ut meum mihi librum ad chelim conscriptum<fl>42</fl> remittat.</s>
+				<s n="36" lang="la" state="auto">Ego enim terque quaterque ei ea de re scripsi<fl>43</fl>; ille nec scribit nec librum mittit.</s>
+				<s n="37" lang="la" state="auto">Quare te rogo, ut cures, ut vel tua authoritate commotus mihi mea remitti curet.<pb_edition start_of="40"/></s>
+			</p>
+			<p>
+				<s n="38" lang="la" state="auto">Salutabis, quaeso, nomine meo matrem<fl>44</fl> et uxorem<fl>45</fl> tuam cum toto tuorum liberorum coetu<fl>46</fl> et universam familiam, Georgium quoque <persName ref="2829">Stadlerum</persName> eiusque uxorem<fl>47</fl>.</s>
+			</p>
+			<p>
+				<s n="39" lang="la" state="auto">Argentinę, 25. ianuarii 1539.</s>
+			</p>
+			<p>
+				<s n="40" lang="la" state="auto">Tui observantissimus</s>
+			</p>
+			<p>
+				<s n="41" lang="la" state="auto"><persName ref="8011">Rodolphus Gvalterus</persName>.</s>
+			</p>
+			<p>
+				<s n="42" lang="la" state="auto">Ignosce, quęso, lituris; nam hęc raptim mihi scribenda fuerunt.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="43" lang="de" state="auto">An M. Heinrychen Bullinger, predicant zuͦ Zürich zum großen münster, minem getrüwen und lieben herrenn.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1217">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichungen von späterer Hand.</i></fn>
+			<fn ref="b"><i>in der Vorlage</i> intellixisti.</fn>
+			<fn ref="c"><i>vor</i> comitem <i>gestrichenes</i> copiam.</fn>
+			<fn ref="d"><i>vor</i> quam <i>gestrichenes</i> quam.</fn>
+			<fn ref="e">iri <i>korrigiert aus</i> exhileraturum.</fn>
+			<fn ref="f">profitetur <i>über der Zeile nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Die <placeName ref="157">Frankfurter</placeName> Frühjahrsmesse fand in der Regel von Oculi bis Freitag vor Palmarum statt, im Jahr 1539 somit vom 9. bis zum 28. März; vgl. Alexander <i>Dietz,</i> <placeName ref="157">Frankfurter</placeName> Handelsgeschichte, Bd. I, <placeName ref="157">Frankfurt</placeName> a. M. 1910, S. 37-40.</fn>
+			<fn ref="2">Im Brief vom 4. Januar (oben <link fk_file="11254">Nr. 1211</link>) verweist <persName ref="8011">Gwalther</persName> auf sein Schreiben vom 13. Dezember 1538 (<bibl>HBBW</bibl> VIII, <link fk_file="11249">Nr. 1206</link>), worin er seinen Plan darlegte, in <placeName ref="558">Wittenberg</placeName> zu studieren.</fn>
+			<fn ref="3">Mäzen (vgl. Peter L. <i>Schmidt,</i> in: <bibl>KP</bibl> III 860-862).</fn>
+			<fn ref="4">Vgl. <persName ref="18361">Titus Livius</persName>, Ab urbe condita, 7, 10, 9; 8, 13, 17.</fn>
+			<fn ref="5"><persName ref="2553">Martin Peyer</persName>.</fn>
+			<fn ref="6">Der Brief scheint nicht erhalten zu sein.</fn>
+			<fn ref="7"><persName ref="467">Bucer</persName> war nach <placeName ref="664">Hessen</placeName> und <placeName ref="749">Sachsen</placeName> gereist; vgl. zuletzt oben <link fk_file="11257">Nr. 1214</link>, 8-10.</fn>
+			<fn ref="8">Landgraf <persName ref="18574">Philipp von Hessen</persName>.</fn>
+			<fn ref="9">Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName>.</fn>
+			<fn ref="10">Die Delegation, die im Sommer 1538 rund vier Monate lang über eine diplomatische und theologische Annäherung zwischen <entity id="9" type="geo_country">England</entity> und den deutschen Protestanten verhandelte, bestand aus <persName ref="4460">Franz Burchart</persName>, <persName ref="7416">Georg von Boyneburg</persName> und <persName ref="5895">Friedrich Myconius</persName>. Begleitet wurden sie von <persName ref="7673">Bernhard von Mila</persName>, einem sächsischen Ritter, der im Sold des englischen Königs stand. Vgl. <i>Prüser,</i> <entity id="9" type="geo_country">England</entity> 119-149 (bes. 123f).</fn>
+			<fn ref="11" type="bio" fk_person="4460"><persName ref="4460">Franz Burchart</persName> (Burchard, Burghart, Burkhard), von <placeName ref="537">Weimar (Vinariensis)</placeName>, geb. 1504(?), gest. 1560, studierte ab 1520 als Schüler <persName ref="2095">Melanchthons</persName> in <placeName ref="558">Wittenberg</placeName> und wurde 1524 Magister. 1526 erhielt er den Lehrstuhl für Griechisch. Nachdem er 1535 in den Dienst des Kurfürsten getreten war, verwaltete er ab 1536 als Vizekanzler das Kanzleramt und entwickelte sich zum einflußreichen Politiker. 1542 wurde er kursächsischer Kanzler im eroberten <placeName ref="1041">Braunschweig</placeName>, 1544 Rat in <placeName ref="537">Weimar</placeName>. - Lit.: Ekkehart <i>Fabian,</i> in: <bibl>NDB</bibl> III 33.</fn>
+			<fn ref="12"><persName ref="18505">Heinrich VIII.</persName></fn>
+			<fn ref="13">eine englische Goldmünze.</fn>
+			<fn ref="14" type="bio" fk_person="6122"><persName ref="6122">Reginald Pole</persName>, geb. 1500 in <placeName ref="1713">Stourton Castle (Staffordshire)</placeName>, gest. 1558 in <placeName ref="275">Lambeth</placeName> (<placeName ref="296">London</placeName>), stammte aus einer mit dem Königshaus verwandten Familie. <persName ref="18505">Heinrich VIII.</persName> setzte den in Oxford und Italien ausgebildeten Kleriker als Agenten für seine Scheidungssache ein, doch Pole brach 1536 mit dem König und ging nach Rom, wo er zum Kardinal ernannt wurde. Als weithin geachteter Führer der "spirituali" wirkte er in den folgenden Jahren auf die Reform der Kirche hin, ohne aber den Gehorsam gegenüber dem Papst in Frage zu stellen. 1553 kehrte er als päpstlicher Legat nach <entity id="9" type="geo_country">England</entity> zurück, wo er 1555 zum Erzbischof von Canterbury ernannt wurde. - Lit.: David Michael <i>Laudes,</i> in: <bibl>TRE</bibl> XXVI 755-758; Thomas F. <i>Mayer,</i> in: <bibl>OER</bibl> III 288f.</fn>
+			<fn ref="15" type="bio" fk_person="6122">Gemeint ist Henry, Baron Montague (Montacute), der ältere Bruder von <persName ref="6122">Reginald Pole</persName>. Er ist um 1492 geboren, gehörte ab 1529 dem House of Lords an und wurde im Dezember 1538 als angeblicher Verschwörer hingerichtet; s. James <i>Gairdner,</i> in: <bibl>DNB</bibl> XLVI 25f.</fn>
+			<fn ref="16">Zusammen mit <persName ref="18034">Henry Pole</persName> wurden <persName ref="7443">Henry Courtenay</persName>, Marquis von Exeter, und Sir <persName ref="5954">Edward Neville</persName> hingerichtet; s. Charles <i>Wriothesley,</i> A chronicle of <entity id="9" type="geo_country">England</entity> during the reigns of the Tudors, from A. D. 1485 to 1559, hg. v. William Douglas Hamilton, Bd. 1, [Westminster] 1875. - Camden Society, new series 11, S. 92.</fn>
+			<fn ref="17">Das Gerücht von der Hinrichtung des konservativen <placeName ref="296">Londoner</placeName> Bischofs <persName ref="7805">John Stokesley</persName> war unzutreffend. Zwar war er am 29. Mai angeklagt worden, gegen königliche Statuten verstoßen zu haben, doch hatte ihn der König bereits am 3. Juli begnadigt; s. <bibl>LP</bibl> 13/1 1095f, vgl. <i>Prüser,</i> <entity id="9" type="geo_country">England</entity> 311.</fn>
+			<fn ref="18"><persName ref="18519">Jakob V.</persName>, König von <entity id="26" type="geo_country">Schottland</entity>.</fn>
+			<fn ref="19">Ein Friedensvertrag war bereits 1534 unterzeichnet worden; s. <bibl>LP</bibl> 7 647.</fn>
+			<fn ref="20" type="bio" fk_person="18519">Ein haltloses Gerücht; <persName ref="18519">Jakob V.</persName> hatte zu diesem Zeitpunkt keine Tochter.</fn>
+			<fn ref="21"><persName ref="7637">Franz I.</persName></fn>
+			<fn ref="22">Vgl. die Nachrichten im Brief von <persName ref="8418">Myconius</persName> vom 3. Dezember 1538 (<bibl>HBBW VIII</bibl> <link fk_file="11246">[Nr. 1203]</link>, S. 280, 8-17).</fn>
+			<fn ref="23"><persName ref="18593">Suleiman I.</persName></fn>
+			<fn ref="24"><persName ref="18590">Sigismund I.</persName></fn>
+			<fn ref="25">Über solche Bestrebungen ist sonst nichts bekannt.</fn>
+			<fn ref="26"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="27">Hintergrund der Gerüchte ist vielleicht die Entsendung eines kaiserlichen Gesandten an den Hof <persName ref="18477">König Ferdinands</persName> zu Verhandlungen über eine Vermittlung mit den Protestanten und einen Türkenfeld-Zug; s. <i>Brandi</i> I 359f; II 286f; vgl. auch <bibl>HBBW VIII</bibl> <link fk_file="11251">[Nr. 1208]</link>, S. 294, 23-25.</fn>
+			<fn ref="28">Zur gegenseitigen Einnahme türkischer und venezianischer Grenzfestungen s. <bibl>Hammer-Purgstall</bibl> III 213-216.</fn>
+			<fn ref="29" type="bio" fk_person="6369"><persName ref="6369">Erasmus Sarcerius (Sorck oder Sarck; Schürer)</persName>, von <placeName ref="1310">Annaberg (Sachsen)</placeName>, 1501-1559, studierte in <placeName ref="284">Leipzig</placeName> und <placeName ref="558">Wittenberg</placeName>(?). Anschließend versah er verschiedene Schulämter, bevor er 1536 Rektor der Lateinschule in <placeName ref="1714">Siegen</placeName> wurde. 1537 berief ihn <persName ref="18394">Graf Wilhelm von Nassau</persName> zum Hofprediger und Superintendenten von <placeName ref="1715">Nassau-Dillenburg</placeName>. Von nun an verlegte er sich ganz auf das kirchliche Tätigkeitsfeld, wobei er sich vor allem um die praktische Umsetzung der Kirchenordnung durch Visitationen und Synoden sowie um sittliche Verbesserungen bemühte. Das Interim zwang ihn, auf ein Pfarramt in <placeName ref="284">Leipzig</placeName> zu wechseln. 1553-1559 war er Superintendent der Grafschaft <placeName ref="1716">Mansfeld</placeName>; kurz vor seinem Tod wurde er noch als Pfarrer nach <placeName ref="303">Magdeburg</placeName> berufen. Als strenger Lutheraner geriet er zunehmend in Gegensatz zu <persName ref="2095">Melanchthon</persName>; am <placeName ref="569">Wormser</placeName> Religionsgespräch von 1557 befürwortete er die Verurteilung der Anhänger <persName ref="19955">Majors</persName>, <persName ref="2301">Osianders</persName> und <persName ref="4091">Zwinglis</persName>. Zu seiner Bekanntheit trugen seine zahlreichen Schriften bei, darunter die "Loci" von 1538 und das "Hausbuch" von 1555. In seinem "Buch vom hi. Ehestande" (1553) verarbeitete er u. a. auch Bullingers Ehebuch. - Lit.: Gustav <i>Kawerau,</i> in: RE XVII 482-486; Reinhard <i>Tenberg,</i> in: <bibl>BBKL</bibl> VIII 1361-1363; Derk <i>Visser,</i> in: <bibl>OER</bibl> III 483.</fn>
+			<fn ref="30"><persName ref="6369">Sarcerius</persName>' "Rhetorica plena ac referta exemplis" erschien 1537 in <placeName ref="311">Marburg</placeName> und im Januar 1539 in <placeName ref="284">Leipzig</placeName> (VD 16, S 17670.</fn>
+			<fn ref="31">In einem seiner rhetorischen Exempel argumentiert <persName ref="6369">Sarcerius</persName> gegen die zwinglische Auslegung der Einsetzungsworte des Abendmahls (in der Ausgabe von 1537: S. 187-196).</fn>
+			<fn ref="32" type="bio" fk_person="4926"><persName ref="4926">Nikolaus Gerbel (Gerbel[l]ius, Musophilus)</persName>, von <placeName ref="386">Pforzheim</placeName>, geb. um 1485, gest. 1560, studierte ab 1501 in <placeName ref="546">Wien</placeName>, <placeName ref="267">Köln</placeName>, <placeName ref="512">Tübingen</placeName> und <placeName ref="55">Bologna</placeName>, wo er 1514 zum Doktor des kanonischen Rechts promovierte. Ab 1515 wirkte er in <placeName ref="492">Straßburg</placeName> als Rechtskonsulent in der kirchlichen Verwaltung, später auch als Domsekretär. Daneben betätigte sich der angesehene Humanist als Korrektor und Herausgeber wissenschaftlicher Werke. 1541-1543 lehrte er am Gymnasium Geschichte. Unter seinen Werken finden sich u. a. drei Schriften gegen <persName ref="5890">Murner</persName> und eine "Descriptio Graeciae". Schon früh stand er mit <persName ref="1974">Luther</persName>, für dessen Lehre er in <placeName ref="492">Straßburg</placeName> entschieden eintrat, in freundschaftlicher Verbindung. 1523, vor Ausbruch des Abendmahlsstreits, schrieb er mindestens zweimal an <persName ref="4091">Zwingli</persName> (s. <bibl>Z</bibl> VIII 69f) und <persName ref="8049">Vadian</persName> trug er noch 1532 die Erneuerung der Freundschaft an (s. <persName ref="8049">Vadian</persName> BW V 62f); von Kontakten mit Bullinger ist hingegen nichts bekannt. - Lit.: Heinrich <i>Grimm,</i> in: <bibl>NDB</bibl> VI 249f; Miriam U. <i>Chrisman,</i> in: <bibl>Contemporaries</bibl> II 90f; <bibl>BBKL</bibl> II 211f.</fn>
+			<fn ref="33">AaO, S. 165-179. - Über den aus diesem fiktiven rhetorischen Exempel entstandenen Konflikt berichtet <persName ref="4503">Joachim Camerarius</persName>, De vita <persName ref="2095">Philippi Melanchthonis</persName> narratio, hg. v. Georg Theodor Strobel, Halle 1777, S. 360-362.</fn>
+			<fn ref="34">Laut einem Brief <persName ref="4926">Gerbels</persName> an <persName ref="4503">Camerarius</persName> vom 10. März 1539 trat - neben <persName ref="2095">Melanchthon</persName> und <persName ref="467">Bucer</persName> - <persName ref="6733">Jakob Sturm</persName> für ihn ein (s. Tertius libellus epistolarum H. Eobani Hessi et aliorum quorundam virorum ..., <placeName ref="284">Leipzig</placeName> 1561, fol. M7v.) ; das im Auftrag der "ministri ecclesiae" ergangene, nicht erhaltene Schreiben dürfte aber eher von <persName ref="3088">Johannes Sturm</persName> abgefaßt worden sein.</fn>
+			<fn ref="35">Unbekannt.</fn>
+			<fn ref="36">Vgl. Adagia, 1, 9, 59 (<bibl>LB</bibl> II 356).</fn>
+			<fn ref="37">Durch <persName ref="2095">Melanchthons</persName> Vermittlung erschien die Rhetorik im Juli 1539 in "gereinigter" Fassung (VD 16, S 1769); im Vorwort beteuert <persName ref="6369">Sarcerius</persName>, bei der Verwendung des Namens <persName ref="4926">Nicolaus Gerbellius</persName> nicht an eine lebende Person gedacht zu haben.</fn>
+			<fn ref="38">Vgl. zur Redensart z. B. Titus Livius, Ab urbe condita, 23, 10, 7.</fn>
+			<fn ref="39">Gemeint ist das um 43/44 n. Chr. verfaßte Werk "De chorographia" des in Südspanien geborenen römischen <persName ref="18303">Geographen Pomponius Mela</persName>. In der Renaissance wurde es sehr geschätzt; Bullinger las es als Student in <placeName ref="267">Köln</placeName> (s. <bibl>HBSR</bibl> II 146). - Lit.: F. <i>Lasserre,</i> in: <bibl>KP</bibl> IV 1039f.</fn>
+			<fn ref="40">Vgl. oben <link fk_file="11254">Nr. 1211</link>, 28f.</fn>
+			<fn ref="41"><persName ref="8422">Nicholas Partridge</persName>.</fn>
+			<fn ref="42">Gemeint ist eine Lautentabulatur (vgl. <bibl>HBBW VIII</bibl> <link fk_file="11241">[Nr. 1198]</link>, S. 265, Anm. 11).</fn>
+			<fn ref="43">Die Briefe sind verloren.</fn>
+			<fn ref="44" type="bio" fk_person="7042"><persName ref="7042">Anna Bullinger, geb. Wiederkehr</persName>.</fn>
+			<fn ref="45" type="bio" fk_person="8051"><persName ref="8051">Anna Bullinger, geb. Adlischwyler</persName>.</fn>
+			<fn ref="46">Anna (geb. 1530), Margaretha (1531), Elisabeth (1532), Heinrich (1534), Hans Rudolf (1536) und Christoph (1537); vgl. <bibl>Pestalozzi</bibl> 314.</fn>
+			<fn ref="47">Margaretha Escher vom Glas.</fn>
+		</num>
+	</footnotes>
+</file>

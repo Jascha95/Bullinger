@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11385" id_hbbw="1342" id_irg_sort="1342" id_sort="113420">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11385</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1342</arpa>
+		<scan_pages>
+			<scan id="26456" dir="11385/Autograph/" page="1">00 E_II_337__fol__320_r_.tif</scan>
+			<scan id="26457" dir="11385/Autograph/" page="2">01 E_II_337__fol__320_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23117" vf="1" fk_add_type="1">
+				<person id="2810" fk_id="2810">
+					<name>Ritter</name>
+					<forename>Erasmus</forename>
+				</person>
+				<place id="41" vf="1" fk_id="41" long="7.44744" lat="46.94809">Bern</place>
+				<district id="28">Bern</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23118" vf="1" fk_add_type="2">
+				<title id="49" fk_place="">Pfarrer</title>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</addressee>
+			<addressee id="23119" vf="1" fk_add_type="2">
+				<title id="45" fk_place="">Lehrer</title>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</addressee>
+		</addressees>
+		<date id="11385">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">12</month>
+				<day fk_d="" d="" vf="1" fn="">30</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17856">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 337a,320</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11072" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1342, S. 280</entry>
+				<page>280</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="19">
+				<lang id="5" iso="la" count="19" p="100.0"/>
+			</sentences>
+			<words count="429">
+				<lang id="5" iso="la" count="429" p="100.0"/>
+			</words>
+			<chars count="2595">
+				<lang id="5" iso="la" count="2595" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1342" page="280">
+		<div ref="1">
+			Dankt für ihren freundschaftlichen Brief. Nimmt zur Kenntnis, daß sie die von ihm angeregte [Erwiderung auf
+			<persName ref="1974">Luthers</persName> Buch „Von den Konziliis und Kirchen“] für unnötig halten,
+			nachdem <persName ref="4091">Zwinglis</persName> Auslegungen [zum Neuen Testament] sowie
+			<persName ref="8049">Vadians</persName> „Orthodoxa epistola“ samt den Büchern [„Contra Eutychen“] von
+			Vigilius erschienen sind; seiner Meinung nach wäre es dennoch
+			angebracht gewesen, der Verdächtigung <persName ref="4091">Zwinglis</persName> als Nestorianer
+			öffentlich entgegenzutreten. Seine Mitbrüder sind mehr für <persName ref="1974">Luther</persName>
+			eingenommen als auf die Eintracht der Kirche bedacht; auf <persName ref="2810">Ritters</persName>
+			Abendmahlspredigten zu Weihnachten, die in der Gemeinde erfreuliche Wirkung zeigten, haben sie trotz
+			vorausgegangenem Gespräch mit Unmut reagiert. Die Anfeindungen, die weit über den Konflikt mit
+			<persName ref="264">Benedikt [Burgauer]</persName> [in
+			<placeName ref="441">Schaffhausen</placeName>] hinausgehen, sind eine Prüfung für seinen Glauben,
+			aber bisher hält die [<placeName ref="41">Berner</placeName>] Kirche an der wahren Lehre fest.
+			Bittet, ihm - durch vertrauenswürdige Boten - öfter zu schreiben.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1342" page="280">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratia et pax.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Adeo per Iesum Christum recrearunt me litere vestre<fl>1</fl> mirum in modum, utpote quae ab optimis amicis et charissimis fratribus erant conscripte simulque certissimum testimonium ferebant amicitiam et benevolentiam erga<pb_edition start_of="281"/> me a vobis conceptam immotam<fl>a</fl> persistere.</s>
+				<s n="3" lang="la" state="auto">Equidem<fl>b</fl>, quod ad me attinet, curabo diligentissime, ut a me illesa permaneat.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">De quibus autem scripsi<fl>2</fl>, accepi sententiam vestram non opus esse, ut post editos libros Annotacionum <persName ref="4091">Zvinglii</persName><fl>3</fl> et Orthodoxam <persName ref="8049">Vadiani</persName> epistolam<fl>4</fl> et Vigilii doctissimos libros<fl>5</fl> etc.</s>
+				<s n="5" lang="la" state="auto">Verum est satisfactum esse iis, qui iudicio valent; sed quum videam libellum <persName ref="1974">Lutheri</persName><fl>c</fl><fl>6</fl> omnium manibus teri et miris laudibus comendari a<fl>d</fl> simplicioribus et suspitionem erga <persName ref="4091">Zwinglium</persName> concepisse nonnullos pios<fl>e</fl>, ut qui ignorant, quale dogma <persName ref="18253">Nestorius</persName> docuerit<fl>7</fl>, existimabam brevibus potuisse congeri exque libris <persName ref="4091">Zvinglii</persName> addi, quibus ad oculum, ut dicitur<fl>8</fl>, ostenderetur etiam simplicissimis <persName ref="4091">Zvinglium</persName> alienissimum ab hac perfidia extitisse, et hec citra omnem calumniam<fl>f</fl>.</s>
+				<s n="6" lang="la" state="auto">Nam ego video <persName ref="1974">Lutherum</persName> se fingere, quasi ignoret, quid <persName ref="18253">Nestorius</persName> senserit<fl>9</fl>; interim tamen optimum et innocentem virum hac impietate contaminat et traducit.</s>
+				<s n="7" lang="la" state="auto">Sed hec prudentie et iudicio vestro relinquo.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto">De ecclesia nostra, de qua non dubito, quin vos pia et christiana teneat sollicitudo, certiores vos facio, quod omnia bene et recte se haberent, si modo simiste<fl>10</fl> mei tam studiosi essent ad provehendam dei gloriam et ecclesie nostre concordiam, quam sunt ad provehendam gloriam <persName ref="1974">Lutheri</persName> illamque male conciliatam concordiam<fl>11</fl>.</s>
+				<s n="9" lang="la" state="auto">Habuimus nuper colloquium, in quo de eucharistia tractavimus, et ita inter nos conclusum erat, ut magna gratulatione michi pollicerer<fl>g</fl> summam tranquillitatem.</s>
+				<s n="10" lang="la" state="auto">Sed hiis diebus, natali die et dominica praecedenti<fl>12</fl>, ego conciones habui coram ecclesiam de cena dominica, in quibus<fl>h</fl> qua ut potui simplicitate et claritate omnia exposui maximo cum profectu ecclesie; ea enim tanta frequentia tantaque gratiarum actione misteria celebravit, quanta prius nunquam, quam diu ego <placeName ref="41">Berne</placeName> fui.<pb_edition start_of="282"/></s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Sed bone deus, quam mire irritati sunt fratres simiste, quod tam clare de rebus disserui, qui obscuritate delectantur, quatinus sacramenta summo in pretio habeantur (ita dicunt), maxime quod verba cene<fl>13</fl> iuxta absolutissimam interpretationem scripture et patrum interpretatus sum.</s>
+				<s n="12" lang="la" state="auto">Sed quantum illi in me frendunt, tantum ecclesia universa paucis demptis sibi gratulatur etc.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Hec volui vobis significare, fratres charissimi, ut in me uno discatis, quam impossibile sit frui pace et concordia nolente domino.</s>
+				<s n="14" lang="la" state="auto">Ego volebam vitare Scillam et incidi in Charibdim<fl>14</fl>, fugi unum <persName ref="264">Benedictum</persName><fl>15</fl> et iam quinque sum nactus; ita<fl>i</fl> dominus meam fidem exercere cupit.</s>
+				<s n="15" lang="la" state="auto">Sed ecclesia hactenus constantissime retinuit sententiam veram, quam die natali apertissime in<fl>k</fl> actione misteriorum declaravit.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Valete raptim et crebris me consolamini literis, ita tamen, ut non nisi fidissimis comittantur.</s>
+			</p>
+			<p>
+				<s n="17" lang="la" state="auto">Ex <placeName ref="41">Berna</placeName>, 30. decembris 1539.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto"><persName ref="2810">Erasmus Ritter</persName>, ex animo vester.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="19" lang="la" state="auto">Doctissimis simul et piissimis viris, charissimis fratribus pastoribus et lectoribus Tigurine ecclesie.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1342">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> imotam.</fn>
+			<fn ref="b"><i>vor</i> Equidem <i>gestrichenes</i> pro qu.</fn>
+			<fn ref="c"><i>nach</i> Lutheri <i>am Rande irrtümlich nachgetragen:</i> librum.</fn>
+			<fn ref="d"><i>vor a gestrichenes</i> ab.</fn>
+			<fn ref="e">nonnullos pios <i>am Rande nachgetragen.</i></fn>
+			<fn ref="f">et hec ... calumniam <i>am Rande nachgetragen.</i></fn>
+			<fn ref="g"><i>korrigiert aus</i> pollicebar.</fn>
+			<fn ref="h">in quibus <i>am Rande nachgetragen.</i></fn>
+			<fn ref="i"><i>vor</i> ita <i>ein gestrichenes Zeichen.</i></fn>
+			<fn ref="k"><i>vor</i> in <i>gestrichenes</i> prodi.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Die Antwort der Zürcher auf <persName ref="2810">Ritters</persName> Brief vom 12. Dezember (oben <link fk_file="11380">Nr. 1337</link>) ist nicht erhalten.</fn>
+			<fn ref="2"><persName ref="2810">Ritter</persName> hatte eine Erwiderung auf <persName ref="1974">Luthers</persName> Buch "Von den Konziliis und Kirchen" angeregt; s. oben <link fk_file="11380">Nr. 1337</link>, 22-74 (bes. 54-64).</fn>
+			<fn ref="3">Im August 1539 hatte <persName ref="1753">Leo Jud</persName> <persName ref="4091">Zwinglis</persName> neutestamentliche Auslegungen herausgegeben; s. oben <link fk_file="11358">Nr. 1315</link>, Anm. 13.</fn>
+			<fn ref="4">Zu <persName ref="8049">Vadians</persName> "Orthodoxa et erudita ... epistola" (<bibl>HBBibl</bibl> I 113) vgl. oben <link fk_file="11326">Nr. 1283</link>.</fn>
+			<fn ref="5">Der genannten Schrift <persName ref="8049">Vadians</persName> hatte Bullinger die fünf Bücher "Contra Eutychen" des Vigilius beigegeben; s. oben <link fk_file="11313">Nr. 1270</link>, Anm. 4.</fn>
+			<fn ref="6">"Von den Konziliis und Kirchen" (<bibl>WA</bibl> L 488-653); vgl. oben <link fk_file="11380">Nr. 1337</link>, 22f.</fn>
+			<fn ref="7"><persName ref="1974">Luther</persName> hatte <persName ref="4091">Zwingli</persName> in der genannten Schrift als Nestorianer bezeichnet; vgl. oben <link fk_file="11380">Nr. 1337</link>, 26-38.</fn>
+			<fn ref="8">Vgl. den Ausdruck "ad oculum demonstrieren" <i>(z.</i> B. <bibl>Grimm</bibl> 2 VI 634).</fn>
+			<fn ref="9">Vgl. besonders <bibl>WA</bibl> L 583,27-584,2; 591, 14-16.</fn>
+			<fn ref="10">Amtsbrüder (symmystae).</fn>
+			<fn ref="11">Gemeint ist wohl nicht nur die <placeName ref="558">Wittenberger</placeName> Konkordie von 1536, sondern das von <persName ref="467">Bucer</persName> betriebene Einigungswerk insgesamt.</fn>
+			<fn ref="12">d. h. am 25. bzw. 21. Dezember.</fn>
+			<fn ref="13">die Einsetzungsworte (Mt 26, 26-28 par.).</fn>
+			<fn ref="14"><bibl>Adagia</bibl>, 1, 5, 4 (<bibl>LB</bibl> II 183).</fn>
+			<fn ref="15">Der zum Luthertum neigende <persName ref="264">Benedikt Burgauer</persName>, <persName ref="2810">Ritters</persName> Gegner in <placeName ref="441">Schaffhausen</placeName>, war 1536 zusammen mit diesem entlassen worden; s. Jakob <i>Wipf</i> Reformationsgeschichte der Stadt und Landschaft <placeName ref="441">Schaffhausen</placeName>, Zürich 1929, S. 303-310.</fn>
+		</num>
+	</footnotes>
+</file>

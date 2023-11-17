@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12910" id_hbbw="2861" id_irg_sort="2861" id_sort="128610">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12910</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2861</arpa>
+		<scan_pages>
+			<scan id="30227" dir="12910/Autograph/" page="1">00 E_II_366__fol__36_r_.tif</scan>
+			<scan id="30228" dir="12910/Autograph/" page="2">01 E_II_366__fol__36_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26368" vf="1" fk_add_type="1">
+				<person id="8032" fk_id="8032">
+					<name>Dryander (de Enzinas)</name>
+					<forename>Franciscus</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26369" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12910">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">25</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19482">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 366,36</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9164" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Boehmer, Dryander 412f, Nr. 25</entry>
+			</print>
+			<print id="9165" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Enzinas BW 218f, Nr. 28</entry>
+			</print>
+			<print id="9166" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Enzinas BW 218f, Nr. 28</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="16">
+				<lang id="5" iso="la" count="16" p="100.0"/>
+			</sentences>
+			<words count="253">
+				<lang id="5" iso="la" count="253" p="100.0"/>
+			</words>
+			<chars count="1483">
+				<lang id="5" iso="la" count="1483" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2861" page="448">
+		<div ref="1">
+			[1] <persName ref="8032">Enzinas</persName> wohnte mit dem Überbringer des vorliegenden Briefes, dem Engländer <persName ref="1560">John Hooper</persName>,<fl>1</fl>
+			einige Tage im Hause von <persName ref="1365">Simon Grynäus</persName> zusammen.<fl>2</fl> Nach seiner
+			Rückkehr aus<pb_edition start_of="449"/> <placeName ref="587">Zürich</placeName><fl>3</fl> zog er nämlich dorthin um, da während seiner
+			Abwesenheit seine frühere Wohnstätte bei <persName ref="8126">Johannes Oporin</persName> von
+			<persName ref="2336">Bernardino Ochino</persName> belegt worden war.
+		</div>
+		<div ref="2">
+			[2] Bullinger kennt <persName ref="1560">Hooper</persName> zwar noch nicht persönlich, hat aber schon von dessen rechtschaffenen Bemühungen
+			um das Evangelium gehört. Daher ist keine besondere Empfehlung nötig, zumal er öfters fromme Menschen auch
+			ohne Empfehlungsschreiben aufnimmt. Dennoch sei <persName ref="1560">Hooper</persName> ihm ans Herz gelegt.
+		</div>
+		<div ref="3">
+			[3] Vor einigen Tagen heiratete dieser in <placeName ref="28">Basel</placeName> eine Frau 
+			<persName ref="8473">[Anne t’Serclaes]</persName> aus Belgien.<fl>4</fl> Hoffentlich wird auch
+			Bullinger die Tugenden dieser fast schon überirdisch begabten und klugen Frau kennenlernen! Sie wird
+			zweifellos eine Bereicherung für ihren künftigen Wohnort sein. Sie ist fest entschlossen, Gott zu folgen,
+			und will dort leben, wo ihr die öffentliche Ausübung ihres Glaubens gestattet wird. Deshalb verließ sie auch
+			ihre bedeutende Herkunftsfamilie und ihre noch lebenden <persName ref="20140" state="auto_name">Eltern</persName><fl>5</fl>. Sie ist ein Schatz wahrer
+			Frömmigkeit! Bullinger möge sich ihrer annehmen. So wird sie feststellen können, dass er wirklich so
+			freundlich ist, wie <persName ref="8032">Enzinas</persName> es ihr geschildert hat.
+		</div>
+		<div ref="4">
+			[4] Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2861" page="448">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. D.</s>
+				<s n="2" lang="la" state="auto">Qui has literas ad te defert, est dominus Johannes Hoperus Anglus, qui cum<fl>6</fl> ego vixi in istis aedibus <persName ref="1365">Grinaei</persName> paucis diebus familiariter; nam postquam a vobis reversus sum, in his aedibus me continui, quia Bernardinus<fl>7</fl> occupaverat meam apud Oporinum habitationem, a qua nolui ut migraret.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="la" state="auto">Hominis<fl>8</fl> animum atque integritatem nosti, etiamsi faciem non videris, cuius ea est pietas ac doctrinae religionis studium, ut sua prop[r]ia integritate probatus nullius commendatione apud bonos homines indigeat.</s>
+				<s n="4" lang="la" state="auto">Ego item novi tuam virtutem, qui pios viros fide ac religione praestantes sine cuiusquam commendatione soleas peramice excipere.</s>
+				<s n="5" lang="la" state="auto">Et tamen, si quicquam apud te ponderis habitura est mea commendatio, hunc virum tibi commendo tanquam pietatis rectaeque sententiae valde studiosum.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="6" lang="la" state="auto">Duxit ante paucos dies uxorem<fl>9</fl> in hac urbe genere quidem Belgicam, sed ingenio, doctrina, gravitate, constantia et vera religione supra mulieris sortem plane coelestem.</s>
+				<s n="7" lang="la" state="auto">O quam vellem, ut istius mulieris virtutes ac pietatem plene posses cognoscere!</s>
+				<s n="8" lang="la" state="auto">Est mihi persuasum eam fore ornamentum eius loci, in quo est habitatura, et pro sua ipsa fortitudine animum habet paratum, ut deum sequatur animose ibique vitam traducat, ubi senserit esse publicam et liberam verae religionis professionem.</s>
+				<s n="9" lang="la" state="auto">Est illa quidem magno loco nata et habet utrunque parentem superstitem<fl>10</fl>; sed omnia reliquit, ut Christum sequeretur.</s>
+				<s n="10" lang="la" state="auto">Hanc igitur mulierem tibi commendo tanquam thesaurum quendam virtutis ac verae religionis.</s>
+				<s n="11" lang="la" state="auto">Quaeso, ut intelligat ipsa et apud te repositam esse laudem virtutis et me illi vera dixisse, cum tuam ipsi pietatem ac humanitatem commendavi.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="12" lang="la" state="auto">Bene vale.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, 15. martii 1547.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">Tuus <persName ref="8032">Franciscus Dryander</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="15" lang="la" state="auto">Clarissimo viro domino Henrico Bullingero.</s>
+				<s n="16" lang="la" state="auto"><placeName ref="587">Tiguri</placeName>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2861">
+		<alpha/>
+		<num>
+			<fn ref="1">Siehe dazu schon <link fk_file="12847">Nr. 2798</link>, Anm. 11.</fn>
+			<fn ref="2">Grynäus (gest. 1541) hatte unweit des Münsters in einem der Gebäude des ehemaligen Augustinerklosters gelebt; s. Paul <i>Wernle,</i> Calvin und Basel bis zum Tode des Myconius 1535-1552, Basel 1909, S. 4. - Durch Enzinas' Wohnort erklärt sich nun auch, wie dieser zu einer handschriftlichen Abhandlung tiber das Abendmahl des verstorbenen Grynäus gekommen ist; s. <link fk_file="12889">Nr. 2840</link>, Anm. 3.</fn>
+			<fn ref="3" type="bio" fk_person="5441">Siehe <link fk_file="12868">Nr. 2819</link>, Anm. 6. - Zum Wohnwechsel kam es vermutlich durch den mit dem jungen <persName ref="5441">Isaak Keller</persName> (ein Sohn aus erster Ehe von Grynäus' zweiter Gattin, Katharina geb. Lompart) geknüpften Kontakt während der mit diesem Ende Januar 1547 unternommenen Reise nach Zürich, s. <link fk_file="12815">Nr. 2766</link>, Anm. 2.</fn>
+			<fn ref="4">Vgl. <link fk_file="12847">Nr. 2798</link>.[8].</fn>
+			<fn ref="5" type="bio" fk_person="20140"><persName ref="20140">Jacob t'Serclaes</persName>, Herr von Tilly, und <persName ref="7344">Maria van Bossinel</persName>, Herrin von Ballast; s. André <i>Monteyne,</i> T'Serclaes. Une famille bruxelloise, Brüssel 1987 (eingelegtes Faltblatt mit genealogischer Übersicht). Die Angabe dort, dass beide Eheleute nach 1535 starben, kann nun dank vorliegender Briefstelle mit "nach 1547" präzisiert werden.</fn>
+			<fn ref="6">quicum = altlat. für quocum.</fn>
+			<fn ref="7"><persName ref="2336">Bernardino Ochino</persName>.</fn>
+			<fn ref="8">Gemeint ist <persName ref="1560">Hooper</persName>.</fn>
+			<fn ref="9"><persName ref="8473">Anne t'Serclaes</persName>.</fn>
+			<fn ref="10" type="bio" fk_person="20140"><persName ref="20140">Jacob t'Serclaes</persName>, Herr von Tilly, und <persName ref="7344">Maria van Bossinel</persName>, Herrin von Ballast; s. André <i>Monteyne,</i> T'Serclaes. Une famille bruxelloise, Brüssel 1987 (darin beigelegtes Faltblatt mit genealogischer Übersicht). Aufgrund der Angaben im vorliegenden Brief kann die Angabe dort, dass sie später als 1535 starben, präzisiert werden.</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2861" page="448"/>
+			<footnotes fk_bibliography="22" nr="2861">
+				<alpha/>
+				<num>
+					<fn ref="1">Siehe dazu schon <link fk_file="12847">Nr. 2798</link>, Anm. 11.</fn>
+					<fn ref="2">Grynäus (gest. 1541) hatte unweit des Münsters in einem der Gebäude des ehemaligen Augustinerklosters gelebt; s. Paul <i>Wernle,</i> Calvin und Basel bis zum Tode des Myconius 1535-1552, Basel 1909, S. 4. - Durch Enzinas' Wohnort erklärt sich nun auch, wie dieser zu einer handschriftlichen Abhandlung tiber das Abendmahl des verstorbenen Grynäus gekommen ist; s. <link fk_file="12889">Nr. 2840</link>, Anm. 3.</fn>
+					<fn ref="3" type="bio" fk_person="5441">Siehe <link fk_file="12868">Nr. 2819</link>, Anm. 6. - Zum Wohnwechsel kam es vermutlich durch den mit dem jungen <persName ref="5441">Isaak Keller</persName> (ein Sohn aus erster Ehe von Grynäus' zweiter Gattin, Katharina geb. Lompart) geknüpften Kontakt während der mit diesem Ende Januar 1547 unternommenen Reise nach Zürich, s. <link fk_file="12815">Nr. 2766</link>, Anm. 2.</fn>
+					<fn ref="4">Vgl. <link fk_file="12847">Nr. 2798</link>.[8].</fn>
+					<fn ref="5" type="bio" fk_person="20140"><persName ref="20140">Jacob t'Serclaes</persName>, Herr von Tilly, und <persName ref="7344">Maria van Bossinel</persName>, Herrin von Ballast; s. André <i>Monteyne,</i> T'Serclaes. Une famille bruxelloise, Brüssel 1987 (eingelegtes Faltblatt mit genealogischer Übersicht). Die Angabe dort, dass beide Eheleute nach 1535 starben, kann nun dank vorliegender Briefstelle mit "nach 1547" präzisiert werden.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12862" id_hbbw="2813" id_irg_sort="2813" id_sort="128130">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12862</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2813</arpa>
+		<scan_pages>
+			<scan id="30106" dir="12862/Autograph/" page="1">00 E_II_364__S__86_.tif</scan>
+			<scan id="30107" dir="12862/Autograph/" page="2">01 E_II_364__S__87_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26268" vf="1" fk_add_type="1">
+				<person id="4082" fk_id="4082">
+					<name>Zwick</name>
+					<forename>Konrad</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26269" vf="0" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12862">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="" fn="">2</month>
+				<day fk_d="" d="" vf="" fn="">13</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19429">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 364,86–87</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12439" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2813, S. 313</entry>
+				<page>313</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="32">
+				<lang id="1" iso="de" count="31" p="96.9"/>
+				<lang id="5" iso="la" count="1" p="3.1"/>
+			</sentences>
+			<words count="312">
+				<lang id="1" iso="de" count="310" p="99.4"/>
+				<lang id="5" iso="la" count="2" p="0.6"/>
+			</words>
+			<chars count="1577">
+				<lang id="1" iso="de" count="1565" p="99.2"/>
+				<lang id="5" iso="la" count="12" p="0.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2813" page="312">
+		<div ref="1">
+			[1] <persName ref="4082">Zwick</persName> legt seinem Brief ein Schreiben aus <placeName ref="513">Ulm</placeName> bei, das
+			Bullinger mit dem gegenwärtigen Boten [...] wieder zurückschicken soll.
+		</div>
+		<div ref="2">
+			[2] Der Brief <persName ref="18538">Kaiser Karls V.</persName> [an die Eidgenossen] ist ganz bestimmt nach
+			<placeName ref="300">Luzern</placeName> gelangt. Er wurde dem St. Galler <persName ref="5332">Marti Hux</persName> vorgelesen, wie
+			<persName ref="8049">Vadian</persName> dies Bullinger wohl mitteilen wird.
+		</div>
+		<div ref="3">
+			[3] <persName ref="4285">Georg Besserer</persName> hat, wie aus dem beigelegten Brief hervorgeht,
+			<persName ref="4082">Zwick</persName> nicht geschrieben. Es könnte aber sein, dass er an <persName ref="8498">Marcell Dietrich von Schankwitz</persName> geschrieben hat.
+		</div>
+		<div ref="4">
+			[4] Beiliegend eine aus <placeName ref="361">Nürnberg</placeName> kommende Aufzeichnung über das
+			Heer von Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName>, die Bullinger ebenfalls zurückschicken soll.
+		</div>
+		<div ref="5">
+			[5] 2000 spanische Soldaten wurden nach <placeName ref="45">Biberach</placeName> verlegt und
+			haben sogleich bei ihrer Ankunft die Stadtschlüssel gefordert.
+		</div>
+		<div ref="6">
+			[6] Bullinger wird von <persName ref="8123">Georg Müller</persName> über <persName ref="4082">Zwicks</persName> Plan erfahren haben.
+		</div>
+		<div ref="7">
+			[7] <persName ref="7706">Nicolas Perrenot, Herr von Granvelle</persName>, ist auf dem Weg nach <placeName ref="631">Burgund</placeName> und durch <placeName ref="1318">Stockach</placeName> gereist.
+		</div>
+		<div ref="8">
+			[8] Schon zwei Mal hat sich <persName ref="7612">Hans Jakob von Landau</persName> als Vermittler zwischen
+ <placeName ref="457">Konstanz</placeName> und dem Kaiser aufgedrängt. Er bot sich an, die <placeName ref="457">Konstanzer</placeName> am nächsten Dienstag [15. Februar] in <placeName ref="2394">Sipplingen</placeName> oder auf der <entity id="9" type="geo_island">Mainau</entity> zu treffen, falls einige Ratsherren unschlüssig wären. Er schrieb, dass auch <persName ref="7706">Granvelle</persName> von jeglicher Verzögerung abrät. Mit Gottes Hilfe bemühen sich aber die <placeName ref="457">Konstanzer</placeName> eher, die Kontaktaufnahme mit dem Kaiser aufzuschieben.
+		</div>
+		<div ref="9">
+			[9] Man hört aus <placeName ref="28">Basel</placeName>, dass <persName ref="6186">Wolfgang Rehlinger</persName> sich nach <placeName ref="513">Ulm</placeName> begeben habe, um sich dort für die <placeName ref="492">Straßburger</placeName> einzusetzen, ja dass <persName ref="7706">Granvelle</persName> bereits auf dem Weg nach <placeName ref="492">Straßburg</placeName> sei. Andere sagen, dass <persName ref="6186">Rehlinger</persName> eine Hochzeit zwischen einem Sohn des <persName ref="7706">Granvelle</persName> und einer Tochter des badischen Markgrafen [<persName ref="18471">Ernst I.</persName>] zu arrangieren versuche.
+		</div>
+		<div ref="10">
+			[10] Während eines Gesprächs mit <persName ref="8500">Peter Scher d.J.</persName> von Schwarzenburg sagte <persName ref="7689">Johann von Naves</persName> diesem, dass 
+			dessen Vater, <persName ref="6407">Peter Scher d.Ä.</persName>, sich beim Kaiser noch beliebter machen würde, wenn er die
+			<placeName ref="492">Straßburger</placeName> dazu brächte, sich mit dem Kaiser zu verständigen.
+			Denn auch wenn sie sich mit <persName ref="7637">König Franz I.</persName> verbinden würden, wären sie noch nicht aus der Klemme.
+		</div>
+		<div ref="11">
+			[11] Dem gegenwärtigen Boten ist kein Lohn zu geben, da <persName ref="4082">Zwick</persName> diesem bereits einen Zuschuss von 12
+			Schillingen gewährt hat. <persName ref="8123">Georg Müller</persName> soll sich keine<pb_edition start_of="313"/> Sorgen machen; <persName ref="4082">Zwick</persName> hält
+			ihm nichts vor.
+		</div>
+		<div ref="12">
+			[12] Bullinger bete für <persName ref="4082">Zwick</persName>. Sonntag nach der Hauptmahlzeit. 1547.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2813" page="313" state="names_checked">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Gottes gnad mit uns.</s>
+				<s n="2" lang="de" state="auto">Von <placeName ref="513">Ulm</placeName> wirtt mir geschriben der aidgnosischen bottschafft und anderer sachen halb,<fl>3</fl> wie ir uß byligendem brief zuͦ vernemen habent.</s>
+				<s n="3" lang="de" state="auto">Das wellend mir by zoͤgern<fl>4</fl> wider schicken.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+ 			<p>
+				<s n="4" lang="de" state="auto">Des kaisers<fl>5</fl> schriben ist gen <placeName ref="300">Lutzern</placeName> gewisslich kummen.</s>
+				<s n="5" lang="de" state="auto"><persName ref="5332">Marte Hux</persName><fl>6</fl> von <placeName ref="474">Sant Gallen</placeName> hatt es hoͤren leßen.</s>
+				<s n="6" lang="de" state="auto">Das werdent ir durch d. <persName ref="8049">Vadianum</persName> woll<fl>a</fl> erfaren kuinden.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="de" state="auto">Von <persName ref="4285">Jergen Besserer</persName><fl>7</fl> hab ich kain schriben, wie im brieff<fl>8</fl> gemeldet wirtt.</s>
+				<s n="8" lang="de" state="auto">Achten, er werde ettwa dem <persName ref="8498">Martzell Dieterich</persName><fl>9</fl> geschriben haben.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="de" state="auto">Hieby ain verzaichnus des churfursten zuͦ <persName ref="19065">Sachsen</persName><fl>10</fl> volcks.</s>
+				<s n="10" lang="de" state="auto">Kumpt uß <placeName ref="361">Nurnberg</placeName>.</s>
+				<s n="11" lang="de" state="auto">Die<fl>11</fl> schicken mir ouch wider.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="12" lang="de" state="auto">Gen<fl>12</fl> <placeName ref="45">Biberach</placeName> hatt man gelegt by<fl>13</fl> 2000 Spanger.<fl>14</fl></s>
+				<s n="13" lang="de" state="auto">Die habent glich von stund an die schluͤssel zuͦn thoren gnommen.</s>
+				<s n="14" lang="de" state="auto">Ach gott, erbarm dich unser!</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="15" lang="de" state="auto">Minen anschlag<fl>15</fl> werden ir von h. Maister <persName ref="8123">Jergen</persName><fl>16</fl> vernommen haben.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="16" lang="de" state="auto">Der <persName ref="7706">Granvella</persName><fl>17</fl> ryt in das <placeName ref="631">Burgund</placeName>.</s>
+				<s n="17" lang="de" state="auto">Ist zuͦ <placeName ref="1318">Stockach</placeName> fur gezogen.<fl>18</fl></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="18" lang="de" state="auto">Der von Lando<fl>19</fl> hatt sydert zway mal by minen herren angehalten umb fürderung.<fl>20</fl></s>
+				<s n="19" lang="de" state="auto">Erbüt sich, so unser ettlich unstarck<fl>21</fl>, das er gen <placeName ref="2394">Sipplingen</placeName><fl>22</fl> <pb_edition start_of="314"/> oder in die <entity id="9" type="geo_island">Maynow</entity><fl>23</fl> biß zinstag<fl>24</fl> kum-<pb_scan n="87"/>men welle.</s>
+				<s n="20" lang="de" state="auto">Schribt,<fl>25</fl> der <persName ref="7706">Granvella</persName> hab ouch geraten, das wir nit lang ußbliben.<fl>26</fl></s>
+				<s n="21" lang="de" state="auto">Wir suchent uffzüg<fl>27</fl>, so vil gott gibt.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="22" lang="de" state="auto">Ettlich mainent, der <persName ref="6186">Wolff Rechlinger</persName><fl>28</fl> sye zuͦ <placeName ref="513">Ulm</placeName> gwesen von deren von <placeName ref="492">Straßburg</placeName> wegen, und der <persName ref="7706">Granvella</persName> ryte gen <placeName ref="492">Straßburg</placeName>.</s>
+				<s n="23" lang="de" state="auto">Das ist zuͦ <placeName ref="28">Basel</placeName> wol zuͦ erfaren.</s>
+				<s n="24" lang="de" state="auto">Ettlich sagent, er<fl>29</fl> helffe ain hürrat<fl>30</fl> machen zwüschent des <persName ref="7706">Granvella</persName> son<fl>31</fl> und des margrafen zuͦ <persName ref="18922">Baden</persName> dochter.<fl>32</fl></s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="25" lang="de" state="auto"><persName ref="7689">Naves</persName><fl>33</fl> hatt gsagt zum jungen <persName ref="8500">Petter Scheren</persName><fl>34</fl>, sin vatter<fl>35</fl> moͤcht im<fl>36</fl> darmitt noch ain gnedigern kaiser machen, wann er verhelffe, das <placeName ref="492">Straßburg</placeName> vertragen wurde.<fl>37</fl></s>
+				<s n="26" lang="de" state="auto">Dann wan sy sich schon<fl>38</fl> an den Frantzosen henckent, so habent sys noch nit gar.<fl>39</fl></s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="27" lang="de" state="auto">Ir sollend dem jetzigen potten nichts geben, dann<fl>40</fl> ich hab die nechsten 12 ß<fl>41</fl> noch zum vortail.<fl>42</fl></s>
+				<s n="28" lang="de" state="auto"><persName ref="8123">Jergen</persName><fl>43</fl> ists alles verzigen, und ich halt inn on klag.<pb_edition start_of="315"/></s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="29" lang="de" state="auto">Gott mit uch.</s>
+				<s n="30" lang="de" state="auto">Den bitten für mich.</s>
+				<s n="31" lang="de" state="auto">Datum sonntag nach imbiß<fl>44</fl> 47.</s>
+				<s n="32" lang="la" state="auto"><persName ref="4082">Conrat Zwick</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse.]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2813">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage</i> wolt.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Aus dem Inhalt des Briefes geht hervor, dass der Brief an Bullinger gerichtet ist.</fn>
+			<fn ref="2" meta="1">Zur Abfassungszeit dieses Briefes wusste <persName ref="4082">Zwick</persName> noch nicht (s. unten Z. 25-28), dass <persName ref="7689" >Johann von Naves</persName> in der Nacht von Samstag auf Sonntag den 19./20. Februar sterben würde oder gestorben war (s. dazu <link fk_file="12873">Nr. 2824</link>, Anm. 5). Doch spätestens Freitag den 25. war dies in <placeName ref="457">Konstanz</placeName> bekannt; s. <link fk_file="12873">Nr. 2824</link>,7-11. Da vorliegender Brief an einem Sonntag verfasst wurde (s. unten Z. 32), ist er also nicht später als auf den 20. Februar anzusetzen. Wegen der Angabe in unten Z. 15 über <persName ref="7706">Granvelles</persName> Abreise in Richtung <placeName ref="631">Burgund</placeName> muss vorliegender Brief nach Sonntag den 6. Februar entstanden sein. In unten Z. 14 wird ein Aufenthalt des Zürcher Ratsherren <persName ref="8123">Georg Müller</persName> in <placeName ref="457" >Konstanz</placeName> vorausgesetzt. Zwischen dem 6. und dem 20. Februar ist dieser am 11. in <placeName ref="457">Konstanz</placeName> bezeugt (s. <link fk_file="12849">Nr. 2800</link>, Anm. 43). Demzufolge kämen als Abfassungsdaten nur die Sonntage 13. und 20. in Frage. Da der Brief eine Nachricht über die Ende Januar in <placeName ref="513">Ulm</placeName> gesichtete eidgenössische Gesandtschaft übermittelt (s. <link fk_file="12839">Nr. 2790</link>,8- ii), nach welcher die Zürcher sich schon am 2. Februar bei den Konstanzern erkundigt hatten (s. <link fk_file="12836">Nr. 2787</link>,2-23 - dort bes. Z. 8-13) und wegen der Angabe in unten Z. 15 über <persName ref="7706">Granvelles</persName> Reise durch <placeName ref="1318">Stockach</placeName> ist das Datum vorliegenden Briefes eher auf Sonntag 13. Februar anzusetzen.</fn>
+			<fn ref="3">Siehe dazu <link fk_file="12836">Nr. 2787</link>,2-23; <link fk_file="12839">Nr. 2790</link>,8-11. - Der hier übersandte Brief aus <placeName ref="513">Ulm</placeName> wurde nicht ermittelt.</fn>
+			<fn ref="4">by zögern: mit dem (unbekannten) Briefüberbringer.</fn>
+			<fn ref="5"><persName ref="18538">Karl V.</persName> - Gemeint ist dessen Brief an die XIII Orte vom 18. Januar, der erst um den 28. Januar in der Eidgenossenschaft bekannt wurde; s. <link fk_file="12850">Nr. 2801</link>, Anm. 3.</fn>
+			<fn ref="6">Der St. Galler Ratsherr <persName ref="5332">Marti Hux</persName>, der oft von seiner Stadt als Abgeordneter an die Tagsatzungen zu Baden gesandt wurde; s. <bibl>EA</bibl> IV/1d 1098 unter "St. Gallen". Er war mit <persName ref="8049">Vadian</persName> entfernt verwandt; s. <bibl>HBBW</bibl> XVI 166, Anm. 4.</fn>
+			<fn ref="7">Der <placeName ref="513">Ulmer</placeName> Ratsherr <persName ref="4285">Georg Besserer</persName>.</fn>
+			<fn ref="8">In dem oben in Z. 1-3 erwähnten Brief.</fn>
+			<fn ref="9"><persName ref="8498">Marcell Dietrich von Schankwitz</persName>, der sich kurz vor dem 21. Januar 1547 nach <placeName ref="457">Konstanz</placeName> zurückgezogen hatte; s. <link fk_file="12811">Nr. 2762</link>, Anm. 98.</fn>
+			<fn ref="10"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>. - Am 19. Februar tauschte Bullinger sich mit <persName ref="8055">Ambrosius Blarer</persName> über diese Aufzeichnung aus; s. <link fk_file="12872">Nr. 2823</link>,4-7. Am 21. sandte auch <persName ref="8018">Haller</persName> ein solches Dokument an Bullinger; s. <link fk_file="12870">Nr. 2821</link>,188-197. 201f.</fn>
+			<fn ref="11">Das Wort "verzaichnus" kann sowohl neutral als auch feminin sein; s. <bibl>Fischer</bibl> II 1423.</fn>
+			<fn ref="12">Nach.</fn>
+			<fn ref="13">etwa.</fn>
+			<fn ref="14">Diese Angabe erlaubt es, die Ankunft der kaiserlichen Truppen in <placeName ref="45">Biberach</placeName> genauer zu datieren, als es [Christian Friedrich <i>Essich,]</i> Geschichte der Reformation zu <placeName ref="45">Biberach</placeName> vom Jahr 1517 bis zum Jahr 1650, <placeName ref="513">Ulm</placeName> 1817, S. 55f, vermochte. - Bereits am 4. März zogen diese Truppen aus <placeName ref="45">Biberach</placeName> ab; s. <link fk_file="12890">Nr. 2841</link>,89f.</fn>
+			<fn ref="15">Plan.</fn>
+			<fn ref="16">Der Zürcher Ratsherr <persName ref="8123">Georg Müller</persName>, der am 11. Februar in <placeName ref="457">Konstanz</placeName> war; s. oben Anm. 2.</fn>
+			<fn ref="17"><persName ref="7706">Nicolas Perrenot, Herr von Granvelle</persName>, der <placeName	ref="513">Ulm</placeName> am 6. Februar verlassen hatte; s. <link fk_file="12871">Nr. 2822</link>, Anm. 10.</fn>
+			<fn ref="18">Vgl. <link fk_file="12861">Nr. 2812</link>,50-54.</fn>
+			<fn ref="19"><persName ref="7612">Hans Jakob von Landau</persName>. - Siehe dazu <link fk_file="12849">Nr. 2800</link>, Anm. 6.</fn>
+			<fn ref="20">hatt angehalten umb fürderung: hat darauf gedrängt, (die Versöhnung <placeName ref="457">Konstanz</placeName>' mit dem Kaiser) voranzutreiben.</fn>
+			<fn ref="21">unschlüssig (sind).</fn>
+			<fn ref="22">Etwa 20 km nördlich von <placeName ref="457">Konstanz</placeName>, am nördlichen Ufer des Überlinger Sees (der nördliche Zipfel des <entity id="1" type="geo_lake">Bodensees</entity>).</fn>
+			<fn ref="23">Die 6 km nördlich von <placeName ref="457">Konstanz</placeName> gelegene Insel <entity id="9" type="geo_island">Mainau (Bodenseekreis, Baden-Württemberg)</entity>.</fn>
+			<fn ref="24">15. Februar.</fn>
+			<fn ref="25">Vgl. <bibl>Maurer, Übergang</bibl> 18.</fn>
+			<fn ref="26">(den Beschluss, sich mit dem Kaiser zu versöhnen) aufschieben.</fn>
+			<fn ref="27">Verzögerung. - Schon am Samstag, dem 19. Februar, antwortete <persName ref="4082">Zwick</persName> <persName ref="7612">Landau</persName> in diesem Sinne; s. <link fk_file="12849">Nr. 2800</link>, Anm. 6; <link fk_file="12869">Nr. 2820</link>,40-44.</fn>
+			<fn ref="28"><persName ref="6186">Wolfgang Rehlinger</persName>. - Dass dieser zugunsten <placeName ref="492">Straßburgs</placeName> Kontakt mit <persName ref="7706">Granvelle</persName> in <placeName ref="513">Ulm</placeName> aufnahm, ist belegt; s. <bibl>PC</bibl> IV/1 585f. 588-593; Franz Josef <i>Schöningh,</i> Die Rehlinger von Augsburg. Ein Beitrag zur deutschen Wirtschaftsgeschichte des 16. und 17. Jahrhunderts, Paderborn 1927, S. 18.</fn>
+			<fn ref="29"><persName ref="6186">Rehlinger</persName>.</fn>
+			<fn ref="30">Heirat.</fn>
+			<fn ref="31" type="bio" fk_person="7706">Antoine (geb. 1517), Bischof von Arras, kommt hier wegen seines geistlichen Standes nicht in Frage; ebensowenig <persName ref="7706">Granvelles</persName> jüngster Sohn, Frédéric, der damals erst 11 Jahre alt war. Gedacht wurde also an einen der drei weiteren Söhne, nämlich an Thomas (geb. 1521). Jérome (geb. 1524) oder Charles (geb. 1531); s. Daniel <i>Antony,</i> <persName ref="7706">Nicolas Perrenot de Granvelle</persName>. Premier conseiller de Charles Quint, Clamecy 2006, S. 610-612. Allerdings liegt hier wohl ein falsches Gerücht vor.</fn>
+			<fn ref="32" type="bio" fk_person="18471">Hier könnte nur eine Tochter des Markgrafen <persName ref="18471">Ernst I.</persName> (gest. 1552) von Baden-Durlach (zu den Namen seiner Töchter s. Johann Christian <i>Sachs,</i> Einleitung in die Geschichte der Markgrafschaft Baden, 4. Teil, Karlsruhe 1770, S. 72f) in Frage kommen und nicht etwa eine Tochter des bereits 1536 verstorbenen Markgrafen <persName ref="18438">Bernhard III. von Baden-Baden</persName>, da dieser als Verstorbener hier sonst anders bezeichnet worden wäre. Der 30jährige, ledige <persName ref="18922">Bernhard von Baden-Durlach</persName>, Sohn des oben genannten Ernst, war noch zu jung, um bereits eine uneheliche Tochter im Heiratsalter zu haben.</fn>
+			<fn ref="33"><persName ref="7689">Johann von Naves</persName>.</fn>
+			<fn ref="34"><persName ref="8500">Peter Scher d.J.</persName> von Schwarzenburg.</fn>
+			<fn ref="35"><persName ref="6407">Peter Scher d.Ä.</persName> von Schwarzenburg.</fn>
+			<fn ref="36">sich.</fn>
+			<fn ref="37">vertragen wurde: (mit dem Kaiser) versöhnt würde.</fn>
+			<fn ref="38">Dann wan schon: Denn auch wenn.</fn>
+			<fn ref="39">Zu verstehen ist: wären sie (die <placeName ref="492">Straßburger</placeName>) noch nicht aus der Klemme. - Damals stand <placeName ref="492">Straßburg</placeName> tatsächlich in Verhandlung mit <entity id="11" type="geo_country">Frankreich</entity>; s. <bibl>PC</bibl> IV/1 599-602.</fn>
+			<fn ref="40">denn.</fn>
+			<fn ref="41">Schilling. - 1 Pfund (Währung) = 20 Schilling.</fn>
+			<fn ref="42">zum vortail: zugute (wohl indem er dem Boten ein voriges Mal mehr bezahlt hatte); vgl. <bibl>SI</bibl> XII 1508.</fn>
+			<fn ref="43"><persName ref="8123">Georg Müller</persName>; vgl. oben Z. 14. - Welche Angelegenheit <persName ref="4082">Zwick</persName> hier anspricht, ist unbekannt.</fn>
+			<fn ref="44">Die Hauptmahlzeit im Gegensatz zum Abendessen; s. <bibl>Fischer</bibl> IV 20.</fn>
+		</num>
+	</footnotes>
+</file>

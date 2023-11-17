@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11370" id_hbbw="1327" id_irg_sort="1327" id_sort="113270">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11370</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1327</arpa>
+		<scan_pages>
+			<scan id="26424" dir="11370/Autograph/" page="1">00 E_II_342__fol__98_r_.tif</scan>
+			<scan id="26425" dir="11370/Autograph/" page="2">01 E_II_342__fol__98_v_.tif</scan>
+		</scan_pages>
+		<reference id="42" fk_id="42" fk_lang_code="42">
+			<entry>Die Vadianische Briefsammlung der Stadtbibliothek St. Gallen, hg. v. Emil Arbenz und Hermann Wartmann, 7 Bde., St. Gallen 1890-1913 - MVG 24-30a.</entry>
+			<title>Vadian BW V</title>
+			<abbrev>VBS</abbrev>
+			<editor>Arbenz, Emil; Wartmann, Hermann</editor>
+			<period>1531-1540</period>
+			<year>1890-1913</year>
+			<place>St. Gallen</place>
+			<publisher>Fehr'sche Buchhandlung</publisher>
+			<volume>V</volume>
+		</reference>
+		<senders>
+			<sender id="23082" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23083" vf="1" fk_add_type="1">
+				<person id="8049" fk_id="8049">
+					<name>Vadian (von Watt)</name>
+					<forename>Joachim</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11370">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">11</month>
+				<day fk_d="" d="" vf="1" fn="">5</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17841">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,98</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9519" fk_bib="0">
+				<entry>Vadian BW V, S. 576f, Nr. 1077</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="23">
+				<lang id="1" iso="de" count="1" p="4.3"/>
+				<lang id="5" iso="la" count="22" p="95.7"/>
+			</sentences>
+			<words count="272">
+				<lang id="1" iso="de" count="3" p="1.1"/>
+				<lang id="5" iso="la" count="269" p="98.9"/>
+			</words>
+			<chars count="1682">
+				<lang id="1" iso="de" count="16" p="1.0"/>
+				<lang id="5" iso="la" count="1666" p="99.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1327" page="247">
+		<div ref="1">
+			Dankt für zwei Briefe. Es freut ihn, daß sich <persName ref="8049">Vadian</persName> die Erweiterung
+			seines [1518 erstmals erschienenen] Kommentars zu [„De chorographia“ von
+			<persName ref="18303">Pomponius] Mela</persName> vorgenommen
+			hat; noch neugieriger ist Bullinger auf die beiden andern angekündigten Bücher. Das Kriegsglück von
+			[<persName ref="19042">Cheireddin, gen.] Barbarossa</persName>
+			schmerzt ihn sehr; aber die treulosen Fürsten verdienen es, und es wird noch schlimmer kommen. Die
+			Witwe <persName ref="19945">Rubli</persName> hat die beiliegenden zehn Gulden für den Unterhalt von
+			<persName ref="4196">[Sebastian] Uriel [Appenzeller]</persName> herausgerückt. Pfarrer
+			<persName ref="8302">Leonhard Brunner</persName> in <placeName ref="569">Worms</placeName>
+			berichtet [<link fk_file="11362">Nr. 1319</link>], daß die Pest dort heftig wüte; begünstigt durch den Tod
+			von einigen Reformationsgegnern im Rat, habe er nun die Abendmahlsfeier einführen können. Gemäß
+			<persName ref="1365">[Simon] Grynäus</persName>
+			[<link fk_file="11369">Nr. 1326</link>] greift die Pest auch in
+			<placeName ref="28">Basel</placeName> um sich, und Bullinger befürchtet, daß die Frau von
+			<persName ref="8418">Myconius</persName>, [Margret], schon
+			gestorben ist; einige Studenten flüchteten nach Zürich. Ansonsten steht es in Zürich gut. Die Tagsatzung
+			wird zu Martini [11. November] in <placeName ref="21">Baden</placeName> stattfinden. Empfiehlt den
+			Briefüberbringer, einen Franzosen [oder: Gallus; vgl.
+			<link fk_file="11361">Nr. 1318</link>]; er hat eine Tochter des St. Galler Bürgers
+			<persName ref="6498">Othmar Schryber</persName> geheiratet. Bittet
+			<persName ref="8049">Vadian</persName>, ihm häufig zu schreiben, und entschuldigt seine schlechte
+			Schrift mit seiner Kränklichkeit.
+		</div>
+	</regest>
+	<letter lang="la" edition="VBS" vol="5" fk_bibliography="42" nr="1077" page="576">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et vitae innocentiam a domino.</s>
+				<s n="2" lang="la" state="auto">Pensasti binis literis, iisque copiosissimis, vir clarissime, quod hactenus deesse querebar.</s>
+				<s n="3" lang="la" state="auto">Dominus sit merces tua; tot enim me beneficiis etiam oneras, ut nunquam sim remunerando.</s>
+				<s n="4" lang="la" state="auto">Pollicitus es commentarios locupletiores a te factos in Melam, qua re mirum quam exhileraveris.</s>
+				<s n="5" lang="la" state="auto">Plus autem alii duo, quos nosti, libri delectant, tametsi nondum visi; tam enim adlubescit argumentum; praeterea novi ingenium felix et quanta cum eruditione id sis tractaturus.</s>
+				<s n="6" lang="la" state="auto">Dominus augeat tibi spiritum suum.</s>
+				<s n="7" lang="la" state="auto">Indolui vehementer lecta Barbarossae in re militari felicitate; sed video principum nostrorum ignaviam et impietatem talia mereri; immo cogor, atrociora aliquando, vereor, audire.</s>
+				<s n="8" lang="la" state="auto">Vidua illa Rublia hos, quos vides, aureos decem numeravit in Urielis pueri sumptus.</s>
+				<s n="9" lang="la" state="auto">Aegre illos extorsi nec semel desperavi; tandem accepi.</s>
+				<s n="10" lang="la" state="auto">A Wormatia scribit hisce diebus Leonhartus Fonteius, contionator, pestem graviter saevire in cives et sublatos esse e senatu tyrannos aliquot, itaque usum se esse occasione oblata et suadentibus multis piis parasse coenam domini ecclesiae, quae ipsam miro applausu exceperit.</s>
+				<s n="11" lang="la" state="auto">Rogat itaque in literis, Deum oremus, ut, quod coepit, confirmet et afflictorum gravissima peste misereatur.</s>
+				<s n="12" lang="la" state="auto"><placeName ref="28">Basileae</placeName> quoque coepit illa incrudescere, ceu questus est datis ad me literis Grynaeus.</s>
+				<s n="13" lang="la" state="auto">Vereor, <persName ref="8418">Myconii</persName> uxorem iam excessisse.</s>
+				<s n="14" lang="la" state="auto">Fugierunt ad nos studiosi aliquot, praesertim Grynaei convictores.</s>
+				<s n="15" lang="la" state="auto">Quamdiu dominus id teli non in nos quoque vibraverit, ipse novit.</s>
+				<s n="16" lang="la" state="auto">Res alioqui nostrae bene habent, gratia domino.</s>
+				<s n="17" lang="la" state="auto">Comitiae celebrabuntur feriis Martini Badenae; quod nosti, reor.</s>
+				<s n="18" lang="la" state="auto">Commendo tibi hunc Gallum, virum optimum et exploratum; civis nostri filiam duxit Ottmari Schrybers.</s>
+				<s n="19" lang="la" state="auto">Tu me ama, soles, et frequenter literis interpellabis, quaeso.</s>
+				<s n="20" lang="la" state="auto">Vale et cacographiam boni consule; excidit valetudinario etc.</s>
+				<s n="21" lang="de" state="auto">5. Novembris 1539.</s>
+				<s n="22" lang="la" state="auto">Bullingerus tuus.</s>
+			</p>
+			<p>
+				<s n="23" lang="la" state="auto">Clarissimo viro D. Ioachimo Vadiano, consuli Sangallensi, domino suo colendissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="42" nr="1077"/>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1327" page="247"/>
+			<footnotes fk_bibliography="11" nr="1327"/>
+		</alternative>
+	</alternatives>
+</file>

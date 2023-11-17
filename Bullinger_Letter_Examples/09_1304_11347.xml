@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11347" id_hbbw="1304" id_irg_sort="1304" id_sort="113040">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11347</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1304</arpa>
+		<scan_pages>
+			<scan id="26374" dir="11347/Autograph (Kopie)/" page="1">00 E_II_345__S__179_.tif</scan>
+			<scan id="26375" dir="11347/Autograph (Kopie)/" page="2">01 E_II_345__S__180_.tif</scan>
+			<scan id="26376" dir="11347/Autograph (Entwurf)/" page="1">00 E_II_337__fol__318_r_.tif</scan>
+			<scan id="26377" dir="11347/Autograph (Entwurf)/" page="2">01 E_II_337__fol__318_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23032" vf="1" fk_add_type="1">
+				<person id="1753" fk_id="1753">
+					<name>Jud</name>
+					<forename>Leo</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+			<sender id="23033" vf="1" fk_add_type="1">
+				<person id="8412" fk_id="8412">
+					<name>Megander (Großmann)</name>
+					<forename>Kaspar</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+			<sender id="23034" vf="1" fk_add_type="1">
+				<person id="8127" fk_id="8127">
+					<name>Pellikan (Kürschner)</name>
+					<forename>Konrad</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+			<sender id="23035" vf="1" fk_add_type="1">
+				<person id="8171" fk_id="8171">
+					<name>Bibliander (Buchmann)</name>
+					<forename>Theodor</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+			<sender id="23036" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23037" vf="1" fk_add_type="1">
+				<person id="1974" fk_id="1974">
+					<name>Luther</name>
+					<forename>Martin</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11347">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">8</month>
+				<day fk_d="" d="" vf="1" fn="">30</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17818">
+				<doc_type id="10">Autograph (Kopie)</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 345,179 f.</signature>
+				<note>Edition richtet sich nach dieser Kopie von HBs Hand</note>
+				<author>Bullinger, Heinrich</author>
+			</document>
+			<document id="20521">
+				<doc_type id="5">Autograph (Entwurf)</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 337,318</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7467" fk_bib="0">
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>Rudolf Hospinian, Historiae sacramentariae pars altera, Zürich 1602, f. 172r.-v.</entry>
+			</print>
+			<print id="7468" fk_bib="0">
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>Analecta Lutherana, Briefe und Actenstücke zur Geschichte Geschichte Luthers, hg. v. Theodor Kolde, Gotha 1883, S. 344–346</entry>
+			</print>
+			<print id="7469" fk_bib="0">
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>WA Briefwechsel VIII 546f, Nr. 3383</entry>
+			</print>
+			<print id="11147" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1304, S. 206</entry>
+				<page>206</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="17">
+				<lang id="5" iso="la" count="17" p="100.0"/>
+			</sentences>
+			<words count="429">
+				<lang id="5" iso="la" count="429" p="100.0"/>
+			</words>
+			<chars count="2603">
+				<lang id="5" iso="la" count="2603" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1304" page="205">
+		<div ref="1">
+			Haben sein Buch [„Von den Konziliis und Kirchen“] gelesen und anerkennen dessen Wert, sind jedoch betroffen
+			darüber, daß er <persName ref="4091">Zwingli</persName> in die Nähe der Nestorianer rückt. Nicht nur sprechen die gemeinsam unterzeichneten
+			<placeName ref="311">Marburger</placeName> Artikel von der unzerteilten Person Christi, auch in seiner [„Fidei ratio“] hat sich <persName ref="4091">Zwingli</persName> zur
+			Lehre der Schrift, der Väter und insbesondere des Athanasius bekannt; auch heute lehren die Zürcher nichts
+			anderes, wie aus dem von <persName ref="1974">Luther</persName> gebilligten [Ersten Helvetischen] Bekenntnis hervorgeht. Sie bitten
+			deshalb,<pb_edition start_of="206"/> <persName ref="4091">Zwingli</persName> nicht unverdient in Verruf zu bringen, und erinnern daran, daß
+			sie im Brief [der reformierten Städte] vom Mai 1538 brüderliche Verständigung über gegenseitige Beschwerden
+			angeboten haben.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1304" page="206">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Clarissimo viro doctori <persName ref="1974">Martino Luthero</persName>, domino colendissimo<fl>b</fl>.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Gratiam et vitae innocentiam a deo patre per dominum nostrum Iesum Christum.</s>
+			</p>
+			<p>
+				<s n="3" lang="la" state="auto">Legimus, quae scripsisti, doctissime <persName ref="1974">Luthere</persName>, de consiliis et patribus<fl>1</fl>, necessarium plane et congruentem<fl>c</fl> nostro saeculo nostrisque moribus et hominibus librum<fl>d</fl>.</s>
+				<s n="4" lang="la" state="auto">Dominus confirmet te, ut sic pergas antichristi regnum ferrea constantia et fortitudine invicta oppugnare et destruere.</s>
+				<s n="5" lang="la" state="auto">Dolet vero illud, quod in eo<fl>e</fl> optimi et doctissimi viri <persName ref="4091">H[uldrychi] Zvinglii</persName> felicis memoriae, praeceptoris nostri, mentionem feceris non omni parte honestam, quasi is aliquando sequtus sit dogma <persName ref="18253">Nestorii</persName> aut certe a Nestorianicis parum discrepantia tradiderit<fl>f</fl><fl>2</fl>, cum tamen ex ipso in synodo<fl>g</fl> <placeName ref="311">Marpurgensi</placeName>, si bene meministi<fl>h</fl>, plane diversum didiceris.</s>
+				<s n="6" lang="la" state="auto">Nam<fl>i</fl> et articuli illi, qui ab utroque subscripti omnium teruntur manibus, testantur atque fatentur Iesu Christi personam esse indisiunctam<fl>3</fl>.</s>
+				<s n="7" lang="la" state="auto">Et certe catholicam<fl>k</fl> ille<fl>l</fl> fidem de unitate personae Christi<fl>m</fl> naturarumque proprietate ad eum modum semper et ubique<fl>n</fl> confessus est, quemadmodum ipsam confitendam tradidit<fl>o</fl> praescripsitque<fl>p</fl> scriptura canonica, priscorum<fl>q</fl> denique<fl>r</fl> consiliorum et antiquorum<fl>s</fl> patrum, praesertim autem<fl>t</fl> divi <persName ref="18895">Athanasii</persName> fides<fl>4</fl>.</s>
+				<s n="8" lang="la" state="auto">Videre id licet in confessione illa fidei suae, quam scripsit ad <persName ref="18538">Carolum</persName> caesarem <placeName ref="1976">Augustae</placeName> comitia<pb_edition start_of="207"/> celebrantem<fl>5</fl>, ut<fl>u</fl> interim de aliis eius libris nihil dicamus; illum in postremis vitae suae annis aedidit<fl>v</fl>.</s>
+				<s n="9" lang="la" state="auto">Neque aliud nos ipsi<fl>w</fl> vel hodie docemus, quam quod ille de hoc negotio tradidit et quod confessione illa <placeName ref="28">Basileae</placeName> conscripta<fl>6</fl> et tibi<fl>x</fl> per d. <persName ref="5565">Capitonem</persName> et<fl>y</fl> <persName ref="467">Bucerum</persName> oblata<fl>z</fl> expressimus.</s>
+				<s n="10" lang="la" state="auto">Caeterum illa tibi non displicuit<fl>aa</fl><fl>7</fl>; non displiceat ergo, quod ab illa nihil variat; imo hortamur, <persName ref="1974">Luthere</persName> optime<fl>ab</fl>, tuam integritatem, ne<fl>ac</fl> <persName ref="4091">Zvinglii</persName><pb_scan n="180"/> nostri<fl>ad</fl> fidem apud ecclesias de haeresi Nestoriana reddas suspectam<fl>ae</fl>.</s>
+				<s n="11" lang="la" state="auto"><persName ref="4091">Zvinglius</persName> enim cum <persName ref="18253">Nestorio</persName> plane nihil commune habuit<fl>af</fl>, sed vir fuit pius<fl>ag</fl> et orthodoxus, veritatis catholicae et aequitatis sanctę amantissimus, qui<fl>ah</fl> si tibi recte cognitus fuisset, non adeo incruduisset proculdubio inter vos noxia illa concertatio.</s>
+				<s n="12" lang="la" state="auto">Verum cum diversum evenerit et dissidium ipso vivo non quiverit prorsus sopiri, cupimus<fl>ai</fl> saltem, ut rectius perpensa et<fl>ak</fl> cognita fide hominis piissimi vel post fata cesset altercatio veterisque dissidii scintillulae penitus extinguantur tandem<fl>al</fl>.</s>
+				<s n="13" lang="la" state="auto">Atque haec ideo<fl>am</fl> scribimus ad te, charissime <persName ref="1974">Luthere</persName>, praesertim cum<fl>an</fl> ultimis illis literis ad te<fl>ao</fl> e Tigurina synodo mense maio anno 1538<fl>ap</fl> scriptis<fl>8</fl> polliciti simus fraterne indicaturos nos tibi, si quid in te desideraremus<fl>aq</fl>, quo pax inter nos firma constare queat<fl>9</fl>.</s>
+				<s n="14" lang="la" state="auto">Amico ergo animo haec apud te quaerimur et tuae modestiae indicamus<fl>ar</fl> per charitatem<pb_edition start_of="208"/> orantes, ut, si quid in nobis quoque desideraveris, amice indicare nobis ut fratribus<fl>as</fl>, interim<fl>at</fl> et de <persName ref="4091">Zvinglio</persName> nostro<fl>au</fl> meliora animo tuo<fl>av</fl> polliceri ac nostra haec amico profecta animo<fl>aw</fl> boni consulere velis.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto">Vale cum tuis omnibus.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Tiguri, 30. augusti anno 1539.</s>
+			</p>
+			<p>
+				<s n="17" lang="la" state="auto">Tui<fl>ax</fl> ex animo <persName ref="1753">Leo Iudae</persName>, <persName ref="8412">Gaspar Megander</persName>, <persName ref="8127">Conradus Pellicanus</persName>, <persName ref="8171">Theodorus Bibliander</persName>, Heinrychus Bullingerus, ministri ecclesiae urbis Tigurinae<fl>ay</fl>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1304">
+		<alpha>
+			<fn ref="a" meta="1"><i>Autograph verschollen; vgl. oben <link fk_file="11271">Nr. 1228</link>, Anm. a.</i></fn>
+			<fn ref="ab"><i>Erhalten ist auch Bullingers Entwurf (Zürich StA, E II 337a, 318r. - v.; zit.: E) sowie eine weitere autographe Kopie</i> (ebd., E II 347, 260-262; zum Kontext dieser späteren Abschrift s. Rainer Henrich, <i>Zu den Anfängen der Geschichtsschreibung über den Abendmahlsstreit bei Heinrich Bullinger und Johann Stumpf in: <bibl>Zwa</bibl> XX, 1993, S. 50).</i></fn>
+			<fn ref="b"><i>Die Adresse fehlt in E.</i></fn>
+			<fn ref="c"><i>E: korrigiert aus</i> necessaria plane et congruentia.</fn>
+			<fn ref="d"><i>E:</i> librum <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="e"><i>E: nach</i> eo <i>gestrichenes</i> libro.</fn>
+			<fn ref="f"><i>E:</i> a Nestorianicis ... tradiderit <i>korrigiert aus</i> non dissimilia scripserit.</fn>
+			<fn ref="g"><i>E:</i> synodo <i>korrigiert aus</i> conventu.</fn>
+			<fn ref="h"><i>E:</i> si bene meministi <i>am Rande nachgetragen,</i> bene <i>korrigiert aus</i> recte.</fn>
+			<fn ref="i-k"><i>Gestrichene Varianten in E: [1.]</i> Testatur illud conscripta Marpurgi confessio, quae typis excusa prostat. Quid quod ille ubique catholicam ... <i>[2.]</i> Et articuli illi, qui tamen sunt aediti <i>(korrigiert aus:</i> Et articuli tamen aediti) et ab utroque subscripti, fatentur Jesu Christi personam esse indisiunctam. Sed et catholicam ...</fn>
+			<fn ref="l"><i>E:</i> ille <i>sowie gestrichenes</i> semper <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="m"><i>E:</i> Christi <i>anstelle von gestrichenem</i> et[?] <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="n"><i>E:</i> ad eum modum ... ubique <i>über der Zeile nachgetragen;</i> semper et ubique <i>korrigiert aus</i> ita ubique.</fn>
+			<fn ref="o"><i>E: korrigiert aus</i> quemadmodum de iis confitendum tradit.</fn>
+			<fn ref="p"><i>E:</i> praescripsitque <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="q"><i>E: vor</i> priscorum <i>gestrichenes</i> et.</fn>
+			<fn ref="r"><i>E:</i> denique <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="s"><i>E:</i> et antiquorum <i>korrigiert aus</i> vetustorumque.</fn>
+			<fn ref="t"><i>E:</i> autem <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="u-v"><i>In E am Rande nachgetragen; korrigiert aus:</i> ut ex aliis interim libris eius nulla afferamus testimonia. Hic inter postremos aeditus est.</fn>
+			<fn ref="w"><i>E:</i> ipsi <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="x"><i>E:</i> et tibi <i>korrigiert aus</i> tibique.</fn>
+			<fn ref="y"><i>E:</i> Capitonem et <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="z"><i>E:</i> oblata <i>korrigiert aus</i> missa Schmalkaldiam.</fn>
+			<fn ref="aa"><i>E:</i> illa ... displicuit <i>korrigiert aus</i> non displicuit ea tibi.</fn>
+			<fn ref="ab"><i>E:</i> optime <i>am Rande nachgetragen.</i></fn>
+			<fn ref="ac">E: ne <i>korrigiert aus</i> nous ea[?].</fn>
+			<fn ref="ad"><i>E:</i> nostri <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="ae">E: reddas suspectam <i>korrigiert aus</i> suspectam reddere.</fn>
+			<fn ref="af"><i>E:</i> cum Nestorio ... habuit <i>korrigiert aus</i> certe nihil cum Nestorio commune habuit.</fn>
+			<fn ref="ag"><i>E: vor</i> pius <i>gestrichenes</i> bonus.</fn>
+			<fn ref="ah-ai"><i>E</i> qui si tibi fuisset recte cognitus, nullum proculdubio inter vos extitisset dissidium. Sed quoniam hoc dominus ipso vivo non dedit, cuperemus.</fn>
+			<fn ref="ah"><i>E</i> qui si tibi fuisset recte cognitus, nullum proculdubio inter vos extitisset dissidium. Sed quoniam hoc dominus ipso vivo non dedit, cuperemus.</fn>
+			<fn ref="ai"><i>E</i> qui si tibi fuisset recte cognitus, nullum proculdubio inter vos extitisset dissidium. Sed quoniam hoc dominus ipso vivo non dedit, cuperemus.</fn>
+			<fn ref="ak"><i>E:</i> perpensa et <i>über der Zeile</i> nachgetragen.</fn>
+			<fn ref="al"><i>E:</i> cesset ... tandem <i>korrigiert aus</i> cessent concertatio et dissidii antiqui scintillulae.</fn>
+			<fn ref="am"><i>E:</i> Atque ideo haec.</fn>
+			<fn ref="an"><i>E:</i> ad te ... praesertim [cum] <i>anstelle von gestrichenem</i> quod (cum <i>im Einband verdeckt).</i></fn>
+			<fn ref="ao"><i>E:</i> ad te <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="ap"><i>E:</i> e Tigurina ... anno 1538 <i>korrigiert aus</i> e Tigurino conventu ad te.</fn>
+			<fn ref="aq"><i>E: korrigiert aus</i> desideraverimus.</fn>
+			<fn ref="ar"><i>E:</i> tuae modestiae fraterne indicamus <i>(korrigiert aus</i> ut aequi bonique consulas nostra precamur); fraterne <i>nachträglich gestrichen.</i></fn>
+			<fn ref="as"><i>E:</i> nobis ut fratribus <i>korrigiert aus</i> velis.</fn>
+			<fn ref="at"><i>E: nach</i> interim <i>gestrichenes</i> vero.</fn>
+			<fn ref="au"><i>E:</i> nostro <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="av"><i>E:</i> animo tuo <i>korrigiert aus</i> tibi.</fn>
+			<fn ref="aw"><i>E:</i> amico profecta animo <i>am Rande nachgetragen.</i></fn>
+			<fn ref="ax-ay"><i>E: Vornamen (außer bei Jud) nachgestellt; zwischen Bibliander und Bullinger:</i> Fabritius Eras.; <i>vor</i> urbis <i>gestrichenes</i> T. <i>Gestrichene Varianten: [1.]</i> Tui Leo Iudae, Gaspar Megander, Bullingerus, ministri ecclesiae Tigurinae. <i>[2.]</i> Tui Conr. Pellic., Theod. Biblian. ac reliqui fratres Tigurinae ecclesiae ministri.</fn>
+			<fn ref="ax"><i>E: Vornamen (außer bei <persName ref="1753">Jud</persName>) nachgestellt; zwischen <persName ref="8171">Bibliander</persName> und Bullinger:</i> Fabritius Eras.; <i>vor</i> urbis <i>gestrichenes</i> T. <i>Gestrichene Varianten: [1.]</i> Tui <persName ref="1753">Leo Iudae</persName>, <persName ref="8412">Gaspar Megander</persName>, Bullingerus, ministri ecclesiae Tigurinae. <i>[2.]</i> Tui Conr. Pellic., Theod. Biblian. ac reliqui fratres Tigurinae ecclesiae ministri.</fn>
+			<fn ref="ay"><i>E: Vornamen (außer bei <persName ref="1753">Jud</persName>) nachgestellt; zwischen <persName ref="8171">Bibliander</persName> und Bullinger:</i> Fabritius Eras.; <i>vor</i> urbis <i>gestrichenes</i> T. <i>Gestrichene Varianten: [1.]</i> Tui <persName ref="1753">Leo Iudae</persName>, <persName ref="8412">Gaspar Megander</persName>, Bullingerus, ministri ecclesiae Tigurinae. <i>[2.]</i> Tui Conr. Pellic., Theod. Biblian. ac reliqui fratres Tigurinae ecclesiae ministri.</fn>
+			<!-- Splits -->
+			<fn ref="i"><i>Gestrichene Varianten in E: [1.]</i> Testatur illud conscripta Marpurgi confessio, quae typis excusa prostat. Quid quod ille ubique catholicam ... <i>[2.]</i> Et articuli illi, qui tamen sunt aediti <i>(korrigiert aus:</i> Et articuli tamen aediti) et ab utroque subscripti, fatentur Jesu Christi personam esse indisiunctam. Sed et catholicam ...</fn>
+			<fn ref="k"><i>Gestrichene Varianten in E: [1.]</i> Testatur illud conscripta Marpurgi confessio, quae typis excusa prostat. Quid quod ille ubique catholicam ... <i>[2.]</i> Et articuli illi, qui tamen sunt aediti <i>(korrigiert aus:</i> Et articuli tamen aediti) et ab utroque subscripti, fatentur Jesu Christi personam esse indisiunctam. Sed et catholicam ...</fn>
+			<fn ref="u"><i>In E am Rande nachgetragen; korrigiert aus:</i> ut ex aliis interim libris eius nulla afferamus testimonia. Hic inter postremos aeditus est.</fn>
+			<fn ref="v"><i>In E am Rande nachgetragen; korrigiert aus:</i> ut ex aliis interim libris eius nulla afferamus testimonia. Hic inter postremos aeditus est.</fn>
+			<fn ref="ah"><i>E</i> qui si tibi fuisset recte cognitus, nullum proculdubio inter vos extitisset dissidium. Sed quoniam hoc dominus ipso vivo non dedit, cuperemus.</fn>
+			<fn ref="ai"><i>E</i> qui si tibi fuisset recte cognitus, nullum proculdubio inter vos extitisset dissidium. Sed quoniam hoc dominus ipso vivo non dedit, cuperemus.</fn>
+			<fn ref="ax"><i>E: Vornamen (außer bei Jud) nachgestellt; zwischen Bibliander und Bullinger:</i> Fabritius Eras.; <i>vor</i> urbis <i>gestrichenes</i> T. <i>Gestrichene Varianten: [1.]</i> Tui Leo Iudae, Gaspar Megander, Bullingerus, ministri ecclesiae Tigurinae. <i>[2.]</i> Tui Conr. Pellic., Theod. Biblian. ac reliqui fratres Tigurinae ecclesiae ministri.</fn>
+			<fn ref="ay"><i>E: Vornamen (außer bei Jud) nachgestellt; zwischen Bibliander und Bullinger:</i> Fabritius Eras.; <i>vor</i> urbis <i>gestrichenes</i> T. <i>Gestrichene Varianten: [1.]</i> Tui Leo Iudae, Gaspar Megander, Bullingerus, ministri ecclesiae Tigurinae. <i>[2.]</i> Tui Conr. Pellic., Theod. Biblian. ac reliqui fratres Tigurinae ecclesiae ministri.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">"Von den Konziliis und Kirchen" (<bibl>WA</bibl> L 488-653); vgl. oben <link fk_file="11329">Nr. 1286</link>, 101.</fn>
+			<fn ref="2">AaO, S. 591, 9-14; vgl. oben <link fk_file="11332">Nr. 1289</link>, 1-5.</fn>
+			<fn ref="3">Vgl. den dritten <placeName ref="311">Marburger</placeName> Artikel von 1529 (<bibl>Z</bibl> VI/II 521, 15f; <bibl>WA</bibl> XXX/III 161, 15).</fn>
+			<fn ref="4">Gemeint ist das Symbolum Athanasianum (<bibl>BSLK</bibl> 28-30).</fn>
+			<fn ref="5">In seiner "Fidei ratio" von 1530 (<bibl>Z</bibl> VI/II 753-817) betont <persName ref="4091">Zwingli</persName> als Reaktion auf den Vorwurf des Nestorianismus die Einheit der Person Christi und bekennt sich ausdrücklich zum Athanasianum (aaO, S. 792-794).</fn>
+			<fn ref="6">d. h. im Ersten Helvetischen Bekenntnis von 1536 (<bibl>BSRK</bibl> 101-109, bes. S. 103, Art. 11).</fn>
+			<fn ref="7">Vgl. <bibl>HBBW</bibl> VIII, <link fk_file="11211">Nr. 1168</link>.</fn>
+			<fn ref="8"><bibl>WA</bibl> Briefwechsel VIII 211-214, Nr. 3224 (vgl. <bibl>HBBW VIII</bibl> <link fk_file="11171">[Nr. 1128]</link>, S. 133, Anm. 8).</fn>
+			<fn ref="9">AaO, S. 213, 71-78.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11292" id_hbbw="1249" id_irg_sort="1249" id_sort="112490">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11292</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1249</arpa>
+		<scan_pages>
+			<scan id="26255" dir="11292/Autograph/" page="1">00 E_II_356__S__936_.tif</scan>
+			<scan id="26256" dir="11292/Autograph/" page="2">01 E_II_356__S__937_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22918" vf="1" fk_add_type="1">
+				<person id="8128" fk_id="8128">
+					<name>Melander (Schwarzmann) d.J.</name>
+					<forename>Dionysius</forename>
+				</person>
+				<place id="157" vf="1" fk_id="157" long="8.682126" lat="50.110922">Frankfurt am Main</place>
+				<district id="71">Hessen</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22919" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11292">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">4</month>
+				<day fk_d="" d="" vf="1" fn="">4</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17764">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 356a,936 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7411" fk_bib="0">
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>K. Martin Sauer, Dionysius Melander d. Ä. (ca. 1486–1561), Leben Leben und Briefe, in: Jahrbuch der hessischen kirchengeschichtlichen Vereinigung Vereinigung 29, 1978, S. 32f, Nr. 14.</entry>
+			</print>
+			<print id="7412" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Köhler, Hessen und die Schweiz 468, Nr. 5</entry>
+			</print>
+			<print id="7413" fk_bib="0">
+				<bib_type id="5">Regest</bib_type>
+				<entry>Köhler, Hessen und die Schweiz 468, Nr. 5</entry>
+			</print>
+			<print id="11160" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1249, S. 95</entry>
+				<page>95</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="37">
+				<lang id="5" iso="la" count="37" p="100.0"/>
+			</sentences>
+			<words count="502">
+				<lang id="5" iso="la" count="502" p="100.0"/>
+			</words>
+			<chars count="3145">
+				<lang id="5" iso="la" count="3145" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1249" page="95">
+		<div ref="1">
+			Freut sich über den von <persName ref="1227">Christoph [Froschauer]</persName> überbrachten Brief und über Bullingers Buch [„De origine
+			erroris“]. <persName ref="8413">Melander</persName> wurde bei
+			Landgraf <persName ref="18574">[Philipp von Hessen]</persName> als Schwärmer angeschwärzt, konnte aber durch behutsames
+			Handeln weiteren Anschuldigungen den Boden entziehen und die Kirchenreform voranbringen; der
+			Landgraf fördert die rechte Lehre und verteidigt die Kirchen und
+			Pfarrer Oberdeutschlands und der
+			<entity id="28" type="geo_country">Schweiz</entity>. Nach acht Verhandlungswochen in
+			<placeName ref="157">Frankfurt</placeName> hoffen sie, bald abreisen zu können, wenn der
+			Landgraf wieder gesund ist; die Gegner [des Schmalkaldischen Bundes]
+			fordern einen Verzicht auf die Aufnahme von neuen Mitgliedern, doch diese können ja in Religionsstreitsachen
+			nicht allein gelassen werden. Bullingers Buch wurde von <persName ref="2095">Melanchthon</persName>
+			gelobt. <persName ref="2095">Melanchthon</persName>,
+			<persName ref="5895">Friedrich Myconius</persName> und <persName ref="8413">Melander</persName>
+			haben, im Auftrag von <persName ref="19065">[Johann Friedrich von] Sachsen</persName> und
+			<persName ref="18574">Philipp von Hessen</persName>, zusammen mit
+			<persName ref="467">Bucer</persName> und <persName ref="4922">Peter Geltner</persName> als
+			Vertretern der Städte ihr Urteil zum weiteren Vorgehen [angesichts der gegnerischen Forderungen] abgegeben.
+			Muß schließen, da er zur Predigt gerufen wird, empfiehlt sich und läßt Bullingers Kollegen, besonders
+			<persName ref="8171">Theodor Bibliander</persName>, grüßen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1249" page="95">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a deo per Christum.</s>
+				<s n="2" lang="la" state="auto">Literas tuas<fl>1</fl>, quas attulit <persName ref="1227">Christophorus</persName><fl>2</fl> noster, Bullingere doctissime atque charissime, summa cum voluptate legi fueruntque multis nominibus gratissimae.</s>
+				<s n="3" lang="la" state="auto">Primum, quod te cum ecclesia atque fratribus in domino bene valere intellexi, dein, quod <persName ref="8413">Melandrum</persName> tui perpetuo studiosissimum tam amice salutasti atque admonuisti atque libro<fl>3</fl> hoc turbulentissimo tempore utilissimo honorasti.</s>
+				<s n="4" lang="la" state="auto">Dabo operam, ut, quicquid hoc est officii, si dabitur opportunitas, aliquando per me compensetur.</s>
+				<s n="5" lang="la" state="auto">Christus dominus noster, quod mihi praestare non datum est, tibi faciat satis.</s>
+				<s n="6" lang="la" state="auto">Habebis me et habuisti semper obsequentissimum.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Quod autem rarius ad te scripsi, boni - non dubito - iam pridem consuluisti.</s>
+				<s n="8" lang="la" state="auto">Nam posteaquam me addixi illustrissimo principi<fl>4</fl>, non defuerunt delatores instillantes principis auribus me esse, ut vocant, svermerum<fl>5</fl>, item supra modum Zvinglianum, meamque dicendi libertatem nullatenus esse ferendam.</s>
+				<s n="9" lang="la" state="auto">Ad haec multis vehementer displicuit ad munus docendi me<fl>a</fl> a principe esse vocatum.</s>
+				<s n="10" lang="la" state="auto">Induxi ergo in animum a scribendo mihi temperare atque, quantum in me esset, omnem calumniandi ansam vitare, interim ea<pb_edition start_of="96"/> docere, quae facerent ad aedificationem omissis vanis concertationibus.</s>
+				<s n="11" lang="la" state="auto">Et deo sit laus, bene successit.</s>
+				<s n="12" lang="la" state="auto">Nam dei bonitate nostra ecclesia reformata est mireque proficit princepsque noster de dogmatibus ecclesiasticis dextre iudicat, spiritum non extinguit, superioris Germaniae et Helvetiorum ecclesias cum ministris suspicit et defendit.</s>
+				<s n="13" lang="la" state="auto">Meretur vel hoc nomine, ut vicissim vestris precibus eius celsitudo Christo commendetur, ut, quod in optimo principe coepit, perficere dignetur.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">Caeterum <placeName ref="157">Francofordiae</placeName>, ubi veterem meam ecclesiam, quantum dominus dedit, confortavi, in octavam nunc consulatur hebdomadam<fl>6</fl>.</s>
+				<s n="15" lang="la" state="auto">Principi nostro propter adversam valetudinem integrum non fuit in aprico esse.</s>
+				<s n="16" lang="la" state="auto">Incipit tamen nunc habere melius speramusque brevi nos hinc abituros.</s>
+				<s n="17" lang="la" state="auto">Quid conclusum sit, incertum est.</s>
+				<s n="18" lang="la" state="auto">Certissime autem est, quod nos non, sed nostram causam petunt seu impetunt adversarii.</s>
+				<s n="19" lang="la" state="auto">Cupiunt enim, ne porro quemquam suscipiamus in nostrum foedus<fl>7</fl>.</s>
+				<s n="20" lang="la" state="auto">Quod et facile a nonnullis ex nostris impetrarent; sed si qui nostrae religioni accesserint, hos tanquam fratres nostros non poterimus in causa religionis, si quid acciderit, deserere.</s>
+				<s n="21" lang="la" state="auto">Dominus nobis adiutor, et non timebimus, quid faciant nobis homines<fl>8</fl>.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Librum tuum<fl>9</fl> dono datum exhibui <persName ref="2095">Philippo Melanchthoni</persName> legendum, qui pro suo acri iuditio et summo candore probavit dignumque esse dixit, ut hoc saeculo legatur.</s>
+			</p>
+			<p>
+				<s n="23" lang="la" state="auto">Hactenus expecta[vi]<fl>b</fl>,<pb_scan n="937"/> si quid occurreret, quod ad te persciberem.</s>
+				<s n="24" lang="la" state="auto">Sed video fucis vanisque rumoribus turbari omnia, quod, quid scribam, haud sciam.</s>
+				<s n="25" lang="la" state="auto">Ante octiduum nomine <persName ref="19065" state="auto_name">Saxonis</persName><fl>10</fl> <persName ref="2095">Philippo</persName><fl>11</fl> et <persName ref="5895">Friderico Myconio</persName><fl>12</fl>,<pb_edition start_of="97"/> nostri principis mihi, urbium vero <persName ref="467">Bucero</persName> et <persName ref="4922">Petro Geltnero</persName><fl>13</fl> commissum est, ut conveniremus atque, quid bona conscientia fieri posset, responderemus.</s>
+			</p>
+			<p>
+				<s n="26" lang="la" state="auto">Quod et fecimus scriptisque nostram sententiam obtulimus<fl>14</fl>, quam et probarunt.</s>
+				<s n="27" lang="la" state="auto">Sed quid posthac sit actum, probabit, spero, brevi exitus.</s>
+				<s n="28" lang="la" state="auto">Dominus adsit nobis suo spiritu.</s>
+			</p>
+			<p>
+				<s n="29" lang="la" state="auto">Non vacat nunc plura scribere; vocor enim ad contionem.</s>
+				<s n="30" lang="la" state="auto">Vale igitur, venerande Bullingere, in Christo meque ac hactenus commendatum habe; nam mihi es commendatissimus.</s>
+				<s n="31" lang="la" state="auto">Me cum principe nostro Christo, tuis atque ecclesiae commenda precibus.</s>
+				<s n="32" lang="la" state="auto">Salutabis officiosissime meo nomine clarissimos viros tuos symmystas et charissimum <persName ref="8171">Theodorum Bibliandrum</persName>, olim meum hospitem<fl>15</fl>.</s>
+				<s n="33" lang="la" state="auto">Iterum atque iterum vale.</s>
+			</p>
+			<p>
+				<s n="34" lang="la" state="auto">Raptim, <placeName ref="157">Francofordiae</placeName>, 4. aprilis 1539.</s>
+				<s n="35" lang="la" state="auto"><persName ref="8413">Dionysius Melander</persName> tuus, si quisquam tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="36" lang="la" state="auto">Pietate atque eruditione clarissimo viro Henricho Bullingero, Tigurinae ecclesiae pastori vigilantissimo, fratri suo in domino venerando.</s>
+			</p>
+			<p>
+				<s n="37" lang="la" state="auto">Ad manus.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1249">
+		<alpha>
+			<fn ref="a">me <i>am Rande nachgetragen.</i></fn>
+			<fn ref="b"><i>Wegen Abnutzung des Randes nicht mehr lesbar.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten.</fn>
+			<fn ref="2"><persName ref="1227">Christoph Froschauer</persName>.</fn>
+			<fn ref="3">Bullinger, De origine erroris libri duo (vgl. oben <link fk_file="11280">Nr. 1237</link>, Anm. 7).</fn>
+			<fn ref="4"><persName ref="8413">Melander</persName> war 1536 Hofprediger von Landgraf <persName ref="18574">Philipp von Hessen</persName> geworden (s. <i>Sauer,</i> aaO, S. 16).</fn>
+			<fn ref="5">ein Schwärmer.</fn>
+			<fn ref="6">Am 14. Februar war in <placeName ref="157">Frankfurt</placeName> a. M. der Schmalkaldische Bundestag zusammengetreten (vgl. oben <link fk_file="11273">Nr. 1230</link>, Anm. 4).</fn>
+			<fn ref="7">Zur Forderung der kaiserlichen Kommissare vgl. <bibl>PC</bibl> II 566f, Anm. 2.</fn>
+			<fn ref="8">Ps 118 (117 Vulg.), 6; Hebr 13, 6.</fn>
+			<fn ref="9">Siehe oben Anm. 3.</fn>
+			<fn ref="10"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="11"><persName ref="2095">Philipp Melanchthon</persName>.</fn>
+			<fn ref="12" type="bio" fk_person="5895"><persName ref="5895">Friedrich Myconius</persName> (eigtl. Mekum), von <placeName ref="1735">Lichtenfels</placeName>/Main, 1490-1546, trat nach dem Schulbesuch in seinem Heimatort und in <placeName ref="1310">Annaberg</placeName> 1510 ins Franziskanerkloster ein. Bald nach seiner Priesterweihe 1516 wurde er zum Lutheranhänger, wurde nach <placeName ref="1564">Eisenach</placeName> und nach <placeName ref="284">Leipzig</placeName> versetzt, predigte in <placeName ref="1736">Zwickau</placeName> und übernahm schließlich ein Pfarramt in <placeName ref="1571">Gotha</placeName>, wo er, von 1529 an auch als Superintendent, bis zu seinem Tode wirkte. 1529 begleitete er <persName ref="1974">Luther</persName> nach <placeName ref="311">Marburg</placeName>, 1536 beteiligte er sich an der <placeName ref="558">Wittenberger</placeName> Konkordie, 1538 gehörte er zur deutschen Verhandlungsdelegation nach <entity id="9" type="geo_country">England</entity>, und 1539 führte er im Herzogtum <placeName ref="749">Sachsen</placeName> die Reformation mit ein. In seinen letzten Lebensjahren schrieb der kränkliche Myconius eine Reformationsgeschichte. - Lit.: Heinrich <i>Ulbrich,</i> Friedrich Mykonius, 1490-1546. Lebensbild und neue Funde zum Briefwechsel des Reformators, Tübingen 1962. - <bibl>SKRG</bibl> 20; Der Briefwechsel des Friedrich Mykonius (1524-1546), bearb. v. Hans-Ulrich Delius, Tübingen 1960. - <bibl>SKRG</bibl> 18/19; Hartmut <i>Lohmann,</i> in: <bibl>BBKL</bibl> VI 410-412; Herbert von <i>Hintzenstern,</i> in: <bibl>NDB</bibl> XVIII 661f; Hans-Ulrich <i>Delius,</i> in: LThK<sup>3</sup> VII 567f.</fn>
+			<fn ref="13" type="bio" fk_person="467">Peter Geitner, von <placeName ref="1703">Bamberg</placeName>, gest. 1572, immatrikulierte sich 1534 an der Universität <placeName ref="142">Erfurt</placeName> und wurde 1536 als Pfarrer nach Frankfurt a. M. berufen. 1537 unterschrieb er die Schmalkaldischen Artikel und 1541 besuchte er das <placeName ref="410">Regensburger</placeName> Gespräch. Als Vertreter eines strengen Luthertums geriet er mit seinen Kollegen immer wieder in dogmatische Streitigkeiten; ein erster Konflikt wurde 1542 durch Vergleichsartikel <persName ref="467">Bucers</persName> beigelegt, ein weiterer 1543 durch die Intervention von <persName ref="2095">Melanchthon</persName> und <persName ref="9046">Pistorius</persName>. 1544/45 wurde er Mitglied einer neugeschaffenen Visitationskommission. Da er als einziger der Frankfurter Pfarrer das kaiserliche Interim akzeptierte, wurde er katholisierender Neigungen bezichtigt. Geitner ist möglicherweise Verfasser der (auch <persName ref="4925">Pamphilus Gengenbach</persName> zugeschriebenen) Schrift "Der Leien spiegel sancti Pauli des alten gloubens wider den nüwen". - Lit.: <bibl>WA</bibl> B II 577f; Kurt <i>Beck,</i> Rat und Kirche. Der Rat der Freien Reichsstadt <placeName ref="157">Frankfurt am Main</placeName> und das Evangelisch-lutherische Predigerministerium, Frankfurt a. M. 1981, bes. S. 170-184 und 213-223.</fn>
+			<fn ref="14">Das Gutachten der fünf Theologen in: <bibl>MO</bibl> III 688-690, <link fk_file="11842">Nr. 1796</link>; Regest in: <bibl>MBW</bibl> II 2178.</fn>
+			<fn ref="15">Vgl. <bibl>HBBW IV</bibl> <link fk_file="10379">[Nr. 347]</link>, S. 110, Anm. 14.</fn>
+		</num>
+	</footnotes>
+</file>

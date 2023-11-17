@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11357" id_hbbw="1314" id_irg_sort="1314" id_sort="113140">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11357</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1314</arpa>
+		<scan_pages>
+			<scan id="26394" dir="11357/Autograph/" page="1">00 E_II_338__fol__1378_r_.tif</scan>
+			<scan id="26395" dir="11357/Autograph/" page="2">01 E_II_338__fol__1378_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23056" vf="1" fk_add_type="1">
+				<person id="1419" fk_id="1419">
+					<name>Haab</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="414" vf="1" fk_id="414" long="9.59028" lat="47.4663">Rheineck</place>
+				<district id="169">St.Gallen</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23057" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11357">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">10</month>
+				<day fk_d="" d="" vf="1" fn="">6</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17828">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 338,1378</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11091" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1314, S. 226</entry>
+				<page>226</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="25">
+				<lang id="1" iso="de" count="25" p="100.0"/>
+			</sentences>
+			<words count="609">
+				<lang id="1" iso="de" count="609" p="100.0"/>
+			</words>
+			<chars count="3155">
+				<lang id="1" iso="de" count="3155" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1314" page="226">
+		<div ref="1">
+			Der Bericht Bullingers über den englischen <persName ref="18505">König [Heinrich VIII.]</persName> bestätigt sein
+			Mißtrauen, das er seit dessen mutwilliger Scheidung [von
+			<persName ref="7386">Katharina von Aragonien</persName>] hegt; freut sich aber über die Fortschritte
+			der Reformation andernorts. Vernimmt aus <entity id="16" type="geo_country">Italien</entity>, daß die Türken
+			dem <persName ref="18538">Kaiser [Karl V.]</persName>
+			<placeName ref="1723">Castelnuovo</placeName> entrissen und unter der Besatzung grausam gewütet
+			hätten; nun planten sie, über das gegenüberliegende <placeName ref="1755">Loreto</placeName> gegen
+			<placeName ref="425">Rom</placeName> zu ziehen. Konnte Bürgermeister
+			<persName ref="2816">[Diethelm] Röist</persName> wegen der
+			Weinlese, die ertragreich ausgefallen ist, nicht schreiben. Bat
+			<persName ref="18022">Heinrich Tuggener</persName> um die Beschaffung des [1535 gedruckten]
+			deutschlateinischen Neuen Testaments, mit dem er sich Grundkenntnisse in Latein erwerben möchte; bittet
+			Bullinger um Hilfe, falls <persName ref="6541">Michael [Schwyzer?]</persName> keine mehr feil hat. Pfarrer
+			[<persName ref="1783">Johannes Keller</persName>] freut sich über Bullingers Gruß; Grüße.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="9" fk_bibliography="11" nr="1314" page="226">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Erwirdiger, wolgelerter, insunders günstiger, lieber herr und bruͦder, üch sige zuͦfor die gnad gottes, darzuͦ min früntlich gruͦß und guͦttwillig dienst etc.</s>
+				<s n="2" lang="de" state="auto">Üwer schriben<fl>1</fl> han ich sontag, den 5. octobriß enpfanngenn und darin dess künigs von Enngenlandts<fl>2</fl> gemuͤtt<fl>3</fl>, alß ich in alltzit hab geschetzt, verstandenn<fl>4</fl>.</s>
+				<s n="3" lang="de" state="auto">Dann daß gefarlich<fl>5</fl> scheiden sinner erschtenn husfrowen<fl>6</fl> mir so übel an im<fl>a</fl> gefallen, daß ich nie getruwt<fl>7</fl>, dass er<fl>b</fl> ein hertzliche liebe zum wordt gottes gehaptt habe.</s>
+				<s n="4" lang="de" state="auto">Es muͦß aber also<fl>8</fl> zuͦgan, daß abfäl und ferfolgungen beschähend, uff daß die glöibigen bewärdt<fl>9</fl> werdind und lernind<pb_edition start_of="227"/> uff keinen mentschen truwen<fl>c</fl>, sunder allein uff gott sähenn, gott gäb<fl>10</fl>, mann falle hinden, fornenn oder näbend sich ab.</s>
+				<s n="5" lang="de" state="auto">Daß aber daß euangelion anderschwo zuͦnimpt, hör ich gernn, beger auch, daß dieselben im glouben wol gegründt<fl>11</fl> sigind; wirtt sy gott nütt<fl>12</fl> bald wider sinckenn lassenn etc.</s>
+				<s n="6" lang="de" state="auto">Nüwer zitung<fl>13</fl>: Ist einer<fl>14</fl>, so die kouffmanßguͤtter uss <entity id="16" type="geo_country">Italien</entity><fl>d</fl> in Tütschland fergett<fl>15</fl>, by mir zuͦ Rinneg gesinn<fl>16</fl>, der mir anzeigt, daß er innertt 8 tagenn zuͦ Meilland gesin.</s>
+				<s n="7" lang="de" state="auto">Da sigind sinnem herren<fl>17</fl>, by demm er dient, glouplich brieff komenn, daß der Türg demm keiser<fl>18</fl> ein fast<fl>19</fl> stark und guͦtt schloss, genannt Castelneuff<fl>20</fl>, ist ein paß<fl>21</fl> und beschluss<fl>22</fl> an demm selben ortt dess meerß, mit gewaldt habe angenommenn<fl>23</fl>, doch mit grossem verlurst sinnes folks, dan die Spannger<fl>24</fl> und landtzknecht, im zuͦsatz daselbs gelägen<fl>e</fl>, träffenliche, grosse wer gethann; aber die file dess geschützes und dess folks, so der Turg da geheptt, habe inen den schaden gethann.</s>
+				<s n="8" lang="de" state="auto">Und nach eroberrung des schloss, waß er nach überrig funden, daß nüdt zuͦ dott geschlagen, habe er innen die nasen und oren lassenn abhouwenn und sy in den galeenn hinweg gefürtt.</s>
+				<s n="9" lang="de" state="auto">Er, der Dürg, lasse auch gedacht<fl>25</fl> schloss gantz fest und stark buwenn und sige entlich der meinung<fl>26</fl>, uff künfftigen fruͤling den nächsten<fl>27</fl> uff Maria de <placeName ref="1755">Loreta</placeName><fl>28</fl>, dadannen uff Romm zuͦzezühen und vonn demm bapst ein suberren applaß<fl>29</fl> ze empfahenn.</s>
+				<s n="10" lang="de" state="auto">Dan so er das schloss und pass inhabe, möge<fl>30</fl> mann imm nüdt wol mer werenn.</s>
+				<s n="11" lang="de" state="auto">Es lige auch gerichtz gegen <placeName ref="1755">Loreten</placeName> zuͦ, über mer ze rechnenn<fl>31</fl>, und sol söliche eroberung innertt zweigen manettenn beschähen sin.</s>
+				<s n="12" lang="de" state="auto">Und wiewol der bapst söliche straff mit sinnem gesind<fl>32</fl> fast wol verdient, sind doch fil frommer unnschuldiger lüdt, so darinn liden muͤssend, wol ze erbarmen.</s>
+				<s n="13" lang="de" state="auto">Gott geb innenn und unß allen gnad zuͦ waremm rüwen<fl>33</fl> und rächter besserung, so wirdt er die und ander straffen vonn unß nemen etc.</s>
+			</p>
+			<p>
+				<s n="14" lang="de" state="auto">Gruͤssen min herren und<fl>f</fl> schwager, her burgermeister Röistenn<fl>34</fl>, von minentwägen fast.</s>
+				<s n="15" lang="de" state="auto">Sagend im auch, daß er nütt zürnn, daß ich<fl>g</fl> im nütt auch<pb_edition start_of="228"/> geschriben habe; sig der herpst<fl>35</fl> die ursach, dan fil mer win, dan<fl>36</fl> jemand gemeindtt, uss gnaden gottes werde, darzuͦ amm Buͦchberg<fl>37</fl> guͦtt, aber anderschwo sige er demm Zürichwin fast nach gefrünnt<fl>38</fl> etc.</s>
+			</p>
+			<p>
+				<s n="16" lang="de" state="auto">Ich han minem schaffner <persName ref="18022" state="auto_name">Heiny Dugginer</persName><fl>39</fl> geschriben, mir ein nüw testamentt<fl>h</fl>, da<fl>i</fl> daß latin und tütsch<fl>k</fl> näbend einanderren getrukt sige, wie sy dan for jaren zuͦ Zürich getrukt wordenn sind, ze schiken<fl>40</fl>; dan ich vermeinte allerbascht<fl>41</fl> ein anfang dess latins daruß ze überkomen<fl>42</fl>; daß zuͦ lernen dan ich daß<fl>l</fl> fast begirig bin.</s>
+				<s n="17" lang="de" state="auto">Ist min pit an üch, ir wellind, ob<fl>43</fl> filicht Michel<fl>44</fl> keine mer hette, imm anderswo umb daß geltt darum<fl>m</fl> helffen; dan mich fast darnach belangett<fl>45</fl> etc.</s>
+				<s n="18" lang="de" state="auto">Üwer gruͦß, den ir minem bredicannten<fl>46</fl> gethann, fröwtt in fast wol.</s>
+				<s n="19" lang="de" state="auto">Ladt üch ouch fast wider gruͤssen und früntlichen dank sagenn.</s>
+				<s n="20" lang="de" state="auto">Min hußfrow<fl>47</fl> und ich gruͤssend üch und üwer husfolk<fl>n</fl> fast etc.</s>
+				<s n="21" lang="de" state="auto">Gruͤssend mir M. Löwen<fl>48</fl>, herren bropst<fl>49</fl> und ander mine herren und fründ.</s>
+			</p>
+			<p>
+				<s n="22" lang="de" state="auto">Datum in il, Rineg, mentag, denn 6. octobriß im 39.</s>
+				<s n="23" lang="de" state="manual">Üwer altzit getrüwer fründ und bruͦder</s>
+				<s n="24" lang="de" state="auto"><persName ref="1419">Hanss Hab</persName>, burger Zürich.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="25" lang="de" state="auto">Demm erwirdigen, wolgelertenn herren Meister Heinrichen Bullinger, predicantenn im münster zuͦ Zürich<fl>o</fl>, minem<fl>p</fl> günstigen, liebenn herren und bruͦder.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1314">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> in.</fn>
+			<fn ref="b">er <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="c"><i>vor</i> truwen <i>gestrichenes</i> truwind.</fn>
+			<fn ref="d"><i>in der Vorlage</i> Italiam.</fn>
+			<fn ref="e">daselbs gelagen <i>am Rande nachgetragen.</i></fn>
+			<fn ref="f"><i>vor</i> und <i>gestrichenes</i> fast.</fn>
+			<fn ref="g">ich <i>fehlt in der Vorlage.</i></fn>
+			<fn ref="h"><i>in der Vorlage</i> testamett.</fn>
+			<fn ref="i">da <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="k"><i>in der Vorlage</i> tüsch.</fn>
+			<fn ref="l">dan ich daß <i>am Rande nachgetragen.</i></fn>
+			<fn ref="m">darum <i>am Rande nachgetragen.</i></fn>
+			<fn ref="n">husfolk <i>korrigiert aus</i> husfok.</fn>
+			<fn ref="o">zu Zürich <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="p">minem <i>fehlt in der Vorlage.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten.</fn>
+			<fn ref="2"><persName ref="18505">Heinrich VIII.</persName></fn>
+			<fn ref="3">Gesinnung.</fn>
+			<fn ref="4">Zum Erlaß des traditionalistischen Sechs-Artikel-Gesetzes in <entity id="9" type="geo_country">England</entity> vgl. oben <link fk_file="11351">Nr. 1308</link>, 29-42 mit Anm. 12.</fn>
+			<fn ref="5">mutwillige, willkürliche.</fn>
+			<fn ref="6">Ehefrau. -Zur Scheidung <persName ref="18505">Heinrichs VIII.</persName> von <persName ref="7386">Katharina von Aragonien</persName> - gegen das Kirchenrecht - im Jahre 1533 vgl. Clifford S. L. <i>Davies,</i> Henry VIII of <entity id="9" type="geo_country">England</entity>, in: <bibl>OER</bibl> II 227-233, hier: 228f.</fn>
+			<fn ref="7">darauf vertraut habe.</fn>
+			<fn ref="8">so.</fn>
+			<fn ref="9">geprüft.</fn>
+			<fn ref="10">gleichviel.</fn>
+			<fn ref="11">verankert.</fn>
+			<fn ref="12">nicht.</fn>
+			<fn ref="13">Nachricht.</fn>
+			<fn ref="14">Unbekannt.</fn>
+			<fn ref="15">führt.</fn>
+			<fn ref="16">gewesen.</fn>
+			<fn ref="17">Unbekannt.</fn>
+			<fn ref="18"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="19">sehr.</fn>
+			<fn ref="20"><placeName ref="1723">Castelnuovo (Hercegnovi, Montenegro)</placeName>.</fn>
+			<fn ref="21">Durchgang, Meerenge.</fn>
+			<fn ref="22">Sperre.</fn>
+			<fn ref="23">Zur Erstürmung der Festung <placeName ref="1723">Castelnuovo</placeName> durch <persName ref="19042">Cheireddin Barbarossa</persName> am 10. August 1539 s. <bibl>Hammer-Purgstall</bibl> III 216- 218.</fn>
+			<fn ref="24">Spanier.</fn>
+			<fn ref="25">genanntes.</fn>
+			<fn ref="26">sei festen Willens.</fn>
+			<fn ref="27">direkt.</fn>
+			<fn ref="28"><placeName ref="1755">Loreto</placeName> (Provinz Ancona, <entity id="16" type="geo_country">Italien</entity>).</fn>
+			<fn ref="29">[ironisch:] einen hübschen Ablaß.</fn>
+			<fn ref="30">könne.</fn>
+			<fn ref="31">Es liege ja gegenüber von <placeName ref="1755">Loreto</placeName>, über das Meer gesehen.</fn>
+			<fn ref="32">Anhang.</fn>
+			<fn ref="33">Reue.</fn>
+			<fn ref="34">Über die Verwandtschaft <persName ref="1419">Haabs</persName> mit <persName ref="2816">Diethelm Röist</persName> ist nichts weiter bekannt.</fn>
+			<fn ref="35">die Weinlese.</fn>
+			<fn ref="36">als.</fn>
+			<fn ref="37"><placeName ref="1756">Buchberg</placeName>, westlich von <placeName ref="414">Rheineck</placeName> gelegen.</fn>
+			<fn ref="38">komme er dem Zürcher Wein gleich.</fn>
+			<fn ref="39" type="bio" fk_person="18022"><persName ref="18022">Heinrich Tuggener (Tugginer)</persName>, gest. nach 1569, stammte aus einem Geschlecht aus <placeName ref="1639">Riesbach (Zürich)</placeName>, das seit zwei Generationen in der Stadt verbürgert war; 1538 wurde ihm das Bürgerrecht erneuert. Tuggener war Stadtknecht. Er soll fünfmal verheiratet gewesen sein. - Lit.: B. <i>Amiet</i> und St. <i>Pinösch,</i> Geschichte der Solothurner Familie Tugginer, in: Jahrbuch für solothurnische Geschichte 10, 1937, S. 1-183, hier: 13-16; Zürich ZB, Ms E 59, S. 162.</fn>
+			<fn ref="40">Das lateinisch-deutsche Neue Testament war 1535 bei <persName ref="1227">Christoph Froschauer</persName> erschienen; s. <bibl>BZD</bibl> C 235.</fn>
+			<fn ref="41">am besten.</fn>
+			<fn ref="42">bekommen.</fn>
+			<fn ref="43">wenn.</fn>
+			<fn ref="44">Wohl <persName ref="6541">Michael Schwyzer</persName>.</fn>
+			<fn ref="45">denn ich wünschte mir das sehr.</fn>
+			<fn ref="46"><persName ref="1783">Johannes Keller</persName>.</fn>
+			<fn ref="47" type="bio" fk_person="5044"><persName ref="5044">Katharina, geb. Locher</persName>.</fn>
+			<fn ref="48"><persName ref="1753">Leo Jud</persName>.</fn>
+			<fn ref="49"><persName ref="8350">Felix Frey</persName> (vgl. oben <link fk_file="11308">Nr. 1265</link>, Anm. 41).</fn>
+		</num>
+	</footnotes>
+</file>

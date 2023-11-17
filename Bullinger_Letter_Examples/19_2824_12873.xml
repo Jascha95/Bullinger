@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12873" id_hbbw="2824" id_irg_sort="2824" id_sort="128240">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12873</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2824</arpa>
+		<scan_pages>
+			<scan id="30140" dir="12873/Autograph/" page="1">00 E_II_357__fol__229_r_.tif</scan>
+			<scan id="30141" dir="12873/Autograph/" page="2">01 E_II_357__fol__229_v_.tif</scan>
+			<scan id="30142" dir="12873/Autograph/" page="1">00 E_II_357__fol__702_r_.tif</scan>
+			<scan id="30143" dir="12873/Autograph/" page="2">01 E_II_357__fol__702_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26290" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26291" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12873">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">25</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19442">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357,229</signature>
+			</document>
+			<document id="19443">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="3">Beilage</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357a,702</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9114" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Blarer BW II, S. 596–598, Nr. 1415</entry>
+			</print>
+			<print id="9115" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 596–598, Nr. 1415</entry>
+			</print>
+			<print id="12391" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2824, S. 352</entry>
+				<page>352</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="58">
+				<lang id="1" iso="de" count="40" p="69.0"/>
+				<lang id="5" iso="la" count="18" p="31.0"/>
+			</sentences>
+			<words count="771">
+				<lang id="1" iso="de" count="541" p="70.2"/>
+				<lang id="5" iso="la" count="230" p="29.8"/>
+			</words>
+			<chars count="4108">
+				<lang id="1" iso="de" count="2718" p="66.2"/>
+				<lang id="5" iso="la" count="1390" p="33.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2824" page="351">
+		<div ref="1">
+			[1] <persName ref="8055">Blarer</persName> dankt für das Schreiben Bullingers [nicht erhalten]. Dessen Briefe enthalten stets einen vom
+			Heiligen Geist ausgehenden Trost. Gott möge Bullinger stärken und auch den Konstanzern die Kraft verleihen,
+			jegliche Last zu ertragen und zu überwinden!
+		</div>
+		<div ref="2">
+			[2] Soeben kommt ein völlig glaubwürdiger Brief, demzufolge <persName ref="5722">Eriprando Madruzzo</persName> in
+			<placeName ref="513">Ulm</placeName> am 20. [richtig: 17.] Februar starb. Kurz darauf soll auch
+			<persName ref="7689">Johann Naves</persName> gestorben sein, dessen Name sich vom Wort „Schiff“ ableitet, und der die rechte Hand von <persName ref="18538">Kaiser Karl V.</persName> in Oberdeutschland war. Würden doch auch die „großen Segel“ [d.h. <persName ref="7706">Nicolas Perrenot</persName> de Granvelle]
+			sterben, zumal ja die Schiffe Segel mit sich führen! Auch er wird wohl nicht dem Urteil Gottes entkommen.
+			Trotzdem bittet <persName ref="8055">Blarer</persName> für diese Feinde, damit sie ebenfalls Gottes Barmherzigkeit erfahren mögen.
+		</div>
+		<div ref="3">
+			[3] Es heißt, es gäbe täglich viele Tote unter den [kaiserlichen] Kriegsknechten. Diese verderben die [von
+			ihnen besetzten] Städte. Der Kaiser zieht mit seinem gesamten Geschütz nach
+			<placeName ref="157">Frankfurt</placeName> a.M. und
+			<placeName ref="749">Sachsen</placeName>. Ihm kommt <persName ref="18477">König Ferdinand</persName> entgegen. Beide wollen
+			Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> vernichten. Wenn dieser nur
+			nicht einen faulen Frieden eingeht! Dann würde noch alles gut werden.
+		</div>
+		<div ref="4">
+			[4] Hoffentlich erhalten die <placeName ref="457">Konstanzer</placeName> erneut einen
+			Zeitaufschub! Wenn <persName ref="7689">Naves</persName> noch am Leben wäre, hätte er schon längst wieder an die
+			<placeName ref="457">Konstanzer</placeName> geschrieben.
+		</div>
+		<div ref="5">
+			[5] Danke für das Lied. Es ist typisch für seine Verfasser! Irgendwelche Unruhestifter aus dem
+			[protestantischen] Lager haben ein „Sudatorium“ publiziert, über das man in
+			<placeName ref="457">Konstanz</placeName> gerne lacht, wobei <persName ref="8055">Blarer</persName> diese Heiterkeit als
+			unangebracht empfindet.
+		</div>
+		<div ref="6">
+			[6] Anbei die zehn Gulden und der Brief [<link fk_file="12872">Nr. 2823</link>] von <persName ref="8472">Konrad Hofherr</persName>.
+			Bullinger weiß ja, für wen dieses Geld bestimmt ist. Sollte der Betrag nicht stimmen, möge Bullinger es
+			melden, damit die gute Witwe [<persName ref="5797">Regula Mayer</persName>] ja keinen Schaden davonträgt.
+		</div>
+		<div ref="7">
+			[7] Alles Weitere wird <persName ref="4082">Konrad Zwick</persName> erzählen. <persName ref="8055">Blarer</persName>, der wenig Zeit
+			hat, will nun lieber noch ein besonderes Anliegen vorbringen.
+		</div>
+		<div ref="8">
+			[8] [Beilage:] <persName ref="8055">Blarers</persName> Freund, Hauptmann <persName ref="8498">Marcell Dietrich von Schankwitz</persName>, der im [Donau]feldzug die Klause
+			Ehrenberg erobert hat, muss damit rechnen, dass er beim Kaiser
+			und beim König in Ungnade gefallen ist. Im Dienste <placeName ref="513">Ulms</placeName> stehend,
+			erhält er jährlich 650 Florin. Als aber <placeName ref="513">Ulm</placeName> sich dem Kaiser
+			unterwarf, verließ er die Stadt und ließ dort seinen Hausrat wie auch Knechte und Pferde zurück. Zusammen
+			mit seiner Gattin <persName ref="7170">[Anna Zehntmeier]</persName> und seinem Stiefsohn [<persName ref="5472">Philipp Klee</persName>], den diese von ihrem früheren Mann
+			[<persName ref="5471">Georg Klee</persName>] hat, ist er schon seit einigen Wochen in <placeName ref="457">Konstanz</placeName>, wo
+			man sie in einem Domherrenhaus beherbergt.
+		</div>
+		<div ref="9">
+			[9] <persName ref="8498">Schankwitz</persName> möchte nun für den Sohn eine bescheidene Liegenschaft erwerben. Man wies ihn auf [die Burg]
+			Dübelstein hin, die einem Freimut [richtig:
+			<persName ref="2809">Gotthard Richmut</persName>] aus Zürich gehört. Daraufhin bat er <persName ref="8055">Blarer</persName>, diskret
+			in Erfahrung zu bringen, ob die Zürcher Obrigkeit einen solchen Kauf genehmigen würde, und ob er und seine
+			Frau sich dort aufhalten dürften, sooft es nötig wäre. Er fragt deshalb, weil er für
+			seinen<pb_edition start_of="352"/> Lebensunterhalt weiterhin als Kriegsmann im Dienste etlicher Herren
+			(vielleicht aber auch nur der <placeName ref="513">Ulmer</placeName>) stehen wird. Natürlich hat
+			er nicht vor, Zürcher Söldner anzuwerben!
+		</div>
+		<div ref="10">
+			[10] Er ist ein anständiger, tapferer und aufrichtiger Mann. Seine Frau ist fromm. Beide lieben das
+			Evangelium. Als Kriegsmann könnte er noch viel Geld machen, will sich nun aber damit begnügen, Diener eines
+			Landesherrn von Haus aus zu sein. Er und seine Frau stammen aus der Grafschaft
+			<placeName ref="777">Tirol</placeName>. Von dort bezieht seine Gattin noch Einkünfte. Es ist aber
+			fraglich, ob der König deren Auszahlung noch erlauben wird, zumal <persName ref="8498">Schankwitz</persName> in großer Ungnade bei ihm
+			steht.
+		</div>
+		<div ref="11">
+			[11] Bullinger soll sich bei den Ratsherren erkundigen, ob sie <persName ref="8498">Schankwitz</persName> den Kauf von
+			Dübelstein erlauben würden, oder ob dies ein Verstoß gegen das
+			Zürcher Gesetz darstellen würde, was <persName ref="8055">Blarer</persName> selbstverständlich nicht möchte. Er würde aber gerne dazu
+			beitragen, dass <persName ref="8498">Schankwitz</persName> nach und nach das Kriegsgeschäft aufgibt.
+		</div>
+		<div ref="12">
+			[12] Der beiliegende Brief ist zur Weiterleitung an <persName ref="2336">Bernardino Ochino</persName> bestimmt, falls Bullinger weiß, wohin
+			jener sich nach seinem Aufenthalt in St. Gallen begeben hat.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2824" page="352">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Pro tuis<fl>1</fl>, quas possum, gratias ago, praesertim quum semper in illis insit aliquid, quod divini spiritus consolationem egregie spiret.</s>
+				<s n="3" lang="la" state="auto">Dominus tibi, mi Bullingere, hosce se dignos animos perpetuos esse velit, nobis quoque tales constanter addat, ut, quantumcumque molem humeris nostris ferendam viderimus, pares tamen adeoque etiam superiores nos illi<fl>2</fl> fore speremus.</s>
+				<s n="4" lang="la" state="auto">Dominus miro consilio omnia moderatur!</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="la" state="auto">Nunc literę<fl>3</fl> adferuntur (sed tales, quibus fidem habere tuto possumus)<fl>d</fl> illum a Madrutz<fl>4</fl> <placeName ref="513">Ulmę</placeName> 20. februarii vehementissimo dolore correptum, pariter et extinctuum; huncque mox sequutum cancellarium illum, cui a navibus nomen<fl>5</fl> est, quo caesar<fl>6</fl> erga <entity id="119" type="geo_region">Germanos Superiores</entity> velut dextra manu est usus - quo cum utinam grandia vela<fl>7</fl> quoque periissent, quandoquidem pulchre convenit, ut naves secum vela trahant.<fl>8</fl></s>
+				<s n="6" lang="la" state="auto">Verum non effugiet hic quoque iudicium domini, etsi precor illis, ut quamprimum resipiscant et una nobiscum domini misericordiam in Christo Iesu omnia nobis gratuito condonantem experiantur.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="de" state="auto">Es sollend vyl guͦter leut teglich sterben underm hauffen.<fl>9</fl></s>
+				<s n="8" lang="de" state="auto">Machend ain unflat<fl>10</fl> ouch in die stätt allenthalb.<fl>11</fl></s>
+				<s n="9" lang="de" state="auto">Der kaiser bricht uff mitt aller munition.</s>
+				<s n="10" lang="de" state="auto">Zeucht<fl>e</fl> auff Franckfurt und <placeName ref="749">Sachsen</placeName>.</s>
+				<s n="11" lang="de" state="auto">Der koͤnig<fl>12</fl> zucht auch mitt macht dem kaiser zuͦ.</s>
+				<s n="12" lang="de" state="auto">Wellend den frommen churfursten<fl>13</fl> ausmachen.<fl>14</fl><pb_edition start_of="353"/></s>
+				<s n="13" lang="de" state="auto">Ach, das er sich doch nun<fl>15</fl> nitt ergebe und ain faulen friden anneme!</s>
+				<s n="14" lang="de" state="auto">Wurde noch alles guͦt.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="15" lang="de" state="auto">Wir hoffend zuͦ gott, wir werden hie aber<fl>16</fl> ain zytle fristung<fl>17</fl> haben, alls lang es dem herren gefallt.</s>
+				<s n="16" lang="de" state="auto">Were der herr von <persName ref="7689">Naves</persName> nitt gstorben, wurden meine herren schon yetzund weyter schreiben<fl>18</fl> von im gehabt haben.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="17" lang="la" state="auto">Pro cantilena gratias agimus.<fl>19</fl></s>
+				<s n="18" lang="la" state="auto">Habent nunc plane similes labra lactucas.<fl>20</fl></s>
+				<s n="19" lang="la" state="auto">Ediderunt ardeliones<fl>21</fl> quidam in nostris castris nescio quod sudatorium<fl>22</fl>, quod hic iam salse ridetur.</s>
+				<s n="20" lang="la" state="auto">Mirum in modum displicebat mihi nostrorum intempestivus plausus.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="21" lang="la" state="auto">Mitto hic 10 aureos nummos cum literis Curionis.<fl>23</fl></s>
+				<s n="22" lang="la" state="auto">Scis, cui<fl>24</fl> illos debeat.</s>
+				<s n="23" lang="la" state="auto">Si quid vel in moneta vel numero erratum est, proximis literis significabis, ut ne quid bona illa vidua defraudetur.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="24" lang="la" state="auto">Commenda nos domino diligenter cum tuis omnibus.</s>
+				<s n="25" lang="la" state="auto">Caetera Zviccius noster<fl>25</fl>, etc.</s>
+				<s n="26" lang="de" state="auto">Haind allso in yl fuͤr guͦt.<fl>26</fl></s>
+				<s n="27" lang="de" state="auto">Ich hab nitt mehr zyt.</s>
+				<s n="28" lang="de" state="auto">Muͦß euch sonst ouch noch von aim handel schriben.<fl>27</fl></s>
+				<s n="29" lang="de" state="auto">Der lieb, truw gott ewig mitt euch.</s>
+				<s n="30" lang="la" state="auto">25. februarii 1547.</s>
+				<note type="signature">[Ohne Unterschrift.]<pb_edition start_of="354"/></note>
+				<note type="attachment">[Beilage:]</note>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="31" lang="de" state="auto"><pb_scan n="EII 357a, 702r."/>Fuͤrgeliepter herr und bruͦder, mein lieber freund unnd schwager<fl>28</fl> <persName ref="8498" state="auto_name">Marcell Dietrich</persName><fl>29</fl>, hoptman, so dann die Clauß<fl>30</fl> in vergangnem krieg erobert, hat sich grosser ungnad by kaiser und könig zuͦ befaren.<fl>31</fl></s>
+				<s n="32" lang="de" state="auto">Ist deren von Ulm diener (geben im jerlich 650 fl.)<fl>f</fl> und aber ausß Ulm gewichen<fl>32</fl>, als sy die reconciliation<fl>33</fl> mitt dem kaiser angenommen.</s>
+				<s n="33" lang="de" state="auto">Hat des kaisers nitt erwarten wellen, wiewol er noch sein haußhab allda hat mitt ettlichen knechten und pferdten.</s>
+				<s n="34" lang="de" state="auto">Ist aber sampt seiner l[ieben] hausfrauwen<fl>34</fl> und stieffsun<fl>35</fl>, ainem knaben, den sein hausfrauw by vorigem mann<fl>36</fl> gehapt, yetzund ettlich wochen hie gewesst.</s>
+				<s n="35" lang="de" state="auto">Habend in ainem thainherrenhoff<fl>37</fl> aigen hauß.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="36" lang="de" state="auto">Der ist nun willens, seinem yetz gemeldten sun etwan ain klainfuͤgen sytz<fl>38</fl> ze kofen.</s>
+				<s n="37" lang="de" state="auto">Und im<fl>39</fl> ainer am Gryfensee mitt nammen Diepoltstain<fl>40</fl> anzoͤgt worden.</s>
+				<s n="38" lang="de" state="auto">Gehoͤrt ainem Freymuͦt<fl>41</fl> by euch.</s>
+				<s n="39" lang="de" state="auto">Da bitt er mich nun gar freuntlich, an<fl>42</fl> euch in still<fl>43</fl> zuͦ erfaren, ob ewere herren von Zürich soͤlichs beschechen liesßind, das er dem sun disen sytz koffte, und aber er sampt der muͦtter auch by dem sun werend, alls offt ir gelegenhait erfordert.<fl>44</fl></s>
+				<s n="40" lang="de" state="auto">Das fragt er nun darum, diewyl er von ettlichen herren dienstgellt hat <fl>g</fl>(er wurde vyllicht nun von denen von Ulm dienstgellt haben)<fl>g_2</fl>, des er dann nitt wol gerathen<fl>45</fl> mag zuͦ seiner ehrlichen underhaltung.<fl>46</fl></s>
+				<s n="41" lang="de" state="auto">Wollt aber kainswegs knecht by euch uffwiglen, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="42" lang="de" state="auto">Er ist gewiss ain redlicher, dapferer, uffrechter mann und hat ain gottselige, christliche hausfrauwen.</s>
+				<s n="43" lang="de" state="auto">Habend gottes wort lieb.</s>
+				<s n="44" lang="de" state="auto">Er moͤcht wol grosß <pb_edition start_of="355"/> guͦt erkoberen<fl>47</fl>, so<fl>48</fl> er begerte fuͤr und fuͤr<fl>49</fl> ain kriegsmann ze sein; des er aber nit gesinnet, sonder allain etwan aim herren von hauß auß<fl>50</fl> ze dienen.</s>
+				<s n="45" lang="de" state="auto">Sy sind baide usß der grauffschafft <placeName ref="777">Tyroll</placeName>.</s>
+				<s n="46" lang="de" state="auto">Da hat die frauw noch ire gülten.<fl>51</fl></s>
+				<s n="47" lang="de" state="auto">Waist doch<fl>52</fl> nitt, ob irs der koͤnig<fl>53</fl> fuͤrohin<fl>54</fl> wirt verfolgen<fl>55</fl> lassen oder nitt.</s>
+				<s n="48" lang="de" state="auto">Dann<fl>56</fl> er ist im yetzund sehr ungnedig worden.</s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="49" lang="de" state="auto">So sind<fl>57</fl> nun gebetten und erfaren mir<fl>58</fl>, ob es by ewern herren zuͦ erhalten were oder nitt.</s>
+				<s n="50" lang="de" state="auto">Was wider ir satzung und guͦt ordnung were, wellte ich gar ungern, das es von minen oder der meinen wegen verbrochen<fl>59</fl> wurde.</s>
+				<s n="51" lang="de" state="auto">Was aber bruchig<fl>60</fl> oder bittlich<fl>61</fl> were, will ich euch am fruntlichesten ersuͦcht haben.</s>
+				<s n="52" lang="de" state="auto">Wellt euch im soͤlichen, wie ir biß anher gethon, ain guͦten getruwen frund und bruͦder erzoͤgen.</s>
+				<s n="53" lang="de" state="auto">Steht mir umb euch gantz freuntlich zuͦ beschulden.<fl>62</fl></s>
+				<s n="54" lang="de" state="auto">Ich wellt inn gaim<fl>63</fl> gern zuͦ soͤlichem fürderen, nun das er doch von dem ellenden kriegen vornenzuͦ<fl>64</fl> abgezogen wurde.</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="55" lang="de" state="auto">So ir wissen, wa<fl>65</fl> der fromm <persName ref="2336">Bernhardinus Ochinus</persName> were, wellt im bygelegten brieff zuͦ schaffen.</s>
+				<s n="56" lang="de" state="auto">Ich mag gar nitt wissen, wahin er von <placeName ref="474">Sant Gallen</placeName> gezogen.<fl>66</fl></s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="57" lang="la" state="auto">Eximio valde viro domino Heinricho Bullingero, venerando suo longeque charissimo fratri.</s>
+				<s n="58" lang="la" state="auto">Tiguri.<fl>67</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2824">
+		<alpha>
+			<fn ref="a" meta="1"><i>F. 229v. ist leer.</i></fn>
+			<fn ref="b" meta="1"><i>Die nur noch sehr schwer erkennbaren Falten und Siegelspuren könnten auf die Zusammengehörigkeit der beiden Schriftstücke hindeuten. Diese wird zusätzlich durch die im nächsten Brief <persName ref="8055">Blarers</persName> geäußerte Bitte (s. <link fk_file="12890">Nr. 2841</link>, 49f) bekräftigt, nicht zu vergessen, sich der in vorliegender Beilage angesprochenen Angelegenheit anzunehmen.</i></fn>
+			<fn ref="c" meta="1"><i>Die von Schieß in <persName ref="8055">Blarer</persName> BW zum vorliegenden Brief veröffentlichte 1. Beilage wurde wegen der dort enthaltenen zeitlichen Angaben und der in <link fk_file="12890">Nr. 2841</link>, Anm. b, angestellten Beobachtungen <persName ref="8055">Blarers</persName> Brief <link fk_file="12890">Nr. 2841</link> vom 11. März zugewiesen.</i></fn>
+			<fn ref="d"><i>Klammern ergänzt.</i></fn>
+			<fn ref="e"><i>In der Vorlage</i> zeuch.</fn>
+			<fn ref="f">Klammern ergänzt.</fn>
+			<fn ref="g-g"><i>Am Rande, ohne Einfügungszeichen angebracht. Die Klammern wurden ergänzt.</i></fn>
+			<!-- Splits -->
+			<fn ref="g"><i>Am Rande, ohne Einfügungszeichen angebracht. Die Klammern wurden ergänzt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten.</fn>
+			<fn ref="2">illi mou.</fn>
+			<fn ref="3">Nicht in <i><persName ref="8055">Blarer</persName> BW.</i></fn>
+			<fn ref="4"><persName ref="5722">Eriprando Madruzzo</persName>, der schon am 17. Februar gestorben war und am 20. begraben wurde; s. <link fk_file="12861">Nr. 2812</link>, Anm. 28.</fn>
+			<fn ref="5" type="bio" fk_person="7689">Vizekanzler <persName ref="7689">Johann von Naves</persName> starb in der Nacht vom 19. auf den 20. Februar; s. <bibl>PC</bibl> IV/1, 613; <persName ref="7430">Christoph von Carlowitz</persName> aus <placeName ref="513">Ulm</placeName> an <persName ref="18250">Moritz von Sachsen</persName>, 20. Februar <i>(<persName ref="18250">Moritz von Sachsen</persName> PK</i> III 256, <link fk_file="10381">Nr. 349</link>). - Zu den Umständen s. <link fk_file="12870">Nr. 2821</link>,89-92.</fn>
+			<fn ref="6"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="7">Wortspiel für Granvelle (Nicolas Penenot). Er starb im August 1550.</fn>
+			<fn ref="8">Zu diesen Wortspielen vgl. schon <bibl>HBBW</bibl> XVI 215,62f.</fn>
+			<fn ref="9">Kriegsvolk.</fn>
+			<fn ref="10">Unrat (Unsauberkeit); hier vielleicht auch im Sinne von Unfug; s. <bibl>Fischer</bibl> VI/1 298.</fn>
+			<fn ref="11">überall.</fn>
+			<fn ref="12"><persName ref="18477">Ferdinand I.</persName></fn>
+			<fn ref="13"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="14">vernichten.</fn>
+			<fn ref="15">nur.</fn>
+			<fn ref="16">wieder.</fn>
+			<fn ref="17">Aufschub.</fn>
+			<fn ref="18">Der <placeName ref="457">Konstanzer</placeName> Rat hatte ein Schreiben <persName ref="7689">Naves</persName>' vom 3. Februar empfangen, in dem betont wurde, dass die <placeName ref="457">Konstanzer</placeName> in keiner besonderen Ungnade beim Kaiser stünden und sich deshalb nicht vor ihm fürchten müssen; er würde sie nicht streng bestrafen. Siehe Johann <i>Marmor,</i> Die Übergabe der Stadt <placeName ref="457">Konstanz</placeName> an's Haus <entity id="35" type="geo_country">Österreich</entity> im Jahre 1548. Aus dem Archive der Stadt <placeName ref="457">Konstanz</placeName>, Wien 1864, S. 11.</fn>
+			<fn ref="19">Welches Lied damit gemeint ist, bleibt offen. Da <persName ref="8055">Blarer</persName> es hier mit einer anderen Schrift in Zusammenhang bringt, die er kritisiert, wird es sich nicht um ein in Zürich verfasstes oder gar gedrucktes Lied handeln, zumal Bullinger Druckaufseher in Zürich war (s. <link fk_file="12876">Nr. 2827</link>,91). Da aber <persName ref="8055">Blarer</persName> das Lied einer im deutschen protestantischen Lager erschienenen Publikation gegenübersteht, wird es in Genf, <placeName ref="41">Bern</placeName> oder <placeName ref="28">Basel</placeName> gedruckt worden sein. Es ist vermutlich identisch mit den anonymen Versen, für die <placeName ref="2448">die Fünf Orte</placeName> während der am 28. Februar beginnenden Tagsatzung zu <placeName ref="21">Baden</placeName> Zürich und <persName ref="8011">Gwalther</persName> (genauso wie für dessen "Endtchrist") verantwortlich machen wollten, was Letztere allerdings zurückwiesen; s. <bibl>EA</bibl> IV/1d 775 s.</fn>
+			<fn ref="20"><bibl>Adagia</bibl> 1, 10, 71 <i>(ASD</i> II/2 468, <link fk_file="11013">Nr. 971</link>).</fn>
+			<fn ref="21">Menschen, die sich in alles einmischen; s. <bibl>Kirsch</bibl> 241.</fn>
+			<fn ref="22">Damit ist vermutlich erneut eine, diesmal aber im deutschen Lager erschienene Schmähschrift gemeint, in deren Titel das Wort "Sudatorium", "Badstub" oder "Schweißbad" vorkam. Allerdings wird es sich dabei kaum um die in <bibl>HBBW</bibl> XVIII 75f, Anm. 5, verzeichnete und des Öfteren nachgedruckte Schrift handeln, die kaum den Unmut <persName ref="8055">Blarers</persName> erregt haben könnte.</fn>
+			<fn ref="23"><persName ref="8472">Konrad Hofherrs</persName> Brief vom 24. Februar (<link fk_file="12872">Nr. 2823</link>).</fn>
+			<fn ref="24">Nämlich der Witwe <persName ref="5797">Regula Mayer</persName>. -Zur Angelegenheit s. <bibl>HBBW</bibl> XVIII 4061. 413.</fn>
+			<fn ref="25">Offensichtlich war <persName ref="4082">Konrad Zwick</persName> der Übermittler dieses Briefes, es sei denn, dass hier ein nicht mehr erhaltener Brief Zwicks an Bullinger gemeint ist.</fn>
+			<fn ref="26">Haind für güt: Begnügt euch damit.</fn>
+			<fn ref="27">Nämlich mit der hier unten veröffentlichten Beilage.</fn>
+			<fn ref="28">Zur Bezeichnung s. <link fk_file="12788">Nr. 2739</link>, Anm. 3.</fn>
+			<fn ref="29"><persName ref="8498">Marcell Dietrich von Schankwitz</persName>.</fn>
+			<fn ref="30">Die Klause Ehrenberg; s. dazu <bibl>HBBW</bibl> XVII Reg.</fn>
+			<fn ref="31">hat sich grosser ungnad zü befaren: muss Schlimmes befürchten.</fn>
+			<fn ref="32">Kurz vor dem 21. Januar 1547; s. <link fk_file="12811">Nr. 2762</link>, Anm. 98.</fn>
+			<fn ref="33">Zur Unterwerfung Ulms s. <link fk_file="12783">Nr. 2734</link>. Anm. 4.</fn>
+			<fn ref="34" type="bio" fk_person="7170"><persName ref="7170">Anna Zehntmeier</persName> von Schwaz im Tirol, die Tochter von <persName ref="7171">Heinrich Zehntmeier</persName> und <persName ref="5263">Chantas Hofstetter</persName>; s. <i>AK</i> VIII, S. XXXVII, zu Nr. 3410.</fn>
+			<fn ref="35">Philipp Klee; s. ebd.</fn>
+			<fn ref="36">Georg Klee, Arzt aus Liegnitz (Legnica), Schlesien; s. ebd.</fn>
+			<fn ref="37">Domherrenhof.</fn>
+			<fn ref="38">klainfügen sytz: bescheidene Liegenschaft.</fn>
+			<fn ref="39">(es ist) ihm.</fn>
+			<fn ref="40">Dübelstein, Kt. Zürich, etwa 4 km nordwestlich vom Greifensee.</fn>
+			<fn ref="41">Richtig: der Kaufmann Gotthard Richmut: s. Markus <i>Stromer,</i> Die Burg Dübelstein und ihre Besitzer in der schriftlichen Überlieferung, in: Vom Dübelstein zur Waldmannsburg. Adelssitz, Gedächtnisort und Forschungsobjekt, <placeName ref="28">Basel</placeName> 2006, S. 35. Als nächster Besitzer (im Jahre 1559) ist Junker und Ratsherr Jakob Wirz belegt; s. aaO. Schankwitz scheint also die Burg nicht gekauft zu haben. - Der Kontakt zwischen Richmut und Schankwitz entstand vielleicht durch einen der Zürcher, die sich am Schmalkaldischen Krieg beteiligt hatten, wie etwa Heinrich Richmut (s. <bibl>HBBW</bibl> XVII und XVIII Reg), falls dieser mit Gotthard verwandt war.</fn>
+			<fn ref="42">von; s. <bibl>Fischer</bibl> I 173.</fn>
+			<fn ref="43">in still: auf diskrete Weise.</fn>
+			<fn ref="44">ir gelegenhait erfordert: die (mit ihnen verbundenen) Umstände es erfordern.</fn>
+			<fn ref="45">verzichten; s. <bibl>SI</bibl> VI 1609.</fn>
+			<fn ref="46">Lebensunterhalt.</fn>
+			<fn ref="47">erlangen; s. <bibl>Fischer</bibl> II 811f.</fn>
+			<fn ref="48">wenn.</fn>
+			<fn ref="49">für und für: weiterhin.</fn>
+			<fn ref="50">von hauß auß: Siehe <link fk_file="12861">Nr. 2812</link>, Anm. 49.</fn>
+			<fn ref="51">Einkünfte; s. <bibl>Fischer</bibl> III 916.</fn>
+			<fn ref="52">aber.</fn>
+			<fn ref="53"><persName ref="18477">Ferdinand I.</persName></fn>
+			<fn ref="54">fortan.</fn>
+			<fn ref="55">aushändigen; vgl. <bibl>Fischer</bibl> II 1125.</fn>
+			<fn ref="56">Denn.</fn>
+			<fn ref="57">seid.</fn>
+			<fn ref="58">erfaren mir: bringt für mich in Erfahrung.</fn>
+			<fn ref="59">übertreten.</fn>
+			<fn ref="60">üblich.</fn>
+			<fn ref="61">bittend (zu erlangen).</fn>
+			<fn ref="62">vergelten.</fn>
+			<fn ref="63">geheim.</fn>
+			<fn ref="64">nach und nach; s. <bibl>SI</bibl> XVII 88.</fn>
+			<fn ref="65">wo.</fn>
+			<fn ref="66"><persName ref="2336">Ochino</persName> hatte St. Gallen am 31. Januar verlassen und war über Zürich (2. Februar) und <placeName ref="2">Aarau</placeName> nach <placeName ref="28">Basel</placeName> gelangt; s. <link fk_file="12832">Nr. 2783</link>, Anm. 2; <link fk_file="12855">Nr. 2806</link>, Anm. 12.</fn>
+			<fn ref="67">Vorliegendes Schreiben wurde gemeinsam mit <persName ref="8472">Hofherrs</persName> Brief <link fk_file="12872">Nr. 2823</link> und vielleicht von <persName ref="4082">Zwick</persName> (s. oben Z. 32f) nach Zürich befördert; s. oben Z. 29-31.</fn>
+		</num>
+	</footnotes>
+</file>

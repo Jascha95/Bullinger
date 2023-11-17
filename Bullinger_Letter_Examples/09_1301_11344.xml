@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11344" id_hbbw="1301" id_irg_sort="1301" id_sort="113010">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11344</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1301</arpa>
+		<scan_pages>
+			<scan id="26371" dir="11344/Autograph/" page="1">00 E_II_365__fol__8_r_.tif</scan>
+			<scan id="26372" dir="11344/Autograph/" page="2">01 E_II_365__fol__8_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23026" vf="1" fk_add_type="1">
+				<person id="396" fk_id="396">
+					<name>Blasius</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="98" vf="1" fk_id="98" long="9.53287" lat="46.84986">Chur</place>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23027" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11344">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">8</month>
+				<day fk_d="" d="" vf="1" fn="">23</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17815">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 365,8</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9532" fk_bib="0">
+				<entry>Graubünden, Korr. I, S. 16, Nr. 14</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="7">
+				<lang id="5" iso="la" count="7" p="100.0"/>
+			</sentences>
+			<words count="97">
+				<lang id="5" iso="la" count="97" p="100.0"/>
+			</words>
+			<chars count="562">
+				<lang id="5" iso="la" count="562" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1301" page="204">
+		<div ref="1">
+			Bittet Bullinger, den Überbringer des Briefes, den <placeName ref="98">Churer</placeName>
+			[Alt-]Bürgermeister [<persName ref="8013">Luzi Heim</persName>] in seiner evangelischen Gesinnung zu bestärken; Bullinger kann
+			ihm eine eventuelle Sendung für <persName ref="6831">[Johannes] Travers</persName> mitgeben. Bittet, Neues zum Fortgang der Reformation
+			mitzuteilen.
+		</div>
+	</regest>
+	<letter lang="la" edition="GR" vol="I" fk_bibliography="39" nr="14" page="16">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Ioannes Blasius Heinricho suo S.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Is, quem hic coram cernis, observandissime vir, reipublicae nostrae consul est, homo omnium bonorum iudicio syncerus ac in re evangelica constantissimus.</s>
+				<s n="3" lang="la" state="auto">Illum et tibi notum volui, cui, licet currenti, calcar tuum addas, ut in re bene cepta persistat.</s>
+				<s n="4" lang="la" state="manual">Deinde Traverso nostro si quid destinasti, fac per illum accipiamus etc. et si quid est apud [vos], quod facit ad promovendam Domini veritatem, fac et nos participes.</s>
+				<s n="5" lang="la" state="auto">Vale per Dominum, qui te diu nobis conservare dignetur, amen.</s>
+				<s n="6" lang="la" state="auto">Raptim, Curiae, 23. Augusti, anno 39.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Ornatissimo iuxta ac humanissimo domino Heinricho Bullingero, ecclesiae Tigurinae episcopo vigilantissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="39" nr="14"/>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1301" page="204"/>
+			<footnotes fk_bibliography="11" nr="1301"/>
+		</alternative>
+	</alternatives>
+</file>

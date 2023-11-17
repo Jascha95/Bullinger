@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11261" id_hbbw="1218" id_irg_sort="1218" id_sort="112180">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11261</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1218</arpa>
+		<scan_pages>
+			<scan id="26198" dir="11261/Autograph/" page="1">00 E_II_346__fol__114_r_.tif</scan>
+			<scan id="26199" dir="11261/Autograph/" page="2">01 E_II_346__fol__114_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22842" vf="1" fk_add_type="1">
+				<person id="3700" fk_id="3700">
+					<name>von Rümlang</name>
+					<forename>Eberhard</forename>
+				</person>
+				<place id="41" vf="1" fk_id="41" long="7.44744" lat="46.94809">Bern</place>
+				<district id="28">Bern</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22843" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11261">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">25</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17735">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 346,114</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11104" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1218, S. 40</entry>
+				<page>40</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="14">
+				<lang id="1" iso="de" count="2" p="14.3"/>
+				<lang id="5" iso="la" count="12" p="85.7"/>
+			</sentences>
+			<words count="306">
+				<lang id="1" iso="de" count="5" p="1.6"/>
+				<lang id="5" iso="la" count="301" p="98.4"/>
+			</words>
+			<chars count="1888">
+				<lang id="1" iso="de" count="34" p="1.8"/>
+				<lang id="5" iso="la" count="1854" p="98.2"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1218" page="40">
+		<div ref="1">
+			Die beiden Räte haben sich mit <persName ref="1974">Luthers</persName> [Schmalkaldischen Artikeln]
+			befaßt; sie distanzieren sich von seiner Abendmahlslehre, äußern Mißtrauen gegenüber den nicht namentlich
+			genannten [Konkordien-]Vermittlern [<persName ref="467">Bucer</persName> und
+			<persName ref="5565">Capito</persName>] und halten an der
+			[<placeName ref="41">Berner</placeName>] Disputation sowie an der Antwort [der reformierten
+			Städte] an <persName ref="1974">Luther</persName> fest. <persName ref="3700">Rümlang</persName>
+			regt die Veröffentlichung einer Verteidigungsschrift an; die
+			<placeName ref="41">Berner</placeName> sind bereit, mit den Zürchern darüber zu beraten. Schickt
+			im Auftrag von <persName ref="5837">Sebastian [Meyer]</persName> eine Ergänzung [zu dessen Kommentar] zur Apokalypse. Grüße.
+			<persName ref="20015">Kunz</persName>, <persName ref="5837">Meyer</persName> und
+			<persName ref="3099">Sulzer</persName> sind erzürnt darüber, daß er ihre Haltung nicht teilt;
+			nötigenfalls ist er zu einer öffentlichen Auseinandersetzung bereit.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1218" page="40">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Tametsi fortassis impudentior sim toties literis tibi occupatissimo, ut in quem non nisi gravissima et ardua recumbant, obstrependo, nedum ut literas reposcam, quod tantum non impium foret, nolui tamen clam te esse libellum<fl>1</fl> a <persName ref="1974">Luthero</persName> editum plerosque hic sobrie sentientes commovisse usque eo, ut res ad senatum diacosiosque<fl>2</fl> relata salubrem et plausibilem sententiam - insperato, opera tamen fidelium et cordatorum - extorserit, talem videlicet, nos certo deprehendere parum nobis cum isto articulo de sacramento<pb_edition start_of="41"/> altaris iuxta verba <persName ref="1974">Lutheri</persName> convenire posse propemodumque suspectos esse, qui se intercedendo interposuerint<fl>3</fl>, quorum tamen nomina studio supprimebantur.</s>
+				<s n="2" lang="la" state="auto">Sed quicquid hactenus de his actum sit, utcunque nos ad concordiam applicuerimus et utcunque posthac concordię negotium cedat, nos tamen velle manere circa sensum et verba disputationis nostrę<fl>4</fl> et responso <persName ref="1974">Luthero</persName> transmisso<fl>5</fl> neque quicquam aliud a quoquam vel audire vel admittere et in isto gratiam dei expectare, confidentes deum nobis non defore, quicquid interim principes quicunque moliantur etc.</s>
+			</p>
+			<p>
+				<s n="3" lang="la" state="auto">Plura libenter scriberem, sed mihi non est otium iam.</s>
+				<s n="4" lang="la" state="auto">Profuerit meo iuditio apologiam adornari, ut nostra innocentia mundo constaret universo, remque per legatos magistratus vosque nobiscum expediendam.</s>
+				<s n="5" lang="la" state="auto">Promptos nos invenietis vobis in nullo defuturos etc.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Mitto quaedam a <persName ref="5837">Sebastiano</persName><fl>6</fl>, quae mittenda commendavit et ad Apocalypsim excudenda<fl>a</fl><fl>7</fl>, si nondum finita; lege et fac pro tuo candore vel remitte, si Apocalipsis finita etc.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Habe me commendatum, quęso; saluta <persName ref="8127">Pellicanum</persName>, <persName ref="8412">Megandrum</persName>, <persName ref="8171">Theodorum</persName><fl>8</fl>, <persName ref="8428">Rhellicanum</persName>, <persName ref="167">Ammianum</persName><fl>9</fl>, <persName ref="4554" state="auto_name">Clivanum</persName><fl>10</fl>, <persName ref="344">Binderum</persName>, in summa singulos et <persName ref="8447">Steinerum</persName> etc.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto">Datum raptim, <placeName ref="41">Bernę</placeName>, in senatu scripta, 25. ianuarii anno 1539.</s>
+				<s n="9" lang="la" state="auto"><persName ref="20015" state="auto_name">Cuntzenus</persName><fl>11</fl>, <persName ref="5837">Sebastianus</persName> et <persName ref="3099">Sultzerus</persName> libenter fulminarent, si modo auderent, mihique non parum infensi, quod minus videar partes suas tueri; sed causa mala patrocinio non digna etc.</s>
+				<s n="10" lang="la" state="auto">Hoc in sinum tuum dictum sit; nisi destiterint, apertas simultates non exhorrescam, cum homo durus et rusticus sim.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Tuus <persName ref="3700">Eberardus a Rümlang</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="12" lang="la" state="auto">Eruditissimo et vigilantissimo viro domino Henrico Bullingero, ecclesię Tigurinę ecclesiastae primario, domino suo observando.</s>
+				<s n="13" lang="de" state="auto">An Meister Heinrich Bullinger.</s>
+				<s n="14" lang="de" state="auto">Zürich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1218">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> excudan.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Die Schmalkaldischen Artikel; vgl. <bibl>HBBW</bibl> VIII, S. 292, 29-31.</fn>
+			<fn ref="2">d. h. an den Kleinen und den Großen Rat.</fn>
+			<fn ref="3"><persName ref="467">Bucer</persName> und <persName ref="5565">Capito</persName>.</fn>
+			<fn ref="4">Gemeint ist die <placeName ref="41">Berner</placeName> Disputation von 1528, insbesondere deren vierte Schlußrede (s. <bibl>HBBW VII</bibl> <link fk_file="11088">[Nr. 1045]</link>, S. 247, Anm. 21).</fn>
+			<fn ref="5">Zu erwarten wäre ein Genetiv. - Die Rede ist vom Schreiben der reformierten Städte der Eidgenossenschaft an <persName ref="1974">Luther</persName> vom 12. Januar 1537 (<bibl>WA</bibl> Briefwechsel XII 241-275, Nr. 4268).</fn>
+			<fn ref="6"><persName ref="5837">Sebastian Meyer</persName>.</fn>
+			<fn ref="7">Bei dieser Beilage könnte es sich um <persName ref="5837">Meyers</persName> Nachwort zu seinem Apokalypsenkommentar gehandelt haben; vgl. <bibl>HBBW</bibl> VIII, <link fk_file="11200">Nr. 1157</link>, 1-13, und 1207, 1-15, sowie unten <link fk_file="11267">Nr. 1224</link>, 8-28.</fn>
+			<fn ref="8"><persName ref="8171">Theodor Bibliander</persName>.</fn>
+			<fn ref="9"><persName ref="167">Johann Jakob Ammann</persName>.</fn>
+			<fn ref="10"><persName ref="4554">Rudolf Collin</persName>.</fn>
+			<fn ref="11"><persName ref="20015">Peter Kunz</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

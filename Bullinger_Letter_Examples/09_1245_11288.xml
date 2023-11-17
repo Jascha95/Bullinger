@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11288" id_hbbw="1245" id_irg_sort="1245" id_sort="112450">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11288</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1245</arpa>
+		<scan_pages>
+			<scan id="26247" dir="11288/Autograph/" page="1">00 E_II_359__fol__2779_r_.tif</scan>
+			<scan id="26248" dir="11288/Autograph/" page="2">01 E_II_359__fol__2779_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22902" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22903" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11288">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">16</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17760">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2779</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11126" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1245, S. 88</entry>
+				<page>88</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="23">
+				<lang id="5" iso="la" count="23" p="100.0"/>
+			</sentences>
+			<words count="352">
+				<lang id="5" iso="la" count="352" p="100.0"/>
+			</words>
+			<chars count="2026">
+				<lang id="5" iso="la" count="2026" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1245" page="87">
+		<div ref="1">
+			Dankt für einen Brief; vertraut darauf, daß ihm alle Anweisungen zum Besten dienen. Ist gewillt, seine
+			Studien gemäß Bullingers Wunsch auf die Religion auszurichten, und bittet nochmals um eine Anleitung zur
+			Bibellektüre. Die Laute, [die Werke von] <persName ref="4544">Cicero</persName> und das Geld hat er erhalten, und den „Index“ von <persName ref="1001">Eliott</persName>
+			wird ihm <persName ref="18308">Quirinus [von Leiden]</persName> mitbringen; außerdem bittet er um ein Exemplar der lateinischen
+			<persName ref="2270">Münster</persName>-Bibel. <persName ref="8418">Myconius</persName> hat <persName ref="1365">Grynäus</persName> Bullingers Brief [<link fk_file="11282">Nr. 1239</link>] gezeigt, um ihn
+			an sein Versprechen zu erinnern, doch <persName ref="8011">Gwalther</persName><pb_edition start_of="88"/> fürchtet Widerstand von <persName ref="1365">Grynäus</persName>’
+			Frau [gegen seine Aufnahme in ihr Haus]. Gruß. Sendet einen Beutel zurück.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1245" page="88">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Reddidit mihi <persName ref="1227">Froschouerus</persName><fl>1</fl> literas<fl>2</fl> tuas, pater humanissime, quibus me et consolaris et, quid agendum porro sit, instituis, pro quibus in me benefitiis magnas tibi ago gratias; referam etiam, si modo aliquando referendi facultas concessa fuerit.</s>
+				<s n="3" lang="la" state="auto">Nimis vero<fl>b</fl> mihi laborare videris, quod denuo tam accurate causam addis, cur <placeName ref="558">Witembergam</placeName> mihi negaveritis<fl>3</fl>; ego enim dudum hoc mihi persuasum habeo vos non modo ea, quae mihi conducunt, videre, verumetiam bene prospecta mihi consulere, sic ut vestrorum imperiorum causas inquirere non plurimum laborem.</s>
+				<s n="4" lang="la" state="auto">Hoc etenim constitui: vestris iussis parere et obsequi; vestras, si quid delinquo, admonitiones libenter recipio.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Religionem porro studiorum meorum scopum esse vis<fl>4</fl>, quod et ego imprimis cupio; video enim hanc mihi solam propositam esse, in qua et divinę vocationi satisfacere et collatis in me benefitiis respondere possim.</s>
+				<s n="6" lang="la" state="auto">Curabo itaque, ne me hic tuę admonitionis immemorem esse comperias.</s>
+				<s n="7" lang="la" state="auto">Postulaveram autem abs te, dum adhuc <placeName ref="492">Argentinę</placeName> agerem, ut mihi paucis, quo nam ordine sacrę scripturę libri legendi essent, demonstrares<fl>5</fl>; id etiam nunc (si modo otium tibi fuerit) abs te rogo.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto">Chelim et <persName ref="4544">Ciceronem</persName><fl>6</fl> eodem die recepi; nummos<fl>7</fl> <persName ref="1227">Froschouerus</persName> dedit.</s>
+				<s n="9" lang="la" state="auto">Salva alia sunt omnia.</s>
+				<s n="10" lang="la" state="auto">Indicem Elioti<fl>8</fl> <persName ref="18308">Quirinus</persName><fl>9</fl> ad me deferet.</s>
+				<s n="11" lang="la" state="auto">Rogo praeterea, ut mihi apud vos Biblia Latina <persName ref="2270">Munsteri</persName> per <persName ref="1227">Christophorum</persName> impressa<fl>10</fl> ligari cures et per eundem Quirinum ad<fl>c</fl> me mittas prętiumque ex nummis, quos tecum habes, solvas, nisi forte tibi aliter visum fuerit; sed scis nimirum me sine propriis bibliis non multum in theologia proficere posse.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Plura, quae scribam, nunc non habeo.</s>
+				<s n="13" lang="la" state="auto"><persName ref="8418">Miconio</persName> de <persName ref="1365">Grinei</persName> promissis, quae tibi mei gratia exhibuit, scripsisti<fl>11</fl>; is <persName ref="1365">Grineo</persName> epistolam legendam tradidit.</s>
+				<s n="14" lang="la" state="auto">Nildum respondit hic, sed timeo, ne nova uxor<fl>12</fl> propter divitias, quibus abundat, mariti imperium sibi vendicet.</s>
+				<s n="15" lang="la" state="auto">Quare de hac re postea copiosius scribam.<pb_edition start_of="89"/></s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Deus optimus maximus te ecclesiae suae diu incolumem servet.</s>
+				<s n="17" lang="la" state="auto">Vale bene, patrone charissime, et <persName ref="8011">Rodolphum</persName> tuum tibi commendatum habeto.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Salutabis, quaeso, nomine meo uxorem<fl>13</fl> matremque<fl>14</fl> tuam et universam familiam.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Remitto hic saccum, in quo <persName ref="4544">Ciceronem</persName> ad me demisisti.</s>
+				<s n="20" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, ex aedibus d. <persName ref="8418">Miconii</persName><fl>d</fl>, 16. martii 1539.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Tui observantissimus <persName ref="8011">Rod. Gvaltherus</persName><fl>15</fl>.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Ignosce, quaeso, lituris; non enim rescribendi otium fuit.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="23" lang="la" state="auto">Vere pio et erudito viro M. Heinrycho Bullingero, Moecenati<fl>16</fl> suo imprimis colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1245">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichungen von späterer Hand.</i></fn>
+			<fn ref="b">vero <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="c">ad <i>undeutlich korrigiert.</i></fn>
+			<fn ref="d">Miconii <i>anstelle von gestrichenem</i> Bullingen.</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="1227">Froschauer</persName> dürfte auf der Durchreise zur <placeName ref="157">Frankfurter</placeName> Frühjahrsmesse nach <placeName ref="28">Basel</placeName> gekommen sein; vgl. unten <link fk_file="11291">Nr. 1248</link>, 13-15.</fn>
+			<fn ref="2">Nicht erhalten.</fn>
+			<fn ref="3">Vgl. oben <link fk_file="11275">Nr. 1232</link>, 2-11.</fn>
+			<fn ref="4"><persName ref="8011">Gwalther</persName> kommt in seinem Brief vom 13. April nochmals auf diese Mahnung zurück; s. unten <link fk_file="11297">Nr. 1254</link>, 29-33.</fn>
+			<fn ref="5">Vgl. <bibl>HBBW VIII</bibl> <link fk_file="11244">[Nr. 1201]</link>, S. 277, 106-113.</fn>
+			<fn ref="6">Vgl. oben <link fk_file="11278">Nr. 1235</link>, 8-12.</fn>
+			<fn ref="7">Gemeint ist wohl die zu Fronfasten (26. Februar) fällig gewordene Stipendienrate.</fn>
+			<fn ref="8">Vgl. oben <link fk_file="11275">Nr. 1232</link>, 31f.</fn>
+			<fn ref="9"><persName ref="18308">Quirinus von Leiden</persName>.</fn>
+			<fn ref="10">Zu der bei <persName ref="1227">Froschauer</persName> gedruckten Bibelausgabe mit <persName ref="2270">Münsters</persName> Übersetzung des Alten Testaments s. oben <link fk_file="11280">Nr. 1237</link>, Anm. 10.</fn>
+			<fn ref="11">Am 10. März; s. oben <link fk_file="11282">Nr. 1239</link>, 2-9.</fn>
+			<fn ref="12" type="bio" fk_person="5044"><persName ref="5044">Katharina, geb. Lompart</persName>.</fn>
+			<fn ref="13" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="14" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+			<fn ref="15">Von diesem Brief an schreibt <persName ref="8011">Gwalther</persName> seinen Namen stets mit "th" (<persName ref="8011">Gvaltherus</persName>, Walther).</fn>
+			<fn ref="16">Vgl. oben <link fk_file="11260">Nr. 1217</link>, Anm. 3.</fn>
+		</num>
+	</footnotes>
+</file>

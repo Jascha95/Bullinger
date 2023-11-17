@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11359" id_hbbw="1316" id_irg_sort="1316" id_sort="113160">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11359</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1316</arpa>
+		<scan_pages>
+			<scan id="26398" dir="11359/Autograph/" page="1">00 E_II_364__fol__60_r_.tif</scan>
+			<scan id="26399" dir="11359/Autograph/" page="2">01 E_II_364__fol__60_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23060" vf="1" fk_add_type="1">
+				<person id="4079" fk_id="4079">
+					<name>Zwick</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="257" vf="1" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23061" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11359">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">10</month>
+				<day fk_d="" d="" vf="1" fn="">11</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17830">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 364,60</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11107" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1316, S. 232</entry>
+				<page>232</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="13">
+				<lang id="5" iso="la" count="13" p="100.0"/>
+			</sentences>
+			<words count="124">
+				<lang id="5" iso="la" count="124" p="100.0"/>
+			</words>
+			<chars count="755">
+				<lang id="5" iso="la" count="755" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1316" page="232">
+		<div ref="1">
+			Wünscht Wohlergehen; ihnen geht es gut. Man sagt, sobald der [Erz-]Bischof von Lund
+			[<persName ref="7852">Johann von Weeze</persName>] zurückkehre, werde das
+			<placeName ref="361">Nürnberger</placeName> Religionsgespräch stattfinden; beide Seiten hätten hohe
+			Erwartungen. <persName ref="8055">Ambrosius [Blarer]</persName>
+			hat nicht geschrieben, soll aber in <placeName ref="1976">Augsburg</placeName> laut
+			<persName ref="7101">Bonifacius [Wolfhart]</persName>
+			geschätzt werden; wann er heimkehrt, ist noch unsicher. <persName ref="8049">Vadian</persName> hat zu
+			den ihm zugesandten Schriften <persName ref="8441">Schwenckfelds</persName> ausführlich Stellung
+			genommen; <persName ref="4079">Zwick</persName> wird Bullinger den Brief übersenden, wenn
+			<persName ref="8049">Vadian</persName> seiner Herausgabe zustimmt. Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1316" page="232">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Salus.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Spero te cum fratribus bene habere, Bullingere charissime.</s>
+				<s n="3" lang="la" state="auto">Nos quoque domino sic favente bene habemus.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">Novarum vero rerum nihil est ad manum, nisi quod constanter affirmant redeunte episcopo Lundonense<fl>1</fl> conventum Norenbergicum<fl>a</fl> processurum<fl>2</fl> et magnam utriusque partis de illo expectationem esse.</s>
+				<s n="5" lang="la" state="auto">Dominus bene vertat hoc institutum.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Ex <placeName ref="1976">Augusta</placeName> nichil scribit <persName ref="8055">Ambrosius</persName><fl>b</fl><fl>3</fl>; <persName ref="7101">Bonifacius</persName> scribit<fl>4</fl>, quam sit gratus, id quod omnes testantur.</s>
+				<s n="7" lang="la" state="auto">De reditu ipsius nichil habemus certi.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto"><persName ref="8049">Vadiano</persName> nuper misi duos libellos <persName ref="8441">Schwenckfeldii</persName><fl>5</fl>, in quibus Christum creaturam negat, ad quos doctissime respondit epistola bene longa ad me<fl>6</fl>, quam, si consenserit, ut aedatur, mittam ad te<fl>7</fl>.<pb_edition start_of="233"/></s>
+			</p>
+			<p>
+				<s n="9" lang="la" state="auto">Vale cum optimo patre meo <persName ref="8127">Pellicano</persName> et reliquis fratribus.</s>
+				<s n="10" lang="la" state="auto">Totam domum salvam cupio.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Ex <placeName ref="457">Constantia</placeName>, 11. octobris 1539.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Tuus <persName ref="4079">Io. Zwick</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="13" lang="la" state="auto">Domino Hainricho Bullingero, Tigurinae ecclesiae pastori, fratri meo charissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1316">
+		<alpha>
+			<fn ref="a"><i>korrigiert aus</i> Norembergicum.</fn>
+			<fn ref="b"><i>nach</i> Ambrosius <i>gestrichenes</i> nisi.</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="7852">Johann von Weeze</persName>, Erzbischof von Lund und kaiserlicher Orator.</fn>
+			<fn ref="2"><persName ref="18538">Kaiser Karl V.</persName> hatte den vermittelnden Kurfürsten am 5. Juli mitgeteilt, das <placeName ref="361">Nürnberger</placeName> Religionsgespräch könne noch nicht stattfinden, er werde aber <persName ref="7852">Weeze</persName> erneut als Bevollmächtigten nach Deutschland senden; s. <bibl>Fuchtel</bibl> 198.</fn>
+			<fn ref="3"><persName ref="8055">Ambrosius Blarer</persName>.</fn>
+			<fn ref="4">Der Brief von <persName ref="7101">Bonifacius Wolfhart</persName> ist nicht erhalten.</fn>
+			<fn ref="5">Vgl. oben <link fk_file="11350">Nr. 1307</link>, 9f mit Anm. 8.</fn>
+			<fn ref="6">In seiner ursprünglichen Form ist dieser Brief nicht erhalten, vgl. aber die folgende Anm.</fn>
+			<fn ref="7"><persName ref="4079">Zwick</persName> drängte <persName ref="8049">Vadian</persName> in mehreren Briefen zur Veröffentlichung seiner Stellungnahme (s. <persName ref="8049">Vadian</persName> BW V 573. 575f. 577f. 579. 591f. 628); schließlich wurde sie in überarbeiteter Form unter dem Datum 1. August 1540 bei Froschauer gedruckt (<bibl>BZD</bibl> C 292; vgl. <i>Moeller,</i> <persName ref="4079">Zwick</persName> 2140.</fn>
+		</num>
+	</footnotes>
+</file>

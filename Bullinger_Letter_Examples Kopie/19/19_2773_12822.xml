@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12822" id_hbbw="2773" id_irg_sort="2773" id_sort="127730">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12822</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2773</arpa>
+		<scan_pages/>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26186" vf="1" fk_add_type="1">
+				<person id="1884" fk_id="1884">
+					<name>Lavater</name>
+					<forename>Ludwig</forename>
+				</person>
+				<place id="491" vf="1" fk_id="491" long="7.7507127" lat="48.584614">Straßburg</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26187" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12822">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">26</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19388">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 39,716 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12424" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2773, S. 199</entry>
+				<page>199</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="40">
+				<lang id="5" iso="la" count="40" p="100.0"/>
+			</sentences>
+			<words count="579">
+				<lang id="6" iso="el" count="1" p="0.2"/>
+				<lang id="5" iso="la" count="578" p="99.8"/>
+			</words>
+			<chars count="3490">
+				<lang id="6" iso="el" count="9" p="0.3"/>
+				<lang id="5" iso="la" count="3481" p="99.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2773" page="198">
+		<div ref="1">
+			[1] Es gibt kaum etwas mitzuteilen, aber der Bote [...] soll nicht ohne Brief nach Zürich gehen. <persName ref="1884">Lavater</persName>
+			weiß durch <persName ref="1548">Richard Hilles</persName>, dass Bullingers Schweigen auf wichtige
+			Amtsgeschäfte zurückzuführen ist.
+		</div>
+		<div ref="2">
+			[2] Er erhielt für seinen Vater [Hans Rudolf] ein Handbuch mit Anredeformeln, dessen einfache Redewendungen
+			diesem zweifelsohne besser gefallen werden als die an den Höfen üblichen gekünstelten Formulierungen. Das
+			Buch enthält gute rhetorische Anweisungen und lehrt, wie man je nach Stand und Amt einen jeden anreden
+			sollte. Diesbezüglich sei <persName ref="1884">Lavater</persName> eine Bemerkung gestattet: Die pompösen Titulierungen, zu denen <persName ref="18538">Kaiser Karl V.</persName> in seinen Briefen an die Eidgenossen greift, dienen wohl nur dazu, Letztere zu blenden. Der Kaiser hat
+			nur eines im Kopf: Die Kräfte der Schmalkaldener aufzusplittern, um sich ihrer besser bemächtigen und die
+			Herrschaft [des Papsttums] wieder aufrichten zu können!
+		</div>
+		<div ref="3">
+			[3] Gewiss sind die Zürcher über die Kapitulation von <placeName ref="157">Frankfurt</placeName>
+			und über den Friedensvertrag zwischen <persName ref="9780">Herzog Ulrich von Württemberg</persName> und dem Kaiser schon bestens informiert. Dies sollte
+			sie dazu veranlassen, über ihre künftige Strategie nachzudenken. Landgraf <persName ref="18574">Philipp von Hessen</persName> hat zahlreiche
+			Truppen gesammelt, und der Verräter <persName ref="18250">Herzog Moritz von Sachsen</persName> soll vom Kurfürsten <persName ref="19065">Johann Friedrich von Sachsen</persName> vertrieben worden sein.
+		</div>
+		<div ref="4">
+			[4] In <placeName ref="492">Straßburg</placeName> liegt nun eine Garnison im Einsatz. Auf den
+			Festungsanlagen wurde das Geschütz installiert. Man bereitet sich auf eine Belagerung vor. Spanier, die
+			Kriegsbeute mit sich führten, konnten abgefangen werden.
+		</div>
+		<div ref="5">
+			[5] Ohne Gottes Hilfe ist aber Deutschland verloren und den Türken preisgegeben! Angesichts der in den
+			<entity id="20" type="geo_country">Niederlanden</entity> tobenden spanischen Inquisition wollen viele, und nicht zu Unrecht, lieber Untertanen der
+			Türken als des Kaisers sein. Und doch wird weiterhin behauptet, dass die Religion nicht dessen Anliegen sei!
+		</div>
+		<div ref="6">
+			[6] Der schlimme Krieg in Deutschland nimmt <persName ref="1884">Lavaters</persName> Hausherrn [<persName ref="7175">Matthias Zell</persName>] dermaßen mit, dass man der
+			Ansicht ist, er werde bald sterben. Zudem wird vermutlich das
+			<placeName ref="492">Straßburger</placeName> Gymnasium aufgelöst, da wegen des Krieges die
+			Aussichten schlecht sind. <persName ref="3088">Johannes Sturm</persName>, der von seiner
+			Gesandtschaft zurückgekehrt ist, konnte endlich wieder seinen Unterricht aufnehmen. Er diktiert derzeit eine
+			Schrift, in der die sophistischen Trugschlüsse widerlegt und die Grundlagen der Rhetorik dargestellt werden.
+		</div>
+		<div ref="7">
+			[7] <persName ref="1884">Lavater</persName> hatte früher gebeten, man wolle ihm doch mitteilen, wie lange er in
+			<placeName ref="492">Straßburg</placeName> studieren dürfe, sodass er sein Studium besser
+			organisieren könne. Leider erhielt er keine Antwort darauf, was bereits böse Folgen hat! Hätte er gewusst,
+			dass er so lange in <placeName ref="492">Straßburg</placeName> bleiben würde, hätte er bei <persName ref="8110">Justus Velsius</persName> den neubeginnenden Unterricht über die „Politik“ des
+			<persName ref="18432">Aristoteles</persName> und bei
+			<persName ref="5203">Christian Herlin</persName> die Vorlesungen über die Grundlagen der Arithmetik
+			besucht. Er verzichtete aber darauf, weil er Angst hatte, die entsprechenden Bücher umsonst zu erwerben. Bis
+			vor kurzem absolvierte er mit großem Gewinn den Unterricht der obersten Klasse und genießt jetzt eine gute
+			Ausbildung in der Rhetorik und Dialektik. Er möchte nun an den Lehrveranstaltungen über <persName ref="18473">Euklids</persName> [Elemente]
+			teilnehmen. Nach Kriegsende hofft er, noch von einer neuen Akademie profitieren zu dürfen. Bullinger soll
+			sich dafür bei seinen Eltern [Hans Rudolf und <persName ref="5610">Anna, geb. Röichli]</persName> einsetzen!
+		</div>
+		<div ref="8">
+			[8] Bis vor Kriegsausbruch genoss die <placeName ref="558">Wittenberger</placeName> Universität
+			dank der täglichen Lehrveranstaltungen <persName ref="2095">Philipp Melanchthons</persName> einen sehr
+			guten Ruf. Könnte <persName ref="1884">Lavater</persName> diesen Philosophen doch irgendwann auch einmal hören! Er befürchtet jedoch, dass
+			der Krieg die so berühmten <persName ref="2095">Melanchthon</persName> und <persName ref="4503">Joachim Camerarius [d.Ä.]</persName> dermaßen erschöpft, dass es ihnen nicht
+			mehr möglich sein wird, ihre Lehrtätigkeit wie früher auszuüben.
+		</div>
+		<div ref="9">
+			[9] <persName ref="1884">Lavater</persName> würde öfters über die Lage der<pb_edition start_of="199"/> Stadt und der Kirche
+			<placeName ref="492">Straßburgs</placeName> schreiben, doch weiß er nicht, was Bullinger
+			interessiert und ob seine Berichterstattungen Zürich erreichen würden.
+		</div>
+		<div ref="10">
+			[10] Bullinger bleibe der Kirche solange wie möglich erhalten!
+		</div>
+		<div ref="11">
+			[11] Grüße von <persName ref="7175">Zell</persName>. <persName ref="1884">Lavater</persName> lässt seine Eltern, sowie <persName ref="8051">Anna [geb. Adlischwyler]</persName>, die Kinder und Bullingers
+			ganzes Hauswesen grüßen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2773" page="199">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. D.</s>
+				<s n="2" lang="la" state="auto">Cum, quid scriberem ad te, nihil haberem, tamen ne tabellarius<fl>1</fl> vacuus veniret ad vos, has dedi literas.</s>
+				<s n="3" lang="la" state="auto">Mirarer te ad me nihil scribere, nisi novissem ex d. <persName ref="1548">Richardo</persName><fl>2</fl> te saeverioribus negotiis ita occupatum esse, ut liberum non sit bonas horas scribendo consumere.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="la" state="auto">Accepi formulam <el state="verified">ἐπιγραϕῆς</el> literarum<fl>3</fl> ad patrem<fl>4</fl>, verum mihi dubium non est patrem meum simplici illa<fl>5</fl> magis quam aulica et fucata gaudere.</s>
+				<s n="5" lang="la" state="auto">Nec video, si conferam ad praecepta meliorum rhetorum, quid desit.</s>
+				<s n="6" lang="la" state="auto">Continet enim nomen, vitę conditionem et dignitatem,<fl>6</fl> et, ut dicam libere, quod sentio, multum vereor, ne imperator <persName ref="18538" state="auto_name">Carolus</persName><fl>7</fl> magnificis titulis Helvetiis imponat, ita ut credant eum ex animo loqui, cum interim hoc unum quaerat, ut distractis Regni<fl>8</fl> viribus incautos opprimat et impiam antichristi<fl>9</fl> tyrannidem restituat.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="la" state="auto">Scriberem de turpi Francfordię<fl>10</fl> et ducis <placeName ref="572">Wirtenbergensis</placeName><fl>11</fl> deditione, et pacis conditionibus, quas legi, nisi putarem vobis haec omnia quam notissima esse.<fl>12</fl></s>
+				<s n="8" lang="la" state="auto">Et merito excitare vos debent, ut, quid vobis agendum sit, circumspecte cogitetis.</s>
+				<s n="9" lang="la" state="auto"><persName ref="3590" state="auto_name">Landgravius</persName><fl>13</fl> magnas copias collegit; quo ducturus sit, ignoramus.</s>
+				<s n="10" lang="la" state="auto">Proditor <persName ref="18250" state="auto_name">Mauritius</persName><fl>14</fl>, quod satis compertus est, patriis sedibus a duce <persName ref="19065">Fridericho</persName><fl>15</fl> pulsus est.<fl>16</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="11" lang="la" state="auto">Pręsidium nostrę civitati est impositum,<fl>17</fl> et quamvis timore et dolis plena sint omnia, ad obsidionem se parant<fl>18</fl>, munitiones tormentis bellicis occuparunt.</s>
+				<s n="12" lang="la" state="auto">Caeperunt aliquot <entity id="29" type="geo_country">Hispanos</entity> praeda onustos.<pb_edition start_of="200"/></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="13" lang="la" state="auto">Nisi deus fessis rebus opem ferat, iam actum est de Germania; via enim Turcis aperitur.</s>
+				<s n="14" lang="la" state="auto">Et plęrique Turcis non immerito quam caesari malunt parere.</s>
+				<s n="15" lang="la" state="auto"><entity id="29" type="geo_country">Hispanica</entity> inquisitio iam in Inferiori Germania habetur.</s>
+				<s n="16" lang="la" state="auto">Adeo imperatori enim<fl>b</fl> nostro religio curę non est!<fl>19</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="17" lang="la" state="auto">Motus hi bellici et degeneres Germani ita excruciant animum domini mei<fl>20</fl>, ut non diuturnam huius vitę usuram accepturum putemus.</s>
+				<s n="18" lang="la" state="auto">Iam quod castra Musarum<fl>21</fl> attinet, vereor ne dimissuri<fl>22</fl> sint scholam, cum nullus foelix<fl>c</fl> huius belli exitus pateat.</s>
+				<s n="19" lang="la" state="auto">D. <persName ref="3088">Sturmius</persName><fl>23</fl>, qui hactenus bellicis negotiis occupatus fuit, ad diu intermissum legendi munus reversus est.</s>
+				<s n="20" lang="la" state="auto">Et nuper coepit dictare librum de elenchis sophisticis,<fl>24</fl> de collocatione<fl>25</fl> et de quaestione<fl>26</fl>: Tractatus ad omnes ad vitę partes perutiles.</s>
+				<s n="21" lang="la" state="auto">Huius absentia plurimum semper scholę incomodat.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="22" lang="la" state="auto">Memini me superioribus temporibus ad te scripsisse,<fl>27</fl> ut si fieri posset, tempus, quod peregrinationi studiorum conceditur, vel saltem tempus, quo mihi <placeName ref="492">Argentinę</placeName> manendum est, signasses, ut possem studiorum ordinem melius instituere et viderem, quid quoque anno mihi discendum esset, ne varietate rerum impedirem potius meipsum, quam promovere possem.</s>
+				<s n="23" lang="la" state="auto">Id quoniam<pb_scan n="718"/> neglexisti, iam tandem video, quantum mali dederit.</s>
+				<s n="24" lang="la" state="auto">Potuissem enim audire initium politicorum <persName ref="18432">Aristotelis</persName> a doctissimo d. d. <persName ref="8110">Iusto Velsio</persName><fl>28</fl> et arithmeticae principia a <persName ref="5203">Christiano Herlino</persName>.<fl>29</fl></s>
+				<s n="25" lang="la" state="auto">Sed quoniam putabam me absolvere non posse, nolui libros mihi parare et initium tantum audire.</s>
+				<s n="26" lang="la" state="auto">Hucusque fere audivi lectiones primę classis.<fl>30</fl></s>
+				<s n="27" lang="la" state="auto">Iam ampliorem rhetoricę et dialecticę fructum et usum consequtus.</s>
+				<s n="28" lang="la" state="auto">Mox me <persName ref="18473">Euclidem</persName> cum aliis nonnullis spero auditurum.</s>
+				<s n="29" lang="la" state="auto">Postquam infaustum hoc bellum compositum fuerit et nova aliqua academia instituta, spero et te parentibus<fl>31</fl> monitorem fore, ut eius usum aliquem habeam.<fl>32</fl><pb_edition start_of="201"/></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="30" lang="la" state="auto">Paulo antequam infoelix hoc bellum exarsit, studio <persName ref="2095">Philippi Melanchthonis</persName> optime instituta fuit schola Witenbergensis, nam legendo quotidie studiosos exercuit.<fl>33</fl></s>
+				<s n="31" lang="la" state="auto">Utinam et clarissimum hunc philosophum possem aliquando audire!</s>
+				<s n="32" lang="la" state="auto">Vereor tamen ne infoelix haec tempestas magnos huius saeculi viros, <persName ref="2095">Philippum</persName> et <persName ref="4503">Camerarium</persName><fl>34</fl>, ita fatiget, ut postea, quantum velint et cupiant, suscipere non possint.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="33" lang="la" state="auto">De nostris rebus et ecclesia saepius scriber[em]<fl>d</fl> ad te, sed quae scire cupias, quaeque a me accipias, ignoro.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="34" lang="la" state="auto">Praecor deum optimum maximum, ut labenti ecclesię te quamdiu foelicissime conservet!</s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="35" lang="la" state="auto">Salvum te cupit d. <persName ref="7175">Matthias</persName>.<fl>35</fl></s>
+				<s n="36" lang="la" state="auto">Meo quoque nomine uxori tuę honestissimae<fl>36</fl>, liberis dulcissimis<fl>37</fl> totique familię parentibusque meis salutem dicere ne dedigneris.</s>
+				<s n="37" lang="la" state="auto"><placeName ref="492">Argentorati</placeName>, ex aedibus<fl>38</fl> d. <persName ref="7175">Matthaei Zellii</persName>, 7. calendis februarii anno 1547.</s>
+				<s n="38" lang="la" state="auto">Tuus ex animo Lud. <persName ref="1884">Lavatherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="39" lang="la" state="auto">Clarissimo viro, Tigurinę ecclesię antistiti, Henrico Bullingero, patri suo colendissimo.</s>
+				<s n="40" lang="la" state="auto">Tiguri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2773">
+		<alpha>
+			<fn ref="a" meta="1"><i>Die Verso-Seite des Blattes, das auf der Recto-Seite mit der Seitenzahl 716 versehen ist, wurde irrtümlicherweise als 718 nummeriert.</i></fn>
+			<fn ref="b"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="c"><i>in der Vorlage</i> infoelix; <i>möglich ist auch, dass <persName ref="1884">Lavater</persName> vorhatte,</i> infoelici s belli <i>zu schreiben.</i></fn>
+			<fn ref="d"><i>Textverlust durch Verklebung.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Unbekannt. - Wohl auch der Beförderer von <persName ref="1548">Richard Hilles</persName>' Brief desselben Tages (<link fk_file="12821">Nr. 2772</link>).</fn>
+			<fn ref="2"><persName ref="1548">Richard Hilles</persName>.</fn>
+			<fn ref="3">Siehe dazu unten Anm. 6.</fn>
+			<fn ref="4"><persName ref="1888">Hans Rudolf Lavater</persName>.</fn>
+			<fn ref="5">illa formula.</fn>
+			<fn ref="6">Es muss sich um ein Handbuch (Formelbuch) gehandelt haben, in dem die in einem Brief empfohlenen Anreden (grec) aufgelistet waren. Zu denken ist etwa an <persName ref="18808">Fabian <i>Frangk</i></persName>, Ein Cantzley und Titel büchlin, darinnen gelernt wird, wie man Sendebriefe förmlich schreiben und einem jdlichen seinen gebürlichen Titel geben sol, <placeName ref="558">Wittenberg</placeName> 1531 <i>(VD16</i> F2272), von dem es mehrere Ausgaben gab, u.a. eine aus dem Jahr 1540, die in <placeName ref="492">Straßburg</placeName> gedruckt wurde <i>(VD16</i> F2282); oder an <persName ref="4940">Heinrich <i>Gessler</i></persName>, Formulare und teütsch Rethoric, wie man einem iegclichen, was stadts würde und eren der ist, schreiben sol. Nüwe regel der Rethoric, der sich das gemein teütsch land jetz lauffend gebraucht, <placeName ref="492">Straßburg</placeName> 1519 <i>(VD16</i> G1896).</fn>
+			<fn ref="7"><persName ref="18538">Kaiser Karl V.</persName></fn>
+			<fn ref="8">Gemeint sind hier die Schmalkaldener.</fn>
+			<fn ref="9">Gemeint ist das Papsttum.</fn>
+			<fn ref="10">Siehe Nr. 2743, Anm. 40; <link fk_file="12810">Nr. 2761</link>,28-30.</fn>
+			<fn ref="11"><persName ref="9780">Ulrich von Württemberg</persName>. - Zu <placeName ref="572">Württembergs</placeName> Friedensvertrag mit dem Kaiser s. <link fk_file="12795">Nr. 2746</link>, Anm. 21.</fn>
+			<fn ref="12">Tatsächlich war dies der Fall; s. <link fk_file="12812">Nr. 2763</link>,3-7.</fn>
+			<fn ref="13"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="14"><persName ref="18250">Herzog Moritz von Sachsen</persName>.</fn>
+			<fn ref="15"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="16">Diese Meldung trifft nicht zu; s. <link fk_file="12810">Nr. 2761</link>, Anm. 19.</fn>
+			<fn ref="17">Siehe dazu auch <persName ref="467">Bucers</persName> Brief aus <placeName ref="492">Straßburg</placeName> an <persName ref="8418">Oswald Myconius</persName>, ca. 25. Januar 1547 <i>(PC IV/1</i> 583, <link fk_file="10575">Nr. 539</link>; <i>Henrich, Myconius BW</i> 933, <link fk_file="11091">Nr. 1048</link>).</fn>
+			<fn ref="18">Subjekt sind die <placeName ref="492">Straßburger</placeName> Behörden.</fn>
+			<fn ref="19">Ironische Aussage.</fn>
+			<fn ref="20"><persName ref="7175">Matthias Zell</persName>, bei dem Ludwig wohnte; s. <bibl>HBBW</bibl> XVIII 145f. 372; und unten Z. 58.</fn>
+			<fn ref="21">Gemeint ist das <placeName ref="492">Straßburger</placeName> Gymnasium.</fn>
+			<fn ref="22">Als Subjekt sind die <placeName ref="492">Straßburger</placeName> Behörden vorauszusetzen.</fn>
+			<fn ref="23"><persName ref="3088">Johannes Sturm</persName>, der spätestens am 4. Januar 1547 von seiner Gesandtschaft nach <entity id="11" type="geo_country">Frankreich</entity> wieder nach <placeName ref="492">Straßburg</placeName> zurückgekehrt war; s. <bibl>HBBW</bibl> XVIII 453f, Anm. 23.</fn>
+			<fn ref="24">Widerlegungen sophistischer Trugschlüsse. - Siehe dazu Anton <i>Schindling,</i> Humanistische Hochschule und freie Reichsstadt. Gymnasium und Akademie in <placeName ref="492">Straßburg</placeName> 1538-1621, Wiesbaden 1977, S. 199f.</fn>
+			<fn ref="25">Darunter ist die rhetorische Disposition der Worte und Gedanken zu verstehen. - <persName ref="3088">Sturm</persName> veröffentlichte im Jahr 1548 eine Abhandlung über diese Thematik (als dritten Teil seiner Dialektik); s. <i>VD16</i> S9968.</fn>
+			<fn ref="26">Als Terminus in der Rhetorik bezeichnet "quaestio" das Thema oder den Hauptpunkt einer strittigen Frage.</fn>
+			<fn ref="27">Bezug auf <bibl>HBBW</bibl> XVI 393,52-394,59.</fn>
+			<fn ref="28">Vgl. schon <bibl>HBBW</bibl> XVI 72,90f.</fn>
+			<fn ref="29">Mathematikprofessor in <placeName ref="492">Straßburg</placeName>, gest. im Oktober 1562.</fn>
+			<fn ref="30">Die oberste Klassenstufe.</fn>
+			<fn ref="31" type="bio" fk_person="1888"><persName ref="1888">Hans Rudolf Lavater</persName> und <persName ref="5610">Anna, geb. Röichli</persName>.</fn>
+			<fn ref="32" type="bio" fk_person="1884">Vgl. schon <bibl>HBBW</bibl> XVI 393,43-56. - <persName ref="1884">Lavater</persName> blieb bis etwa Mai 1547 in <placeName ref="492">Straßburg</placeName> und studierte danach in Paris und Lausanne weiter; s. <bibl>HBBW</bibl> XV 576f, Anm. 23.</fn>
+			<fn ref="33">An der Universität <placeName ref="558">Wittenberg</placeName> war noch bis Mitte Oktober 1546 der Lehrbetrieb aufrechterhalten worden. Am 6. November wurde die Universität geschlossen. Als Herzog <persName ref="18250">Moritz</persName> gegen <placeName ref="558">Wittenberg</placeName> zog (s. dazu <bibl>HBBW</bibl> XVIII 376, Anm. 25), begannen die Menschen aus der Stadt zu fliehen. <persName ref="2095">Melanchthon</persName> verließ die Stadt am 11. oder 12. November 1546; s. ebd., S. 334, Anm. 3; Heinz <i>Scheible,</i> <persName ref="2095">Melanchthon</persName> rettet die Universität <placeName ref="558">Wittenberg</placeName>, in: Aufsätze zu <persName ref="2095">Melanchthon</persName>, Tübingen 2010, S. 257.</fn>
+			<fn ref="34"><persName ref="4503">Joachim Camerarius d.Ä.</persName>, Professor in <placeName ref="284">Leipzig</placeName>.</fn>
+			<fn ref="35"><persName ref="7175">Matthias Zell</persName>.</fn>
+			<fn ref="36" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="37">Zu deren Namen s. Nr. 2735, Anm. 10.</fn>
+			<fn ref="38"><persName ref="7175">Zell</persName> wohnte direkt hinter dem <placeName ref="492">Straßburger</placeName> Dom, heute Nr. S der Rue des Frères; s. Hans Georg <i>Rott</i> und Stephen F. <i>Nelson,</i> <placeName ref="492">Straßburg</placeName>. Die Täuferstadt im 16. Jahrhundert, in: Jean <i>Rott,</i> Investigationes historicae, Bd. 2, <placeName ref="492">Straßburg</placeName> 1986, S. 107.</fn>
+		</num>
+	</footnotes>
+</file>

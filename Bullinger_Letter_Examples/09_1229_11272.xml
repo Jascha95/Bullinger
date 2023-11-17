@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11272" id_hbbw="1229" id_irg_sort="1229" id_sort="112290">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11272</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1229</arpa>
+		<scan_pages>
+			<scan id="26221" dir="11272/Autograph/" page="1">00 E_II_367__fol__14_r_.tif</scan>
+			<scan id="26222" dir="11272/Autograph/" page="2">01 E_II_367__fol__14_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22864" vf="1" fk_add_type="1">
+				<person id="2448" fk_id="2448">
+					<name>Pergener</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="580" vf="1" fk_id="580" long="14.802997" lat="50.899968">Zittau</place>
+				<district id="156">Sachsen</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22865" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11272">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">21</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17746">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 367,14</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7387" fk_bib="0">
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>Hergang/Peschek 149f</entry>
+			</print>
+			<print id="7388" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Seeliger 38f</entry>
+			</print>
+			<print id="11156" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1229, S. 63</entry>
+				<page>63</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="15">
+				<lang id="5" iso="la" count="15" p="100.0"/>
+			</sentences>
+			<words count="244">
+				<lang id="5" iso="la" count="244" p="100.0"/>
+			</words>
+			<chars count="1515">
+				<lang id="5" iso="la" count="1515" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1229" page="63">
+		<div ref="1">
+			<persName ref="8127">Konrad Pellikan</persName> bestätigte in seinem Brief [vom 31. August 1538], daß
+			<persName ref="2448">Pergeners</persName> Schreiben [<link fk_file="11154">Nr. 1111</link>] angekommen
+			ist; dieser freut sich über die Zuneigung der Zürcher. Bullinger erhält für das Lob des
+			<persName ref="18722">Erasmus</persName> im zweiten Buch seiner „De scripturae sanctae authoritate ...
+			libri duo“ auch von katholischer Seite viel Zustimmung, denn vielen mißfällt, daß dieser von manchen
+			verunglimpft wird; bittet Bullinger, weiter zu publizieren. Hat Weiteres an <persName ref="8127">Pellikan</persName> und
+			<persName ref="1227">Christoph Froschauer</persName> geschrieben.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1229" page="63">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et vitę innocentiam a patre et domino nostro Iesu Christo.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Nisi christianissimus d. <persName ref="8127">Chuonradus Pellicanus</persName> proximis nundinis Francfordiensibus<fl>1</fl> ad me litteras plenas pietate et fide misisset<fl>2</fl>, maxima adfectus essem tristitia; incertus plane fuissem litteras meas<fl>3</fl> quantumlibet impolitas Tigurum non pervenisse.</s>
+				<s n="3" lang="la" state="auto">Nunc autem recepi animum atque gaudio suffundor tam celebres viros infirmorum quoque fratrum habere rationem.</s>
+				<s n="4" lang="la" state="auto">Certi sumus ex omnibus vestris scriptis, quę nobis indicant summam mansuetudinem, pietatem et amorem christianum et nos vobis curę esse.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Nolo te ignorare, charissime Bulingere, te magnam iniisse gratiam cum illis etiam, qui hostes erant renate evangelistę[!] veritati, eo quod d. <persName ref="18722">Erasmum Roterod[amum]</persName> de pietate et litteris bene meritum scribis virum immortali laurea dignum; nam ea verba, que sincere de illo scribis li[bro] 2.</s>
+				<s n="6" lang="la" state="auto">De scripturę sanctę authoritate<fl>4</fl> etc., ad multos etiam papisticę factionis perscripsi.</s>
+				<s n="7" lang="la" state="auto">Laudant et ipsi vestram modestiam ubique in scribendo; multis displicuit, quod a nonnullis apellaretur <persName ref="18207">Lutianus</persName><fl>5</fl>, <persName ref="19953">Epicurus</persName>, scepticus et aliis odiosis nominibus<fl>6</fl>.</s>
+				<s n="8" lang="la" state="auto">Sed tu, sincerissime in Christo frater, perge nos, qui longe a vobis sumus dissiti, instituere tuis sanctissimis scriptis.</s>
+				<s n="9" lang="la" state="auto">Dici non potest, quantum ea scripta, quę ex Tiguro, <placeName ref="28">Basilea</placeName> vel <placeName ref="492">Argentorato</placeName> mittuntur, pios delectent; testes complures adducere possem.</s>
+				<s n="10" lang="la" state="auto">Reliqua ad d. Chuonradum<pb_edition start_of="64"/> <persName ref="8127">Pellicanum</persName> scripsi<fl>7</fl> et partim Germanice<fl>a</fl> ad <persName ref="1227">Christopherum Froschouerum</persName><fl>8</fl>.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Vale semper in Christo cum omnibus tuis simmistis et tota ecclesia.</s>
+				<s n="12" lang="la" state="auto">Orate deum pro nobis.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Zittę, 21. die mensis februarii anno etc. 1539.</s>
+				<s n="14" lang="la" state="auto"><persName ref="2448">Osvaldus Pergenerus</persName>, tui deditissimus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="15" lang="la" state="auto">Summe pietatis et doctrinę viro d. Henricho Bulingero, Tigurine ecclesię ministro fidelissimo, amico et fratri colendissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1229">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> Germanicae.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Die <placeName ref="157">Frankfurter</placeName> Herbstmesse fand in der Regel zwischen 15. August und 8. September statt; vgl. <bibl>HBBW</bibl> VI <link fk_file="10925">[Nr. 884]</link>, S. 406, Anm. 5.</fn>
+			<fn ref="2">Der nicht erhaltene Brief, am 31. August 1538 geschrieben, war am 27. Oktober bei <persName ref="2448">Pergener</persName> eingetroffen, wie aus dem unten Anm. 6 verzeichneten Schreiben hervorgeht.</fn>
+			<fn ref="3"><bibl>HBBW</bibl> VIII, <link fk_file="11154">Nr. 1111</link>.</fn>
+			<fn ref="4">Siehe De scripturae sanctae authoritate Zürich (<persName ref="1227">Froschauer</persName>) 1538 (<bibl>HBBibl</bibl> I 111). fol. 83r.</fn>
+			<fn ref="5"><persName ref="18207">Lukian von Samosata</persName> (als Inbegriff des gottlosen Spötters).</fn>
+			<fn ref="6">Vgl. Luther, De servo arbitrio, <bibl>WA</bibl> XVIII 605, 27-32; 609, 21f.</fn>
+			<fn ref="7">Siehe <persName ref="2448">Pergener</persName> an <persName ref="8127">Konrad Pellikan</persName>, 21. Februar 1539; Autograph in: Zürich ZB, Ms F 47, 28.</fn>
+			<fn ref="8">Nicht erhalten.</fn>
+		</num>
+	</footnotes>
+</file>

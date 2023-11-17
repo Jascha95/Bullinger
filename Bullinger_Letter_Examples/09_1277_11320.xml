@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11320" id_hbbw="1277" id_irg_sort="1277" id_sort="112770">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11320</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1277</arpa>
+		<scan_pages>
+			<scan id="26323" dir="11320/Autograph/" page="1">00 E_II_359__fol__2787_r_.tif</scan>
+			<scan id="26324" dir="11320/Autograph/" page="2">01 E_II_359__fol__2787_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22974" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22975" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11320">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">6</month>
+				<day fk_d="" d="" vf="1" fn="">6</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17792">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2787r.-v.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11155" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1277, S. 150</entry>
+				<page>150</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="34">
+				<lang id="5" iso="la" count="34" p="100.0"/>
+			</sentences>
+			<words count="429">
+				<lang id="5" iso="la" count="429" p="100.0"/>
+			</words>
+			<chars count="2453">
+				<lang id="5" iso="la" count="2453" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1277" page="149">
+		<div ref="1">
+			Hat Brief und Geld erhalten und [die für Bullinger erworbenen Bücher] bezahlt. Seine Kommentare [zu zwei
+			Reden <persName ref="4544">Ciceros</persName>], die er ihm bei nächster Gelegenheit schicken will, erscheinen unter dem Pseudonym
+			„<persName ref="8011">Eubulus Dynaterus</persName>“; er ist noch unentschlossen, ob er auch die
+			Kommentierung der fünften Rede gegen <persName ref="19952">Verres</persName> übernehmen soll. <persName ref="8459">Otto [Werdmüller]</persName> ist mit Bullingers Vorschlag
+			einverstanden, wird aber kaum eine Anstellung an der Universität erhalten; diese wäre ohne <persName ref="4924">[Hieronymus] Gemusäus</persName> nichts und nimmt weiteren Schaden, da <persName ref="1365">Grynäus</persName> wegen des fehlenden Titels unter Druck gesetzt wird.
+			<persName ref="8011">Gwalther</persName> hat betrübt mit angesehen, wie <persName ref="7232">[Wilhelm] Zwingli</persName> von
+			<persName ref="5837">Sebastian Meyer</persName> nach
+			<placeName ref="492">Straßburg</placeName> gebracht wurde, wo er<pb_edition start_of="150"/> als
+			Hausgenosse von <persName ref="5565">Capito</persName> und <persName ref="1974">Luthers</persName> Sohn [Johannes] bedenklichen Einflüssen ausgesetzt wird. Empfiehlt,
+			<persName ref="8459">Werdmüller</persName> im Interesse der Schule nach Zürich zu holen. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1277" page="150">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Recepi a <persName ref="18308" state="auto_name">Quirino</persName><fl>1</fl>, pater charissime, literas<fl>2</fl> cum nummis.</s>
+				<s n="3" lang="la" state="auto">Conveniunt omnia; ego tuo nomine satisfeci omnibus<fl>3</fl>.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">Placet mihi consilium, quod de publicandis commentariis<fl>4</fl> meis dedisti, quamvis et antea nomen meum ponere nunquam in animo fuerit.</s>
+				<s n="5" lang="la" state="auto">Mittam ea, quae impressa sunt, si <persName ref="18308">Quirinus</persName> ab <placeName ref="492">Argentina</placeName> redierit.</s>
+				<s n="6" lang="la" state="auto">Mea nunc omnia ad finem perducta sunt, et <persName ref="8126">Oporinus</persName> nomen meum in <persName ref="8011">Eubuli Dynateri</persName> transmutavit.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Patriam non expressit.</s>
+				<s n="8" lang="la" state="auto">Placuerunt ei vęhementer.</s>
+				<s n="9" lang="la" state="auto">Deest illi adhuc in quintam Verrinam<fl>5</fl> expositio; petit id a me, sed quid facturus sim, dubito<fl>6</fl>; cuperem sane aliquid instituere, quod et studiorum meorum fructum augeret et ad vivendi impensas aliquid conferret.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Othoni hęc, quę scripsisti, retuli<fl>7</fl>.</s>
+				<s n="11" lang="la" state="auto">Placent ei, sed conditionem adhuc nullam habet nec, ut opinor, <placeName ref="28">Basileae</placeName> in tam afflicta academia inveniet<fl>8</fl>.</s>
+				<s n="12" lang="la" state="auto">Si enim huic scholae doctorem <persName ref="4924">Gemuseum</persName><fl>9</fl> ademeris, omnino mutila, imo nulla erit.</s>
+				<s n="13" lang="la" state="auto"><persName ref="1365">Gryneus</persName> etenim, vir et doctus et pius, qui totus in hoc est, ut iuvenibus studiosis prodesset, misere etiam vanissimis istis et ambitiosis titulis vexatur<fl>10</fl>, ut hoc, quod cępit, minime nunc exequi possit.</s>
+				<s n="14" lang="la" state="auto">Sed dabit deus aliquando finem<fl>11</fl> non sine pena eorum, qui et ecclesiam et ecclesiae spem, scholam scilicet, tam misere affligunt.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto">Fuit hic doctor <persName ref="5837">Sebastianus Meyer</persName> <placeName ref="41">Bernensis</placeName> cum <persName ref="7232">Zvinglii</persName> filio<fl>12</fl>, quem <placeName ref="492">Argentinam</placeName> deduxit.</s>
+				<s n="16" lang="la" state="auto">Quod sane spectaculum tam meum commovit animum, ut lachrymas tenere vix potuerim.</s>
+				<s n="17" lang="la" state="auto">Optimę enim indolis puer patre sanctissimo progenitus ad eos deducetur, qui quales sint, nosti.</s>
+				<s n="18" lang="la" state="auto">Vivet cum <persName ref="5565">Capitone</persName> et cum <persName ref="1974">Lutheri</persName> filio<fl>13</fl>, puero (ut audio) pessimę indolis.</s>
+				<s n="19" lang="la" state="auto">Adde his urbis huius<pb_edition start_of="151"/> molestiam, aeris intemperiem et aquas pestilentes, inter quae sanus vivere non poterit.</s>
+				<s n="20" lang="la" state="auto">Sed sic nunc agitur.</s>
+				<s n="21" lang="la" state="auto">Dominantur in aliquot ecclesiis<pb_scan n="2787v."/> <placeName ref="492">Argentinenses</placeName>, sed id quam foeliciter, aliorum esto iuditium.</s>
+				<s n="22" lang="la" state="auto">Hic certe misere vivitur.</s>
+			</p>
+			<p>
+				<s n="23" lang="la" state="auto">In te mea spes est te more solito curaturum, ne nostra schola dissolvatur, quae nunc apud omnes audit optime.</s>
+				<s n="24" lang="la" state="auto">Vellem autem imprimis Othoni nostro<fl>b</fl>, iuveni sane, qui inter Tigurini collegii omnes alumnos palmam facile tenet<fl>14</fl>, consultum esset.</s>
+				<s n="25" lang="la" state="auto">Hic sane patriam nondum affectat; meo tamen consilio non inutile esse videtur, si apud vos potius quam exteros profiteretur.</s>
+			</p>
+			<p>
+				<s n="26" lang="la" state="auto">Posset hic in philosophia multum, potest in aliis etiam quam plurimum nec sine fructu docet.</s>
+				<s n="27" lang="la" state="auto">Sed tuum de his sit consilium; ego de his tanquam cum patre, quem unicum habeo<fl>15</fl>, colloquor<fl>c</fl>.</s>
+				<s n="28" lang="la" state="auto">Me enim patriae incolumitatis studio quam maxime teneri persuasum habeas.</s>
+			</p>
+			<p>
+				<s n="29" lang="la" state="auto">Salutabis quam humanissime uxorem<fl>16</fl> tuam, cui plurimum gratulor ob partum foeliciter superatum<fl>17</fl>, et quod tu novo sis auctus filio, vęhementer lętor.</s>
+				<s n="30" lang="la" state="auto">Deus velit, ut et hi aliquando Tigurinę reipublicae prodesse queant.</s>
+			</p>
+			<p>
+				<s n="31" lang="la" state="auto">Salutato praeterea familiam omnem.</s>
+			</p>
+			<p>
+				<s n="32" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, ex aedibus d. <persName ref="8418">Miconii</persName>, 6. iunii 1539.</s>
+			</p>
+			<p>
+				<s n="33" lang="la" state="auto">Tui observantissimus <persName ref="8011">Rodolphus Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="34" lang="la" state="auto">Eruditione et pietate eximio viro d. Heinrycho Bullingero, patri suo imprimis colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1277">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichung von späterer Hand.</i></fn>
+			<fn ref="b"><i>nach</i> nostro <i>gestrichenes</i> prospectum.</fn>
+			<fn ref="c"><i>vor</i> colloquor <i>gestrichenes</i> de his.</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="18308">Quirinus von Leiden</persName>.</fn>
+			<fn ref="2">Nicht erhalten.</fn>
+			<fn ref="3">Die Rede ist von der Bezahlung von Büchern, die <persName ref="8011">Gwalther</persName> für Bullinger erworben hatte; vgl. oben <link fk_file="11317">Nr. 1274</link>, 5-7.</fn>
+			<fn ref="4">Gemeint sind die Kommentare zu <persName ref="4544">Ciceros</persName> zweiter und dritter Rede "De lege agraria"; vgl. ebd., Z. 9-22.</fn>
+			<fn ref="5">D. h. Buch 3 von <persName ref="4544">Ciceros</persName> Reden "In Verrem".</fn>
+			<fn ref="6">Die von <persName ref="8126">Oporin</persName> herausgegebene Sammlung (s. oben <link fk_file="11317">Nr. 1274</link>, Anm. 11) enthält <persName ref="8011">Gwalthers</persName> Kommentar auf Sp. 1201-1226.</fn>
+			<fn ref="7">Zum Anliegen <persName ref="8459">Otto Werdmüllers</persName> vgl. oben <link fk_file="11318">Nr. 1275</link>.</fn>
+			<fn ref="8"><persName ref="8011">Gwalther</persName> spielt auf den Konflikt um die neuen Universitätsstatuten an; vgl. zuletzt oben <link fk_file="11317">Nr. 1274</link>, 25-29.</fn>
+			<fn ref="9"><persName ref="4924">Hieronymus Gemusäus</persName>.</fn>
+			<fn ref="10">Vgl. oben <link fk_file="11307">Nr. 1264</link>, 1-5 u. o.</fn>
+			<fn ref="11">Vergil, Aeneis, 1, 199.</fn>
+			<fn ref="12"><persName ref="7232">Wilhelm Zwingli</persName> (vgl. <bibl>HBBW VII</bibl> <link fk_file="11117">[Nr. 1074]</link>, S. 322, 117-127).</fn>
+			<fn ref="13" type="bio" fk_person="5704"><persName ref="5704">Johannes (Hänschen) Luther</persName>, 1526-1575, <persName ref="1974">Luthers</persName> ältester Sohn, wurde bereits im Alter von sieben Jahren in <placeName ref="558">Wittenberg</placeName> immatrikuliert. 1536 schlug <persName ref="5565">Capito</persName> <persName ref="1974">Luther</persName> vor, ihn zur Ausbildung nach <placeName ref="492">Straßburg</placeName> zu geben (s. <bibl>WA</bibl> Briefwechsel VII 467, 30-44), wo er sich jedoch nur für kurze Zeit aufgehalten haben kann. Im Oktober 1539 wurde er in <placeName ref="558">Wittenberg</placeName> zum Baccalaureus promoviert (s. <bibl>WA</bibl> Briefwechsel IX 169, Anm. 10). Die hohen Erwartungen, die sein Vater in ihn setzte, erfüllte er allerdings nicht. Er studierte Jura (ab 1549 in <placeName ref="268">Königsberg</placeName>) und stand von 1553 an in sächsischen Staatsdiensten; zeitweise lebte er auch in <placeName ref="268">Königsberg</placeName>. - Lit.: <persName ref="5704">Johannes <i>Luther</i></persName>, <persName ref="5704">Johannes Luther</persName>, des Reformators ältester Sohn, Berlin/Leipzig 1930. - Greifswalder Studien zur Lutherforschung und neuzeitlichen Geistesgeschichte 1; Christian <i>Kollmann,</i> Altpreußische Biographie, Bd. 1, <placeName ref="268">Königsberg</placeName> 1941 (Nachdruck: Marburg 1974), S. 413.</fn>
+			<fn ref="14">Vgl. Adagia, 1, 3, 4 (<bibl>LB</bibl> II 1 121).</fn>
+			<fn ref="15">Vgl. <bibl>HBBW VIII</bibl> <link fk_file="11193">[Nr. 1150]</link>, S. 177, Anm. 5.</fn>
+			<fn ref="16" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="17" type="bio" fk_person="8011">Am 24. Mai war Johannes, Bullingers dritter Sohn, zur Welt gekommen. Er starb bereits 1541 an der Pest; <persName ref="8011">Gwalther</persName> verfaßte ein Epitaph auf seinen Tod. - Lit.: <bibl>HBD</bibl> 27, 19-22 und 29, 27-30, 12.</fn>
+		</num>
+	</footnotes>
+</file>

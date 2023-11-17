@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11328" id_hbbw="1285" id_irg_sort="1285" id_sort="112850">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11328</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1285</arpa>
+		<scan_pages>
+			<scan id="26341" dir="11328/Autograph/" page="1">00 E_II_343__fol__157_r_.tif</scan>
+			<scan id="26342" dir="11328/Autograph/" page="2">01 E_II_343__fol__157_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22990" vf="1" fk_add_type="1">
+				<person id="1055" fk_id="1055">
+					<name>Frecht</name>
+					<forename>Martin</forename>
+				</person>
+				<place id="513" vf="1" fk_id="513" long="9.99155" lat="48.39841">Ulm</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22991" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11328">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">7</month>
+				<day fk_d="" d="" vf="1" fn="">3</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17799">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343,157</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7451" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Johann Heinrich Ott, Annales Anabaptistici, Basel 1672, S. 97f</entry>
+			</print>
+			<print id="11170" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1285, S. 171</entry>
+				<page>171</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="38">
+				<lang id="1" iso="de" count="1" p="2.6"/>
+				<lang id="5" iso="la" count="37" p="97.4"/>
+			</sentences>
+			<words count="717">
+				<lang id="1" iso="de" count="1" p="0.1"/>
+				<lang id="6" iso="el" count="1" p="0.1"/>
+				<lang id="5" iso="la" count="715" p="99.7"/>
+			</words>
+			<chars count="4209">
+				<lang id="1" iso="de" count="6" p="0.1"/>
+				<lang id="6" iso="el" count="6" p="0.1"/>
+				<lang id="5" iso="la" count="4197" p="99.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1285" page="171">
+		<div ref="1">
+			Kann nicht ausführlich schreiben, da der Briefüberbringer unerwartet rasch aus
+			<placeName ref="361">Nürnberg</placeName> zurückgekehrt ist und da ihn selbst die
+			Auseinandersetzung mit <persName ref="8350">[Sebastian] Franck</persName> stark in Anspruch nimmt.
+			<persName ref="8350">Franck</persName>, der nach <placeName ref="28">Basel</placeName> ziehen
+			wird, hat gegen ihn geklagt, weil er ihn brieflich ermahnt und ihm einen von
+			<persName ref="2095">Melanchthon</persName> mitgeteilten Vorwurf zur Kenntnis gebracht hat; er
+			schreibt dies Bullinger, damit dieser <persName ref="1365">Grynäus</persName> ins Bild setzen und ihm
+			einen Bericht <persName ref="1055">Frechts</persName> in Aussicht stellen kann. Da
+			<persName ref="8440">Gervasius [Schuler]</persName> inzwischen
+			nach Zürich gereist ist, geht er nur knapp auf Bullingers Brief ein: Die Sorge, am
+			<placeName ref="361">Nürnberger</placeName> Religionsgespräch würden lutherische und päpstliche
+			Religion vermischt, ist unbegründet; da er selbst als möglicher Teilnehmer ins Spiel gebracht wird, aber
+			nach dem Tag zu <placeName ref="569">Worms</placeName> nichts über die geplante Zusammenkunft
+			gehört hat, zweifelt er an deren Zustandekommen; er möchte nicht ausschließen, daß sie von Nutzen sein
+			könnte, doch dürfen nicht die gleichen Fehler gemacht werden wie beim
+			[<placeName ref="242">Kappeler</placeName>] Landfrieden. Nachrichten über
+			<persName ref="1974">Luthers</persName> Auftreten in
+			<placeName ref="284">Leipzig</placeName>, die Verweigerung der Türkenhilfe durch die katholischen
+			Stände, Aufenthalte von <persName ref="467">Bucer</persName> in
+			<placeName ref="569">Worms</placeName> und von <persName ref="8055">Blarer</persName> in
+			Augsburg, Heiratspläne des Kaisers, einen persischen Sieg über die Türken und ein Bündnis der Perser und
+			Tataren gegen die Türken. Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1285" page="171">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Salutem in domino, Bullingere venerande.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Reddidit mihi nuncnuper tuas literas<fl>1</fl> civis<fl>2</fl> vester, ut scribis, mirifice ingeniosus et, ut adparet, vir pius et integer.</s>
+				<s n="3" lang="la" state="auto">Cuius e <placeName ref="361">Norinberga</placeName> reditum cum expecto, videor ego mea spe esse frustratus; nam cum mire districtus ego et communibus ecclesię negociis et sectariorum conflictibus, quos non modicos hic sustineo, hoc die ad domum solito magis sero venissem, indicatum est mihi iuvenem adfuisse monentem, ut, si scribere velim Tigurum, isthuc faciam in tempore.</s>
+				<s n="4" lang="la" state="auto">Ego autem, cum cras pręter lectionem theologicam forte etiam in senatu habeam illi Thrasoni<fl>3</fl> impudenti <persName ref="8350">Franco</persName><fl>4</fl> respondere, non potui nunc pluribus ad tuam epistolam satis pia cura et sollicitudine pro ecclesiarum salute refertam respondere.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto"><persName ref="8350">Francus</persName> autem hinc <placeName ref="28">Basileam</placeName> abiturus<fl>5</fl> hisce diebus mihi facessit negotium; nam coram consule<fl>6</fl> voluit mecum expostulare, quod ei literas scripserim satis iniurię habentes<fl>7</fl>.</s>
+				<s n="6" lang="la" state="auto">Scripseram autem ei propediem hinc soluturo<pb_edition start_of="172"/> fraternas, ni fallor, literas<fl>8</fl>, in quibus ad poenitentiam hominem toties etiam monitum denuo hortatus sum et pro zelo quoque interminatus, ni ista scandala, quae obiecit et ecclesię Christi et politię, semel removeat atque retractet temere scripta, se visurum semel ea, quę satius esset non experiri<fl>9</fl>.</s>
+				<s n="7" lang="la" state="auto">Ille autem impudenter audax ita ista arripuit, quasi in eum iam hinc alio abiturum scribere potuerim atrocius nihil.</s>
+				<s n="8" lang="la" state="auto">Occasionem quoque huius mei ad <persName ref="8350">Francum</persName> scripti e <persName ref="2095">Melanchthonis</persName> literis<fl>10</fl> ad me ultima iunii<fl>11</fl> missis arripui; nam <persName ref="2095">Philippus</persName> queritur mihi <persName ref="8350">Francum</persName> in proximis nundinis Francofurdtiensibus<fl>12</fl> sibi atrociter minatum, cui aliud non precatur pium pectus quam meliorem mentem simplicisque veritatis amantem, id quod <persName ref="8350">Franco</persName> quoque comprecatus<fl>13</fl> audire tamen cogor, quasi <el state="verified">ἀδίκως</el><fl>a</fl> cum eo agam.</s>
+				<s n="9" lang="la" state="auto">Quę commemoro, ut, ubi <persName ref="8350">Francus</persName> <placeName ref="28">Basileam</placeName> venerit atque me traduxerit isthic et apud alios, tu saltem habeas futurę meę apologię protasin atque ad <persName ref="1365">Grynęum</persName> scribas, si vacat tibi, me brevi omnia sibi descripturum ea, quae cum <persName ref="8350">Franco</persName> hic sint acta satis fraterne, sed frustra; passim enim blatero ille effutit <placeName ref="513">Ulmenses</placeName> aut parum aut nihil cum eo fidei ratione egisse, tametsi hinc alio abire cogatur.</s>
+				<s n="10" lang="la" state="auto">Istuc tamen subdolus Thraso ita interpretatur, quasi, ubi libeat, liceat ei libere huc redire.</s>
+				<s n="11" lang="la" state="auto">Sed cesso te istis obtundere.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Ad epistolam tuam, quod sum praefatus<fl>14</fl>, nunc non licet pluribus respondere.</s>
+				<s n="13" lang="la" state="auto">Scripsi autem nostro <persName ref="8440">Gervasio</persName><fl>15</fl>, <placeName ref="320">Memmingensi</placeName> ecclesiastę, fratri charissimo, ante unam atque alteram septimanam, et hisce diebus ex Memminga bonus quidem vir ad me scripsit<fl>16</fl> <persName ref="8440">Gervasium</persName> abiisse Tigurum<fl>17</fl>.</s>
+				<s n="14" lang="la" state="auto">Quem arbitror vel coram vel per literas tibi exposuisse ea, quę operę pretium sint ad tuam rescribere ep[istolam]<fl>b</fl>; non est enim, mi venerande Bullingere, ut vel tu vel alius ex animo ecc[lesię]<fl>c</fl> Christi bene cupiens consultum putetis in Norico conventu<fl>18</fl> ex Lutherana v[...]<fl>d</fl> et papistica religione unam conflandam.</s>
+				<s n="15" lang="la" state="auto">Non erunt, spero, si modo iste procedat conventus, tales concordantiarii, qui novo vestimento vel veterem assuant vel veteri novum<fl>19</fl>.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Non est ager domini diversi generis semine serendus, estque conciliatio in<pb_edition start_of="173"/> domino instituenda et nonnisi aliis ecclesiis consultis absolvenda.</s>
+				<s n="17" lang="la" state="auto">Sed quid ista refero?</s>
+				<s n="18" lang="la" state="auto">Nihildum a proximis comitiis <placeName ref="569">Wormatię</placeName> agitatis<fl>20</fl> de isto conventu vel mihi (quem aliqui<fl>e</fl> faciunt invitum etiam futurum concordantiarium) vel symmystis dictum et commissum, ut etiam ipse subscribam iis, qui coniectant hunc conventum cancri in morem processurum<fl>21</fl>.</s>
+				<s n="19" lang="la" state="auto">Verum salvo meliore iuditio iis non subscribo, qui in ea sunt sententia, ut, priusquam coeant concordantiarii, decernant <placeName ref="361">Norinbergę</placeName> nihil in huiusmodi conventu posse tractari, quod aliqua ex parte ecclesiis possit esse usui.</s>
+				<s n="20" lang="la" state="auto">Quare, mi Bullingere, securus esse in hac causa velis; nam, ut pie mones, nunquam author vel meis vel aliis ero, ut in quocunque conventu aliquid constituatur evangelio indignum.</s>
+				<s n="21" lang="la" state="auto">Debent enim nos aliena, quod dicitur, pericula cautos facere<fl>22</fl>.</s>
+				<s n="22" lang="la" state="auto">Prohibeat dominus, ne vel talia ubiubi statuantur, qualia propter publicam tamen pacem in communi Helvetica ditione constituta sunt<fl>23</fl>, quę, cum nequeant corrigi, toleranda tamen sunt.</s>
+				<s n="23" lang="la" state="auto">Id vero nolim existimes in<fl>f</fl> generosę gentis vestrę ignominiam a me scriptum esse.</s>
+				<s n="24" lang="la" state="auto">Sed cesso; nam reliqua <persName ref="8440">Gervasius</persName>.</s>
+			</p>
+			<p>
+				<s n="25" lang="la" state="auto">Nihil novi, quod non antea vobis putem notum esse.</s>
+				<s n="26" lang="la" state="auto"><persName ref="1974">Lutherus</persName> fertur Lypsię predicare<fl>24</fl>.</s>
+				<s n="27" lang="la" state="auto">Papistę regi <persName ref="18477">Ferdinando</persName> negarunt auxilium contra Turcam<fl>g</fl><fl>25</fl>.</s>
+				<s n="28" lang="la" state="auto"><persName ref="467">Bucerus</persName><fl>h</fl> <placeName ref="569">Wormatię</placeName> hesit a pientissimo Cattorum principe vocatus<fl>26</fl>.</s>
+				<s n="29" lang="la" state="auto"><persName ref="8055">Blaurerus</persName> <placeName ref="1976">Augustę</placeName> dicitur ecclesię Christi<fl>i</fl> consulere<fl>27</fl>.</s>
+				<s n="30" lang="la" state="auto">Nondum constat, an Anglię aut Francorum regis filiam<fl>28</fl> <persName ref="18538">Carolus</persName> ducere in uxorem velit<fl>29</fl>.</s>
+				<s n="31" lang="la" state="auto">Persarum rex<fl>30</fl> Turcici cęsaris<fl>31</fl> filium cum exercitu delevit<fl>32</fl>.</s>
+				<s n="32" lang="la" state="auto">Circumferuntur<pb_edition start_of="174"/> magni Tartari et Persarum regis foedera contra Turcam<fl>33</fl>.</s>
+				<s n="33" lang="la" state="auto">Plura non possum, nam nec relegere hanc licuit.</s>
+				<s n="34" lang="la" state="auto">Parce ergo et bene vale cum fratribus, inprimis d. <persName ref="8127">Pellicano</persName>.</s>
+			</p>
+			<p>
+				<s n="35" lang="la" state="auto">Raptim, <placeName ref="513">Ulmę</placeName>, 3. iulii 1539.</s>
+			</p>
+			<p>
+				<s n="36" lang="la" state="auto"><persName ref="1055">Frechtus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="37" lang="la" state="auto">Domino Heynricho Bullingero, Tigurinę ecclesię ministro singulari doctrina et vitę innocentia, domino et fratri venerando.</s>
+			</p>
+			<p>
+				<s n="38" lang="de" state="auto">Zurch.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1285">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> <el state="verified">ἀδικῶς</el>.</fn>
+			<fn ref="b-d"><i>Text beim Öffnen des Siegels beschädigt.</i></fn>
+			<fn ref="e"><i>vor</i> aliqui <i>gestrichenes</i> nescio.</fn>
+			<fn ref="f"><i>vor</i> in <i>gestrichenes</i> me.</fn>
+			<fn ref="g"><i>nach</i> Turcam <i>einige gestrichene, unlesbare Buchstaben.</i></fn>
+			<fn ref="h"><i>vor</i> Bucerus <i>gestrichenes</i> M[?].</fn>
+			<fn ref="i">Christi <i>über der Zeile nachgetragen.</i></fn>
+			<!-- Splits -->
+			<fn ref="b"><i>Text beim Öffnen des Siegels beschädigt.</i></fn>
+			<fn ref="c"><i>Text beim Öffnen des Siegels beschädigt.</i></fn>
+			<fn ref="d"><i>Text beim Öffnen des Siegels beschädigt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten.</fn>
+			<fn ref="2">Unbekannt.</fn>
+			<fn ref="3">Vgl. oben <link fk_file="11326">Nr. 1283</link>, Anm. 11.</fn>
+			<fn ref="4"><persName ref="8350">Sebastian Franck</persName>.</fn>
+			<fn ref="5" type="bio" fk_person="8350"><persName ref="8350">Franck</persName>, der <placeName ref="513">Ulm</placeName> auf den 23. April hatte verlassen müssen, holte im Juli seine Familie nach <placeName ref="28">Basel</placeName>; er selbst hielt sich bereits im Mai dort auf. Vgl. <i>Peuckert,</i> <persName ref="8350">Franck</persName> 425-428; <persName ref="8055">Blarer</persName> BW II 30.</fn>
+			<fn ref="6">Ulrich Neithart; s. Die Beschlüsse der oberdeutschen Schmalkaldischen Städtetage, bearb. und hg. v. Ekkehart Fabian, 2. Teil, Tübingen 1959. - <bibl>SKRG</bibl> 14/15, S. 167.</fn>
+			<fn ref="7"><persName ref="8350">Franck</persName> reichte seine Beschwerde gegen einen Brief <persName ref="1055">Frechts</persName> schriftlich ein, als <persName ref="1055">Frecht</persName> der Ratssitzung fernblieb; der Text seiner Eingabe ist gedruckt in: Alfred <i>Hegler,</i> Beiträge zur Geschichte der Mystik in der Reformationszeit, Berlin 1906. - <bibl>ARG</bibl> Ergänzungsbd. I, S. 99-102; vgl. <i>Peuckert,</i> <persName ref="8350">Franck</persName> 405-409.</fn>
+			<fn ref="8"><persName ref="1055">Frecht</persName> an <persName ref="8350">Franck</persName>, 23. Juni 1539 <i>(Hegler,</i> aaO, S. 97-99).</fn>
+			<fn ref="9">"... experies hoc, quod in coelum spuis in tuam barbam recasurum" (ebd., S. 98).</fn>
+			<fn ref="10">Nicht erhalten.</fn>
+			<fn ref="11">Das Datum kann nicht richtig sein, da der Brief <persName ref="1055">Frechts</persName> bereits am 23. Juni geschrieben wurde (s. oben Anm. 8).</fn>
+			<fn ref="12">Zum Datum der <placeName ref="157">Frankfurter</placeName> Frühjahrsmesse s. oben <link fk_file="11260">Nr. 1217</link>, Anm. 1.</fn>
+			<fn ref="13">In seinem Brief an <persName ref="8350">Franck</persName> zitiert <persName ref="1055">Frecht</persName> mehrfach <persName ref="2095">Melanchthons</persName> Wunsch.</fn>
+			<fn ref="14">Vgl. oben Z. 2-11.</fn>
+			<fn ref="15"><persName ref="1055">Frechts</persName> Brief an <persName ref="8440">Gervasius Schuler</persName> ist nicht erhalten.</fn>
+			<fn ref="16">Auch dieser Brief eines Unbekannten scheint verloren zu sein.</fn>
+			<fn ref="17">Zum Besuch <persName ref="8440">Schulers</persName> in Zürich vgl. oben <link fk_file="11325">Nr. 1282</link>, 14-18.</fn>
+			<fn ref="18">Zum geplanten Religionsgespräch in <placeName ref="361">Nürnberg</placeName> vgl. oben <link fk_file="11304">Nr. 1261</link>, Anm. 6.</fn>
+			<fn ref="19">Vgl. Mk 2. 21.</fn>
+			<fn ref="20">In <placeName ref="569">Worms</placeName> war im Juni über die Frage der Türkenhilfe beraten worden; vgl. oben <link fk_file="11316">Nr. 1273</link>, 40-43 mit Anm. 15.</fn>
+			<fn ref="21">d. h. nicht vorankommen wird (vgl. <bibl>Otto</bibl> 68, Nr. 314).</fn>
+			<fn ref="22">"Felix, quem faciunt aliena pericula cautum", vgl. Proverbia sententiaeque Latinitatis medii aevi. Lateinische Sprichwörter und Sentenzen des Mittelalters in alphabetischer Anordnung, gesammelt und hg. v. Hans Walther, Bd. 2, Göttingen 1964. -Carmina medii aevi posterioris Latina II/2, Nr. 8952.</fn>
+			<fn ref="23"><persName ref="1055">Frecht</persName> spielt auf den <placeName ref="242">Kappeler</placeName> Landfrieden von 1531 an, der im 2. Artikel die konfessionellen Verhältnisse in den gemeinsamen Herrschaften regelte; vgl. <bibl>EA</bibl> IV/1b 1568f.</fn>
+			<fn ref="24"><persName ref="1974">Luther</persName> predigte am 24. und 25. Mai zur Einführung der Reformation in <placeName ref="284">Leipzig</placeName>, s. <bibl>WA</bibl> XLVII, S. XXIIf.</fn>
+			<fn ref="25">Am Tag zu <placeName ref="569">Worms</placeName>, den die katholischen Stände dominierten, war die von <persName ref="18477">König Ferdinand</persName> geforderte Türkenhilfe nicht bewilligt worden; s. <bibl>Fuchtel</bibl> 192.</fn>
+			<fn ref="26">Landgraf <persName ref="18574">Philipp von Hessen</persName> hatte <placeName ref="492">Straßburg</placeName> gebeten, <persName ref="467">Bucer</persName> nach <placeName ref="569">Worms</placeName> reisen zu lassen; ob <persName ref="467">Bucer</persName> tatsächlich dort war, ist aber fraglich. Vgl. <bibl>PC</bibl> II 612f.</fn>
+			<fn ref="27">Vgl. unten <link fk_file="11329">Nr. 1286</link>, Anm. 1.</fn>
+			<fn ref="28" type="bio" fk_person="18505">Maria Tudor, Tochter <persName ref="18505">König Heinrichs VIII.</persName>, bzw. <persName ref="18209">Margarete von Frankreich</persName>, Tochter von <persName ref="7637">König Franz I.</persName></fn>
+			<fn ref="29">Seit <persName ref="18538">Kaiser Karl V.</persName> verwitwet war, kursierten allerlei Gerüchte über seine angeblich bevorstehende Wiederverheiratung; vgl. auch unten <link fk_file="11341">Nr. 1298</link>, 24-26, und <bibl>PC</bibl> II 616.</fn>
+			<fn ref="30">Schah <persName ref="18594">Tahmasp I.</persName></fn>
+			<fn ref="31"><persName ref="18593">Sultan Suleiman I.</persName></fn>
+			<fn ref="32">Über Kriegshandlungen zwischen Türken und Persern ist aus diesem Zeitraum nichts bekannt.</fn>
+			<fn ref="33"><persName ref="1055">Frecht</persName> bezieht sich wohl auf den als Flugschrift verbreiteten Bericht von <persName ref="4232">Francesco Baiul</persName> über ein Bündnis zwischen Schah Tahmasp und dem Khan der Krimtataren, <persName ref="18328">Sahib Giray</persName>; s. VD 16, B 174; Carl Göllner, Turcica. Die europäischen Türkendrucke des XVI. Jahrhunderts, I. Bd., Bukarest-Berlin 1961, <link fk_file="10679">Nr. 641</link>.</fn>
+		</num>
+	</footnotes>
+</file>

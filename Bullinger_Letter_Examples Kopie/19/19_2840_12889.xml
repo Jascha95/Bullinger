@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12889" id_hbbw="2840" id_irg_sort="2840" id_sort="128400">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12889</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2840</arpa>
+		<scan_pages>
+			<scan id="30180" dir="12889/Autograph/" page="1">00 E_II_347__fol__361_r_.tif</scan>
+			<scan id="30181" dir="12889/Autograph/" page="2">01 E_II_347__fol__361_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26322" vf="1" fk_add_type="1">
+				<person id="8032" fk_id="8032">
+					<name>Dryander (de Enzinas)</name>
+					<forename>Franciscus</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26323" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12889">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">7</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19459">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 347,361</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9134" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Boehmer, Dryander 410f, Nr. 23</entry>
+			</print>
+			<print id="9135" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Enzinas BW 208–211, Nr. 26</entry>
+			</print>
+			<print id="9136" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Enzinas BW 208–211, Nr. 26</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="22">
+				<lang id="5" iso="la" count="22" p="100.0"/>
+			</sentences>
+			<words count="445">
+				<lang id="6" iso="el" count="1" p="0.2"/>
+				<lang id="5" iso="la" count="444" p="99.8"/>
+			</words>
+			<chars count="2638">
+				<lang id="6" iso="el" count="12" p="0.5"/>
+				<lang id="5" iso="la" count="2626" p="99.5"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2840" page="392">
+		<div ref="1">
+			[1] In Bullingers Brief [nicht erhalten]<fl>1</fl> stand, dass <persName ref="8032">Enzinas</persName> [Bullingers] Schrift [„De
+			sacramentis“]<fl>2</fl> innerhalb von 14 Tagen zurücksenden soll. Diesen Brief erhielt <persName ref="8032">Enzinas</persName> vor
+			acht<pb_edition start_of="393"/> Tagen. Jetzt hält er die Schrift für die Rücksendung bereit, doch ließ sich
+			noch kein zuverlässiger Bote finden.
+		</div>
+		<div ref="2">
+			[2] Nur <persName ref="8032">Enzinas</persName> hat die Schrift gelesen und mit der Abhandlung von
+			<persName ref="1365">Simon Grynäus</persName> [„De coena domini Simonis Grynaei dictata in cap. XI.
+			1.Cor.“]<fl>3</fl> verglichen. Hier nun in aller Kürze und Offenheit seine Meinung dazu.
+		</div>
+		<div ref="3">
+			[3] Die Aufzeichnungen von <persName ref="1365">Grynäus</persName> zeugen von einem scharfsinnigen und philosophisch geschulten Geist,
+			allerdings ist sein Gedankengang kompliziert und demzufolge unklar. Vielleicht liegt das an <persName ref="1365">Grynäus</persName>’ Wesen,
+			der schwierige, strittige Fragen nicht auf klare Weise darzustellen vermochte, vielleicht aber auch am Thema
+			selbst, das so subtil ist, dass es keine Erklärung duldet. Möglicherweise wollte <persName ref="1365">Grynäus</persName> zudem die
+			zerstrittenen Parteien [unter den Protestanten] aussöhnen, was gerade unter den Gelehrten zu mehrdeutigen
+			oder ungeeigneten Aussagen führt, die nur für Verwirrung sorgen. Denn auch wenn man die Syntax ihrer
+			Aussagen begreifen mag, versteht man deren Sinn noch längst nicht, und es entstehen dadurch nur noch größere
+			Probleme.
+		</div>
+		<div ref="4">
+			[4] Ganz anders ist die Schrift [„De sacramentis“]. Darin formuliert Bullinger sein Anliegen auf klare
+			Weise, und dort liest man, was gemeint ist. Allerdings maßt <persName ref="8032">Enzinas</persName> sich nicht an, sich in dieser
+			schwierigen Kontroverse als Schiedsrichter aufzuspielen. Er fühlt sich auch nicht dazu berufen, einen so
+			langen Streit zu schlichten, den selbst die Gelehrtesten nicht zu beschwichtigen vermochten. Er meint aber,
+			dass diejenigen, die die Allgegenwart (<el state="verified">πανταχουσίαν</el>) des Leibes Christi
+			befürworten, sich selbst in die Enge treiben, weil sie Sachen behaupten, die nicht nur absurd sind, sondern
+			sich auch gegenseitig widersprechen. Es gibt nämlich kaum etwas Abwegigeres als die Auffassung, dass Leib
+			und Geist gleich seien! Genauso widersprüchlich ist es zu sagen, Christus sei mit dem Körper anwesend, und
+			sofort danach, er sei spirituell anwesend! Und diejenigen, die vorgeben, dass der Körper vom Himmel wieder
+			herunterkommt, oder dass der Sohn Gottes einen wie die Luft unfassbaren oder willkürlichen Körper habe, und
+			damit leugnen, dass er uns in allem ähnlich ist (außer natürlich in der Sünde), wie es die Schrift selbst
+			bezeugt,<fl>4</fl> diese entziehen uns dabei die größte Hoffnung<fl>5</fl> und werden zu Verleumdern. Sie
+			könnten sich auch nicht von der Beschuldigung reinwaschen, frevelhaft zu sein!
+		</div>
+		<div ref="5">
+			[5] <persName ref="8032">Enzinas</persName> wird [<persName ref="5044">Katharina, geb. Lompart</persName>]<fl>6</fl>, der Witwe von <persName ref="1365">Grynäus</persName>, den Rat geben, die Schrift bei
+			sich zurückzubehalten und zum jetzigen Zeitpunkt nicht zu veröffentlichen.
+		</div>
+		<div ref="6">
+			[6] In Bezug auf den betagten Exulanten [<persName ref="2336">Bernardino Ochino</persName>]<fl>7</fl> erwartet <persName ref="8032">Enzinas</persName> den Bescheid der
+			Zürcher Obrigkeit.
+		</div>
+		<div ref="7">
+			[7] Er wartet auch auf die Antwort des Buchdruckers [<persName ref="1227">Christoph Froschauer</persName>] wegen des gewünschten Papiers.
+			Gern würde er wissen, wieviel und wann <persName ref="1227">Froschauer</persName> liefern kann. Sollte dieser das Geld schon brauchen, ist
+			<persName ref="8032">Enzinas</persName> bereit, es ihm auf Anforderung zukommen zu lassen. Bullinger möge Genaueres mitteilen.
+		</div>
+		<div ref="8">
+			[8] Dem <persName ref="3018">Francesco Stancaro</persName> hat <persName ref="8032">Enzinas</persName> schonend erklärt, was Bullinger ihm ausrichten ließ. <persName ref="3018">Stancaro</persName> nimmt
+			auch allein schon die Bemühungen Bullingers ebenso dankbar auf, wie wenn dieser ihm tatsächlich zu einer
+			Stelle verholfen hätte.
+		</div>
+		<div ref="9">
+			[9] Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2840" page="392">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. D.</s>
+				<s n="2" lang="la" state="auto">Tempus quatuordecim dierum mihi tuis in literis<fl>8</fl> concessisti ad remittenda scripta<fl>9</fl>; sed ecce, octavus nunc agitur dies, ex quo tuas literas accepi, et habeo scripta in promptu nec aliud expecto quam tabellarium, qui fideliter ad te perferat.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="la" state="auto">Ego solus vidi et legi, contuli etiam cum scripto Grinei<fl>10</fl>.</s>
+				<s n="4" lang="la" state="auto">Quid de utroque sentiam et quomodo utriusque scripti lectione fuerim affectus, paucis tibi et candide significabo.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="5" lang="la" state="auto">In dictatis<fl>11</fl> Grinei animadverto cogitationes hominis peracuti atque in disciplina philosophica praeclare instituti; sed eas ipsas res obscura difficilique oratione video adumbratas, sive id naturae vicio sit factum, quae non perinde apta videbatur ad explicandas perspicua oratione difficiles controversias, sive quod res ipsae, quae tractantur, tam subtiles, tenues ac limatae sunt, ut nitorem orationis non admittant.</s>
+				<s n="6" lang="la" state="auto">Huc accedit fortasse studium conciliandi partes dissentientes, quae res non raro fucum facere<fl>12</fl> solet hominibus etiam doctissimis, ut interdum vel sententias ambiguas vel minus propria verba fundant.</s>
+				<s n="7" lang="la" state="auto">Hinc obscuritas in oratione et quidem tanta, ut sensum scripti difficulter possis venari.</s>
+				<s n="8" lang="la" state="auto">Deinde ubi sensum autoris ex verborum significatione atque orationis contextu es assequutus, maior etiam oritur difficultas in appendenda sententia.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="la" state="auto">In tuo vero scripto<fl>13</fl> dicis tu quidem perspicue, quod vis, et lego plane, quod intelligam.</s>
+				<s n="10" lang="la" state="auto">Caeterum non tantum ego mihi sumo, Bullingere doctissime, ut velim me iudicem atque arbitrum interponere gravissimę controversiae, neque is sum, qui, quod homines doctissimi longo iam tempore facere non potuerunt, id ego nunc sperem me posse conciliare, qui nulla ex parte sum cum aliis comparandus.</s>
+				<s n="11" lang="la" state="auto">Qui volunt <el state="verified">πανταχουσίαν</el><fl>14</fl> corporis statuere, in eas angustias meo iudicio rediguntur, ut non solum rem absurdam affirmare, sed etiam sibi ipsis pugnantia loqui non obscure revincantur.</s>
+				<s n="12" lang="la" state="auto">Quid enim absurdius quam corpus et spiritum rem eandem esse contendere?</s>
+				<s n="13" lang="la" state="auto">Quid porro pugnantius quam, quod modo corpus esse confiteris, idem paulo post spirituale quiddam esse affirmare?</s>
+				<s n="14" lang="la" state="auto">Rursus, qui carnem coelo delapsam seu aeream seu fantasticam filio dei tribuunt aut negant per omnia fuisse nobis similem excepto peccato, sicut testatur scriptura,<fl>15</fl> praeterquam quod optimam nostrae consolationis partem nobis eripiunt, non carent ipsi crimine convicii neque in iudicio recte sentientium absolvi poterunt a delicto sacrilegii.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="15" lang="la" state="auto">Ego vero autor ero mulieri<fl>16</fl>, ut scriptum apud se contineat neque hoc tempore in lucem venire patiatur.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="16" lang="la" state="auto">Quod ad migrationem optimi senis nostri<fl>17</fl> attinet, expecto a te responsum gubernatorum.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="17" lang="la" state="auto">Expecto quoque responsum typographi<fl>18</fl> de papiro, quam ab eo postulavi; cupio enim certo scire, quanto et quo tempore dare poterit, et si opus erit pecunia, mittam quando postulabit.</s>
+				<s n="18" lang="la" state="auto">De hac re cupio tuis literis certi aliquid cognoscere.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="19" lang="la" state="auto">Stancaro significavi moderatis verbis, quod illi volebas indicatum; agit tibi gratias ingentes pro labore tuo neque aliter accepit voluntatem, quam si amplissimam illi conditionem procurasses<fl>19</fl>.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="20" lang="la" state="auto">Bene vale cum tota ecclesia vestra.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, 7. die martii 1547.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Tuus Franciscus Dryander.</s>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse.]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2840">
+		<alpha>
+			<fn ref="a" meta="1"><i>Allerdings ist die Spur des Verschlussbandes noch sichtbar.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Derselbe Brief Bullingers, auf den Enzinas sich schon in <link fk_file="12880">Nr. 2831</link> bezogen hatte und den, wie hier aus dem weiteren Satz deutlich wird, Enzinas am 28. Februar erhalten hatte.</fn>
+			<fn ref="2">Siehe <bibl>HBBW</bibl> XVI 100, Anm. 29.</fn>
+			<fn ref="3">Eine handschriftlich gebliebene Abhandlung von Grynäus, von der es mehrere Abschriften gab. Ein Exemplar in Basel (Basel UB, Ms A XIII 24) ist mit Randbemerkungen von Enzinas versehen; s. <bibl>Gilly, Spanien</bibl> 352, Anm. 286. Auch Bullinger kannte die Schrift, weil Grynäus sie ihm im Jahr 1541 zugesandt hatte, sodass eine Abschrift davon auch in Zürich erhalten geblieben ist; s. <bibl>HBBW</bibl> XI 263f mit Anm. 6. Eine weitere Abschrift ist in Straßburg nachgewiesen; s. ebd. - Wie Enzinas Zugang zu Grynäus' Handschrift erhalten konnte, erhellt aus <link fk_file="12910">Nr. 2861</link>, Anm. 2.</fn>
+			<fn ref="4">Anspielung auf Hebr 4, 15.</fn>
+			<fn ref="5">Vielleicht war Enzinas der Auffassung, dass sie damit die körperliche Auferstehung in Frage stellten.</fn>
+			<fn ref="6" type="bio" fk_person="5441">Seit September 1538 die zweite Frau von Grynäus. Sie war (aus erster Ehe) die Mutter des in diesem Band öfters vorkommenden <persName ref="5441">Isaak Keller</persName>. Katharinas Vater Hans, ein Kaufmann, stammte aus Freiburg i.Br.; s. <i>AK</i> VI 46f zu <link fk_file="12695">Nr. 2648</link>.</fn>
+			<fn ref="7">Vgl. nämlich <link fk_file="12880">Nr. 2831</link> und 2854.</fn>
+			<fn ref="8">Derselbe nicht erhaltene Brief Bullingers, auf den <persName ref="8032">Enzinas</persName> sich schon in <link fk_file="12880">Nr. 2831</link>,[1] bezog und der, wie aus dem weiteren Satz deutlich wird, am 28. Februar 1547 eingetroffen war.</fn>
+			<fn ref="9">Bullingers handschriftliche Abhandlung "De sacramentis", die er Ende 1545 verfasst hatte; s. <bibl>HBBW</bibl> XVI 100, Anm. 29.</fn>
+			<fn ref="10">Gemeint ist die handschriftlich gebliebene Abhandlung "De coena domini Simonis Grynaei dictata in cap. XI. 1.Cor.", von der es mehrere Abschriften gab. Ein Exemplar in <placeName ref="28">Basel</placeName> (<placeName ref="28">Basel</placeName> UB, Ms A XIII 24) ist mit eigenhändigen Randbemerkungen von <persName ref="8032">Enzinas</persName> versehen; s. <bibl>Gilly, Spanien</bibl> 352, Anm. 286. Auch Bullinger kannte die Schrift, weil Grynäus sie ihm im Jahr 1541 zugesandt hatte; s. <bibl>HBBW</bibl> XI 263f mit Anm. 6. Eine andere Abschrift ist in Straßburg nachgewiesen worden; s. ebd.</fn>
+			<fn ref="11">Aufzeichnungen.</fn>
+			<fn ref="12"><bibl>Adagia</bibl> 1, 5, 52.</fn>
+			<fn ref="13">Bullingers Schrift "De sacramentis".</fn>
+			<fn ref="14">Die Allgegenwart (des Körpers Christi).</fn>
+			<fn ref="15">Hebr 4, 15.</fn>
+			<fn ref="16" type="bio" fk_person="5044"><persName ref="5044">Katharina Lompart</persName>, seit September 1538 die zweite Frau von Grynäus. Sie war (aus erster Ehe) die Mutter von <persName ref="5441">Isaak Keller</persName>. Ihr Vater Hans Lompart, ein Kaufmann, stammte aus Freiburg i.Br.; s. <bibl>AK</bibl> VI 46f zu <link fk_file="12695">Nr. 2648</link>. - Die aus Speyer stammende Magdalena, mit der Grynäus nachweislich im Jahr 1532 verheiratet war (s. <bibl>Bucer BW</bibl> IX 42, Anm. 14), war im Jahr 1536 gestorben (s. Rädle, S. 51, Anm. 3).</fn>
+			<fn ref="17"><persName ref="2336">Bernardino Ochino</persName>.</fn>
+			<fn ref="18"><persName ref="1227">Christoph Froschauer</persName>.</fn>
+			<fn ref="19">Aus dieser Stelle wird deutlich, dass Bullinger keine Stelle für Stancaro gefunden hatte.</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2840" page="392"/>
+			<footnotes fk_bibliography="22" nr="2840">
+				<alpha>
+					<fn ref="a" meta="1"><i>Allerdings ist die Spur des Verschlussbandes noch sichtbar.</i></fn>
+				</alpha>
+				<num>
+					<fn ref="1">Derselbe Brief Bullingers, auf den Enzinas sich schon in <link fk_file="12880">Nr. 2831</link> bezogen hatte und den, wie hier aus dem weiteren Satz deutlich wird, Enzinas am 28. Februar erhalten hatte.</fn>
+					<fn ref="2">Siehe <bibl>HBBW</bibl> XVI 100, Anm. 29.</fn>
+					<fn ref="3">Eine handschriftlich gebliebene Abhandlung von Grynäus, von der es mehrere Abschriften gab. Ein Exemplar in Basel (Basel UB, Ms A XIII 24) ist mit Randbemerkungen von Enzinas versehen; s. <bibl>Gilly, Spanien</bibl> 352, Anm. 286. Auch Bullinger kannte die Schrift, weil Grynäus sie ihm im Jahr 1541 zugesandt hatte, sodass eine Abschrift davon auch in Zürich erhalten geblieben ist; s. <bibl>HBBW</bibl> XI 263f mit Anm. 6. Eine weitere Abschrift ist in Straßburg nachgewiesen; s. ebd. - Wie Enzinas Zugang zu Grynäus' Handschrift erhalten konnte, erhellt aus <link fk_file="12910">Nr. 2861</link>, Anm. 2.</fn>
+					<fn ref="4">Anspielung auf Hebr 4, 15.</fn>
+					<fn ref="5">Vielleicht war Enzinas der Auffassung, dass sie damit die körperliche Auferstehung in Frage stellten.</fn>
+					<fn ref="6" type="bio" fk_person="5441">Seit September 1538 die zweite Frau von Grynäus. Sie war (aus erster Ehe) die Mutter des in diesem Band öfters vorkommenden <persName ref="5441">Isaak Keller</persName>. Katharinas Vater Hans, ein Kaufmann, stammte aus Freiburg i.Br.; s. <i>AK</i> VI 46f zu <link fk_file="12695">Nr. 2648</link>.</fn>
+					<fn ref="7">Vgl. nämlich <link fk_file="12880">Nr. 2831</link> und 2854.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

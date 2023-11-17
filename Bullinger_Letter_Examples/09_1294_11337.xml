@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11337" id_hbbw="1294" id_irg_sort="1294" id_sort="112940">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11337</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1294</arpa>
+		<scan_pages>
+			<scan id="26359" dir="11337/Autograph/" page="1">00 E_II_335__fol__2030_r_.tif</scan>
+			<scan id="26360" dir="11337/Autograph/" page="2">01 E_II_335__fol__2030_v_.tif</scan>
+			<scan id="26361" dir="11337/Autograph/" page="3">02 E_II_335__fol__2031_r_.tif</scan>
+			<scan id="26362" dir="11337/Autograph/" page="4">03 E_II_335__fol__2031_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23012" vf="1" fk_add_type="1">
+				<person id="179" fk_id="179">
+					<name>Aquilomontanus</name>
+					<forename>Hermann</forename>
+				</person>
+				<place id="58" vf="1" fk_id="58" long="7.223598" lat="53.345288">Borssum</place>
+				<district id="120">Niedersachsen</district>
+				<country id="18">Deutschland</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23013" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11337">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">8</month>
+				<day fk_d="" d="" vf="1" fn="">10</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17808">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 335,2030r.–2031r.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11178" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1294, S. 188</entry>
+				<page>188</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="99">
+				<lang id="1" iso="de" count="1" p="1.0"/>
+				<lang id="5" iso="la" count="98" p="99.0"/>
+			</sentences>
+			<words count="2040">
+				<lang id="1" iso="de" count="4" p="0.2"/>
+				<lang id="5" iso="la" count="2036" p="99.8"/>
+			</words>
+			<chars count="12431">
+				<lang id="1" iso="de" count="19" p="0.2"/>
+				<lang id="5" iso="la" count="12412" p="99.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1294" page="187">
+		<div ref="1">
+			Äußert Dankbarkeit für die Veröffentlichung verschiedener Werke Bullingers. [Lutherische] Unruhestifter
+			haben [in <placeName ref="734">Ostfriesland</placeName>] eine fast papistische Form der Messe und
+			der Ordination durchgesetzt; die meisten Pfarrer sahen sich gezwungen, diese Riten zu übernehmen. Er selbst
+			ist aber nicht bereit, Gebräuche zuzulassen, die das einfache Volk zum Götzendienst verführen. Schildert die
+			von ihm vor acht Jahren in <placeName ref="58">Borssum</placeName> eingeführte Weise der
+			Abendmahlsfeier.<pb_edition start_of="188"/> Bullinger soll sie verbessern, wenn es ihm nötig scheint;
+			<persName ref="179">Aquilomontanus</persName> sieht in ihm seinen Lehrmeister und hätte ihn längst besucht, wenn er es sich leisten könnte.
+			Seinen Ratschlag erbittet er auch im Hinblick auf die Verbesserung der Kirchenzucht bei den Friesen, die den
+			Juden gleichen; gerne würde er jährlich Briefe mit ihm wechseln. Möchte wissen, wie [in Zürich] die
+			Zulassung zum Abendmahl geregelt ist, und lobt Bullinger, weil er so viel Wert auf die Buße legt; an der
+			verbreiteten Unbußfertigkeit ist vor allem das schlechte Vorbild der Pfarrer schuld. Empfiehlt sich ihm und
+			nennt <persName ref="1227">Christoph Froschauer</persName> als möglichen Briefübermittler. Läßt
+			<persName ref="1753">Leo Jud</persName> grüßen und bittet, ihm einzuschärfen, er solle sich weiter um
+			<persName ref="4091">Zwinglis</persName> nachgelassene Werke bemühen. Erkundigt sich nach den Abendmahlsverhandlungen mit den Straßburgern;
+			kann nicht verstehen, daß sich gewisse Leute auch nach der Veröffentlichung von Bullingers „De origine
+			erroris“ und <persName ref="8049">Vadians</persName> „Aphorismen“ unbelehrbar geben, und grüßt <persName ref="8049">Vadian</persName>. Gruß an
+			<persName ref="8127">Konrad Pellikan</persName>, dessen Bibelkommentare sich hierzulande nur Reiche
+			leisten können. Grüßt auch alle andern, denen er und seine Brüder sich im Glauben verbunden wissen. Sie
+			sähen es gerne, wenn Bullinger am <placeName ref="361">Nürnberger</placeName> Religionsgespräch
+			teilnähme, von dem er selbst allerdings keinen Frieden erwartet; er beschwört ihn, alles dafür zu tun, daß
+			die Gewissen nicht unter dem Vorwand der Einheit in neue Knechtschaft geführt werden. Möchte wissen, was er
+			von <persName ref="8350">Sebastian Franck</persName> hält, der u. a. mit seinen „Paradoxa“ viel
+			Beachtung findet. Bittet, ihm sein langes, kunstloses Schreiben nachzusehen. Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1294" page="188">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto"><persName ref="179">Hermannus Aquilomontanus</persName> Henrico Bullingero, Tigurine ecclesie apud Helvetios vigilantissimo pastori.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Gratias tibi ago fratrum nomine, vir doctissime, qui nos indies novibus et spiritualibus operibus recreas, lucem accendis, spiritum sanctum renovas, salutarem doctrinam absque ostentatione suggeris.</s>
+				<s n="3" lang="la" state="auto">Perge, vir vere amabilis, et non modo Tigurine, sed toti catholice inservi ecclesie.</s>
+				<s n="4" lang="la" state="auto">Accepimus hic Paulum sanis commentariis per te illustratum<fl>3</fl>, quibus in <entity id="13" type="geo_country">Hollandia</entity> ac Phrisia omnes pii ex corde letantur, impii vero et elementarii<fl>4</fl> maxime refutantur.</s>
+				<s n="5" lang="la" state="auto">Accepimus ecclesie christiane infantiam et augmentum in actis apostolicis per te renovatam<fl>5</fl>.</s>
+				<s n="6" lang="la" state="auto">Expectamus per dei gratiam evangelia optimis et spiritualissimis homiliis<fl>a</fl> locupletata<fl>6</fl>, quod quidem fratrum precibus non<pb_edition start_of="189"/> negabis, et quanquam plures tamen idem conati sunt, tuum spiritum et orationis filum in eo opere desiderant.</s>
+				<s n="7" lang="la" state="auto">Plura brevi tempore summis vigiliis elaborata accepimus: De veritate et<fl>b</fl> autoritate sacre scripture, institutione ac functione episcopi<fl>7</fl>, quod opus utinam alteri inscripsisses<fl>8</fl>, opus theologo dignum.</s>
+				<s n="8" lang="la" state="auto">Oblatum est nuper opus divinum et ecclesie christiane necessarium De origine erroris circa sanctos ac eucharistiam<fl>9</fl>.</s>
+				<s n="9" lang="la" state="auto">Laus omnipotenti deo, qui hoc opus in mentem dimisit, ut errores ante annos aliquot ostensi nunc omnibus oculis exponantur et lumen in tenebris luceat<fl>10</fl>, ut nullus ni obstinatus errare queat.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Mirum dictu, quam nostre ecclesie turbate sunt ab elementariis et novis Galathis<fl>11</fl>, qui bis terve huc ecclesiam reformaturi venerunt<fl>12</fl>, turbarunt maxime et tandem, quid quesierant, ostendebant.</s>
+				<s n="11" lang="la" state="auto">Pecuniam et gloriam quesierunt, non Christum neque pacem.</s>
+				<s n="12" lang="la" state="auto">Ecclesiam optime institutam et apostolicis ceremoniis adornatam turbarunt maxime, optimos et pios viros e sedibus pepulere, missam papismum sapientem in locum fractionis panis instituere ordinationemque contra libertatem christianam statuere.</s>
+				<s n="13" lang="la" state="auto">Satis mirari nequeo, cur isti in tantum ab institutione Christi et apostolico usu abhorreant, cum tamen papismum totis viribus oppugnent.</s>
+				<s n="14" lang="la" state="auto">Omnes rident et subsannant, qui eos in omnibus non sequuntur.</s>
+				<s n="15" lang="la" state="auto">Dominari cupiunt, non ministrare, et tandem obtinuerunt, ut eorum ritus hic in templis magistratus iussu observentur et plurimi pii (si vagari noluerint) ad eos observandos coguntur.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Ego quidem libere apud te, praeceptor observande, me non posse ipsis assentiri in omnibus fateor<fl>c</fl>, quanquam ceremonias liberas praedicamus.</s>
+				<s n="17" lang="la" state="auto">Quomodo enim ab idololatria simplicem popellum abstrahemus, si idololatrie modus permanserit<fl>d</fl>?</s>
+				<s n="18" lang="la" state="auto">Si papisticus panis ydolo notatus, vestes, candele, altaria, idola<fl>e</fl>, papistarum ritu in os ingeramus<fl>f</fl><fl>13</fl>?</s>
+				<s n="19" lang="la" state="auto">Nosti, vir optime, plebem<pb_edition start_of="190"/> a ritu pendere, non a scientia.</s>
+				<s n="20" lang="la" state="auto">Ceremonias liberas habeo pro tempore et loco; attamen eas<fl>g</fl>, quibus populus dei in infidelitate tenetur, liberas servare et docere nequeo.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Iam octavus est annus, quod pastorem in minimo villagio Phrisie orientis ago, a sede lanternaria<fl>14</fl> vocatus ab optimo <persName ref="18040" state="auto_name">Mecenate</persName><fl>15</fl>, qui in aliquot pagis liberam iurisditionem exercet; illic nil mutatum est, quanquam sepius a maioribus, superioribus<fl>h</fl> tentatum, ut aliis accederemus.</s>
+				<s n="22" lang="la" state="auto">Templum purgavi, ydola, altaria, picturas sustuli, sedilia commoda ad verbum audiendum reposui, mensam debite adorno in cena, non preciose, sed terse, mensale sternitur, panis albus in vase stanneo, quo domi utor, adponitur, cipho<fl>16</fl> stanneo purgato bibitur, communi et decenti veste administratur, audito sermone ad orationem omnes se componunt, fidem corde confitentur, quam distincte et clara voce pronuntio, castigationi evangelice subiicientes ad mensam accedunt, assident, audientes cęne verba panem in<fl>i</fl> hoc positum per ministrum in manus sumunt, quem administrans frango in partes.</s>
+				<s n="23" lang="la" state="auto">Si numerus maior sit una mensa, priores surgunt, reliqui eodem modo in mensa se componunt, eadem audientes, eadem agentes.</s>
+				<s n="24" lang="la" state="auto">Peracta ceremonia cęne succincte, quid christianum deceat, admoneo; his peractis ecclesia una voce domino gratias agit, decantat<fl>k</fl>.</s>
+				<s n="25" lang="la" state="auto">Hunc modum in principio<fl>l</fl> optimo consilio incepi, eum servare in finem usque decrevi.</s>
+			</p>
+			<p>
+				<s n="26" lang="la" state="auto">Habes cene nostre modum, quem<fl>m</fl> probabis, scio.</s>
+				<s n="27" lang="la" state="auto">Attamen, si quid tuo spiritu addere in ecclesie edificationem volueris, precor, ut fatias<fl>n</fl>; te enim in hisce rebus et doctrina Christi praeceptorem elegi, quem ante tempora visitassem, ni etas et crumena me domi manere clara voce iussissent.</s>
+				<s n="28" lang="la" state="auto">Paterna<fl>o</fl> hereditate et sedibus pulsus in remotis exul et pauper vivere cogor.</s>
+				<s n="29" lang="la" state="auto">Etatem apud sophistas<fl>17</fl> (ut epistola indicat) trivi, nunc quinquagenarius racemos colligens<fl>18</fl>.</s>
+				<s n="30" lang="la" state="auto">Christum unicum servatorem arripui, eum praedico, inculco, eius meritis securus mortem expecto.<pb_edition start_of="191"/></s>
+			</p>
+			<p>
+				<s n="31" lang="la" state="auto">Nunc totis viribus et optimorum consilio censuras et castigationem in<fl>p</fl> ecclesia reducere cogor, quod quidem labor est ante me, ut contra fluxum videar remis agere<fl>19</fl>.</s>
+				<s n="32" lang="la" state="auto">Hic<fl>q</fl> tuum consilium desidero, quomodo simplex, attamen natura pertinax populus sensim induci possit, ut iugum domini ferat<fl>20</fl>.</s>
+				<s n="33" lang="la" state="auto">Sepius enim Phrisios cum Iudeis composui, quos vestitu et ornatu imitantur.</s>
+			</p>
+			<p>
+				<s n="34" lang="la" state="auto">Eos si videres, ex Ezaia<fl>21</fl> totum mundum mulieres sumpsisse sancte iurares<fl>r</fl>, cum omnes Phrisie, que exteris nupte non<fl>s</fl> sint et suam gentem dehonestare noluerint, rubro vestiantur, armillas in manibus gestant, rubeas caligas et capitis velamen rubeum singulari modo factum; hec vestis primaria est<fl>22</fl>.<pb_scan n="2030v."/></s>
+				<s n="35" lang="la" state="auto">Si quid in hoc a te aut optime memorie <persName ref="4091">Zwinglio</persName> relictum sit, videre desidero.</s>
+				<s n="36" lang="la" state="auto">Tu pro tuo spiritu et in ecclesiam Christi ardore hic, queso, discipulo tuo succurras et paucis, quid hic agendum statuas, aperias; ad quod si te demiseris, semel in anno, quamvis longissime dissiti, litteris colloquemur.</s>
+			</p>
+			<p>
+				<s n="37" lang="la" state="auto">Non solum me, sed plurimas ecclesias docebis, qui in te deum indies collaudant.</s>
+			</p>
+			<p>
+				<s n="38" lang="la" state="auto">Adiungas, velim, modum probe<fl>23</fl> ad cenam apud vos servatum, an semel quemlibet in conversione, cum primum accedat, audias seorsim aut cuilibet sue conscientie probam post doctrinam sanam committas<fl>24</fl>.</s>
+				<s n="39" lang="la" state="auto">Hic non minima pastoris cura - meo iuditio - desideratur, cum plerique absque delectu omnes admittant, quod minime agendum censeo, sed semel optime instituti et, quid sit christianum esse, instructi libere accedant, ne rursum Iudei et papenses facti<fl>t</fl> ceremoniis nitamur et nomen Christi in vanum geramus, nuntios pro dominis habentes et indices pro indicatis venerantes.</s>
+				<s n="40" lang="la" state="auto">Insuper ante conversionem et poenitentiam se christianos ostendunt, cum nondum timorem domini ex misericordia eius conceperint nec dilectionem veritatis unquam sensierint.</s>
+				<s n="41" lang="la" state="auto">Optime itaque agis, praeceptor venerande, qui a poenitentia vera semper incipias et novale novum, antequam seras, tibi purges<fl>25</fl>; cordate quidem in prologo Originis<fl>26</fl>, ut poenitentiam agentes, orantes in timore domini perstemus<fl>27</fl>, quod quidem hic rarum, cum plurimi historiali fide<fl>28</fl> os lavent, pauci vera fide cor purificent.</s>
+				<s n="42" lang="la" state="auto">Causam sepius proclamavi<pb_edition start_of="192"/> pastores fore, in quibus nullum (praeter nuda verba) poenitentie signum vident, nullam curam animarum sentiunt nec spiritus scintillam experiuntur.</s>
+			</p>
+			<p>
+				<s n="43" lang="la" state="auto">Profitentur se evangelicos, cum vix noscant, quid sit euangelion.</s>
+				<s n="44" lang="la" state="auto">Currunt, antequam mittantur, penuria et acedia<fl>u</fl> pressi.</s>
+				<s n="45" lang="la" state="auto">Offitium<fl>v</fl> adepti dominos se, non ministros ostendunt.</s>
+				<s n="46" lang="la" state="auto">Hec scribens suffundor et epistole finem impono.</s>
+			</p>
+			<p>
+				<s n="47" lang="la" state="auto">Vale itaque, observande praeceptor, et hanc epistolam trivialem pro C[hristi] charitate boni consulas.</s>
+				<s n="48" lang="la" state="auto">Scio te maioribus occupatum, ut non vacet hisce nugis aliquid temporis tribuere; sed non semper cum doctis, sed aliquando cum indoctis, ut docti evadant, tempus terendum.</s>
+				<s n="49" lang="la" state="auto">Tentavi sepius, sed tandem te appellare ausus<fl>w</fl> sum et gratias agere, ut scias te non modo Helvetiis, sed exteris nationibus non absque fructu inservire.</s>
+				<s n="50" lang="la" state="auto">Vale, virorum piissime, et <persName ref="179">Hermannum</persName> tuum inter eos colloca, qui deum in donis tibi collatis indies collaudant.</s>
+				<s n="51" lang="la" state="auto">Si litteris me et ecclesiam nostre gentis docere, instituere non dedignemini, Christo[phoro] Froscouero aut eius famulo in nundinis <placeName ref="157">Francfordianis</placeName> litteras des; eidem meas nugas committam per mercatores.</s>
+				<s n="52" lang="la" state="auto">Sin autem<fl>x</fl> hanc scriptionem abiitias<fl>y</fl>, ut meretur, et pro me et ecclesia commissa ores, velim.</s>
+			</p>
+			<p>
+				<s n="53" lang="la" state="auto"><persName ref="1753">Leoni Iude</persName> salutem ex me diligenter nuntiabis.</s>
+				<s n="54" lang="la" state="auto">Gratias ages, quod plurimas <persName ref="4091">Zwinglii</persName> lucubrationes in lucem emiserit<fl>29</fl>; iniunges homini, ne committat quidquam operum tanti viri situ<fl>z</fl> perire.</s>
+			</p>
+			<p>
+				<s n="55" lang="la" state="auto">Audivimus incerto relatu te<fl>aa</fl> cum <placeName ref="492">Argentinensibus</placeName> et aliis Germanie contionatoribus contulisse super ritu cęne et modo praesentie corporis Christi in pane<fl>30</fl>.</s>
+				<s n="56" lang="la" state="auto">Quid in eo colloquio actum sit, scire desideramus.</s>
+				<s n="57" lang="la" state="auto">Spero vos omnes conclusisse, ut in libro De origine erroris circa eucharistiam ac missam ultimo<fl>ab</fl> codicem conscripsisti.</s>
+				<s n="58" lang="la" state="auto">Mirari satis nequeo quorundam magnorum cecitatem et, ut verius eloquar, proterviam ac pertinatiam, qui<fl>ac</fl>, ne inconstantes usquam dicantur, mordicus tuentur, quae semel conceperint.</s>
+				<s n="59" lang="la" state="auto">Pennas et cristas demittunt<fl>31</fl> hic<fl>ad</fl> sensim, clara luce per te et <persName ref="8049">I[oachimi] Vadiani</persName><pb_edition start_of="193"/> Aphorismos<fl>32</fl> proposita; attamen, quia semel loqui ceperunt, tacere nequeunt et eodem in luto herent<fl>33</fl>, ut dicitur.</s>
+				<s n="60" lang="la" state="auto"><persName ref="8049">Vadiano</persName> fratrum nomine hic salutem annuntiabis, qui animo intrepido rem omnem funditus et ab origine proposuit, ut plures mitius et circumspectius agant et loquantur.</s>
+			</p>
+			<p>
+				<s n="61" lang="la" state="auto"><persName ref="8127">Conrado Pellicano</persName>, viro pio et deo dato, salutem tuis verbis meo corde annuntiabis diligenter, qui nunc toti mundo aperit, quanta vigilantia sacra volumina legerit et quo animo Christum induerit<fl>34</fl>; eius volumina<fl>35</fl> hic passim emuntur, sed a divitibus, cum magna sint et care vendantur.</s>
+				<s n="62" lang="la" state="auto">Bis miseri hic sumus, primum pauperes, deinde, si quid emendum, duplo solvendum est, ut multi uno codice tenemur stare contenti.</s>
+			</p>
+			<p>
+				<s n="63" lang="la" state="auto">Ceteris commilitonibus et fratribus nostris in domino Iesu Christo omnium fratrum nomine spiritus augmentum et constantiam in opere divino nuntiabis; sumus enim unius fidei et sensus ab origine evangelii.</s>
+				<s n="64" lang="la" state="auto">Decet itaque mutuas manus nobis porrigatis, ne<fl>ae</fl> unitas scindatur, quam unice commendatam reliquit dominus<fl>36</fl>.</s>
+			</p>
+			<p>
+				<s n="65" lang="la" state="auto"><pb_scan n="2031r."/>Epistolam complicaturus venit in mentem, quod primum scribere decreveram nos omnes totis praecordiis desiderare, an tu unus electorum vocatus sis in synodo Norenbergensi<fl>37</fl>, unde plurimi pacem in ecclesia Christi sperant, unitatem fidei et ceremoniarum.</s>
+				<s n="66" lang="la" state="auto">Ego quidem, ut<fl>af</fl> loquar, quod sentio, in ecclesia Christi nullam pacem spero, cum dominus noster non pacem<fl>38</fl>, sed crucem in terris reliquit et verbum crucis de crucifixo<fl>39</fl>, nec futurum unquam, ut mundus Christi iugum suscipiat<fl>40</fl> aut spiritum veritatis accipiat<fl>41</fl>.</s>
+				<s n="67" lang="la" state="auto">Interim maximam turbationem in ecclesia praedico, si illic omnibus praescribere<fl>ag</fl> voluerint, quomodo in ecclesiis omnibus agendum, et liberum non reliquerint, quod Christus liberum reliquit.</s>
+				<s n="68" lang="la" state="auto">Venerande praeceptor et frater in vulneribus Christi, praesens illic eris aut tua scripta saltem istic legentur; oro, obtestor et sancte per Christum pro nobis crucifixum adiuro, ne laqueum alicuius conscientie iniitias<fl>ah</fl><fl>42</fl> aut, ut fiat, consentias.</s>
+				<s n="69" lang="la" state="auto">Ab hac synodo futura plures appellarunt ad Christum, ad libertatem cruce emptam, ad sacras litteras; cur hic non licet, quod in omnibus aliis praeteritis?</s>
+			</p>
+			<p>
+				<s n="70" lang="la" state="auto">Persta, mi frater, ut in prologo Errorum optime cepisti<fl>43</fl>.</s>
+				<s n="71" lang="la" state="auto">Primum maiores poenitentiam agant et tum ostendant se vere conversos et deo datos.</s>
+				<s n="72" lang="la" state="auto">Ecclesiam pristine libertati dent, spiritui sancto committant regendam et spirituales<pb_edition start_of="194"/> praefitiantur<fl>ai</fl>, quo<fl>ak</fl> facto optima reformatio inchoata est.</s>
+				<s n="73" lang="la" state="auto">Plures meo sensui reclamant.</s>
+				<s n="74" lang="la" state="auto">„Necesse est“, inquiunt, „ceremonias<fl>al</fl> uniformes, quibus simplex popellus manuducitur<fl>44</fl> et in offitio conservatur; hasce liberas synodus ecclesiis tradet non in laqueum conscientiarum, sed in corporis exercitium.“</s>
+				<s n="75" lang="la" state="auto">Huic rationi plures et magni assentiunt editisque libris fatiendum<fl>am</fl> testantur.</s>
+				<s n="76" lang="la" state="auto">Attamen, si quis in simplicitate primeve ecclesie manere desiderat<fl>an</fl>, hunc turbatorem, secte autorem, inobedientem, praefractum iudicant, nolle pacem cum omnibus, sed ferum singularem e silva pellendum, ne alios infitiat<fl>ao</fl>.</s>
+				<s n="77" lang="la" state="auto">Audis, quanta libertate suas ceremonias praescribant?</s>
+				<s n="78" lang="la" state="auto">Hoc modo papistica ecclesia cepit, cum pastores ecclesiarum sub pacis et unitatis praetextu cogerentur multitudini accedere, et quod principio liberum fuit, tandem lex facta est, ut nullus hiscere audeat.</s>
+				<s n="79" lang="la" state="auto">Vere nobis insidiatur satan per mille cavillas, ut libertatem Christi opprimat, nos rursum homines servos faciat.</s>
+				<s n="80" lang="la" state="auto">Vigilandum itaque, ne nos illaqueet suis versutiis, etiamsi sub angeli<fl>45</fl>, pacis, unitatis ac pietatis specie appareat.</s>
+				<s n="81" lang="la" state="auto">Maneamus itaque in simplicitate, quae est in Christo Iesu<fl>46</fl>, intenta voce poenitentiam et cordis conversionem (sine qua omnia fucata) inclamemus, orationi, eleemosine instemus, charitatis opera inculcemus.</s>
+				<s n="82" lang="la" state="auto">Hec omnia facilia erunt, si primum Christus suo spiritu in cordibus rexerit timoremque divinum impresserit, facile tum eucharistia instituetur<fl>ap</fl>, nec christianus alium ritum quam a domino traditum desiderabit, omnes larvas hominum floccifacit<fl>47</fl> sciens deum minime delectari, in quibus homines ceci gaudent.</s>
+				<s n="83" lang="la" state="auto">Det dominus spiritum sanctum in praesidibus huius synodi, ut nec spe ac metu<fl>48</fl> a Christo moveantur magisque studeant omnia papistica ponere quam fulcire, libertatem Christi sanguine partam illibatam servare.</s>
+				<s n="84" lang="la" state="manual">Amen.</s>
+				<s n="85" lang="la" state="auto">Hec audatius<fl>aq</fl> quam deceat effutivi apud eum, a quo merito docendus sum; boni tamen consules pro Christi charitate, quae omnia tollerat<fl>49</fl>, praesertim infirmos<fl>50</fl>.</s>
+				<s n="86" lang="la" state="auto">Novus autor magni spiritus et varie lectionis, <persName ref="8350">Sebastianus Franck</persName>, hic suis Paradoxis<fl>51</fl> et aliis scriptis veteres de ponte protrudit<fl>52</fl>; rapitur, legitur ab<pb_edition start_of="195"/> omnibus tum<fl>ar</fl> ob<fl>as</fl> novitatis gratiam, tum ob nova et inaudita, quae proponit.</s>
+				<s n="87" lang="la" state="auto">Plures tamen pii hic in pluribus offenduntur, praesertim in doctrina de libertate voluntatis, de Christo, quem magis indicem ac nuntium salutis quam salvatorem affirmat.</s>
+				<s n="88" lang="la" state="auto">Ego vero nihil huius emi et parum et idem cursim legi.</s>
+			</p>
+			<p>
+				<s n="89" lang="la" state="auto">Oro itaque, iuditium tuum, cui multum tribuo, perscribas.</s>
+				<s n="90" lang="la" state="auto">Nosti omnibus esse palatum, sed paucis sanum<fl>53</fl>.</s>
+			</p>
+			<p>
+				<s n="91" lang="la" state="auto">Habes epistolam non minus molestam quam prolixam, qua contra omnes mores primum stomachum effutivi, quod post amicitiam fundatam sensim magni autores agendum docent<fl>54</fl>.</s>
+				<s n="92" lang="la" state="auto">Audacem tamen me tua scripta reddiderunt, quibus cor et animum omnibus obvia et exposita offers, ut me tibi deditissimum reddideris.</s>
+				<s n="93" lang="la" state="auto">Et cum tanto intervallo distamus, ut nisi in anno semel aut ad summum bis litteris colloqui liceat, pudorem innatum posui, perfricui frontem<fl>55</fl>, mea omnia tibi nuda proposui.</s>
+				<s n="94" lang="la" state="auto">Que si pastoris ac praeceptoris animo susceperis, est, quod gaudeam; sin autem<fl>at</fl> abieceris, ut merentur, hec scriptio mihi perierit docebitque in posterum cautius et maiore reverentia magnos alloqui.</s>
+			</p>
+			<p>
+				<s n="95" lang="la" state="auto">Bene vale et valetudinem tuam cura, ut diutius religioni christiane, fratribus pusillis et bonis litteris prosis.</s>
+			</p>
+			<p>
+				<s n="96" lang="la" state="auto">Raptim, Laurentii feriis anno 1539.</s>
+			</p>
+			<p>
+				<s n="97" lang="la" state="auto"><persName ref="179">Hermannus Aquilomontanus</persName>, pastor ecclesie Borsumensis prope Embdam in Phrisia orientali.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="98" lang="la" state="auto">Vigilantissimo pastori ecclesie Tigurine Heinrico Bullingero, preceptori suo observando.</s>
+				<s n="99" lang="de" state="auto">Tho Zurich in Zwitsen.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1294">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> omiliis.</fn>
+			<fn ref="b"><i>vor</i> et <i>gestrichenes</i> s.</fn>
+			<fn ref="c">fateor <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="d"><i>vor</i> permanserit <i>gestrichenes</i> pers.</fn>
+			<fn ref="e">vestes, candele, altana, idola <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="f"><i>vor</i> ingeramus <i>verschriebenes, gestrichenes</i> ing.</fn>
+			<fn ref="g"><i>vor</i> eas <i>ein gestrichener, unlesbarer Buchstabe.</i></fn>
+			<fn ref="h"><i>vor</i> superioribus <i>gestrichenes</i> a.</fn>
+			<fn ref="i">in <i>irrtümlich wiederholt.</i></fn>
+			<fn ref="k">decantat <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="l"><i>kann eventuell auch als</i> primo <i>gelesen werden.</i></fn>
+			<fn ref="m"><i>vor</i> quem <i>gestrichenes</i> s.</fn>
+			<fn ref="n"><i><persName ref="179">Aquilomontanus</persName> schreibt oft - ti- statt - ci-; auf eine Normalisierung wurde verzichtet.</i></fn>
+			<fn ref="o"><i>vor</i> Paterna <i>gestrichenes</i> sum enim.</fn>
+			<fn ref="p"><i>vor</i> in <i>gestrichenes</i> inter.</fn>
+			<fn ref="q"><i>vor</i> Hic <i>gestrichenes</i> Hinc[?].</fn>
+			<fn ref="r"><i>vor</i> iurares <i>einige gestrichene, unlesbare Buchstaben.</i></fn>
+			<fn ref="s">non <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="t">facti <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="u"><i>in der Vorlage</i> accidia.</fn>
+			<fn ref="v"><i>Vgl. oben Anm. n.</i></fn>
+			<fn ref="w">ausus <i>vom Schreiber korrigiert aus</i> visus.</fn>
+			<fn ref="x"><i>in der Vorlage</i> Sinautem.</fn>
+			<fn ref="y"><i>Vgl. oben Anm. n.</i></fn>
+			<fn ref="z"><i>vor</i> situ <i>gestrichenes</i> situm.</fn>
+			<fn ref="aa">te <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="ab"><i>vor</i> ultimo <i>gestrichenes</i> in.</fn>
+			<fn ref="ac">qui <i>über gestrichenem</i> et.</fn>
+			<fn ref="ad">hic <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="ae"><i>vor</i> ne <i>gestrichenes</i> h.</fn>
+			<fn ref="af">ut <i>über gestrichenem</i> quod.</fn>
+			<fn ref="ag"><i>vor</i> praescribere <i>gestrichenes</i> quod.</fn>
+			<fn ref="ah"><i>Vgl. oben Anm. n.</i></fn>
+			<fn ref="ai"><i>Vgl. oben Anm. n.</i></fn>
+			<fn ref="ak"><i>vom Schreiber korrigiert aus</i> quod.</fn>
+			<fn ref="al"><i>vor</i> ceremonias <i>mehrere gestrichene, unlesbare Buchstaben.</i></fn>
+			<fn ref="am"><i>Vgl. oben Anm. n.</i></fn>
+			<fn ref="an"><i>vom Schreiber korrigiert aus</i> desiderant.</fn>
+			<fn ref="ao"><i>Vgl. oben Anm. n.</i></fn>
+			<fn ref="ap"><i>vor</i> instituetur <i>gestrichenes</i> is.</fn>
+			<fn ref="aq"><i>Vgl. oben Anm. n.</i></fn>
+			<fn ref="ar"><i>nach</i> tum <i>einige gestrichene, unlesbare Buchstaben.</i></fn>
+			<fn ref="as">ob <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="at"><i>in der Vorlage</i> sinautem.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1" type="bio" fk_person="179"><persName ref="179">Hermann Aquilomontanus</persName> (latinisiert aus Arenberg o. ä.?) war 1539 fünzigjährig (s. unten Z. 63) und lebte als Enterbter in der Fremde (s. unten Z. 61f); über seine Herkunft ist nichts Näheres bekannt. Seit 1531 amtete er als Pfarrer in <placeName ref="58">Borssum</placeName> (s. unten Z. 41f). 1542 wurde er nach <placeName ref="364">Oldersum</placeName> (Kr. Leer) berufen, wo er vor dem 26. Februar 1548 starb. Aus seiner Korrespondenz mit Bullinger sind 10 Briefe erhalten. - Lit.: E[rnst] <i>Kochs,</i> Die Anfänge der ostfriesischen Reformation, in: Jahrbuch der Gesellschaft für bildende Kunst und vaterländische Altertümer zu <placeName ref="138">Emden</placeName> 20, 1920, S. 98, Anm. 1; (zum Briefwechsel mit Bullinger:) J. <i>ten Doornkaat Koolman,</i> De Anabaptisten in Oostfriesland ten tijde van Hermannus Aquilomontanus (1489-1548), in: Nederlands Archief voor Kerkgeschiedenis, NS 46, 1964/65, S. 87-99.</fn>
+			<fn ref="2" meta="1"><placeName ref="58">Borssum</placeName>, damals eine kleine Herrschaft außerhalb der Stadt, gehört heute zu <placeName ref="138">Emden</placeName>.</fn>
+			<fn ref="3">Gemeint ist die 1537 gedruckte Gesamtausgabe von Bullingers Paulusbriefkommentaren <bibl>HBBibl</bibl> I 84).</fn>
+			<fn ref="4">In Anspielung auf Gal 4, 3. 9 bezeichnet <persName ref="179">Aquilomontanus</persName> seine lutherischen Gegner als "elementarii" und "novi Galathi" (vgl. unten Z. 21f).</fn>
+			<fn ref="5">Bullingers Kommentar zur Apostelgeschichte (HBBib I 43f) war erstmals 1533 und in zweiter Auflage 1535 erschienen.</fn>
+			<fn ref="6">Bullingers Evangelienkommentare erschienen erst ab 1542 (vgl. <bibl>HBBW VIII</bibl> <link fk_file="11212">[Nr. 1169]</link>, S. 210, Anm. 11).</fn>
+			<fn ref="7">"De scripturae sanctae authoritate ... deque episcoporum ... institutione et functione ... libri duo", Zürich 1538 (<bibl>HBBibl</bibl> I 111).</fn>
+			<fn ref="8">Das Werk ist dem englischen <persName ref="18505">König Heinrich VIII.</persName> gewidmet.</fn>
+			<fn ref="9">Zu Bullingers "De origine erroris libri duo" (<bibl>HBBibl</bibl> I 12) s. oben <link fk_file="11280">Nr. 1237</link>, Anm. 7.</fn>
+			<fn ref="10">Vgl. Joh 1, 5.</fn>
+			<fn ref="11">Vgl. oben Anm. 4.</fn>
+			<fn ref="12">Im Auftrag von Graf <persName ref="7436">Enno II.</persName> hatten sich lutherische Theologen aus <placeName ref="61">Bremen</placeName> und <placeName ref="1750">Lüneburg</placeName> in mehreren Anläufen um eine einheitliche Durchführung der Reformation in <placeName ref="734">Ostfriesland</placeName> bemüht. Ergebnis ihrer Bestrebungen waren die lutherisch geprägten Kirchenordnungen von 1529 und 1535; s. Die evangelischen Kirchenordnungen des XVI. Jahrhunderts, hg. v. Emil Sehling, fortgeführt vom Institut für evangelisches Kirchenrecht der Evangelischen Kirche in Deutschland zu Göttingen, Bd. VIII/II/1, Tübingen 1963, S. 316-320 bzw. 360-397.</fn>
+			<fn ref="13">Der grammatikalisch verworrene Satz ist wohl etwa wie folgt aufzulösen: [Quomodo ... abstrahemus,] si papisticus panis sum enim. ydolo notatus, vestes, candele, altaria, idola permanserint? Si panem papistarum ritu in os ingeramus?</fn>
+			<fn ref="14">Der Ausdruck "sedes lanternaria" ist nicht sicher zu deuten; ob es sich um einen Ortsnamen handelt, bleibt offen.</fn>
+			<fn ref="15" type="bio" fk_person="18040">Mäzen (vgl. Peter L. <i>Schmidt,</i> in: <bibl>KP</bibl> III 860-862). - Gemeint ist wahrscheinlich <persName ref="18040">Hero von Oldersum</persName>, den <persName ref="179">Aquilomontanus</persName> in einem Brief vom 7. März 1542 als seinen Mäzen bezeichnet. Vgl. Finedrich <i>Ritter,</i> Henricus Ubbius' Beschreibung von <placeName ref="734">Ostfriesland</placeName>, in: Jahrbuch der Gesellschaft für bildende Kunst und vaterländische Altertümer zu Emden 18/1, 1913, S. 91f, Anm. 45; <i>Kochs,</i> aaO, S. 98, Anm. 1.</fn>
+			<fn ref="16">Becher (scyphus).</fn>
+			<fn ref="17">Welche "Sophisten" gemeint sind, bleibt offen, da über die Herkunft von <persName ref="179">Aquilomontanus</persName> nichts bekannt ist.</fn>
+			<fn ref="18">etwa im Sinne von: erhalte ich ein Gnadenbrot (vgl. Lev 19, 10; Dtn 24, 21).</fn>
+			<fn ref="19">Vgl. <bibl>Otto</bibl> 139f, Nr. 680.</fn>
+			<fn ref="20">Vgl. Mt 11, 29f.</fn>
+			<fn ref="21">Die Anspielung bezieht sich wohl auf Jes 63, 1-3, wo von roten Kleidern die Rede ist.</fn>
+			<fn ref="22">Zu dieser Beschreibung der alten friesischen Frauentracht vgl. <i>Ritter,</i> aaO, S. 109f, Anm. 85.</fn>
+			<fn ref="23">Prüfung (probae).</fn>
+			<fn ref="24">Bullinger lehnte eine Zulassungsprüfung zum Abendmahl - anders als <persName ref="540">Calvin</persName> - entschieden ab, da er fürchtete, damit würde der Rückkehr zur Privatbeichte Vorschub geleistet; vgl. z. B. Corr. des réformateurs VII 74 und IX 118f.</fn>
+			<fn ref="25">Vgl. Jer 4,3.</fn>
+			<fn ref="26">Gemeint ist die Vorrede zur Neuausgabe von Bullingers "De origine erroris" (s. oben Anm. 9); zu ergänzen ist: mones.</fn>
+			<fn ref="27">AaO, f. *2r.</fn>
+			<fn ref="28">d. h. durch bloßes Fürwahrhalten (zur Prägung des Begriffs "fides historica" durch <persName ref="2095">Melanchthon</persName> und zu seiner Verwendung bei <persName ref="4091">Zwingli</persName> s. Christof <i>Gestrich,</i> <persName ref="4091">Zwingli</persName> als Theologe. Glaube und Geist beim Zürcher Reformator, Diss. theol., Zürich/Stuttgart 1967, S. 29-31, Anm. 36).</fn>
+			<fn ref="29"><persName ref="1753">Leo Jud</persName> hat vor allem <persName ref="4091">Zwinglis</persName> Auslegungen von Teilen der Bibel herausgegeben und mehrere seiner Schriften aus dem Lateinischen ins Deutsche und umgekehrt übersetzt. Vgl. das Verzeichnis seiner gedruckten Werke in: Karl-Heinz <i>Wyss,</i> <persName ref="1753">Leo Jud</persName>. Seine Entwicklung zum Reformator 1519-1523, Bern 1976. - Europäische Hochschulschriften III/61, S. 196-201.</fn>
+			<fn ref="30">Das Gerücht bezog sich wohl auf die Zürcher Tagung vom 28. April bis 3. Mai 1538; vgl. <bibl>HBBW</bibl> VIII <link fk_file="11171">[Nr. 1128]</link>, S. 132, Anm. 1.</fn>
+			<fn ref="31">Vgl. Adagia, 1, 8, 69 (<bibl>LB</bibl> II 324); <bibl>Otto</bibl> 98, Nr. 467.</fn>
+			<fn ref="32">Zu <persName ref="8049">Vadians</persName> "Aphorismorum libri sex de consideratione eucharistiae" s. <bibl>HBBW</bibl> V <link fk_file="10684">[Nr. 646]</link>, S. 360, Anm. 9.</fn>
+			<fn ref="33">Vgl. Adagia, 1, 4, 99 (<bibl>LB</bibl> II 180).</fn>
+			<fn ref="34">Vgl. Röm 13, 14; Gal 3, 27.</fn>
+			<fn ref="35">Gemeint sind <persName ref="8127">Pellikans</persName> "Commentaria bibliorum", von denen zwischen 1532 und 1537 bereits sechs Teile erschienen waren (s. <bibl>BZD</bibl> C 217. 256f. 266).</fn>
+			<fn ref="36">Vgl. Joh 17, 11. 21-23.</fn>
+			<fn ref="37">Zum geplanten Religionsgespräch in <placeName ref="361">Nürnberg</placeName> vgl. oben <link fk_file="11304">Nr. 1261</link>, Anm. 6.</fn>
+			<fn ref="38">Vgl. Mt 10, 34.</fn>
+			<fn ref="39">Vgl. 1Kor 1, 18. 23.</fn>
+			<fn ref="40">Siehe oben Anm. 20.</fn>
+			<fn ref="41">Vgl. Joh 14, 17.</fn>
+			<fn ref="42">Vgl. 1Kor 7, 35.</fn>
+			<fn ref="43">Vgl. oben Z. 91-95.</fn>
+			<fn ref="44">geführt wird; s. René Hoven, Lexique de la prose latine de la renaissance, Leiden 1994, S. 213.</fn>
+			<fn ref="45">Vgl. 2Kor 11, 14; Gal 1, 8.</fn>
+			<fn ref="46">Vgl. 2Kor 11,3.</fn>
+			<fn ref="47">Vgl. Adagia, 1, 8, 6 (<bibl>LB</bibl> II 304f).</fn>
+			<fn ref="48">Die Devise "nec spe nec metu", Wahlspruch von <persName ref="7259">Isabella d'Este</persName>, <persName ref="18575">Philipp II.</persName> u. a., geht zurück auf <persName ref="4544">Cicero</persName>, Epistulae ad familiares, 10, 8, 7. Vgl. Jacopo <i>Gelli,</i> Divise, motti e imprese di famiglie e personaggi italiani, 2. Aufl., Milano 1928, <link fk_file="11265">Nr. 1222</link>.</fn>
+			<fn ref="49">Vgl. 1Kor 13, 4-7.</fn>
+			<fn ref="50">Vgl. Röm 15, 1.</fn>
+			<fn ref="51">Zu <persName ref="8350">Francks</persName> "Paradoxa" vgl. <bibl>HBBW</bibl> V <link fk_file="10699">[Nr. 661]</link>, S. 390, Anm. 9.</fn>
+			<fn ref="52">Vgl. <bibl>Otto</bibl> 320f. Nr. 1638.</fn>
+			<fn ref="53">Vgl. <persName ref="18700">Augustin</persName>, In Iohannis euangelium tractatus 7, 2, 23f; 26, 5, 33 (CChr XXXVI 68. 262).</fn>
+			<fn ref="54">Vgl. etwa <persName ref="6927">Juan Luis Vives</persName>, De conscribendis epistolis, 6-10 (Critical Edition with Introduction, Translation and Annotation by Charles Fantazzi, Leiden 1989. - Selected Works of J. L. Vives, Bd. III, S. 28-35).</fn>
+			<fn ref="55">Vgl. Adagia, 1, 8, 47 (<bibl>LB</bibl> II 316).</fn>
+		</num>
+	</footnotes>
+</file>

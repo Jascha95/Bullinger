@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11294" id_hbbw="1251" id_irg_sort="1251" id_sort="112510">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11294</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1251</arpa>
+		<scan_pages>
+			<scan id="26261" dir="11294/Autograph/" page="1">00 E_II_446__fol__386_r_.tif</scan>
+			<scan id="26262" dir="11294/Autograph/" page="2">01 E_II_446__fol__386_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22922" vf="1" fk_add_type="1">
+				<person id="2270" fk_id="2270">
+					<name>Münster</name>
+					<forename>Sebastian</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22923" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11294">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">4</month>
+				<day fk_d="" d="" vf="1" fn="">8</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17766">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 446,386</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9521" fk_bib="0">
+				<entry>David Pulvermacher, Drei Briefe Sebastian Münsters, in: Theologische Studien und Kritiken 66, 1893, S. 801f</entry>
+			</print>
+			<print id="9888" fk_bib="0">
+				<entry>Briefe Sebastian Münsters. Lateinisch und deutsch, hg. v. Karl Heinz Burmeister, Ingelheim am Rhein 1964, S. 37–40.</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="14">
+				<lang id="5" iso="la" count="14" p="100.0"/>
+			</sentences>
+			<words count="243">
+				<lang id="5" iso="la" count="243" p="100.0"/>
+			</words>
+			<chars count="1462">
+				<lang id="5" iso="la" count="1462" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1251" page="102">
+		<div ref="1">
+			Dankt für die Zuschrift und rühmt Bullingers Vorrede [zu <persName ref="2270">Münsters</persName>
+			„Biblia sacra“, Zürich (<persName ref="1227">Christoph Froschauer</persName>) 1539]; einige Theologen
+			üben Kritik an seiner Übersetzung des Alten Testaments aus dem Hebräischen und meinen, daß diese besser
+			unterblieben wäre. Wird nun an der Geographie des Ptolemäus [„Geographia universalis“,
+			<placeName ref="28">Basel</placeName> (<persName ref="6073">Heinrich Petri</persName>) 1540]
+			und am christlichjüdischen Streitgespräch [„Messias Christianorum et Iudaeorum“,
+			<placeName ref="28">Basel</placeName> (<persName ref="6073">Heinrich Petri</persName>) 1539]
+			arbeiten; zwei Bogen davon sind bereits auf hebräisch gedruckt.
+		</div>
+	</regest>
+	<letter lang="la" edition="Burmeister" vol="" fk_bibliography="719" nr="" page="">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Henrico Bullingero, viro vere Christiano, apud Tigurinos verbi divini tubicini strenuo et ministro Christi fideli.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Salutem et pacem in Domino.</s>
+				<s n="3" lang="la" state="auto">Quae scripsisti, vir clarissime, accepi et legi, nec est, ut tu studiosorum nomine mihi gratias referas pro laboribus meis, cum potius ego et omnes studiosi tibi plurimum debeamus, qui meum laborem tuis scriptis usque adeo exornaris.</s>
+				<s n="4" lang="la" state="auto">Placet supra modum diligentia tua et prologus ille tuus theologicus, quem ego nunquam ex ingenii mei officina tanta cudere potuissem industria.</s>
+				<s n="5" lang="la" state="auto">Agnosco hic nolim velim ingenii mei tarditatem, immo obtusitatem, et rursum suspicio dona tibi et multis aliis vere Christianis viris a largitore omnium bonorum concessa, tantum abest, ut haec exigua, quae desursum accepi, in mentis efferant elationem.</s>
+				<s n="6" lang="la" state="auto">Timeo, ne favore quodam ingenuo propensior fueris in laudem meam quam debueras, cum doctiores quique, qui hic inveniuntur et pro magnis in theologia suspiciuntur, malint operam meam, quam veteri testamento iuxta Hebraismum vertendo adhibui, intermissam.</s>
+				<s n="7" lang="la" state="auto">Irritat enim eos sermonis et stili mei simplicitas offenditque indocta praesumptio, sed iacta est alea.</s>
+				<s n="8" lang="la" state="auto">Feci, quod potui, qui meliora habent et maiora possunt, eructent, quae ipsi acceperunt.</s>
+				<s n="9" lang="la" state="auto">Non omnes omnia possumus.</s>
+				<s n="10" lang="la" state="auto">Unus quidem sic, alius autem sic, prout quisque a Domino accepit, dispensatorem agit mysteriorum concreditorum.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Praeter Ptolemaei Geographiam iam molior quoque Iudaei et Christiani hominis in fide concertationem et iam quidem duae chartae Hebraice impressae sunt inceptusque est libellus; Dominus donet, ut pro gloria nominis sui ad finem usque feliciter perducatur.</s>
+				<s n="12" lang="la" state="auto">Vale Christi minister et administrator fidelis.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Basileae, tertia Paschae.</s>
+				<s n="14" lang="la" state="auto">Sebast. Munsterus</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="719" nr=""/>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1251" page="102"/>
+			<footnotes fk_bibliography="11" nr="1251">
+				<alpha/>
+				<num>
+					 <fn ref="1">Das Jahr ergibt sich aus der Bezugnahme auf Bullingers Vorrede zur Münster-Bibel (vgl. dazu oben <link fk_file="11280">Nr. 1237</link>, 25-28 mit Anm. 10.).</fn>
+					 <fn ref="2">Mit irrtümlicher Datierung auf den 6. April.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

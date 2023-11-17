@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11379" id_hbbw="1336" id_irg_sort="1336" id_sort="113360">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11379</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1336</arpa>
+		<scan_pages>
+			<scan id="26440" dir="11379/Autograph/" page="1">00 E_II_335__fol__2033_r_.tif</scan>
+			<scan id="26441" dir="11379/Autograph/" page="2">01 E_II_335__fol__2033_v_.tif</scan>
+			<scan id="26442" dir="11379/Autograph/" page="3">02 E_II_335__fol__2034_r_.tif</scan>
+			<scan id="26443" dir="11379/Autograph/" page="4">03 E_II_335__fol__2034_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23100" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="280" vf="1" fk_id="280" long="6.63282" lat="46.516">Lausanne</place>
+				<district id="195">Waadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23101" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11379">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">12</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17850">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 335,2033r.–2034v.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7495" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Corr. des réformateurs VI, S. 146–150, Nr. 840</entry>
+			</print>
+			<print id="7496" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Paul Boesch, Zwingli-Gedichte (1539) des Andreas Zebedeus und des Rudolph Gwalther, in: Zwa IX/4, 1950, S. 208–220</entry>
+			</print>
+			<print id="7497" fk_bib="0">
+				<bib_type id="8">Teilübersetzung</bib_type>
+				<entry>Paul Boesch, Zwingli-Gedichte (1539) des Andreas Zebedeus und des Rudolph Gwalther, in: Zwa IX/4, 1950, S. 208–220</entry>
+			</print>
+			<print id="11162" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1336, S. 260</entry>
+				<page>260</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="81">
+				<lang id="5" iso="la" count="81" p="100.0"/>
+			</sentences>
+			<words count="1103">
+				<lang id="6" iso="el" count="1" p="0.1"/>
+				<lang id="5" iso="la" count="1102" p="99.9"/>
+			</words>
+			<chars count="6353">
+				<lang id="6" iso="el" count="6" p="0.1"/>
+				<lang id="5" iso="la" count="6347" p="99.9"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1336" page="260">
+		<div ref="1">
+			Hat den Brief vom 2. November erst am 10. Dezember erhalten, schreibt aber auch wegen Botenmangels erst
+			jetzt. Sein Studium verläuft befriedigend; er ist froh, daß sich Bullinger bei den [Zürcher] Schulvorstehern
+			für ihn einsetzte. Ein deutscher Kaufmann lädt ihn nach <placeName ref="167">Genf</placeName> ein,
+			weil er sich in Mathematik unterrichten lassen möchte; <persName ref="8011">Gwalther</persName> bittet
+			Bullinger, ihm zu raten - auch im Hinblick auf einen Wechsel des Studienorts im Frühjahr - und für sein
+			Stipendium besorgt zu sein. <persName ref="18538">Kaiser [Karl V.]</persName> soll nach
+			<placeName ref="378">Paris</placeName> kommen und dort angeblich auch
+			Papst <persName ref="19981">[Paul III.]</persName> treffen, und <persName ref="18505">König [Heinrich VIII.] von England</persName> soll Herzog
+			[Wilhelm] von Kleve seine Tochter
+			[Maria] zur Ehe gegeben haben;
+			<persName ref="8011">Gwalther</persName> hat von der
+			[<placeName ref="157">Frankfurter</placeName>] Messe keine Nachrichten aus
+			<entity id="9" type="geo_country">England</entity> erhalten und möchte wissen, ob
+			<persName ref="8422">Nicholas [Partridge]</persName> geschrieben
+			hat. <persName ref="8292">Andreas Zebedäus</persName> hat ein deutsches Gedicht auf
+			<persName ref="6205">Reuchlin</persName>, <persName ref="2442">Oekolampad</persName>,
+			<persName ref="18722">Erasmus</persName>, <persName ref="1974">Luther</persName> und
+			<persName ref="4091">Zwingli</persName> in lateinische Verse gebracht;
+			<persName ref="8011">Gwalther</persName> schickt sie zusammen mit einigen Distichen über
+			<persName ref="4091">Zwingli</persName> und übermittelt Grüße des Dichters. Fügt zwei selbstverfaßte
+			Epitaphien über <persName ref="4091">Zwingli</persName> und eines über
+			<persName ref="18451">Clemens VII.</persName> bei und stellt
+			weitere Gedichte in Aussicht. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1336" page="260">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Literas<fl>1</fl> tuas secundo novembris scriptas, pater colendissime, decimo decembris <placeName ref="280">Lausannensium</placeName> praefectus<fl>2</fl> a <placeName ref="41">Berna</placeName><fl>a</fl> ad me attulit<fl>3</fl>.</s>
+				<s n="3" lang="la" state="auto">Moram tantam intercessisse miror nec dubito, quin vęhementer meum admireris silentium, cum antea tantopere scribendi offitium efflagitaris, quod tamdiu a me intermissum esse non tam tibi quam mihi molestissimum fuit.</s>
+				<s n="4" lang="la" state="auto">Nihil enim est, quo perinde delector quam tuarum literarum lectione mearumque ad te missione.</s>
+				<s n="5" lang="la" state="auto">Quo autem minus aliquandiu scripserim, tabellariorum impedimento fuit raritas, cum literę meae omnes <placeName ref="28">Basileam</placeName> (<placeName ref="41">Bernę</placeName> enim cui mitterem, noveram neminem) mittendę essent.</s>
+				<s n="6" lang="la" state="auto">Nunc vero, postquam hanc mihi ad te scribendi facultatem occasionemque aperueris, efficiam sane, ne posthac silentium meum incusare possis.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Rerum mearum conditio semper sibi similis existit, nec infoeliciter, quantum ego coniicere possum, studia succedunt; ea enim mutuo <persName ref="1283">Conradus</persName><fl>4</fl> noster et ego communicamus.</s>
+				<s n="8" lang="la" state="auto">Quod tam fido animo meam apud collegii praesides caussam tutatus sis<fl>5</fl>, satis dignas gratias agere non potero; curabo<pb_edition start_of="261"/> autem, ne quid simile committatur.</s>
+				<s n="9" lang="la" state="auto">Verebar hercle hoc plurimum; tuo tamen patrocinio confisus aliquid mihi etiam Othonis<fl>6</fl> consilio hac in re audendum duxi.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Est <placeName ref="167">Genevę</placeName> Germanus quidam mercator<fl>7</fl> mediocriter doctus, qui sępius iam literis<fl>8</fl> suis me <placeName ref="167">Genevam</placeName> allicere conatus est; mathematicę enim studiosus existens opera mea uti expetit.</s>
+				<s n="11" lang="la" state="auto">Indicarunt me homini concionator <placeName ref="330">Morgiensis</placeName><fl>9</fl> et diaconus<fl>10</fl>.</s>
+				<s n="12" lang="la" state="auto">Hic aut suas mihi aedes offert aut <placeName ref="167">Genevensis</placeName> typographi<fl>11</fl>.</s>
+				<s n="13" lang="la" state="auto">Labores meos iusta mercede se compensaturum promittit.</s>
+				<s n="14" lang="la" state="auto">Ego, quid agam, incertus sum.</s>
+				<s n="15" lang="la" state="auto">Tuum, quid mihi agendum sit, consilium expecto.</s>
+				<s n="16" lang="la" state="auto">Quare rogo, ut, quam primum fieri poterit, ea de re mihi scribas.</s>
+				<s n="17" lang="la" state="auto">Indicabis etiam, quid nam vere ineunte de me instituere vobis<fl>b</fl> videatur.</s>
+				<s n="18" lang="la" state="auto">Cuperem ego sane, ut tempus illud peregrinationis meę claris urbibus et literarum studiis florentibus lustrandis insumere possem.</s>
+				<s n="19" lang="la" state="auto">Sed ea de re tuum omne esto consilium, cui nunquam refragabor.</s>
+				<s n="20" lang="la" state="auto">Stipendii quoque negotium omne tibi committo; neutiquam enim mei oblivionem te capturam arbitror.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Constans apud nos fama est cęsarem <placeName ref="378">Lutetiam</placeName> adventurum<fl>12</fl>, quo loci nonnulli quoque papam<fl>13</fl> adfuturum pollicentur.</s>
+				<s n="22" lang="la" state="auto">Quid nam hi consultaturi sint, nemo est, qui non iudicare possit.</s>
+				<s n="23" lang="la" state="auto">Anglię regem filiam suam Clevensi duci elocasse multi affirmant<fl>14</fl>.</s>
+				<s n="24" lang="la" state="auto">Ex Anglia hisce nundinis<fl>15</fl> nihil novi accepimus; te rogo, ut scribas, num literas a Nicolao<fl>16</fl> nostro acceperis numque valeat.</s>
+			</p>
+			<p>
+				<s n="25" lang="la" state="auto">Est Orbę<fl>17</fl> vir doctus natione Geldrus, <persName ref="8292">Andreas</persName> <persName ref="8292" state="auto_name">Zebedeus</persName><fl>18</fl> nomine, qui nunc verbi ministrum agit, qui, cum hisce diebus in carmina quaedam Germana<pb_edition start_of="262"/><fl>19</fl> incidisset, quibus <persName ref="6205">Capnionis</persName><fl>20</fl>, <persName ref="2442">Oecolampadii</persName>, <persName ref="18722">Erasmi</persName>, <persName ref="1974">Lutheri</persName> Zvingliique laudes continebantur, eadem latinis hisce<pb_scan n="2033v."/> versibus expressit; quos cum mire elegantes cernerem, etiam illo non invito ad te mittendos existimavi.</s>
+				<s n="26" lang="la" state="auto">Salutat te poeta ipse quam offitiosissime, brevique, ut arbitror, ad te scripturus est, fortassis et aestate futura vos invisurus; est enim Tigurinę ecclesiae amantissimus.</s>
+				<s n="27" lang="la" state="auto">Carmina ipsa hęc sunt:</s>
+			</p>
+			<p>
+				<s n="28" lang="la" state="auto">Non caruit naso, dum Naso poeta canebat<fl>21</fl>:<lb/> „Conveniunt rebus nomina saepe suis.“<lb/></s>
+				<s n="29" lang="la" state="auto">Sic natura trahit, sic nos devolvit in illa,<lb/> Quę signant certis nomina nostra notis.<lb/></s>
+				<s n="30" lang="la" state="auto">Plurima cuius eunt exempla per omnia fusa<lb/> Sęcula, quae longum est hoc memorare loco.<lb/></s>
+				<s n="31" lang="la" state="auto">Si tamen in dubium quis adhuc vocet improbus istud,<lb/> Ante oculos cursum temporis huius habet.<lb/></s>
+				<s n="32" lang="la" state="auto"><persName ref="6205">Capnio</persName> sic <el state="verified">καπνόν</el><fl>c</fl> Svevas diffudit in oras,<lb/> Et fumo ad flammam non male stravit iter,<lb/> Dum linguas genus omne sacro<fl>d</fl> de vertice profert<lb/> Et puram ex ipsis fontibus haurit aquam<fl>22</fl>.<lb/></s>
+				<s n="33" lang="la" state="auto">Altera nulla parem viderunt sęcula, per quem<lb/> Scripturę cępit planior esse via.<lb/><pb_edition start_of="263"/></s>
+				<s n="34" lang="la" state="auto">Post Oeclampadius foeliciter excitat ignem<lb/> Inque domo domini ceu nova flamma micat.<lb/></s>
+				<s n="35" lang="la" state="auto">Cuius ad efusos radios per opaca viarum<lb/> Multa retecta probe, quę male tecta prius.<lb/></s>
+				<s n="36" lang="la" state="auto">Tertius accedens post <persName ref="18722">Roterodamus Erasmus</persName><lb/> Mollit amabiliter, quę prius aspra nimis.<lb/></s>
+				<s n="37" lang="la" state="auto">Interea toto fit caussa celebrior orbe<lb/> Et patet ad magnum iam via plana decus.<lb/></s>
+				<s n="38" lang="la" state="auto">Lutherusque potens in arenam prodit et alta<lb/> Voce tonat, mundi qua stat uterque polus.<lb/></s>
+				<s n="39" lang="la" state="auto">Ad tonitru hoc summa, media atque etiam infima, quęque<lb/> Et dextra et lęva sunt sita parte, cremunt.<lb/></s>
+				<s n="40" lang="la" state="auto">Tum veri privata prius via publica facta est,<lb/> Qua magnam ad coenam quilibet ire queat<fl>23</fl>.<lb/></s>
+				<s n="41" lang="la" state="auto">Cui neque tam sero poterit quis adesse vel isto<lb/> Tempore, quin aliquem possit habere locum.<lb/></s>
+				<s n="42" lang="la" state="auto">Proinde nihil damni quo tantus sentiat hospes<lb/> Quoque queat numerum mensa tenere suum,<lb/> Omne hominum genus huc accersitur undique, non est<lb/> Personę acceptor<fl>24</fl>, qui bona tanta parat.<lb/></s>
+				<s n="43" lang="la" state="auto">Cuncti invitantur, vir, foemina, sanus et ęger,<lb/> Omnis et hic aetas, quo requiescat, habet.<lb/></s>
+				<s n="44" lang="la" state="auto">Duri homines, sylvestre genus<fl>25</fl>, turba impia perstant<lb/> Et spernunt amplas hospitis huius opes.<lb/></s>
+				<s n="45" lang="la" state="auto">Cogendi veniunt adhibendaque verbera verbis,<lb/> Ne misere miseri tanta perire sinant.<lb/></s>
+				<s n="46" lang="la" state="auto"><pb_scan n="2034r."/>Hoc ad opus pretii vir summi <persName ref="4091">Zvinglius</persName> unus<lb/> E paucis certo mittitur ore dei.<lb/></s>
+				<s n="47" lang="la" state="auto">Qui nihil ostendens animo subit omnia prompto,<lb/> Quę Christi servos et pia corda decent.<lb/></s>
+				<s n="48" lang="la" state="auto">Instat verbi armis et sancta voce senatus,<lb/> Aenea contra acres induit arma lupos<lb/></s>
+				<s n="49" lang="la" state="auto">Pro Christi caussa quidvis tentare paratus<lb/> Et promptus Christi nomine cuncta pati.<lb/></s>
+				<s n="50" lang="la" state="auto">Qui dum munus obit summa<fl>e</fl> pietate fideque,<lb/> Hic obit, imo abit hinc, et meliora tenet.<lb/><pb_edition start_of="264"/></s>
+				<s n="51" lang="la" state="auto">De <persName ref="4091">Zvinglio</persName> Zebedeus<fl>f</fl>:<lb/> Maiorem sperare nefas<fl>g</fl><fl>26</fl>, fortasse petendum,<lb/> Ut dent vel unum sęcula nostra parem.<lb/></s>
+				<s n="52" lang="la" state="auto">Os doctum, pectus sincerum, spiritus acer<lb/> Unius in laudes incubuere dei.<lb/></s>
+			</p>
+			<p>
+				<s n="53" lang="la" state="auto">Acclamatio<fl>h</fl>:<lb/> O evangelici vindex fortissime verbi,<lb/> O Christo, o patria[e]<fl>i</fl> fortiter ause mori!<lb/></s>
+			</p>
+			<p>
+				<s n="54" lang="la" state="auto">Lusi et ego nuper, dum succisivis horis poesi operam do, epitaphia quaedam, quę huc adscribo, non ut inter docta illa locum aliquem tenere digna sint, sed quia etiam nugacissima mea, quae saltem literas sapiunt, ad te mittere non erubesco, qui mihi et pater et pręceptor semper fueris.</s>
+			</p>
+			<p>
+				<s n="55" lang="la" state="auto"><persName ref="4091">Zvinglius</persName> ille pius tumulo requiescit in illo.<lb/></s>
+				<s n="56" lang="la" state="auto">Vis brevius?</s>
+				<s n="57" lang="la" state="auto">Pietas occupat hunc tumulum.</s>
+			</p>
+			<p>
+				<s n="58" lang="la" state="auto">Aliud eiusdem<fl>k</fl>:<lb/> <persName ref="4091">Zvinglius</persName> hic recubat, Tigurinę gloria gentis,<lb/> Eximius servus qui fuit usque dei.<lb/></s>
+				<s n="59" lang="la" state="auto">Hic est (si nescis), cuius nunc robore sancto<lb/> Strata est elati<fl>l</fl> gloria pontificis.<lb/></s>
+				<s n="60" lang="la" state="auto">Hic etenim primus <placeName ref="425">Romanę</placeName> semina pestis<lb/> Sustulit et sęvi moenia celsa papae.<lb/></s>
+				<s n="61" lang="la" state="auto">In dominum sancto semper flagravit amore,<lb/> Gloria dum sancti quęritur<fl>m</fl> alta dei.<lb/></s>
+				<s n="62" lang="la" state="auto">Dum patrię incolumem studuit servare salutem,<lb/> Pro patria chara<fl>n</fl> <persName ref="4091">Zvinglius</persName> acer obit.<lb/></s>
+				<s n="63" lang="la" state="auto">Ah patrię pudet ingratę describere facta.<lb/></s>
+				<s n="64" lang="la" state="auto">Sustulit, hei misere<fl>o</fl>, qui fuit usque pater.<lb/></s>
+				<s n="65" lang="la" state="auto">Sufficit haud sanctum ferro discindere corpus,<lb/> Impia sed sceleri congerit acre scelus.<lb/><pb_edition start_of="265"/></s>
+				<s n="66" lang="la" state="auto">Quatuor e cęso conscindunt corpore partes,<lb/> Et dantur flammae mortua membra viri<fl>27</fl>.<lb/></s>
+				<s n="67" lang="la" state="auto"><pb_scan n="2034v."/>Consumpsit sęvo corpus cum robore flamma,<lb/> In corda ast ignis fortia non valuit<fl>28</fl>.<lb/></s>
+				<s n="68" lang="la" state="auto">Corda igitur duro conduntur marmore sancta,<lb/> Namque vorax nobis corpora flamma tulit.<lb/></s>
+				<s n="69" lang="la" state="auto">Pręteriens lapidis cernis cum signa, viator,<lb/> Subveniant sancti dogmata sancta viri.</s>
+			</p>
+			<p>
+				<s n="70" lang="la" state="auto">Epitaphium Clementis<fl>29</fl> p[iae] m[emoriae]<fl>p</fl>:<lb/> Hic recubat <persName ref="18451">Clemens</persName>, <placeName ref="425">Romanę</placeName> dedecus urbis.<lb/></s>
+				<s n="71" lang="la" state="auto">Vis brevius?</s>
+				<s n="72" lang="la" state="auto">Lapis hic contegit omne scelus.</s>
+			</p>
+			<p>
+				<s n="73" lang="la" state="auto">Hęc nunc, charissime pater, aequi bonique consulas, obsecro.</s>
+				<s n="74" lang="la" state="auto">Plura scribere nec tabellarii<fl>30</fl> festinatio permisit, nec aliqua occurrerunt, quibus operępretium videretur studia tua interturbare.</s>
+				<s n="75" lang="la" state="auto">Dabimus fortassis brevi etiam alia, si hęc tibi non ingrata fuisse comperimus.</s>
+			</p>
+			<p>
+				<s n="76" lang="la" state="auto">Plurima salute te familiamque universam impertit <persName ref="1283">Conradus</persName><fl>31</fl> noster et eius uxor<fl>32</fl>.</s>
+				<s n="77" lang="la" state="auto">Salutabis et tu nomine meo uxorem<fl>33</fl> matremque<fl>34</fl> tuam cum omni liberorum coetu<fl>35</fl> reliquaque familia.</s>
+			</p>
+			<p>
+				<s n="78" lang="la" state="auto"><placeName ref="280">Lausannę</placeName>, 12. decembris 1539.</s>
+			</p>
+			<p>
+				<s n="79" lang="la" state="auto">Tui observantissimus</s>
+			</p>
+			<p>
+				<s n="80" lang="la" state="auto"><persName ref="8011">Rodolphus Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="81" lang="la" state="auto">Vere docto et pio viro d. Heinrycho Bullingero, Tigurinae ecclesię episcopo vigilantissimo, patri suo plurimum colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1336">
+		<alpha>
+			<fn ref="a"><i>vor</i> Berna <i>ein gestrichenes Zeichen.</i></fn>
+			<fn ref="b">vobis <i>anstelle von gestrichenem</i> cons[?] <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="c"><i>in der Vorlage</i> <el state="verified">κάπνον</el>.</fn>
+			<fn ref="d"><i>nach</i> sacro <i>gestrichenes</i> sacro.</fn>
+			<fn ref="e"><i>vor</i> summa <i>ein gestrichener Wortanfang.</i></fn>
+			<fn ref="f">De Zvinglio Zebedeus <i>unterstrichen.</i></fn>
+			<fn ref="g"><i>vor</i> nefas <i>ein gestrichener Buchstabe.</i></fn>
+			<fn ref="h">Acclamatio <i>unterstrichen, korrigiert aus</i> Acclammatio.</fn>
+			<fn ref="i"><i>unvollständig korrigiert aus</i> Pro Christo et patria.</fn>
+			<fn ref="k">Aliud eiusdem <i>unterstrichen.</i></fn>
+			<fn ref="l">elati <i>anstelle von gestrichenem</i> superbi <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="m"><i>nach</i> quaeritur <i>gestrichenes</i> usque dei.</fn>
+			<fn ref="n">chara <i>unterstrichen, dazu am Rande (ebenfalls unterstrichenes)</i> ingrata.</fn>
+			<fn ref="o">hei misere <i>anstelle eines radierten, unlesbaren Wortes.</i></fn>
+			<fn ref="p">Epitaphium Clementis p. m. <i>unterstrichen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten.</fn>
+			<fn ref="2"><persName ref="5981">Sebastian Nägeli</persName>, vgl. <bibl>HBLS</bibl> V 230.</fn>
+			<fn ref="3">Vgl. auch oben <link fk_file="11374">Nr. 1331</link>, 19.</fn>
+			<fn ref="4"><persName ref="1283">Konrad Geßner</persName>.</fn>
+			<fn ref="5">Näheres ist dazu nicht bekannt.</fn>
+			<fn ref="6"><persName ref="8459">Otto Werdmüller</persName>.</fn>
+			<fn ref="7">In <placeName ref="167">Genf</placeName> waren mehrere deutschsprachige Kaufleute ansässig; der bedeutendste von ihnen war <persName ref="5470">Hans Kleberger</persName> aus <placeName ref="361">Nürnberg</placeName> (vgl. Corr. des réformateurs VI 147, Anm. 6; zu Kleberger: <bibl>NDB</bibl> XI 718f).</fn>
+			<fn ref="8">Nicht erhalten.</fn>
+			<fn ref="9"><persName ref="18061">Jacques Le Coq</persName>.</fn>
+			<fn ref="10">Nicht namentlich bekannt.</fn>
+			<fn ref="11">Welcher <placeName ref="167">Genfer</placeName> Drucker gemeint ist, bleibt ungewiß. Wegen seiner ebenfalls deutschen Herkunft kommt vielleicht am ehesten <placeName ref="1764">Wigand Köln</placeName> in Frage; vgl. <bibl>HBLS</bibl> IV 5211.</fn>
+			<fn ref="12"><persName ref="18538">Karl V.</persName> traf am 1. Januar 1540 in <placeName ref="378">Paris</placeName> ein; s. Christoph Friedrich <i>Stälin,</i> Aufenthaltsorte K. Karls V., in: Forschungen zur Deutschen Geschichte V, 1865, S. 574.</fn>
+			<fn ref="13"><persName ref="19981">Paul III.</persName></fn>
+			<fn ref="14">Zwar hatte es 1538/39 Pläne gegeben, Maria Tudor mit Herzog Wilhelm von Kleve zu verheiraten, doch war stattdessen bereits am 6. Oktober ein Ehevertrag zwischen <persName ref="18505">König Heinrich VIII.</persName> und <persName ref="6253">Anna von Kleve</persName> geschlossen worden; s. David <i>Loades,</i> Mary Tudor. A Life, Oxford/ Cambridge, Mass. 1989, S. 126f.</fn>
+			<fn ref="15">Zum Termin der Frankfurter Herbstmesse s. <bibl>HBBW</bibl> VI <link fk_file="10925">[Nr. 884]</link>, S. 406, Anm. 5.</fn>
+			<fn ref="16"><persName ref="8422">Nicholas Partridge</persName>.</fn>
+			<fn ref="17"><placeName ref="366">Orbe</placeName> (Kt. Waadt).</fn>
+			<fn ref="18" type="bio" fk_person="8292"><persName ref="8292">Andreas Zebedäus (André Zébédée)</persName>, aus <entity id="8" type="geo_region">Brabant</entity>, studierte wohl in <placeName ref="1322">Löwen</placeName> und <placeName ref="378">Paris</placeName> und lehrte 1533 bis mindestens 1536 als angesehener Humanist in <placeName ref="1765">Bordeaux</placeName>. Offenbar bereits stark von der Lehre <persName ref="4091">Zwinglis</persName> geprägt, kam er nach einem Aufenthalt in <placeName ref="167">Genf</placeName> 1538 als Pfarrer nach <placeName ref="366">Orbe</placeName>. Wegen verschiedener Konflikte wechselte er 1545 (vorübergehend bereits 1542) nach Yverdon. 1546/47 wurde er Vorsteher des Stipendiatenkollegs und Lektor der Freien Künste in Lausanne. Hier entwickelte er sich zu einem führenden Gegner Virets und Calvins, gegen die er während einiger Jahre heftige Kämpfe ausfocht, insbesondere 1548 über das Abendmahl und das geistliche Amt und 1554/55 über die Prädestination. 1549 wurde er als Schulleiter nach Yverdon versetzt; bald darauf kam er als Pfarrer nach Bière und 1552 nach Nyon (s. Ulrich Moser, Schultheiss Hans Steiger. Bern und die Waadt in der Mitte des 16. Jahrhunderts, Bern 1977. - Schriften der Berner Burgerbibliothek, S. 127, Anm. 41). Hier starb er zwischen 1570 und 1575. Mit Bullinger scheint er nicht in direkten Kontakt getreten zu sein; der unadressierte Brief Bullingers vom 22. November 1543 (Corr. des réformateurs IX 116-122, <link fk_file="11355">Nr. 1312</link>) ist entgegen der Vermutung Herminjards kaum an ihn gerichtet. - Lit.: Corr. des réformateurs V-IX, Reg.; <bibl>CO</bibl> X/2-XVII und XXI, Reg.; <i>Hundeshagen,</i> passim; Henri <i>Vuilleumier,</i> Histoire de l'Eglise réformée du Pays de Vaud sous le régime bernois, Bd. I, Lausanne 1927, passim, und Bd. IV, Lausanne 1933, S. 759f.</fn>
+			<fn ref="19" type="bio" fk_person="7228">In deutscher Fassung findet sich das Gedicht auf dem Holzschnittporträt <persName ref="4091">Zwinglis</persName> von <persName ref="5814">Augustin Mellis, gen. Fries</persName> (um 1540/50); Verfasser war möglicherweise <persName ref="1753">Leo Jud</persName>. Vgl. <i>Boesch,</i> aaO, S. 214-217; Gottfried W. <i>Locher,</i> Eine alte Deutung des Namens <persName ref="4091">Zwingli</persName>, in: <bibl>Zwa</bibl> <i>IX/5,</i> 1951, S. 307-310.</fn>
+			<fn ref="20"><persName ref="6205">Johannes Reuchlin</persName>.</fn>
+			<fn ref="21">Das Sprichwort geht nicht auf <persName ref="19911">Ovid</persName> zurück. Der älteste bekannte Beleg findet sich in einem um 1230 entstandenen Gedicht <persName ref="18312">Richards von Venosa</persName>; vgl. <i>Boesch,</i> aaO, S. 214.</fn>
+			<fn ref="22">Vgl. <bibl>HBBW VI</bibl> <link fk_file="10803">[Nr. 765]</link>, S. 170, 34f mit Anm. 4.</fn>
+			<fn ref="23">Zu dieser und den folgenden Zeilen vgl. das Gleichnis vom großen Gastmahl in der Fassung von Lk 14, 15-24.</fn>
+			<fn ref="24">Vgl. Apg 10, 34.</fn>
+			<fn ref="25">die "Waldleute" aus den katholischen Waldstätten (vgl. <bibl>HBLS</bibl> VII 369f).</fn>
+			<fn ref="26">In einem Brief an <persName ref="6235">Farel</persName> vom 26. Februar 1540 kritisiert <persName ref="540">Calvin</persName> dieses Lob <persName ref="4091">Zwinglis</persName> als maßlos; s. <bibl>CO</bibl> XI 24.</fn>
+			<fn ref="27"><persName ref="4091">Zwinglis</persName> Leichnam wurde gevierteilt und verbrannt; vgl. <bibl>HBRG</bibl> III 167f.</fn>
+			<fn ref="28">Zur Legende vom unverbrannten Herzen <persName ref="4091">Zwinglis</persName> vgl. Gottfried W. <i>Locher,</i> Die Legende vom Herzen <persName ref="4091">Zwinglis</persName> neu untersucht. Ein Beitrag zur Geistesgeschichte der Zürcher Reformation, in: <bibl>Zwa</bibl> IX/10, 1953, S. 563-576.</fn>
+			<fn ref="29"><persName ref="18451">Papst Clemens VII.</persName></fn>
+			<fn ref="30">Unbekannt; vgl. unten <link fk_file="11383">Nr. 1340</link>, 2f.</fn>
+			<fn ref="31"><persName ref="1283">Konrad Geßner</persName>.</fn>
+			<fn ref="32"><persName ref="4950">Barbara Singysen</persName>.</fn>
+			<fn ref="33" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="34" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+			<fn ref="35">Siehe oben <link fk_file="11260">Nr. 1217</link>, Anm. 46, und <link fk_file="11320">Nr. 1277</link>, Anm. 17.</fn>
+		</num>
+	</footnotes>
+</file>

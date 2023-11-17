@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12810" id_hbbw="2761" id_irg_sort="2761" id_sort="127610">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12810</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2761</arpa>
+		<scan_pages>
+			<scan id="29984" dir="12810/Autograph/" page="1">00 E_II_336__fol__285_v_.tif</scan>
+			<scan id="29985" dir="12810/Autograph/" page="2">01 E_II_336__fol__285_r_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26159" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26160" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12810">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">20</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19376">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 336a,269 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9027" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 929–931, Nr. 1046</entry>
+			</print>
+			<print id="12338" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2761, S. 157</entry>
+				<page>157</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="42">
+				<lang id="1" iso="de" count="1" p="2.4"/>
+				<lang id="5" iso="la" count="41" p="97.6"/>
+			</sentences>
+			<words count="648">
+				<lang id="1" iso="de" count="1" p="0.2"/>
+				<lang id="6" iso="el" count="1" p="0.2"/>
+				<lang id="5" iso="la" count="646" p="99.7"/>
+			</words>
+			<chars count="3771">
+				<lang id="1" iso="de" count="9" p="0.2"/>
+				<lang id="6" iso="el" count="9" p="0.2"/>
+				<lang id="5" iso="la" count="3753" p="99.5"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2761" page="156">
+		<div ref="1">
+			[1] Ganz offensichtlich hat Christus [den Protestanten] seinen Beistand entzogen und die Deutschen und
+			Eidgenossen ängstlich gestimmt, sodass diese nicht entschlossen und pflichtbewusst für ihr Vaterland
+			eintreten. 15000 Spanier und <entity id="16" type="geo_country">Italiener</entity> verwüsten und besetzen
+			ungehindert die oberdeutschen Städte, deren Obrigkeiten sogar bei Androhung von schweren Strafen jeglichen
+			Widerstand untersagen! Es ist nicht zu fassen!
+		</div>
+		<div ref="2">
+			[2] Dabei bereichern sich die gottlosen Feinde und stürzen die Deutschen ins Elend. Eidgenössische Söldner,
+			die von den Spaniern aufgerieben wurden, ziehen als verachtete Bettler umher. Die übrigen Eidgenossen sitzen
+			untätig daheim und erwarten das gleiche Schicksal wie die
+			<entity id="78" type="geo_region">Schwaben</entity>, als wollten sie lieber alleine zugrunde gehen als mit
+			den anderen siegen! <persName ref="18538">Kaiser Karl V.</persName> häuft das Gold und Silber der Deutschen deshalb an, um überall neue
+			Soldaten anzuwerben, sogar aus dem<pb_edition start_of="157"/> [protestantischen Lager] (viele
+			<placeName ref="572">Württemberger</placeName> sind ihm schon zugelaufen, weil die
+			<placeName ref="492">Straßburger</placeName> nicht mehr mustern). Mit diesen Truppen wird er die
+			[Protestanten] besiegen!
+		</div>
+		<div ref="3">
+			[3] Da Letztere solches in ihren Beratungen nicht berücksichtigen wollen, muss man davon ausgehen, dass
+			Gott sie strafen will. Glücklich diejenigen, die Gottes Vorhaben verstehen und sich geduldig seinem Willen
+			anvertrauen, auch wenn es sie sogar körperlich schmerzt, all dies mitansehen zu müssen, besonders weil sie
+			genau wissen, dass man Erfolg gehabt hätte, wenn man sich nur hätte wehren wollen! Doch es geschehe der
+			<bibl>Wille</bibl> des Herrn. Er gebe Standhaftigkeit im Glauben!
+		</div>
+		<div ref="4">
+			[4] Über die <placeName ref="513">Ulmer</placeName>,
+			<placeName ref="157">Frankfurter</placeName> und
+			<placeName ref="572">Württemberger</placeName> ist Bullinger bestimmt besser informiert als
+			<persName ref="8418">Myconius</persName>. Außerdem wird <persName ref="8032">Francisco de Enzinas</persName> [bei seinem Besuch in Zürich] darüber berichten. Angeblich
+			wollen die <placeName ref="513">Ulmer</placeName> ihr frevelhaftes Verhalten jetzt wieder
+			gutmachen. Kann Bullinger Näheres darüber mitteilen? <persName ref="7459">Maximilian von Egmont</persName>, Graf von Büren, soll sogar die
+			des christlichen Namens unwürdigen, listigen <placeName ref="157">Frankfurter</placeName> getadelt
+			haben! <persName ref="9780">Herzog Ulrich von Württemberg</persName> hat jeglichen Widerstand
+			gegen die herandrängenden Feinde verboten, angeblich um die Bevölkerung vor Brandstiftungen zu schützen.
+			Dies missfällt seinem sich derzeit in <placeName ref="28">Basel</placeName> aufhaltenden Sohn
+			Herzog <persName ref="1546">Christoph von Württemberg</persName>. Die Artikel des
+			Friedensschlusses mit dem Kaiser sind noch nicht bekannt; doch steht der Herzog bereits in schlechtem Ruf.
+			Ein Gelehrter [...] von dessen Hof erzählte, dass an die 30000 Mann in
+			<placeName ref="572">Württemberg</placeName> bereit gewesen wären, gegen den spanischen und
+			italienischen Abschaum zu kämpfen. Doch wollte es der Herzog nicht. Vielleicht ist sein Alter schuld daran,
+			gewiss aber auch sein Leichtsinn. Ein anderer Angehöriger [...] des Hofes bestätigte, dass der Herzog auch
+			jetzt noch finanziell und militärisch in der Lage wäre, an die drei Monate lang Krieg mit dem Kaiser zu
+			führen. Stattdessen aber sucht er aus Angst den Frieden dort, wo keiner zu finden ist. Die Folgen davon wird
+			man deutlich zu spüren bekommen, wenn Gott nicht eingreift!
+		</div>
+		<div ref="5">
+			[5] Aus dem Heer des Kurfürsten <persName ref="19065">Johann Friedrich von Sachsen</persName> teilt ein Mann [...] an einen in
+			<placeName ref="28">Basel</placeName> weilenden Adligen [...] gute Nachrichten mit:
+			<placeName ref="121">Dresden</placeName>, die Residenz Herzog <persName ref="18250">Moritz</persName>’ von Sachsen, sei eingenommen,
+			und man hätte dort 70 Kanonen auf Wagen, 200000 Taler und ebenso viel Gold beschlagnahmen können. Dies wurde
+			auch an <persName ref="1546">Herzog Christoph</persName> geschrieben. Dessen Frau, Herzogin Anna Maria [geb. von Brandenburg-Ansbach],
+			brachte in <placeName ref="28">Basel</placeName> ein Kind [<persName ref="19463">Hedwig von Württemberg</persName>] zur Welt. Auch Graf <persName ref="8098">Georg von Württemberg-Mömpelgard</persName> befindet sich in
+			<placeName ref="28">Basel</placeName>.
+		</div>
+		<div ref="6">
+			[6] Seit einigen Tagen hört man gerüchtweise, dass der dänische <persName ref="18449">König Christian III.</persName> gestorben ist,
+			Landgraf <persName ref="18574">Philipp von Hessen</persName> an dessen Stelle gewählt wurde und die <entity id="20136" type="group">Hansestädte</entity> sich bestens mit ihm
+			verstehen. In <placeName ref="492">Straßburg</placeName> erhält man weder Nachrichten vom
+			Kurfürsten noch vom Landgrafen. Die Straßen sind nämlich gesperrt, weil
+			<placeName ref="157">Frankfurt</placeName> sich ergeben hat und die Bischöfe von Bamberg [<persName ref="7723">Weigand von Redwitz</persName>], Eichstätt [<persName ref="7579">Moritz von Hutten</persName>] und Würzburg [<persName ref="7882">Melchior Zobel</persName>] zusammen mit Markgraf <persName ref="18422">Albrecht Alcibiades von Brandenburg-Kulmbach</persName> neue Truppen gegen <persName ref="18872">Johann Ernst [von Sachsen-Coburg]</persName>, den Bruder des
+			Kurfürsten, mustern.
+		</div>
+		<div ref="7">
+			[7] Ein in <placeName ref="28">Basel</placeName> geborener Bürger [...] aus
+			<placeName ref="302">Lübeck</placeName> meint, dass zu Frühlingsbeginn 100000 Mann aus
+			<entity id="8" type="geo_country">Dänemark</entity> und den <entity id="20136" type="group">Hansestädten</entity> [den Protestanten zuziehen würden].
+			Er wollte mit einigen Pfaffen aus <placeName ref="922">Freiburg</placeName> [i.Br.] um 100 Kronen
+			wetten, dass der Kaiser bis zum Sommer aus Deutschland vertrieben sein würde.
+		</div>
+		<div ref="8">
+			[8] In einem Brief König Franz’ I. von <entity id="11" type="geo_country">Frankreich</entity> ist die Rede
+			von 10000 Mann aus der <entity id="107" type="geo_region">Gascogne</entity>, 15000 Italienern unter <persName ref="6724">[Piero] Strozzi</persName> sowie 15000 Mann aus <entity id="11" type="geo_country">Frankreich</entity> samt Reiterei. Dazu
+			verlangt der König noch 12000 bis 15000 Eidgenossen [um gegen den Kaiser zu ziehen].
+		</div>
+		<div ref="9">
+			[9] <persName ref="8418">Myconius</persName> gab <persName ref="1278">Johannes Gast</persName> das Geld [für die Wolle] und teilte
+			dies Bullinger in einem nie abgesandten Brief vom 7. Januar mit (der Bote verschwand, ohne sich zu melden).
+		</div>
+		<div ref="10">
+			[10] <persName ref="8032">Enzinas</persName> wird am kommenden Montag aus <placeName ref="28">Basel</placeName> abreisen, um
+			Bullinger zu besuchen. Gruß.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2761" page="157">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto"><pb_scan n="270"/>S.</s>
+				<s n="2" lang="la" state="auto">Equidem arbitror dominum Iesum nobis amiciciam renunciasse ad tempus, adeo nihil evenit hodie, quod prae se ferat animi eius favorem ac benevolentiam!</s>
+				<s n="3" lang="la" state="auto">Animos abstulit et Germanis et Helvetiis.</s>
+				<s n="4" lang="la" state="auto">Caremus enim consiliis et fortitudine, imo et pietate in patriam.</s>
+				<s n="5" lang="la" state="auto">Quindecim millia <entity id="29" type="geo_country">Hispanorum</entity> et <entity id="16" type="geo_country">Italorum</entity> vastant <entity id="119" type="geo_region">Germaniam Superiorem</entity> et civitates occupant ne-<pb_edition start_of="158"/>mine resistente, imo proceribus prohibentibus, ne quis resistat sub poena gravi.</s>
+				<s n="6" lang="la" state="auto">Quis crederet ista, nisi forent ante oculos?</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="7" lang="la" state="auto">Congerunt interim et thesauros ingentes, quibus ditantur hostes impiissimi, Germani depauperantur.</s>
+				<s n="8" lang="la" state="auto">Helvetii bene contusi vulneratique ab <entity id="29" type="geo_country">Hispanis</entity> mendicant et mirabiliter contemnuntur.</s>
+				<s n="9" lang="la" state="auto">Reliqui domi desident absque consiliis bonis, fatum nimirum expectantes, quod et Svevos obpressit, tanquam malint perire soli quam cum aliis vincere.</s>
+				<s n="10" lang="la" state="auto">Quantam vim auri et argenti congregavit iam ex Germanis cęsar<fl>1</fl> et ad quid, nisi ut milite novo collecto undique, etiam e nobis (nam ex <placeName ref="572">Wirtemberga</placeName> multi ad eum profecti sunt vel hodie, postquam apud <placeName ref="492">Argentinenses</placeName> neque spem neque pecuniam invenerunt), et nos tandem expugnet.</s>
+				<s n="11" lang="la" state="auto">Id enim est illi in consiliis!</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="12" lang="la" state="auto">Dum igitur ista multi norunt, in consultationibus<fl>2</fl> autem dissimulantur, equidem nihil aliud cogitare possum quam dominum de nobis quoque corrigendis constituisse aliquid.</s>
+				<s n="13" lang="la" state="auto">Bene illis, qui, dum hic domini voluntatem norunt, sese eidem patienter subdere non dubitant!<fl>3</fl></s>
+				<s n="14" lang="la" state="auto">Horrendum est tamen interim et carni ipsorum mala illa velut in conspectu habere, maxime dum sibi persuadent eis cum bono eventu posse, modo nostri vellent, iri obviam.</s>
+				<s n="15" lang="la" state="auto">Age vero, quod videtur bonum in oculis domini, id fiat,<fl>4</fl> tantum benigne nos interim respiciat et constantiam in fide sua largiatur.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="16" lang="la" state="auto">Nova de <placeName ref="513">Ulmensibus</placeName>, <placeName ref="157">Francofordensibus</placeName>, <placeName ref="572">Wirtembergensibus</placeName> melius nosti.</s>
+				<s n="17" lang="la" state="auto">De iisdem quoque narrabit d. Dryander.<fl>5</fl></s>
+				<s n="18" lang="la" state="auto"><placeName ref="513">Ulmenses</placeName> valde egerunt impie contra deum et homines,<fl>6</fl> quamvis rumores sint in corrigendo nunc ipsos esse.</s>
+				<s n="19" lang="la" state="auto">Qua de re velim aliquid intelligere ex te.</s>
+				<s n="20" lang="la" state="auto">Francofordienses toti sunt perfidi et interim indigni, qui vel christiani vel viri nominentur.</s>
+				<s n="21" lang="la" state="auto">Aiunt has ob causas et a Bürensi<fl>7</fl> gravissime obiurgatos; quod mirum.</s>
+				<s n="22" lang="la" state="auto"><placeName ref="572">Wirtembergensis</placeName><fl>8</fl> prohibuit suis, ne hostibus advenientibus resistant, praetensa causa, ut sic ab incendiis cessent facilius.</s>
+				<s n="23" lang="la" state="auto">Displicet filio<fl>9</fl> (qui apud nos est nunc)<fl>a</fl> pater valde ob dictam causam, et adhuc ignoramus omnes pacificationis articulos.<fl>10</fl></s>
+				<s n="24" lang="la" state="auto">Male dux audit apud omnes bonos.</s>
+				<s n="25" lang="la" state="auto">Dixit mihi ex aula vir bonus et <pb_edition start_of="159"/> doctus<fl>11</fl> esse adhuc per <placeName ref="572">Wirtembergam</placeName> viros ad 30000, qui contra <el state="verified">καθάρματα</el><fl>12</fl> <entity id="29" type="geo_country">Hispanica</entity> et <entity id="16" type="geo_country">Italica</entity> pugnare voluissent ac potuissent cum laude, sed ille noluit ob metum forsitan senilem<fl>13</fl> illum, qui tamen plęrumque caret prudentia.</s>
+				<s n="26" lang="la" state="auto">Dixit mihi alius quispiam<fl>14</fl> ex eadem familia ducem potuisse propriis sumptibus et hominibus belligerari cum cęsare ad treis usque menses,<pb_scan n="269"/> et adhuc posse, verum timorem ita occupasse hominem, ut pacem quęsierit, ubi tamen non est pax;<fl>15</fl> id quod sequens tempus abunde comprobabit, nisi dominus viros nequam prohibeat.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="27" lang="la" state="auto">Ex Saxonis<fl>16</fl> scribit exercitu quidam<fl>17</fl> ad nobilem quendam, qui apud nos est,<fl>18</fl> omnia felicia et inter alia Traezen<fl>19</fl> esse captam, sedem Mauricii<fl>20</fl>, in qua et 70 tormenta in curribus, 200000 talerorum et totidem auri.</s>
+				<s n="28" lang="la" state="auto">Eadem felicitas scripta est ad ducem <placeName ref="572">Wirtembergensem</placeName> iuniorem, cuius uxor<fl>21</fl> apud nos<fl>22</fl> agit puerperam.<fl>23</fl></s>
+				<s n="29" lang="la" state="auto">Adest et <persName ref="18487">Georgius</persName> comes.<fl>24</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="30" lang="la" state="auto">Per aliquot dies fama constanter volat obiisse <persName ref="18449" state="auto_name">Danum</persName><fl>25</fl>, et Hessum<fl>26</fl> esse electum in regem Danię, et civitatibus maritimis<fl>27</fl> optime convenire cum eo.</s>
+				<s n="31" lang="la" state="auto">Argentinenses neque de electore neque de Hesso aliquid norunt,<fl>28</fl> quod clausę sint vię propter Francofurtum deditum et propter novum exercitum, quem episcopi <placeName ref="1703">Bambergensis</placeName><fl>29</fl>, Eistetensis<fl>30</fl> et <placeName ref="1030">Wirtzburgensis</placeName><fl>31</fl> cum marchione Alberto<fl>32</fl> contra Ioannem Ernestum<fl>33</fl>, fratrem<fl>34</fl> electoris, cogunt.<fl>35</fl><pb_edition start_of="160"/></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="32" lang="la" state="auto"><placeName ref="302">Lubecensis</placeName> civis <placeName ref="28">Basileę</placeName> natus,<fl>36</fl> vir statura plane Helvetius, promittit ad veris initium centum millia Danorum et e civitatibus maritimis.</s>
+				<s n="33" lang="la" state="auto">Centum coronatis voluit concertare cum pfaffis hic <placeName ref="922">Friburgensibus</placeName><fl>37</fl>, si cęsar hac ęstate non pellendus esset e Germania.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="34" lang="la" state="auto">Literę, quas rex<fl>38</fl> misit, sic habent: 10000 Gasconiorum, 15000 <entity id="16" type="geo_country">Italorum</entity>, quibus praeest <persName ref="6724">Strozius</persName><fl>39</fl>, 15000 e media <persName ref="7637">Gallia</persName> una cum equitatu.</s>
+				<s n="35" lang="la" state="auto">Ad hos petit ex Helvetiis 12000 vel 15000.<fl>40</fl></s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="36" lang="la" state="auto">Ego ipse pecuniam dedi <persName ref="1278">Gastio</persName>,<fl>41</fl> quod et scripsi 7. ianuarii (non misi, quod nuncius<fl>42</fl> evolarat).<fl>43</fl></s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="37" lang="la" state="auto">Dryander proxima die Lunę<fl>44</fl> solvit hinc recta ad te.</s>
+				<s n="38" lang="la" state="auto">Vale in Christo.</s>
+				<s n="39" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, 20. ianuarii anno 1547.</s>
+				<s n="40" lang="la" state="auto">Tuus Os. Myc.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="41" lang="la" state="auto">D. Heinricho Bullingero doctissimo pientissimoque in domino suo.</s>
+				<s n="42" lang="de" state="auto">Zur[ich].<fl>b</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2761">
+		<alpha>
+			<fn ref="a"><i>Hier und unten Klammern ergänzt.</i></fn>
+			<fn ref="b"><i>Textverlust bei Entfernung des Verschlussbandes.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="2">Gemeint sind die Beratungen unter den Protestanten.</fn>
+			<fn ref="3">Vgl. Hi 36, 11.</fn>
+			<fn ref="4">Vgl. 1Sam 3, 18.</fn>
+			<fn ref="5"><persName ref="8032">Francisco de Enzinas</persName>, der bald seine schon längst versprochene Reise nach Zürich (s. <bibl>HBBW</bibl> XVIII, <link fk_file="12765">Nr. 2718</link>; sowie <link fk_file="12785">Nr. 2736</link>) antreten sollte; s. unten Z. 63.</fn>
+			<fn ref="6">Anspielung auf die Unterwerfung <placeName ref="513">Ulms</placeName> unter den Kaiser (s. <link fk_file="12783">Nr. 2734</link>, Anm. 4) und <placeName ref="513">Ulms</placeName> Versuch, die anderen süddeutschen Städte zu einem Frieden mit dem Kaiser zu bewegen; s. <link fk_file="12787">Nr. 2738</link>; <link fk_file="12801">Nr. 2752</link>,13-15; <link fk_file="12806">Nr. 2757</link>,64-66.</fn>
+			<fn ref="7"><persName ref="7459">Maximilian von Egmont</persName>, Graf von Büren. Er hatte <placeName ref="157">Frankfurt</placeName> Ende Dezember 1546 besetzt; s. <bibl>HBBW</bibl> XVIII 375, Anm. 21.</fn>
+			<fn ref="8"><persName ref="9780">Herzog Ulrich von Württemberg</persName>.</fn>
+			<fn ref="9"><persName ref="1546">Christoph von Württemberg</persName>. - Er hatte sich Anfang Januar 1547 (spätestens am 6.) nach <placeName ref="28">Basel</placeName> zurückgezogen; s. Franz <i>Brendle,</i> Dynastie, Reich und Reformation. Die württembergischen Herzöge <persName ref="9780">Ulrich</persName> und <persName ref="1546">Christoph</persName>, die Habsburger und Frankreich, Stuttgart 1998, S. 307 und Anm. 163.</fn>
+			<fn ref="10">Zum Friedensschluss zwischen <placeName ref="572">Württemberg</placeName> und dem Kaiser s. <link fk_file="12795">Nr. 2746</link>, Anm. 21.</fn>
+			<fn ref="11">Unbekannt.</fn>
+			<fn ref="12">Abschaum.</fn>
+			<fn ref="13">Er war damals 60 Jahre alt.</fn>
+			<fn ref="14">Unbekannt.</fn>
+			<fn ref="15">Vgl. Jer 8, 11.</fn>
+			<fn ref="16">Kurfürst <persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="17">Unbekannt.</fn>
+			<fn ref="18">Unbekannt.</fn>
+			<fn ref="19"><placeName ref="121">Dresden</placeName>. - Die Nachricht ist falsch. Erst ab dem 8. April kam es zu einem einige Tage währenden Angriff gegen <placeName ref="121">Dresden</placeName>; s. Oswald Artur <i>Hecker.</i> <placeName ref="121">Dresden</placeName> im Schmalkaldischen Kriege (1547), in: Dresdner Geschichtsblätter, Jg. 18/1, 1909, S. 1-11. -Der Kurfürst lag damals vor <placeName ref="284">Leipzig</placeName>, von wo er am 27. Januar abzog; s. Nr. 2757, Anm. 76.</fn>
+			<fn ref="20"><persName ref="18250">Herzog Moritz von Sachsen</persName>.</fn>
+			<fn ref="21" type="bio" fk_person="8098">Herzogin Anna Maria von <placeName ref="572">Württemberg</placeName>, Tochter des Markgrafen <persName ref="8098">Georg</persName> des Frommen von Brandenburg-Ansbach.</fn>
+			<fn ref="22">In <placeName ref="28">Basel</placeName>.</fn>
+			<fn ref="23" type="bio" fk_person="19463">Tochter <persName ref="19463">Hedwig von Württemberg</persName> wurde in <placeName ref="28">Basel</placeName> am 14. Januar 1547 geboren; s. <persName ref="7114">Christian <i>Wurstisen</i></persName>, Baßler Chronick, <placeName ref="28">Basel</placeName> 1580, S. 620.</fn>
+			<fn ref="24"><persName ref="8098">Georg von Württemberg-Mömpelgard</persName>.</fn>
+			<fn ref="25" type="bio" fk_person="18449"><persName ref="18449">König Christian III.</persName> - Ein falsches Gerücht. Er starb am 1. Januar 1559.</fn>
+			<fn ref="26">Landgraf <persName ref="18574">Philipp von Hessen</persName>.</fn>
+			<fn ref="27">die <entity id="20136" type="group">Hansestädte ("Seestädte")</entity>.</fn>
+			<fn ref="28">Am 23. Januar 1547 erkundigten sich tatsächlich die Dreizehn von <placeName ref="492">Straßburg</placeName> beim <persName ref="18574">Landgrafen Philipp</persName> nach ihm und dem Kurfürsten, weil sie seit dem 16. Dezember 1546 nichts mehr von beiden gehört hatten; s. <bibl>PC</bibl> IV/1 577f, <link fk_file="10568">Nr. 532</link>, mit Anm. 3.</fn>
+			<fn ref="29"><persName ref="7723">Weigand von Redwitz</persName>.</fn>
+			<fn ref="30"><persName ref="7579">Moritz von Hutten</persName>.</fn>
+			<fn ref="31"><persName ref="7882">Melchior Zobel</persName>.</fn>
+			<fn ref="32"><persName ref="18422">Albrecht II.</persName> Alcibiades, Markgraf von Brandenburg-Kulmbach.</fn>
+			<fn ref="33"><persName ref="18872">Johann Ernst von Sachsen-Coburg</persName>.</fn>
+			<fn ref="34">Halbbruder.</fn>
+			<fn ref="35">Dies bezieht sich auf im Januar 1547 begonnene Rüstungen des Markgrafen Albrecht und der fränkischen Kreisstände (u.a. <placeName ref="1703">Bamberg</placeName> und <placeName ref="1030">Würzburg</placeName>), mit denen diese einem Befehl des Kaisers von Dezember 1546 zufolge die Pflege <placeName ref="1032">Coburg</placeName> einnehmen und verwalten sollten, die der geächtete Herzog Johann Ernst verwirkt hatte. Trotz der Rüstungen kam die Einnahme schließlich nicht zustande, da inzwischen <persName ref="18250">Herzog Moritz von Sachsen</persName> u.a. beim Markgrafen und <persName ref="7882">Melchior Zobel</persName> um militärische Hilfe bat, die ihm ab Mitte Januar durch den Zuzug von Truppen gewährt wurde; s. <persName ref="1546">Christoph</persName> <i>Bauer,</i> <persName ref="7882">Melchior Zobel</persName> von Giebelstadt, Fürstbischof von <placeName ref="1030">Würzburg</placeName> (1544-1558), Münster 1998, S. 292-297; <bibl>Voigt, Albrecht</bibl> I 131-136.</fn>
+			<fn ref="36">Unbekannt.</fn>
+			<fn ref="37">Vermutlich Basler Domherren, die sich nach <placeName ref="922">Freiburg i.Br.</placeName> zurückgezogen hatten und sich damals in <placeName ref="28">Basel</placeName> aufhielten.</fn>
+			<fn ref="38"><persName ref="7637">Franz I. von Frankreich</persName>. - Vgl. <link fk_file="12800">Nr. 2751</link>, 55-57; <link fk_file="12801">Nr. 2752</link>,16-21. - Aus dieser Passage geht hervor, dass <persName ref="8418">Myconius</persName> Bullingers Brief vom 18. und 19. Januar (vgl. nämlich <link fk_file="12806">Nr. 2757</link>,9-11, mit vorliegendem Abschnitt) noch nicht erhalten hatte.</fn>
+			<fn ref="39"><persName ref="6724">Piero Strozzi</persName>.</fn>
+			<fn ref="40">Siehe dazu <link fk_file="12806">Nr. 2757</link>, Anm. 17.</fn>
+			<fn ref="41" type="bio" fk_person="1278">Das Geld für die Wolle, die <persName ref="1278">Johannes Gast</persName> für Bullingers Frau <persName ref="8051">Anna, geb. Adlischwyler</persName>, gekauft hatte; s. dazu zuletzt <link fk_file="12806">Nr. 2757</link>,12f.</fn>
+			<fn ref="42">Unbekannt.</fn>
+			<fn ref="43">Dieser nie abgesandte Brief ist nicht erhalten.</fn>
+			<fn ref="44">Der 24. Januar 1547.</fn>
+		</num>
+	</footnotes>
+</file>

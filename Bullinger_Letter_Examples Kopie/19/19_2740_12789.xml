@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12789" id_hbbw="2740" id_irg_sort="2740" id_sort="127400">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12789</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2740</arpa>
+		<scan_pages>
+			<scan id="29893" dir="12789/Autograph/" page="1">00 E_II_342__fol__161_r_.tif</scan>
+			<scan id="29894" dir="12789/Autograph/" page="2">01 E_II_342__fol__161_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26101" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26102" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12789">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">5</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19351">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,161</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9002" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 928, Nr. 1044</entry>
+			</print>
+			<print id="12431" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2740, S. 84</entry>
+				<page>84</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="25">
+				<lang id="1" iso="de" count="6" p="24.0"/>
+				<lang id="5" iso="la" count="19" p="76.0"/>
+			</sentences>
+			<words count="321">
+				<lang id="1" iso="de" count="178" p="55.5"/>
+				<lang id="5" iso="la" count="143" p="44.5"/>
+			</words>
+			<chars count="1679">
+				<lang id="1" iso="de" count="863" p="51.4"/>
+				<lang id="5" iso="la" count="816" p="48.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2740" page="83">
+		<div ref="1">
+			[1] Die Zürcher Obrigkeit hat heute an die Neun Orte und vorgestern an die Drei Orte geschrieben, dass
+			<persName ref="18538">Kaiser Karl V.</persName> gegen die Freiheit Deutschlands handelt; dass die süddeutschen Städte schwören müssen, sich
+			künftig mit niemandem mehr zu verbünden; dass, falls <placeName ref="457">Konstanz</placeName> sich
+			ebenfalls einem solchen Eid unterwirft, den Eidgenossen Gefahr droht; dass<pb_edition start_of="84"/> diese
+			Lage erkläre, warum die Zürcher in Rüstung stehen; dass man sich deshalb rasch über das künftige Verhältnis
+			zu <placeName ref="457">Konstanz</placeName> beraten müsse. Die Tagsatzung wurde nach
+			<placeName ref="21">Baden</placeName> für den kommenden Sonntag, 9. Januar, einberufen. Hält man zu
+			<placeName ref="457">Konstanz</placeName>, dann kommt der Krieg in die Eidgenossenschaft. Lässt man
+			<placeName ref="457">Konstanz</placeName> fallen, verliert man die günstige Passmöglichkeit und hat
+			trotzdem später den Krieg im Land, denn <persName ref="18538">Karl V.</persName> wird nicht nachgeben.
+		</div>
+		<div ref="2">
+			[2] <persName ref="8032">Francisco de Enzinas</persName> sei für seinen Brief [<link fk_file="12785">Nr. 2736</link>] gedankt. Dessen
+			Schreiben an <persName ref="6355">[Hieronymus] Sailer</persName> hat Bullinger heute nach St. Gallen weitergeleitet. Sobald er das Buch [...
+			von <persName ref="1227">Christoph Froschauer</persName>] erhalten hat, wird er es ebenfalls an <persName ref="6355">Sailer</persName> schicken. Weder soll <persName ref="8032">Enzinas</persName> wegen
+			der Kosten besorgt sein, noch sollte er sich der unehrlichen Fuhrleute bedienen!
+		</div>
+		<div ref="3">
+			[3] Der Inhalt des vorliegenden Briefes ist auch für <persName ref="8032">Enzinas</persName> und
+			<persName ref="1278">Johannes Gast</persName> bestimmt. Hoffentlich hat dieser das Geld für die Wolle
+			durch den gestern von den Zürchern abgesandten Boten [<persName ref="5998">Meinrat Oggenfuß</persName>] erhalten.
+		</div>
+		<div ref="4">
+			[4] Gibt es Neues aus <entity id="11" type="geo_country">Frankreich</entity>,
+			<placeName ref="749">Sachsen</placeName> und <entity id="8" type="geo_country">Dänemark</entity>?
+			Die <entity id="78" type="geo_region">Schwaben</entity> haben sich ergeben! Was aber, wenn die weiter
+			nördlich gelegenen Orte das Gleiche tun? Dann kommt es zum Krieg [gegen die Eidgenossen]! Angeblich ist
+			<placeName ref="1976">Augsburg</placeName> von den Friedensverhandlungen [mit
+			<placeName ref="513">Ulm</placeName>] ausgenommen. Von dort kam schon seit 14 Tagen keine
+			Nachricht mehr. Bullinger fürchtet, dass <placeName ref="1976">Augsburg</placeName> auch zu Fall
+			gebracht wird. Was hört man denn über <placeName ref="492">Straßburg</placeName>?
+		</div>
+		<div ref="5">
+			[5] Gruß, auch an die Familie, an <persName ref="8032">Enzinas</persName> und an <persName ref="1278">Gast</persName>.
+		</div>
+		<div ref="6">
+			[6] Mehr wird <persName ref="5213">Johannes Herwagen</persName> berichten, dem Bullinger einiges zum Erzählen anvertraut hat.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2740" page="84">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. D.</s>
+				<s n="2" lang="de" state="auto">Min herren habend allen orten und insonders den 9<fl>1</fl> hütt (dann<fl>2</fl> vorgester ist den 3<fl>3</fl>)<fl>a</fl> geschriben, wie man nun mee<fl>4</fl> spür by dem<fl>b</fl> keyser<fl>5</fl>, sunderlich in der befridung mitt den stetten, das er uff die fryheit tütsches landts tringe<fl>6</fl>, die ze entkrefftigen, diewyl er sy in eyd fasse<fl>7</fl>, sich fürohin zuͦ niemandts ze verbinden,<fl>8</fl> das<fl>9</fl> die Eydgnossen soͤlichs bedencken; und, so<fl>10</fl> <placeName ref="457">Constantz</placeName> daryn<fl>11</fl> gefasset, was grossen nachteyls die Eydgenossen darvon erlangen; so auch, min herren amm anstoos<fl>12</fl>; das man<fl>13</fl> sy betrachten<fl>14</fl> woͤlle, und beradtschlagen, wie man sich mitt <placeName ref="457">Constantz</placeName> hallte; und ein entlichen<fl>15</fl> radtschlag jetzund sontags<fl>16</fl> gen <placeName ref="21">Baden</placeName><fl>17</fl> bringe - dann uff ernenten sontag wirt ein tag.</s>
+				<s n="3" lang="de" state="auto">Da lyt es,<fl>18</fl> lieber herr und bruͦder: Naͤmend wir uns der von <placeName ref="457">Constantz</placeName> an, so sind wir imm krieg; wo nitt, so kummend wir <pb_edition start_of="85"/> umb den herrlichen paß<fl>19</fl> und habend hernach den krieg nut des minder amm hallß, dann der <persName ref="18538" state="auto_name">Hispanier</persName><fl>20</fl> last nach nitt.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="la" state="auto">D. <entity id="11" type="geo_country">Francisco</entity> <persName ref="8032" state="auto_name">Dryandro</persName><fl>21</fl> ages gratias pro literis<fl>22</fl> amicissimis.</s>
+				<s n="5" lang="la" state="auto"><persName ref="6355">Saylero</persName> inscriptas<fl>23</fl> hodie curavi Sangallum ferendas.</s>
+				<s n="6" lang="la" state="auto">Liber<fl>24</fl> ubi redditus fuerit, bona fide curabo et ipsum perferri ad <persName ref="6355">Saylerum</persName>.</s>
+				<s n="7" lang="la" state="auto">De sumptibus ne sit solicitus.</s>
+				<s n="8" lang="de" state="auto">Heige<fl>25</fl> nun<fl>26</fl> mitt kareren<fl>27</fl> nut ze schaffen; <la>est enim iniquissimum genus hominum</la>.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="9" lang="la" state="auto">Quae tibi de infelici bello et hisce rebus aliis scribo, ipsi et d. <persName ref="1278">Gastio</persName> communica.</s>
+				<s n="10" lang="la" state="auto">Spero <persName ref="1278">Gastium</persName> pecunias accepisse pro lana<fl>28</fl> per nuncium<fl>29</fl>, qui pridie a dominis nostris amandatus est ad vestros.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="11" lang="la" state="auto">Quid habetis ex Gallia et Saxonia?</s>
+				<s n="12" lang="la" state="auto"><entity id="8" type="geo_country">Dania</entity> item?</s>
+				<s n="13" lang="de" state="auto">Hie oben<fl>30</fl> ist es mitt den <entity id="78" type="geo_region">Schwaben</entity> gethan.<fl>31</fl></s>
+				<s n="14" lang="de" state="auto">Handlend die da niden<fl>32</fl> ouch also, so schlach bly zuͦ!<fl>33</fl></s>
+				<s n="15" lang="la" state="auto">Aiunt <placeName ref="1976">Augustanos</placeName> gratia et pace excludi.<fl>34</fl></s>
+				<s n="16" lang="la" state="auto">Intra 14 dies ab <placeName ref="1976">Augusta</placeName> nullas<fl>35</fl> recepi.</s>
+				<s n="17" lang="la" state="auto">Metuo, ne et illi supplantentur.</s>
+				<s n="18" lang="la" state="auto">Oremus dominum, ut ipse adsit causae suae.</s>
+				<s n="19" lang="la" state="auto">Quid <placeName ref="492">Argentoratenses</placeName>?</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="20" lang="la" state="auto">Vale iterum cum familia, d. Dryandro, <persName ref="1278">Gastio</persName> et aliis viris bonis.</s>
+				<s n="21" lang="la" state="auto">5. ianuarii 1547.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="22" lang="la" state="auto">Plura d. <persName ref="5213">Hervagius</persName><fl>36</fl>, cui plurima recensenda commisi.</s>
+				<s n="23" lang="la" state="auto">Bullingerus tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="24" lang="la" state="auto">Praestantissimo viro d. <persName ref="8418">Osvaldo Myconio</persName>, inclytae <placeName ref="28">Basiliensis</placeName> ecclesiae ministro fideli, domino et fratri semper colendo.</s>
+				<s n="25" lang="de" state="auto"><placeName ref="28">Basel</placeName>.<fl>37</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2740">
+		<alpha>
+			<fn ref="a"><i>Klammern ergänzt.</i></fn>
+			<fn ref="b"><i>In der Vorlage folgt</i> der.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Die Neun Orte (Appenzell, Freiburg, Glarus, Luzern, Schwyz, Solothurn, Unterwalden, Uri und Zug). Der Entwurf des Briefes vom 5. Januar 1547 liegt in Zürich StA, B IV 16, f. 130r.-v.</fn>
+			<fn ref="2">denn.</fn>
+			<fn ref="3">Den drei protestantischen Städten (<placeName ref="28">Basel</placeName>, Bern und Schaffhausen). -Das Schreiben an <placeName ref="28">Basel</placeName> ist erhalten in <placeName ref="28">Basel</placeName> StA, Politisches M 8.3, 418-420; s. <i>Henrich, <persName ref="8418">Myconius</persName> BW</i> 936, <link fk_file="11086">Nr. 1044</link>.</fn>
+			<fn ref="4">nun mee: immer mehr.</fn>
+			<fn ref="5"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="6">uff die fryheit tringe: gegen die Freiheit vorgeht.</fn>
+			<fn ref="7">sy in eyd fasse: sie (die Städte) zum Eid verpflichtet.</fn>
+			<fn ref="8">Siehe zuletzt <link fk_file="12787">Nr. 2738</link>,5-7.</fn>
+			<fn ref="9">damit.</fn>
+			<fn ref="10">wenn.</fn>
+			<fn ref="11">Gemeint ist in dem vom Kaiser verlangten Eid.</fn>
+			<fn ref="12">amm anstoos: nahe der Grenze (sich befinden); s. <bibl>SI</bibl> XI 1592. -Deshalb standen die Zürcher damals schon in Rüstung; s. <bibl>HBBW</bibl> XVIII 35f; und <link fk_file="12817">Nr. 2768</link>.</fn>
+			<fn ref="13">Gedacht ist an die Eidgenossen.</fn>
+			<fn ref="14">sy betrachten: sie (die Zürcher) berücksichtigen.</fn>
+			<fn ref="15">endgültigen; verbindlichen; s. <bibl>SI</bibl> I 317.</fn>
+			<fn ref="16">9. Januar.</fn>
+			<fn ref="17">Wo seit dem 10. Januar die Tagsatzung versammelt war; s. <link fk_file="12786">Nr. 2737</link>, Anm. 3. - Zum Vortrag der Zürcher betreffend <placeName ref="457">Konstanz</placeName> und ihre eigenen Verteidigungsmaßnahmen s. <bibl>EA</bibl> IV/1d 755 g. h.</fn>
+			<fn ref="18">Da lyt es: Darin liegt das Problem.</fn>
+			<fn ref="19">Durchgangsmöglichkeit (u.a. bei der Einfuhr von Lebensmitteln aus  <entity id="119" type="geo_region">Süddeutschland</entity>).</fn>
+			<fn ref="20"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="21"><persName ref="8032">Francisco de Enzinas</persName>.</fn>
+			<fn ref="22">Brief <link fk_file="12785">Nr. 2736</link>.</fn>
+			<fn ref="23">Der in <link fk_file="12785">Nr. 2736</link> erwähnte Brief <persName ref="8032">Enzinas</persName>' an <persName ref="6355">Hieronymus Sailer</persName>.</fn>
+			<fn ref="24">Das von <persName ref="8032">Enzinas</persName> nach Zürich gesandte Buch für <persName ref="6355">Sailer</persName>; s. dazu <link fk_file="12785">Nr. 2736</link>.</fn>
+			<fn ref="25">(Er) habe; vgl. <bibl>SI</bibl> II 890.</fn>
+			<fn ref="26">nur.</fn>
+			<fn ref="27">Fuhrleuten; s. <bibl>SI</bibl> III 426f. - Diese Mahnung steht wohl in Zusammenhang mit der für <persName ref="1227">Christoph Froschauer</persName> bestimmten Buchsendung.</fn>
+			<fn ref="28">Siehe dazu <link fk_file="12787">Nr. 2738</link>,16f.</fn>
+			<fn ref="29">Vermutlich <persName ref="5998">Meinrat Oggenfuß</persName>, der als laufender Bote nach <placeName ref="28">Basel</placeName> zwischen einem Eintrag vom 30. Dezember 1546 und vom 8. Januar 1547 nachgewiesen ist; s. Zürich StA, F III 32, Seckelamtsrechnungen 1546/47, S. 64 der Ausgabenabteilung für laufende Boten.</fn>
+			<fn ref="30">Gemeint ist  <entity id="119" type="geo_region">Süddeutschland</entity>.</fn>
+			<fn ref="31">Anspielung auf die Ergebung <placeName ref="513">Ulms</placeName> und anderer oberdeutscher Städte; s. <link fk_file="12787">Nr. 2738</link>,2-14.</fn>
+			<fn ref="32">die da niden: die weiter unten (d.h. nördlicher) liegenden (gedacht ist u.a. an <placeName ref="1976">Augsburg</placeName>).</fn>
+			<fn ref="33">Vermutlich ist mit "so schlach bly zü." gemeint: so kommt es zum Krieg (nämlich gegen die Eidgenossen); s. <bibl>SI</bibl> IX 486 s.v. zuschlahen; <bibl>Fischer</bibl> I 1189 s.v. Blei (ein Wort, das auch für Geschoss stehen kann).</fn>
+			<fn ref="34">So auch in <i>Keim, <placeName ref="513">Ulm</placeName></i> 384f.</fn>
+			<fn ref="35">nullas literas.</fn>
+			<fn ref="36"><persName ref="5213">Johannes Herwagen</persName>, der am 1. Januar 1547 nach Zürich aufgebrochen war; s. <link fk_file="12784">Nr. 2735</link>,1f. 20f.</fn>
+			<fn ref="37">Diesem Brief wurde vermutlich <persName ref="8055">Blarers</persName> Brief an Bullinger vom 4. Januar beigelegt; s. <link fk_file="12788">Nr. 2739</link>, Anm. c.</fn>
+		</num>
+	</footnotes>
+</file>

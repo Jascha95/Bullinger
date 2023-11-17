@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11298" id_hbbw="1255" id_irg_sort="1255" id_sort="112550">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11298</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1255</arpa>
+		<scan_pages>
+			<scan id="26271" dir="11298/Autograph/" page="1">00 E_II_359__fol__3012_r_.tif</scan>
+			<scan id="26272" dir="11298/Autograph/" page="2">01 E_II_359__fol__3012_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22930" vf="1" fk_add_type="1">
+				<person id="1010" fk_id="1010">
+					<name>Erb</name>
+					<forename>Matthias</forename>
+				</person>
+				<place id="411" vf="1" fk_id="411" long="7.29707" lat="48.16672">Reichenweier</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22931" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11298">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">4</month>
+				<day fk_d="" d="" vf="1" fn="">17</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17770">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,3012</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11177" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1255, S. 110</entry>
+				<page>110</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="20">
+				<lang id="5" iso="la" count="20" p="100.0"/>
+			</sentences>
+			<words count="254">
+				<lang id="6" iso="el" count="3" p="1.2"/>
+				<lang id="5" iso="la" count="251" p="98.8"/>
+			</words>
+			<chars count="1521">
+				<lang id="6" iso="el" count="14" p="0.9"/>
+				<lang id="5" iso="la" count="1507" p="99.1"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1255" page="110">
+		<div ref="1">
+			Dankt für sein tröstliches Schreiben und stimmt seiner Mahnung zu; möge Gott die kleine Kirche [von
+			<placeName ref="221">Horburg</placeName> und
+			<placeName ref="411">Reichenweier</placeName>] durch den Einsatz ihrer Pfarrer stärken und sie
+			gegen die von verschiedener Seite drohenden Gefahren beschützen.
+			<persName ref="8374">Hedio</persName> hofft, daß die [an der
+			<placeName ref="157">Frankfurter</placeName> Tagung verhandelte] Sache aufs nächste Jahr verschoben
+			wird; inzwischen wird man über ein Nationalkonzil beraten. Markus
+			[...] ist zurückgekehrt. <persName ref="8364">Beat [Gering]</persName>, einst Schwager von
+			<persName ref="261">Johannes [Buchser]</persName> in
+			<placeName ref="497">Suhr</placeName>, soll von Graf
+			<persName ref="7492">Wilhelm von Fürstenberg</persName> ins evangelische
+			<placeName ref="1720">Gengenbach</placeName> berufen werden. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1255" page="110">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratia domini tecum.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Quid a te mihi iucundius offerri potuisset quam illa tua consolatrix epistola?</s>
+				<s n="3" lang="la" state="auto">Nam eius adhortatione<fl>2</fl> (vera dico, optime Bullingere) non modo prudentior, sed et vigilantior redditus tollero levius tum satanę tum impiorum calumnias.</s>
+				<s n="4" lang="la" state="auto">Scio enim, quam multi simus episcopi, at pauci oculati.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Hinc verissimum est, quod scribis<fl>3</fl> nostra negligentia aut, si mavis, oscitantia plures posse perire, diligentia vero non paucos servari etc.</s>
+				<s n="6" lang="la" state="auto">Tu roga dominum pro me, ut ecclesiolam huius agri<fl>4</fl> variis quassatam procellis per ministros suos (qui fere duodecim sumus) solidam ac constantem effitiat perque spiritum suum roborans ad portum fatiat enatare quietum, siquidem satan furit adhuc in papistis.</s>
+				<s n="7" lang="la" state="auto">Falsi fratres nobis imponunt, magistratus querit sua, anabaptistę ecclesię corpus diffindentes in diversum rapiunt, [p]hilautia etiam sanctis imponunt<fl>a</fl>.</s>
+				<s n="8" lang="la" state="auto">Et quid plura?</s>
+				<s n="9" lang="la" state="auto">Tenuis certe in nobis spes ac fere deplorata esset, nisi contra spem in spe<fl>5</fl> <el state="verified">θεὸς ἀπὸ µηχανῆς</el><fl>6</fl> nobis affulgeret.</s>
+				<s n="10" lang="la" state="auto">Novarum nil, nisi quod <persName ref="8374">Hedio</persName> meus scribit<fl>7</fl> protestantes adhuc expectare caesaris veredarium<fl>8</fl> speratque litem ad annum protelandam; interim tamen consultabitur de concilio nationali etc.<pb_edition start_of="111"/></s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto"><persName ref="19956">Marcus</persName><fl>9</fl> rediit alacer et ludicer etc.</s>
+				<s n="12" lang="la" state="auto"><persName ref="8364">Beatus</persName><fl>10</fl> ille, sororius olim<fl>b</fl> <persName ref="261">Ioannis Surani</persName><fl>11</fl>, annuente comite <persName ref="7492">Wilhelmo a Furstenberg</persName> ad <placeName ref="1720">Gengenbachum</placeName> vocabitur.</s>
+				<s n="13" lang="la" state="auto">Certe oppidulum est elegans ac vulgus verbo dei instructum, ilhic et annona copiose provenit.</s>
+				<s n="14" lang="la" state="auto">Est autem sub ditione imperii et comiti obpignoratum<fl>12</fl>.</s>
+				<s n="15" lang="la" state="auto">Hinc tantum agit patronum.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Bene vale et <persName ref="1753">Leonem</persName><fl>13</fl> cum <persName ref="8412">Megandro</persName> meo terque quaterque salutabis.</s>
+				<s n="17" lang="la" state="auto">Boni consule meam balbutiem.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Ex Richenvilla, 17. die aprilis.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Tuissimus ex animo <persName ref="1010">Matthias Erbius</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="20" lang="la" state="auto">Viro in primis et pio et docto d. Henricho Bullingero, celebratissimae civitatis Tigurinę a contionibus, fratri charissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1255">
+		<alpha>
+			<fn ref="a">[p]hilautia etiam sanctis imponunt <i>am Rande nachgetragen; Wortanfang im engen Einband nur teilweise lesbar.</i></fn>
+			<fn ref="b"><i>vor</i> olim <i>gestrichenes</i> ille.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Der Brief, noch zu Lebzeiten <persName ref="1753">Leo Juds</persName> (vgl. Z. 24), d. h. vor dem 19. Juni 1542, geschrieben, fällt in die Frühzeit des Aufenthaltes von <persName ref="8364">Beat Gering</persName> in <placeName ref="1720">Gengenbach</placeName> von Herbst 1538 bis 1541 (vgl. zu dessen Berufung unten Z. 20-23). Er enthält auch offensichtlich die Antwort (vgl. Anm. 2f) auf die Ermahnungen Bullingers vom 14. März 1539 (oben <link fk_file="11287">Nr. 1244</link>).</fn>
+			<fn ref="2">Vgl. oben <link fk_file="11287">Nr. 1244</link>, 10-18.</fn>
+			<fn ref="3">Vgl. ebd. 19-30.</fn>
+			<fn ref="4">Die Kirche bestand aus den Gemeinden der Herrschaften <placeName ref="221">Horburg</placeName> und <placeName ref="411">Reichenweier</placeName>, denen <persName ref="1010">Erb</persName> als Superintendent vorstand; vgl. Johann <i>Adam,</i> Evangelische Kirchengeschichte der elsässischen Territorien bis zur französischen Revolution, Straßburg 1928, S. 297.</fn>
+			<fn ref="5">Röm 4, 18.</fn>
+			<fn ref="6"><bibl>Adagia</bibl>, 1, 1, 68 (<bibl>LB</bibl> II 52f).</fn>
+			<fn ref="7">Der entsprechende Brief <persName ref="8374">Hedios</persName> ist nicht erhalten.</fn>
+			<fn ref="8">Gemeint ist der Orator Kaiser Karis V., <persName ref="7852">Johann von Weeze</persName>; zum Stand der Verhandlungen in <placeName ref="157">Frankfurt</placeName> vgl. oben <link fk_file="11293">Nr. 1250</link>, 52-63.</fn>
+			<fn ref="9">Der bereits oben <link fk_file="11287">Nr. 1244</link>, 7-9 erwähnte Markus ist nicht weiter bekannt.</fn>
+			<fn ref="10"><persName ref="8364">Beat Gering</persName>.</fn>
+			<fn ref="11" type="bio" fk_person="261"><persName ref="261">Johannes Buchser</persName>, Pfarrer in <placeName ref="497">Suhr</placeName> (Kt. Aargau). - <persName ref="8364">Gering</persName> war 1538 vom Zürcher Ehegericht von dessen Schwester <persName ref="4928">Sabinella</persName> geschieden worden (vgl. Zürich SIA, YY 1. 5, S. 1026f, und Zürich ZB, Ms F 154, Nr. 5).</fn>
+			<fn ref="12"><persName ref="7492">Wilhelm von Fürstenberg</persName> verwaltete <placeName ref="1720">Gengenbach</placeName> als Pfandherr; vgl. Johannes Volker <i>Wagner,</i> Graf <persName ref="7492">Wilhelm von Fürstenberg</persName>, 1491-1549, und die politischgeistigen Mächte seiner Zeit, Stuttgart 1966. - Pariser Historische Studien, 4, S. 185f.</fn>
+			<fn ref="13"><persName ref="1753">Leo Jud</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12788" id_hbbw="2739" id_irg_sort="2739" id_sort="127390">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12788</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2739</arpa>
+		<scan_pages>
+			<scan id="29889" dir="12788/Autograph/" page="1">00 E_II_357__S__675_.tif</scan>
+			<scan id="29890" dir="12788/Autograph/" page="2">01 E_II_357__S__676_.tif</scan>
+			<scan id="29891" dir="12788/Autograph/" page="3">02 E_II_357__S__676_a_.tif</scan>
+			<scan id="29892" dir="12788/Autograph/" page="4">03 E_II_357__S__676_b_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26099" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="1" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26100" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12788">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">4</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19350">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357a,675 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9000" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Blarer BW II, S. 558–560, Nr. 1390</entry>
+			</print>
+			<print id="9001" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 558–560, Nr. 1390</entry>
+			</print>
+			<print id="12347" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2739, S. 80</entry>
+				<page>80</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="47">
+				<lang id="1" iso="de" count="47" p="100.0"/>
+			</sentences>
+			<words count="713">
+				<lang id="1" iso="de" count="713" p="100.0"/>
+			</words>
+			<chars count="3798">
+				<lang id="1" iso="de" count="3798" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2739" page="79">
+		<div ref="1">
+			[1] Bullinger wird nun sicherlich über die Ergebnisse der Verhandlungen [zwischen <persName ref="8123">Georg Müller</persName> und
+			<persName ref="4082">Konrad Zwick</persName>] in <placeName ref="489">Stein [am Rhein]</placeName> informiert worden sein. Wie beschwerlich doch alles ist!
+		</div>
+		<div ref="2">
+			[2] <persName ref="6407">Peter Scher d.Ä.</persName> von Schwarzenburg schrieb am Vorabend einen Brief aus
+			<placeName ref="26">Balingen</placeName>, voll von schrecklichen Nachrichten. Darin berichtet er,
+			dass die Kaiserlichen in <placeName ref="572">Württemberg</placeName> so schlimm wüten, dass sie
+			selbst die Türken in den Schatten stellen. Die Menschen flüchten, irren umher und wissen weder ein noch aus!
+			In Markdorf [richtig: <placeName ref="310">Marbach am Neckar</placeName>] haben die Kaiserlichen
+			entgegen ihrer Zusage besonders schrecklich gehandelt: Die Männer wurden an ihren Genitalien aufgehängt;
+			ihre Frauen und Töchter vor ihren Augen geschändet; und um an das Geld der Leute zu kommen, folterte man sie
+			auf jede erdenkliche Art und Weise; auch die Amtsträger wurden lange gemartert, ehe man sie tötete; Haus und
+			Hof etlicher Adliger wurden niedergebrannt. Viele Pfarrer sind geflüchtet, weil man einigen die Genitalien
+			herausschnitt. Auch nagelte man einigen Pfarrern Teller auf die Köpfe als Strafe dafür, dass sie die Tonsur
+			der Geistlichen verweigert hatten.
+		</div>
+		<div ref="3">
+			[3] Am vorigen Mittwoch [29. Dezember] hat der Herzog von Alba, Fernando Álvarez de Toledo,
+			<placeName ref="496">Stuttgart</placeName> und <placeName ref="1348">Cannstatt</placeName> zur Kapitulation aufgefordert. Obwohl die
+			Städte um Bedenkzeit gebeten hatten, mussten sie sich sofort ergeben. Auch dort hat der Feind grausam
+			gewütet. <persName ref="6407">Scher</persName> vermutet, dass unterdessen auch <placeName ref="512">Tübingen</placeName> gefallen
+			ist, auch wenn die Garnison des Schlosses vorhat, Widerstand zu leisten.
+		</div>
+		<div ref="4">
+			[4] Lehrer und Studenten sind bereits aus <placeName ref="512">Tübingen</placeName> geflüchtet;
+			so auch <persName ref="6469">Erhard Schnepf</persName>, der vorgestern in
+			<placeName ref="457">Konstanz</placeName> eintraf, wo man ihm auf seine Bitte hin Unterschlupf
+			gewährt. Er wartet noch auf Frau [Margarete, geb. Wurzelmann] und Kinder. Auch er berichtet von großem
+			Jammer.
+		</div>
+		<div ref="5">
+			[5] <placeName ref="1234">Herrenberg</placeName> wurde ebenfalls eingenommen. Das ganze Land
+			[<placeName ref="572">Württemberg</placeName>] wird bald erobert sein, ausgenommen die besetzten
+			Festungen wie Schloss <placeName ref="512">Tübingen</placeName>,
+			<placeName ref="514">Urach</placeName>, <placeName ref="963">Hohenasperg</placeName>,
+			<placeName ref="1913">Schorndorf</placeName>, <placeName ref="1402">Kirchheim unter Teck</placeName> und wenige andere. Hoffentlich halten sie stand.
+		</div>
+		<div ref="6">
+			[6] <persName ref="8055">Blarer</persName> hat gestern einen Brief von [<persName ref="5487">Johannes Knoder</persName>] vom
+			<placeName ref="217">Hohentwiel</placeName> empfangen. Darin wird berichtet, dass Herzog [<persName ref="9780">Ulrich von Württemberg</persName>] in Verhandlung [mit <persName ref="18538">Kaiser Karl V.</persName>] steht, dass
+			er sehr unzufrieden ist und nur einen ehrlichen Frieden anstrebt. Seine Gesandten
+			[<persName ref="7521">Balthasar von Gültlingen</persName>, <persName ref="4778">Johann Fessler</persName> und <persName ref="7474">Ludwig von Frauenberg</persName>]
+			sind noch nicht [vom Kaiser] zurückgekehrt.
+		</div>
+		<div ref="7">
+			[7] Wie konnte sich nur solch eine Tyrannei widerstandslos durchsetzen? Wer hätte geglaubt, dass eines der
+			beiden Lager zugrunde gehen würde, ohne jegliche Kriegshandlung? Gott möge helfen!
+		</div>
+		<div ref="8">
+			[8] Doch noch ist <persName ref="8055">Blarer</persName> unverzagt und hofft, dass auch dieser Feind mit Gottes Hilfe nachgeben wird. Gott
+			gebe<pb_edition start_of="80"/> einen echten Frieden! <persName ref="8055">Blarer</persName> wünscht Bullinger und den Seinen ein
+			gnadenreiches und friedliches Jahr auf Erden, und jenseits das ewige Leben!
+		</div>
+		<div ref="9">
+			[9] Aufgrund seiner vielen Verpflichtungen muss er nun den Brief schließen. Bullinger wird erfahren, dass
+			der <placeName ref="457">Konstanzer</placeName> Rat an den Zürcher Rat geschrieben hat.
+		</div>
+		<div ref="10">
+			[10] Anbei die Abschrift eines Schreibens <persName ref="4249">[Hans] Baumgartners</persName> vom 23. Dezember. Der Rat erhielt es gestern
+			in Abwesenheit von [<persName ref="4082">Konrad Zwick</persName>]. Bullinger kann daraus ersehen, wie
+			die [Friedensverhandlungen] mit schönen Worten [schmackhaft gemacht werden].
+		</div>
+		<div ref="11">
+			[11] Möge der Herr uns behüten! Grüße.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2739" page="80">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Hertzallergelieptester bruͦder, was zuͦ <placeName ref="489">Stain</placeName><fl>2</fl> gehandelt, werdt ir wol bericht sein.</s>
+				<s n="2" lang="de" state="auto">Ach gott, ewiger gott und barmhertziger vatter, wie tragend sich doch die sachen so gantz beschwerlich zuͦ!</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">Mein lieber schwager <persName ref="6407">Peter Schaͤr</persName><fl>3</fl> schribt auff necht<fl>4</fl> von <placeName ref="26">Balingen</placeName><fl>5</fl> auß <placeName ref="572">Wirtemperg</placeName> so ain kleglichen brieff.</s>
+				<s n="4" lang="de" state="auto">Ain froms hertz soͤllt billich<fl>6</fl> bluͦt darob wainen, das der zorn gottes so grausam über unß ergangen ist.</s>
+				<s n="5" lang="de" state="auto">Er zoͤgt an, das die find<fl>7</fl> uber all ding grausam in <placeName ref="572">Wirtemperg</placeName> handlind, das kain Turck erschrockelicher handeln köndt: Die leuͤt fluchind<fl>8</fl>, gangind irrs, louffind hin und wider, wissind nitt wa uß; ziechind muͤtter und kind, jungfrauwen und allte weiber so jemerlich um<fl>9</fl>, das es ain stain erbarmen mocht!</s>
+				<s n="6" lang="de" state="auto">Im staͤttle <placeName ref="310">Marckdorff</placeName><fl>10</fl> habend sy uber<fl>11</fl> ir zuͦsagen so erschrocklich gehandelt, das unglouplich: Die menner by den gemechten<fl>12</fl> uffgehenckt, ire wyber und tochteren angsicht irer<fl>13</fl> augen geschondt, alle menschen mitt wunderseltzamen folterungen gepeiniget, gellt von inen ze pringen; alle ampt und bevelchsleut, die sy betretten<fl>14</fl>, muͦssend herhalten, vorhin lang gemarteret und darnach erst gar erwirgt werden!</s>
+				<s n="7" lang="de" state="auto">Ettlichen edelleuten haben sy auch huß und hof verbrent.</s>
+				<s n="8" lang="de" state="auto">Vyl pfarrer sind entrunnen uss den flecken und doͤrffern, dann<fl>15</fl> sy ettlichen die gmecht gar ausgeschnitten.</s>
+				<s n="9" lang="de" state="auto">Item sy habend negel in teller gehefft und ettlichen pfarrern uff die koͤpff genaglet und geschlagen, <pb_edition start_of="81"/> zuͦ inn gesagt: diewyl sy nitt platten<fl>16</fl> habind tragen wellen, muͤssind diß ire platten sin.</s>
+				<s n="10" lang="de" state="auto">In summa: Es ist ain unglouplich tyranny!</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="11" lang="de" state="auto">Uff nechstvergangen mittwoch<fl>17</fl> hat der duca de Alba<fl>18</fl> <placeName ref="496">Stuͦtgart</placeName><fl>19</fl> und <placeName ref="1348">Canstett</placeName><fl>20</fl> uffgefordert.<fl>21</fl></s>
+				<s n="12" lang="de" state="auto">Habend sy ain verdacht<fl>22</fl> begert, aber nitt erlangen moͤgen, sonder habind sich gleich uffgeben muͤssen.</s>
+				<s n="13" lang="de" state="auto">Habind<fl>23</fl> da gehauset und noch, das es nieman ersagen<fl>24</fl> koͤnne.</s>
+				<s n="14" lang="de" state="auto">Und achtet min schwager, sy habind yetz <placeName ref="512">Tubingen</placeName> auch inn, wiewol sich die im schloss weren wellen.<fl>25</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="15" lang="de" state="auto">Die doctores und studenten sind vor ettlichen tagen all zerstoben<fl>26</fl> und hinwegg.</s>
+				<s n="16" lang="de" state="auto">Doctor <persName ref="6469">Erhart Schnepff</persName><fl>27</fl> ist uff vorgestert<fl>28</fl> herkommen von <placeName ref="512">Tubingen</placeName>.</s>
+				<s n="17" lang="de" state="auto">Wartet all stund seiner weyb<fl>29</fl> und kind.<fl>30</fl></s>
+				<s n="18" lang="de" state="auto">Begert hie underschloff, der ime ouch bewilliget worden.</s>
+				<s n="19" lang="de" state="auto">Sagt von grossem jomer.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="20" lang="de" state="auto"><placeName ref="1234">Herrenberg</placeName> ist ouch berendt, und wirt das gantz land in kurtzen tagen gar eroberet, aussgenommen wa vestinen<fl>31</fl> sind mitt zuͦsetzen<fl>32</fl>, alls schlosß <placeName ref="512">Tubingen</placeName>,<fl>33</fl> <placeName ref="514">Urach</placeName>,<fl>34</fl> <placeName ref="963">Asperg</placeName><fl>35</fl> <placeName ref="1913">Schorndorff</placeName><fl>36</fl>, <placeName ref="1402">Kirchen under Teck</placeName><fl>37</fl> und wenig ander; mögend sich, wills gott, enthalten.<fl>38</fl><pb_edition start_of="82"/></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="21" lang="de" state="auto"><pb_scan n="676"/>Ich hab brieff ab <placeName ref="217">Hochenwiel</placeName><fl>39</fl> empfangen uff necht, by denen ich abnym, das der <persName ref="9780" state="auto_name">hertzog</persName><fl>40</fl> übel zuͦ friden<fl>41</fl> und das er wol in ainer handlung<fl>42</fl>, aber gar nitt willens ist anzenemmen, das im verwisslich<fl>43</fl> und unehrlich seye.</s>
+				<s n="22" lang="de" state="auto">Seine gesandten<fl>44</fl> sind noch nitt widerum kommen.</s>
+				<s n="23" lang="de" state="auto">Mittler zeyt handelt der find alls tyrannisch und grausam.</s>
+				<s n="24" lang="de" state="auto">Hoff zuͦ gott, es werde nichts drausß, das er sich allso an kaiser ergebe.</s>
+				<s n="25" lang="de" state="auto">Ist weger<fl>45</fl>, ain land vorloren<fl>46</fl> mitt ehren, dann mitt schand und unehr behalten.</s>
+				<s n="26" lang="de" state="auto">Es mag allweg<fl>47</fl> bald widerum gewunnen werden, sonder wann<fl>48</fl> ettlich vestinen halten und ja der herr gott ain benuͤgen well haben.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="27" lang="de" state="auto">Ach, min gott, ists nitt zuͦ erbarmen, das solich tyranney on allen widerstand ain fuͤrgang haben solle?</s>
+				<s n="28" lang="de" state="auto">Wer hetts ymmer<fl>49</fl> geglopt<fl>a</fl>, das man dermassen stillsytzen und ye ainer den andern, byß er verderbe, zuͦsechen sollt!</s>
+				<s n="29" lang="de" state="auto">Hilff, ewiger gott!</s>
+				<s n="30" lang="de" state="auto">Wie ist das so ain grosser zorn?</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="31" lang="de" state="auto">Nun wolan!</s>
+				<s n="32" lang="de" state="auto">Noch byn ich unverzagt und hoff ongezwyfellt, diser find muͤsß ouch, und nun bald, frid geben und verzablen<fl>50</fl> durch weg und mittel, die dem lieben vatter im himel wol bekandt sind!</s>
+				<s n="33" lang="de" state="auto">Den helffend unß mitt ernst und trungelichem pitt<fl>51</fl> anruͤffen.</s>
+				<s n="34" lang="de" state="auto">Er well unnß mitt gnaden ansechen, sein schwert instecken und ain bestendigen friden geben um des fridfursten<fl>52</fl> Jesu Christi willen!</s>
+				<s n="35" lang="de" state="auto">In dem wunsch und beger ich hertzlich usß allen krefften euch und den ewern vyl, vyl guͦter, gnadreycher, frydrycher, globricher<fl>53</fl>, liebricher und dultricher jar hie, und dört<fl>54</fl> das ewig leben!</s>
+				<s n="36" lang="de" state="auto">Amen.</s>
+				<s n="37" lang="de" state="auto">Amen.<pb_edition start_of="83"/></s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="38" lang="de" state="auto">Ich kan nitt mehr.</s>
+				<s n="39" lang="de" state="auto">So vyl ist der geschefft und schreibens, das mir uff dem hals lygt!</s>
+				<s n="40" lang="de" state="auto">Habt fuͤr guͦt.<fl>55</fl></s>
+				<s n="41" lang="de" state="auto">Es schreiben mine herren den ewern, wie ir bericht werdt.<fl>56</fl></s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="42" lang="de" state="auto">So schick ich euch mitt ain copey aines schribens.<fl>57</fl></s>
+				<s n="43" lang="de" state="auto">Ist erst gestert in abwesen meines vetters<fl>58</fl> meinen herren von dem reychen, gwaltigen mann, dem <persName ref="4249">Pomgarter</persName><fl>59</fl>, zuͦkomen, wiewol 23. decembris geben, ausß dem ir leycht zuͦ vernemmen hapt, was man sich mitt guͦten worten zuͦ erlangen understaht.<fl>60</fl></s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="44" lang="de" state="auto">Der ewig, barmhartzig vatter behuͤt unß vor allem, das seinem nammen unehrlich und deßhalb unß an unserm hail und ewigen leben nachtailig seye!</s>
+				<s n="45" lang="de" state="auto">Gruͤzt all guͦt herren und freund.</s>
+				<s n="46" lang="de" state="auto">Euch gruͤzt yederman.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Adresse:<fl>b</fl>]</note>
+				<s n="47" lang="de" state="auto">An Maister Hainrich Bullinger.<fl>c</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2739">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage</i> gelopt.</fn>
+			<fn ref="b"><i>Auf der Versoseite eines nicht nummerierten und sonst unbeschriebenen Blattes, welches im Einband nach dem Blatt mit dem Brieftext folgt.</i></fn>
+			<fn ref="c"><i>Darunter von Bullingers Hand in einer heute nur noch schwer leserlichen, verblassten Schrift:</i> Has mitto, ut populum horteris ad preces et poenitentiam. <i>Der Brief wurde vermutlich an <persName ref="8418">Oswald Myconius</persName> (vgl. z.B. <bibl>HBBW XVIII</bibl> <link fk_file="12743">[Nr. 2696]</link> 337, Anm. a) weitergesandt; s. <link fk_file="12789">Nr. 2740</link>, Anm. 37.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Der Briefinhalt sowie die Neujahrswünsche (unten Z. 53-55) lassen auf eine Datierung um die Jahreswende 1546/47 schließen. Aus der Angabe unten Z. 22 geht hervor, dass vorliegender Brief spätestens am Mittwoch den 5. Januar verfasst worden sein muss. Angesichts der hier übermittelten Nachrichten zu <placeName ref="310">Marbach am Neckar</placeName>, <placeName ref="496">Stuttgart</placeName> und <placeName ref="512">Tübingen</placeName> (s. unten Anm. 10, Anm. 19 und Anm. 25) zum einen und angesichts der Distanzen zwischen Marbach bzw. <placeName ref="496">Stuttgart</placeName> und Balingen sowie zwischen Balingen und <placeName ref="457">Konstanz</placeName> (s. unten Anm. 5) zum anderen kann vorliegender Brief kaum vor dem 2. Januar entstanden sein. In Kombination mit den Angaben unten Z. 57f und Anm. 56 ist der Brief somit auf den 4. Januar zu datieren.</fn>
+			<fn ref="2">Zum Treffen zwischen <persName ref="8123">Georg Müller</persName> und <persName ref="4082">Konrad Zwick</persName> in <placeName ref="489">Stein am Rhein</placeName> am 2. Januar s. <bibl>HBBW</bibl> XVIII 461, Anm. 56; 465f, 18-26; 466f,38-47.</fn>
+			<fn ref="3" type="bio" fk_person="6407"><persName ref="6407">Peter Scher d.Ä.</persName> von Schwarzenburg, dessen Verwandtschaftsgrad mit den <persName ref="8055">Blarers</persName> nicht nachvollziehbar ist; s. <bibl>HBBW</bibl> XV 541, Anm. 30. "Schwager" wird jedoch auch zur vertraulichen Anrede unter nicht verwandten Personen gebraucht; s. <bibl>Fischer</bibl> V 1229.</fn>
+			<fn ref="4">gestern Abend.</fn>
+			<fn ref="5">Der Ort befindet sich etwa 95 km südlich von <placeName ref="310">Marbach am Neckar</placeName>, 70 km südlich von <placeName ref="496">Stuttgart</placeName>, 35 km südlich von <placeName ref="512">Tübingen</placeName> (alles Ortschaften, über die <persName ref="6407">Scher</persName> in seinem Brief an <persName ref="8055">Blarer</persName> berichtet hatte) und etwa 85 km nördlich von <placeName ref="457">Konstanz</placeName>, wo <persName ref="8055">Blarer</persName> <persName ref="6407">Schers</persName> Brief empfing, ehe er den vorliegenden Brief schrieb.</fn>
+			<fn ref="6">zu Recht.</fn>
+			<fn ref="7">Feinde.</fn>
+			<fn ref="8">fliehen; s. <bibl>SI</bibl> I 1182.</fn>
+			<fn ref="9">umziehen: hier möglicherweise im Sinne von quälen, belästigen; s. <bibl>Grimm</bibl> XXIII 1290. - Gemeint wäre also, dass die Feinde die Frauen und Kinder quälen.</fn>
+			<fn ref="10">Verwechslung mit <placeName ref="310">Marbach am Neckar</placeName>, wo vom 28. bis 30. Dezember die Truppen <persName ref="18296">Philipps von Lannoy</persName>, des Prinzen von Sulmona, unmenschlich hausten; s. <i>Heyd, Ulrich von Württ.</i> III 448 und Anm. 19.</fn>
+			<fn ref="11">entgegen; s. <bibl>SI</bibl> I 58.</fn>
+			<fn ref="12">Genitalien; s. <bibl>Fischer</bibl> III 315.</fn>
+			<fn ref="13">ihrer Männer.</fn>
+			<fn ref="14">aufgreifen; s. <bibl>Fischer</bibl> I 956.</fn>
+			<fn ref="15">da, weil.</fn>
+			<fn ref="16">Die Tonsur der katholischen Geistlichen; s. <bibl>SI</bibl> V 194.</fn>
+			<fn ref="17">Angesichts der unten in Anm. 19 gemachten Angaben kann hier nur Mittwoch der 29. Dezember 1546 gemeint sein.</fn>
+			<fn ref="18">Fernando Alvarez de Toledo, Herzog von Alba (1507-1582).</fn>
+			<fn ref="19"><placeName ref="496">Stuttgart</placeName> wurde am Donnerstag (nicht Mittwoch) den 30. Dezember aufgefordert, sich den Kaiserlichen zu ergeben. Am 31. Dezember musste die Stadt ihre Tore den Truppen von <persName ref="4655">Francisco Duarte</persName> und <persName ref="5221">Konrad von Boyneburg</persName> (auch Bemelburg genannt) öffnen; s. <i>Heyd,</i> aaO, 450; Karl <i>Pfaff</i> Geschichte der Stadt <placeName ref="496">Stuttgart</placeName>, Bd. 1: Von den ältesten Zeiten bis zum Jahre 1650, <placeName ref="496">Stuttgart</placeName> 1845, S. 215f.</fn>
+			<fn ref="20"><placeName ref="1348">(Bad) Cannstatt</placeName>, heute Stadtteil von <placeName ref="496">Stuttgart</placeName>.</fn>
+			<fn ref="21">zur Übergabe aufgefordert; s. <i>FNHDW</i> II 414.</fn>
+			<fn ref="22">Bedenkzeit.</fn>
+			<fn ref="23">Subjekt sind die Kaiserlichen.</fn>
+			<fn ref="24">berichten; Worte dafür finden; s. <bibl>SI</bibl> VII 408.</fn>
+			<fn ref="25"><placeName ref="512">Tübingen</placeName> hatte am Dienstag den 4. Januar eine Botschaft an den Herzog von Alba gesandt. Die Stadt huldigte <persName ref="18538">Kaiser Karl V.</persName> am 6. Januar. Das Schloss aber blieb dem <persName ref="9708">Herzog Ulrich von Württemberg</persName> erhalten, dank des entschlossenen Widerstands des Schlossvogtes <persName ref="6423">Ulrich Schilling</persName>; s. <i>Heyd,</i> aaO, S. 451; Karl von <i>Martens,</i> Geschichte der innerhalb der gegenwärtigen Gränzen des Königreichs Württemberg vorgefallenen kriegerischen Ereignisse, <placeName ref="496">Stuttgart</placeName> 1847, S. 272.</fn>
+			<fn ref="26">geflohen; s. <bibl>SI</bibl> X 1088.</fn>
+			<fn ref="27"><persName ref="6469">Erhard Schnepf</persName>, Pfarrer und Professor in <placeName ref="512">Tübingen</placeName>.</fn>
+			<fn ref="28" type="bio" fk_person="6469">Dank der genauen Datierung dieses Briefes in oben Anm. 1 steht nun fest, dass <persName ref="6469">Erhard Schnepfs</persName> Ankunft in <placeName ref="457">Konstanz</placeName> auf den 2. Januar 1547 anzusetzen ist. Dieses Datum wird auch durch den Brief des <placeName ref="457">Konstanzer</placeName> Rats an Zürich vom 4. Januar (Zürich StA, A 177, <link fk_file="10188">Nr. 157</link>) bestätigt. Daraufhin holte Schnepf seine Familie nach oder ging dieser zumindest entgegen, um zusammen mit ihr am 7. Januar in <placeName ref="457">Konstanz</placeName> einzutreffen; s. <link fk_file="12792">Nr. 2743</link>,65-67. Demzufolge können nun die Angaben bei Hermann <i>Ehmer</i> <persName ref="6469">Erhard Schnepf</persName>. Ein Lebensbild, in: <bibl>BWKG</bibl> LXXXVII, 1987, 102, präzisiert werden.</fn>
+			<fn ref="29">Margarete, geb. Wurzelmann.</fn>
+			<fn ref="30" type="bio" fk_person="6469">Zu den acht Kindern <persName ref="6469">Schnepfs</persName> s. Julius <i>Hartmann,</i> Erhard Schnepff, der Reformator in Schwaben, Nassau, Hessen und Thüringen, <placeName ref="512">Tübingen</placeName> 1870, S. 9. 128f.</fn>
+			<fn ref="31">Festungen.</fn>
+			<fn ref="32">Besatzung; s. <bibl>Fischer</bibl> VI/1 1382.</fn>
+			<fn ref="33">Siehe dazu oben Anm. 25.</fn>
+			<fn ref="34"><placeName ref="514">Urach</placeName> unterwarf sich am 9. Januar, nachdem es am 2. und 6. Januar dazu aufgefordert wurde; s. <i>Martens,</i> aaO, S. 272f.</fn>
+			<fn ref="35">Die Festung <placeName ref="963">Hohenasperg</placeName> bei Asperg (Lb. Ludwigsburg, B.-Württ.), etwa 18 km nördlich von <placeName ref="496">Stuttgart</placeName>; s. dazu schon <bibl>HBBW</bibl> XVIII 438, Anm. 18. Sie ergab sich am 15. Januar; s. <i>Martens,</i> aaO, S. 275.</fn>
+			<fn ref="36">Die Festung (Burgschloss) <placeName ref="1913">Schorndorf</placeName> (Rems-Murr-Kreis, B.-Württ.), etwa 30 km östlich von <placeName ref="496">Stuttgart</placeName>. Die Festung ergab sich auch am 15. Januar; s. <i>Martens,</i> aaO, S. 275.</fn>
+			<fn ref="37"><placeName ref="1402">Kirchheim unter Teck</placeName> (Kr. Esslingen, Baden-Württemberg), etwa 30 km südöstlich von <placeName ref="496">Stuttgart</placeName>. Die Festung wurde bereits am 31. Dezember vom Herzog von Alba zur Übergabe aufgefordert, ergab sich aber erst am 9. Januar (oder kurz zuvor); s. <i>Martens,</i> aaO, S. 275.</fn>
+			<fn ref="38">behaupten, standhalten; s. <bibl>Fischer</bibl> II 731.</fn>
+			<fn ref="39">Die Festung <placeName ref="217">Hohentwiel</placeName> bei <placeName ref="1302">Singen</placeName> (Lkr. <placeName ref="457">Konstanz</placeName>), etwa 30 km nordwestlich von <placeName ref="457">Konstanz</placeName>. - Bei dem Briefschreiber handelte es sich vermutlich um den württembergischen Altkanzler <persName ref="5487">Johannes Knoder</persName>; vgl. <link fk_file="12792">Nr. 2743</link>,79f; <link fk_file="12795">Nr. 2746</link>,25-30.</fn>
+			<fn ref="40"><persName ref="9780">Ulrich von Württemberg</persName>.</fn>
+			<fn ref="41">Vgl. schon <bibl>HBBW</bibl> XVIII 426,44-50.</fn>
+			<fn ref="42">Friedensverhandlung. - Der Herzog stand seit Anfang Dezember in Verhandlung mit dem Kaiser; s. <i>Heid, <persName ref="9780">Ulrich von Württ.</persName></i> III 454-465.</fn>
+			<fn ref="43">tadelnswert; s. <bibl>Fischer</bibl> II 1408.</fn>
+			<fn ref="44"><persName ref="7521">Balthasar von Gültlingen</persName>, württembergischer Hofrat und Kriegsrat des schmalkaldischen Bundesheeres, Kanzler <persName ref="4778">Johann Fessler</persName> und <persName ref="7474">Ludwig von Frauenberg</persName>; s. <i>Heyd, <persName ref="9780">Ulrich von Württ.</persName></i> III 466- 470.</fn>
+			<fn ref="45">besser; s. <bibl>Fischer</bibl> VI/1 353.</fn>
+			<fn ref="46">verloren.</fn>
+			<fn ref="47">wohl; s. <bibl>SI</bibl> XV 863.</fn>
+			<fn ref="48">sonder wann: besonders wenn.</fn>
+			<fn ref="49">je.</fn>
+			<fn ref="50">zugrundegehen; verzweifeln; s. <bibl>SI</bibl> XVI 106.</fn>
+			<fn ref="51">trungelichem pitt: inständigem Bitten.</fn>
+			<fn ref="52">Anspielung auf Jes 9. 5.</fn>
+			<fn ref="53">glaubensreiches (Jahr).</fn>
+			<fn ref="54">im Jenseits.</fn>
+			<fn ref="55">Habt für güt: Begnügt euch damit.</fn>
+			<fn ref="56">Aus dem oben in Anm. 1 festgelegten Zeitraum vom 2. bis 5. Januar ist nur ein Brief des <placeName ref="457">Konstanzer</placeName> Rats an den Zürcher Rat erhalten, nämlich der vom 4. Januar (<placeName ref="587">Zürich</placeName> StA, A 177, <link fk_file="10188">Nr. 157</link>).</fn>
+			<fn ref="57">Nicht erhalten.</fn>
+			<fn ref="58"><persName ref="4082">Konrad Zwick</persName>.</fn>
+			<fn ref="59"><persName ref="4249">Hans Baumgartner</persName>, der an den Friedensverhandlungen mit dem Kaiser beteiligt war; s. <bibl>HBBW</bibl> XVIII 375,9-15; 400, Anm. 1. - Bullinger verfasste sogar anstelle des <placeName ref="457">Konstanzer</placeName> Rats eine Antwort, die er den Konstanzern als Antwortvorschlag zukommen lassen wollte. Doch befindet sich dieses Autograph heute in <placeName ref="587">Zürich</placeName> StA, A 205.2, Nr. 1. Wahrscheinlich widersetzten sich die Zürcher Behörden diesem Plan. Mit dem Schreiben sollte Baumgartner anhand konkreter Beispiele dargelegt werden, warum die <placeName ref="457">Konstanzer</placeName> weiterhin der Meinung blieben, nicht mit einem wohlgesinnten, sondern mit einem "ungnedigen Keyser" zu tun zu haben, und warum sie demzufolge dem Friedensangebot misstrauisch gegenüberstanden.</fn>
+			<fn ref="60">sich understaht: versucht.</fn>
+		</num>
+	</footnotes>
+</file>

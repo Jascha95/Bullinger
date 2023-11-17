@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12817" id_hbbw="2768" id_irg_sort="2768" id_sort="127680">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12817</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2768</arpa>
+		<scan_pages>
+			<scan id="30002" dir="12817/Autograph/" page="1">00 E_II_441__fol__424_r_.tif</scan>
+			<scan id="30003" dir="12817/Autograph/" page="2">01 E_II_441__fol__424_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26175" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26176" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+			</addressee>
+			<addressee id="26177" vf="1" fk_add_type="1">
+				<person id="1278" fk_id="1278">
+					<name>Gast</name>
+					<forename>Johannes</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12817">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">25</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19383">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 441,424</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9038" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 931f, Nr. 1047</entry>
+			</print>
+			<print id="12409" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2768, S. 184</entry>
+				<page>184</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="21">
+				<lang id="1" iso="de" count="12" p="57.1"/>
+				<lang id="5" iso="la" count="9" p="42.9"/>
+			</sentences>
+			<words count="285">
+				<lang id="1" iso="de" count="171" p="60.0"/>
+				<lang id="5" iso="la" count="114" p="40.0"/>
+			</words>
+			<chars count="1676">
+				<lang id="1" iso="de" count="970" p="57.9"/>
+				<lang id="5" iso="la" count="706" p="42.1"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2768" page="184">
+		<div ref="1">
+			[1] <persName ref="8418">Myconius</persName> soll dafür sorgen, dass der beiliegende Brief durch den
+			nächsten zuverlässigen Boten nach <placeName ref="492">Straßburg</placeName> an
+			<persName ref="467">Bucer</persName> befördert wird, indem er das Schreiben etwa dem gemeinsamen
+			Freund, dem Basler Stadtschreiber [<persName ref="6310">Heinrich Ryhiner</persName>] (den Bullinger
+			übrigens grüßen lässt), anvertraut.
+		</div>
+		<div ref="2">
+			[2] <persName ref="8049">Vadian</persName> schreibt [nicht erhalten], dass <persName ref="4649">Giannettino Doria</persName>, ein Beamter <persName ref="18538">Kaiser Karls V.</persName>, bei einem
+			blutigen Aufruhr in <placeName ref="1121">Genua</placeName> erstochen worden sei. Man habe den
+			Urheber des Aufstandes, Graf <persName ref="4782">Gian Luigi Fieschi</persName>, einen Anhänger des Papstes Pauls III., festgenommen. Er
+			wollte, wie er gestand, <placeName ref="1121">Genua</placeName> einnehmen und dem Papst übergeben.
+			Dies sei von einem aus <placeName ref="306">Mailand</placeName> zurückgekehrten Mann [...]
+			berichtet worden. Sollte die Nachricht stimmen (und möge sie zutreffen!), wird der Papst wohl auch erfahren,
+			dass der Kaiser zum Fluss Styx [an der Grenze zum Totenreich]
+			hinabgestiegen ist und von den römischen Kaisern <persName ref="18817">Nero</persName>, <persName ref="18462">Domitian</persName>, <persName ref="20046">Diokletian</persName> und <persName ref="19186">Julian</persName> gelernt hat, wie man
+			das Evangelium ausrottet!
+		</div>
+		<div ref="3">
+			[3] In <placeName ref="513">Ulm</placeName> geht es schlimm zu. Die Spanier und
+			<entity id="16" type="geo_country">Italiener</entity> benehmen sich so, wie man es von ihnen kennt. Gott
+			erbarme sich! Der Kaiser hätte gestern dort einreiten sollen, ist aber angeblich krank.
+		</div>
+		<div ref="4">
+			[4] Am Samstag [22. Januar] erhielt Bullinger den Brief von <persName ref="8418">Myconius</persName>
+			[<link fk_file="12810">Nr. 2761</link>] durch den Zürcher Boten [<persName ref="6435">Melchior Schlosser</persName>]. Am selben Tag zog die
+			Zürcher Obrigkeit für das Banner und das Fähnlein 6000 [richtig: 4000] bzw. 2000 Mann ein. Zudem werden die
+			Vogteien [der Gemeinen Herrschaften] <placeName ref="774">Thurgau</placeName> und
+			<placeName ref="1003">Sargans</placeName> sowie die durch das Burgrecht mit
+			<placeName ref="587">Zürich</placeName> verbündeten und verpflichteten Gebiete [in der Landschaft
+			<placeName ref="587">Zürich</placeName>] wohl an die 2000 weitere Mann stellen. [Für das Banner]
+			wurde <persName ref="3493">Bernhard von Cham</persName> zum Hauptmann, <persName ref="8436">Andreas Schmid</persName> zum Bannerherrn,
+			der alte <persName ref="6543">[Rudolf] Schwyzer</persName> zum Vortrager, <persName ref="6793">[Itelhans] Thumysen</persName> zum Schützenhauptmann, <persName ref="5273">[Hans] Holzhalb</persName> zum Schützenfähnrich
+			und <persName ref="1953">Heinrich Lochmann</persName> zum [Schützen]vortrager ernannt. Für das
+			Fähnlein wurde Seckelmeister <persName ref="6157">Heinrich Rahn d.Ä.</persName> zum Hauptmann,
+			<persName ref="5519">Heinrich Kramer</persName> zum Fähnrich, <persName ref="5681">Rudolf Lochmann</persName> zum Vortrager und
+			<persName ref="5435">Balthasar Keller</persName> zum Schützen bestimmt. Heute werden die Wachen und
+			die Proviantmeister sowie die Hauptleute zu den Spießen und Hellebarden gewählt. Auch für
+			<placeName ref="489">Stein am Rhein</placeName> und andere Orte sollen Hauptleute eingesetzt
+			werden.
+		</div>
+		<div ref="5">
+			[5] Gruß, auch an <persName ref="1278">Johannes Gast</persName>.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2768" page="184">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. D.</s>
+				<s n="2" lang="la" state="auto">Hasce literas<fl>2</fl> d. <persName ref="467">Bucero</persName> primo quoque tabellioni et certo quidem tradas, oro, <placeName ref="492">Argentinam</placeName> perferendas.</s>
+				<s n="3" lang="la" state="auto">Poteris id commode per archigrammateum<fl>3</fl>, comunem amicum nostrum, perficere, quem et salutabis.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="la" state="auto">D. <persName ref="8049">Vadianus</persName> scribit<fl>4</fl> <placeName ref="1121">Ianuae</placeName> (<placeName ref="1121">Genow</placeName>)<fl>5</fl> tumultuatum esse multo cum sanguine et transfixum quidem conto Ianingne de <persName ref="4649">Doria</persName><fl>6</fl>, caesaris<fl>7</fl> officialem, <pb_edition start_of="185"/> occubuisse, conto autem de Flisco<fl>8</fl>, papisticum et seditionis authorem coniectum in vincula, confiteri, quod pontifici<fl>9</fl> voluerit <placeName ref="1121">Ianuam</placeName> occupare et tradere.</s>
+				<s n="5" lang="la" state="auto">Haec retulit, qui<fl>10</fl> hisce diebus e <placeName ref="306">Mediolano</placeName> venit.</s>
+				<s n="6" lang="la" state="auto">Quod si verum est, novit forte papa caesarem Stygias profectum ad undas<fl>11</fl> a <persName ref="18817">Nerone</persName><fl>12</fl>, Domiciano<fl>13</fl>, <persName ref="20046">Diocletiano</persName><fl>14</fl> et <persName ref="19186">Iuliano</persName><fl>15</fl> artes discere, quomodo herbescens evangelium extinguat; quod tam verum vellem, quam constanter a multis asseveratur.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="de" state="auto">Zuͦ <placeName ref="513">Ulm</placeName> gadts übel.</s>
+				<s n="8" lang="de" state="auto">Die hispanier und <entity id="16" type="geo_country">Italier</entity> thuͦnd wie ir bruch.</s>
+				<s n="9" lang="de" state="auto">Gott erbarm sich der armen lüten!</s>
+				<s n="10" lang="de" state="auto">Keyser hatt gester<fl>16</fl> ynryten soͤllen.</s>
+				<s n="11" lang="de" state="auto">Sagend wol, er lig imm holtz.<fl>17</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="12" lang="de" state="auto">Sampstags<fl>18</fl> ist mir üwer schriben<fl>19</fl> von unserm loͤuffer<fl>20</fl> worden.</s>
+				<s n="13" lang="de" state="auto">Desselben tags habend min herren ußgenomen<fl>21</fl> zuͦ irem stattpaner und fenli<fl>22</fl>: Acht man, dem fenli 2000 man, der paner 6000.<fl>23</fl></s>
+				<s n="14" lang="de" state="auto">Und diewyl die vogthien Durgoͤw<fl>24</fl> und <placeName ref="1003">Sargans</placeName> an <placeName ref="587">Zürych</placeName>, werdint sy da ouch ußnemmen<fl>25</fl> sampt andern, die minen herren mitt burgraͤcht<fl>26</fl> und pflicht verwandt: ouch ettwan in 2000.</s>
+				<s n="15" lang="de" state="auto"><persName ref="3493">Bernhart von Cham</persName>,<fl>27</fl> ein trüw, redlich man, houptman; Anderes <persName ref="8437">Schmid</persName>,<fl>28</fl> vast trostlich,<fl>29</fl> panerher; der allt m. <persName ref="6543">Schwyzer</persName><fl>30</fl> vortrager<fl>31</fl>; m. <pb_edition start_of="186"/> Dumysen<fl>32</fl> schützenhouptmann; m. Holtzhalb<fl>33</fl> schützenfenrych; <persName ref="1953">Heinrych Lochman</persName> vortrager<fl>34</fl>; seckelmeister <persName ref="6157">Heinrych Raan</persName><fl>35</fl>, der allt, houptman zum fenly; m. <persName ref="5519">Heinrych Kramer</persName><fl>36</fl> fenrych; <persName ref="5681" state="auto_name">Rodolff Lochman</persName><fl>37</fl> vortrager; Baltazar Kaͤller<fl>38</fl> schützen zum fenlihouptman.</s>
+				<s n="16" lang="de" state="auto">Hütt ordnet man wacht und provandtmeister, zuͦ den spiessen, helmbarten houptlüt,<fl>39</fl> item gen <placeName ref="489">Stein</placeName> am Rhyn<fl>40</fl> und anderschwo hin houptlüt.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="17" lang="de" state="auto">Gott mitt uns.</s>
+				<s n="18" lang="la" state="auto">Valeat et <persName ref="1278">Gastius</persName>.</s>
+				<s n="19" lang="la" state="auto">25. ianuarii.</s>
+				<s n="20" lang="la" state="auto">Bullinger.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="21" lang="de" state="auto">An herren <persName ref="8418">Oßwalden Myconien</persName> oder in sinem abwaͤsen an herren <persName ref="1278">Hansen Gasten</persName>, predicanten zuͦ <placeName ref="28">Basel</placeName>.<fl>a</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2768">
+		<alpha>
+			<fn ref="a"><i>Anmerkung von anderer Hand als Überschrift für ein Briefbündel:</i> Bullingeri ad d. Myconium, pastorem Basiliensem, literae Basilaea remissae. - <i>Diese Briefe wurden nach <persName ref="8418">Myconius</persName>' Ableben von Bullinger zurückgefordert; s. Henrich, <persName ref="8418">Myconius</persName> BW 80.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Das Jahr ergibt sich aus dem Briefinhalt.</fn>
+			<fn ref="2" type="bio" fk_person="1888">Vielleicht ein Brief des Bürgermeisters <persName ref="1888">Hans Rudolf Lavater</persName> im Anschluss an den Brief der Zürcher Pfarrer Nr. 2745 vom 10. Januar in Zusammenhang mit der Weigerung von <persName ref="1884">Lavaters</persName> Sohn Ludwig, am Abendmahl teilzunehmen.</fn>
+			<fn ref="3">Der Basler Stadtschreiber <persName ref="6310">Heinrich Ryhiner</persName>.</fn>
+			<fn ref="4">In einem nicht erhaltenen Brief, den Bullinger dem <persName ref="8055">Ambrosius Blarer</persName> zum Lesen weiterleitete; s. <link fk_file="12823">Nr. 2774</link>,34f.</fn>
+			<fn ref="5"><placeName ref="1121">Genua</placeName>.</fn>
+			<fn ref="6">Graf <persName ref="4649">Giannettino Doria</persName>; s. Nr. 2759, Anm. 49.</fn>
+			<fn ref="7"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="8"><persName ref="4782">Gian Luigi Fieschi</persName>.</fn>
+			<fn ref="9"><persName ref="19981">Paul III.</persName></fn>
+			<fn ref="10">Unbekannt.</fn>
+			<fn ref="11">Stygias undas: Der Fluss Styx in der Unterwelt, der die Grenze zum Totenreich (Hades) bildet.</fn>
+			<fn ref="12"><persName ref="18817">Nero</persName>, römischer Kaiser von 54 bis 68, bekannt (wie auch die hier nachfolgend angeführten römischen Kaiser) als Verfolger der Christen.</fn>
+			<fn ref="13"><persName ref="18462">Domitian</persName>, römischer Kaiser von 81 bis 96.</fn>
+			<fn ref="14"><persName ref="20046">Diokletian</persName>, römischer Kaiser von 284 bis 305.</fn>
+			<fn ref="15" type="bio" fk_person="19186"><persName ref="19186">Julian, gen. Apostata</persName>, römischer Kaiser von 361 bis 363.</fn>
+			<fn ref="16">Er traf am Abfassungstag des vorliegenden Briefes in <placeName ref="513">Ulm</placeName> ein; s. Nr. 2754, Anm. 18.</fn>
+			<fn ref="17">im Holz liegen: Ein längerer Bettaufenthalt im warmen Zimmer, verbunden mit einer Fastenkur, oft bei Syphilis angewandt; s. <bibl>HBBW</bibl> XV 147, Anm. 15. Vgl. ferner <bibl>HBBW</bibl> XVI 177 mit Anm. 18.</fn>
+			<fn ref="18">D.h. am 22. Januar.</fn>
+			<fn ref="19"><persName ref="8418">Myconius</persName>' Brief vom 20. Januar (<link fk_file="12810">Nr. 2761</link>).</fn>
+			<fn ref="20">Sehr wahrscheinlich <persName ref="6435">Melchior Schlosser</persName>. Zu seiner Entsendung nach <placeName ref="28">Basel</placeName> um diese Zeit s. <placeName ref="587">Zürich</placeName> StA, F III 32, Seckelamtsrechnungen 1546/47, S. 65 der Ausgabenabteilung für laufende Boten.</fn>
+			<fn ref="21">einberufen.</fn>
+			<fn ref="22">Das Banner und das Fähnlein stehen für größere bzw. kleinere Truppenabteilungen.</fn>
+			<fn ref="23">Richtig: 4000 Mann, wie aus der in <placeName ref="587">Zürich</placeName> StA, A 29.1 (Kriegs- und Reissachen), Aktenbündel Nr. 11, unter dem 22. Januar 1547, überlieferten Liste hervorgeht, in der die Zusammenstellung des damals einbezogenen Banners überliefert ist. - Ein entsprechende Liste für das Fähnlein ist nicht erhalten.</fn>
+			<fn ref="24"><placeName ref="774">Thurgau</placeName>.</fn>
+			<fn ref="25">ausheben, mustern.</fn>
+			<fn ref="26">Das Burgrecht war eine staatsrechtlich bedeutende Verbindung städtischer Gemeinwesen durch Verträge und Bündnisse; s. <bibl>SI</bibl> VI 297. - In dem oben in Anm. 23 angeführten Aktenbündel Nr. 11 sowie in <placeName ref="587">Zürich</placeName> StA, A 30.3, <link fk_file="10184">Nr. 153</link>f, und B IV 17, f. 210r.-211r., befinden sich mehrere Dokumente im Zusammenhang mit den damaligen Musterungen in den Vogteien und Herrschaften der Landschaft <placeName ref="587">Zürich</placeName>.</fn>
+			<fn ref="27">Zu dieser Ernennung s. schon <bibl>HBBW</bibl> XVIII 18f.</fn>
+			<fn ref="28"><persName ref="8436">Andreas Schmid (Faber)</persName>.</fn>
+			<fn ref="29">vast trostlich: sehr nützlich (im Kriegsfall); s. <bibl>SI</bibl> XIV 1429f.</fn>
+			<fn ref="30" type="bio" fk_person="6543"><persName ref="6543">Rudolf Schwyzer</persName>. - Der Vorname (wie auch der der unten aufgeführten Personen) wurde anhand der oben in Anm. 23 erwähnten Liste ergänzt. - Da <persName ref="6543">Rudolf Schwyzer</persName> hier mit "m." bezeichnet wird, handelt es sich vermutlich um den Zunftmeister zur Zimmerleuten, gest. am 8. März 1564; s. <i>Schnvder, Ratslisten 605.</i></fn>
+			<fn ref="31">Adjutant des Fähnrichs; s. <bibl>SI</bibl> XIV 538.</fn>
+			<fn ref="32"><persName ref="6793">Itelhans Thumysen</persName>.</fn>
+			<fn ref="33"><persName ref="5273">Hans Holzhalb</persName>.</fn>
+			<fn ref="34"><persName ref="1953">Heinrich Lochmann</persName>, als Vortrager des "schützenfenrich" laut der oben in Anm. 23 angeführten Liste.</fn>
+			<fn ref="35"><persName ref="6157">Heinrich Rahn</persName>.</fn>
+			<fn ref="36" type="bio" fk_person="5519">Es kommen folgende Personen in Frage: 1) <persName ref="5519">Heinrich Kramer</persName>. gest. 28. Januar 1552, 1532 Zunftmeister zur Schmiden, Natalrat 1532-1552; 2) <persName ref="5519">Heinrich Kramer</persName>, gest. 2. Juni 1559, Metzger, 1542 Zunftmeister zum Widder, Natalrat 1542 bis 1546, 1547-1553 Vogt zu <placeName ref="187">Grüningen</placeName>, Baptistalrat 1553-1558. - <persName ref="5519">Heinrich Kramer</persName>, Hufschmied, geb. 15. April 1529, gest. 13. Oktober 1594, Natalrat 1586-1594, der erst viel später Zunftmeister zur Schmiden wurde, ist hier kaum gemeint. - Lit.: <bibl>Schnyder, Ratslisten</bibl> 571; <bibl>Dütsch, Landvögte</bibl> passim.</fn>
+			<fn ref="37" type="bio" fk_person="5681"><persName ref="5681">Rudolf Lochmann</persName>, geb. 1510, gest. am 20. April 1557. Zunftmeister zur Schiffleuten, im Natalrat von 1554 bis 1557; s. <bibl>Schnyder, Ratslisten</bibl> 591.</fn>
+			<fn ref="38" type="bio" fk_person="5435">Möglicherweise handelt es sich um <persName ref="5435">Balthasar Keller</persName>, gest. 11. Februar 1554, der von 1529 bis 1540 als Zunftmeister der Schneidern im Kleinen Rat saß. 1547 erneut Ratsherr, später Fraumünsterammann; s. Christa <i>Koppel,</i> Von der Äbtissin zu den gnädigen Herren. Untersuchungen zu Wirtschaft und Verwaltung der Fraumünsterabtei und des Fraumünsteramts in <placeName ref="587">Zürich</placeName> 1418-1549, <placeName ref="587">Zürich</placeName> 1991, S. 92; <bibl>Schnyder, Ratslisten</bibl> 309, obere Anm. 1.</fn>
+			<fn ref="39">Die Namen der Wachtmeister sowie der Hauptleute zu den Spießen bzw. den Hellebarden sind in der oben in Anm. 23 erwähnten Liste angeführt.</fn>
+			<fn ref="40">Siehe dazu das auf den 31. Januar 1547 datierte und an den Zürcher Rat gerichtete Schreiben aus <placeName ref="489">Stein am Rhein</placeName>, das im oben Anm. 23 angeführten Aktenbündel Nr. 11 erhalten geblieben ist.</fn>
+		</num>
+	</footnotes>
+</file>

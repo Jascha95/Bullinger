@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12895" id_hbbw="2846" id_irg_sort="2846" id_sort="128460">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12895</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2846</arpa>
+		<scan_pages>
+			<scan id="30196" dir="12895/Autograph/" page="1">00 E_II_351__fol__140_r_.tif</scan>
+			<scan id="30197" dir="12895/Autograph/" page="2">01 E_II_351__fol__140_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26334" vf="1" fk_add_type="1">
+				<person id="8049" fk_id="8049">
+					<name>Vadian (von Watt)</name>
+					<forename>Joachim</forename>
+				</person>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26335" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12895">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">16</day>
+			</min>
+			<max fk_d="0" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">23</day>
+			</max>
+		</date>
+		<documents>
+			<document id="19467">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 351,140</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9146" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Vadian BW VI, S. 610f, Nr. 1528</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="13">
+				<lang id="1" iso="de" count="9" p="69.2"/>
+				<lang id="5" iso="la" count="4" p="30.8"/>
+			</sentences>
+			<words count="397">
+				<lang id="1" iso="de" count="342" p="86.1"/>
+				<lang id="5" iso="la" count="55" p="13.9"/>
+			</words>
+			<chars count="2166">
+				<lang id="1" iso="de" count="1836" p="84.8"/>
+				<lang id="5" iso="la" count="330" p="15.2"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2846" page="417">
+		<div ref="1">
+			[1] Der Abt von St. Gallen
+			[<persName ref="8179">Diethelm Blarer von Wartensee</persName>]
+			ergeht sich in üblen Plänen gegen die Stadt. So hat er wieder einen neuen Grund zur Anklage erfunden und
+			behauptet, dass St. Gallen beabsichtige, die Klosteruntertanen, die im Leinwandgewerbe tätig sind, mit
+			Steuern zu belasten, was die Stadt keineswegs vorhat. Der Abt gibt vor, dass er von den Untertanen zu diesem
+			Schritt veranlasst wurde. Die St. Galler wissen hingegen aus zuverlässiger Quelle, dass der Abt die Bauern
+			durch seine Amtsleute zu solchen Beschwerden angeregt hat, ja sogar diejenigen bedrohen ließ, die aus guter
+			Gesinnung der Stadt gegenüber eine Beschwerde ablehnten. Man weiß auch, dass der Vogt [...] einer Ortschaft
+			[...] die Anwesenden aufgefordert hat, die Hand zu heben, wenn sie für ein Verfahren gegen die Stadt wären.
+			Als niemand dies tat, fuhr er die Bürger an und sagte, sie sollten doch an ihren Vorteil denken und die Hand
+			heben. Diese Anschuldigung des Abtes ist rein dem Neid zuzuschreiben. Die Mönche sind nämlich auf den
+			Wohlstand von St. Gallen neidisch. Es ärgert sie, feststellen zu müssen, wie gut die Stadt ohne sie
+			auskommt. Deshalb schrecken sie vor keiner List oder Verleumdung zurück. Dabei spielt nicht nur die
+			Religion, sondern auch die alte Feindschaft [zwischen Stadt und Kloster] eine Rolle.
+		</div>
+		<div ref="2">
+			[2] <persName ref="8049">Vadian</persName> wollte dies seinem guten Freund nicht vorenthalten und bittet diesen, auch die Bürgermeister
+			<persName ref="1888">Hans Rudolf Lavater</persName> und <persName ref="1419">Johannes Haab</persName> sowie andere Vertraute davon in Kenntnis zu setzen. Diese sollen zudem
+			wissen, dass die St. Galler die Angelegenheit vor die Tagsatzung [zu
+			<placeName ref="21">Baden</placeName>] bringen wollen, wenn der Abt von seinen Kungeleien nicht
+			ablässt. Dabei streben sie nur nach ihrem guten Recht und wollen weitere Verleumdungen und Drohungen
+			verhindern. Es geht ihnen also nicht um irgendeinen Gewinn. Bullinger weiß, was <persName ref="8049">Vadian</persName> meint. Man hofft auf
+			ein gerechtes Urteil, befürchtet aber das Gegenteil.
+		</div>
+		<div ref="3">
+			[3] Möge der Herr die Seinen vor den Fallen des Teufels beschützen!
+		</div>
+		<div ref="4">
+			[4] [P.S.:] Falls Bullinger, wie <persName ref="8049">Vadian</persName> es sich wünscht, diesen Brief den Bürgermeistern zeigt, soll er
+			eine Abschrift davon vorweisen, als hätte er <persName ref="8049">Vadians</persName> Schreiben aus dem Latein übersetzt, damit niemand,
+			außer Bullinger und <persName ref="6793">[Itelhans] Thumysen</persName>, sieht, was <persName ref="8049">Vadian</persName> am Rand vermerkt hat.<fl>3</fl>
+		</div>
+	</regest>
+	<letter lang="de" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2846" page="416">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Unser abt<fl>4</fl> treybt alle wonder mit seinen krommen anschlegen gegen unser statt zuͦ <placeName ref="474">S. Gallen</placeName>.</s>
+				<s n="2" lang="de" state="auto">Hat abermals ain neuw ansprach aufgetriben, sam wir mit ettwas anlagen seine gotzhaußleut in unserm leimvatgewerb über billichs zuͦ beschwären vorhabind, daß sich aber nit befinden sol noch wirt, und masset imm den handel an, als ob er von seinen underthuͦnen zuͦ söllichem seinem anlangen beworben seyge.</s>
+				<s n="3" lang="de" state="auto">Vernemend aber wir landtmerßweyß und habend desse nit ongegröndte anzaygen, daß seine rädt und amptleut söllichs in die pauren gestoßen und ettlichen gegninen (die nit darinn verwilgen wellen, sonder gegen ainer statt vast dankbar sind) getröuwt worden ist, item ain vogt vor ainer gmaind die sach anbracht, etc., und geredt haben sol: welchem gefall, das man sich gegen ainer statt beschwäre, der heb sein hand auf, etc., und aber niemand wellen aufheben, sol er gwüsslich gsagt haben: "Hebend auf, das euch gotz lyden schend!</s>
+				<s n="4" lang="de" state="auto">Wend ir üwern aygnen nutz und frommen nit betrachten?", etc.</s>
+				<s n="5" lang="de" state="auto">Ist aber (so war gott unser haylland ist) nützit anderß dann ain verbunst des wolstands ainer statt, und mögend die mönch nit sechen, das wir näbend inen mögend hinkhommen, schemmend sich khainer calumnien noch alafentzen.</s>
+				<s n="6" lang="de" state="auto">Geschicht nit allain von der religion, sonder ouch von alt harbrachtz hasses und aufsatzeß wegen.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="7" lang="de" state="auto">Hab ich euch als meinem vertrauwtesten fründt nit bergen wellen, mit beger, den herren b[urgermeistern] Lavatter und Haben dasselbig mittleydenlich zuͦ erschainen und andern vertrauwten, und daß sye sich khains andern gegen uns versehind, [dan] das wir unser billikhait dermaßen (so er nit abston wurde) an den tag thuͦn werdind,<pb_scan n="v."/> daß wir sein billich zuͦ geniessen habind.</s>
+				<s n="8" lang="de" state="auto">Wir begerend (got waist eß) nützit zuͦ unsern henden ze bringen, das wir nit vor ghabt und zächenfaltenklich vergolten habend.</s>
+				<s n="9" lang="de" state="auto">Allain wellend wir mit höchem dankh in disen löuffen zuͦfriden und umb alle eer und eerbarkhait mit leyb und guͦt zuͦ verdienen urbüttig sein, daß wir bey dem allain gehandthabt und errett werdind, darzuͦ wir billich, grondtlich und eerlich fuͦg und recht habend, und daß man uns demnach vor prattikhen mit treuwem und umsichtigem zuͦthon verhuͤten und vergoumen welle.</s>
+				<s n="10" lang="la" state="auto">Intelligis, qui ipse intelligam; synceram cognitionem dari nobis optamus, sordidam pertimescimus.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="11" lang="la" state="auto">Dominus vos et nos forti sua manu in omnibus Satanę tentationibus tueatur!</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="12" lang="la" state="auto"><persName ref="8049">Vadianus</persName> tuus.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Si exemplum dominis consulibus<fl>5</fl> ostensurus es, ut ego sane vellem, describe, obsecro, velut sis e Latino interpretatus, ne, quod in margine est, quisquam praeter te solum et d. Dommysium resciscat.</s>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse.]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2846">
+		<alpha/>
+		<num>
+			<fn ref="1" meta="1">Dass Bullinger der Empfänger des Briefes ist, lässt sich zum einen aus der Bezeichnung des Briefempfängers als <persName ref="8049">Vadians</persName> "vertrauwtesten fründt" in Zürich sowie aus der Überlieferung dieses Briefes in einem hauptsächlich aus Briefen <persName ref="8049">Vadians</persName> an Bullinger bestehenden Band schließen. - Die Tatsache, dass <persName ref="8049">Vadian</persName> sich in dieser Sache an Zürich wendet, erklärt sich daraus, dass die Stadt einer der vier Schirmorte des Klosters St. Gallen war; s. <bibl>HBBW</bibl> II 134, Anm. 15.</fn>
+			<fn ref="2" meta="1">Da ein Brief zwischen St. Gallen und Zürich etwa drei Tage benötigte, und da <persName ref="8049">Vadian</persName> sich am 30. März 1547 (<link fk_file="12917">Nr. 2868</link>) für Bullingers "getruwe anzayg, so ir meinen günstigen herren bayden burgermaistern und dem herren Tumbeyßen von dess äptischen anlangens wegen gethon habt", bedankte, wird vorliegender Brief nicht nach dem 24. März anzusetzen sein. Auch wenn der Brief theoretisch schon vor Mitte März abgefasst sein könnte, ist dies eher unwahrscheinlich, weil Bullinger kaum lange gewartet haben wird, um sich dieser für <persName ref="8049">Vadian</persName> und St. Gallen wichtigen Angelegenheit anzunehmen, und <persName ref="8049">Vadian</persName> sich dementsprechend wohl auch ziemlich rasch für Bullingers Einsatz bedankt haben wird. Die Angelegenheit ist dokumentiert in den in <bibl>EA</bibl> IV/1d 788-791 veröffentlichten Quellen. Vorliegender Brief erlaubt es, die dort als fragwürdig betrachtete Datierung des Beginns dieses hier dargestellten Streites mit Sicherheit in das Jahr 1547 zu legen.</fn>
+			<fn ref="3">Siehe dazu oben Anm. a.</fn>
+			<fn ref="4"><persName ref="8179">Diethelm Blarer</persName> von Wartensee.</fn>
+			<fn ref="5">Lavater und Haab.</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="VBS" vol="6" fk_bibliography="41" nr="1528" page="610">
+				<p>
+					 <s n="1" lang="de" state="auto">Unser abt treybt alle wonder mit seinen krommen anschlegen gegen unser statt zuͦ S. Gallen.</s>
+					 <s n="2" lang="de" state="auto">Hat abermals ain neuw ansprach aufgetriben, sam wir mit ettwas anlagen seine gotzhaußleut in unserm leinwatgwerb über billichs zuͦ beschwären vorhabind, daß sich aber nit befinden sol hach wirt, und masset im den handel an, als ob er von seinen underthuͦnen zuͦ söllichem seinem anlangen beworben seyge; vernemind aber wir landtmerßweyß und habend desse nit ongegröndte anzaygen, daß seine rädt und amptleut söllichs in die pauren gestoßen und ettlichen gegninen (die nit darinn verwilgen wellen, sonder gegen ainer statt vast dankbar sind), getröuwt worden ist.</s>
+					 <s n="3" lang="de" state="manual">Item ain vogt vor ainer gmaind die sach anbracht etc. und geredt haben sol: Welchem gefall, das man sich gegen ainer statt beschwäre, der heb sein hand auf etc., und aber niemand wellen aufheben, sol er gwüsslich gsagt haben: Hebend auf, das euch Gotz lyden schend; wend ir üwern aygnen nutz und frommen nit betrachten? etc.</s>
+					 <s n="4" lang="de" state="auto">Ist aber (so war Gott unser haylland ist) nützit anderß, dann ain verbunst dess wolstands ainer statt, und mögend die mönch nit sechen, das wir näbend inen mögend hinkhommen, schemmend sich khainer calumnien noch alafentzen.</s>
+					 <s n="5" lang="de" state="auto">Geschieht nit allain von der religion, sonder ouch von alt harbrachten hasses und aufsatzes wegen.</s>
+					 <s n="6" lang="de" state="auto">Hab ich euch als meinem vertrauwtesten fründt nit bergen wellen, mit beger, den herren b(urgermeistern) Lavatter und Haben dasselbig mittleydenlich zuͦ erhainen und andern vertrauwten, und daß sye sich khains andern gegen üns versechind, (als) das wir unser billikhait dermaßen (so er nit abston urde) an den tag thuͦn werdind, daß wir sein billich zuͦ geniessen habind.</s>
+					 <s n="7" lang="de" state="auto">Wir begerend (Got wayst eß) nützit zuͦ unsern handen ze bringen, das wir nit vor ghabt und zächenfaltenklich vergolten habend.</s>
+					 <s n="8" lang="de" state="auto">Allain wellend ir mit höchem dankh in disen löuffen zuͦfriden und umb alle eer und eerbarkhait mit leyb und guͦt zu verdienen urbüttig sein, daß wir bey dem allain gehandthabt und errett werdind, darzuͦ wir billich, grondtlich und eerlich fuͦg und recht habend, und daß man üns demnach vor prattikhen mit treuwem und umsichtigem zuͦthon verhuͤten und vergoumen welle.</s>
+					 <s n="9" lang="la" state="auto">Intelligis, qui ipse intelligam.</s>
+					 <s n="10" lang="la" state="auto">Sinceram cognitionem dari nobis optamus, sordidam pertimescimus.</s>
+					 <s n="11" lang="la" state="auto">Dominus vos et nos forti sua manu in omnibus Satanę tentationibus tueatur.</s>
+					 <s n="12" lang="la" state="auto">Vadianus tuus.</s>
+				</p>
+				<p>
+					 <s n="13" lang="la" state="auto">Si exemplum dominis consulibus ostensurus es, ut ego sane vellem, describe, obsecro, velut sis e Latino interpretatus, ne, quod in margine est, quisquam praeter te solum et D. Dommysium resciscat.</s>
+				</p>
+			</content>
+			<footnotes fk_bibliography="41" nr="1528"/>
+		</alternative>
+		<alternative>
+			<content lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2846" page="417"/>
+			<footnotes fk_bibliography="22" nr="2846">
+				<alpha/>
+				<num>
+					 <fn ref="1" meta="1">Dass Bullinger der Empfänger des Briefes ist, lässt sich zum einen aus der Bezeichnung des Briefempfängers als Vadians "vertrauwtesten fründt" in Zürich sowie aus der Überlieferung dieses Briefes in einem hauptsächlich aus Briefen Vadians an Bullinger bestehenden Band schließen. - Die Tatsache, dass Vadian sich in dieser Sache an Zürich wendet, erklärt sich daraus, dass die Stadt einer der vier Schirmorte des Klosters St. Gallen war; s. <bibl>HBBW</bibl> II 134, Anm. 15.</fn>
+					 <fn ref="2" meta="1">Da ein Brief zwischen St. Gallen und Zürich etwa drei Tage benötigte, und da Vadian sich am 30. März 1547 (<link fk_file="12917">Nr. 2868</link>) für Bullingers "getruwe anzayg, so ir meinen günstigen herren bayden burgermaistern und dem herren Tumbeyßen von dess äptischen anlangens wegen gethon habt", bedankte, wird vorliegender Brief nicht nach dem 24. März anzusetzen sein. Auch wenn der Brief theoretisch schon vor Mitte März abgefasst sein könnte, ist dies eher unwahrscheinlich, weil Bullinger kaum lange gewartet haben wird, um sich dieser für Vadian und St. Gallen wichtigen Angelegenheit anzunehmen, und Vadian sich dementsprechend wohl auch ziemlich rasch für Bullingers Einsatz bedankt haben wird. Die Angelegenheit ist dokumentiert in den in <bibl>EA</bibl> IV/1d 788-791 veröffentlichten Quellen. Vorliegender Brief erlaubt es, die dort als fragwürdig betrachtete Datierung des Beginns dieses hier dargestellten Streites mit Sicherheit in das Jahr 1547 zu legen.</fn>
+					 <fn ref="3">Siehe dazu oben Anm. a.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

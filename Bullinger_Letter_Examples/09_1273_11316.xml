@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11316" id_hbbw="1273" id_irg_sort="1273" id_sort="112730">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11316</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1273</arpa>
+		<scan_pages>
+			<scan id="26315" dir="11316/Autograph/" page="1">00 E_II_336__fol__208_r_.tif</scan>
+			<scan id="26316" dir="11316/Autograph/" page="2">01 E_II_336__fol__208_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22966" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22967" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11316">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">5</month>
+				<day fk_d="" d="" vf="1" fn="">22</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17788">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 336,208</signature>
+				<signature_old>E II 336,190</signature_old>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11146" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1273, S. 143</entry>
+				<page>143</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="35">
+				<lang id="5" iso="la" count="35" p="100.0"/>
+			</sentences>
+			<words count="450">
+				<lang id="5" iso="la" count="450" p="100.0"/>
+			</words>
+			<chars count="2743">
+				<lang id="5" iso="la" count="2743" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1273" page="143">
+		<div ref="1">
+			Ist enttäuscht, keine Antwort erhalten zu haben, und klagt erneut über den Druck der Universität auf die
+			kirchlichen Amtsträger. Nimmt an, daß Bullinger von Seiten des Rats bereits über das Ergebnis der
+			<placeName ref="157">Frankfurter</placeName> Tagung unterrichtet wurde.
+			Herzog <persName ref="19058">Georg [von Sachsen]</persName> soll unmittelbar vor seinem Tod zur Reformation bereit
+			gewesen sein; dies berichtet ein Bote des Grafen <persName ref="8098">Georg von [Württemberg-]Mömpelgard</persName>. Graf
+			<persName ref="7492">Wilhelm von Fürstenberg</persName> nimmt für
+			<entity id="11" type="geo_country">Frankreich</entity> Knechte an,
+			<persName ref="18520">Joachim von Brandenburg</persName>
+			reformiert seine Kirchen, und in <placeName ref="569">Worms</placeName> verhandeln die
+			Reichsstände über die Türkenhilfe, doch verbirgt sich dahinter wohl ein Täuschungsmanöver.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1273" page="143">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Quid est, quęso, quod de universitatis divexatione nos haud solatio aliquo convenis, postquam scripsi<fl>1</fl>, quam nos sibi subiectos videre totis conetur viribus et d. <persName ref="1365">Grynęum</persName> cogere ad gradum accipiendum, si velit esse praelector theologię?</s>
+				<s n="3" lang="la" state="auto">Scripsisti olim<fl>2</fl>, scio, quod res est; verum quia de novo nos petunt, cupio et ego de novo aliquid, unde intelligam magis, quam sint homines ridiculi, qui volunt currum praecedere, equos sequi<fl>3</fl>, pastores subiici, dominari oves.</s>
+				<s n="4" lang="la" state="auto">Sed negant hoc strenue dicentes: „Ministerium nec impedire nec subiicere tentamus, sed ministros.“</s>
+				<s n="5" lang="la" state="auto">Obsecro, qualiter tu hic personam separabis a ministerio?</s>
+				<s n="6" lang="la" state="auto">Et si hoc possibile, qualiter seiunges a ministerio doctrinam, quam isti iudicandam sibi sumere conantur?</s>
+				<s n="7" lang="la" state="auto">Tam sumus feliciter ociosi in tantis negociis, ut cum pueris ludamus baculis et nucibus.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto">Quid fit?</s>
+				<s n="9" lang="la" state="auto">Interim perit ecclesia, crede mihi, perit.</s>
+				<s n="10" lang="la" state="auto">Cuius culpa?</s>
+				<s n="11" lang="la" state="auto">Ne quem accusem alium, fortasse mea et <persName ref="1365">Grynęi</persName>; nam hic ad gradum non vult per legem cogi, ego prodere ministerium nolo.</s>
+				<s n="12" lang="la" state="auto">„Sed“, inquiunt, „cave quaeras teipsum, dum libertatem ministerii praetendis.“</s>
+				<s n="13" lang="la" state="auto">Dic tu, mi Bullingere, quid hic tibi videatur: Etiamsi ego meam libertatem quęrerem, num pessundari ministerium deberem dissimulare?</s>
+				<s n="14" lang="la" state="auto">Responde, quaeso, et brevi, si poteris per ocium.</s>
+				<s n="15" lang="la" state="auto">De his satis.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Nisi acta <placeName ref="157">Francfordiensia</placeName><fl>4</fl> pridem habuisses, possem integra dimittere.</s>
+				<s n="17" lang="la" state="auto">Sed quia ad senatum audio a nostris missa<fl>5</fl>, dubitare non licet, quin et tu habeas.<pb_edition start_of="144"/></s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">At ne nihil scribam, historiam hanc accipe: <persName ref="19058">Dux Georgius</persName><fl>6</fl>, postquam decubuit, vocavit ad se anxius concionatorem<fl>7</fl> suum atque diligenter ex eo quaesivit, ecquid de <persName ref="1974">Lutheri</persName> dogmatis sentiret, num hęresim saperent vel essent consentanea sacris literis.</s>
+				<s n="19" lang="la" state="auto">Obmutuit concionator; nam et metus et veritas incluserant vocem.</s>
+				<s n="20" lang="la" state="auto">Si enim veritatem dixisset, metuebat poenam, neque tamen contra eam reluctante conscientia pronunciare poterat.</s>
+				<s n="21" lang="la" state="auto">Sic hęsitantem dum urgeret princeps, huiusmodi tandem extorsit responsum, <persName ref="1974">Lutheri</persName> scilicet scripta cum sacris literis non dissentire, sed cum eis optime consentire.</s>
+				<s n="22" lang="la" state="auto"><persName ref="19058">Dux</persName> indignabundus inquit: „Quur igitur me non admonebas antea, ne tantopere sęviissem in meos, qui verę fuerunt addicti religioni?“</s>
+				<s n="23" lang="la" state="auto">Atque mox testatus palam dixit: „Si convaluero, doctrinam hanc fovebo.“</s>
+				<s n="24" lang="la" state="auto">Sed migravit, utinam ad Christum.</s>
+				<s n="25" lang="la" state="auto">Reliquit <persName ref="19077">Heinrichum</persName> fratrem hęredem<fl>8</fl>, quem hactenus persequutus erat propter evangelium graviter.</s>
+				<s n="26" lang="la" state="auto">Hęc ex nuncio, quem <persName ref="19058">Georgius</persName>, comes Montis Bellguardię, miserat in <persName ref="19077">Saxoniam</persName> ob privata quędam<fl>9</fl> etc.</s>
+			</p>
+			<p>
+				<s n="27" lang="la" state="auto">Pręterea comes <persName ref="7492">Gulielmus a Fürstenberg</persName> milites nuper dimissos denuo conscribit<fl>10</fl>, sed <persName ref="7637" state="auto_name">Gallo</persName><fl>11</fl>, eo quod cęsar<fl>12</fl> <placeName ref="306">Mediolanum</placeName> non restituerit, ut erat pollicitus, et connubium (nescio inter quos) detrectet<fl>13</fl>.</s>
+				<s n="28" lang="la" state="auto">Item <persName ref="18520">Ioachimus Brandenburgensis</persName><fl>b</fl> dicitur esse in reformandis ecclesiis suis<fl>14</fl>.</s>
+				<s n="29" lang="la" state="auto">Consultatur hodie <placeName ref="569">Wormacię</placeName><fl>15</fl> ab ordinibus imperii praesentibus etiam principibus et civitatibus evangelicis, qualiter agendum sit adversus Turcam, si quid contra pietatem sit tentaturus<fl>c</fl>.</s>
+				<s n="30" lang="la" state="auto">Equidem meipsum fallo plus satis impudenter, nisi sub praetextu Turcę fraus delitescit.<pb_edition start_of="145"/></s>
+			</p>
+			<p>
+				<s n="31" lang="la" state="auto">Vale in Christo cum tuis.</s>
+				<s n="32" lang="la" state="auto">Saluta Pellicanum nostrum diligenter.</s>
+				<s n="33" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, 22. maii anno 39.</s>
+			</p>
+			<p>
+				<s n="34" lang="la" state="auto"><persName ref="8418">Os. Myconius</persName> tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="35" lang="la" state="auto">Domino Heinricho Bullingero, pręsuli Tigurinorum, fratri in domino observando suo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1273">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Randbemerkung und Unterstreichungen von späterer Hand.</i></fn>
+			<fn ref="b"><i>in der Vorlage</i> Bradenburgensis.</fn>
+			<fn ref="c"><i>nach</i> tentaturus <i>ein gestrichenes, unlesbares Wort.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Am 3. Mai (s. oben <link fk_file="11307">Nr. 1264</link>); Bullingers Antwort vom 7. Mai erreichte <persName ref="8418">Myconius</persName> verspätet (vgl. unten <link fk_file="11321">Nr. 1278</link>, 1-4).</fn>
+			<fn ref="2">Am 14. Januar 1535 (<bibl>HBBW V</bibl> <link fk_file="10547">[Nr. 511]</link>, S. 59f, 21-48).</fn>
+			<fn ref="3">Vgl. die Redensart "plaustrum bovem trahit"; Adagia, 1, 7, 28 (<bibl>LB</bibl> II 273).</fn>
+			<fn ref="4">Gemeint ist der <placeName ref="157">Frankfurter</placeName> Anstand vom 19. April; vgl. oben <link fk_file="11304">Nr. 1261</link>, Anm. 3.</fn>
+			<fn ref="5"><placeName ref="28">Basel</placeName> übersandte am 13. Mai eine Kopie; sie liegt samt dem Begleitschreiben in Zürich StA, E I 1. 3a (vgl. auch <bibl>EA</bibl> IV/1c 1089, zu s). Vgl. Bullingers eigenhändigen Auszug sowie seine ablehnende Stellungnahme in Zürich StA, E II 347, 195-197 bzw. 198-203.</fn>
+			<fn ref="6"><persName ref="19058">Georg von Sachsen</persName>.</fn>
+			<fn ref="7" type="bio" fk_person="4689">Am Sterbebett des Herzogs (er starb am 17. April) stand der streng altgläubige Pfarrer <persName ref="4689">Peter Eisenberg</persName> (s. <bibl>WA</bibl> Briefwechsel IV 309). Zur Legendenbildung um den Tod <persName ref="8098">Georgs</persName> vgl. Nikolaus <i>Paulus,</i> <persName ref="1974">Luthers</persName> Lebensende. Eine kritische Untersuchung, Freiburg i. Br. 1898, S. 28.</fn>
+			<fn ref="8" type="bio" fk_person="19077">Der lutherisch gesinnte Herzog <persName ref="19077">Heinrich der Fromme</persName> übernahm nach dem Tod <persName ref="8098">Georgs</persName> die Herrschaft über das albertinische <placeName ref="749">Sachsen</placeName>.</fn>
+			<fn ref="9" type="bio" fk_person="8098">Graf <persName ref="8098">Georg von Württemberg-Mömpelgard</persName> hatte einen Boten zur Berufung eines Schulmeisters nach <placeName ref="749">Sachsen</placeName> geschickt (vgl. <bibl>Vadian BW V</bibl> 557); etwa gleichzeitig ist auch von einer eventuellen Verheiratung des Grafen mit einer Tochter Heinrichs von <placeName ref="749">Sachsen</placeName> die Rede (vgl. <bibl>PA</bibl> III 660f, <link fk_file="13123">Nr. 3074</link>; <bibl>PC</bibl> II 621).</fn>
+			<fn ref="10">Eine Bestätigung für diese Nachricht fehlt.</fn>
+			<fn ref="11"><persName ref="7637">König Franz I.</persName></fn>
+			<fn ref="12"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="13">Zu den Plänen für eine eheliche Verbindung zwischen den beiden Häusern vgl. <bibl>Cardauns</bibl> 6f.</fn>
+			<fn ref="14">Nach Abschluß der Verhandlungen in <placeName ref="157">Frankfurt</placeName> begann Kurfürst <persName ref="18520">Joachim II.</persName> mit der Vorbereitung einer Landesreformation; s. Paul <i>Steinmüller,</i> Einführung der Reformation in die Kurmark Brandenburg durch <persName ref="18520">Joachim II.</persName>. Halle 1903. - <bibl>SVRG</bibl> 76, S. 52-62.</fn>
+			<fn ref="15">Die Nachricht ist unzutreffend; <persName ref="18477">König Ferdinand</persName> hatte den Tag zu <placeName ref="569">Worms</placeName> auf den 1. Juni verschoben. Vgl. <bibl>Fuchtel</bibl> 192.</fn>
+		</num>
+	</footnotes>
+</file>

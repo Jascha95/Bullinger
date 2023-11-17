@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12806" id_hbbw="2757" id_irg_sort="2757" id_sort="127570">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12806</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2757</arpa>
+		<scan_pages>
+			<scan id="29963" dir="12806/Autograph/" page="1">00 E_II_342__fol__162_r_.tif</scan>
+			<scan id="29964" dir="12806/Autograph/" page="2">01 E_II_342__fol__162_v_.tif</scan>
+			<scan id="29965" dir="12806/Autograph/" page="1">00 E_II_441__S__21_.tif</scan>
+			<scan id="29966" dir="12806/Autograph/" page="2">01 E_II_441__S__22_.tif</scan>
+			<scan id="29967" dir="12806/Autograph/" page="3">02 E_II_441__S__23_.tif</scan>
+			<scan id="29968" dir="12806/Autograph/" page="4">03 E_II_441__S__24_.tif</scan>
+			<scan id="29969" dir="12806/Autograph/" page="5">04 E_II_441__S__22_b_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26150" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26151" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+			</addressee>
+			<addressee id="26152" vf="1" fk_add_type="1">
+				<person id="1278" fk_id="1278">
+					<name>Gast</name>
+					<forename>Johannes</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12806">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="" fn="">18</day>
+			</min>
+			<max fk_d="0" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="" fn="">19</day>
+			</max>
+		</date>
+		<documents>
+			<document id="19370">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,162</signature>
+			</document>
+			<document id="19371">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="3">Beilage</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 441,21–24</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9023" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 929, Nr. 1045</entry>
+			</print>
+			<print id="12437" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2757, S. 140</entry>
+				<page>140</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="65">
+				<lang id="1" iso="de" count="63" p="96.9"/>
+				<lang id="5" iso="la" count="2" p="3.1"/>
+			</sentences>
+			<words count="997">
+				<lang id="1" iso="de" count="985" p="98.8"/>
+				<lang id="5" iso="la" count="12" p="1.2"/>
+			</words>
+			<chars count="5246">
+				<lang id="1" iso="de" count="5185" p="98.8"/>
+				<lang id="5" iso="la" count="61" p="1.2"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2757" page="138">
+		<div ref="1">
+			[1] Beiliegend eine rasch abgeschriebene Nachrichtensendung. Warum lässt denn <persName ref="8418">Myconius</persName> nichts mehr von sich
+			hören? Bullinger würde häufigere Briefe von ihm erwarten, zumal er selbst sehr oft an ihn schreibt!
+		</div>
+		<div ref="2">
+			[2] Das von <persName ref="18538">Kaiser Karl V.</persName> für die <placeName ref="21">Badener</placeName> Tagsatzung eingereichte
+			Schreiben [an alle Orte vom 27. Dezember 1546] werden die Basler bei ihrem Stadtschreiber [<persName ref="6310">Heinrich Ryhiner</persName>]
+			einsehen können. Trotz dessen schmeichlerischen Inhalts ist diesem Brief kein Glauben zu schenken!
+		</div>
+		<div ref="3">
+			[3] Es gibt nun Streit, weil <placeName ref="2448">die Fünf Orte</placeName> eine Bestrafung <persName ref="8011">Rudolf Gwalthers</persName> wegen dessen „Endtchrist“
+			fordern.
+		</div>
+		<div ref="4">
+			[4] <persName ref="7637">König Franz I. von<pb_edition start_of="139"/> Frankreich</persName>
+			hat 8000 <entity id="16" type="geo_country">Italiener</entity> im
+			<placeName ref="736">Piemont</placeName> und 14000 Franzosen in der
+			<entity id="107" type="geo_region">Gascogne</entity> an der spanischen Grenze stationiert. Vor dem 1. März
+			will er noch 8000 bis 15000 Eidgenossen in Rüstung.
+		</div>
+		<div ref="5">
+			[5] Grüße an <persName ref="8032">Francisco de Enzinas</persName>. Hat denn <persName ref="1278">Johannes Gast</persName> das Geld für
+			die Wolle erhalten? Der Inhalt des vorliegenden Briefes ist auch für <persName ref="8032">Enzinas</persName> und <persName ref="1278">Gast</persName> bestimmt. Grüße an
+			<persName ref="4715">Nikolaus Episcopius</persName> und an <persName ref="5213">Johannes Herwagen</persName>.
+		</div>
+		<div ref="6">
+			[6] <persName ref="8418">Myconius</persName> soll den beigelegten Brief mitsamt den zehn Kronen an
+			<persName ref="8442">Josias Simler</persName> übermitteln.
+		</div>
+		<div ref="7">
+			[7] [Beilage:] Nachricht [des <placeName ref="457">Konstanzer</placeName> Rats], 9. Januar: Der
+			<placeName ref="457">Konstanzer</placeName> Gesandte [<persName ref="5571">Ludwig Kürnstaller</persName>] ist aus
+			<placeName ref="513">Ulm</placeName> zurückgekehrt. Die
+			<placeName ref="513">Ulmer</placeName> Ratsabgeordneten erklärten ihm und allen anderen Gesandten
+			der [oberländischen] Städte, warum sie sich zu einem Frieden mit dem Kaiser entschlossen haben und unter
+			welchen Bedingungen dies geschehen ist.
+		</div>
+		<div ref="8">
+			[8] Den Ulmern wurde angeordnet, den Schmalkaldischen Bund zu kündigen und keinem Bündnis mehr beizutreten,
+			an dem nicht auch der Kaiser und <persName ref="18477">König Ferdinand I.</persName> beteiligt sind.
+		</div>
+		<div ref="9">
+			[9] Sie wurden ferner verpflichtet, ihre Kriegsbeute zurückzuerstatten.
+		</div>
+		<div ref="10">
+			[10] Von nun an haben sie sich dem Kammergericht zu unterstellen.
+		</div>
+		<div ref="11">
+			[11] Sie müssen auch die von ihnen angeworbenen Kriegsknechte entlassen.
+		</div>
+		<div ref="12">
+			[12] Ihnen wurde schließlich eine gebührende, aber doch mäßige Geldstrafe auferlegt.
+		</div>
+		<div ref="13">
+			[13] Als ihre Gesandten [<persName ref="4285">Georg Besserer</persName> und <persName ref="6993">Jos Weickmann</persName>] beim
+			Kaiser um Beibehaltung ihrer Rechte und Religion bitten [wollten], meinten die kaiserlichen Räte, dass sie
+			vor dem Kaiser die Religionsfrage gar nicht zu erwähnen bräuchten, da der Krieg nicht deswegen geführt
+			worden sei. Der Kaiser werde sie wie <persName ref="18250">Herzog Moritz von Sachsen</persName>, die Markgrafen von
+			<placeName ref="1048">Brandenburg</placeName>, Herzog <persName ref="18716">Erich von Braunschweig</persName> und noch andere bei
+			ihrer Religion, ihren Privilegien und Bräuchen lassen. Er habe nämlich seine Meinung geändert. Allerdings
+			konnten die <placeName ref="513">Ulmer</placeName> keine schriftliche Garantie diesbezüglich
+			erhalten. Die kaiserlichen Räte (nicht der Kaiser) erklärten sich bereit, die Versöhnung der Stadt mit einem
+			offiziellen Dokument zu bestätigen.
+		</div>
+		<div ref="14">
+			[14] Die <placeName ref="513">Ulmer</placeName> behaupten, dass sie bei ihrer Versöhnung mit dem
+			Kaiser darauf bedacht waren, ihre Religion nicht preiszugeben, dass sie aber auch keineswegs gezwungen
+			wurden, sich dem Kaiser zu unterstellen, den Fußfall zu leisten und anzuerkennen, unrechtmäßig in den Krieg
+			gezogen zu sein.
+		</div>
+		<div ref="15">
+			[15] In <placeName ref="513">Ulm</placeName> hat sich [<persName ref="5571">Ludwig Kürnstaller</persName>] zu nichts
+			verpflichtet, sondern die in Erfahrung gebrachten Punkte zur Besprechung im Großen Rat und in der
+			Bürgerschaft nach <placeName ref="457">Konstanz</placeName> mitgenommen.
+		</div>
+		<div ref="16">
+			[16] Dergleichen haben auch die Gesandten von <placeName ref="291">Lindau</placeName>,
+			<placeName ref="409">Ravensburg</placeName> und <placeName ref="234">Isny</placeName>
+			getan. <placeName ref="320">Memmingen</placeName>,
+			<placeName ref="45">Biberach</placeName> und <placeName ref="907">Kempten</placeName>
+			aber hatten ihren Gesandten die Vollmacht erteilt, sich wie <placeName ref="513">Ulm</placeName>
+			dem Kaiser zu unterwerfen. Unterdessen wird dies wohl schon geschehen sein.
+		</div>
+		<div ref="17">
+			[17] Dies ist in Kürze, was die Gesandten in <placeName ref="513">Ulm</placeName> über die
+			Versöhnung dieser Stadt mit dem Kaiser in Erfahrung bringen konnten.
+		</div>
+		<div ref="18">
+			[18] Nachricht [von <persName ref="8354">Georg Frölich</persName>] aus <placeName ref="1976">Augsburg</placeName>, 9. Januar: Die
+			<placeName ref="513">Ulmer</placeName> haben nicht nur den [Schmalkaldischen] Bund verlassen, ohne
+			dazu gezwungen gewesen zu sein, sondern sie verführen jetzt auch andere Städte zu diesem Schritt, um selbst
+			besser dazustehen. Sie behaupten sogar, dass die <placeName ref="1976">Augsburger</placeName> sie
+			dazu verleitet hätten, was nun wirklich nicht stimmt!
+		</div>
+		<div ref="19">
+			[19] <persName ref="8354">Georg Frölich</persName> erfuhr brieflich von den Memmingern, dass diese bereits ihre Unterwerfung bereuten.
+		</div>
+		<div ref="20">
+			[20] Landgraf <persName ref="18574">Philipp von Hessen</persName> hat seine Festungen für den Krieg gerüstet. Er schrieb, er hätte gehört,
+			dass <placeName ref="1976">Augsburg</placeName> sich ebenfalls mit dem Kaiser versöhnen wolle. Darauf
+			antworteten ihm die <placeName ref="1976">Augsburger</placeName>, dass sie im Gegenteil vorhätten,
+			treu zu bleiben. Die <placeName ref="492">Straßburger</placeName> ermahnten die
+			<placeName ref="1976">Augsburger</placeName> brieflich, standhaft zu sein, solange sie sich im
+			Notfall wehren können.
+		</div>
+		<div ref="21">
+			[21] Man behauptet immer wieder, dass der Kaiser tot sei und seine Räte mit seinem Leichnam Theater
+			spielen.
+		</div>
+		<div ref="22">
+			[22] Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> hat sein Land zurückerobert und <persName ref="18250">Herzog Moritz von Sachsen</persName> nach
+			<placeName ref="2449">Böhmen</placeName> vertrieben. Der Kurfürst hat
+			<placeName ref="284">Leipzig</placeName> und andere Städte besetzt. Langensalza hat er bestürmt.
+		</div>
+		<div ref="23">
+			[23] Nachricht [von <persName ref="8055">Ambrosius Blarer</persName>] aus
+			<placeName ref="457">Konstanz</placeName>, 17. Januar: Immer wieder wird erzählt, dass der Kaiser
+			tot sei und dass seine Räte den Leuten mit einem Abbild seines Leichnams etwas vorgaukeln. Die Gesandten der
+			Städte, die sich ergeben haben, sahen nämlich den Kaiser nie persönlich. Andere sprachen an dessen Stelle.
+			Den Gesandten zeigte man lediglich einen Vorhang, hinter dem er sich befunden haben soll. Von dort war
+			jedoch kein Laut zu hören!
+		</div>
+		<div ref="24">
+			[24] <persName ref="9780">Herzog Ulrich von Württemberg</persName> ist auch übergelaufen. Zu welchen Bedingungen, ist unbekannt. Fest
+			steht, dass [Fernando Álvarez de Toledo], Herzog von Alba, sogar nach dem Friedensabkommen etliche
+			Ortschaften besetzt hat.
+		</div>
+		<div ref="25">
+			[25] <placeName ref="409">Ravensburg</placeName>, <placeName ref="291">Lindau</placeName> und <placeName ref="457">Konstanz</placeName> werden inständig<pb_edition start_of="140"/> zu einem Frieden
+			gedrängt. Anderenfalls werde der bald nach <placeName ref="513">Ulm</placeName> kommende Kaiser
+			gegen sie ziehen.
+		</div>
+		<div ref="26">
+			[26] Die Unterwerfung unter das Kammergericht ist problematisch, weil dadurch Abgötterei und Pfaffenschwarm
+			wieder eingeführt werden.
+		</div>
+		<div ref="27">
+			[27] Die kleinen Städte, besonders <placeName ref="234">Isny</placeName> im
+			<entity id="3" type="geo_region">Allgäu</entity>, hätten gern anders gehandelt. Sie sind aber noch stets
+			bereit, ihr Leben zu opfern, falls etwas gegen Gottes Wort unternommen würde.
+		</div>
+		<div ref="28">
+			[28] Angeblich bereut <persName ref="9780">Herzog Ulrich</persName> schon seinen hastigen Frieden mit dem Kaiser.
+		</div>
+		<div ref="29">
+			[29] [Zusatz von Bullingers Hand:] Die Ergebung <placeName ref="513">Ulms</placeName> an den
+			Kaiser erfolgte absolut freiwillig, wie aus vorliegender Beilage hervorgeht.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2757" page="140">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">L[ieber] h[err].</s>
+				<s n="2" lang="de" state="auto">Was ich hab, hab ich üch in hoͤchster yl abzeichnen lassen.<fl>1</fl></s>
+				<s n="3" lang="de" state="auto">Kan mich nitt gnuͦg verwundern, das ir mir so gar nut schrybend.<fl>2</fl></s>
+				<s n="4" lang="de" state="auto">Muͦß ye sagen, das ir nitt so yferig<fl>3</fl> syend, alls<fl>4</fl> ich gern sehe, und ich vermeint, ir soͤltents thuͦn, diewyl ich üch so vil und dick<fl>5</fl> zuͦschrib, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="5" lang="de" state="auto">Uff dem tag zuͦ <placeName ref="21">Baden</placeName><fl>6</fl> hat der keyser<fl>7</fl> ein gschrifft yngelegt.<fl>8</fl></s>
+				<s n="6" lang="de" state="auto">Mögend ir bekummen by üwerm stattschriber.<fl>9</fl></s>
+				<s n="7" lang="de" state="auto">Sy ist glatt<fl>10</fl>, aber ich truw der sach nut.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="8" lang="de" state="auto">Die 5 Ort begaͤrend, das min herren Gvaltherum straaffind von waͤgen des Entchrists.<fl>11</fl></s>
+				<s n="9" lang="de" state="auto">Wirt ein gfretz<fl>12</fl>, aber laß hargan.<fl>13</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="10" lang="de" state="auto">Der Frantzos<fl>14</fl> hat 8000 <entity id="16" type="geo_country">Italier</entity> in <placeName ref="736" state="auto_name">Pemondt</placeName><fl>15</fl> gelegt, 14000 sins volcks an <entity id="29" type="geo_country">Hispanien</entity> in <entity id="107" type="geo_region">Vasconien</entity><fl>16</fl>.<fl>b</fl></s>
+				<s n="11" lang="de" state="auto">Begaͤrt vor 1. martii gerüst von 8000 biß in 15000 Eydgnossen.<fl>17</fl></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="12" lang="de" state="auto"><persName ref="8032" state="auto_name">Dryandrum</persName><fl>18</fl> gruͤssend mir.</s>
+				<s n="13" lang="de" state="auto"><persName ref="1278">Gastium</persName>, nimpt mich wunder, ob imm das gaͤllt worden, das ich imm umb die wullen<fl>19</fl> geschickt.</s>
+				<s n="14" lang="de" state="auto">Habend diß mitt inen gemein.</s>
+				<s n="15" lang="de" state="manual">Gruͤssend mir Episcopium<fl>20</fl>, <persName ref="5213" state="auto_name">Hervagium</persName><fl>21</fl>, etc.<pb_edition start_of="141"/></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="16" lang="de" state="auto">Diß 10 kronen und brieff<fl>22</fl> an <persName ref="8442">Josiam Simler</persName><fl>23</fl> verschaffend<fl>24</fl> mir.</s>
+				<s n="17" lang="la" state="auto">Datum 18. ianuarii 1547 post 3.<fl>25</fl> pomeridianam<pb_scan n="E II 441-21f,23f"/>.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<note type="attachment">[Beilage:<fl>c</fl>]</note>
+				<s n="18" lang="de" state="auto"><pb_scan n="441, 21f 23f"/><pb_scan n="23"/>9. ianuarii von <placeName ref="457">Constantz</placeName>:<fl>d</fl> Unnser gesandter<fl>26</fl> ist widerumb her heim kummen.</s>
+				<s n="19" lang="de" state="auto">Den sampt anndern gesandten von stetten habend die verordneten vom radt ze <placeName ref="513">Ulm</placeName> erzellt, was sy zuͦ dem friden<fl>27</fl> verursacht unnd mit was bescheid sy k[aiserliche] m[ajesta]t versuͤnt.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="20" lang="de" state="auto">Item sy söltend sich der Schmalckaldischen püntnus verzyhen<fl>28</fl>, fürohin in kein püntnus begeben, darin k. mt. unnd könig[liche] m[aiesta]t<fl>29</fl> <fl>e</fl>nit ouch<fl>e_2</fl> begriffen.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="21" lang="de" state="auto">Alles, was imm krieg abgenommen unnd noch vorhanden, widerkeren<fl>30</fl>, denen es genommen sye.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="22" lang="de" state="auto">Das sy by dem camergericht, so künfftigklich uffgericht werden moͤcht, blyben soͤllind.<fl>31</fl></s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="23" lang="de" state="auto">Item das sy das kriegsvolck, das by inen ligt, urlouben soͤllend.</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="24" lang="de" state="auto">Item das sy ein zimliche<fl>32</fl>, gnedige geltstraff geben söllend.<fl>33</fl></s>
+			</p>
+		</div>
+		<div ref_regest="13">
+			<p>
+				<s n="25" lang="de" state="auto">Unnd, als die gesandten von <placeName ref="513">Ulm</placeName><fl>34</fl> by k. mt. angehalten, sy blyben zelassen by iren regalien<fl>35</fl> unnd irer religion, wie sy die ietzund habend, habend inen die keyßerischen raͤdt<fl>36</fl> mit ußtruckten worten<fl>37</fl> gesagt, sy soͤllend der k. mt. der religion überein<fl>38</fl> nit gedencken<fl>39</fl>, dann<fl>40</fl> der krieg von deren <pb_edition start_of="142"/> nit angefangen sye.</s>
+				<s n="26" lang="de" state="auto">Doch habend sy die keyßerischen raͤdt getroͤst, die k. mt. werde sy by ietziger religion, wie hertzog <persName ref="18250">Moritzen</persName><fl>41</fl>, die Margraven von <placeName ref="1048">Brandenburg</placeName><fl>42</fl>, Hertzog <persName ref="18716">Erichen von Brunschwig</persName><fl>43</fl> unnd anndere deß gelich, ouch by iren privilegien unnd harkommen<fl>44</fl> gnedigklich blyben lassen unnd darvon mit gwalt nit triben, dann ir mt. vil<fl>45</fl> eins andren, dann vor<fl>46</fl>, gesinnet sye.</s>
+				<s n="27" lang="de" state="auto">Als die <placeName ref="513">Ulmischen</placeName> gesandten dißer handlung ein versicherung begert, sye inen die abgeschlagen,<fl>47</fl> aber ein kundschafft<fl>48</fl> unnd absolution unnd mandata zegeben bewilliget worden, doch nun<fl>49</fl> von raͤdten.</s>
+			</p>
+		</div>
+		<div ref_regest="14">
+			<p>
+				<s n="28" lang="de" state="auto">Wie wol<fl>50</fl> nun die von <placeName ref="513">Ulm</placeName> bedacht gewaͤsen, die huldigung uff ettliche artickel der religion unnd annder sachen halb zestellen, so habend sy doch uff ettlicher (irer achtung) ge-<pb_scan n="24"/>trüwer radt sich absolute fry, one einiche<fl>51</fl> capitulation<fl>52</fl> an deß keysers gnad ergeben, den fuͦßfaal gethan, und bekendt, das sy mit der kriegsrüstung unrecht gethan unnd zum theil verfuͤrt worden unnd geirrt habind, mit undertaͤnigster pitt, ir mt. woͤlte sy gnedigist versünt haben, by iren regalien blyben lassen, ir gnedigster herr sin, in iren gnedigen schutz unnd schirm uffnemmen.<fl>53</fl></s>
+			</p>
+		</div>
+		<div ref_regest="15">
+			<p>
+				<s n="29" lang="de" state="auto">Unnser bott<fl>54</fl> hatt sich nit wyter ingelassen<fl>55</fl>, sunder die articul, uns hindersich zebringen, genommen, das wir uns mitt unserm grossen radt unnd der gmeind<fl>56</fl> darüber beratschlagen moͤgind.</s>
+			</p>
+		</div>
+		<div ref_regest="16">
+			<p>
+				<s n="30" lang="de" state="auto">Die gesandten <placeName ref="291">Lindow</placeName>, <placeName ref="409">Ravenspurg</placeName> und Ißni habend ouch nit annders gehandlet.</s>
+				<s n="31" lang="de" state="auto">Aber <placeName ref="320">Memmingen</placeName>, Bibrach unnd Kaͤmpten habend iren gesandten befelch geben, sich dem keyser zuͦglich wie <placeName ref="513">Ulm</placeName> zuͦ ergeben, welchs, alls zuͦ achten<fl>57</fl>, nun mee beschechen ist.<fl>58</fl></s>
+			</p>
+		</div>
+		<div ref_regest="17">
+			<p>
+				<s n="32" lang="de" state="auto">Disß ist in summa der bericht der handlung, den der staͤtt gesandten uff dem tag zuͦ <placeName ref="513">Ulm</placeName> deren von <placeName ref="513">Ulm</placeName> versoͤnung halb empfangen unnd gethan habend; welchs wir üch unangezeigt nit lassen wellen.<pb_edition start_of="143"/></s>
+			</p>
+		</div>
+		<div ref_regest="18">
+			<p>
+				<s n="33" lang="de" state="auto"><pb_scan n="21"/>Uß <placeName ref="1976">Augspurg</placeName>, 9. ianuarii:<fl>f</fl> Die von <placeName ref="513">Ulm</placeName> lassend sich nit vernuͤgen<fl>59</fl>, das sy one nodt sich usß der püntnus<fl>60</fl> gethan habend, sunder farend erst zuͦ<fl>61</fl> unnd ziehend ouch andere stett inanis persuasionibus uff ir syten, sich zeschoͤnen.<fl>62</fl></s>
+				<s n="34" lang="de" state="auto">Redent ouch von uns, samm<fl>63</fl> wir an der trennung schuldig, das sich doch in eewickeit nit findt.</s>
+			</p>
+		</div>
+		<div ref_regest="19">
+			<p>
+				<s n="35" lang="de" state="auto">Von <placeName ref="320">Memmingen</placeName> hab ich schryben, daruß ich wol verstan, das sy<fl>64</fl> der schertz<fl>65</fl> geruwen ist.<fl>66</fl></s>
+				<s n="36" lang="de" state="auto">Dann sy ire botten gern gewendt<fl>67</fl> hettend, wo<fl>68</fl> es nit ze spat.</s>
+			</p>
+		</div>
+		<div ref_regest="20">
+			<p>
+				<s n="37" lang="de" state="auto">Der landgraf<fl>69</fl> hatt sin starcken plaͤtz besetzt.</s>
+				<s n="38" lang="de" state="auto">Verhofft, die zuͦ erhalten.</s>
+				<s n="39" lang="de" state="auto">Hatt ouch gen <placeName ref="1976">Augspurg</placeName> geschriben, imm werde yngebildet<fl>70</fl>, sam sy sich ouch ußsoͤnen, etc.</s>
+				<s n="40" lang="de" state="auto">Daruff imm zeantwort worden, sy woͤllind glouben unnd trüw redlich halten.</s>
+				<s n="41" lang="de" state="auto">Es hatt ouch <placeName ref="492">Strassburg</placeName> har geschriben unnd vermanet, ze blyben unnd sich nit ze ergeben, diewyl man nodt halb moͤge.<fl>71</fl></s>
+			</p>
+		</div>
+		<div ref_regest="21">
+			<p>
+				<s n="42" lang="de" state="auto">Es wirt für und für darfür gehalten<fl>72</fl>, der keyser sye todt, unnd tribend sine raͤdt das affenspyl<fl>73</fl> mit dem Cadavere.</s>
+				<s n="43" lang="de" state="auto">Wirt vil daruff verwettet.</s>
+			</p>
+		</div>
+		<div ref_regest="22">
+			<p>
+				<s n="44" lang="de" state="auto">Der churfürst<fl>74</fl> hatt sin land wider yngenommen, unnd darzuͦ hertzog <persName ref="18250">Moritzen</persName> uss dem sinen in <placeName ref="2449" state="auto_name">Behem</placeName><fl>75</fl> vertriben.</s>
+				<s n="45" lang="de" state="auto">Hatt <placeName ref="284">Lipsig</placeName><fl>76</fl> unnd andere<fl>77</fl> inn.</s>
+				<s n="46" lang="de" state="auto">Saltza<fl>78</fl>, die statt, hatt er gewunnen mit dem sturm.<pb_edition start_of="144"/></s>
+			</p>
+		</div>
+		<div ref_regest="23">
+			<p>
+				<s n="47" lang="de" state="auto">Usß <placeName ref="457">Constantz</placeName>, 17. ianuarii:<fl>g</fl> Man sagt für unnd für, sol gewüß sin, das der keyser todt, unnd sine herren mit dem simulachro ir afenthuͤr<fl>79</fl> bestandind<fl>80</fl>.<pb_scan n="22"/></s>
+				<s n="48" lang="de" state="manual">Es habend inn die gesandten der stetten nie gesehen, da<fl>81</fl> sy inn gehuldet<fl>82</fl>.</s>
+				<s n="49" lang="de" state="auto">Man hatt aber inen zeigt ein umbhang, darhinder er sye.</s>
+				<s n="50" lang="de" state="auto">Habend aber nieman gehoͤrt.</s>
+				<s n="51" lang="de" state="auto">Andere habend in deß keysers namen geredt.<fl>83</fl></s>
+			</p>
+		</div>
+		<div ref_regest="24">
+			<p>
+				<s n="52" lang="de" state="auto"><placeName ref="572">Wirtenberg</placeName><fl>84</fl> ist hinüber.</s>
+				<s n="53" lang="de" state="auto">Hatt ouch ein friden angenommen.</s>
+				<s n="54" lang="de" state="auto">Conditiones wüssend wir nit.</s>
+				<s n="55" lang="de" state="auto">Alls er den friden gehept, hatt nüt des minder <la>duce de Alba<fl>85</fl></la> ettlich flecken unnd stettli uffgefordert.<fl>86</fl></s>
+			</p>
+		</div>
+		<div ref_regest="25">
+			<p>
+				<s n="56" lang="de" state="auto">Ravenspurg, <placeName ref="291">Lindow</placeName> unnd <placeName ref="457">Constantz</placeName> werdent hefftig getrungen unnd gewarnet, den friden ze suͦchen, oder der keyser werde der tagen gen <placeName ref="513">Ulm</placeName> kommen unnd demnach uff sy ziehen.</s>
+				<s n="57" lang="de" state="auto">Mag nit wüssen, was man thuͦn wirt.<fl>87</fl></s>
+			</p>
+		</div>
+		<div ref_regest="26">
+			<p>
+				<s n="58" lang="de" state="auto">Es ist gar ein schwers willigen in das camergricht, welchs alle abgoͤttery unnd pfaffengeschwürm<fl>88</fl> restituieren wirt, etc.<fl>89</fl></s>
+			</p>
+		</div>
+		<div ref_regest="27">
+			<p>
+				<s n="59" lang="de" state="auto">Die kleinen stettle, insonders Yssne imm Algoͤw, hettend gern ir bestes gethan.</s>
+				<s n="60" lang="de" state="auto">Sind noch deß fürnemmens, wo man immer wider gottes wort ettwas anmuͦten<fl>90</fl> wil, ir leben darob zuͦ verlieren.<fl>91</fl></s>
+			</p>
+		</div>
+		<div ref_regest="28">
+			<p>
+				<s n="61" lang="de" state="auto"><placeName ref="572">Wirtenberg</placeName> sol ouch woͤllen, er hette nit also geylt mitt dem fryden annemmen.</s>
+				<s n="62" lang="de" state="auto">Gott schicke es wol!<fl>92</fl></s>
+			</p>
+		</div>
+		<div ref_regest="29">
+			<p>
+				<note type="PS">[Zusatz von Bullingers Hand:]</note>
+				<s n="63" lang="de" state="auto"><placeName ref="513">Ulm</placeName> hat sich fry absolute am keyser ergaͤben, lut der volgenden geschrifft<fl>93</fl> yngelegt.</s>
+				<s n="64" lang="la" state="auto">19. ianuarii.<fl>h</fl></s>
+			</p>
+			<p>
+				<note type="address">[Adresse<fl>i</fl>:]</note>
+				<s n="65" lang="de" state="auto">An herren <persName ref="8418">Oßwalden Myconien</persName> oder h. <persName ref="1278">Johansen Gasten</persName>, predicanten zuͦ <placeName ref="28">Basel</placeName>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2757">
+		<alpha>
+			<fn ref="a" meta="1"><i>Die Zusammengehörigkeit dieser beiden Dokumente ergibt sich aus den übereinstimmenden Schnittspuren.</i></fn>
+			<fn ref="b"><i>Am Rande von <persName ref="8418">Myconius</persName>' Hand:</i> Wantinier 15000 cum equitatu.</fn>
+			<fn ref="c"><i>Von derselben Hand wie die, die schon früher Briefe für Myconius abgeschrieben hatte; s. <bibl>HBBW</bibl> XVIII, <link fk_file="12706">Nr. 2659</link>, Anm. a, und <link fk_file="12743">Nr. 2696</link>, Anm. a.</i></fn>
+			<fn ref="d"><i>Leicht paraphrasierte Auszüge aus dem am</i> 9. <i>Januar verfassten Brief des <placeName ref="457">Konstanzer</placeName> Rats an den Zürcher Rat (<placeName ref="587">Zürich</placeName> StA, A 177, <link fk_file="10189">Nr. 158</link>). Von einer späteren Hand (die gleiche wie unten in Anm. f) irrtümlich:</i> Eiusdem Laeti a. 1547.</fn>
+			<fn ref="e-e"><i>Fehlt in der Vorlage. Ergänzung anhand des Konstanzer Originals.</i></fn>
+			<fn ref="f">Daneben von einer späteren Hand (dieselbe wie diejenige in oben Anm. d): Georg. Laeti Augustani archigrammatei Augustani manus. <i>Über der von <persName ref="2979">Johann Jakob Simler</persName> besorgten Abschrift (Zürich ZB, Ms S 63, 12) steht von dessen Hand</i> <persName ref="8354">Georgius Laetus</persName>, Archigrammateus Augustanus, haec misit Blaurero et Bullingero, hic vero Myconio et Gastio. <i><persName ref="8354">Frölichs</persName> Brief an <persName ref="8055">Blarer</persName> wurde tatsächlich von Letzterem an Bullinger zur Lektüre übermittelt; s. <link fk_file="12803">Nr. 2754</link>, 3f.</i></fn>
+			<fn ref="g"><i>Diese paraphrasierten Auszüge stammen aus den Briefen <persName ref="8055">Blarers</persName> <link fk_file="12803">Nr. 2754</link> und <persName ref="4082">Zwicks</persName> <link fk_file="12804">Nr. 2755</link> vom 16./17. Januar; s. <link fk_file="12803">Nr. 2754</link>, Anm. I.</i></fn>
+			<fn ref="h"><i>Danach von einer anderen Hand:</i> 1547.</fn>
+			<fn ref="i"><i>Von Bullingers Hand auf der Versoseite eines nicht nummerierten Blattes, welches nach dem Blatt mit den Seiten 21 und 22 in den Einband E II 441 gebunden wurde.</i></fn>
+			<!-- Splits -->
+			<fn ref="e"><i>Fehlt in der Vorlage. Ergänzung anhand des <placeName ref="457">Konstanzer</placeName> Originals.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Gemeint ist die unten veröffentlichte Beilage.</fn>
+			<fn ref="2"><persName ref="8418">Myconius</persName> hatte zuletzt am 28. Dezember 1546 <i>(HBBW</i> XVIII, <link fk_file="12777">Nr. 2729</link>) an Bullinger geschrieben, und dieser hatte seitdem schon zwei Briefe (<link fk_file="12787">Nr. 2738</link>; <link fk_file="12789">Nr. 2740</link>) an ihn adressiert.</fn>
+			<fn ref="3">eifrig; s. <bibl>Fischer</bibl> II 568f.</fn>
+			<fn ref="4">wie.</fn>
+			<fn ref="5">häufig, oft; s. <bibl>SI</bibl> XII 1238.</fn>
+			<fn ref="6">Die <placeName ref="21">Badener</placeName> Tagsatzung vom 10. Januar; s. <link fk_file="12786">Nr. 2737</link>, Anm. 3.</fn>
+			<fn ref="7"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="8">eingereicht; s. <bibl>SI</bibl> III 1184. - Zum Brief des Kaisers vom 27. Dezember 1546 s. <link fk_file="12800">Nr. 2751</link>, Anm. 47.</fn>
+			<fn ref="9"><persName ref="6310">Heinrich Ryhiner</persName>.</fn>
+			<fn ref="10">schmeichlerisch; s. <bibl>Fischer</bibl> III 674.</fn>
+			<fn ref="11">Siehe <bibl>EA</bibl> IV/1d 758f u. Die Publikation sorgte auch noch später im Jahr 1547 für Aufregung; s. dazu die Verweise in <bibl>HBBW</bibl> XVII 400, Anm. 7.</fn>
+			<fn ref="12">Gezänk; s. <bibl>SI</bibl> I 1344.</fn>
+			<fn ref="13">laß hargan: lassen wir das passieren; s. <bibl>SI</bibl> II 30.</fn>
+			<fn ref="14"><persName ref="7637">König Franz I. von Frankreich</persName>. - Siehe schon <link fk_file="12800">Nr. 2751</link>,53-59; <link fk_file="12801">Nr. 2752</link>,16-21.</fn>
+			<fn ref="15"><placeName ref="736">Piemont</placeName>.</fn>
+			<fn ref="16"><entity id="107" type="geo_region">Gascogne</entity>.</fn>
+			<fn ref="17">Diese Angaben kommen aus dem Brief, den <persName ref="1419">Johannes Haab</persName> und <persName ref="6793">Itelhans Thumysen</persName> am 14. Januar aus <placeName ref="21">Baden</placeName> an den Zürcher Rat geschrieben haben (Zürich StA, A 225/2, Nr. 37), nur dass Bullinger die Zahl 8000 (statt 12000) falsch in Erinnerung hatte. -Anfang März waren dem König diese Söldner noch immer nicht zur Verfügung gestellt worden; s. <bibl>EA</bibl> IV/1d 784 zu aa.</fn>
+			<fn ref="18"><persName ref="8032">Francisco de Enzinas</persName>.</fn>
+			<fn ref="19">Wolle. - Siehe dazu <link fk_file="12787">Nr. 2738</link>,16f; <link fk_file="12789">Nr. 2740</link>,20f.</fn>
+			<fn ref="20"><persName ref="4715">Nikolaus Episcopius (Bischoff)</persName>, Basler Buchdrucker.</fn>
+			<fn ref="21"><persName ref="5213">Johannes Herwagen</persName>.</fn>
+			<fn ref="22">Unbekannter Brief.</fn>
+			<fn ref="23">Er studierte damals in <placeName ref="28">Basel</placeName> und war bei <persName ref="8406">Konrad Wolfhart (Lycosthenes)</persName> untergebracht; s. <bibl>HBBW</bibl> XVI 219, Anm. 4.</fn>
+			<fn ref="24">übermittelt.</fn>
+			<fn ref="25">post tertiam horam.</fn>
+			<fn ref="26"><persName ref="5571">Ludwig Kürnstaller</persName>, der am 8. Januar wieder in <placeName ref="457">Konstanz</placeName> eingetroffen war; s. <link fk_file="12792">Nr. 2743</link>, Anm. 9. Die <placeName ref="513">Ulmer</placeName> hatten die oberländischen Städte aufgefordert, auf den 2. Januar ihre Gesandten zu ihnen zu schicken, damit den Städten auch zu einem Frieden verholfen werden könne; s. <bibl>HBBW</bibl> XVIII 459; <i>Rommel, <placeName ref="513">Ulm</placeName></i> 85f.</fn>
+			<fn ref="27">Zum Friedensschluss der <placeName ref="513">Ulmer</placeName> mit dem Kaiser s. <link fk_file="12783">Nr. 2734</link>, Anm. 4.</fn>
+			<fn ref="28">sy söltend sich der Schmalckaldischen püntnus verzyhen: sie sollten den Schmalkaldischen Bund aufgeben; s. <bibl>Fischer</bibl> II 1424f s.v. verzeihen.</fn>
+			<fn ref="29"><persName ref="18477">Ferdinand I.</persName></fn>
+			<fn ref="30">zurückerstatten; s. <bibl>Fischer</bibl> VI/1 780.</fn>
+			<fn ref="31">Vgl. <link fk_file="12795">Nr. 2746</link>,48-51.</fn>
+			<fn ref="32">angemessene; s. <bibl>Fischer</bibl> VI/1 1206.</fn>
+			<fn ref="33">Siehe dazu <link fk_file="12787">Nr. 2738</link>, Anm. 8.</fn>
+			<fn ref="34"><persName ref="4285">Georg Besserer</persName> und <persName ref="6993">Jos Weickmann</persName>; s. <bibl>HBBW</bibl> XVIII 396, Anm. 9.</fn>
+			<fn ref="35">Rechten.</fn>
+			<fn ref="36">Darunter <persName ref="7706">Nicolas Perrenot</persName>, Herr von Granvelle, und Reichsvizekanzler <persName ref="7689">Johann von Naves</persName>; s. <link fk_file="12795">Nr. 2746</link>, Anm. 44.</fn>
+			<fn ref="37">mit ußtruckten Worten: ausdrücklich; s. <bibl>Fischer</bibl> I 463 s.v. ausdrucken.</fn>
+			<fn ref="38">durchaus; s. <bibl>SI</bibl> I 274.</fn>
+			<fn ref="39">erwähnen; s. <bibl>SI</bibl> XIII 669.</fn>
+			<fn ref="40">denn.</fn>
+			<fn ref="41"><persName ref="18250">Herzog Moritz von Sachsen</persName>.</fn>
+			<fn ref="42" type="bio" fk_person="18520">Wie z.B. <persName ref="18520">Kurfürst Joachim II. von Brandenburg</persName>, dessen Bruder Markgraf Johann von <placeName ref="1048">Brandenburg</placeName>-Küstrin, oder auch Markgraf <persName ref="18422">Albrecht II.</persName> Alcibiades von <placeName ref="1048">Brandenburg</placeName>-Kulmbach.</fn>
+			<fn ref="43">Herzog <persName ref="18716">Erich II. von Braunschweig-Calenberg-Lüneburg</persName>.</fn>
+			<fn ref="44">überlieferten Rechten; s. <bibl>SI</bibl> III 281.</fn>
+			<fn ref="45">ganz; s. <bibl>Grimm</bibl> XXVI 132.</fn>
+			<fn ref="46">dann vor: als zuvor.</fn>
+			<fn ref="47">Siehe <link fk_file="12783">Nr. 2734</link>, Anm. 6.</fn>
+			<fn ref="48">schriftliches Zeugnis; s. <bibl>SI</bibl> III 353.</fn>
+			<fn ref="49">nur.</fn>
+			<fn ref="50">Wie wol: Genauso wie.</fn>
+			<fn ref="51">irgendeine.</fn>
+			<fn ref="52">Gemeint ist, dass sie nicht durch einen Vertrag (zwischen Belagerten und Belagerer) dazu genötigt wurden.</fn>
+			<fn ref="53">Siehe dazu <i>Rommel, <placeName ref="513">Ulm</placeName></i> 78f.</fn>
+			<fn ref="54">Der schon oben erwähnte <placeName ref="457">Konstanzer</placeName> Bote <persName ref="5571">Kürnstaller</persName>.</fn>
+			<fn ref="55">verpflichtet.</fn>
+			<fn ref="56">Bürger; s. <bibl>Fischer</bibl> III 330.</fn>
+			<fn ref="57">alls zü achten: wie zu vermuten (ist).</fn>
+			<fn ref="58">Es kam erst am 25. Januar dazu; s. <link fk_file="12790">Nr. 2741</link>, Anm. 4.</fn>
+			<fn ref="59">lassend sich nit vernügen: geben sich nicht damit zufrieden; s. <bibl>SI</bibl> IV 701.</fn>
+			<fn ref="60"><placeName ref="1202">Schmalkaldischer Bund</placeName>.</fn>
+			<fn ref="61">farend erst zü: gehen rücksichtlos vor; s. <bibl>Fischer</bibl> VI/1 1302.</fn>
+			<fn ref="62">zu rechtfertigen; s. <bibl>SI</bibl> VIII 868.</fn>
+			<fn ref="63">als ob; s. <bibl>Fischer</bibl> V 559.</fn>
+			<fn ref="64">die Memminger.</fn>
+			<fn ref="65">Ironischer Bezug auf <placeName ref="320">Memmingens</placeName> Unterhandlungen mit dem Kaiser; s. <bibl>HBBW</bibl> XVIII 431, Anm. 15.</fn>
+			<fn ref="66">geruwen ist: bereuen.</fn>
+			<fn ref="67">zur Rückkehr bewegt.</fn>
+			<fn ref="68">wenn.</fn>
+			<fn ref="69"><persName ref="18574">Philipp von Hessen</persName>. Vgl. Nr. 28 15,13-16.</fn>
+			<fn ref="70">eingeredet; s. <bibl>Fischer</bibl> II 591.</fn>
+			<fn ref="71">diewyl man nodt halb möge: solange man sich im Notfall wehren kann.</fn>
+			<fn ref="72">für und für darfür gehalten: immer wieder für wahr gehalten; s. <bibl>SI</bibl> II 1224f s.v. halten.</fn>
+			<fn ref="73">Theaterspiel; vgl. <bibl>SI</bibl> X 136f.</fn>
+			<fn ref="74"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="75"><placeName ref="2449">Böhmen</placeName>.</fn>
+			<fn ref="76"><placeName ref="284">Leipzig</placeName>. - Die Stadt wurde seit 6. Januar 1547 vom Kurfürsten belagert und ab dem 13. Januar beschossen. Am 27. Januar zogen die kurfürstlichen Truppen wieder ab; s. Georg <i>Voigt,</i> Die Belagerung <placeName ref="284">Leipzigs</placeName> 1547, in: Archiv für die Sächsische Geschichte, hg. v. Karl von Weber, Bd. 11, <placeName ref="284">Leipzig</placeName> 1873, S. 272. 279. 290f; <bibl>Mentz</bibl> III 555-557, Nr. 74 (Bericht des Kurfürsten vom 8. Februar 1547 über den Abbruch der Belagerung).</fn>
+			<fn ref="77">andere Städte.</fn>
+			<fn ref="78"><placeName ref="2383">Bad Langensalza</placeName> Unstrut-Hainich-Kreis, Thüringen). - Der Kurfürst hatte die Stadt am 24. Dezember 1546 eingenommen (s. dazu <i>Voigt, <persName ref="18250">Moritz</persName></i> 245), doch ohne Gewalt (s. <bibl>PC</bibl> IV/1 568, <link fk_file="10560">Nr. 524</link>).</fn>
+			<fn ref="79">"aventüre", Zauberei, Blendwerk (s. <bibl>SI</bibl> I 103), mit dem gleichen Sinn wie "Affenspiel" in <persName ref="8055">Blarers</persName> Brief; s. <link fk_file="12803">Nr. 2754</link>,15.</fn>
+			<fn ref="80">treiben; s. <i>FNHDW</i> III 1952, Nr. 14.</fn>
+			<fn ref="81">als.</fn>
+			<fn ref="82">inn gehuldet: ihm gehuldigt, Treue geschworen (haben); s. <bibl>Fischer</bibl> III 1861.</fn>
+			<fn ref="83">Paraphrase von <link fk_file="12803">Nr. 2754</link>,13-20.</fn>
+			<fn ref="84"><persName ref="9780">Herzog Ulrich von Württemberg</persName>.</fn>
+			<fn ref="85">Fernando Alvarez de Toledo, Herzog von Alba.</fn>
+			<fn ref="86">Paraphrase von <link fk_file="12803">Nr. 2754</link>,21-28.</fn>
+			<fn ref="87">Paraphrase von <link fk_file="12804">Nr. 2755</link>,1-7 und 10-12.</fn>
+			<fn ref="88">Pfaffengewimmel; s. <link fk_file="12803">Nr. 2754</link>, Anm. 53.</fn>
+			<fn ref="89">Paraphrase von <link fk_file="12803">Nr. 2754</link>,43-45.</fn>
+			<fn ref="90">verlangen.</fn>
+			<fn ref="91">Paraphrase von <link fk_file="12803">Nr. 2754</link>,47-50.</fn>
+			<fn ref="92">Paraphrase von <link fk_file="12803">Nr. 2754</link>,56-58.</fn>
+			<fn ref="93">Gemeint ist die vorliegende Beilage, ganz besonders Z. 19-62.</fn>
+		</num>
+	</footnotes>
+</file>

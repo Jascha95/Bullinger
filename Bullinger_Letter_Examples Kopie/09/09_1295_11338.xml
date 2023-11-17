@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11338" id_hbbw="1295" id_irg_sort="1295" id_sort="112950">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11338</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1295</arpa>
+		<scan_pages>
+			<scan id="26363" dir="11338/Autograph/" page="1">00 E_II_340__fol__90_r_.tif</scan>
+			<scan id="26364" dir="11338/Autograph/" page="2">01 E_II_340__fol__90_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23014" vf="1" fk_add_type="1">
+				<person id="3067" fk_id="3067">
+					<name>Stumpf</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="70" vf="1" fk_id="70" long="8.8179" lat="47.26698">Bubikon</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23015" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11338">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">8</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17809">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 340,90</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11100" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1295, S. 196</entry>
+				<page>196</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="8">
+				<lang id="1" iso="de" count="5" p="62.5"/>
+				<lang id="5" iso="la" count="3" p="37.5"/>
+			</sentences>
+			<words count="191">
+				<lang id="1" iso="de" count="169" p="88.5"/>
+				<lang id="5" iso="la" count="22" p="11.5"/>
+			</words>
+			<chars count="1014">
+				<lang id="1" iso="de" count="902" p="89.0"/>
+				<lang id="5" iso="la" count="112" p="11.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1295" page="196">
+		<div ref="1">
+			Schickt die Chronik des verstorbenen <persName ref="4891">Hans Füßli</persName> zu Handen von
+			<persName ref="4892">Peter [Füßli]</persName> zurück. Weil
+			<persName ref="7194">Ulrich [Zingg]</persName> vom Rat seines
+			Amtes in <placeName ref="127">Dürnten</placeName> enthoben worden ist, bitten die Pfarrer [des
+			<placeName ref="544">Wetzikoner</placeName> Kapitels] um die Fürsprache [Bullingers,
+			<persName ref="1753">Juds</persName> und <persName ref="8412">Meganders</persName>], damit die
+			Kirchgemeinde wieder ordentlich mit einem Pfarrer versehen wird.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="9" fk_bibliography="11" nr="1295" page="196">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a deo patre et d[omino] n[ostro] I[esu] C[hristo].</s>
+			</p>
+			<p>
+				<s n="2" lang="de" state="auto">Lieber her unnd bruder, ich schick uch hiemit <persName ref="4891">Hans Füeßlins</persName> selgen chronicken<fl>1</fl>; die wöllind <persName ref="4892">Petern</persName><fl>2</fl> (von dem ichs enthlechnet) one verzug überantworten.</s>
+				<s n="3" lang="de" state="auto">Demnach, diewyl bruder <persName ref="7194">Ulrich</persName><fl>3</fl> von Dürten von unßern g[nedigen] h[erren] wytter Durnten zu versehen abkent<fl>4</fl> und ouch mangels der rede halb nit zu predigen geschickt ist, und aber die pfar jetz jar und tag stuckwerchs wyße versehen ist, so haben gmeyne brüeder (uß dem murmur<fl>5</fl> der gmeynd und sonst bewegt) urßach gnommen, uch unßern vättern gmeynlich (umb mer glimpff<fl>6</fl> und ansehen willen) zu schryben, darmit der sententz volnstreckt und die pfar ordenlich versorgt wurde, als die am anstoß<fl>7</fl> gelegen, durch töuffer befleckt<fl>8</fl> und mit kybigem<fl>9</fl> folck besetzt ist.</s>
+				<s n="4" lang="de" state="auto">Hierin wöllind das best thuͦn, wie ir dan alles uß dem schryben der bruͤder (durch mich nach irem bevelch gethon) wol verston mögend<fl>10</fl>.</s>
+				<s n="5" lang="de" state="auto">Hiemit sind dem hern sampt uwer hußgsind bevolhen, und habend mir als uwerm sclaven und eygnenn<fl>11</fl> alzyt ze gepietten.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Datum Bubicken, 12. augusti anno 1539.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Tuus ex animo Io. Stumpff.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="8" lang="de" state="auto">Dem frommen und getrüwen M. Heinrichen Bullinger, predigern des evangelii zu Zürich, mynem lieben herrn und bruͦder.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1295">
+		<alpha/>
+		<num>
+			<fn ref="1">Zur Zusammenarbeit <persName ref="6730">Stumpfs</persName> mit dem 1538 verstorbenen Chronisten <persName ref="4891">Hans Füßli</persName> vgl. <bibl>HBBW</bibl> V, <link fk_file="10628">Nr. 590</link>f.</fn>
+			<fn ref="2" type="bio" fk_person="4892">Wohl <persName ref="4892">Peter Füßli</persName>, der Bruder von Hans.</fn>
+			<fn ref="3"><persName ref="7194">Ulrich Zingg</persName>.</fn>
+			<fn ref="4">seines Pfarramtes in <placeName ref="127">Dürnten</placeName> (Kt. Zürich) enthoben wurde. - Vgl. dazu oben <link fk_file="11334">Nr. 1291</link>, 11-15.</fn>
+			<fn ref="5">Gemurre, Unwillen.</fn>
+			<fn ref="6">Nachdruck.</fn>
+			<fn ref="7">Grenze.</fn>
+			<fn ref="8">Vgl. oben <link fk_file="11334">Nr. 1291</link>, Anm. 11.</fn>
+			<fn ref="9">eigensinnigem, zänkischem.</fn>
+			<fn ref="10">könnt. - Vgl. das Schreiben der am 29. Juli in <placeName ref="70">Bubikon</placeName> versammelten Pfarrer des <placeName ref="544">Wetzikoner</placeName> Kapitels an Bullinger, <persName ref="1753">Leo Jud</persName> und <persName ref="8412">Kaspar Megander</persName> (oben <link fk_file="11334">Nr. 1291</link>), das offensichtlich zusammen mit dem vorliegenden Brief nach Zürich befördert wurde.</fn>
+			<fn ref="11">Untertan.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11380" id_hbbw="1337" id_irg_sort="1337" id_sort="113370">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11380</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1337</arpa>
+		<scan_pages>
+			<scan id="26444" dir="11380/Autograph/" page="1">00 E_II_337__fol__319_r_.tif</scan>
+			<scan id="26445" dir="11380/Autograph/" page="2">01 E_II_337__fol__319_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23102" vf="1" fk_add_type="1">
+				<person id="2810" fk_id="2810">
+					<name>Ritter</name>
+					<forename>Erasmus</forename>
+				</person>
+				<place id="41" vf="1" fk_id="41" long="7.44744" lat="46.94809">Bern</place>
+				<district id="28">Bern</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23103" vf="1" fk_add_type="2">
+				<title id="49" fk_place="">Pfarrer</title>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</addressee>
+			<addressee id="23104" vf="1" fk_add_type="2">
+				<title id="45" fk_place="">Lehrer</title>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</addressee>
+		</addressees>
+		<date id="11380">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">12</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17851">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 337a,319</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11143" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1337, S. 266</entry>
+				<page>266</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="24">
+				<lang id="1" iso="de" count="1" p="4.2"/>
+				<lang id="5" iso="la" count="23" p="95.8"/>
+			</sentences>
+			<words count="833">
+				<lang id="1" iso="de" count="2" p="0.2"/>
+				<lang id="5" iso="la" count="831" p="99.8"/>
+			</words>
+			<chars count="5136">
+				<lang id="1" iso="de" count="10" p="0.2"/>
+				<lang id="5" iso="la" count="5126" p="99.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1337" page="266">
+		<div ref="1">
+			Hat sich mit Schreiben zurückgehalten, teils wegen Zweifels an ihrem Wohlwollen, teils aus Furcht vor
+			gewissen Leuten, die von der hergebrachten Sakramentslehre abweichen,
+			<persName ref="4091">Zwingli</persName> und seine Schüler hassen und nur noch
+			<persName ref="1974">Luther</persName> im Munde führen; doch um
+			<persName ref="4091">Zwinglis</persName> und der Wahrheit willen überwindet er seine Scheu.
+			<persName ref="1974">Luther</persName> hat in seinem Buch „Von den Konziliis und Kirchen“ nicht nur
+			den Solddienst gerechtfertigt, sondern <persName ref="4091">Zwingli</persName> des Nestorianismus
+			bezichtigt und ihm zudem unterstellt, das Wasser der Taufe als etwas Äußerliches dem Weihwasser der Papisten
+			gleichgeachtet zu haben; man ist es der Wahrheit und <persName ref="4091">Zwingli</persName> schuldig,
+			solche Verleumdungen nicht hinzunehmen. Schlägt vor, öffentlich zu antworten und darzulegen, daß
+			<persName ref="4091">Zwingli</persName> nicht nestorianisch lehrte, sondern - im Unterschied zu
+			<persName ref="1974">Luther</persName> - die Eigenschaften beider Naturen Christi klar unterschied,
+			daß außerdem gemäß ihrem Bekenntnis das sakramentale Wasser vom bloßen Element verschieden ist, wenn im
+			Vollzug der Taufe das Wort hinzukommt. Bittet, seinen Rat nicht zu verachten und ihm samt allen, die von der
+			lutherischen Partei [in <placeName ref="41">Bern</placeName>] bedrängt werden, durch Briefe
+			beizustehen. Der Bote ist in Eile.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1337" page="266">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratia et pax a deo per Iesum Christum.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Temperavi michi nunc aliquamdiu (viri doctissimi), quo minus ad vos scriberem, partim, quod verebar literas meas vobis ingratas fore, quoniam suspicabar animos vestros nonnichil a me esse alienatos ob suspitionem malam nescio quam, [quam]<fl>a</fl> de me concepisse videbamini, partim, quod videbam hoc sine periculo fieri non posse ob inconstantiam quorundam, qui relicta via certa et probabili disserendi de sacramentis hactenus in ecclesiis Helveticis usitata novam et obscuram amplexati<fl>b</fl> sunt, quam omnibus etiam tanta sedulitate persuadere conantur, ut, qui illico illis accedere refragetur, cane et angue peius odio habeatur<fl>1</fl>, neque etiam tantum doctrinam <persName ref="4091">Zvinglii</persName>, viri optimi, sed etiam nomen eius abhorreant nichilque quam <persName ref="1974">Lutherum</persName> crepantes ita ut Hierosolimite obcecati, qui abhorrebant ab aquis Siloe sensim defluentibus sibique gratulabantur sub superbia Razin [et]<fl>c</fl> filio[!] Romelie<fl>2</fl>.</s>
+				<s n="3" lang="la" state="auto">Ita simplicitatem piam et eruditam <persName ref="4091">Zvinglii</persName> eiecit fastidiosa superbia <persName ref="1974">Lutheri</persName>.</s>
+				<s n="4" lang="la" state="auto">Quos si non summa offensio ecclesiarum, amor tamen patrie cohibere debebat, taceo ineffabilem curam et sollicitudinem fidissimi pastoris, piissimi praeceptoris nostri <persName ref="4091">Zvinglii</persName>, quam pro ecclesiis Helvetiis nullo tempore subire recusabat.</s>
+				<s n="5" lang="la" state="auto">Sed ita recompensant ingratissimi homines ingentissimos labores optimi viri.</s>
+				<s n="6" lang="la" state="auto">Sed quid; vincit tandem verecundiam simul et periculum amor et studium non tantum erga <persName ref="4091">Zvinglium</persName>, sed maxime erga veritatem, quam video sub <persName ref="4091">Zvinglii</persName> nomine periclitari.<pb_edition start_of="267"/></s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Exiit enim libellus hoc anno a <persName ref="1974">Luthero</persName> editus, primum <placeName ref="492">Argentorati</placeName>, post <placeName ref="558">Witeberge</placeName> excussus<fl>d</fl>, cui titulus est De conciliis et ecclesia<fl>3</fl>, in quo a principio ita commendat militiam stipendiariam<fl>4</fl>, ut iniuria maxima affectos esse a nobis<fl>e</fl> nostri milites et pensionarii haud immerito conqueri possint, si <persName ref="1974">Lutheri</persName> scripta pro veritate recipi debent.</s>
+				<s n="8" lang="la" state="auto">Secundo, ubi concilium<fl>f</fl> Ephesinum et Calcedonense causamque <persName ref="18253">Nestorii</persName> et <persName ref="19214">Eutiches</persName>[!] tractat<fl>5</fl>, sub <persName ref="18253">Nestorii</persName> nomine <persName ref="4091">Zvinglium</persName> tam aperte perstringit, ut non nisi ceci non videant, quoniam isdem verbis <persName ref="18253">Nestorium</persName> describit, quibus in confessione sua <persName ref="4091">Zvinglium</persName><fl>6</fl>.</s>
+				<s n="9" lang="la" state="auto">Tandem, ut impotens homo est neque diu virus suum cęlare novit, erumpit et gloriatur sibi bellum fuisse cum Nestorianis, qui negaverint deitatem esse passam<fl>7</fl>, et quamvis confessi sint Christum deum et hominem, noluisse tamen communicationem idiomatum admittere, ut dicerent deum esse passum, concedentes antecedens in bona consequentia, consequens vero negantes<fl>8</fl>, et <persName ref="4091">Zvinglium</persName> dicit<fl>9</fl> nominatim eo venisse, quod voluerit verba evangeliste: „Verbum caro factum est“ [Joh 1, 14] legere „Verbum caro facta est“<fl>10</fl>, ratio, quod deus esset immutabilis neque posset<fl>g</fl> aliud quippiam fieri.</s>
+				<s n="10" lang="la" state="auto">Ultimo, quum incidit in mentionem sacramentorum, ait doctos fuisse quosdam, qui, dum acceperint ab illo, quod externa quaedam, quae instituta erant ab hominibus, reprehenderet, statim illos<fl>h</fl> aquam baptismi in eum numerum collocasse et non maioris precii duxisse quam aquam papistarum benedictam<fl>11</fl>.</s>
+				<s n="11" lang="la" state="auto">Hiis atque similibus mendaciis<fl>i</fl> praeceptores nostros atque nos ipsos traducit coram toto orbe, quod diutius ferre cum tanto periculo veritatis non tantum non est christiane mansuetudinis, sed meo iudicio eciam maximi criminis, modo neglectus veritatis et calumnia praeceptoris, maxime in causa religionis, pro crimine velit reputari, ut merito debet.<pb_edition start_of="268"/></s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Propterea, doctissimi viri, quamvis nichil certius noverim mea tenuitate et quam inops consiliorum sim, praesertim in re tam gravi, contra vero neminem lateat, quanta vos prudentia, doctrina et eruditione polleatis, nichilominus arbitratus sum mei officii esse vos exhortari, ut aliquo modo huic periculo succuratur, neque etiam cęlare volo consilium meum.</s>
+				<s n="13" lang="la" state="auto">De primo articulo, in quo se satis prodit <persName ref="1974">Lutherus</persName>, cuius sit spiritus, non opinor opus esse, ut tam crasso errori respondeatur.</s>
+				<s n="14" lang="la" state="auto">Sed de secundo, quandoquidem constet atque ex scriptis <persName ref="4091">Zvinglii</persName> aperte convinci possit hanc insimulationem Nestoriane perfidei esse falsam et mendacem, siquidem pius vir<fl>k</fl> nichil minus quam communicationem idiomatum negaverit, ut per alleosim<fl>12</fl> nichil aliud [a]sserere<fl>l</fl> volebat, praeterea ut naturarum proprietatem intemeratam conservare posset, quam <persName ref="1974">Lutherus</persName> iuxta Eutichianam heresim confundere satagebat, nichilominus modum scripture tribuentis persone, quod in proprietate nature esset, non abhorrens, optarem, ut aliquis vestrum innocentiam optimi viri ex suis scriptis assereret et palam faceret, quod nichil minus quam perfidia <persName ref="18253">Nestorii</persName> ex libris <persName ref="4091">Zvinglii</persName> hauriri possit, id quod aperte probare potest.</s>
+				<s n="15" lang="la" state="auto">Deinde, quamdiu videmus et nos falso traduci, quod aquam baptismi eciam in usu et propter usum non pluris fecissemus quam externam aquam fontis, a qua certe in natura nichil differt<fl>m</fl>, nisi <persName ref="1974">Lutherus</persName> velit transsubstantiationem admittere, accedente vero verbo nemo nostrum aliter iudicavit quam aquam sacramentalem esse et propter usum aqua sanctificata per verbum et inenarrabiliter differre ab aqua elementali, opereprecium<fl>n</fl> censerem, ut confessionem nostram, quemadmodum de sacramentis semper docuerimus et senserimus<fl>13</fl>, orbi testatam faceremus; video enim <persName ref="1974">Lutherum</persName> et omnes suos imitatores in hoc tantum laborare, ut de victoria triumphet, parum vero curet, ut veritas innotescat mundo.</s>
+				<s n="16" lang="la" state="auto">Id quod facile illi condonari posset, si periculum inde non pateretur veritas.</s>
+			</p>
+			<p>
+				<s n="17" lang="la" state="auto">Proinde, fratres charissimi, boni consulite hoc meum consilium; nam alias vereor, quod iure in me dici possit: „Sus Minervam docere cupit.“<fl>14</fl></s>
+				<s n="18" lang="la" state="auto">Nonnunquam tamen et dominus minimo in ecclesia utitur<fl>o</fl> ad nominis sui gloriam.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Valete et crebris me consolamini literis vestris doctis et piis, quoniam ferme supra vires premor a factione Lutherana et multorum animi labascunt ex silentio vestro; hactenus tamen obtinere nichil potuerunt.<pb_edition start_of="269"/></s>
+			</p>
+			<p>
+				<s n="20" lang="la" state="auto">Ex <placeName ref="41">Berna</placeName>, 12. decembris 1539.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Nunctius<fl>15</fl> ita festinabat, ut relegere<fl>p</fl> et corrigere non daretur facultas.</s>
+				<s n="22" lang="la" state="auto"><persName ref="2810">Erasmus Ritter</persName>, ex animo totus vester.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="23" lang="la" state="auto">Doctissimis et piissimis viris, Tigurine ecclesie pastoribus et lectoribus, charissimis fratribus in domino plurimum observandis.</s>
+			</p>
+			<p>
+				<s n="24" lang="de" state="auto">Gen Zürich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1337">
+		<alpha>
+			<fn ref="a"><i>Das zweite</i> quam <i>fehlt in der Vorlage.</i></fn>
+			<fn ref="b"><i>korrigiert aus</i> amplexi.</fn>
+			<fn ref="c">et <i>fehlt in der Vorlage.</i></fn>
+			<fn ref="d"><i>vor</i> excussus <i>gestrichenes</i> editus.</fn>
+			<fn ref="e">a nobis <i>am Rande nachgetragen.</i></fn>
+			<fn ref="f"><i>korrigiert aus</i> consilium.</fn>
+			<fn ref="g"><i>in der Vorlage</i> possit.</fn>
+			<fn ref="h"><i>nach</i> illos <i>gestrichenes</i> qui[?].</fn>
+			<fn ref="i"><i>vor</i> mendaciis <i>ein gestrichener Buchstabe.</i></fn>
+			<fn ref="k">vir <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="l"><i>Text beim Öffnen des Siegels beschädigt.</i></fn>
+			<fn ref="m"><i>nach</i> differt <i>gestrichenes</i> nichil.</fn>
+			<fn ref="n"><i>vor</i> opereprecium <i>gestrichenes</i> operepre.</fn>
+			<fn ref="o">dominus <i>nach</i> utitur <i>irrtümlich wiederholt.</i></fn>
+			<fn ref="p"><i>vor</i> relegere <i>nicht gestrichenes</i> 1.</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><bibl>Adagia</bibl>, 2, 9, 63 (<bibl>LB</bibl> II 676f).</fn>
+			<fn ref="2">Vgl. Jes 8, 6.</fn>
+			<fn ref="3">"Von den Konziliis und Kirchen" (<bibl>WA</bibl> L 488-653); vgl. oben <link fk_file="11347">Nr. 1304</link>.</fn>
+			<fn ref="4">AaO, S. 532,10-537,24 (bes. S. 533,15-535,4).</fn>
+			<fn ref="5">AaO, S. 581,15-604,9.</fn>
+			<fn ref="6"><persName ref="2810">Ritter</persName> bezieht sich auf <persName ref="1974">Luthers</persName> "Vom Abendmahl Christi. Bekenntnis" von 1528 (<bibl>WA</bibl> XXVI 241-509): vgl. etwa <bibl>WA</bibl> L 584, 16-19 und 589, 13-20 mit <bibl>WA</bibl> XXVI 324, 5-14.</fn>
+			<fn ref="7">AaO, S. 591, 9f.</fn>
+			<fn ref="8">Vgl. aaO, S. 588, 12-28; 589, 13-20 (zur dialektischen Terminologie: S. 588, Anm. a).</fn>
+			<fn ref="9">AaO, S. 591, 10-14.</fn>
+			<fn ref="10">Vgl. <bibl>Z</bibl> V 683,18-684,9; 927,11-929,11; s. a. <bibl>WA</bibl> L 591, Anm. b.</fn>
+			<fn ref="11">AdO. S. 645, 1-9; 646, 25-31. <persName ref="2810">Ritter</persName> gibt <persName ref="1974">Luthers</persName> Kritik an seinen spiritualistischen Gegnern stark verkürzt und überspitzt wieder. Nach <persName ref="4091">Zwinglis</persName> Auffassung ist die Taufe zwar nur eine äußerliche Zeremonie (vgl. etwa <bibl>Z</bibl> IV 252, 11-16), aber im Unterschied zu den Ritualen der "Papisten" ist sie von Gott geboten (vgl. etwa <bibl>Z</bibl> VI/I 182,10-183,10).</fn>
+			<fn ref="12">Zu dieser für <persName ref="4091">Zwinglis</persName> Christologie zentralen rhetorischen Figur und zu ihrem Verhältnis zur scholastischen Lehre von der Communicatio idiomatum s. bes. <bibl>Z</bibl> V 679,6-681,13; vgl. Richard <i>Cross,</i> "Alloiosis" in the Christology of <persName ref="4091">Zwingli</persName>, in: The Journal of Theological Studies, New Series 47, 1996, S. 105-122.</fn>
+			<fn ref="13">Vgl. dazu die Artikel über die Sakramente und die Taufe im Ersten Helvetischen Bekenntnis (<bibl>BSRK</bibl> 106f).</fn>
+			<fn ref="14"><bibl>Adagia</bibl>, 1, 1, 40 (<bibl>LB</bibl> II 43).</fn>
+			<fn ref="15">Unbekannt.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12896" id_hbbw="2847" id_irg_sort="2847" id_sort="128470">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12896</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2847</arpa>
+		<scan_pages>
+			<scan id="30198" dir="12896/Autograph/" page="1">00 E_II_357__fol__555_r_.tif</scan>
+			<scan id="30199" dir="12896/Autograph/" page="2">01 E_II_357__fol__555_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26336" vf="0" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26337" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12896">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">17</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19468">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357a,555</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9147" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 608, Nr. 1423</entry>
+			</print>
+			<print id="12405" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2847, S. 418</entry>
+				<page>418</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="32">
+				<lang id="1" iso="de" count="31" p="96.9"/>
+				<lang id="5" iso="la" count="1" p="3.1"/>
+			</sentences>
+			<words count="361">
+				<lang id="1" iso="de" count="359" p="99.4"/>
+				<lang id="5" iso="la" count="2" p="0.6"/>
+			</words>
+			<chars count="1904">
+				<lang id="1" iso="de" count="1894" p="99.5"/>
+				<lang id="5" iso="la" count="10" p="0.5"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2847" page="417">
+		<div ref="1">
+			[1] <persName ref="8055">Blarer</persName> hat durch diesen Boten [...] nur mitzuteilen, dass
+			<persName ref="4082">Konrad Zwick</persName> über die Erfolge des Kurfürsten <persName ref="19065">Johann Friedrich von Sachsen</persName> berichten wird. Gott wird auch weiterhin wunderbaren Beistand leisten, wenn man sich nur auf ihn
+			verlässt und nicht auf den weltlichen Schein!
+		</div>
+		<div ref="2">
+			[2] <placeName ref="145">Esslingen</placeName> muss <persName ref="18538">Kaiser Karl V.</persName> 40000 und
+			<placeName ref="412">Reutlingen</placeName> 20000 Florin zahlen. Wie sollen diese Städte das Geld
+			aufbringen? <placeName ref="291">Lindau</placeName> wurde nur mit 4000 belegt. Man ist der Meinung,
+			dass <placeName ref="457">Konstanz</placeName> einen Frieden sogar ohne Geldstrafe und mit guten
+			Bedingungen erlangen würde. <persName ref="4082">Zwick</persName> wird darüber vermutlich auch berichten.
+		</div>
+		<div ref="3">
+			[3] <placeName ref="492">Straßburg</placeName> hat sich nun wohl schon ergeben. Die Stadt soll
+			gute Friedensbedingungen erhalten haben und nicht [mit einer kaiserlichen Garnison] beschwert worden sein.
+			Hoffentlich stimmt das! Denn alles kann noch anders kommen.
+		</div>
+		<div ref="4">
+			[4] <persName ref="8498">Marcell Dietrich von Schankwitz</persName> wird anstelle der Burg
+			Dübelstein vielleicht eine andere Liegenschaft erwerben, die ihm
+			zum Kauf angeboten wurde. <persName ref="8055">Blarer</persName><pb_edition start_of="418"/> dankt für Bullingers Einsatz.
+		</div>
+		<div ref="5">
+			[5] Er hatte wirklich keine Zeit, das von Bullinger übersendete Büchlein [„Usszug der fürnemisten
+			Eesatzungen“] einzusehen. Dieser soll doch nur mit Ja oder Nein die an ihn gerichteten Fragen (bezüglich der
+			ihm [in <link fk_file="12890">Nr. 2841</link>] geschilderten Eheprobleme) beantworten.
+		</div>
+		<div ref="6">
+			[6] Das [von <persName ref="8011">Rudolf Gwalther</persName>] an <persName ref="3878">Hans Widenhuber</persName> gesandte Schreiben wurde anders aufgefasst, doch ist dies
+			nicht weiter wichtig.
+		</div>
+		<div ref="7">
+			[7] Hoffentlich stimmen die Gerüchte über Landgraf <persName ref="18574">Philipp von Hessen</persName> doch nicht! Möge Gott ihn nicht so
+			tief fallen lassen!
+		</div>
+		<div ref="8">
+			[8] Segenswunsch. Bullinger bete für <placeName ref="457">Konstanz</placeName>. Grüße.
+		</div>
+		<div ref="9">
+			[9] [P.S.:] Den beiliegenden, aus <placeName ref="1976">Augsburg</placeName> gekommenen Brief soll
+			er an <persName ref="2336">Bernardino Ochino</persName> weiterleiten. [Von dort] wird gar nichts über den Landgrafen berichtet.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2847" page="418">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Alles liebs und guͦts.</s>
+				<s n="2" lang="de" state="auto">By disem botten<fl>2</fl> nichts sunders ze schriben, dann<fl>3</fl> das ir von meinem lieben vetter<fl>4</fl> vernemen werdt des churfursten halber, wie glucklich es ime geht.<fl>5</fl></s>
+				<s n="3" lang="de" state="auto">Gott welle diß werck fortbringen<fl>6</fl> und seiner hand wunder beweysen, alls er dann wol kan, auch wurde, wa<fl>7</fl> das vertruwen uff inn gstellet wurde und wir nitt an menschlichem schowfalt verglarrten.<fl>8</fl></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="de" state="auto"><placeName ref="145">Esslingen</placeName> gibt dem kaiser<fl>9</fl> 40000 fl. und <placeName ref="412">Reutlingen</placeName> 20000 fl.<fl>10</fl></s>
+				<s n="5" lang="de" state="auto">Wissend nitt, wa<fl>11</fl> sy das gellt uffpringen soͤllen oder moͤgen.</s>
+				<s n="6" lang="de" state="auto">Lyndauw gibt nun<fl>12</fl> 4000 fl.<fl>13</fl></s>
+				<s n="7" lang="de" state="auto">Man achtet, wir<fl>14</fl> möchten diser zeyt wol on gellt hindurch kommen und sonst auch mitt guͦten conditionen, davon euch, acht ich, mein lieber vetter anzoͤgung thuͦt.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="8" lang="de" state="auto">Mitt Straussburg, achten wir, seye es nunmehr ouch uberhe.<fl>15</fl></s>
+				<s n="9" lang="de" state="auto">Sollend nun gar ain guͦten bericht<fl>16</fl> haben und niener nitt<fl>17</fl> beschwerdt werden.</s>
+				<s n="10" lang="de" state="auto">Gott well, das die sach guͦten grund habe!</s>
+				<s n="11" lang="de" state="auto">Dann<fl>18</fl> es mugend dise ding noch seltzam fallen, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="12" lang="de" state="auto"><persName ref="8498">Dietrich Marcellen</persName><fl>19</fl> halber hat es kain not mehr.</s>
+				<s n="13" lang="de" state="auto">Er<fl>a</fl> wirt Diepolltstain<fl>20</fl> nitt kouffen.</s>
+				<s n="14" lang="de" state="auto">Ist im ain ander kouff zuͦgestanden.<fl>21</fl></s>
+				<s n="15" lang="de" state="auto">Wirt inn<fl>22</fl> vyllicht treffen.</s>
+				<s n="16" lang="de" state="auto">Bedanck mich gantz flyssig unnd fruntlich gehapter muͤh und arbait.<pb_edition start_of="419"/></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="17" lang="de" state="auto">Kurtzen bschaid uff meine zwen casus,<fl>23</fl> euch vormals zuͦgeschriben, beger ich von euch ze vernemmen, dann ich warlich, warlich nitt zeyt gehapt, mich nach notturfft in ewerm uberschickten buͤchlin<fl>24</fl> zuͦ ersechen.<fl>25</fl></s>
+				<s n="18" lang="de" state="auto">Habs<fl>b</fl> euch doch nitt lenger behalten wellen,<fl>26</fl> diewyl ir des nitt geraten<fl>27</fl> moͤgen.</s>
+				<s n="19" lang="de" state="auto">Ir koͤndt mitt aim wort schreiben ja oder nain.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="20" lang="de" state="auto">Von Widenhuͦbers<fl>28</fl> schriben, im worden, will man anderst verstanden haben.</s>
+				<s n="21" lang="de" state="auto">Ligt aber gar nichts daran.<fl>29</fl></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="22" lang="de" state="auto">Des landtgrauffen<fl>30</fl> halber will ich auch noch ausß allerlay anzoͤgungen das besser vermuͦten,<fl>31</fl> byß ich nitt mehr kan.</s>
+				<s n="23" lang="de" state="auto">Hoff, der herr lasß inn nitt dermassen zuͦ schanden werden und alls<fl>32</fl> grosß unehr inlegen.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="24" lang="de" state="auto">Damitt, mein liebster hertzbruͦder und herr, gott bevolchen!</s>
+				<s n="25" lang="de" state="auto">Den bitten on alles uffhoͤren fuͤr unß unnd unser kirchen: Wie er unß mitt seinem namen ziert, das er unß ouch mitt seinem gaist stercke und mitt seiner gwaltigen hand gnedigklich zuͦ seinem ewigen preyß erhalte!</s>
+				<s n="26" lang="de" state="auto">Gruͤst all guͦt herren und fründ.</s>
+				<s n="27" lang="la" state="auto">17. martii.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="28" lang="de" state="auto">Hiemitt ain brieff.</s>
+				<s n="29" lang="de" state="auto">Wellt dem herrn <persName ref="2336">Bernardino</persName><fl>33</fl> verschaffen.</s>
+				<s n="30" lang="de" state="auto">Ist mir yetz von <placeName ref="1976">Augspurg</placeName> zuͦkommen.</s>
+				<s n="31" lang="de" state="auto">Schreibt man vom landtgrauffen ain wort nitt.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="32" lang="de" state="auto">An maister Hainrich Bullinger zuͦ Zuͤrich.<fl>34</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2847">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage</i> es.</fn>
+			<fn ref="b"><i>In der Vorlage</i> hab.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Das Jahr ist am Briefinhalt zu erkennen.</fn>
+			<fn ref="2">Unbekannt.</fn>
+			<fn ref="3">als.</fn>
+			<fn ref="4"><persName ref="4082">Konrad Zwick</persName>.</fn>
+			<fn ref="5">Anspielung auf den Sieg des Kurfürsten <persName ref="19065">Johann Friedrich I. von Sachsen</persName> über Markgraf <persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach; s. <link fk_file="12881">Nr. 2832</link>. Anm. 35. Zudem wollten die böhmischen Stände nicht gegen den Kurfürsten ziehen. Dieser stand damals bei <placeName ref="1530">Altenburg</placeName> und wollte <placeName ref="1736">Zwickau</placeName> zurückerobern; s. Nr. <i>2797,50f; MBW-T</i> 201, Nr. 4654.</fn>
+			<fn ref="6">fördern.</fn>
+			<fn ref="7">wenn; sofern.</fn>
+			<fn ref="8">wir nitt an menschlichem schowfalt verglarrten: wir uns nicht von der menschlichen Pracht verblenden lassen.</fn>
+			<fn ref="9"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="10">Siehe dazu Nr. 2845,6 und Anm. 8.</fn>
+			<fn ref="11">woher.</fn>
+			<fn ref="12">nur.</fn>
+			<fn ref="13">Der gleiche Betrag wird auch in <persName ref="18107">Johann Georg Saladins</persName> <placeName ref="492">Straßburger</placeName> Chronik <i>(MGEGDE2</i> XXIII 352) angegeben.</fn>
+			<fn ref="14"><placeName ref="457">Konstanz</placeName>. -Falls die Stadt einen Frieden mit dem Kaiser schließen wollte.</fn>
+			<fn ref="15">hinüber. - Die Ergebung <placeName ref="492">Straßburgs</placeName> stand damals unmittelbar bevor; s. <link fk_file="12871">Nr. 2822</link>, Anm. 16.</fn>
+			<fn ref="16">Vertrag; s. <bibl>Fischer</bibl> I 874.</fn>
+			<fn ref="17">17 niener nitt: durch nichts; s. <bibl>Fischer</bibl> IV 2042. - Gedacht ist hier an eine kaiserliche Besatzung. die der Stadt aber erspart blieb.</fn>
+			<fn ref="18">Denn.</fn>
+			<fn ref="19"><persName ref="8498">Dietrich Marcell von Schankwitz</persName>. - Siehe dazu <link fk_file="12873">Nr. 2824</link>,38-71; <link fk_file="12890">Nr. 2841</link>,49f; <link fk_file="12891">Nr. 2842</link>,34-37.</fn>
+			<fn ref="20">Dübelstein (bei <placeName ref="1596">Dübendorf</placeName>, <placeName ref="803">Kt. Zürich</placeName>).</fn>
+			<fn ref="21">angeboten (worden).</fn>
+			<fn ref="22">den Kauf.</fn>
+			<fn ref="23">Die zwei Eheprobleme, die <persName ref="8055">Blarer</persName> mit <link fk_file="12890">Nr. 2841</link>,137-194, darstellte. - Siehe ferner <link fk_file="12891">Nr. 2842</link>,74-81 sowie <link fk_file="12894">Nr. 2845</link>,8f.</fn>
+			<fn ref="24">Der Druck mit den Zürcher Ehesatzungen; s. <link fk_file="12891">Nr. 2842</link>, Anm. 88.</fn>
+			<fn ref="25">mich ... zh ersechen: mich umzusehen; kundig zu machen; s. <bibl>SI</bibl> VII 564.</fn>
+			<fn ref="26">Gemeint ist das von Bullinger zugesandte Buch.</fn>
+			<fn ref="27">entbehren; s. <bibl>Fischer</bibl> III 386. - Vgl. nämlich <link fk_file="12891">Nr. 2842</link>,80f.</fn>
+			<fn ref="28"><persName ref="3878">Hans Widenhuber</persName>. - Gemeint ist hier ein Brief <persName ref="8011">Rudolf Gwalthers</persName> an diesen; s. dazu <link fk_file="12890">Nr. 2841</link>,51-57; <link fk_file="12891">Nr. 2842</link>,38-42.</fn>
+			<fn ref="29">Zu verstehen: Es ist aber unwichtig.</fn>
+			<fn ref="30"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="31">Wie auch Bullinger; s. <link fk_file="12891">Nr. 2842</link>,46f.</fn>
+			<fn ref="32">so.</fn>
+			<fn ref="33"><persName ref="2336">Bernardino Ochino</persName>.</fn>
+			<fn ref="34">Vorliegender Brief wurde zusammen mit Brief <link fk_file="12898">Nr. 2849</link> vom 18. März übersandt; s. <link fk_file="12898">Nr. 2849</link>,1f.</fn>
+		</num>
+	</footnotes>
+</file>

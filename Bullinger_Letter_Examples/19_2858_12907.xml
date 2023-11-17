@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12907" id_hbbw="2858" id_irg_sort="2858" id_sort="128580">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12907</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2858</arpa>
+		<scan_pages>
+			<scan id="30219" dir="12907/Autograph/" page="1">00 E_II_370__fol__60_r_.tif</scan>
+			<scan id="30220" dir="12907/Autograph/" page="2">01 E_II_370__fol__60_v_.tif</scan>
+			<scan id="30221" dir="12907/Autograph/" page="3">02 E_II_370__fol__56_r_.tif</scan>
+			<scan id="30222" dir="12907/Autograph/" page="4">03 E_II_370__fol__56_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26362" vf="1" fk_add_type="1">
+				<person id="8018" fk_id="8018">
+					<name>Haller d.J.</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="18" vf="" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26363" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12907">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="" fn="">23</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19479">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 370,60</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12371" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2858, S. 442</entry>
+				<page>442</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="53">
+				<lang id="1" iso="de" count="34" p="64.2"/>
+				<lang id="5" iso="la" count="19" p="35.8"/>
+			</sentences>
+			<words count="513">
+				<lang id="1" iso="de" count="326" p="63.5"/>
+				<lang id="5" iso="la" count="187" p="36.5"/>
+			</words>
+			<chars count="2788">
+				<lang id="1" iso="de" count="1673" p="60.0"/>
+				<lang id="5" iso="la" count="1115" p="40.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2858" page="441">
+		<div ref="1">
+			[1] <persName ref="8018">Haller</persName> hat vor vier oder fünf Tagen an Bullinger geschrieben [nicht erhalten]. Eigentlich wollte der
+			Stadtschreiber <persName ref="8354">Georg Frölich</persName> [mit dem Brief] bis nach Zürich reisen, doch gelangte er nur bis
+			<placeName ref="457">Konstanz</placeName>, wo er <persName ref="7197">Hans Wilpert Zoller</persName> antraf und mit diesem nach
+			<placeName ref="1976">Augsburg</placeName> zurückkehrte. <persName ref="7197">Zoller</persName> ist jetzt schon seit sechs Tagen da,
+			hat aber <persName ref="8018">Haller</persName> noch immer nicht besucht! <persName ref="8354">Frölich</persName> bereitet derzeit die Hochzeit seiner Tochter [Anna] mit
+			einem Bannerträger [<persName ref="7047">Christoph Wilbrecht</persName>] vor.
+		</div>
+		<div ref="2">
+			[2] Die Bürgermeister <persName ref="1410">Jakob Herbrot</persName> und <persName ref="3927">Hans Welser</persName> zeigen den
+			<placeName ref="1976">Augsburger</placeName> Pfarrern ein ganz anderes Gesicht als den Kaiserlichen.
+			Sie verstellen sich und wollen es beiden Seiten recht machen. Damit schaden sie dem Ruhm Christi und der
+			Kirche. <persName ref="1410">Herbrot</persName> hat <persName ref="18194">Leonhard Beck von Beckenstein</persName> aus Gewinnsucht (das sehen alle so!) um sein prächtiges
+			Haus gebracht und ihn fast zum Auswandern gezwungen. Dadurch hat er sich allen verhasst gemacht. Sein
+			Schwiegersohn [...] beging bald darauf Suizid, sodass die ganze Familie in Verruf geraten ist. Würde doch
+			<persName ref="1410">Herbrot</persName> seine Hoffnung nicht auf unsichere Reichtümer setzen, sondern auf Gott! Zu Recht hat <persName ref="6040">Paulus</persName> die
+			Habgier als Ursprung allen Übels bezeichnet.
+		</div>
+		<div ref="3">
+			[3] Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> will <placeName ref="142">Erfurt</placeName> mit drei
+			Regimentern einnehmen, um sich die Getreideversorgung zu sichern. <persName ref="18250">Herzog Moritz von Sachsen</persName> soll Frieden mit
+			ihm<pb_edition start_of="442"/> geschlossen und seinen Bruder <persName ref="18509">August</persName> als Pfand eingesetzt haben. Dies ist
+			allerdings kaum glaubhaft. In <placeName ref="284">Leipzig</placeName> herrscht schwere Hungersnot.
+			Viele Menschen sterben. Herzog Wilhelm von Jülich-Kleve und <persName ref="18449">König Christian III. von Dänemark</persName> versuchen,
+			einen Frieden zwischen dem Kurfürsten und <persName ref="18538">Kaiser Karl V.</persName> auszuhandeln.
+		</div>
+		<div ref="4">
+			[4] Landgraf <persName ref="18574">Philipp von Hessen</persName> stellt ein Heer zusammen und hat ernsthaft vor, den Krieg wieder
+			aufzunehmen. Angeblich hat er in einer gedruckten Schrift seine bisherige Untätigkeit erklärt. Man sagt,
+			dass er vorhabe, in die <entity id="20" type="geo_country">Niederlande</entity> einzufallen, während die
+			<placeName ref="2449">Böhmen</placeName> und der Kurfürst mit dem Kaiser kämpfen.
+		</div>
+		<div ref="5">
+			[5] Dieser ist [auf dem Weg nach] <placeName ref="2408">Weiden</placeName>. Es fehlt ihm an
+			Proviant. Wie <persName ref="8018">Haller</persName> letztens schrieb, wurden dem <persName ref="18250">Herzog Moritz</persName> bis zu zwölf Fähnlein vernichtet.
+		</div>
+		<div ref="6">
+			[6] Überall im Königreich <placeName ref="2449">Böhmen</placeName> wurden Truppen gemustert. Diese
+			sollen bis zum 4. April in Rüstung stehen. Der Wald wurde durch gefällte Bäume versperrt, damit es nicht zu
+			einem Anschluss des kaiserlichen Heeres mit dem des Königs Ferdinand kommen mag. Der Oberst [der
+			<placeName ref="2449">Böhmen</placeName>] heißt <persName ref="18175">Kaspar Pflug [von Rabenstein]</persName>. Die Kinder des
+			Königs sollen zudem in <placeName ref="396">Prag</placeName> festgehalten werden. Aus
+			<placeName ref="361">Nürnberg</placeName> wird berichtet, dass bis zum 4. April 50000 Mann in
+			<placeName ref="396">Prag</placeName> zusammenkommen sollen. Der Kurfürst habe bereits einen
+			Vertrag mit den <placeName ref="2449">Böhmen</placeName> abgeschlossen. Das wird dem Kaiser noch zu
+			schaffen machen!
+		</div>
+		<div ref="7">
+			[7] Ob <persName ref="7637">König Franz I. von Frankreich</persName> wirklich tot ist, wie Kaufleute aus
+			<placeName ref="301">Lyon</placeName> melden, werden die Zürcher besser wissen als <persName ref="8018">Haller</persName>. Fest
+			steht, dass <persName ref="18505">König Heinrich VIII. von England</persName> gestorben ist. Das Parlament, das stellvertretend für den
+			jungen <persName ref="3207">König Eduard VI.</persName> regiert, lässt nun das Evangelium auf süddeutsche Art predigen. In
+			<placeName ref="522">Venedig</placeName> sollen der Doge [<persName ref="7455">Francesco Donà</persName>] und der Rat zwei
+			Predigern die Verkündigung des Evangeliums gestatten. Es heißt auch, dass der alte König von
+			<placeName ref="994">Neapel</placeName> [sic] dem Kaiser in das Königreich einfalle. König
+			<persName ref="18590">Sigismund von Polen</persName> ist auch tot. Es kommt zu so vielen Veränderungen!
+		</div>
+		<div ref="8">
+			[8] Der Herr schütze seine Kirche. In Eile. Grüße, auch von
+			<persName ref="8173">Sixt Birck</persName>, <persName ref="5341">Sebastian Lepusculus</persName> und <persName ref="2812">Thoman Ruman</persName>.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2858" page="442" state="names_checked">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. D.</s>
+				<s n="2" lang="la" state="auto">Scripsi ante quatuor aut quinque dies.<fl>2</fl></s>
+				<s n="3" lang="la" state="auto">Putavi ad vos profecturum (sicut proposuerat certe) archigrammataeum<fl>3</fl>; sed tantum ad <placeName ref="457">Constantiam</placeName> usque venit.<fl>4</fl></s>
+				<s n="4" lang="la" state="auto">Reduxit etiam secum <persName ref="7197">Zollerum</persName><fl>5</fl>, qui sextum iam hic agit diem et nondum me convenit!</s>
+				<s n="5" lang="la" state="auto">Quid causae sit, ignoro.</s>
+				<s n="6" lang="la" state="auto">Parat nunc <persName ref="8354">Laetus</persName> nuptias filiae suae, quam cuidam despondit signifero.<fl>6</fl></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="7" lang="la" state="auto">Consules<fl>7</fl> longe alii sunt erga nos quam erga caesareanos.</s>
+				<s n="8" lang="la" state="auto">Dum utrisque satisfacere volunt, minime ea faciunt, quae in gloriam Christi et rem ecclesiae essent.</s>
+				<s n="9" lang="la" state="auto">Simulant et dissimulant omnia.</s>
+				<s n="10" lang="la" state="auto"><persName ref="1410">Herbrottus</persName> <persName ref="18194">Beccium a Beckenstein</persName><fl>8</fl> aedibus (quas ille aedificavit)<fl>a</fl> sumptuosissimis et splendidissimis <pb_edition start_of="443"/> per usuram (aliter nemo iudicat) privavit et tantumnon exulari cogit; unde apud cives omnes audit<fl>9</fl> pessime.</s>
+				<s n="11" lang="la" state="auto">Mox hoc facto gener<fl>10</fl>, quem habuit ex familia praediviti, se ipsum trucidavit miserabiliter; unde omnis familia ipsius infamatur valde.</s>
+				<s n="12" lang="la" state="auto">Det ei dominus gratiam, ne nimium speret in divitiis incertis, sed in deo vivente, qui affatim praebet,<fl>11</fl> etc.; nam non frustra <persName ref="6040">Paulus</persName> avaritiam vocat radicem omnium malorum.<fl>12</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="13" lang="de" state="auto">Nüwe zytung habend wir, das der churfürst<fl>13</fl> 3 regimennt uff <placeName ref="142">Erdfurt</placeName> schick, dasselb inzuͦnemmen, damitt er ein kornkasten hinder imm hab.<fl>14</fl></s>
+				<s n="14" lang="de" state="auto">Es ist auch ein gmeine sag, <persName ref="18250">h[ertzog] Moritz</persName> hab sich mitt imm vertragen und imm sin bruͦder <persName ref="18509">Augustum</persName><fl>15</fl> zum pfandschillig gen.<fl>16</fl></s>
+				<s n="15" lang="de" state="auto">Ich glaubs aber nitt.</s>
+				<s n="16" lang="de" state="auto"><placeName ref="284">Liptzig</placeName> lidet große not an hunger und sterben.</s>
+				<s n="17" lang="de" state="auto">H. von <persName ref="18605" state="auto_name">Jülch</persName><fl>17</fl> und künig uß <persName ref="18449" state="auto_name">Dennmarck</persName><fl>18</fl> handlend umb ein friden zwüschen dem churfürsten und keiser.<fl>19</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="18" lang="de" state="auto">Landtgraff<fl>20</fl> nimpt knecht an.</s>
+				<s n="19" lang="de" state="auto">Wil erst recht dran.</s>
+				<s n="20" lang="de" state="auto">Er soll auch ein buͤchlin haben laßen trucken, darinn er sich purgiert, worumb er bishar still gseßen.<fl>21</fl></s>
+				<s n="21" lang="de" state="auto">Man sagt, er well die <placeName ref="2449">Behem</placeName><fl>22</fl> und den churfürsten mitt dem keiser laßen machen<fl>23</fl> und er diewyl ins <entity id="20" type="geo_country">Niderland</entity> fallen.</s>
+				<s n="22" lang="de" state="auto">Ist aber ungwüß.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="23" lang="de" state="auto">Keiser ist zuͦ der <placeName ref="2408">Weiden</placeName>.<fl>24</fl></s>
+				<s n="24" lang="de" state="auto">Hatt mangel an proviandt.</s>
+				<s n="25" lang="de" state="auto"><persName ref="18250">Hertzog Moritzen</persName> sind bis in 12 fenli nüwlich (wie ich nehermals<fl>25</fl> vom gschrei<fl>26</fl> gschriben)<fl>b</fl> erlegt.<pb_edition start_of="444"/></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="26" lang="de" state="auto">Die <placeName ref="2449">Behem</placeName> habend ufbotten<fl>27</fl> im gantzen künckrych.</s>
+				<s n="27" lang="de" state="auto">Soll uff den 4. april jederman grüst<fl>28</fl> sin, ins faͤld zuͦ ziehen.</s>
+				<s n="28" lang="de" state="auto">Habend auch den wald dermaß verhowen<fl>29</fl>, das weder keiser noch küng<fl>30</fl> mitt ir macht zemmen könnend.<fl>31</fl></s>
+				<s n="29" lang="de" state="auto">Ir oberster hauptman heißt <persName ref="18175">Caspar Pfluͦg</persName>.<fl>32</fl><pb_scan n="v."/></s>
+				<s n="30" lang="de" state="auto">Deß <persName ref="18477">Ferdinandi</persName> ettliche kinder verwarend si<fl>33</fl> zuͦ <placeName ref="396">Prag</placeName>.</s>
+				<s n="31" lang="de" state="auto">Wellends nitt herus laßen.</s>
+				<s n="32" lang="de" state="auto">Uff 4. april, schript man uß <placeName ref="361">Nuͤrenberg</placeName>, soͤllend 50000 zuͦ <placeName ref="396">Prag</placeName> sin.<fl>34</fl></s>
+				<s n="33" lang="de" state="auto">Man sagt auch, si habind den churfürsten in ir pündtnüß gnommen und schon versiglet.<fl>35</fl></s>
+				<s n="34" lang="de" state="auto">In summa: Der keiser wirt gnuͦg zuͦ thuͦn haben!</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="35" lang="de" state="auto">K[ünig] uß <entity id="28" type="geo_country">Franckrych</entity> sol tod sin.<fl>36</fl></s>
+				<s n="36" lang="de" state="auto">Das werdend ir bas<fl>37</fl> wüßen.</s>
+				<s n="37" lang="de" state="auto">Unser kaufflüt habend schriben von <placeName ref="301">Lyon</placeName>.</s>
+				<s n="38" lang="de" state="auto"><entity id="9" type="geo_country">Engelland</entity> ist gwüß tod.<fl>38</fl></s>
+				<s n="39" lang="de" state="auto">Die regimentsherren vom parlament, so für den jungen künig<fl>39</fl> regierend, laßend das evangelium nach unser oberlendischen kirchenform predigen.</s>
+				<s n="40" lang="de" state="auto">Zuͦ <placeName ref="522">Venedig</placeName> soͤllend auch zwen<fl>40</fl> das evangelium luter uß vergunst<fl>41</fl> deß hertzogen<fl>42</fl> und gantzen radts predgen.</s>
+				<s n="41" lang="de" state="auto">Man sagt auch, das der alt künig von <placeName ref="994">Neapels</placeName><fl>43</fl> dem keiser wider inn das künckrych fall.</s>
+				<s n="42" lang="de" state="auto">Künig uß Polen ist auch todt.<fl>44</fl></s>
+				<s n="43" lang="de" state="auto">In summa: Es erschinend vil verenderung aller rychen.<fl>45</fl><pb_edition start_of="445"/></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="44" lang="de" state="auto">Gott behuͤt sin kilch!</s>
+				<s n="45" lang="de" state="auto">Amen.</s>
+				<s n="46" lang="la" state="auto">Haec omnia raptim.</s>
+				<s n="47" lang="la" state="auto">Vale et boni consulito!</s>
+				<s n="48" lang="la" state="auto">13.<fl>c</fl> martii 1547.</s>
+				<s n="49" lang="la" state="auto">Ubi sim, nosti.</s>
+				<s n="50" lang="la" state="auto">Salutant te <persName ref="8173">Xystus</persName><fl>46</fl> et <persName ref="5341">Lepusculus</persName> cum <persName ref="2812">Romano</persName>.<fl>47</fl></s>
+				<s n="51" lang="la" state="auto"><persName ref="8018">Ioannes Hallerus</persName> tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf f. 56v.:]</note>
+				<s n="52" lang="la" state="auto">Clarissimo praestantissimoque viro d. Heinrycho Bullingero, vigilanto Tigurinae ecclesiae pastori, domino suo observando.</s>
+				<s n="53" lang="de" state="auto">An m. Heinrych Bullinger zuͦ Zürich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2858">
+		<alpha>
+			<fn ref="a"><i>Klammern ergänzt.</i></fn>
+			<fn ref="b"><i>Klammern ergänzt.</i></fn>
+			<fn ref="c"><i>Richtig ist</i> 23.; <i>s. oben Anm. 1.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1" type="bio" fk_person="8018">Das unten Z. 47 angeführte Datum kann nicht stimmen, da <persName ref="8018">Haller</persName>, der am 12. März mit <link fk_file="12893">Nr. 2844</link> geschrieben hatte. am Tag darauf nicht hätte schreiben können (s. unten Z. 1), dass er zuletzt vor vier oder fünf Tagen geschrieben habe. Es ist ferner nicht möglich, dass <persName ref="7197">Hans Wilpert Zoller</persName>, der am 5. März <persName ref="6544">Rudolf Schwyzer d.Ä.</persName> und Lorenz Meyer (Agricola) nach Zürich zurückbegleitet hatte (s. <link fk_file="12893">Nr. 2844</link>,1f, schon sechs Tage vor dem 13. März wieder in <placeName ref="1976">Augsburg</placeName> angelangt war, wie dies unten in Z. 3f mitgeteilt wird. Hier muss also ein späteres Datum vorausgesetzt werden, allerdings ein solches, das <persName ref="8018">Hallers</persName> Verschreibung erklären mag. Zu denken wäre an den 23. oder 31. März oder auch an den 13. April. Aus unten Z. 30f. 34f wird aber deutlich, dass der 4. April noch bevorstand. Damit ist der 13. April auszuschließen. Da ferner mit <link fk_file="12916">Nr. 2867</link> ein Brief <persName ref="8018">Hallers</persName> vom 30. März vorliegt, kommt das Datum des 31. März auch nicht in Frage, da <persName ref="8018">Haller</persName> an diesem Tag auch nicht hätte schreiben können, dass er zuletzt vor vier oder fünf Tagen geschrieben hatte. Demzufolge muss vorliegender Brief am 23. März verfasst worden sein, auch wenn unten in Z. 38f. 44 der Tod des französischen und des polnischen Königs gemeldet wird. Dies ist jedoch nicht störend, da bereits vor Mitte März solche Gerüchte im Umlauf waren; vgl. <link fk_file="12890">Nr. 2841</link>,73f.</fn>
+			<fn ref="2">Ein nicht erhaltener Brief, der etwa um den 18. März verfasst worden sein muss.</fn>
+			<fn ref="3"><persName ref="8354">Georg Frölich (Laetus)</persName>.</fn>
+			<fn ref="4" type="bio" fk_person="8055"><i><persName ref="8055">Blarer</persName> BW</i> enthält keine Angaben zu diesem kurzen Besuch Frölichs in <placeName ref="457">Konstanz</placeName>. - Frölichs Sohn Jonas lebte dort beim Pfarrer <persName ref="4868">Jakob Funcklin</persName>, der dessen Studium beaufsichtigte; s. <bibl>HBBW</bibl> XV 546 und Anm. 3f; <persName ref="8055">Blarer</persName> BW II 391, <link fk_file="11263">Nr. 1220</link>; 507, Nr. 1345. Frölichs Besuch könnte durch eine Krankheit dieses Sohnes veranlasst worden sein. Zumindest ist eine solche für April 1547 belegt; s. Max <i>Radlkofer,</i> Leben und Schriften des <persName ref="8354">Georg Frölich</persName>, Stadtschreibers zu <placeName ref="1976">Augsburg</placeName> von 1537-48, in: Zeitschrift des Historischen Vereins für Schwaben und Neuburg 27, 1900, 61 und Anm. 2.</fn>
+			<fn ref="5"><persName ref="7197">Hans Wilpert Zoller</persName>, der am 5. März aus <placeName ref="1976">Augsburg</placeName> abgereist war; s. oben Anm. 1.</fn>
+			<fn ref="6" type="bio" fk_person="8354">Die Hochzeit von <persName ref="8354">Frölichs</persName> Tochter Anna mit dem <placeName ref="1976">Augsburger</placeName> <persName ref="7047">Christoph Wilbrecht (Wildbrecht)</persName>, der laut <placeName ref="1976">Augsburger</placeName> Ratsprotokoll vom 12. März 1547 als <placeName ref="1976">Augsburger</placeName> "Kriegsmann" bestellt und angenommen worden war, fand vermutlich in der Osterzeit (der Ostersonntag fiel im Jahr 1547 auf den 10. April) statt; s. <i>Radlkofer,</i> aaO, S. 61f.</fn>
+			<fn ref="7"><persName ref="1410">Jakob Herbrot</persName> und <persName ref="3927">Hans Welser</persName>.</fn>
+			<fn ref="8" type="bio" fk_person="18194"><persName ref="18194">Leonhard Beck von Beckenstein</persName> (Böck von Böckenstein), kaiserlicher Rat und Mehrer in <placeName ref="1976">Augsburg</placeName>; s. <i><placeName ref="1976">Augsburger</placeName> Eliten</i> 32f; Conradin <i>Bonorand,</i> <persName ref="6355">Hieronymus Sailer</persName> aus St. Gallen, Schwiegersohn des <placeName ref="1976">Augsburger</placeName> Großkaufherrn <persName ref="7003">Bartholomäus Welser</persName>, und seine Tätigkeit im Lichte des Briefwechsels mit Vadian, in: <bibl>Zwa</bibl> XX, 1993, 116-118. - Zu dieser sich noch jahrelang hinziehenden Angelegenheit s. Paul Hector Mairs I. Chronik von 1547-1565, in: Die Chroniken der schwäbischen Städte. <placeName ref="1976">Augsburg</placeName>. Bd. 7, <placeName ref="284">Leipzig</placeName> 1917, S. 429-436 (Beilage IV.C).</fn>
+			<fn ref="9">Subjekt ist <persName ref="1410">Herbrot</persName>.</fn>
+			<fn ref="10" type="bio" fk_person="6798">In Frage käme damals nur <persName ref="6798">Christoph Tiefstetter</persName>. der allerdings erst 1587 starb; s. <i><placeName ref="1976">Augsburger</placeName> Eliten</i> 266. 838.</fn>
+			<fn ref="11">Vgl. 1Tim 6, 17.</fn>
+			<fn ref="12">1Tim 6, 10.</fn>
+			<fn ref="13"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="14">Ein falsches Gerücht.</fn>
+			<fn ref="15">Herzog <persName ref="18509">August von Sachsen</persName>.</fn>
+			<fn ref="16">zum pfandschillig gen: als Pfand gegeben; s. <bibl>SI</bibl> VIII 588. - Ein falsches Gerücht.</fn>
+			<fn ref="17">Herzog <persName ref="18605">Wilhelm V. von Jülich-Kleve-Berg</persName>.</fn>
+			<fn ref="18"><persName ref="18449">Christian III.</persName></fn>
+			<fn ref="19"><persName ref="18538">Karl V.</persName> - Ähnliches meldet <persName ref="7430">Christoph von Carlowitz</persName> an <persName ref="18250">Herzog Moritz</persName> unter dem 24. März 1547; s. <i><persName ref="18250">Moritz von Sachsen</persName> PK</i> 324, <link fk_file="10479">Nr. 444</link>.</fn>
+			<fn ref="20"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="21">Sollte solch ein Druck existiert haben, ist er nicht mehr bekannt. - Der Landgraf hatte im Januar 1547 eine Verteidigungsschrift an den Sekretär des Schmalkaldischen Bundes in <placeName ref="1976">Augsburg</placeName>. <persName ref="4149">Sebastian Aitinger</persName>, geschickt (Text in: <bibl>Rommel</bibl> III 174-185, Nr. 43). Ein Druck dieser Schrift hätte den Landgrafen eher kompromittiert; s. ebd., S. 183 (mit Anm.).</fn>
+			<fn ref="22"><placeName ref="2449">Böhmen</placeName>.</fn>
+			<fn ref="23">Zu verstehen: er wolle den <placeName ref="2449">Böhmen</placeName> und dem Kurfürsten den Kampf mit dem Kaiser überlassen.</fn>
+			<fn ref="24">"Zu der <placeName ref="2408">Weiden</placeName>" ist ein alter Name der Stadt <placeName ref="2408">Weiden</placeName> in der Oberpfalz (Bayern). Der Kaiser kam erst am 1. April dorthin; s. <i>Stälin 580.</i> Mindestens seit dem 21. März wurde vermutet, dass er sich dorthin begeben würde, falls seine Krankheit ihn unterwegs erneut befallen würde; s. den Brief von <persName ref="7430">Christoph von Carlowitz</persName> an <persName ref="18250">Herzog Moritz von Sachsen</persName> vom 21. März 1547 <i>(<persName ref="18250">Moritz von Sachsen</persName> PK</i> III 306, <link fk_file="10467">Nr. 432</link>). - <persName ref="8018">Haller</persName> dachte offenbar, dass der Kaiser bereits in <placeName ref="2408">Weiden</placeName> eingetroffen war; vielleicht aber wollte er auch nur sagen, dass er sich auf dem Weg dahin befand.</fn>
+			<fn ref="25">letzthin (in <persName ref="8018">Hallers</persName> Brief vom 12. März; s. <link fk_file="12893">Nr. 2844</link>,51-53). - Vgl. auch <link fk_file="12890">Nr. 2841</link>,118-124.</fn>
+			<fn ref="26">Gerücht.</fn>
+			<fn ref="27">aufgeboten; ausgehoben.</fn>
+			<fn ref="28">gerüstet. - Diese Nachricht war auch Gegenstand eines Briefes des Kurfürsten an die Verordneten des Königreiches <placeName ref="2449">Böhmen</placeName> in <placeName ref="396">Prag</placeName> vom 1. April 1547 <i>(<persName ref="18250">Moritz von Sachsen</persName> PK</i> III 334, <link fk_file="10507">Nr. 471</link>).</fn>
+			<fn ref="29">(durch einen Verhau) unzugänglich gemacht; s. <bibl>SI</bibl> II 1810.</fn>
+			<fn ref="30"><persName ref="18477">Ferdinand I.</persName></fn>
+			<fn ref="31">zemmen könnend: zusammen(kommen) können.</fn>
+			<fn ref="32"><persName ref="18175">Kaspar Pflug von Rabenstein</persName>, oberster Feldhauptmann der evangelischen <placeName ref="2449">Böhmen</placeName> im Schmalkaldischen Krieg; s. <bibl>ADB</bibl> XXV 691.</fn>
+			<fn ref="33">die <placeName ref="2449">Böhmen</placeName>.</fn>
+			<fn ref="34">Hier liegt eine andere Form der gleichen Nachricht wie oben Z. 30f vor.</fn>
+			<fn ref="35">(das Bündnis) durch einen Vertrag besiegelt; s. <bibl>SI</bibl> VII 503f. - Vgl. <link fk_file="12897">Nr. 2848</link>,38- 40; <link fk_file="12905">Nr. 2856</link>, Anm. 5.</fn>
+			<fn ref="36" type="bio" fk_person="7637"><persName ref="7637">Franz I.</persName> starb erst am 31. März 1547. Siehe aber dazu oben Anm. 1.</fn>
+			<fn ref="37">besser.</fn>
+			<fn ref="38"><persName ref="18505">Heinrich VIII.</persName> war am 28. Januar 1547 gestorben.</fn>
+			<fn ref="39"><persName ref="3207">Eduard VI.</persName></fn>
+			<fn ref="40">zwei. - Zu dieser Zeit hielten verschiedene Geistliche in <placeName ref="522">Venedig</placeName> evangelische Predigten ab; s. <link fk_file="12814">Nr. 2765</link>; <bibl>HBBW</bibl> XVIII 271,15-19; John <i>Martin,</i> Venice's Hidden Enemies. Italian Heretics in a Renaissance City, Berkeley, Los Angeles, London 1993, S. 87-89.</fn>
+			<fn ref="41">uß vergunst: mit Erlaubnis; s. <bibl>SI</bibl> II 377.</fn>
+			<fn ref="42">Francesco Dona (Donato).</fn>
+			<fn ref="43" type="bio" fk_person="18534">Es handelt sich hier um ein falsches Gerücht, zumal der alte König von <placeName ref="994">Neapel</placeName> der Vater von <persName ref="18538">Karl V.</persName> und längst gestorben war und zudem damals <persName ref="18538">Karl V.</persName> selbst König von <placeName ref="994">Neapel</placeName> war. - In einem Brief aus <placeName ref="492">Straßburg</placeName> von März 1547 wurde hingegen von kaiserlichen Rüstungen in <placeName ref="994">Neapel</placeName> berichtet; s. <bibl>PC</bibl> IV/1 644, <link fk_file="10617">Nr. 579</link>.</fn>
+			<fn ref="44" type="bio" fk_person="18590"><persName ref="18590">Sigismund I.</persName> starb erst am 1. April 1548. Siehe aber dazu oben Anm. 1.</fn>
+			<fn ref="45">Zu verstehen: Es kommt zu vielen Veränderungen in allen Königreichen.</fn>
+			<fn ref="46"><persName ref="8173">Sixt Birck</persName>.</fn>
+			<fn ref="47"><persName ref="2812">(Hans) Thoman Ruman (Römer)</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

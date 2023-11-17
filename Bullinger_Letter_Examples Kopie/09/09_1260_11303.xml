@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11303" id_hbbw="1260" id_irg_sort="1260" id_sort="112600">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11303</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1260</arpa>
+		<scan_pages>
+			<scan id="26281" dir="11303/Autograph/" page="1">00 E_II_359__fol__2781_r_.tif</scan>
+			<scan id="26282" dir="11303/Autograph/" page="2">01 E_II_359__fol__2781_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22940" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22941" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11303">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">4</month>
+				<day fk_d="" d="" vf="1" fn="">26</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17775">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2781</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11168" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1260, S. 118</entry>
+				<page>118</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="22">
+				<lang id="1" iso="de" count="1" p="4.5"/>
+				<lang id="5" iso="la" count="21" p="95.5"/>
+			</sentences>
+			<words count="347">
+				<lang id="1" iso="de" count="1" p="0.3"/>
+				<lang id="5" iso="la" count="346" p="99.7"/>
+			</words>
+			<chars count="1967">
+				<lang id="1" iso="de" count="7" p="0.4"/>
+				<lang id="5" iso="la" count="1960" p="99.6"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1260" page="118">
+		<div ref="1">
+			Verspricht, seine väterliche Zuneigung durch Gehorsam zu erwidern. Will Adam Frey das Büchlein [„Bericht
+			der Kranken“] wenn möglich persönlich überbringen. Studiert die Reden
+			<persName ref="4544">Ciceros</persName>. <persName ref="6192">Johann [Wilhelm] Reiffenstein</persName> rühmt
+			die Freundlichkeit der Zürcher. Dank für die <persName ref="2270">Münster</persName>-Bibel.
+			<persName ref="6117">Platter</persName> hat das Werk des Walter
+			[von Chaˆtillon] an <persName ref="2259">Gregor Mangolt</persName> weitergegeben; den
+			<persName ref="6571">Sedulius</persName>-Band kann <persName ref="8011">Gwalther</persName> erst
+			schicken, wenn er <persName ref="8126">Oporin</persName> erreicht hat, der ihm auch den Preis von
+			<persName ref="6927">Vives</persName>’ „De anima“ nennen wird. Die Vermittlung einer
+			Korrektorenstelle an den von Bullinger empfohlenen Engländer war nicht möglich.
+			<persName ref="6192">Reiffenstein</persName> bittet, die mitgeschickten Münzen zu wechseln. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1260" page="118">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino etc.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Literas<fl>1</fl> meas gratas tibi fuisse, patrone charissime, gaudeo, nec parvum hoc in scribendo calcar addidit.</s>
+				<s n="3" lang="la" state="auto">Quod me de te id, quod de patre, polliceri iubes<fl>2</fl>, gratias ingentes ago teque id de<fl>a</fl> me tibi polliceri iubeo, quod de filio; me enim tuę voluntati minus obedientem nunquam (si modo deus affuerit) comperies.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">Adamo <persName ref="4830" state="auto_name">Fry</persName><fl>3</fl> libellum<fl>4</fl> nondum misi; mittam autem brevi, quamvis ipse, ut egomet eum adirem, cupit, quod, si licuerit, faciam, ne me sibi defuisse conquęratur.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">In <persName ref="4544">Ciceronis</persName> orationibus maxime laboro, cum has ad Gręcorum Latinorumque rhetorum<fl>b</fl> praecepta examino et<fl>c</fl> alias ad harum exemplar conscribo.</s>
+				<s n="6" lang="la" state="auto">Magnam praeterea de Tigurinis humanitatem predicat <persName ref="8126">Ioannes Ryfenstein</persName>.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Gaudeo, quod et peregrino et mei amantissimo tantum apud vos honoris impensum<fl>d</fl> sit.<pb_edition start_of="119"/></s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto">Biblia <persName ref="2270">Munsteri</persName><fl>5</fl> ab <persName ref="4466">Ioanne Butlero</persName> accepi; tibi gratias ago pro labore pro me impenso.</s>
+			</p>
+			<p>
+				<s n="9" lang="la" state="auto">Quod <persName ref="6117" state="auto_name">Blatterum</persName><fl>6</fl> attinet, me illum convenisse scias<fl>e</fl>; verum hic <persName ref="8011">Gvaltheri Insulani</persName> episcopi librum<fl>7</fl> <persName ref="2259">Gregorio Mangolt</persName> tradidit.</s>
+				<s n="10" lang="la" state="auto"><persName ref="6571">Sedulium</persName><fl>8</fl> vero <persName ref="8126">Oporinus</persName> habet, quem cum nec heri nec hodie domi deprehendere potuerim (est enim maximis irretitus negotiis), nunc mittere non potui; sed habebis hunc a me, quam primum nuntius alius datur.</s>
+				<s n="11" lang="la" state="auto">Tunc etiam te de libro <persName ref="6927">Vivis</persName> De anima<fl>9</fl>, quantum constet, certiorem faciam; nam et hunc ab <persName ref="8126">Oporino</persName> accepi.</s>
+				<s n="12" lang="la" state="auto">Anglo huic, de quo ante scripseras<fl>10</fl>, conditionem nullam adhuc reperi nec ullam me inventurum spero; correctores enim sunt plurimi, qui huiusmodi inhiant conditionibus.</s>
+				<s n="13" lang="la" state="auto">Accedit his, quod ignotos et qui in typographiis exercitati nunquam sunt, non libenter recipiunt.</s>
+				<s n="14" lang="la" state="auto">Verum si duobus tantum id praescissem diebus, <persName ref="5599">Balthazar Lasius</persName> eum recepisset; sed nunc Gallum quendam<fl>11</fl> habet.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto">Hos nummos rogavit <persName ref="8126">Ioannes Ryfenstein</persName>, ut alicui mitterem, qui bazones<fl>12</fl> ei pro his mitteret; nam hic hęc moneta ignota est nec permutari potest.</s>
+				<s n="16" lang="la" state="auto">Te rogo, ut optimo iuveni hic operam tuam praebeas.</s>
+			</p>
+			<p>
+				<s n="17" lang="la" state="auto">Salutabis, quaeso, nomine meo matrem<fl>13</fl> et uxorem<fl>14</fl> tuam cum universa familia, fratrem quoque <persName ref="527" state="auto_name">Ioannem</persName><fl>15</fl>, quem<fl>f</fl>, ut rescribat, num ea, quae misi<fl>16</fl>, receperit, hortare.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Vale bene, patrone humanissime, et me, ut cępisti, amare pergito.</s>
+				<s n="19" lang="la" state="auto">Basileę, ex aedibus <persName ref="8418">Miconii</persName>, 26. aprilis 1539.</s>
+			</p>
+			<p>
+				<s n="20" lang="la" state="auto">Tuus, ut nosti, <persName ref="8011">Rodolphus Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="21" lang="la" state="auto">Et docto et pio viro d. Heinrycho Bullingero, Tigurinae ecclesiae episcopo vigilantissimo, patrono suo imprimis colendo.</s>
+			</p>
+			<p>
+				<s n="22" lang="de" state="auto">Zürich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1260">
+		<alpha>
+			<fn ref="a">de <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="b">-um <i>als Korrektur über gestrichener Endung.</i></fn>
+			<fn ref="c"><i>vor</i> et <i>ein gestrichenes Wort.</i></fn>
+			<fn ref="d"><i>in der Vorlage</i> impensit[?].</fn>
+			<fn ref="e"><i>vor</i> scias <i>ein gestrichener Buchstabe.</i></fn>
+			<fn ref="f"><i>vor</i> quem <i>gestrichenes</i> u.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Oben <link fk_file="11297">Nr. 1254</link>.</fn>
+			<fn ref="2">Bullingers Brief ist nicht erhalten.</fn>
+			<fn ref="3"><persName ref="4830">Adam Frey</persName>.</fn>
+			<fn ref="4">Bullingers "Bericht der Kranken" (<bibl>HBBibl</bibl> I 73); vgl. oben <link fk_file="11297">Nr. 1254</link>, 12-16.</fn>
+			<fn ref="5">Zu der von <persName ref="8011">Gwalther</persName> erbetenen lateinischen Bibel vgl. oben <link fk_file="11288">Nr. 1245</link>, 19-23; 1254, 78f.</fn>
+			<fn ref="6"><persName ref="6117">Thomas Platter</persName>.</fn>
+			<fn ref="7"><persName ref="18379">Walter von Châtillon</persName>, Alexandreis (Manuskript); s. <bibl>HBBW</bibl> VII <link fk_file="11105">[Nr. 1062]</link>, S. 291, 8-13 mit Anm. 3.</fn>
+			<fn ref="8"><persName ref="6571">Coelius Sedulius</persName>, Carmen paschale (Manuskript); s. <bibl>HBBW</bibl> VI, S. 330, 2-6 mit Anm. 1.</fn>
+			<fn ref="9"><persName ref="6927">Juan Luis Vives</persName>, De anima et vita libri tres, Basel (Robert Winter) 1538; vgl. <bibl>HBBW</bibl> VIII <link fk_file="11217">[Nr. 1174]</link>, S. 219, 35f und 238, 4-9.</fn>
+			<fn ref="10">Die Formulierung läßt vermuten, daß jemand anders als der oben Z. 15 genannte <persName ref="4466">John Butler</persName> gemeint sein dürfte.</fn>
+			<fn ref="11">Unbekannt.</fn>
+			<fn ref="12">Batzen.</fn>
+			<fn ref="13" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+			<fn ref="14" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="15"><persName ref="527">Johannes Bullinger</persName>.</fn>
+			<fn ref="16">Worum es sich handelte, ist nicht bekannt.</fn>
+		</num>
+	</footnotes>
+</file>

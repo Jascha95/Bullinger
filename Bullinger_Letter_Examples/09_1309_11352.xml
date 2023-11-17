@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11352" id_hbbw="1309" id_irg_sort="1309" id_sort="113090">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11352</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1309</arpa>
+		<scan_pages/>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23046" vf="1" fk_add_type="1">
+				<person id="8006" fk_id="8006">
+					<name>Frey (Liberianus)</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="242" vf="1" fk_id="242" long="8.5251335" lat="47.2288482">Kappel am Albis</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23047" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11352">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">9</month>
+				<day fk_d="" d="" vf="1" fn="">18</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17823">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 39,813</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11142" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1309, S. 219</entry>
+				<page>219</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="13">
+				<lang id="5" iso="la" count="13" p="100.0"/>
+			</sentences>
+			<words count="218">
+				<lang id="5" iso="la" count="218" p="100.0"/>
+			</words>
+			<chars count="1403">
+				<lang id="5" iso="la" count="1403" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1309" page="219">
+		<div ref="1">
+			Beurteilt <persName ref="4252">Kaspar [Baumgartner]</persName>
+			auf Wunsch Bullingers, obwohl ihm dies nicht leicht fällt. Im Studium nicht unbegabt, beim Schreiben
+			verbesserungsfähig, gibt dieser - ist er doch strebsam und recht fromm - zu besten Hoffnungen Anlaß; er ist
+			unverdorben, und seine dreiste, reizbare und geschwätzige Art - heutzutage ja nicht ungewöhnlich - wird
+			durch seine geistigen Fähigkeiten aufgewogen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1309" page="219">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S[alutem] p[lurimam] d[ico].</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Duram quidem, venerande praeceptor, provinciam imponis, ut sententiam de {{{REPL_NAME_PERSON_4252}}}Gaspari{{{/REPL_NAME_PERSON_4252}}}<fl>1</fl> ingenio perscribam, quod emunctum iuditium tuum minime latere censeo, siquidem ex oratione infallibilibus coniecturis vidisti.</s>
+				<s n="3" lang="la" state="auto">Sed officii mei non immemor observata nostrae mentis adumbrabo, partim ut studuerit, partim ut convixerit, e quibus tanquam e fimbria de textura<fl>2</fl> iudicabis.</s>
+				<s n="4" lang="la" state="auto">Musas visus est habere non iniquiores; noluit enim in reddenda lectione postremus haberi neque in excolenda memoria ab aequalibus vinci.</s>
+				<s n="5" lang="la" state="auto">Tum in stilo exercendo hactenus diligentior repertus quam felicior, ausimque affirmare id posse facile sarciri, posteaquam frequentem lectionem et usum artificio coniunxerit.</s>
+				<s n="6" lang="la" state="auto">Facit et illud, ut in spem optimam erigar et studio adcommodum fore colligam, quod doctissimorum est admirator, tum a pietatis negocio minime alienus, quasi indoles affinitatem quandam resipiat.</s>
+				<s n="7" lang="la" state="auto">Haec de literis.</s>
+				<s n="8" lang="la" state="auto">Nunc, ut mores et vitae actio his respondeant, paucis subnectam: Non aliud pro comperto referre possum quam integrum esse adulescentem et dolo malo neutiquam consutum, alioquin confidens, irritabilis, loquens et qui fere manu faciem absterserit, ut saeculum nostrum habet, quae tamen praevalente intellectu, tum augescente eruditione reprimentur; nam et in eo virtutis tincturam notavi.</s>
+				<s n="9" lang="la" state="auto">Haec candido animo accipe; pro virili voti compotem reddere volui nolimque immerito quenquam male audire, nedum discipulum.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Vale feliciter in Christo.</s>
+				<s n="11" lang="la" state="auto">1539, e Capella Tigurinorum, 18. septembris.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Ioannes Liberianus tuus obedientissimus.<pb_edition start_of="220"/></s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf S. 814:]</note>
+				<s n="13" lang="la" state="auto">Venerando Tigurinae ecclesiae antistiti M. Heinrycho Bullingero, patrono summo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1309">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Unterstreichungen von <persName ref="1628">J. H. Hottinger</persName>.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" type="bio" fk_person="4252"><persName ref="4252">Kaspar Baumgartner</persName>, gest. nach 6. April 1540, kam am 30. September 1538 als Stipendiat an die Lateinschule in <placeName ref="242">Kappel</placeName>. Im Frühjahr 1540 wurde er in die Fraumünsterschule in der Stadt versetzt, starb aber wohl kurz darauf an der Pest. - Lit.: Zürich StA, E I 14. 1, Fasz. 2.</fn>
+			<fn ref="2"><bibl>Otto</bibl> 136, Nr. 663.</fn>
+		</num>
+	</footnotes>
+</file>

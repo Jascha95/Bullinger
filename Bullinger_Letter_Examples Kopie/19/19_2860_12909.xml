@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12909" id_hbbw="2860" id_irg_sort="2860" id_sort="128600">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12909</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2860</arpa>
+		<scan_pages>
+			<scan id="30225" dir="12909/Autograph/" page="1">00 E_II_351__fol__47_r_.tif</scan>
+			<scan id="30226" dir="12909/Autograph/" page="2">01 E_II_351__fol__47_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26366" vf="1" fk_add_type="1">
+				<person id="8049" fk_id="8049">
+					<name>Vadian (von Watt)</name>
+					<forename>Joachim</forename>
+				</person>
+				<place id="474" vf="1" fk_id="473" long="9.37477" lat="47.42391">St. Gallen</place>
+				<district id="169">St.Gallen</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26367" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12909">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">24</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19481">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 351,47</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9163" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Vadian BW VI, S. 608f, Nr. 1526</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="21">
+				<lang id="5" iso="la" count="21" p="100.0"/>
+			</sentences>
+			<words count="354">
+				<lang id="5" iso="la" count="354" p="100.0"/>
+			</words>
+			<chars count="2190">
+				<lang id="5" iso="la" count="2190" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2860" page="447">
+		<div ref="1">
+			[1] <persName ref="8049">Vadian</persName> hätte sich dem Druckergesellen<fl>1</fl> <persName ref="6650">[Franz] Spitz</persName>,<fl>2</fl> den Bullinger mit seinem Brief
+			[nicht erhalten]<fl>3</fl> empfohlen hat, gerne behilflicher erwiesen. Schließlich aber hat auch <persName ref="6650">Spitz</persName>
+			einsehen müssen, dass seine Erwartungen unrealistisch waren. Den Umständen zufolge hätte er nämlich nach dem
+			kürzlich erfolgten Tod seiner Mutter nicht noch mehr erben können.<pb_edition start_of="448"/> Diese wurde
+			trotz ihrer großen Armut im Hospiz aufgenommen und dort bis zu ihrem letzten Atemzug drei Monate lang
+			gepflegt und gut ernährt. Zuvor hatte sie ihren Hausrat aufgelöst, um nicht mit ganz leeren Händen im Hospiz
+			aufgenommen werden zu müssen. Dennoch hatte sie ihrem Sohn vier Gulden und einen Mantel nach
+			<placeName ref="587">Zürich</placeName> übermittelt. Für die seiner Mutter erwiesene Fürsorge
+			zeigte sich <persName ref="6650">Spitz</persName> letztlich dankbar.
+		</div>
+		<div ref="2">
+			[2] Die Nachricht über Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> ist verbürgt.<fl>4</fl> Sie wurde durch
+			glaubwürdige Männer ebenfalls den St. Galler Kaufleuten übermittelt. Der Rat ließ aus diesen Briefen eine
+			Aufstellung für den Zürcher Rat anfertigen, die auch Bullinger zum Lesen erhalten wird.
+		</div>
+		<div ref="3"> [3] Jener <persName ref="7364">Martin von Rossem</persName>, der von allen Bewohnern
+			der südlichen <entity id="20" type="geo_country">Niederlande</entity> gefürchtet wird,
+			soll von den <placeName ref="61">Bremern</placeName> und den <entity id="20136" type="group">Hansestädten</entity> geschlagen worden sein! Dies soll Landgraf
+				<persName ref="18574">Philipp von Hessen</persName> ermutigt haben, den Krieg wieder
+				aufzunehmen.<fl>5</fl> Auch die süddeutschen Städte freuen sich über die Nachricht
+			und wünschen nichts anderes, als den von den Spaniern verübten Verwüstungen ein Ende zu
+			setzen! Einzig <placeName ref="457">Konstanz</placeName> macht seinem Namen Ehre. Auch
+			hofft man immer noch Gutes vonseiten <placeName ref="492">Straßburgs</placeName>. Der
+			alte <persName ref="9780">Herzog Ulrich von Württemberg</persName> hingegen ist vor
+				<persName ref="18538">Kaiser Karl V.</persName> in die Knie gegangen. Mögen sich
+			bald Männer erheben, die den angeborenen Mut der Deutschen wiederherstellen! </div>
+		<div ref="4">
+			[4] <persName ref="1055">Martin Frecht</persName> schrieb nur kurz [aus
+			<placeName ref="513">Ulm</placeName>]. Auch wenn er sich dabei angesichts der vielen Spione mit
+			Vorsicht und Zurückhaltung äußerte, erwies er sich immer noch voller Hoffnung. Er lässt grüßen und empfiehlt
+			sich Bullinger wärmstens.
+		</div>
+		<div ref="5">
+			[5] <persName ref="8049">Vadian</persName> liest mit Vergnügen die [ihm von Bullinger zugesandte] Schrift aus
+			<placeName ref="267">Köln</placeName>.<fl>6</fl> Wie mutig ist doch dieser ehrwürdige greise
+			Erzbischof <persName ref="8462">Hermann von Wied</persName>! Er ist wohl der einzige Deutsche, dem es
+			gebührt, als apostolischer Nachfolger bezeichnet zu werden. Der Herr bewahre ihn für bessere Zeiten!
+		</div>
+		<div ref="6">
+			[6] Gruß. <persName ref="8049">Vadian</persName> wird die Schrift [aus <placeName ref="267">Köln</placeName>] zurücksenden, sobald
+			er sie fertig gelesen hat. Er kann sie nicht in einem Zug lesen, da er ständig durch Amtsaufgaben
+			unterbrochen wird.<fl>7</fl>
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2860" page="447">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. P. D.</s>
+				<s n="2" lang="la" state="auto">Chalcographo, quem tu mihi tuis in literis commendasti, libenter fuissem gratificatus, si ullo modo potuissem.</s>
+				<s n="3" lang="la" state="auto">Verum ipsemet coram expertus est a nescio quo eximie sibi esse illusum spe magnae haereditatis proposita a matre videlicet relictae, quae extremae tamen egestatis intuitu in hospitale nostrum excepta, et liberaliter quidem prope tribus mensibus, quam voluit, exquisita luculentaque alimonia adusque supremum halitum fota et tractata est.</s>
+				<s n="4" lang="la" state="auto">Distraxit ipsa suppellectilis suae partem, ne vacuis prorsus manibus acciperetur, quatuor interim aureis Tigurum filio missis, et tunica quoque, quam quinque puto aureis aestimavit.</s>
+				<s n="5" lang="la" state="auto">Ea de re et ipse <persName ref="6650">Spitzius</persName>, quicquid ei negatum est, tam urgentibus de caussis consulit boni, et agnoscit, plurimum beneficii nostrorum commiseratione in dulcissimam matrem esse collatum.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="6" lang="la" state="auto">De victoria principis electoris<fl>8</fl> certum est, et recentibus literis a viris honestissimis nostri mercatores rem ipsam, ut obtigit, acceperunt, quarum compendium senatus noster Tigurino senatui summisit, quod et tibi, ut legas, dabitur.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="la" state="auto">Est et <persName ref="7364">Rossensis <ipron>ille</ipron> Martinus</persName><fl>9</fl>, qui Belgis hactenus omnibus terrori fuit, a <placeName ref="61">Premensibus</placeName><fl>10</fl> et urbibus Germanicis maritimis magna clade profligatus, unde et <persName ref="18574" state="auto_name">Hessum</persName><fl>11</fl> animum resumpsisse et instruere se ad bellum sustinendum fertur.</s>
+				<s n="8" lang="la" state="auto">Arrigere autem et urbes aures dicuntur nec aliud cupere magis, quam dira illa <entity id="29" type="geo_country">Hispanorum</entity> hominum panolethria sublevari.</s>
+				<s n="9" lang="la" state="auto">Sola interim <placeName ref="457">Constantia</placeName> et laudem et praemium constantię feret.</s>
+				<s n="10" lang="la" state="auto">De <placeName ref="492">Argentorato</placeName> bene speratur; sed senem illum <persName ref="9708" state="auto_name">Wirtenbergensem</persName><fl>12</fl> caesaris<fl>13</fl> genua osculatum esse ferunt.</s>
+				<s n="11" lang="la" state="auto">Utinam sint, qui avitam Germanię virtutem postliminio revocatam gloriose vindicent!</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="12" lang="la" state="auto"><persName ref="1055">Frechtus</persName> schedam potius quam epistolam dedit<fl>14</fl>, spei plenam, sed trepide tamen circumspectam et solita carentem libertate, quod mirum non est in tanto Corycaeorum coetu.</s>
+				<s n="13" lang="la" state="auto">Iubet tamen, te cum tuis omnibus salvere, et in tuorum albo censeri summopere cupit.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="14" lang="la" state="auto">Librum istum e <placeName ref="267">Colonia</placeName> missum lego libenter et gaudeo, in adversis tanta cum asseveratione gloriae Christi persistere senem illum et vere reverendum principem episcopum<fl>15</fl>, quem solum in tota ferme Germania video dignum esse, qui apostolicę functionis successor habeatur.</s>
+				<s n="15" lang="la" state="auto">Dominus illum conservet incolumem eventibus laetis et auspicatis.</s>
+				<s n="16" lang="la" state="manual">Amen.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="17" lang="la" state="auto">Vale et me ama.</s>
+				<s n="18" lang="la" state="auto">Mittam librum, ubi perlegero; continuam enim lectionem crebra mihi negocia non concedunt.</s>
+				<s n="19" lang="la" state="auto">S. Galli, nono calendas aprilis anno 1547.</s>
+			</p>
+			<p>
+				<s n="20" lang="la" state="auto">Tuus <persName ref="8049">Ioachimus Vadianus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="21" lang="la" state="auto">Praestantissimo viro domino Heinrycho Bullingero, clarissimae urbis Tigurinae episcopo, domino et amico sumopere colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2860">
+		<alpha/>
+		<num>
+			<fn ref="1">Das im Original verwendete Wort "chalcographus" kann sowohl einen Formschneider, einen Schriftgießer als auch einen Druckergesellen bezeichnen. Wir entscheiden uns für Letzteres, ohne dies als richtig behaupten zu können.</fn>
+			<fn ref="2" type="bio" fk_person="6650">Im Original wird der Name "Spitzius" (ohne Vornamen) angeführt. Dass es sich vermutlich um Franz handelt, geht aus folgender Beobachtung hervor: Ein <persName ref="6650">Franz Spitz</persName> ist in Zürich für die Jahre 1550/51 belegt. <persName ref="654">Johannes Comander</persName> hatte nämlich auf Bullingers Empfehlung hin in den genannten Jahren seine Tochter Sarah in Zürich bei <persName ref="6650">Spitz</persName> unterbringen lassen, als die Pest in Chur wütete. Am 16. März 1551 wurde ferner Bullinger von <persName ref="654">Comander</persName> gebeten, die Kosten "cum Francisco Spitzli" abzurechnen; s. <bibl>Graubünden, Korr.</bibl> I 181f. 185. 190. 197f. - <persName ref="6650">Spitz</persName> wird vermutlich in der Offizin von <persName ref="1227">Christoph Froschauer</persName> gewirkt haben. Welche Funktion er dort genau innehatte, bleibt offen.</fn>
+			<fn ref="3">Dabei kann es sich nicht um Bullingers Brief <link fk_file="12908">Nr. 2859</link> handeln, der erst am Vortag geschrieben wurde, St. Gallen also noch nicht erreicht haben konnte.</fn>
+			<fn ref="4">Vgl. <link fk_file="12900">Nr. 2851</link>.</fn>
+			<fn ref="5">Vgl. <link fk_file="12911">Nr. 2862</link>,25-28.</fn>
+			<fn ref="6">Wohl eine der von Peter Medmann an Bullinger gesandten Schriften; s. dazu <link fk_file="12842">Nr. 2793</link>, Anm. 4.</fn>
+			<fn ref="7">Im Jahre 1547 war Vadian erneut Bürgermeister; s. <bibl>Gamper, Vadian</bibl> 187f.</fn>
+			<fn ref="8"><persName ref="19065">Johann Friedrich I. von Sachsen</persName> siegte am 2. März bei Rochlitz gegen Moritz.</fn>
+			<fn ref="9"><persName ref="7364">Martin von Rossem</persName>.</fn>
+			<fn ref="10"><placeName ref="61">Bremen</placeName>.</fn>
+			<fn ref="11"><persName ref="18574">Philipp von Hessen</persName>.</fn>
+			<fn ref="12"><persName ref="9708">Ulrich von Württemberg</persName>.</fn>
+			<fn ref="13"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="14">16. Februar/20. März (<persName ref="8049">Vadian</persName> BW VI 598-601, <link fk_file="11561">Nr. 1518</link>).</fn>
+			<fn ref="15"><persName ref="8462">Hermann von Wied</persName>.</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="VBS" vol="6" fk_bibliography="41" nr="1526" page="608">
+				<p>
+					 <s n="1" lang="la" state="auto">S. P. D.</s>
+					 <s n="2" lang="la" state="auto">Chalcographo, quem tu mihi tuis in literis commendasti, libenter fuissem gratificatus, si ullo modo potuissem.</s>
+					 <s n="3" lang="la" state="auto">Verum ipsemet coram expertus est a nescio quo, eximie sibi esse illusum spe magnae hereditatis proposita, a matre videlicet relictae, quae extremae tamen egestatis intuitu in hospitale nostrum excepta et liberaliter quidem prope tribus mensibus quam voluit exquisita luculentaque alimonia adusque supremum halitum fota et tractata est.</s>
+					 <s n="4" lang="la" state="auto">Distraxit ipsa suppellectilis suae partem, ne vacuis prorsus manibus acciperetur, quatuor interim aureis Tigurum filio missis et tunica quoque, quam quinque puto aureis aestimavit.</s>
+					 <s n="5" lang="la" state="auto">Ea de re et ipse Spitzius, quicquid ei negatum est, tam urgentibus de caussis consulit boni et agnoscit, plurimum beneficii, nostrorum commiseratione in dulcissimam matrem esse collatum.</s>
+				</p>
+				<p>
+					 <s n="6" lang="la" state="auto">De victoria principis electoris certum est, et recentibus literis a viris honestissimis nostri mercatores rem ipsam, ut obtigit, acceperunt, quarum compendium senatus noster Tigurino senatui summisit, quod et tibi, ut legas, dabitur.</s>
+					 <s n="7" lang="la" state="auto">Est et <persName ref="7364">Rossensis <ipron>ille</ipron> Martinus</persName>, qui Belgis hactenus omnibus terrori fuit, a Premensibus et urbibus Germanicis maritimis magna clade profligatus, unde et Hessum animum resumpsisse et instruere se ad bellum sustinendum fertur.</s>
+					 <s n="8" lang="la" state="auto">Arrigere autem et urbes aures dicuntur nec aliud cupere magis, quam dira illa Hispanorum hominum panolethria sublevari.</s>
+					 <s n="9" lang="la" state="auto">Sola interim <placeName ref="457">Constantia</placeName> et laudem et praemium constantię feret.</s>
+					 <s n="10" lang="la" state="auto">De Argentorato bene speratur; sed senem illum Wirtenbergensem Caesaris genua osculatum esse ferunt.</s>
+					 <s n="11" lang="la" state="auto">Utinam sint, qui avitam Germanię virtutem postliminio revocatam gloriose vindicent!</s>
+					 <s n="12" lang="la" state="auto">Frechtus schedam potius quam epistolam dedit, spei plenam, sed trepide tamen circumspectam et solita carentem libertate, quod mirum non est in tanto Corycaeorum coetu.</s>
+					 <s n="13" lang="la" state="auto">Iubet tamen, te cum tuis omnibus salvere, et in tuorum albo censeri summopere cupit.</s>
+				</p>
+				<p>
+					 <s n="14" lang="la" state="auto">Librum istum e Colonia missum lego libenter et gaudeo, in adversis tanta cum asseveratione gloriae Christi persistere senem illum et vere reverendum principem episcopum, quem solum in tota ferme Germania video dignum esse, qui apostolicę functionis successor habeatur, Dominus illum conservet incolumem eventibus laetis et auspicatis.</s>
+					 <s n="15" lang="la" state="manual">Amen.</s>
+					 <s n="16" lang="la" state="auto">Vale et me ama.</s>
+					 <s n="17" lang="la" state="auto">Mittam librum, ubi perlegero; continuam enim lectionem crebra mihi negotia non concedunt.</s>
+					 <s n="18" lang="la" state="auto">S. Galli, nono Kalendas Aprilis, anno MDXLVII. Tuus Ioachimus Vadianus.</s>
+				</p>
+				<p>
+					 <s n="19" lang="la" state="auto">Praestantissimo viro domino Heinrycho Bullingero, clarissimae urbis Tigurinae episcopo, domino et amico sum(m)opere colendo.</s>
+				</p>
+			</content>
+			<footnotes fk_bibliography="41" nr="1526"/>
+		</alternative>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2860" page="447"/>
+			<footnotes fk_bibliography="22" nr="2860">
+				<alpha/>
+				<num>
+					 <fn ref="1">Das im Original verwendete Wort "chalcographus" kann sowohl einen Formschneider, einen Schriftgießer als auch einen Druckergesellen bezeichnen. Wir entscheiden uns für Letzteres, ohne dies als richtig behaupten zu können.</fn>
+					 <fn ref="2" type="bio" fk_person="6650">Im Original wird der Name "Spitzius" (ohne Vornamen) angeführt. Dass es sich vermutlich um Franz handelt, geht aus folgender Beobachtung hervor: Ein <persName ref="6650">Franz Spitz</persName> ist in Zürich für die Jahre 1550/51 belegt. <persName ref="654">Johannes Comander</persName> hatte nämlich auf Bullingers Empfehlung hin in den genannten Jahren seine Tochter Sarah in Zürich bei Spitz unterbringen lassen, als die Pest in Chur wütete. Am 16. März 1551 wurde ferner Bullinger von Comander gebeten, die Kosten "cum Francisco Spitzli" abzurechnen; s. <bibl>Graubünden, Korr.</bibl> I 181f. 185. 190. 197f. -Spitz wird vermutlich in der Offizin von Christoph Froschauer gewirkt haben. Welche Funktion er dort genau innehatte, bleibt offen.</fn>
+					 <fn ref="3">Dabei kann es sich nicht um Bullingers Brief <link fk_file="12908">Nr. 2859</link> handeln, der erst am Vortag geschrieben wurde, St. Gallen also noch nicht erreicht haben konnte.</fn>
+					 <fn ref="4">Vgl. <link fk_file="12900">Nr. 2851</link>.</fn>
+					 <fn ref="5">Vgl. <link fk_file="12911">Nr. 2862</link>,25-28.</fn>
+					 <fn ref="6">Wohl eine der von Peter Medmann an Bullinger gesandten Schriften; s. dazu <link fk_file="12842">Nr. 2793</link>, Anm. 4.</fn>
+					 <fn ref="7">Im Jahre 1547 war Vadian erneut Bürgermeister; s. <bibl>Gamper, Vadian</bibl> 187f.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

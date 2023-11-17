@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11314" id_hbbw="1271" id_irg_sort="1271" id_sort="112710">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11314</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1271</arpa>
+		<scan_pages>
+			<scan id="26309" dir="11314/Autograph/" page="1">00 E_II_356__S__12_.tif</scan>
+			<scan id="26310" dir="11314/Autograph/" page="2">01 E_II_356__S__13_.tif</scan>
+			<scan id="26311" dir="11314/Autograph/" page="3">02 E_II_356__fol__14_r_.tif</scan>
+			<scan id="26312" dir="11314/Autograph/" page="4">03 E_II_356__fol__14_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22962" vf="1" fk_add_type="1">
+				<person id="330" fk_id="330">
+					<name>Bertlin</name>
+					<forename>Bartholomäus</forename>
+				</person>
+				<place id="165" vf="1" fk_id="165" long="10.6977089" lat="47.5709212">Füssen</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22963" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11314">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">5</month>
+				<day fk_d="" d="" vf="1" fn="">15</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17786">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 356,12–14</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11085" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1271, S. 139</entry>
+				<page>139</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="42">
+				<lang id="5" iso="la" count="42" p="100.0"/>
+			</sentences>
+			<words count="746">
+				<lang id="5" iso="la" count="746" p="100.0"/>
+			</words>
+			<chars count="4531">
+				<lang id="5" iso="la" count="4531" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1271" page="139">
+		<div ref="1">
+			Rühmt Bullingers Wohlwollen, von dem alle seine Schriften zeugen, besonders auch sein Brief vom Vorjahr.
+			<persName ref="330">Bertlins</persName> Gegner, der ihn bei Rat und Bischof
+			[<persName ref="7800">Christoph von Stadion</persName>] verleumdet hat, erhielt die Pfarrei
+			<placeName ref="531">Waltenhofen</placeName>; er selbst wurde als Diakon nach
+			<placeName ref="165">Füssen</placeName> berufen, wo er neben Pfarrer
+			[<persName ref="6387">Johannes Schallheimer</persName>] und Schulmeister
+			[<persName ref="5937">Benedikt Negelin</persName>] eine vielversprechende Arbeit beginnen konnte. Ist
+			dabei auf die Schriften der Zürcher angewiesen; wünscht Bullingers Evangelien- und Paulusbriefkommentare
+			sowie sein Buch „De origine erroris“ und erkundigt sich nach weiteren Werken. Bittet um günstige Aufnahme
+			seines Schreibens. Gruß. Mehrere Gleichgesinnte drängen ihn, Grüße zu übermitteln. Die exegetischen
+			Schriften <persName ref="4091">Zwinglis</persName> und
+			<persName ref="2442">Oekolampads</persName> sollten vollumfänglich veröffentlicht werden, was nicht
+			nur den Druckern, sondern auch der Kirche Gewinn bringen würde.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1271" page="139">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a deo patre per Christum.</s>
+				<s n="2" lang="la" state="manual">Amen.</s>
+			</p>
+			<p>
+				<s n="3" lang="la" state="auto">Ea est tua, Bullingere doctissime, in omnes verę pietatis studiosos tum comitas tum benevolentia, ut nec me licet omnium postremum adeoque nullius assis hominem<fl>1</fl> aspernatus fueris, quin sedulo scribendo, hortando urgendoque instes, ut in agnita veritate non solum persistam, sed et pergam.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">Quod et scripta tua publica in summi dei gloriam eiusque sanctę ecclesię profectum, christiani orbis breviter commodum pacemque praesentis[simam] aedita, tum tuę cum ad reliquos tum ad me datę epistolę<fl>2</fl>, praecipue vero hec, quam anno superiori cum hoc nostro Petro<fl>3</fl> christianę et consolationis et confortationis (qui sub cruce laborabam) refertissimam<fl>a</fl> dedisti<fl>4</fl>.</s>
+				<s n="5" lang="la" state="auto">Deus bone, quam exultanti animo suscepi, legi, perlegi, relegi adeoque centies legi, ut tandem cum Paulo exclamabam: „<persName ref="5937">Benedictus</persName> deus et pater domini nostri Iesu Christi, qui est pater misericordiarum et deus omnis consolationis consolans nos in omni adflictione nostra“ [2Kor 1, 3f] etc.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Verum, optime Bullingere, vide interim<fl>b</fl>, que dei patris mira dispositio ac eius in me misericordissima manus.</s>
+				<s n="7" lang="la" state="auto">Inpostor ille<fl>5</fl> cum suis conplicibus deferens me non solum apud magistratum, sed et episcopum<fl>6</fl>, qui tum aderat, et huius prefectos, voluit aqua et igni interdictum<fl>7</fl> prorsusque e mundo<pb_edition start_of="140"/> viventiumque numero sublatum, is, inquam, ille ob caussas, de quibus nec locus nec tempus scribendi, parrochia, quam bulla antichristica omnibus<fl>c</fl> bonis et piis reclamantibus arripuit, deiectus curam ecclesię in Walnhof[en]<fl>d</fl><fl>8</fl>, cui in domino novem annos prefui, non reparandę, sed perdendę suscepit.</s>
+				<s n="8" lang="la" state="auto">Deus pater hominem in sui agnition[em]<fl>e</fl> convertat!</s>
+				<s n="9" lang="la" state="auto">Ego mox a senatu nostri oppidi vocatus in diaconum ecclesię adsumptus ministro sacramentum et verbum.</s>
+				<s n="10" lang="la" state="auto">Vocavit senatus in pastorem virum<fl>9</fl> iuvenem quidem aetate, sed vita, moribus, tota conversatione laudatum, tum sacrarum literarum quam studiosissimum.</s>
+				<s n="11" lang="la" state="auto">Vocavit paulo superioribus diebus ludi rectorem hominem nostratem<fl>10</fl> in literis egregie versatum, in linguis foeliciter studentem, ex <placeName ref="513">Ulma</placeName>.<pb_scan n="13"/></s>
+				<s n="12" lang="la" state="auto">Vide fabulę preludia; catastrophen<fl>11</fl> dominus cum tempore dabit ac mox imponet.</s>
+				<s n="13" lang="la" state="auto">Nos ex animo petimus, immo publice ecclesię sanctę a profanis Babiloniis Rhomanensibus defoedatę emundationem restaurationemque oramus<fl>f</fl>.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">Ad hoc opus tua, tum et tuorum in sacras literas foetura summe necessaria erit.</s>
+				<s n="15" lang="la" state="auto">Quare mandavi Petro, ut in evangelistas sex, in Paulum quattuor commentariorum tuorum exemplaria adferat<fl>12</fl>.</s>
+				<s n="16" lang="la" state="auto">Libros, quos De errorum origine quattuor scripsisti<fl>g</fl><fl>13</fl>, nullos vidi, nullos nancisci hactenus<fl>h</fl> potui.</s>
+				<s n="17" lang="la" state="auto">Ah, mi Bullingere, quam cupio hos habere, non unum, sed quattuor exemplaria.</s>
+				<s n="18" lang="la" state="auto">Tu semper rescribis omnes esse divenditos; cur non, ut secundo excudantur, instas?</s>
+				<s n="19" lang="la" state="auto">De <persName ref="8171">Bibliandri</persName> in prophetas commentariis fac sciam, qui extant<fl>14</fl>.</s>
+				<s n="20" lang="la" state="auto">De ponderibus, mensuris, studiis etc., de quibus super capita ultima Ezechielis scripturum promittit<fl>15</fl>, si quid aeditum est, cupio habere.</s>
+				<s n="21" lang="la" state="auto">Quid tu, vir a deo ecclesię sue instaurande datus post universum testamentum novum absolutum nunc lucubrando labores ac sub incude habeas, cupio scire et non solum scire, sed et conparare, legere et vivere.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Parce, precor, humanissime Bullingere, inportuno, indocto occlamatori adeoque interturbatori sanctarum tuarum vigiliarum.</s>
+				<s n="23" lang="la" state="auto">Quaecunque scribo, dico, adfero animo sincero, candido, breviter christiano.</s>
+				<s n="24" lang="la" state="auto">Tu, ut tuus est in<pb_edition start_of="141"/> Christi studiosos candor, tali animo accipies hancque meam infantiam, tum barbariem boni consules.</s>
+			</p>
+			<p>
+				<s n="25" lang="la" state="auto">Te, tuam domum, maxime omnem ecclesiam Christi apud vos in pace et fide domini florere et crescere opto.</s>
+				<s n="26" lang="la" state="auto">Symistas tuos omnes, per quos dominus templum suum ab inpiis Rhomanensibus destructum, depredatum et exustum reedificari voluit, salvos animo et corpore precamur.</s>
+				<s n="27" lang="la" state="auto">Christus in suo opere vos conservet, augeat ac demum perficiat.</s>
+				<s n="28" lang="la" state="auto">Vale, mortalium unice dilecte.</s>
+			</p>
+			<p>
+				<s n="29" lang="la" state="auto">Ex Füessen, idibus maii anno etc. 39.</s>
+			</p>
+			<p>
+				<s n="30" lang="la" state="auto"><persName ref="330">Barptolomaeus Bertlin</persName>, ecclesię in Fuessen diaconus, tuus ad pedes discipulus.</s>
+			</p>
+			<p>
+				<s n="31" lang="la" state="auto"><pb_scan n="14"/>Vide inportunorum minas: Volunt, imo urgent apud nos veritatis evangelici amatores studiosissimi, ut horum omnium nomine tibi tuisque omnibus, praecipue tuis sanctis studiis otium, auctum et ut hactenus provectum precer, inter quos praecipue d. <persName ref="20102" state="auto_name">Ioannes Schallhaimer</persName><fl>16</fl>, pastor noster integer, de quo su[pra]<fl>i</fl><fl>17</fl>, <persName ref="17982">Ioannes Freiberger</persName><fl>18</fl>, consul noster laudatissimus, <persName ref="5937">Benedictus Negeli</persName><fl>19</fl>, ludi literarii rector eruditus, <persName ref="6392">Gothardus Schoc[h]</persName><fl>k</fl><fl>20</fl>, christiani negotii adsertor fidelissimus, tum alii plures etc., qui Christo antichristo<pb_edition start_of="142"/> ablegato nomina dederunt.</s>
+				<s n="32" lang="la" state="auto">Speramus indies dominum hunc numerum augere.</s>
+			</p>
+			<p>
+				<s n="33" lang="la" state="auto">Nostrum erit adsiduo laborare, plantare irrigareque; dominus dabit incrementum<fl>21</fl>.</s>
+				<s n="34" lang="la" state="auto">At quorsum tandem meum<fl>l</fl> lallare?</s>
+				<s n="35" lang="la" state="auto">Vale et vive in Christo perpetuo foelix ut supra.</s>
+			</p>
+			<p>
+				<s n="36" lang="la" state="auto">Non irascetur dominus meus, si verbum addidero: Mi Bullingere, qui fit, ut non omnes in canonicos libros et <persName ref="4091">Zwinglii</persName> et <persName ref="2442">Oecolampadii</persName> - o deum immortalem, quanti viri!</s>
+				<s n="37" lang="la" state="auto">- vigilias et lucubrationes congestas et digestas excudi faciatis, quum hinc et typographis nulla certe iactura, sed foenus, tum deo nostro laus, tum ecclesię suę fructus uberrimus.</s>
+				<s n="38" lang="la" state="auto">Quare, si quo modo fieri potest, o Bullingere, cura, ut in unum volumen singulorum labores excudantur.</s>
+				<s n="39" lang="la" state="auto">Nostri omnes huiusmodi sitiunt.</s>
+				<s n="40" lang="la" state="auto">Vide alpicolarum sitim!</s>
+			</p>
+			<p>
+				<s n="41" lang="la" state="auto">Tertio et aeternum vale.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="42" lang="la" state="auto">Domino Heinnricho Bullingero, Tigurinę ecclesię episcopo vigilanti, fideli et docto, preceptori suo omni reverentia observando.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1271">
+		<alpha>
+			<fn ref="a"><i>vor</i> refertissimam <i>gestrichenes</i> dedisti te.</fn>
+			<fn ref="b"><i>vor</i> interim <i>gestrichenes</i> qu...</fn>
+			<fn ref="c"><i>vor</i> omnibus <i>ein gestrichenes Zeichen.</i></fn>
+			<fn ref="d"><i>Rand beschädigt.</i></fn>
+			<fn ref="e"><i>Rand beschädigt.</i></fn>
+			<fn ref="f">oramus <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="g"><i>in der Vorlage</i> scribsisti.</fn>
+			<fn ref="h">hactenus <i>korrigiert aus</i> potui.</fn>
+			<fn ref="i"><i>Rand beschädigt.</i></fn>
+			<fn ref="k"><i>Rand beschädigt.</i></fn>
+			<fn ref="l"><i>vor</i> meum <i>gestrichenes</i> tuum.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Vgl. <bibl>Otto</bibl> 39, Nr. 175.</fn>
+			<fn ref="2">Bullingers Briefe an <persName ref="330">Bertlin</persName> sind nicht erhalten.</fn>
+			<fn ref="3">Nicht näher bekannt; vgl. zuletzt <bibl>HBBW VIII</bibl> <link fk_file="11174">[Nr. 1131]</link>, S. 138, 35.</fn>
+			<fn ref="4">Zu ergänzen ist: testantur.</fn>
+			<fn ref="5">Unbekannt. - Andeutungen über seine bedrängte Lage machte <persName ref="330">Bertlin</persName> bereits in seinem Brief vom 25. Mai 1538, s. <bibl>HBBW</bibl> VIII <link fk_file="11174">[Nr. 1131]</link>, S. 137f, 19-27.</fn>
+			<fn ref="6"><persName ref="7800">Christoph von Stadion</persName>, Bischof von Augsburg.</fn>
+			<fn ref="7">Zur römischen Bannformel "aqua et igni interdicere" vgl. z. B. Rhetorica ad Herennium 2, 45.</fn>
+			<fn ref="8"><placeName ref="531">Waltenhofen</placeName> bei Füssen.</fn>
+			<fn ref="9"><persName ref="6387">Johannes Schallheimer</persName>, vgl. unten Z. 63f.</fn>
+			<fn ref="10"><persName ref="5937">Benedikt Negelin</persName>, vgl. unten Z. 64f.</fn>
+			<fn ref="11">im Sinne von: Wendung (vgl. <bibl>Z</bibl> XIII 851; <bibl>Lausberg</bibl> 1194, 3; 1246).</fn>
+			<fn ref="12">Bullingers gesammelte Kommentare zu den Aposteibriefen (<bibl>HBBibl</bibl> I 84) waren erstmals 1537 gedruckt worden; seine Evangelienkommentare erschienen erst ab 1542 (vgl. <bibl>HBBW VIII</bibl> <link fk_file="11212">[Nr. 1169]</link>, S. 210, Anm. 11).</fn>
+			<fn ref="13">"De origine erroris libri duo", Zürich 1539 (<bibl>HBBibl</bibl> I 12).</fn>
+			<fn ref="14">Außer einer Rede zu Jesaja von 1532 (<bibl>BZD</bibl> C 206) lag von <persName ref="8171">Biblianders</persName> Auslegungen einzig ein Kommentar zu Nahum gedruckt vor, den <persName ref="330">Bertlin</persName> bereits kannte; s. <bibl>HBBW</bibl> VIII <link fk_file="11174">[Nr. 1131]</link>, S. 138, 34-36.</fn>
+			<fn ref="15">Vgl. <bibl>HBBW VIII</bibl> <link fk_file="11174">[Nr. 1131]</link>, S. 138, 32-34 mit Anm. 7.</fn>
+			<fn ref="16" type="bio" fk_person="20102"><persName ref="20102">Johannes Schaliheimer (Schöllheimer)</persName> ist wohl identisch mit dem 1523 in <placeName ref="231">Ingolstadt</placeName> immatrikulierten <persName ref="20102">Johannes Schalhamer</persName> von <placeName ref="1743">Schongau</placeName> (s. <placeName ref="231">Ingolstadt</placeName>, Matrikel I 468, 100. Er war Vikar in "Beutingen" (<placeName ref="1744">Peiting</placeName> bei <placeName ref="1743">Schongau</placeName>), als er auf den 2. Februar 1539 als Pfarrer nach <placeName ref="165">Füssen</placeName> berufen wurde (Stadtarchiv <placeName ref="165">Füssen</placeName>, Urkunde Nr. 69 vom 22. Oktober 1538). Sein neues Amt mußte er jedoch auf Druck seiner Gegner schon bald aufgeben (vgl. Theodor <i>Kolde,</i> Zur Einführung der Reformation in <placeName ref="165">Füssen</placeName>, in: Beiträge zur bayerischen Kirchengeschichte 10, 1904, S. 86-88); er wich nach <placeName ref="320">Memmingen</placeName> aus, wo er möglicherweise bereits früher einmal gewirkt hatte. Von dort kam er 1545 leihweise nach <placeName ref="245">Kaufbeuren</placeName>, 1546 ein zweites Mal nach <placeName ref="165">Füssen</placeName> und 1547-1549 (sowie nochmals für kurze Zeit 1559) nach <placeName ref="981">Leutkirch</placeName>. 1550-1563 war er Pfarrer im memmingischen Dorf <placeName ref="1745">Steinheim</placeName>. Später scheint er noch längere Zeit in <placeName ref="320">Memmingen</placeName> gelebt zu haben, wo er spätestens 1600 starb. - Lit.: Hermann Erhard, Memminger Pfarrerbuch, Neustadt a. d. Aisch 1977, S. 64, <link fk_file="10175">Nr. 144</link>.</fn>
+			<fn ref="17">Siehe oben Z. 25-27.</fn>
+			<fn ref="18">Ein <persName ref="17982">Hans Freiberger</persName> ist in Urkunden von 1543, 1552 und 1556 als Rat bzw. als Siegler und als Zeuge genannt (Stadtarchiv <placeName ref="165">Füssen</placeName>, Kloster-Urkunden <link fk_file="10347">Nr. 316</link>, 330 und 335; für freundliche Hinweise danken wir Herrn Thomas Riedmiller, <placeName ref="165">Füssen</placeName>).</fn>
+			<fn ref="19"><persName ref="5937">Benedikt Negelin</persName> von <placeName ref="165">Füssen</placeName> ist 1529 als Student in <placeName ref="558">Wittenberg</placeName> und <placeName ref="284">Leipzig</placeName> nachweisbar; s. <placeName ref="558">Wittenberg</placeName>, Matrikel I 136, bzw. <placeName ref="284">Leipzig</placeName>, Matrikel I 602.</fn>
+			<fn ref="20">Anderweitig nicht nachweisbar; die Lesung des Namens ist unsicher (ev. <persName ref="6392">Scheck</persName> o. ä.).</fn>
+			<fn ref="21">Vgl. 1Kor 3, 6f.</fn>
+		</num>
+	</footnotes>
+</file>

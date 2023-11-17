@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12814" id_hbbw="2765" id_irg_sort="2765" id_sort="127650">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12814</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2765</arpa>
+		<scan_pages>
+			<scan id="29998" dir="12814/Autograph/" page="1">00 E_II_343__fol__358_r_.tif</scan>
+			<scan id="29999" dir="12814/Autograph/" page="2">01 E_II_343__fol__358_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26169" vf="1" fk_add_type="1">
+				<person id="1863" fk_id="1863">
+					<name>Knight</name>
+					<forename>Thomas</forename>
+				</person>
+				<place id="522" vf="1" fk_id="522" long="12.33265" lat="45.43713">Venedig</place>
+				<district id="194">Veneto</district>
+				<country id="30">Italien</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26170" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12814">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">23</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19380">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343a,358</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9032" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Epistolae Tigurinae 237 bzw. Original Letters I 357f, Nr. 176</entry>
+			</print>
+			<print id="9033" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Epistolae Tigurinae 237 bzw. Original Letters I 357f, Nr. 176</entry>
+			</print>
+			<print id="9034" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>LP XXI/2, Nr. 736</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="17">
+				<lang id="5" iso="la" count="17" p="100.0"/>
+			</sentences>
+			<words count="247">
+				<lang id="5" iso="la" count="247" p="100.0"/>
+			</words>
+			<chars count="1468">
+				<lang id="5" iso="la" count="1468" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2765" page="175">
+		<div ref="1">
+			[1] Da <persName ref="1863">[Thomas] Knight</persName> weiß, dass Bullinger mit <persName ref="1548">Richard Hilles</persName> eng befreundet
+			ist, vertraut er ihm dieses für <persName ref="1548">Hilles</persName> bestimmte Bündelchen zur sicheren Weiterbeförderung [nach
+			<placeName ref="492">Straßburg</placeName>] an, falls
+			<persName ref="505">John Burcher</persName> noch nicht von
+			<entity id="9" type="geo_country">England</entity> zurückgekehrt wäre.<fl>2</fl> <persName ref="505">Burcher</persName> wird Bullinger die
+			dadurch entstandenen Kosten zurückerstatten.
+		</div>
+		<div ref="2">
+			[2] In <placeName ref="522">Venedig</placeName> wird das Evangelium so rein gepredigt wie
+			nirgendwo sonst in <entity id="16" type="geo_country">Italien</entity>. Der Senat ordnete an, dass während
+			der kommenden Fastenzeit jeden Tag im „Palatium maior“ gepredigt werden solle. So etwas ist noch nie
+			geschehen! Die Zahl der Gläubigen wächst von Tag zu Tag. Bullingers [Bibel]kommentare werden in
+			<entity id="16" type="geo_country">Italien</entity> zunehmend geschätzt. Wenn diese nicht so dick und teuer
+			wären, ließen sich keine anderen Bücher besser verkaufen. Bullinger soll weiterhin aus seinem reichlich
+			versehenen Speisevorrat seine ihm vom Heiligen Geist verliehenen außergewöhnlichen Gaben dem zaghaften,
+			hungrigen und durstigen [italienischen] Volk zur Verfügung stellen. Der Bote [...] wird weitere Neuigkeiten
+			mitteilen.
+		</div>
+		<div ref="3">
+			[3] Bullinger, den Gott zum frommen und treuen Hirten auserkoren hat, möge den Gläubigen bis zu deren
+			Eintreffen im verheißenen Land erhalten bleiben!
+		</div>
+		<div ref="4">
+			[4] [P.S.:] Dem oben erwähnten Bündelchen legt <persName ref="1863">Knight</persName> ein mit <persName ref="1548">Hilles</persName>’ Namen<pb_edition start_of="176"/>
+			beschriftetes kleines Gefäß bei.
+		</div>
+		<div ref="5">
+			[5] [Späteres P.S.:] Aus Platzmangel konnte <persName ref="1863">Knight</persName> das kleine Gefäß mit Feigen dem Gepäck des Boten nicht
+			einverleiben. Bullinger erhält also nur das mit den Initialen R. H. versehene Bündelchen.
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2765" page="175">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. in Christo.</s>
+				<s n="2" lang="la" state="auto">Eo quod compertum habeo, reverende et pie pater, te non vulgarem sed singularem amicum esse domino <persName ref="1548">Richardo Hillys</persName> Anglo, dignum duxi, ut si <persName ref="505">Iohannes Burcherus</persName> Anglus, vestrae civitatis incola, ab itinere Anglico nondum reversus fuerit, sarcinulam istam tibi committere, quo tutius et citius ad manus praefati Richardi pervenire poterit.</s>
+				<s n="3" lang="la" state="auto">Pro conductura si quid exposueris, <persName ref="505">Ioannes Burcherus</persName>, ubi redierit, tibi restituet.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="la" state="auto">Evangelium indies multo sincerius hic, quam alibi in <entity id="16" type="geo_country">Italia</entity>, praedicatur, senatusque consulto decretum est concionem habere cotidie in palatio maior[i]<fl>b</fl> futura quadragesima; quod nunquam ab urbe condita visum est.</s>
+				<s n="5" lang="la" state="auto">Crescit numerus fidelium magis ac magis.</s>
+				<s n="6" lang="la" state="auto">Tua commentaria indies pluris fiunt apud <entity id="16" type="geo_country">Italos</entity>, et nisi essent tam magna et chara, nulla essent magis vendibilia.</s>
+				<s n="7" lang="la" state="auto">Tuae charitatis erit igitur pergere, et ex penu tuo fecundo rara illa dona spritus propinare pusillo illi gregi, famelico et sitibundo.</s>
+				<s n="8" lang="la" state="auto">Si quid praeterea novi fuerit, tibi fas erit elicere ab isto latore.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="9" lang="la" state="auto">Dominus, qui te nobis pium et fidum pastorem selegit, diu nobis foeliciter servet, et tandem ad promissam terram una pervenire concedat.</s>
+				<s n="10" lang="la" state="auto">Commendes me Christo cum tuis, vehementer obsecro.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto"><placeName ref="522">Venetiis</placeName>, 23. ianuarii 1547.</s>
+			</p>
+			<p>
+				<s n="12" lang="la" state="auto">Tuus humilis filius, et ad omnia obsequia prom[p]tissimum mancipium, Tomas Knithus, Anglus, bibliopola.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="13" lang="la" state="auto">Recipies cum sarcinula unum vasculum <persName ref="1548">Richardi</persName> nomine signatum.</s>
+				<s n="14" lang="la" state="auto">Tuae charitatis erit per amicos curare, ut ad illum transferantur.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="15" lang="la" state="auto">Vasculum ficuum iam non recipies, eo quod non potuit habere locum in cista istius; sed solummodo sarcinulam per istum mitto signatum duabis litteris R. H.<fl>3</fl></s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="16" lang="la" state="auto">Reverende patri domino Henrico Bullingero, <placeName ref="587">Tigurinensis</placeName> ecclesiae pastori vigilantissimo.</s>
+				<s n="17" lang="la" state="auto"><placeName ref="587">Tiguri</placeName>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2765">
+		<alpha>
+			<fn ref="a" meta="1"><i>Dort ist statt</i> ex penna tua secunda <i>zu lesen</i> ex penu tuo fecundo. <i>Entsprechend ist auch die Übersetzung zu korrigieren.</i></fn>
+			<fn ref="b"><i>Textverlust durch Papierverlust.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Derzeit ist über diesen Buchhändler, der den vorliegenden Brief als "Tomas Knithus, Anglus, Bibliopola" unterschreibt, kaum etwas bekannt. Er scheint Bücher zwischen <entity id="16" type="geo_country">Italien</entity> und <entity id="9" type="geo_country">England</entity> (wohl in beide Richtungen) befördert zu haben. Vorliegender Brief lässt vermuten, dass er in <entity id="16" type="geo_country">Italien</entity> auch Zürcher Drucke (u.a. Bullingers Bibelkommentare) vertrieb. Der Brief belegt ferner, dass <persName ref="1863">Knight</persName> in Geschäftsbeziehungen mit den englischen Flüchtlingen <persName ref="505">John Burcher</persName> (<placeName ref="587">Zürich</placeName>) und <persName ref="1548">Richard Hilles</persName> (<placeName ref="492">Straßburg</placeName>) stand. Bekannt ist ferner, dass ihm am 28. Januar 1545 in <placeName ref="55">Bologna</placeName> ein Brief für <persName ref="8127">Konrad Pellikan</persName> anvertraut wurde (s. <i>Rotonde, Anticristo</i> 162), aus dem hervorgeht, dass <persName ref="1863">Knight</persName> erst bei seiner "Rückreise" (wohl von <entity id="9" type="geo_country">England</entity> nach <entity id="16" type="geo_country">Italien</entity>) vorhatte, durch <placeName ref="587">Zürich</placeName> zu reisen. <persName ref="1863">Knight</persName> wird vermutlich also der von uns nicht identifizierte Briefüberbringer gewesen sein, dem Hilles seinen Brief für Bullinger vom 25. April 1545 <i>(HBBW</i> XV, <link fk_file="12184">Nr. 2137</link>, S. 263) anvertraut hatte. Laut einem Schreiben Burchers an Bullinger vom 21. Januar 1551 <i>(Epistolae Tigurinae</i> 438; <bibl>Original Letters</bibl> II 676; <i>CO</i> XIV 26, <link fk_file="11483">Nr. 1440</link>) befand sich <persName ref="1863">Knight</persName> Anfang 1551 erneut (vielleicht aber auch nur vorübergehend) in <entity id="9" type="geo_country">England</entity>. -Vorliegendes Schreiben ist das einzig bekannte Schreiben zwischen <persName ref="1863">Knight</persName> und Bullinger.</fn>
+			<fn ref="2">Zu Burchers Reise, die nicht bis nach England führte, s. <bibl>HBBW</bibl> XVIII 468, Anm. 5.</fn>
+			<fn ref="3">Ein späterer Nachtrag.</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2765" page="175"/>
+			<footnotes fk_bibliography="22" nr="2765">
+				<alpha>
+					<fn ref="a" meta="1"><i>Dort ist statt</i> ex penna tua secunda <i>zu lesen</i> ex penu tuo fecundo. <i>Entsprechend ist auch die Übersetzung zu korrigieren.</i></fn>
+				</alpha>
+				<num>
+					<fn ref="1" meta="1">Derzeit ist über diesen Buchhändler, der den vorliegenden Brief als "Tomas Knithus, Anglus, Bibliopola" unterschreibt, kaum etwas bekannt. Er scheint Bücher zwischen Italien und England (wohl in beide Richtungen) befördert zu haben. Vorliegender Brief lässt vermuten, dass er in Italien auch Zürcher Drucke (u.a. Bullingers Bibelkommentare) vertrieb. Der Brief belegt ferner, dass Knight in Geschäftsbeziehungen mit den englischen Flüchtlingen <persName ref="505">John Burcher</persName> (Zürich) und <persName ref="1548">Richard Hilles</persName> (Straßburg) stand. Bekannt ist ferner, dass ihm am 28. Januar 1545 in Bologna ein Brief für <persName ref="8127">Konrad Pellikan</persName> anvertraut wurde (s. <i>Rotonde, Anticristo</i> 162), aus dem hervorgeht, dass Knight erst bei seiner "Rückreise" (wohl von England nach Italien) vorhatte, durch Zürich zu reisen. Knight wird vermutlich also der von uns nicht identifizierte Briefüberbringer gewesen sein, dem Hilles seinen Brief für Bullinger vom 25. April 1545 <i>(HBBW</i> XV, <link fk_file="12184">Nr. 2137</link>, S. 263) anvertraut hatte. Laut einem Schreiben Burchers an Bullinger vom 21. Januar 1551 <i>(Epistolae Tigurinae</i> 438; <bibl>Original Letters</bibl> II 676; <i>CO</i> XIV 26, <link fk_file="11483">Nr. 1440</link>) befand sich Knight Anfang 1551 erneut (vielleicht aber auch nur vorübergehend) in England. -Vorliegendes Schreiben ist das einzig bekannte Schreiben zwischen Knight und Bullinger.</fn>
+					<fn ref="2">Zu Burchers Reise, die nicht bis nach England führte, s. <bibl>HBBW</bibl> XVIII 468, Anm. 5.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

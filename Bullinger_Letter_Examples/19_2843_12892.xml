@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12892" id_hbbw="2843" id_irg_sort="2843" id_sort="128430">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12892</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2843</arpa>
+		<scan_pages>
+			<scan id="30188" dir="12892/Autograph/" page="1">00 E_II_357__fol__588_r_.tif</scan>
+			<scan id="30189" dir="12892/Autograph/" page="2">01 E_II_357__fol__588_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26328" vf="0" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26329" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12892">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19463">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357a,588</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9143" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 605, Nr. 1420</entry>
+			</print>
+			<print id="12344" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2843, S. 411</entry>
+				<page>411</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="8">
+				<lang id="1" iso="de" count="8" p="100.0"/>
+			</sentences>
+			<words count="79">
+				<lang id="1" iso="de" count="79" p="100.0"/>
+			</words>
+			<chars count="421">
+				<lang id="1" iso="de" count="421" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2843" page="411">
+		<div ref="1">
+			[1] Nachdem <persName ref="8055">Blarer</persName> bereits am Vortag [ausführlich mit
+			<link fk_file="12890">Nr. 2841</link>] geschrieben hat, möchte er nur kurz etwas in Bezug auf
+			<persName ref="4082">Konrad Zwick</persName> anbringen. Dieser ist nämlich aus den Gründen, die er in
+			seinem gestrigen Brief [an <persName ref="1419">Johannes Haab</persName>] erörtert hat, sehr betrübt. Die Zürcher mögen doch umsichtiger
+			handeln, damit <persName ref="4082">Zwick</persName> nicht verzagt und seine Bemühungen umsonst sind.
+			Die Angelegenheit ist wichtig.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2843" page="411">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Furgeliepter herr und bruͦder, ich hab euch uff gestert geschriben.<fl>2</fl></s>
+				<s n="2" lang="de" state="auto">Diß allain von meines vetters<fl>3</fl> wegen: Der ist doch gar betrupt usß ursachen, wie ir auss sinem schriben<fl>4</fl> vernemmen.</s>
+				<s n="3" lang="de" state="auto">Bitt euch um gottes willen, darob und daran<fl>5</fl> ze sein, damitt gwarsamlicher<fl>6</fl> gehandelt und der guͦt fromm mann nitt unlustig<fl>7</fl> und allso alle sach verderbt werde.</s>
+				<s n="4" lang="de" state="auto">Ir köndt bessers nitt thain<fl>8</fl>, dann<fl>9</fl> vyl an der sach gelegen.</s>
+				<s n="5" lang="de" state="auto">Thaind meinem hertzlichen vertrauwen<fl>10</fl> nach.</s>
+				<s n="6" lang="de" state="auto">Datum 12. martii.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite]</note>
+				<s n="7" lang="de" state="auto">An maister Hainrich Bullinger.</s>
+				<s n="8" lang="de" state="auto">Zuͤrich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2843">
+		<alpha/>
+		<num>
+			<fn ref="1" meta="1">Das Jahr geht aus dem Inhalt des Briefleins hervor.</fn>
+			<fn ref="2">Mit <link fk_file="12890">Nr. 2841</link> vom 11. März.</fn>
+			<fn ref="3"><persName ref="4082">Konrad Zwick</persName>.</fn>
+			<fn ref="4">Gemeint ist <persName ref="4082">Zwicks</persName> Brief mit zwei Anhängen an <persName ref="1419">Johannes Haab</persName> vom 11. März (Zürich StA, A 205.2, Nr. 10 mit 10 a und lob).</fn>
+			<fn ref="5">darob und daran: darauf bedacht; s. <bibl>SI</bibl> VII 1041.</fn>
+			<fn ref="6">umsichtiger. -Die <placeName ref="457">Konstanzer</placeName> waren unzufrieden, dass die Zürcher auf der Tagsatzung zu <placeName ref="21">Baden</placeName> vom 28. Februar bei ihrem Versuch, die Eidgenossen zu einer Hilfe für <placeName ref="457">Konstanz</placeName> zu verpflichten, sich darauf beschränkten, nur eine Belagerung oder einen Angriff der Stadt von eidgenössischem Gebiet aus (also nicht auch von deutscher Seite aus) nicht zuzulassen.</fn>
+			<fn ref="7">unlustig werde: verzagt (angesichts eines ungenügenden Einsatzes der Zürcher für <placeName ref="457">Konstanz</placeName>). - Im Entwurf Nr. 10b seines oben in Anm. 4 erwähnten Briefs schlug <persName ref="4082">Zwick</persName> den Zürchern vor, einen von den vier protestantischen Städte unterschriebenen Brief zu bewirken, in dem <placeName ref="457">Konstanz</placeName> finanzielle Hilfe angeboten würde, damit die Stadt Truppen annehmen könne.</fn>
+			<fn ref="8">tun.</fn>
+			<fn ref="9">denn.</fn>
+			<fn ref="10">Erwartung.</fn>
+		</num>
+	</footnotes>
+</file>

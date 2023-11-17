@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12863" id_hbbw="2814" id_irg_sort="2814" id_sort="128140">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12863</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2814</arpa>
+		<scan_pages>
+			<scan id="30108" dir="12863/Autograph/" page="1">00 E_II_357__fol__710_r_.tif</scan>
+			<scan id="30109" dir="12863/Autograph/" page="2">01 E_II_357__fol__710_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26270" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26271" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12863">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">13</day>
+			</min>
+			<max fk_d="0" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">19</day>
+			</max>
+		</date>
+		<documents>
+			<document id="19430">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357a,710</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9103" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Blarer BW II, S. 592</entry>
+			</print>
+			<print id="12421" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2814, S. 315</entry>
+				<page>315</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="8">
+				<lang id="1" iso="de" count="6" p="75.0"/>
+				<lang id="5" iso="la" count="2" p="25.0"/>
+			</sentences>
+			<words count="188">
+				<lang id="1" iso="de" count="177" p="94.1"/>
+				<lang id="5" iso="la" count="11" p="5.9"/>
+			</words>
+			<chars count="961">
+				<lang id="1" iso="de" count="882" p="91.8"/>
+				<lang id="5" iso="la" count="79" p="8.2"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2814" page="315">
+		<div ref="1">
+			[1] Ein württembergischer Hauptmann [<persName ref="7693">Michel Berchtold von Nellingen</persName>?] berichtete in
+			<placeName ref="457">Konstanz</placeName>, dass [kaiserliche] Hauptleute sich zu einer Beratung
+			getroffen haben, und dass er aus den Gesprächen mit diesen den Eindruck gewann, man plane einen Angriff
+			gegen die Eidgenossen.
+		</div>
+		<div ref="2">
+			[2] So sagte auch ein Viehhändler aus <placeName ref="513">Ulm</placeName>, den man nach
+			Gerüchten fragte, man höre, der Kaiser habe vor, sich <placeName ref="457">Konstanz</placeName> und
+			der Eidgenossen anzunehmen.
+		</div>
+		<div ref="3">
+			[3] Auch die <placeName ref="457">Konstanzer</placeName> Kornhändler trafen auf ihrer Rückreise
+			von <placeName ref="1312">Radolfzell</placeName> einen Mailänder [...] in
+			<placeName ref="2395">Allensbach</placeName> an, den sie über
+			[<entity id="16" type="geo_country">Italien</entity>] ausfragten. Dieser erzählte, dass <placeName ref="2448">die Fünf Orte</placeName> dort
+			Söldner annähmen. Bullinger soll das wissen! Desgleichen hat Zunftmeister <persName ref="5572">Peter Labhart</persName> gehört, dass man die
+			Eidgenossen gegeneinander aufhetzen wolle, dass <placeName ref="2448">den Fünf Orten</placeName> italienische Söldner zuzögen und dass die
+			Eidgenossenschaft von der Etsch aus oder in
+			<placeName ref="28">Basel</placeName> angegriffen werde.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2814" page="315">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Es hat sich ain wirtempergischer hoptman<fl>3</fl> hie vernemmen lassen, das etwa<fl>4</fl> die hoptleut bey ainander gewesen und allerlay ze red worden seyen.</s>
+				<s n="2" lang="de" state="auto">Hab er nitt anderst vermuͦten moͤgen, dann<fl>5</fl> das die anschleg<fl>6</fl> seyen, die Aidgnossen ouch in gehorsam ze bringen.<fl>7</fl></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">So ist ain vechtriber<fl>8</fl> dis wochen von <placeName ref="513">Ulm</placeName> hie gewesen und gesagt, alls man inn gefragt, was das geschrey<fl>9</fl> seye: Man welle die von <placeName ref="457">Costentz</placeName> gehorsam machen und den Aidgnossen ouch ains uff den schwantz geben, das sy sich ergebind.<pb_edition start_of="316"/></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="4" lang="de" state="auto">Es ist gewiß und von unsern kornköffern (alls sy yetz von <placeName ref="1312" state="auto_name">Zell</placeName><fl>10</fl> kommen und zuͦ Alenspach<fl>11</fl> gesessen sind)<fl>a</fl> anzoͤgt worden, das sy ainen<fl>12</fl> von <placeName ref="306">Mailand</placeName> zuͦ Alenspach funden und inn gefragt habend, was dinnen<fl>13</fl> das geschray seye.</s>
+				<s n="5" lang="de" state="auto">Habe er geantwurt: Nichts sonders, dann das er gehoͤrt, wie man <entity id="16" type="geo_country">Italianer</entity> den <placeName ref="2448">Fünff Orten</placeName><fl>14</fl> annemme, etc.</s>
+				<s n="6" lang="de" state="auto">Hab ich euch nitt verhalten wellen, dann<fl>15</fl> unser frommer zunfftmaister <persName ref="5572">Peter Labhart</persName><fl>16</fl> des guͦt wissen tragt<fl>17</fl> (der hats auch anzoͤgt), und das man sy<fl>18</fl> unainig machen und <placeName ref="2448">den 5 Orten</placeName> welsch<fl>19</fl> volck zuͦschicken oder sy durch die Etsch oder uff <placeName ref="28">Basel</placeName> angryffen welle.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="7" lang="la" state="auto">Clarissimo viro domino Heinricho Bullingero, amico et fratri suo incomp[arabili].</s>
+				<s n="8" lang="la" state="auto">Tiguri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2814">
+		<alpha>
+			<fn ref="a"><i>Hier und unten Klammern ergänzt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Dieser Datierung liegt nur eine Vermutung zugrunde.</fn>
+			<fn ref="2" meta="1">Vorliegender Brief wurde von Schieß irrtümlich als Beilage zu <persName ref="8055">Blarers</persName> Brief <link fk_file="12861">Nr. 2812</link> angesehen.</fn>
+			<fn ref="3">Vielleicht der in <link fk_file="12861">Nr. 2812</link>,39f, erwähnte "fromme Hauptmann" <persName ref="7693">Michel Berchtold von Nellingen</persName>, zumal dieser auch im Dienste des Hauses <placeName ref="572">Württemberg</placeName> stand.</fn>
+			<fn ref="4">irgendwann; vgl. <bibl>SI</bibl> I 591.</fn>
+			<fn ref="5">als.</fn>
+			<fn ref="6">(böse) Pläne.</fn>
+			<fn ref="7">Vgl. <link fk_file="12865">Nr. 2816</link>,30-37.</fn>
+			<fn ref="8">Viehhändler. - Unbekannt.</fn>
+			<fn ref="9">Gerücht.</fn>
+			<fn ref="10"><placeName ref="1312">Radolfzell</placeName>.</fn>
+			<fn ref="11"><placeName ref="2395">Allensbach</placeName>, am nördlichen Ufer des <entity id="1" type="geo_lake">Bodensees</entity>, zwischen <placeName ref="1312">Radolfzell</placeName> und <placeName ref="457">Konstanz</placeName>.</fn>
+			<fn ref="12">Unbekannt.</fn>
+			<fn ref="13">in <entity id="16" type="geo_country">Italien</entity>.</fn>
+			<fn ref="14"><placeName ref="2448">Luzern, Schwyz, Unterwalden, Uri und Zug</placeName>.</fn>
+			<fn ref="15">denn.</fn>
+			<fn ref="16">Ein "Geheimer"; s. <link fk_file="12849">Nr. 2800</link>, Anm. 14.</fn>
+			<fn ref="17">des güt wissen tragt: gut darüber informiert (ist).</fn>
+			<fn ref="18">die Eidgenossen.</fn>
+			<fn ref="19">fremdes (hier italienisches).</fn>
+		</num>
+	</footnotes>
+</file>

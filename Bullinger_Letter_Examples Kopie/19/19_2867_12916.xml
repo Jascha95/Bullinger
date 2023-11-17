@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12916" id_hbbw="2867" id_irg_sort="2867" id_sort="128670">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12916</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2867</arpa>
+		<scan_pages>
+			<scan id="30241" dir="12916/Autograph/" page="1">00 E_II_359__fol__2813_r_.tif</scan>
+			<scan id="30242" dir="12916/Autograph/" page="2">01 E_II_359__fol__2813_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26380" vf="1" fk_add_type="1">
+				<person id="8018" fk_id="8018">
+					<name>Haller d.J.</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="18" vf="" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26381" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12916">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">30</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19488">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2813</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12341" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2867, S. 462</entry>
+				<page>462</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="33">
+				<lang id="1" iso="de" count="1" p="3.0"/>
+				<lang id="5" iso="la" count="32" p="97.0"/>
+			</sentences>
+			<words count="272">
+				<lang id="1" iso="de" count="6" p="2.2"/>
+				<lang id="5" iso="la" count="266" p="97.8"/>
+			</words>
+			<chars count="1523">
+				<lang id="1" iso="de" count="29" p="1.9"/>
+				<lang id="5" iso="la" count="1494" p="98.1"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2867" page="462">
+		<div ref="1">
+			[1] <persName ref="8354">Georg Frölich</persName> wird alle Neuigkeiten, insbesondere die denkwürdigen Taten des Kurfürsten <persName ref="19065">Johann Friedrich von Sachsen</persName> erzählen. <placeName ref="1976">Augsburgs</placeName> Zukunft ist völlig
+			ungewiss. Die Pfaffen und <persName ref="18538">Kaiser Karl V.</persName> werden erst dann ruhen, wenn sie Christus gekreuzigt haben! Der
+			Herr rette seine Kirche, die jetzt von ihren früheren Stützen bedroht wird!
+		</div>
+		<div ref="2">
+			[2] Bullinger soll <persName ref="8354">Frölich</persName> stärken, damit er nicht die <placeName ref="1976">Augsburger</placeName>
+			Kirche im Stich lässt. Innerhalb eines Monats hat dieser sich sehr verändert! Er wird sich jedoch kaum
+			bestechen lassen haben. Vermutlich verhält er sich anders, um den Pfarrern Mut einzuflößen. Irgendwann aber
+			könnte er die allgegenwärtige Korruption erkennen und jegliche Hoffnung auf Besserung aufgeben.
+			<persName ref="1453">Haller</persName> weiß, wovon er spricht!
+		</div>
+		<div ref="3">
+			[3] Deshalb schreibt auch <persName ref="1860">Michael Keller</persName> [<link fk_file="12914">Nr. 2865</link>].
+			<persName ref="8417">Wolfgang Musculus</persName> versprach
+			ebenfalls zu schreiben. Möge Bullinger aus diesen Briefen erkennen, dass die Pfarrer nicht aus Angst oder
+			grundlos <placeName ref="1976">Augsburg</placeName> verlassen wollen.
+		</div>
+		<div ref="4">
+			[4] <persName ref="1453">Haller</persName> muss abbrechen, denn er erfuhr von <persName ref="8354">Frölichs</persName> Abreise erst,
+			als dieser schon das Pferd besteigen wollte. Er bat ihn, vorliegendes Brieflein abzuwarten und fragte auch
+			<persName ref="1860">Keller</persName> an, kurz zu schreiben. Dieser traut vielen Personen nicht, die von den weit von
+			<placeName ref="1976">Augsburg</placeName> entfernten Zürchern noch geschätzt werden! Eines Tages
+			vielleicht wird <persName ref="1453">Haller</persName> Bullinger alles eröffnen.
+		</div>
+		<div ref="5">
+			[5] Gruß.
+		</div>
+		<div ref="6">
+			[6] Es gelingt ihm kaum, <persName ref="2812">Thoman Ruman</persName> in <placeName ref="1976">Augsburg</placeName> zurückzuhalten.
+			Im nächsten Brief soll Bullinger den Ungeduldigen aufrichten. Wo <persName ref="7197">Hans Wilpert Zoller</persName> steckt, ist ein Rätsel.
+			<persName ref="1453">Hallers</persName> Bruder Wolfgang soll
+			die bereits abgeschriebenen Notizen zu [Bullingers] Predigten über die Apostelgeschichte schicken.
+			<persName ref="1453">Haller</persName> will nach Ostern über dieses Buch zu predigen beginnen. Er
+			zieht in die Wohnung von <persName ref="2336">Bernardino Ochino</persName>, während <persName ref="5341">Sebastian Lepusculus</persName> oder <persName ref="2812">Ruman</persName> seine bisherige Wohnung
+			übernehmen wird.
+		</div>
+		<div ref="7">
+			[7] Gruß an Kollegen und Familie. In Eile.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2867" page="462">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. P.</s>
+				<s n="2" lang="la" state="auto">Quod ad res novas attinet, omnia habebis ex d. <persName ref="8354">Laeto</persName>.<fl>1</fl></s>
+				<s n="3" lang="la" state="auto">Plura enim sunt et scitu memorabilia, quae Saxo<fl>2</fl> agit.</s>
+				<s n="4" lang="la" state="auto">Res nostrae tam sunt incertae, ut in crastinum vix, quid futurum sit, iudicari possit.</s>
+				<s n="5" lang="la" state="auto">Pfaffi cum suo caesare<fl>3</fl> non cessabunt, donec crucifigatur Christus!</s>
+				<s n="6" lang="la" state="auto">Dominus ecclesiae suae succurrat!</s>
+				<s n="7" lang="la" state="auto">Video enim eos, qui ipsius columnae<fl>4</fl> esse aliquando sunt visi, minari ruinam.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="8" lang="la" state="auto">Tu dominum <persName ref="8354">Laetum</persName> conforta et mone, ne ecclesiae causam deserat.</s>
+				<s n="9" lang="la" state="auto">Nescio enim, quam sit intra mensem unum et alterum factus alius,<fl>5</fl> sive muneribus sit lenitus (quod non libenter credo)<fl>a</fl>, sive nos<fl>b</fl><fl>6</fl> consolandi gratia hoc facit.</s>
+				<s n="10" lang="la" state="auto">Videt forsan ita omnia esse corrupta, ut facilis non sit curatio.</s>
+				<s n="11" lang="la" state="auto">Non frustra moneo.<pb_edition start_of="463"/></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="12" lang="la" state="auto">Ideo etiam scribit Cellarius.<fl>7</fl></s>
+				<s n="13" lang="la" state="auto">Scribet aliquando <persName ref="8417">Musculus</persName> etiam (nam promisit)<fl>8</fl>, ne putes nos esse vel meticulosos vel sine causis affectare abitum.<fl>9</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="14" lang="la" state="auto">Non possum nunc plura, nam nescivi ipsum<fl>10</fl> discessurum esse, quam cum iamiam ocreatus<fl>11</fl> vellet conscendere equum.</s>
+				<s n="15" lang="la" state="auto">Rogavi, ut expectet me vel unam lineam scribentem.</s>
+				<s n="16" lang="la" state="auto">Interim Cellarium etiam rogavi, <fl>c</fl>ut scriberet vel unum verbum,<fl>c_2</fl> cui etiam multi sunt suspecti, de quibus vos, quoniam procul estis, bene sentitis.<fl>12</fl></s>
+				<s n="17" lang="la" state="auto">Non libenter scribo multa.</s>
+				<s n="18" lang="la" state="auto">Dicam tamen aliquando, si dominus dederit, ut conveniamus, omnia.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="19" lang="la" state="auto">Vale et ora pro nobis dominum.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="20" lang="la" state="auto"><persName ref="2812" state="auto_name">Romanum</persName><fl>13</fl> vix mecum retineo.</s>
+				<s n="21" lang="la" state="auto">Est aliquantulum impatientior.</s>
+				<s n="22" lang="la" state="auto">Rogo ergo, ut in proximis literis ipsum confortes.</s>
+				<s n="23" lang="de" state="auto">Wo <persName ref="7197">Zoller</persName><fl>14</fl> blib, nimpt mich wunder.</s>
+				<s n="24" lang="la" state="auto">Fratrem meum<fl>15</fl> mone, ut, si quae in Acta descripsit, mittat.</s>
+				<s n="25" lang="la" state="auto">Iam enim post pascha<fl>16</fl> ordiar.</s>
+				<s n="26" lang="la" state="auto">Migro in aedes d. <persName ref="2336">Bernardini</persName>.<fl>17</fl></s>
+				<s n="27" lang="la" state="auto"><persName ref="5341">Lepusculus</persName><fl>18</fl> aut Romanus mihi succedet.<fl>19</fl></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="28" lang="la" state="auto">Vale.</s>
+				<s n="29" lang="la" state="auto">Salvos cupio fratres omnes una cum familia tua.</s>
+				<s n="30" lang="la" state="auto">Festinanter omnino.</s>
+				<s n="31" lang="la" state="auto">30. martii 1547.</s>
+				<s n="32" lang="la" state="auto">I. <persName ref="1453">Hallerus</persName>, perpetuo tuus.<pb_edition start_of="464"/></s>
+			</p>
+			<p>
+				<note>[Adresse auf der Rückseite:]</note>
+				<s n="33" lang="la" state="auto">Clarissimo viro d. Heinrycho Bullingero, fidelissimo Tigurinae ecclesiae antistiti, domino suo plurimum colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2867">
+		<alpha>
+			<fn ref="a"><i>Dieses und das nächste Klammerpaar ergänzt.</i></fn>
+			<fn ref="b"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="c-c"><i>Am Rande nachgetragen.</i></fn>
+			<!-- Splits -->
+			<fn ref="c"><i>Am Rande nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="8354">Georg Frölich</persName>, der vorhatte, bis nach Zürich zu reiten; s. <link fk_file="12914">Nr. 2865</link>,1f. Doch dazu kam es nicht.</fn>
+			<fn ref="2"><persName ref="19065">Johann Friedrich</persName> Ï. von Sachsen. - Anspielung u.a. auf dessen Sieg bei <placeName ref="2396">Rochlitz</placeName>; s. <link fk_file="12881">Nr. 2832</link>, Anm. 35.</fn>
+			<fn ref="3"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="4">Gemeint sind die <placeName ref="1976">Augsburger</placeName> Ratsherren (s. dazu unten Anm. 12), die die Friedensbedingungen des Kaisers akzeptiert hatten; s. <link fk_file="12818">Nr. 2769</link>, Anm. 7.</fn>
+			<fn ref="5">Bis Ende Januar wollte <persName ref="8354">Frölich</persName> <placeName ref="1976">Augsburg</placeName> verlassen und hielt auch die dort wirkenden Zürcher dazu an. Dann aber änderte er seine Haltung; s. <link fk_file="12834">Nr. 2785</link>, Anm. 8; <link fk_file="12836">Nr. 2787</link>,34-40; <link fk_file="12840">Nr. 2791</link>,20-27; <bibl>Kirch, Fugger</bibl> 128.</fn>
+			<fn ref="6">Gemeint sind die <placeName ref="1976">Augsburger</placeName> Pfarrer.</fn>
+			<fn ref="7"><persName ref="1860">Michael Keller</persName>, dessen Brief <link fk_file="12914">Nr. 2865</link> laut vorliegender und der unten in Z. 14-17 gemachten Angabe vermutlich vom 30. und nicht vom 29. März ist. Dass der bettlägerige Keller sich im Datum geirrt haben könnte, ist gut möglich.</fn>
+			<fn ref="8"><persName ref="8417">Wolfgang Musculus</persName>' nächsterhaltener Brief an Bullinger datiert vom 14. Juli 1547 (Zürich StA, E II 359, 2821).</fn>
+			<fn ref="9">Vgl. <link fk_file="12819">Nr. 2770</link>; <link fk_file="12840">Nr. 2791</link>,5-16. 31-37. 48-54; <link fk_file="12870">Nr. 2821</link>,1-8.</fn>
+			<fn ref="10">Gemeint ist <persName ref="8354">Frölich</persName>; s. oben Anm. 1.</fn>
+			<fn ref="11">gestiefelt; s. <bibl>Kirsch</bibl> 1946.</fn>
+			<fn ref="12"><persName ref="1453">Haller</persName> denkt etwa an <persName ref="3927">Hans Welser</persName> und <persName ref="1410">Jakob Herbrot</persName> (s. <link fk_file="12793">Nr. 2744</link>,66-69; Nr. 2754,5; <link fk_file="12835">Nr. 2786</link>,12-16; <link fk_file="12861">Nr. 2812</link>,88-91; <link fk_file="12907">Nr. 2858</link>,6-8) wie auch an <persName ref="2449">Claudius Pius Peutinger</persName> (s. <link fk_file="12914">Nr. 2865</link>, Anm. 12).</fn>
+			<fn ref="13"><persName ref="2812">(Hans) Thoman Ruman (Römer)</persName>.</fn>
+			<fn ref="14"><persName ref="7197">Hans Wilpert Zoller</persName>. - Vgl. <link fk_file="12907">Nr. 2858</link>,3f.</fn>
+			<fn ref="15"><persName ref="1453">Wolfgang Haller</persName>.</fn>
+			<fn ref="16">Im Jahre 1547 fiel der Ostersonntag auf den 10. April. -Zur Angelegenheit s. <link fk_file="12870">Nr. 2821</link>,170-175 und Anm. 116.</fn>
+			<fn ref="17"><persName ref="2336">Bernardino Ochino</persName>. der nach <placeName ref="28">Basel</placeName> geflüchtet war; s. <link fk_file="12835">Nr. 2786</link>, Anm. 14. - Es handelte sich um das sogenannte Wunderhaus bei St. Anna, in dem auch <persName ref="8173">Sixt Birck</persName> und <persName ref="1860">Michael Keller</persName> wohnten; s. <i>Roth, <placeName ref="1976">Augsburg</placeName></i> III 242.</fn>
+			<fn ref="18">Der aus <placeName ref="28">Basel</placeName> herangezogene <persName ref="5341">Sebastian Lepusculus (Häslin)</persName>.</fn>
+			<fn ref="19" type="bio" fk_person="1453"><persName ref="1453">Haller</persName> hatte nach seiner Ankunft in <placeName ref="1976">Augsburg</placeName> zunächst bei <persName ref="8354">Georg Frölich</persName> gewohnt (s. <bibl>HBBW</bibl> XV 647,15-17) und war (vermutlich etwa im Frühjahr 1546) in eine eigene Wohnstätte im Moritzkloster umgezogen (s. <bibl>HBBW</bibl> XVI <i>185,1-9; Bähler, <persName ref="1453">Haller</persName></i> 18, Anm. 68). Bereits im Dezember 1546 hatte er sich eine größere Wohnung gewünscht (s. <bibl>HBBW</bibl> XVIII 364f). - <persName ref="2812">Ruman</persName> und seine Familie wurden wohl nach dem 4. Dezember 1546 im <placeName ref="1976">Augsburger</placeName> Martinskloster am Kesselmarkt untergebracht; s. <bibl>HBBW</bibl> XVIII 286.161f; 308. Anm. 63 (welche dahingehend zu korrigieren ist, dass <persName ref="2812">Ruman</persName> mit seiner Familie vermutlich noch mindestens bis zum 4. Dezember 1546 bei <persName ref="1453">Haller</persName> wohnte).</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12794" id_hbbw="2745" id_irg_sort="2745" id_sort="127450">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12794</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2745</arpa>
+		<scan_pages>
+			<scan id="29907" dir="12794/Autograph (Entwurf)/" page="1">00 E_II_345__fol__363_r_.tif</scan>
+			<scan id="29908" dir="12794/Autograph (Entwurf)/" page="2">01 E_II_345__fol__363_v_.tif</scan>
+			<scan id="29909" dir="12794/Autograph (Entwurf)/" page="3">02 E_II_345__fol__368_r_.tif</scan>
+			<scan id="29910" dir="12794/Autograph (Entwurf)/" page="4">03 E_II_345__fol__368_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26111" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+			<sender id="26112" vf="1" fk_add_type="2">
+				<title id="49" fk_place="">Pfarrer</title>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26113" vf="1" fk_add_type="1">
+				<person id="467" fk_id="467">
+					<name>Bucer</name>
+					<forename>Martin</forename>
+				</person>
+			</addressee>
+			<addressee id="26114" vf="1" fk_add_type="2">
+				<title id="63" fk_place="">Schulherren</title>
+				<place id="492" vf="" fk_id="491" long="7.74553" lat="48.58392">Strassburg</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+			</addressee>
+		</addressees>
+		<date id="12794">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">10</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19357">
+				<doc_type id="5">Autograph (Entwurf)</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 345,363. 368</signature>
+				<note>Autograph mit nachträglichen Korrekturen</note>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9008" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>C.O. XII, S. 462–466, Nr. 872</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="68">
+				<lang id="5" iso="la" count="68" p="100.0"/>
+			</sentences>
+			<words count="1513">
+				<lang id="5" iso="la" count="1513" p="100.0"/>
+			</words>
+			<chars count="9098">
+				<lang id="5" iso="la" count="9098" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2745" page="101">
+		<div ref="1">
+			[1] Die Zürcher haben den Brief ihrer <placeName ref="492">Straßburger</placeName> Kollegen [<bibl>HBBW</bibl>
+			XVIII, <link fk_file="12751">Nr. 2704</link>, vom 6. Dezember 1546] gut empfangen. Aufgrund ihrer vielen
+			Aufgaben kommen sie erst jetzt dazu, ihn zu beantworten.
+		</div>
+		<div ref="2">
+			[2] In ihrem Schreiben haben die <placeName ref="492">Straßburger</placeName> dargelegt, wie sie
+			mit den Zürcher [Studenten], <persName ref="1884">Ludwig Lavater</persName> und <persName ref="4951">Jakob Gessner</persName>,
+			umgegangen sind. Sie baten ferner die Zürcher Pfarrer, ihre Jugendlichen aufzufordern, sich nicht mehr zu
+			weigern, am <placeName ref="492">Straßburger</placeName> Abendmahl teilzunehmen, zumal von ihnen
+			nichts anderes erwartet wird, als dass sie sich an das Basler Glaubensbekenntnis<fl>1</fl> halten, sowie an
+			<persName ref="6040">Paulus</persName>’ Aussage: „Das Brot, das wir brechen, usw.“<fl>2</fl>
+		</div>
+		<div ref="3">
+			[3] Zunächst sollen die <placeName ref="492">Straßburger</placeName> wissen, dass diese
+			Jugendlichen keine Stipendien der Zürcher Kirche erhalten, sondern von ihren Eltern finanziell unterstützt
+			werden. Letztere ermahnten sie, den Glauben, in dem sie aufgewachsen sind, nicht aufzugeben. Denn sollten
+			sie diesen verleugnen, müssten sie sich eine andere Heimat und andere Eltern suchen! Auch die Pfarrer und
+			Lehrer von <placeName ref="587">Zürich</placeName> ermahnten sie in diesem Sinne. Und da jeder
+			Teilnehmer am Abendmahl seinen Glauben bekundet, wurden sie von ihren Pfarrern und Lehrern angehalten, das
+			Abendmahl nicht zusammen mit Menschen zu feiern, von denen sie wüssten, dass sie nicht die
+			Abendmahlsauffassung der Zürcher teilten. Wenn also die Jugendlichen ablehnten, sich in
+			<placeName ref="492">Straßburg</placeName> am Abendmahl zu beteiligen, kann man davon ausgehen,
+			dass man dort diesbezüglich nicht das Gleiche wie in <placeName ref="587">Zürich</placeName>
+			unterrichtet. Deshalb können die Zürcher nicht von ihren Jugendlichen verlangen, ihre Haltung zu ändern.
+		</div>
+		<div ref="4">
+			[4] Würden diese nämlich in <placeName ref="492">Straßburg</placeName> am Abendmahl teilnehmen,
+			würden sie damit bekunden, dass sie die dortige Auffassung über die Sakramente billigen. Oder sollten sie
+			etwa an etwas teilnehmen, woran sie nicht glauben? Und warum sollten ihre Lehrer und Pfarrer sie anhalten,
+			gegen ihre Überzeugung und ihr Gewissen zu handeln? Sie sind ja alt und klug genug, um die
+			Lehrunterschiede<pb_edition start_of="102"/> zwischen <placeName ref="587">Zürich</placeName> und
+			<placeName ref="492">Straßburg</placeName> selbst feststellen zu können!
+		</div>
+		<div ref="5">
+			[5] Anscheinend will man von ihnen nichts anderes verlangen, als sich an <persName ref="6040">Paulus</persName>’ Worte „das Brot, das wir
+			brechen, ist es denn nicht [Gemeinschaft am Leibe Christi?]“ zu halten. Doch liegt der Unterschied zwischen
+			<placeName ref="587">Zürich</placeName> und <placeName ref="492">Straßburg</placeName>
+			präzis in der Auslegung dieser Worte. Ferner setzt die Teilnahme an den Sakramenten Aufrichtigkeit und einen
+			gemeinsamen Glauben mit den anderen Teilnehmenden voraus. Doch lehrt <persName ref="467">Bucer</persName> nicht wie die Zürcher! Ja, er hat
+			sogar seine Meinung diesbezüglich geändert! Die Zürcher verstehen die Worte des Apostels genauso, wie diese
+			während der <placeName ref="41">Berner</placeName> Disputation [von 1528] (eine Disputation, die
+			<persName ref="467">Bucer</persName> selbst unterschrieben hat)<fl>3</fl> ausgelegt und auch von <persName ref="467">Bucer</persName> in seinen Enarrationes [perpetuae in
+			sacra quatuor] Evangelia<fl>4</fl> oder in seinem „Arbogast“<fl>5</fl> dargelegt wurden. Da <persName ref="467">Bucer</persName> aber vor
+			einigen Jahren seine Meinung änderte, um sich der Lehre <persName ref="1974">Luthers</persName> anzuschließen, sind die Zürcher, die noch
+			immer die gleiche Ansicht wie <persName ref="6040">Paulus</persName> vertreten, nicht mehr seiner Auffassung. Mehr dazu braucht hier nicht
+			gesagt zu werden. Die Zürcher denken, dass sie <persName ref="1974">Luther</persName> schon zur Genüge geantwortet haben. Und was dieser
+			hartnäckig über das Abendmahl und über die Zürcher bis zu seinem Tode<fl>6</fl> dachte, ja auch nach der an
+			ihn gerichteten Antwort der Zürcher,<fl>7</fl> kommt in seiner Schrift gegen die Löwener Theologen<fl>8</fl>
+			klar zum Ausdruck: „Art. 15. In der Eucharistie, diesem ehr- und anbetungswürdigen Sakrament, befindet sich
+			der eigentliche Leib und das eigentliche Blut Christi, welche sowohl den Würdigen als auch den Unwürdigen
+			dargeboten und von diesen wahrhaftig aufgenommen werden.“ Dies will <persName ref="1974">Luther</persName> schon seit langem aus 1Kor 10
+			gelernt haben! Er schreibt ferner: „Art. 27. Wir hüten uns sehr vor den Häretikern. So sind die Zwinglianer
+			und alle Sakramentierer (die bestreiten, dass in der ehrwürdigen Eucharistie der Leib und das Blut Christi
+			fleischlich mit dem Mund aufgenommen werden) nicht Teil der Kirche Gottes!“ Soweit <persName ref="1974">Luther</persName>, der sich als
+			orthodoxer und katholischer Doktor der Kirche ausgab.
+		</div>
+		<div ref="6">
+			[6] In ihrem Brief schreiben die <placeName ref="492">Straßburger</placeName>, dass sie den Herrn
+			bitten, die Zürcher zur richtigen Auffassung der <placeName ref="492">Straßburger</placeName> zu
+			führen. Dies bedeutet also, dass die Zürcher nicht die Auffassung des Herrn teilen! Zwischen den Zürchern
+			und den Straßburgern gibt es aber nur eine Kontroverse, jene über die Stelle von <persName ref="6040">Paulus</persName> in 1Kor 10 und über
+			die Worte des Herrn: „Dies ist mein Leib“<fl>9</fl>. Wann immer man den Zürchern die Worte <persName ref="6040">Paulus</persName>’ vorhält,
+			antworten diese, dass sie keines anderen Bekenntnisses bedürfen, als solch eines, das diese Worte enthält;
+			dass es aber offensichtlich sei, dass die <placeName ref="492">Straßburger</placeName> jene Stelle
+			anders als die Zürcher auslegen und demzufolge nicht das Gleiche bekennen. Wie sollten also die Zürcher ihre
+			Landsleute anhalten, im Glauben an die Worte des Apostels gemeinsam mit den Straßburgern am Abendmahl
+			teilzunehmen, wo doch <persName ref="467">Bucer</persName> diese Worte ganz anders als die Zürcher deutet? Beim Feiern eines Sakramentes
+			(eine Handlung, die Ausdruck des Glaubensbekenntnisses eines jeden ist) darf man doch nicht irgendetwas
+			vortäuschen oder verbergen; umso mehr, als (laut <persName ref="1974">Luthers</persName> Meinung) die Zürcher nicht einmal als Glieder
+			Christi angesehen werden dürften! Wenn also die <placeName ref="492">Straßburger</placeName> einen
+			Zürcher am Abendmahl<pb_edition start_of="103"/> teilnehmen ließen, würden sie sich entweder gegen <persName ref="1974">Luthers</persName>
+			Meinung stellen oder inkonsequent handeln.
+		</div>
+		<div ref="7">
+			[7] Nun zum Basler Glaubensbekenntnis. Die Kirchen Helvetiens hatten damals vor, ein Glaubensbekenntnis zu
+			verfassen, um denjenigen, die es verlangen würden, Rechenschaft über ihren Glauben ablegen zu
+			können.<fl>10</fl> So wurden auf Geheiß der helvetischen Behörden Ratsherren und Pfarrer zu einer Synode
+			nach <placeName ref="28">Basel</placeName> entsandt. Diese machte sich alsbald an die Arbeit und
+			hatte schon den größten Teil des Glaubensbekenntnisses verfasst, als
+			<persName ref="5565">Wolfgang Capito</persName> und <persName ref="467">Bucer</persName> in
+			<placeName ref="28">Basel</placeName> eintrafen und den Lauf der Arbeit unterbrachen. Letztere
+			machten den Gesandten große Hoffnung auf eine Einigung mit <persName ref="1974">Luther</persName>. Im Abendmahlsartikel schlugen sie vor,
+			einige Stellen zu streichen, weitere zu ändern und empfahlen dabei auch den Gebrauch bestimmter Wörter.
+			Nachdem man sich länger als einen Tag darüber gestritten hatte, entschloss man sich angesichts einer
+			möglichen Einigung mit <persName ref="1974">Luther</persName>, diese von <persName ref="467">Bucer</persName> vorgeschlagenen Wörter zu gebrauchen, jedoch unter der
+			Bedingung, dass die helvetischen Kirchen durch den Gebrauch dieser Wörter keineswegs zu etwas verpflichtet
+			würden und sie weiterhin das Recht hätten, diese Wörter in ihrem Sinne auszulegen. <persName ref="467">Bucer</persName> versicherte damals
+			auch, dass diese Änderungen nicht unternommen wurden, um die helvetischen Kirchen von ihrer
+			<placeName ref="41">Berner</placeName> Disputation oder von ihrem schon längst bekundeten
+			Abendmahlsverständnis abzubringen und sie zum Lutheranismus zu führen, sondern nur um der Einheit willen, da
+			diese Redewendungen geeignet seien, die sehr erbitterten Gemüter der Gegner zu bezaubern. Dies kann <persName ref="467">Bucer</persName>
+			selbst bestätigen. Auch die Akten dieses Treffens bezeugen dies.
+		</div>
+		<div ref="8">
+			[8] Man weiß seitdem, dass der Gebrauch dieser Wörter völlig vergebens war. Damit aber verloren die
+			helvetischen Kirchen längst nicht das Recht, diese Wörter so zu deuten, wie sie es mit ihrer Lehre
+			verantworten können. Es ergibt also keinen Sinn, nun den helvetischen Kirchen die Worte des Basler
+			Bekenntnisses vorzuhalten. Wenn jemand ihnen daher eine Meinung aufzudringen versucht, die nicht ihrem
+			Verständnis dieses Bekenntnisses entspricht, wird er umgehend abgewiesen. Am Abendmahl teilzunehmen unter
+			dem Zeichen des Basler Bekenntnisses bedeutet also für die helvetischen Kirchen nichts anderes, als an
+			diesem mit dem in der letzten Antwort an <persName ref="1974">Luther</persName><fl>11</fl> dargelegten Glauben teilzunehmen! Demnach ist es
+			den Zürchern nicht möglich, gemeinsam mit Lutheranern das Abendmahl zu feiern.
+		</div>
+		<div ref="9">
+			[9] Doch durch ihre Enthaltung vom <placeName ref="492">Straßburger</placeName> Abendmahl drücken
+			die Zürcher keineswegs eine etwaige Verachtung der dortigen Kirche aus, genauso wie sie nie jemanden
+			verachtet haben, der nicht an ihrem Abendmahl teilgenommen hat. Weder haben sie irgendjemanden dazu
+			gezwungen, noch haben sie versucht, ihn davon abzuhalten.
+		</div>
+		<div ref="10">
+			[10] Mögen doch die <placeName ref="492">Straßburger</placeName> den jungen Zürchern eine
+			ungestörte Ausübung ihres Glaubens gestatten und nicht weiter probieren, diese zu etwas zu zwingen, das sie
+			mit ihrem Gewissen und Glauben nicht verantworten können! Die
+			<placeName ref="492">Straßburger</placeName> Schule und die darin ausgeübte Disziplin gefallen den
+			Zürchern. Auch sind ihnen die <placeName ref="492">Straßburger</placeName> lieb. Deshalb würden
+			sie es gerne sehen, wenn auch künftig Zürcher für eine Zeit in
+			<placeName ref="492">Straßburg</placeName> leben dürften.
+		</div>
+		<div ref="11">
+			[11] Sollten aber die <placeName ref="492">Straßburger</placeName> der Meinung sein, dass durch
+			vorliegendes Gesuch ihre Kirche in Verruf geraten oder gar zu Schaden kommen könnte, würden die Zürcher
+			nicht nur keine weiteren Studenten nach <placeName ref="492">Straßburg</placeName> entsenden,
+			sondern würden zudem die Eltern der sich jetzt in <placeName ref="492">Straßburg</placeName>
+			aufhaltenden Jugendlichen diese sogleich abberufen. Anders handeln können die Zürcher nicht! Sie wissen, an
+			wen sie glauben, und gestärkt durch Gott hegen sie keinen Zweifel an ihrer Auffassung. Auch wollen sie nicht
+			wissentlich gegen den Herrn sündigen. Die <placeName ref="492">Straßburger</placeName> möchten
+			also den Zürchern weiterhin wohlgesinnt bleiben und mit diesen Frieden halten, bis der Herr es soweit führt,
+			dass es in der Abendmahlsangelegenheit zu einer einfacheren und reineren Lehrweise kommt!
+		</div>
+		<div ref="12">
+			[12] Abschließend noch das Wichtigste: Die Zürcher bedanken sich bei den Straßburgern für die ihnen bis
+			dahin erwiesene Treue, Beflissenheit und Fürsorge. Der Herr wird sie dafür belohnen. Im Gegenzug versprechen
+			auch die Zürcher ihre Treue und Beflissenheit. Den Straßburgern werden sie sich behilflich erweisen, sollte
+			sich eine Gelegenheit dazu bieten.
+		</div>
+		<div ref="13">
+			[13] Die Zeiten sind hart, wie es die <placeName ref="492">Straßburger</placeName> bereits in
+			ihrem Brief betont haben. Die Sünden der Gläubigen würden jedoch noch Schlimmeres erfordern! Deshalb sollten
+			<placeName ref="492">Straßburger</placeName> und Zürcher<pb_edition start_of="104"/> ihre
+			jeweiligen Gemeinden zur Buße aufrufen. Durch die [gegenwärtige] Plage werden die Gläubigen von den
+			Ungläubigen aussortiert und erprobt. Deshalb gilt es, sich ganz dem Herrn zu ergeben und diesen zu bitten,
+			die Seinen nicht zu verlassen. Die Wahrheit wird schließlich siegen, auch wenn die Welt die
+			Wahrheitsbekenner besiegen würde, denn Gottes Gericht rückt näher!
+		</div>
+		<div ref="14">
+			[14] Die <placeName ref="492">Straßburger</placeName> mögen sich standhaft gegen den Antichristen
+			erweisen! Grüße in Christus.<fl>12</fl>
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2745" page="101">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Domino <persName ref="467">Martino Bucero</persName> et scholarchis <placeName ref="492">Argentoratensibus</placeName>.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="2" lang="la" state="auto">S. D.</s>
+				<s n="3" lang="la" state="auto">Redditae sunt nobis literae vestrae, fratres in domino colendi atque dilecti, ad quas propter negotia nostra serius respondemus.</s>
+				<s n="4" lang="la" state="auto">Exposuistis in iis copiose, quid actum sit cum iuvenibus nostris <persName ref="1884">Ludevicho Lavatero</persName> et <persName ref="4951">Iacobo Gessnero</persName>; praecipue vero postulatis, ut ipsis simus authores, ne communicare vobiscum sacramentis in domino detrectent, cum nihil ab illis prorsus quam confessionem nostram Basiliensem requiratis, imo Paulinam tantum illam: "Panem quem frangimus" [1. Kor. 10, 16] etc.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="5" lang="la" state="auto">De iuvenibus ita habete, fratres.</s>
+				<s n="6" lang="la" state="auto">Non aluntur hi ecclesiae stipendio sed sumptibus parentum, qui his, dum peregre proficiscerentur, in mandatis dederunt ut eam fidem fideique professionem, qua tunc instructi et confirmati abibant, redeuntes reportarent, aut ut redeuntes et aliam fidem profitentes alias quoque sibi ędes et alios parentes quaererent.</s>
+				<s n="7" lang="la" state="auto">Ad nos quoque illos ipsos valedicentes nobis pro officio nostro tanquam pastores et praeceptores adhortati sumus, ut in ea fide, quam didicerunt a primis annis in ecclesia nostra, quam denique deo inspirante sancti parentes ipsis instillarunt, perseverent, et quoniam communicatione sacramentorum palam profitemur fidem nostram, admonuimus illos diligenter, ne cum illis communicent, quibus non eandem nobiscum in dogmatibus et sacramentis doctrinam et fidem esse intelligant.</s>
+				<s n="8" lang="la" state="auto">Iam quia illi hucusque vobiscum communicare detrectarunt, facile colligimus illos intelligere, non eandem esse doctrinam de coena domini, quam <placeName ref="587">Tiguri</placeName> didicerunt et hauserunt a parentibus et a nobis doctoribus suis et quam <placeName ref="492">Argentorati</placeName> audiunt praedicari.</s>
+				<s n="9" lang="la" state="auto">Proinde, ut candide agamus et simpliciter, non possumus illis authores esse ut istud modo faciant, quod ne facerent parentes ipsorum authores, et nos quoque suasores fuimus.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="10" lang="la" state="auto">Qui sacramentis vobiscum communicant ipsa communicatione profitentur, se eandem vobiscum habere de sacramentis fidem.</s>
+				<s n="11" lang="la" state="auto">Atqui iuvenes nostri non eandem vobiscum fidem habent; cur ergo opere profiterentur foris quod intus in animo non sentiunt?</s>
+				<s n="12" lang="la" state="auto">Aut cur nos iuberemus illos contra animi sententiam et propriam conscientiam facere<fl>a</fl>?</s>
+				<s n="13" lang="la" state="auto">Habent isti iustae aetatis annos, utuntur ratione sana, intelligunt quid utrobique doceatur publice.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="14" lang="la" state="auto">Caeterum nihil ab illis requiritur quam confessione Paulina: "Panis quem frangimus nonne est" [1Kor 10, 16] etc.</s>
+				<s n="15" lang="la" state="auto"><pb_scan n="363v."/>Verum audite, fratres, non de verbis <persName ref="6040">Pauli</persName>, sed de sensu verborum <persName ref="6040">Pauli</persName> est nobis controversia.</s>
+				<s n="16" lang="la" state="auto">Et fidelis sacramentorum perceptio requirit veritatem et ingenuam eandemque confessionem, simulationem repellit.</s>
+				<s n="17" lang="la" state="auto">Non idem est d. <persName ref="467">Bucero</persName> et nobis de eo <persName ref="6040">Pauli</persName> loco iudicium, non eadem sententia; imo conveniret nobis egregie cum <persName ref="467">Bucero</persName>, si ipse a semetipso non dissentiret.</s>
+				<s n="18" lang="la" state="auto">Ita enim de eo loco et de sensu verborum <persName ref="6040">Pauli</persName> sentimus sicut expositum est primum quidem in disputatione Bernensi, cui ille subscripsit, deinde in enarrationibus Evang[eliarum] d. <persName ref="467">Buceri</persName><fl>13</fl>, postremo et in Arbogasto<fl>b</fl> eiusdem.</s>
+				<s n="19" lang="la" state="auto">Id vero doctrinae genus cum ille mutarit, et d. Luthero beatae memoriae diversum sentienti accesserit ante annos aliquot, ideoque a se ipso discesserit, diversum ab ipsis sentimus, sed non diversum a S. <persName ref="6040">Paulo</persName>.</s>
+				<s n="20" lang="la" state="auto">De qua re in praesenti copiosius disputare nolumus.</s>
+				<s n="21" lang="la" state="auto">Abunde satis ea de re responsum esse arbitramur d. Luthero, qui quid de coena domini in finem usque tenuerit mordicus, quid denique de nobis senserit, etiam post responsionem nostram<fl>14</fl>, paulo antequam e vivis excederet, hisce verbis contra Lovanienses scripto<fl>15</fl> publico testatus est: "15. In eucharistia, sacramento venerabili et adorabili, est et exhibetur et sumitur vere et re ipsa corpus et sanguis Christi, tam a dignis quam indignis."</s>
+				<s n="22" lang="la" state="auto">Id vero libris ante diu aeditis scripsit se didicisse ex verbis apostoli 1. Cor. 10 [16].</s>
+				<s n="23" lang="la" state="auto">Idem mox propositione "27: Hęreticos serio censemus," ait, "et alienos ab ecclesia dei esse Zvinglianos et omnes sacramentarios, qui negant corpus et sanguinem Christi ore carnali sumi in venerabili eucharistia."</s>
+				<s n="24" lang="la" state="auto">Haec ille, qui praedicatur orthodoxus et catholicus esse ecclesiae doctor.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="25" lang="la" state="auto">Nobis vero vos ipsi imprecamini in hac vestra ad nos scripta epistola, ut dominus de locis controversis de ecclesiis certis et ministris earundem, eandem vobiscum et suam quidem sententiam inspiret.</s>
+				<s n="26" lang="la" state="auto">Quod quidem aliter intelligere non possumus, quam quod nos non suam, id est dominicam, sed alienam et diversam quoque a vestra teneamus sententiam.</s>
+				<s n="27" lang="la" state="auto">Neque enim de aliis locis nobis controversia est, quam de loco <persName ref="6040">Pauli</persName> 1. Cor. 10 [16f] de verbis domini: "Hoc est corpus meum" [1Kor 11, 24] etc.</s>
+				<s n="28" lang="la" state="auto">Utcunque ergo obiiciantur nobis verba <persName ref="6040">Pauli</persName>, utcunque dicatur a nostris, non aliam requiri confessionem quam Paulinis illis verbis comprehensam, manifestissimum tamen est, cum non idem utriusque sit verborum sensus, neque eandem esse confessionem.</s>
+				<s n="29" lang="la" state="auto">Quomodo itaque nostratibus authores esse possumus sub fide verborum <persName ref="6040">Pauli</persName> vobiscum communicandi, cum verba <persName ref="6040">Pauli</persName> <persName ref="467">Bucerus</persName> suo more, nos vero aliter intelligamus?</s>
+				<s n="30" lang="la" state="auto">Interim non licet in celebratione sacramentorum, quod mysteria et professionem fidei attinet, quicquam vel simulare<pb_scan n="368r."/> vel dissimulare: ut iam non commemoremus, eos qui Luthero subscripserunt nos non posse pro membris Christi agnoscere, aut, si agnoscunt, Lutheri iudicium hac in re refutare, adeoque et sibi ipsis repugnare.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="31" lang="la" state="auto">De confessione Basiliensi ita habet negotium, fratres.</s>
+				<s n="32" lang="la" state="auto">Coierunt <placeName ref="28">Basileae</placeName> in synodum ecclesiae Helveticae, missis legatis ex senatoribus et ministris: Institutum erat confessionem fidei conscribere, quam exhiberemus rationem fidei a nobis poscentibus.</s>
+				<s n="33" lang="la" state="auto">Eius rei gratia iubentibus senatoribus consederant ministri, et iamiam bona parte confessionem absolverant, cum felicis memoriae d. Capito et d. <persName ref="467">Bucerus</persName> interveniunt, cursum nostrum interrumpunt, de concordia cum Luthero et suis magnam spem faciunt, sed et verba quaedam in causa coenae suggerunt, quae d. Lutherum minus offendere posse dicebant, ideoque quaedam nostra expungere, sua illa ascribere inserereque suadebant; de quibus, cum amplius quam per integrum diem altercatum esset, convenit tandem, ut sub spe concordiae uteremur (a d. <persName ref="467">Bucero</persName>) suggestis vocibus, ita tamen ut illis minime astricti ipsas libere et diserte pro ratione religionis et receptae doctrinae nostrae interpretari liceret.</s>
+				<s n="34" lang="la" state="auto">Non enim hoc agi asseverabat <persName ref="467">Bucerus</persName>, ut nos a disputatis Bernae et iam dudum recepta sententia de coena ad Lutheranismum abstraheremur, sed ut per omnia in illis nostris perseverantes tantummodo et in causa concordiae illis uteremur, utpote magis idoneis ad illiciendum mentes adversariorum alioqui exasperatissimas.</s>
+				<s n="35" lang="la" state="auto">Modo tantum hoc agi ut animi reconcilientur; quod ubi factum fuerit, spem esse Lutheranos rectius de doctrina nostra iudicaturos.</s>
+				<s n="36" lang="la" state="auto">Haec ita peracta esse novit d. <persName ref="467">Bucerus</persName>.</s>
+				<s n="37" lang="la" state="auto">Testantur et acta comitiorum.</s>
+				<s n="38" lang="la" state="auto">Caeterum cum voces illae sub spe concordiae a nobis admissae sint, spes autem illa fefellerit, prorsus abierunt haud dubie et illae voces in spongiam, aut certe nobis usurpatae in ecclesiis nostris doctrinae fraudi non erunt.</s>
+				<s n="39" lang="la" state="auto">Nam apud eos haud dubie erit ius interpretandi, qui ab initio illas voces non aliter receperunt, quam ut pro ratione receptae doctrinae in ecclesiis Helveticis explicarentur.</s>
+				<s n="40" lang="la" state="auto">Frustra itaque obiicitur nobis Basiliensis confessio, nisi simul et ea concedatur expositio, quae doctrinae ab initio reformationis et hucusque in ecclesiis nostris retentae sit per omnia conformis.</s>
+				<s n="41" lang="la" state="auto">Nam si quis pergeret suum aut alienum huic confessioni indere sensum, neutiquam reciperetur a nobis.</s>
+				<s n="42" lang="la" state="auto">Itaque communicare sub fide confessionis Basiliensis aliud non erit, quam sub ea fide communicare quam professi sumus in ultima ad Lutheri conresponsione<pb_scan n="368v."/>.</s>
+				<s n="43" lang="la" state="manual">Ea vero cum minime congruat cum ea fide, quae de coena domini secundum Lutheri placita traditur, communicare certe cum Lutheranis nostri non possunt, nisi libeat aliud in animo credere et aliud foris celebratione sacramentorum profiteri.</s>
+				<s n="44" lang="la" state="auto">Id quod ut faciant nostris authores esse non possumus.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="45" lang="la" state="auto">Hac autem abstentione nostra neque vos, fratres, neque ecclesiam vestram contemnimus, neque unquam iudicavimus ad ecclesiae nostrae contemptum pertinere, si qui hospites nobiscum non communicarunt.</s>
+				<s n="46" lang="la" state="auto">Nec quenquam ex hospitibus unquam compulimus contra conscientiam et fidei suae professionem communicare nobiscum, sua sponte vero accedentem nullum unquam repulimus.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="47" lang="la" state="auto">Permittite itaque, rogamus, iuvenibus nostris, ut sua fide apud vos tranquille fruantur, et ne adigantur facere, quod cum ipsorum conscientia et fide pugnat.</s>
+				<s n="48" lang="la" state="auto">Placet enim alioqui nobis schola vestra, placet disciplina, et amamus vos atque vestros, cupimusque nostros vobiscum versari ad tempus.</s>
+				<s n="49" lang="la" state="auto">Id quod non tantum de duobus illis nostris dictum volumus intelligi, sed de caeteris quoque, quos deo volente posthac missuri sumus.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="50" lang="la" state="auto">Caeterum si putaveritis hanc nostram postulationem tendere ad insignem ecclesiae vestrae offensionem aut labefactionem, non tantum nullos porro mittemus, sed et illos duos, qui iam apud vos agunt, non gravabuntur revocare parentes ipsorum.</s>
+				<s n="51" lang="la" state="auto">Aliter agere non possumus, fratres.</s>
+				<s n="52" lang="la" state="auto">Scimus enim cui credidimus, neque de sententia nostra, purgata utique et simplici, quicquam, deo nos confirmante dubitamus.</s>
+				<s n="53" lang="la" state="auto">Scimus quanta nos integritate uti oporteat coram deo et ecclesia eius, praesertim in fidei professione; unde pro virili nostra operam damus, ne quid hic scientes peccemus contra dominum.</s>
+				<s n="54" lang="la" state="auto">Oramus vestram humanitatem ut haec nostra, non amaris profecta animis, aequis mentibus accipiatis, et hactenus pacem habeatis nobiscum, donec dominus dederit videre quinam simplicius et purgatius docendi genus hac in causa sequantur.</s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="55" lang="la" state="auto">Quod autem primo factum oportuerat postremo loco facimus.</s>
+				<s n="56" lang="la" state="auto">Agimus vestrae humanitati gratias maximas pro fide, diligentia et cura nostris impensa.</s>
+				<s n="57" lang="la" state="auto">Dominus liberalissimus omnium bonorum remunerator rependat vobis praemia amplissima.</s>
+				<s n="58" lang="la" state="auto">Nos quoque pollicemur vobis omnem nostram fidem et diligentiam, si quando in similibus aut aliis negotiis gratificari vobis possumus, operaque nostra indigueritis.</s>
+				<s n="59" lang="la" state="auto">Gravia sane et afflictissima (uti vere scribitis) sunt tempora; sed graviora merentur peccata nostra.</s>
+				<s n="60" lang="la" state="auto">In hoc ergo simus fratres ut ecclesiae nostrae fidei commissae ad perpetuam et christianam revocentur poenitentiam.</s>
+				<s n="61" lang="la" state="auto">Non repellet dominus plebem suam, utcunque flagellet acriter.</s>
+				<s n="62" lang="la" state="auto">Oportet enim aurum igni probari, oportet nos cribrari, oportet nos confiteri nomen domini vel in tormentis.</s>
+				<s n="63" lang="la" state="auto">Offeramus itaque nos et nostra omnia domino.</s>
+				<s n="64" lang="la" state="auto">Oremus iugiter ne usquam ille nobis desit sine quo nihil possumus.</s>
+				<s n="65" lang="la" state="auto">Vincet tandem veritas, etiam devictis in hoc saeculo veritatis confessoribus.</s>
+				<s n="66" lang="la" state="auto">Nam appropinquat domini iuditium.</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="67" lang="la" state="auto">Agite ergo viriliter contra Antichristum et valete in Christo, fratres et domini honorandi et dilecti.</s>
+			</p>
+		</div>
+		<div ref_regest="13">
+			<p>
+				<s n="68" lang="la" state="auto"><placeName ref="587">Tiguri</placeName>, 10. ianuarii 1547.</s>
+			</p>
+		</div>
+		<div ref_regest="14">
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse, bzw. am Briefanfang]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2745">
+		<alpha>
+			<fn ref="a"><i>Von</i> Qui sacramentis <i>bis</i> facere <i>nachgetragen für gestrichenes</i> Certe apostolus <persName ref="6040">Paulus</persName>: "Probet se ipsum homo" inquit, "et sic de pane edat et de poculo bibat" [1Kor 11, 28]. Probant se isti et illam fidem non inveniunt intra se quam <placeName ref="492">Argentinae</placeName> requiri a coenantibus audiunt.</fn>
+			<fn ref="b"><i>Vorlage:</i> Arbogaste. - Welches Werk?</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Gemeint ist das Erste Helvetische Bekenntnis von Februar 1536.</fn>
+			<fn ref="2">1Kor 10, 16.</fn>
+			<fn ref="3">"Die Handlung oder Acta gehaltner Disputation zu Bernn in Uchtland" wurde 1528 sogar in Straßburg gedruckt <i>(Bucer Bibl.</i> Nr. 29; <i>VD16</i> H502).</fn>
+			<fn ref="4">Gemeint ist die Straßburger Erstausgabe dieses Kommentars von 1530 <i>(Bucer Bibl.</i> Nr. 39; <i>VD16</i> B8872). In der 1536 erschienenen Ausgabe dieses Werks <i>(Bucer Bibl</i> Nr. 77; <i>VD16</i> B8873) widerrief nämlich Bucer seine frühere Meinung über das Abendmahl.</fn>
+			<fn ref="5">Anspielung auf den von Bucer verfassten Dialog: Vergleichung D. Luthers unnd seins gegentheyls vom Abentmal Christi, Straßburg 1528 <i>(Bucer Bibl</i> Nr. 33f; <i>VD16</i> B8933f), in dem der Gesprächspartner, der sich Luthers Meinung widersetzte, Arbogast heißt.</fn>
+			<fn ref="6">18. Februar 1546.</fn>
+			<fn ref="7">Das "Warhaffte Bekanntnuß" bzw. die "Orthodoxa Tigurinae ecclesiae ministrorum confessio" von März 1545; s. dazu <bibl>HBBW</bibl> XV Reg.</fn>
+			<fn ref="8">Contra 32 articulos Lovaniensium theologistarum, Wittenberg, September 1545; s. dazu <bibl>HBBW</bibl> XVI 83. Anm. 8 (dort ist die falsche Angabe <i>VD16</i> L4259 in L4254 zu korrigieren).</fn>
+			<fn ref="9">Mt 26, 26 par.; 1Kor 11, 24.</fn>
+			<fn ref="10">Vgl. 1Petr 3, 15.</fn>
+			<fn ref="11">Im "Warhafften Bekanntnuß".</fn>
+			<fn ref="12">Zum Schicksal dieses Briefes S. <link fk_file="12878">Nr. 2829</link>,48-62.</fn>
+			<fn ref="13">Enarrationes perpetuae in sacra quatuor evangelia, <placeName ref="492">Straßburg</placeName> 1530, Basel 1536 (Stupperich, Biliographia Bucerana 28, 28a).</fn>
+			<fn ref="14">Warhaffte Bekanntnuß der dieneren der kilchen zuͦ Zürych/"Orthodoxa Tigurinae ecclesiae confessio", <placeName ref="587">Zürich</placeName> 1545 (<bibl>HBBibl</bibl> I 161-163, 167f).</fn>
+			<fn ref="15">Luther, Contra XXXII articulos Lovaniensium theologistarum, 1545 (<bibl>WA</bibl> LIV 425-430).</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2745" page="101"/>
+			<footnotes fk_bibliography="22" nr="2745">
+				<alpha/>
+				<num>
+					<fn ref="1">Gemeint ist das Erste Helvetische Bekenntnis von Februar 1536.</fn>
+					<fn ref="2">1Kor 10, 16.</fn>
+					<fn ref="3">"Die Handlung oder Acta gehaltner Disputation zu Bernn in Uchtland" wurde 1528 sogar in Straßburg gedruckt <i>(Bucer Bibl.</i> Nr. 29; <i>VD16</i> H502).</fn>
+					<fn ref="4">Gemeint ist die Straßburger Erstausgabe dieses Kommentars von 1530 <i>(Bucer Bibl.</i> Nr. 39; <i>VD16</i> B8872). In der 1536 erschienenen Ausgabe dieses Werks <i>(Bucer Bibl</i> Nr. 77; <i>VD16</i> B8873) widerrief nämlich Bucer seine frühere Meinung über das Abendmahl.</fn>
+					<fn ref="5">Anspielung auf den von Bucer verfassten Dialog: Vergleichung D. Luthers unnd seins gegentheyls vom Abentmal Christi, Straßburg 1528 <i>(Bucer Bibl</i> Nr. 33f; <i>VD16</i> B8933f), in dem der Gesprächspartner, der sich Luthers Meinung widersetzte, Arbogast heißt.</fn>
+					<fn ref="6">18. Februar 1546.</fn>
+					<fn ref="7">Das "Warhaffte Bekanntnuß" bzw. die "Orthodoxa Tigurinae ecclesiae ministrorum confessio" von März 1545; s. dazu <bibl>HBBW</bibl> XV Reg.</fn>
+					<fn ref="8">Contra 32 articulos Lovaniensium theologistarum, Wittenberg, September 1545; s. dazu <bibl>HBBW</bibl> XVI 83. Anm. 8 (dort ist die falsche Angabe <i>VD16</i> L4259 in L4254 zu korrigieren).</fn>
+					<fn ref="9">Mt 26, 26 par.; 1Kor 11, 24.</fn>
+					<fn ref="10">Vgl. 1Petr 3, 15.</fn>
+					<fn ref="11">Im "Warhafften Bekanntnuß".</fn>
+					<fn ref="12">Zum Schicksal dieses Briefes S. <link fk_file="12878">Nr. 2829</link>,48-62.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

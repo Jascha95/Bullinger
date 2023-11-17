@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11375" id_hbbw="1332" id_irg_sort="1332" id_sort="113320">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11375</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1332</arpa>
+		<scan_pages>
+			<scan id="26434" dir="11375/Original/" page="1">00 E_II_337__fol__309_r_.tif</scan>
+			<scan id="26435" dir="11375/Original/" page="2">01 E_II_337__fol__309_v_.tif</scan>
+			<scan id="26436" dir="11375/Original/" page="3">02 E_II_337__fol__310_r_.tif</scan>
+			<scan id="26437" dir="11375/Original/" page="4">03 E_II_337__fol__310_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23092" vf="1" fk_add_type="1">
+				<person id="1365" fk_id="1365">
+					<name>Grynäus</name>
+					<forename>Simon</forename>
+				</person>
+				<place id="28" vf="" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23093" vf="1" fk_add_type="2">
+				<title id="49" fk_place="">Pfarrer</title>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</addressee>
+		</addressees>
+		<date id="11375">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">11</month>
+				<day fk_d="" d="" vf="1" fn="">15</day>
+			</min>
+			<max fk_d="0" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">12</month>
+				<day fk_d="" d="" vf="1" fn="">15</day>
+			</max>
+		</date>
+		<documents>
+			<document id="17846">
+				<doc_type id="1">Original</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 337,309r.-310v.</signature>
+				<author>Oporin, Johannes</author>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7492" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>F[riedrich] R</entry>
+			</print>
+			<print id="11136" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1332, S. 253</entry>
+				<page>253</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="46">
+				<lang id="5" iso="la" count="46" p="100.0"/>
+			</sentences>
+			<words count="787">
+				<lang id="5" iso="la" count="787" p="100.0"/>
+			</words>
+			<chars count="4279">
+				<lang id="5" iso="la" count="4279" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1332" page="253">
+		<div ref="1">
+			Die Universität verlangt von ihm, den Doktorgrad zu erwerben, obwohl er schon seit Jahren ordnungsgemäß
+			berufener Lehrer ist, und droht ihm mit Entlassung, wobei gewisse Gegner bereits darauf warten, ihn zu
+			beerben. Er selbst möchte am liebsten <placeName ref="28">Basel</placeName> verlassen und den
+			Schaden sowie die Entfremdung seiner Frau <persName ref="5044">[Katharina Lompart]</persName> von
+			ihrer Heimat in Kauf nehmen, wenn auch offen ist, wer ihn aufnehmen würde. Daß durch das neue Gesetz allen
+			Professoren die Annahme [akademischer] Titel vorgeschrieben wird und daß alle Theologen - auch außerhalb
+			ihrer schulischen Tätigkeit - der Universität verpflichtet werden, hält er für unannehmbar; wenn er
+			nachgäbe, würde dies ein schlechtes Licht auf ihn werfen und sein Verhältnis zu
+			[<persName ref="4349">Karlstadt</persName>] kaum erträglicher machen, während umgekehrt sein Weggang
+			die Freiheit der Kirche langfristig stärken könnte; ein Nachgeben würde hingegen den Druck auf seine
+			Kollegen erhöhen und sein Gewissen verletzen. Die <placeName ref="492">Straßburger</placeName>
+			können bezeugen, daß er sowohl einen Titel angenommen als auch die verstärkte Schulung der Pfarrer
+			befürwortet hätte, wenn die Rechte der Kirche gewahrt geblieben wären, nun aber ist anders entschieden
+			worden; mit seinem Abgang würde er zwar das Feld seinen Gegnern überlassen, doch hat er ohnehin kaum noch
+			Einfluß. Da ihm die Meinung der Nachbarkirchen wichtig ist, geht diese Anfrage auch an die
+			<placeName ref="41">Berner</placeName> und <placeName ref="492">Straßburger</placeName>
+			[Pfarrer]; er hofft auf ihre Hilfe, damit ihm die Entscheidung zwischen Unterwerfung und Weggang erspart
+			bleibt, oder wenigstens auf ihren Rat, und bittet sie, ihre Antwort kollektiv an die Basler Theologen zu
+			richten. Sein Brief soll vertraulich bleiben.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1332" page="253">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Imperat schola nostra, doctor<fl>b</fl> ut<fl>c</fl> fiam<fl>2</fl>, id scilicet, quod tot iam annis authoritate publica et vocatione ecclesię legitima fui et quo pertractus invitus ab ipsis sum<fl>d</fl><fl>3</fl>.</s>
+				<s n="3" lang="la" state="auto">Haec autem postulatio non solum illo nomine iniqua<pb_edition start_of="254"/> est, sed hoc est magis, quod, nisi pareo, omni hic loco professioneque excludar.</s>
+			</p>
+			<p>
+				<s n="4" lang="la" state="auto">Et sat compertum habeo eos, qui id urgent maxime, ut doctor fiam, cupere maxime, ut ne fiam, non tam ut hinc eiiciar ego, quam ut ipsi rerum potiantur.</s>
+				<s n="5" lang="la" state="auto">Scio haec et non fallor animo.</s>
+				<s n="6" lang="la" state="auto">Nihil enim est reliquum, quam ut me pulso regnum hic occupent quidam<fl>e</fl>.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">De re sum dubius, quid faciam, de me non sum.</s>
+				<s n="8" lang="la" state="auto">Dudum me et res<fl>f</fl> et scholae facies et ingratitudo hominum discedere hortatur.</s>
+				<s n="9" lang="la" state="auto">Et quanquam iacturam rerum non levem facio et uxorem<fl>4</fl> extra patriam abduco, tamen ad eam rem omnia constituta, et ipsam etiam deo gratia obsequentissimam habeo.</s>
+				<s n="10" lang="la" state="auto">Itaque in me non est ulla mora.</s>
+				<s n="11" lang="la" state="auto">Qui me porro locus sit accepturus hinc abeuntem, domino Christo<fl>g</fl> et vobis amicis committo.</s>
+				<s n="12" lang="la" state="auto">Et haec quidem est mea de me et meis rebus sententia.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">De ipsa causa: est valde impedita.</s>
+				<s n="14" lang="la" state="auto">Persuasus in corde meo sum hanc causam potuisse mitius transigi sine omni ministerii et libertatis christianae noxa.</s>
+				<s n="15" lang="la" state="auto">Illud autem, quod lege constitutum est, esse utrunque non rectum puto.</s>
+				<s n="16" lang="la" state="auto">Itaque permolestum est eam legem exemplo meo primoque confirmare, a qua mihi animus ut improba abhorret.</s>
+				<s n="17" lang="la" state="auto">Necessitate<fl>h</fl> legis omnibus titulos hos imponere professoribus<fl>i</fl> hac<fl>k</fl><fl>5</fl> nova ecclesiae reformatione iudico<fl>l</fl> indignum.</s>
+				<s n="18" lang="la" state="auto">Ministros<fl>m</fl> extra id tempus, quo tractant ac discunt<fl>n</fl><pb_scan n="309v."/> literas, in universum omnes, quatenus ministri sunt, scholae legibus et exercitationibus alligare<fl>6</fl> aeque iniurium esse iudico.</s>
+				<s n="19" lang="la" state="auto">Et quid erit, si nemo est, qui legibus malis orientibus libertate sua tandem aliquando resistat?</s>
+				<s n="20" lang="la" state="auto">Qui pugnavi hactenus, si nunc cedo, videbor<fl>o</fl> id, quod facio, non ratione et consilio, sed necessitate - id est rerum mearum utilitate levi - inductus facere.</s>
+				<s n="21" lang="la" state="auto">Iam si maxime in has leges concedo et plenum adversariis triumphum permitto, collegam hunc<fl>7</fl> quomodo laturus sim, qui ferre neminem iam propter animi intemperiem potest, non video.</s>
+				<s n="22" lang="la" state="auto">Itaque si hic esse utiliter non possum et vel invitus aliquando discedo, erit utilius tum, puto, discedere, cum pulcherrimum est et exemplum utile et laudabile habet et libertati ecclesiae apud posteros valde conducet.</s>
+				<s n="23" lang="la" state="auto">Certe, si ego his legibus concedo<pb_edition start_of="255"/> nunc, non solum eos omnes, qui hic sine titulo hactenus profitentur<fl>8</fl>, in eandem mecum necessitatem traho, sed omnes etiam, qui secuturi sunt nos.</s>
+			</p>
+			<p>
+				<s n="24" lang="la" state="auto">Adde, quod repugnante conscientia subdo me his legibus.</s>
+				<s n="25" lang="la" state="auto">Argentinenses fratres testes habeo<fl>9</fl>, quod praesentibus ipsis promisi hunc me titulum non fugere, sed paratum esse statim<fl>p</fl> in eorum conspectu ceu munus dei adsumere et agnoscere, si cum meo facto libertas ecclesiae non periclitaretur.</s>
+				<s n="26" lang="la" state="auto">Iidem quoque testes mihi sunt, quod fratres in ordinem redigi volui et omnibus idoneis exercitationibus ad usum ecclesiae ap-<pb_scan n="310r."/>tari, modo id ius ecclesiae, cuius est, non scholae, cuius non est, crederetur.</s>
+			</p>
+			<p>
+				<s n="27" lang="la" state="auto">Neutra res<fl>q</fl> aut locum habuit aut placuit, sed hominum paucorum arte factum est, ut turba<fl>r</fl> haec obtineret<fl>s</fl>.</s>
+				<s n="28" lang="la" state="auto">Et quidem in hac parte sunt haec, quae <placeName ref="492">Argentinenses</placeName> norunt etiam tam quam ego.</s>
+				<s n="29" lang="la" state="auto">Contra sunt, quod hunc locum tempore iniquissimo deserens iis relinquo, quibus dixi, tum etiam turbam et rumorem excito, quod incommodum in hac parte est maximum<fl>t</fl>.</s>
+				<s n="30" lang="la" state="auto">Sed cum me perpendo, quid hoc tempore mea hic authoritate valeam efficere; vereor, ne, si mansero, perparum efficiam.</s>
+				<s n="31" lang="la" state="auto">Concidit gratia apud senatum, et fides omnis mihi calumniis improborum valde debilitata.</s>
+			</p>
+			<p>
+				<s n="32" lang="la" state="auto">Haec sunt, quae hic me movent.</s>
+				<s n="33" lang="la" state="auto">Movet etiam, quod cogitandum mihi est, vicinarum ecclesiarum de meo facto iudicium quale futurum sit.</s>
+				<s n="34" lang="la" state="auto">Itaque eodem literarum exemplo<fl>u</fl> ad <placeName ref="41">Bernates</placeName> et <placeName ref="492">Argentinenses</placeName> scribo<fl>10</fl>.</s>
+				<s n="35" lang="la" state="auto">Nolo enim, me quisquam putet tam audacem esse, ut sequi meum ingenium et<fl>v</fl> authoritatem omnium contemnere<fl>w</fl> velim.</s>
+				<s n="36" lang="la" state="auto">Leges has semper iudicavi non aequas esse.</s>
+				<s n="37" lang="la" state="auto">De me quicquid privatim constitueretur, bonorum sequi authoritatem volui.</s>
+				<s n="38" lang="la" state="auto">Sed simu[l et]<fl>x</fl> de meo iure et de iure ecclesiae concedere opo[rtet]<fl>y</fl>, quorum alterum nequaquam difficile est, de suo i[ure]<fl>z</fl>, alterum plane intolerabile, de iure ecclesiae [quid]quam<fl>aa</fl> detrahere<fl>ab</fl>.</s>
+				<s n="39" lang="la" state="auto">In hac tam ancipiti deliber[atione]<fl>ac</fl> prima res est, si possit vestra ope fieri, n[e sit n]ecesse<fl>ad</fl> alterum, aut legibus his me<fl>ae</fl> concedere [aut hinc]<fl>af</fl> abire, ut id per vos<fl>ag</fl> fiat,<pb_edition start_of="256"/> proxima<pb_scan n="310v."/> ut, si alterum necesse sit fieri, mihi, si legibus his<fl>ah</fl> me subiiciam, graviter et in meipsum et in ecclesiam peccaturo, si discessero, aliquid forte utilitatis neglecturo pro vestra sapientia et fide, qua sanctissima erga Christum et eius ecclesiam estis, coram deo ut vobis ipsis consulatis.</s>
+			</p>
+			<p>
+				<s n="40" lang="la" state="auto">Quodcunque autem responsum bonus ac fidelis Christi spiritus vobis suggerit, id oro, ut non modo ad me, sed ad fratres nostros in commune a vobis perscribatur.</s>
+			</p>
+			<p>
+				<s n="41" lang="la" state="auto">Valete in domino, mihi suspiciendi coram deo charissimique patres ac fratres.</s>
+				<s n="42" lang="la" state="auto">Orate dominum, ut me de malo eripiat, ne quid indignum nomini sancto ipsius faciam.</s>
+				<s n="43" lang="la" state="manual">Amen.</s>
+			</p>
+			<p>
+				<s n="44" lang="la" state="auto"><persName ref="1365">Simon Grynęus</persName> vester.</s>
+			</p>
+			<p>
+				<s n="45" lang="la" state="auto">Literas adservabitis, ne meę ad vos querelę ad nostros veniant.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="46" lang="la" state="auto">Ministris verbi apud Tigurum, observandis fratribus.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1332">
+		<alpha>
+			<fn ref="a" meta="1"><i>Korrekturen, Unterschrift, Nachschrift und Adresse autograph.</i></fn>
+			<fn ref="b"><i>vor</i> doctor <i>gestrichenes</i> ut.</fn>
+			<fn ref="c">ut <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="d">et quo ... sum <i>am Rande nachgetragen.</i></fn>
+			<fn ref="e">quidam <i>für gestrichenes</i> ipsi.</fn>
+			<fn ref="f">res <i>anstelle von zwei oder drei gestrichenen Wörtern über der Zeile nachgetragen.</i></fn>
+			<fn ref="g"><i>vor</i> Christo <i>gestrichenes</i> meo[?].</fn>
+			<fn ref="h"><i>Randbemerkung:</i> Lex 1. hic lata.</fn>
+			<fn ref="i">professoribus <i>sowie nachträglich wieder gestrichenes</i> iudico <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="k"><i>vor</i> hac <i>gestrichenes</i> in.</fn>
+			<fn ref="l">iudico <i>gestrichen, dann über der Zeile wieder eingefügt.</i></fn>
+			<fn ref="m"><i>Randbemerkung:</i> Lex 2. hic lata.</fn>
+			<fn ref="n">ac discunt <i>am Rande nachgetragen.</i></fn>
+			<fn ref="o"><i>korrigiert aus</i> video.</fn>
+			<fn ref="p"><i>nach</i> statim <i>gestrichenes</i> ipsis praesentibus et.</fn>
+			<fn ref="q">res <i>korrigiert aus</i> ius.</fn>
+			<fn ref="r">turba <i>anstelle eines gestrichenen, unlesbaren Wortes über der Zeile nachgetragen.</i></fn>
+			<fn ref="s"><i>korrigiert aus</i> oberet[?].</fn>
+			<fn ref="t">quod ... maximum <i>korrigiert aus</i> haec incommoda in hac parte sunt maxima.</fn>
+			<fn ref="u">eodem literarum exemplo <i>anstelle von gestrichenem</i> iisdem literis <i>am Rande nachgetragen.</i></fn>
+			<fn ref="v">et <i>anstelle von gestrichenem</i> potius quam (potius <i>am Rande nachgetragen).</i></fn>
+			<fn ref="w">contemnere <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="x"><i>Text (beim Öffnen des Siegels?) beschädigt.</i></fn>
+			<fn ref="y"><i>Text (beim Öffnen des Siegels?) beschädigt.</i></fn>
+			<fn ref="z"><i>Text (beim Öffnen des Siegels?) beschädigt.</i></fn>
+			<fn ref="aa"><i>Text (beim Öffnen des Siegels?) beschädigt.</i></fn>
+			<fn ref="ab">detrahere <i>anstelle von gestrichenem</i> cedere <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="ac-ad"><i>Text beschädigt.</i></fn>
+			<fn ref="ae">his me <i>am Rande nachgetragen.</i></fn>
+			<fn ref="af"><i>Text beschädigt.</i></fn>
+			<fn ref="ag">per vos <i>am Rande nachgetragen.</i></fn>
+			<fn ref="ah">his <i>über der Zeile nachgetragen.</i></fn>
+			<!-- Splits -->
+			<fn ref="ac"><i>Text beschädigt.</i></fn>
+			<fn ref="ad"><i>Text beschädigt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Anlaß zum vorliegenden Brief gab wohl die am 20. November erfolgte Verpflichtung der Basler Theologen auf die am 26. Juli beschlossene Universitätsordnung (vgl. Peter <i>Ochs,</i> Geschichte der Stadt und Landschaft <placeName ref="28">Basel</placeName>, Bd. VI, <placeName ref="28">Basel</placeName> 1821, S. 148) bzw. der Versuch der Universität, diese Verpflichtung durchzusetzen. Ein inhaltlich entsprechendes Schreiben ging auch nach <placeName ref="41">Bern</placeName> und <placeName ref="492">Straßburg</placeName> (s. unten Z. 52f); am 12. Dezember reagierte <persName ref="315">Bedrot</persName> mit einem im Namen der <placeName ref="492">Straßburger</placeName> Pfarrer an <persName ref="8418">Myconius</persName>, <persName ref="8054">Bertschi</persName> und <persName ref="1278">Gast</persName> gerichteten Aufruf, <persName ref="1365">Grynäus</persName> in <placeName ref="28">Basel</placeName> zu halten (s. Zürich ZB, Ms F 80, 34r.-36v.).</fn>
+			<fn ref="2">Vgl. oben Anm. 1 und unten Z. 20-22 mit Anm. 5.</fn>
+			<fn ref="3"><persName ref="1365">Grynäus</persName> hatte sich 1529 als Professor für Griechisch nach <placeName ref="28">Basel</placeName> berufen lassen, obwohl er selbst an seiner Eignung zweifelte; vgl. <bibl>Oekolampad BA</bibl> II 646. 649. 653.</fn>
+			<fn ref="4" type="bio" fk_person="5044"><persName ref="5044">Katharina, geb. Lompart</persName>.</fn>
+			<fn ref="5">In § 15 der Universitätsstatuten vom 26. Juli 1539 wird vorgeschrieben, die ordentlichen Professoren hätten unverzüglich die gebührenden akademischen Grade anzunehmen; s. <bibl>Thommen</bibl> 330.</fn>
+			<fn ref="6">Die Pfarrer und Diakone sollten der theologischen Fakultät "mitt handtgegebener treuw" verbunden sein und insbesondere den Disputationen nicht grundlos fernbleiben; s. §§ 6-14 der genannten Statuten <i>(Thommen</i> 328-330).</fn>
+			<fn ref="7">Gemeint ist <persName ref="4349">Karlstadt</persName>.</fn>
+			<fn ref="8">Mitbetroffen war vor allem auch <persName ref="8126">Oporin</persName>, s. Martin <i>Steinmann,</i> <persName ref="8126">Johannes Oporinus</persName>. Ein Basler Buchdrucker um die Mitte des 16. Jahrhunderts, Basel 1967. - Basler Beiträge zur Geschichtswissenschaft 105, <i>S.</i> 17f.</fn>
+			<fn ref="9">Vier <placeName ref="492">Straßburger</placeName>, angeführt von <persName ref="5565">Capito</persName> und <persName ref="467">Bucer</persName>, hatten im Juli einen vergeblichen Vermittlungsversuch unternommen; vgl. oben <link fk_file="11353">Nr. 1310</link>, Anm. 3.</fn>
+			<fn ref="10">Beide Briefe sind verloren.</fn>
+		</num>
+	</footnotes>
+</file>

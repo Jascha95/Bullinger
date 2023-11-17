@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11377" id_hbbw="1334" id_irg_sort="1334" id_sort="113340">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11377</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1334</arpa>
+		<scan_pages/>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23096" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23097" vf="1" fk_add_type="1">
+				<person id="8049" fk_id="8049">
+					<name>Vadian (von Watt)</name>
+					<forename>Joachim</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11377">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">12</month>
+				<day fk_d="" d="" vf="1" fn="">8</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17848">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="7" fk_place="316">Belgien KMM</archive>
+				<signature>aut. 1076/1</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11138" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1334, S. 258</entry>
+				<page>258</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="12">
+				<lang id="1" iso="de" count="1" p="8.3"/>
+				<lang id="5" iso="la" count="11" p="91.7"/>
+			</sentences>
+			<words count="121">
+				<lang id="1" iso="de" count="5" p="4.1"/>
+				<lang id="5" iso="la" count="116" p="95.9"/>
+			</words>
+			<chars count="726">
+				<lang id="1" iso="de" count="30" p="4.1"/>
+				<lang id="5" iso="la" count="696" p="95.9"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1334" page="258">
+		<div ref="1">
+			Seit <persName ref="8049">Vadians</persName> Aufforderung, über die Ehe zu schreiben, beschäftigt er
+			sich ständig mit dieser umfangreichen und schwierigen Materie; legt ihm zur Stellungnahme vor, was er über
+			verbotene Verwandtschaftsgrade gefunden hat, und bittet um baldige Rücksendung. Hofft, daß er auf der
+			Heimreise [von <placeName ref="21">Baden</placeName>] nach Zürich kommt.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1334" page="258">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et vitae innocentiam<fl>a</fl> in domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Ab ea hora, qua petebas, <persName ref="8049">Vadiane</persName> doctissime, de matrimoniis rite contrahendis scriberem<fl>1</fl>, nunquam desii inquirere, quid commode et pie ea de re dici possit, et reperio copiosissimam materiam, sed multis difficultatibus implicatissimam.</s>
+				<s n="3" lang="la" state="auto">Video doctos pleraque dissimulare et transire intacta.</s>
+				<s n="4" lang="la" state="auto">Quae de gradibus prohibitis in lege repererim, hic tibi exhibeo in hoc, ut legas et, quae monenda viderentur, adiungas, hocque ipsum exemplar primo quoque tempore remittas; apographum enim non habeo et hoc exemplar expecto.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Vide, ne remoram iniicias; vide denique, ne inexaminata remittas.<pb_edition start_of="259"/></s>
+				<s n="6" lang="la" state="auto">Vale et me ama.</s>
+				<s n="7" lang="la" state="auto">Utinam impetrare liceret, ut domum rediturus<fl>2</fl> ad nos concederes!</s>
+				<s n="8" lang="la" state="auto">Vale iterum.</s>
+				<s n="9" lang="la" state="auto">8. decembris 1539.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">H. Bull. tuus<fl>b</fl>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="11" lang="la" state="auto">Clarissimo viro d[octori] Ioachimo Vadiano, domino colendissimo.</s>
+				<s n="12" lang="de" state="auto">Dem herren Burgermeister von Watt.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1334">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> inocentiam.</fn>
+			<fn ref="b"><i>Darunter von späterer Hand</i> Henricus Bullingerus tuus.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Die Rede ist offenbar von Bullingers Buch "Der christliche Ehestand" (<bibl>HBBibl</bibl> I 129), das im Februar 1540 erschien. Von einer entsprechenden Aufforderung <persName ref="8049">Vadians</persName> ist sonst nichts bekannt.</fn>
+			<fn ref="2">Vadian hielt sich in <placeName ref="21">Baden</placeName> auf, wo die Tagsatzung am 8. Dezember über eine Klage <placeName ref="2451">Appenzells</placeName> gegen ihn verhandelte; vgl. <bibl>EA</bibl> IV/1c 1164 d. und 1167 zu d; Gottfried <i>Bodemer,</i> Der Bannerhandel zwischen <placeName ref="2451">Appenzell</placeName> und St. Gallen 1535-1539. Ein Beitrag zur schweizer. Kulturgeschichte des XVI. Jahrhunderts, Diss. phil. Bern, St. Gallen 1905, S. 119f.</fn>
+		</num>
+	</footnotes>
+</file>

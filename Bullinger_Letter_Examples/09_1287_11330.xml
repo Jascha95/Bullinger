@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11330" id_hbbw="1287" id_irg_sort="1287" id_sort="112870">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11330</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1287</arpa>
+		<scan_pages>
+			<scan id="26347" dir="11330/Autograph/" page="1">00 E_II_365__S__12_.tif</scan>
+			<scan id="26348" dir="11330/Autograph/" page="2">01 E_II_365__S__13_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22994" vf="1" fk_add_type="1">
+				<person id="8359" fk_id="8359">
+					<name>Gallicius (Saluz)</name>
+					<forename>Philipp</forename>
+				</person>
+				<place id="308" vf="1" fk_id="308" long="9.575894" lat="46.98167">Malans</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22995" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11330">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">7</month>
+				<day fk_d="" d="" vf="1" fn="">13</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17801">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 365,12 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9523" fk_bib="0">
+				<entry>Graubünden, Korr. I, S. 14–16, Nr. 13</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="22">
+				<lang id="5" iso="la" count="22" p="100.0"/>
+			</sentences>
+			<words count="483">
+				<lang id="6" iso="el" count="2" p="0.4"/>
+				<lang id="5" iso="la" count="481" p="99.6"/>
+			</words>
+			<chars count="2794">
+				<lang id="6" iso="el" count="8" p="0.3"/>
+				<lang id="5" iso="la" count="2786" p="99.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1287" page="176">
+		<div ref="1">
+			Dankt Bullinger, wenn auch verspätet, für das geschenkte Buch [„De origine erroris“?] und rühmt seine
+			Fähigkeiten, für die ganz <entity id="10" type="geo_country">Europa</entity> dankbar sein kann; sieht ihn
+			als Propheten und Bewahrer des Erbes von <persName ref="4091">Zwingli</persName> und
+			<persName ref="2442">Oekolampad</persName> und bewundert ihn mehr noch als so hervorragende Männer wie
+			<persName ref="8049">Vadian</persName> und andere. Über die Errichtung der Schule wird
+			<persName ref="396">Johannes Blasius</persName>, der
+			<persName ref="2600">Nikolaus [Pfister, gen.] Baling</persName> zurückholt, mündlich berichten.
+		</div>
+	</regest>
+	<letter lang="la" edition="GR" vol="I" fk_bibliography="39" nr="13" page="14">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Philippus Gallicius Heinrycho suo S.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Quod dudum me decuisset facere, si non laribus abfuissem dies aliquot: ago tibi gratias maximas pro libro tuo, quem mihi donasti, vir modis omnibus maxime, et non minus mihi ipsi gratulor, quod cognitus sim a te tali dignusque, puto, iudicatus, qui donum vel hoc a te recipiam, quem nullo unquam provocavi prior officio.</s>
+				<s n="3" lang="la" state="auto">Sed est haec procul dubio ingenui magnique et alacris animi tui liberalitas humanitasque et dexteritas illa in te praecipua, ut audio, qua nullos non satagis ad te pertrahere, quasi non satis alioqui tibi simus deditissimi ultro, quotquot virtutem miramur.</s>
+				<s n="4" lang="la" state="auto">Gratulari Helveciae nostrae, immo Germaniae universae adeoque toti Europae et cur non universae continenti, quam dicunt, quod tali donata sit viro, intelligitur melius quam dicitur, te quidem praesente et audiente.</s>
+				<s n="5" lang="la" state="auto">Flebam ter maximorum virorum Oecolampadii et Zvinglii obitum hoc eciam nomine, quod orbati videremur foederati nos, Rhaeti inquam et Elvecii, potissimo decore nostro iacereque de cetero inglorii et neglecti per erudiciores viros.</s>
+				<s n="6" lang="la" state="auto">Sed ecce, tu nobis prodis vindex et assertor bene partae gloriae per illos: post C. Iulium Caesarem Octavianus, post Philippum Macedonicum illum Alexander, post Cyrum Darius, nullo tamen intermedio, post Iudam Machabaemum Ionathas, post Mosen Iosue, post Samuelem David.</s>
+				<s n="7" lang="la" state="auto">Tu enim, quod pulchre et fortiter illi ceperunt, geris et perficis animo magno et invicto, gloria cum longe maxima et perduces rem, speramus, quo illi fati violencia inhibiti non potuerunt.</s>
+				<s n="8" lang="la" state="auto">Modo nos agnoscamus istoipsum et pii gracias Deo optimo maximo agamus, quod non destituit nos prophetis, nominatim gentis nostrae.</s>
+				<s n="9" lang="la" state="auto">Habemus enim adhuc veterem illum polyhistora Ioachimum Vadianum aliosque plurimos istic precipue solide et doctos et pios.</s>
+				<s n="10" lang="la" state="auto">Sed inter hos te maxime suspicimus et miramur <el>τὸν λόγον</el> Dei inquirentes et tractantes; te exteris opponimus, in te gloriamur et iactabundi, quid possimus, ostentamus.</s>
+				<s n="11" lang="la" state="auto">Facescant hinc mihi hypocritae, si qui sunt, Stoici, qui nulla excitantur laude, nulla gaudent gloria, nullo rerum humanarum tanguntur affectu, non homines, sed trunci, certe simulatores et praepostere sancti!</s>
+				<s n="12" lang="la" state="auto">Ut enim de aeterna, quam speramus, vita et gloria non dicam, annon hic interim boni testimonii laudem et gloriam ab aliis captamus?</s>
+				<s n="13" lang="la" state="auto">annon merito dissolutum aut fatuum talem dixerimus?</s>
+				<s n="14" lang="la" state="auto">Quid, cum virtutem aut pulchri quid laudamus, annon Deum laudamus, qui haec est ipsa virtus et pulchritudo?</s>
+				<s n="15" lang="la" state="auto">Equidem invidum et malevolum aut fatuum plane existimo, qui laudes sive glorias novit nullas; nam aut, quid sit gloria, ignorat aut invidencia reticet, quorum alterum stultum, alterum iniustum et detestabile.</s>
+				<s n="16" lang="la" state="auto">Sed ne non animo loqui videar ac tantum lingua declamatoria, finiam, s[ed?] repeciero: nihil aliud in praesenciarum me velle quam gracias egisse, donec referendi facultas aliquando fuerit.</s>
+				<s n="17" lang="la" state="auto">Vale, vir doctis piisque omnibus colendissime.</s>
+				<s n="18" lang="la" state="auto">Ex Malans, tertio idus Iulias anni 1539.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Idem tuus.</s>
+			</p>
+			<p>
+				<s n="20" lang="la" state="auto">Notabiliora apud nos sunt nulla, nisi hoc maximum: scholae institutum esse confirmatum non sine tuo auxilio, qui Traverso nostro scripseris.</s>
+				<s n="21" lang="la" state="auto">Sed de hoc coram audies a Ioanne Blasio fratre nostro, viro prudenter cordato, qui Nicolaum Balingium accersit et istac revertetur.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Clarissimo viro Heinrycho Bullingero, ecclesiastae Tiguri etc.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="39" nr="13"/>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1287" page="176"/>
+			<footnotes fk_bibliography="11" nr="1287"/>
+		</alternative>
+	</alternatives>
+</file>

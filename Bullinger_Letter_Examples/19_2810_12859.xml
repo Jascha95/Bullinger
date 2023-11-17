@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12859" id_hbbw="2810" id_irg_sort="2810" id_sort="128100">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12859</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2810</arpa>
+		<scan_pages>
+			<scan id="30096" dir="12859/Autograph/" page="1">00 E_II_366__fol__197_r_.tif</scan>
+			<scan id="30097" dir="12859/Autograph/" page="2">01 E_II_366__fol__197_v_.tif</scan>
+			<scan id="30098" dir="12859/Autograph/" page="3">02 E_II_366__fol__197_a_r_.tif</scan>
+			<scan id="30099" dir="12859/Autograph/" page="4">03 E_II_366__fol__197_a_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26262" vf="0" fk_add_type="1">
+				<person id="1278" fk_id="1278">
+					<name>Gast</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="28" vf="" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26263" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12859">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19426">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 366,197–197a</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12367" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2810, S. 299</entry>
+				<page>299</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="56">
+				<lang id="1" iso="de" count="40" p="71.4"/>
+				<lang id="5" iso="la" count="16" p="28.6"/>
+			</sentences>
+			<words count="625">
+				<lang id="1" iso="de" count="460" p="73.6"/>
+				<lang id="5" iso="la" count="165" p="26.4"/>
+			</words>
+			<chars count="3216">
+				<lang id="1" iso="de" count="2244" p="69.8"/>
+				<lang id="5" iso="la" count="972" p="30.2"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2810" page="299">
+		<div ref="1">
+			[1] Bullinger möchte über Norddeutschland informiert werden. Doch wie soll
+			<persName ref="1278">Gast</persName> Verbürgtes über Menschen erfahren, die so weit weg leben? Er kann
+			aber die folgende lächerliche, doch aufschlussreiche Geschichte erzählen: Ein Pfaffe [<persName ref="6108">Nicolaus Piper</persName>?]
+			dankte neulich in einer in <placeName ref="1605">Bergheim</placeName> gehaltenen Predigt Gott für
+			den Sieg <persName ref="18538">Kaiser Karls V.</persName> und meinte, dass für die katholische Geistlichkeit und für die Juden nichts
+			Schlimmeres hätte passieren können als ein Sieg der Lutheraner! Daraufhin rief er Juden und Katholiken dazu
+			auf, weiterhin um Gottes Beistand zu flehen.
+		</div>
+		<div ref="2">
+			[2] Ein Bürger aus <placeName ref="157">Frankfurt</placeName>
+			[<persName ref="5665">Mathias Limberger</persName>] berichtete, dass die fünf in der Stadt liegenden
+			[kaiserlichen] Fähnlein für die Kosten ihres Verzehrs selbst aufkommen und bisher niemanden beraubt haben.
+			Als ein Mönch [...] die Kriegsknechte um die Erlaubnis bat, ihnen die Messe lesen zu dürfen, wurde dies vom
+			<placeName ref="157">Frankfurter</placeName> Rat abgeschlagen.
+		</div>
+		<div ref="3">
+			[3] Der Kaiser soll etwa 200 Wagen nach <placeName ref="569">Worms</placeName> geschickt haben,
+			weil angeblich der nächste <placeName ref="2391">Reichstag</placeName> dort stattfinden soll.
+			Nachrichten über <placeName ref="749">Sachsen</placeName> wird
+			<persName ref="8418">Myconius</persName> mitteilen.
+		</div>
+		<div ref="4">
+			[4] Neulich schrieb <persName ref="1278">Gast</persName> über Junker <persName ref="7537">Claus von Hattstatt</persName>, der im
+			Schloss <placeName ref="1273">Ensisheim</placeName> gefangen liegt. Er soll zum Tode verurteilt
+			sein. Die Anklagepunkte lauten: 1. Er wollte nicht dem Kaiser im Feldzug dienen. 2. Er habe sein Kriegsvolk
+			den Straßburgern zuziehen lassen und Knechte für Landgraf <persName ref="18574">Philipp von Hessen</persName> angeworben. 3. Er wolle für den
+			französischen <persName ref="7637">König Franz I.</persName> Soldaten rekrutieren. Sechs Reiter, die zu <persName ref="7537">Hattstatts</persName> Schloss geschickt wurden,
+			um dessen Akten zu beschlagnahmen, wurden von dem im Schloss zurückgelassenen Kriegsmann [...] mit Schüssen
+			vertrieben. Dieser verbrannte daraufhin die Dokumente. <persName ref="7537">Hattstatt</persName> ist also noch im Besitz seines Schlosses.
+		</div>
+		<div ref="5">
+			[5] Etwas Erfreuliches: Die <placeName ref="101">Colmarer</placeName> haben einen Teil von dem
+			Haus des aus <placeName ref="314">Maulbronn</placeName> verbannten Abtes
+			[<persName ref="18149">Johannes von Lienzingen</persName>] (für dessen Unterhalt sie lange sorgten)
+			abgebaut, um damit die Stadtmauern zu befestigen. Daraufhin verklagte der Abt die Stadt beim
+			<persName ref="18477">König Ferdinand I</persName>. Der Prior <persName ref="5254">Johannes Hoffmeister</persName> übernahm jedoch ihre Verteidigung und
+			ritt deswegen mit einem der Räte [...] zu Ferdinand. So vernichten sich die Papisten gegenseitig!
+		</div>
+		<div ref="6">
+			[6] Landgraf <persName ref="18574">Philipp von Hessen</persName> rüstet in <placeName ref="244">Kassel</placeName>.
+			Kurfürst <placeName ref="749">Johann Friedrich von Sachsen</placeName> hat
+			<placeName ref="284">Leipzig</placeName> eingenommen, alle Kriegsleute in der Stadt getötet und
+			diese plündern lassen. Er begibt sich nun mit einer starken Truppe nach
+			<entity id="76" type="geo_region">Schlesien</entity>. Ein Teil seines Heeres ist in das Land des Markgrafen
+			<persName ref="18422">Albrecht Alcibiades von Brandenburg-Kulmbach</persName> eingefallen. Der hinterlistige Markgraf lässt zwar das
+			Evangelium in seinem Land verkündigen, war aber im vergangenen Sommer beim Kaiser. Der Kurfürst hat zudem
+			das Gebiet des Grafen [<persName ref="17943">Friedrich Magnus von Solms-Laubach</persName> bzw. <persName ref="7796">Reinhard] von Solms</persName> erobert.
+		</div>
+		<div ref="7">
+			[7] Anna, Königin von Ungarn und Böhmen, die Frau Ferdinands, ist gestorben. Dies hat
+			<persName ref="1278">Gast</persName> vom Boten [...] erfahren, der [vonseiten des Königs] einen Brief
+			bringt, mit dem die [vier protestantischen] Städte [der Eidgenossenschaft] gebeten werden,
+			Trauergottesdienste für die Verstorbene abzuhalten.
+		</div>
+		<div ref="8">
+			[8] Die <placeName ref="492">Straßburger</placeName> rüsten sich mit Waffen und Gebet zum
+			Widerstand gegen den Kaiser.
+		</div>
+		<div ref="9">
+			[9] Die Juden in <placeName ref="157">Frankfurt</placeName> haben den Reichsadler an ihren
+			Haustüren angebracht, damit man ihnen ja nicht schade. Ihnen werden mehr Freiheiten als den Christen
+			zugestanden!
+		</div>
+		<div ref="10">
+			[10] Dies in Kürze, damit <persName ref="1278">Gast</persName> nicht bezichtigt werden kann, seine
+			Vereinbarung mit Bullinger vergessen zu haben. Er hat <persName ref="8418">Myconius</persName>
+			beauftragt, die Briefe zu verfassen, da dieser ja gerne schreibt und besser informiert ist als er, der die
+			Neuigkeiten vom Volk erfährt.
+		</div>
+		<div ref="11">
+			[11] <persName ref="8171">Theodor Bibliander</persName> und die anderen Kollegen sollen auch über den Inhalt vorliegenden Briefes
+			informiert werden. Gruß.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2810" page="299">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. in domino.</s>
+				<s n="2" lang="la" state="auto">Vis, ut scribam, quę aguntur in Inferiori <persName ref="18477">Germania</persName>.</s>
+				<s n="3" lang="la" state="auto">Partim ignota sunt, quę apud tam longe dissitos accidunt, partim nugarum sunt <pb_edition start_of="300"/> plena.</s>
+				<s n="4" lang="la" state="auto">Hoc scio, sed ridiculum est, attamen malę conscientię indicium:</s>
+				<s n="5" lang="de" state="manual">Es ist ein pfaff<fl>1</fl>, der hat nüwlich zuͦ Bercken<fl>2</fl> geprediget <la>in hec verba: „Laudemus dominum, qui victoriam caesari<fl>3</fl> dedit,</la> dann so die Luterischen uberhandt hetten genomen, so were es uns armen pfaffen und den armen Juden ubel gangen, als kein volck uff erden nie!</s>
+				<s n="6" lang="de" state="auto">Aber gott verlast die synen nit.</s>
+				<s n="7" lang="de" state="auto">Ir Juͤden betten üweren got an, so wöllen wir unseren anbetten.</s>
+				<s n="8" lang="de" state="auto">So werden wir witers gluck haben.“</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="9" lang="la" state="auto">Quę <placeName ref="157">Francofordię</placeName> aguntur, paucis accipe, nam hęc a <placeName ref="157">Francofordiano</placeName> cive<fl>4</fl> hausi: <de>Es ligent noch 5 fenlin knecht do.</de></s>
+				<s n="10" lang="de" state="auto">Die bezalen, was si essen und trincken.<fl>5</fl></s>
+				<s n="11" lang="de" state="auto">Sy haben allen gwalt in der stat.<fl>a</fl></s>
+				<s n="12" lang="de" state="auto">Es ist ein muͤnch<fl>6</fl> kommen.</s>
+				<s n="13" lang="de" state="auto">Der het gelangt<fl>7</fl> an die kriegsknecht, das man im erlaube, meß zuͦ haben.</s>
+				<s n="14" lang="de" state="auto">Das ist bracht an ein rath zuͦ <placeName ref="157">Francofort</placeName>.</s>
+				<s n="15" lang="de" state="auto">Diß ist im abgeschlagen.</s>
+				<s n="16" lang="de" state="auto">Und hat der frünfelich<fl>8</fl> muͤnch wider hinweg müssen faren mit siner meß.<fl>9</fl></s>
+				<s n="17" lang="de" state="auto">Man hat niemans etwas genomen, nimpt ouch niemans nuit.<fl>10</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="18" lang="de" state="auto">Man sagt ouch, der keyser habe uff <placeName ref="569">Worms</placeName> geschickt by<fl>11</fl> 200 wegen.</s>
+				<s n="19" lang="de" state="auto">Welle do ein reichstag haben.<fl>12</fl></s>
+				<s n="20" lang="de" state="manual">Wie es in <placeName ref="749">Saxen</placeName> gadt, <la>scribet <persName ref="8418">Myconius</persName>.<fl>13</fl></la><pb_edition start_of="301"/></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="21" lang="de" state="auto">Juncker <persName ref="7537">Claus von Hattstat</persName>, ein redlicher krieger, <la>de quo proxime scripsi,<fl>14</fl></la> lyt noch gefangen zuͦ Ensesheim<fl>15</fl> im schloß.</s>
+				<s n="22" lang="de" state="auto">Hat ysen an fuͤssen und armen.</s>
+				<s n="23" lang="de" state="auto">Man meynt, er werde den kopff verlieren.</s>
+				<s n="24" lang="de" state="auto">1. articulus:<fl>16</fl> Er hat nit wellen dem<pb_scan n="197v."/> keyser dienen in dem zuͤg.<fl>17</fl></s>
+				<s n="25" lang="de" state="auto">2. Er hat sin volck lassen gon <placeName ref="492">Strassburg</placeName> louffen, ouch dem lantgraven<fl>18</fl> knecht angenomen.</s>
+				<s n="26" lang="de" state="auto">3. Sy haben inn im züg<fl>19</fl>, er sölle dem Frantzosen<fl>20</fl> wellen knecht annemen.</s>
+				<s n="27" lang="de" state="auto">Sy haben 6 pferdt ußgeschickt in willens, alle syne brieff in seim schloß zuͦ erloͤßen<fl>21</fl>; aber sy haben das nit zuͦ wegen kynnen bringen.<fl>22</fl></s>
+				<s n="28" lang="de" state="auto">Der juncker hat ein reisigen<fl>23</fl> krieger by im<fl>24</fl> lang gehan; den im schloß gelossen.</s>
+				<s n="29" lang="de" state="auto">Diser hat den 6 rütteren und etlichen büren das schloß vorgehalten<fl>25</fl>, sy darvon gejagt mit geschützs, die brieff als<fl>26</fl> verbrent, und hat also das schloß noch ynn.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="30" lang="de" state="auto">Praeterea das fröwt mich: Die von <placeName ref="101">Colmar</placeName> haben den abt von <placeName ref="314">Malbrunn</placeName><fl>27</fl> lang uffgehalten in sym ellendt<fl>28</fl>, der ein huß zuͦ <placeName ref="101">Colmar</placeName> hat.</s>
+				<s n="31" lang="de" state="auto">Disem haben sy etwas genomen, daruß ein bolwerck gemacht.</s>
+				<s n="32" lang="de" state="auto">Der apt hat sy verklagt vor <persName ref="18477">Ferdinando</persName>.<fl>29</fl></s>
+				<s n="33" lang="de" state="auto">Wider den<fl>30</fl> stelt sich der prior <persName ref="5254">Hoffmeyster</persName>,<fl>31</fl> <persName ref="18477">Ferdinandi</persName> pre-<pb_edition start_of="302"/>dicent.</s>
+				<s n="34" lang="de" state="auto">Der rüttet zum künig mit eim der raͤdten<fl>32</fl>, das zuͦ erlangen wider den apt.</s>
+				<s n="35" lang="la" state="auto">Ita papistę debent perdere papistas!</s>
+				<s n="36" lang="de" state="auto">Ein teufel sol dem anderen widerston, domit das alles ze gründt gange!</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="37" lang="de" state="auto">Item, der landtgraff lyt<fl>33</fl> zuͦ <placeName ref="244">Cassel</placeName>.</s>
+				<s n="38" lang="de" state="auto">Ist in grosser ruͤstung.<fl>34</fl></s>
+				<s n="39" lang="de" state="auto">Hertzog <persName ref="5254">Hans</persName>, elector,<fl>35</fl> hat <placeName ref="284">Lipsig</placeName> mit eim sturm gwonnen, alles kriegsvolck erstochen darinnen, ouch die statt geplünderet.<fl>36</fl></s>
+				<s n="40" lang="de" state="auto">Er<fl>b</fl> soll uff die <entity id="76" type="geo_region">Silesiam</entity><fl>37</fl> mit eim hüffen ziehen, do grossen schaden thuͦn.</s>
+				<s n="41" lang="de" state="auto">Mit dem anderen huffen ligt er dem hertzog <persName ref="18422">Albrecht von Brandenburg</persName><fl>38</fl> <pb_scan n="197a,r."/> im landt, nympt im alles yn.</s>
+				<s n="42" lang="de" state="auto">Diser ist bym keyser den sommer gsin:<fl>39</fl></s>
+				<s n="43" lang="la" state="manual">Perfidus homo, etsi permittat evangelii praedicationem in suis terris.</s>
+				<s n="44" lang="de" state="auto">Dem graven von <persName ref="7796" state="auto_name">Sulms</persName><fl>40</fl> hat er<fl>41</fl> ouch sin landt ingenomen.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="45" lang="la" state="auto">Uxor <persName ref="18477">Ferdinandi</persName> mortua est, regina Ungariae.<fl>42</fl></s>
+				<s n="46" lang="la" state="auto">Hoc ab ipso tabellario<fl>43</fl> audivi, qui literas perfert civitatibus, quo exequias honestas instituant.<fl>44</fl></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="47" lang="la" state="auto"><placeName ref="492">Argentoratenses</placeName> se parant ad resistendum caesari armis et precibus assiduis.<fl>45</fl><pb_edition start_of="303"/></s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="48" lang="de" state="auto">Die Juden zuͦ Francofurt haben ein adler<fl>46</fl> an iren doren, domit yn niemans schadens zuͦfiegi.</s>
+				<s n="49" lang="la" state="auto">Plus libertatis habent quam christiani reliqui!</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="50" lang="la" state="auto">Hęc ad te paucis volui, ne me incuses deinceps negligentię oblitusve es pacti,<fl>47</fl> quod mecum iniisti.</s>
+				<s n="51" lang="la" state="auto"><persName ref="8418">Myconio</persName> imposui hoc onus scribendi, qui libenter scribit et certiora habet quam ego, qui ex plebe communia mea soleo expiscari.</s>
+				<s n="52" lang="la" state="auto">12. februarii 1547.</s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="53" lang="la" state="auto">Ea d. <persName ref="8171">Bibliandro</persName><fl>c</fl> communicare velis et reliquis fratribus, quos cupio salvere in domino ad longos annos.</s>
+				<s n="54" lang="la" state="auto">Nosti manum.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="55" lang="de" state="auto">An den wolgelerten herren, meyster Heinrych Bullinger, lüttpriester zuͦ Zürich, minem geliepten herren.</s>
+				<s n="56" lang="de" state="auto">Zürich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2810">
+		<alpha>
+			<fn ref="a"><i>Darauf folgt gestrichen</i> wie von alters her nemlich der rath.</fn>
+			<fn ref="b"><i>in der Vorlage</i> es.</fn>
+			<fn ref="c"><i>In der Vorlage</i> Bibliando.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" type="bio" fk_person="6108">Vielleicht <persName ref="6108">Nicolaus Piper</persName>, der als Pfarrer zu <placeName ref="1605">Bergheim</placeName> von 1543 an bis zu seinem Tod im Jahr 1552 oder 1553 bezeugt ist; s. Urkundenbuch der Pfarrei <placeName ref="1605">Bergheim</placeName> (Ober-<placeName ref="632">Elsass</placeName>), hg. von Eugen Hans, Straßburg 1984, S. 293f, Nr. 15.</fn>
+			<fn ref="2"><placeName ref="1605">Bergheim</placeName> (Dép. Haut-Rhin, Frankreich).</fn>
+			<fn ref="3"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="4">Vermutlich <persName ref="5665">Mathias Limberger</persName>, der schon während seiner Mainzer Zeit als <persName ref="1278">Gasts</persName> Korrespondent nachgewiesen ist; s. zuletzt <bibl>HBBW</bibl> XIV 201; XVI 194.</fn>
+			<fn ref="5">Der kaiserliche Heerführer <persName ref="7459">Maximilian von Egmont</persName>, Graf von Büren, hatte den Frankfurtern versprochen, dass die einquartierten Kriegsknechte für ihren Lebensunterhalt zahlen würden. In der Stadt wurden 24 Fähnlein stationiert, von denen zwölf bereits am 27. Januar 1547 entlassen wurden. Die verbliebenen Fähnlein wurden nach einer neunmonatigen Besatzung am 5. und 8. Oktober 1547 entlassen; s. Paul <i>Collischonn,</i> Frankfurt a.M. im Schmalkaldischen Kriege, Straßburg 1890, S. 96f; Irene <i>Hans,</i> Reformation-Konfession-Tradition. <placeName ref="157">Frankfurt am Main</placeName> im Schmalkaldischen Bund 1536-1547, Frankfurt a.M. 1991, S. 323. 331.</fn>
+			<fn ref="6">Unbekannt.</fn>
+			<fn ref="7">sich gewandt.</fn>
+			<fn ref="8">Hier vielleicht im Sinne von "frevelich" in einer wortspielerischen Assoziation mit den verachteten Juden, da im Westjiddischen die "frünfelich supp" eine Suppe aus geschnittenen Nudeln bezeichnet; s. Alfred <i>Klepsch,</i> Westjiddisches Wörterbuch, Bd. 1, Tübingen 2004, S. 585.</fn>
+			<fn ref="9">Siehe dazu <i>Collischonn,</i> aaO, S. 93f, wonach von Büren im <placeName ref="157">Frankfurter</placeName> Frauenbruderkloster öffentlich Messe lesen ließ, zugleich aber (zum Entsetzen des Rates) den evangelischen Pfarrern die Predigt gestattete.</fn>
+			<fn ref="10">nichts. - Eine Äußerung, die in Bezug auf die in <placeName ref="157">Frankfurt</placeName> stationierten kaiserlichen Söldner zu verstehen ist.</fn>
+			<fn ref="11">etwa.</fn>
+			<fn ref="12" type="bio" fk_person="18477">Ein falsches Gerücht. - Der Kaiser hatte am 2. Februar 1547 seinem Bruder <persName ref="18477">König Ferdinand I.</persName>, welcher eine baldige Einberufung des <placeName ref="2391">Reichstags</placeName> wünschte, mitgeteilt, dass er vorher noch den Krieg gegen die Schmalkaldener zu Ende führen wollte. Daher erging die an die Reichsstände gerichtete Einladung zum <placeName ref="2391">Reichstag</placeName> erst am 3. Juli 1547. Als möglicher Versammlungsort wurde nicht <placeName ref="569">Worms</placeName>, sondern <placeName ref="1976">Augsburg</placeName>, <placeName ref="513">Ulm</placeName>, <placeName ref="361">Nürnberg</placeName> und <placeName ref="410">Regensburg</placeName> in Erwägung gezogen; s. <i>RTA-JR</i> XVIII/1 57f und 130f, Nr. 7.</fn>
+			<fn ref="13"><persName ref="8418">Myconius</persName> war damals krank, sodass er erst am 1. März wieder an Bullinger schrieb. Dabei vermittelte er tatsächlich Nachrichten über <placeName ref="749">Sachsen</placeName>; s. <link fk_file="12882">Nr. 2833</link>,16-19.</fn>
+			<fn ref="14">Siehe <link fk_file="12802">Nr. 2753</link>,27-31.</fn>
+			<fn ref="15"><placeName ref="1273">Ensisheim</placeName> (Dép. Haut-Rhin, Frankreich).</fn>
+			<fn ref="16">Nachfolgend führt <persName ref="1278">Gast</persName> die Anklagepunkte gegen <persName ref="7537">Hattstatt</persName> auf.</fn>
+			<fn ref="17">Feldzug.</fn>
+			<fn ref="18"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="19">im zug: in Verdacht.</fn>
+			<fn ref="20"><persName ref="7637">König Franz I. von Frankreich</persName>.</fn>
+			<fn ref="21">ergattern; s. <bibl>SI</bibl> III 1417f s.v. "erlesen"; eventuell aber auch: durchsuchen, indem man zuvor die Aktenbündel aufbindet (auflöst). - Bei den "Briefen" könnte es sich nicht nur um Briefe, sondern auch um sonstige Dokumente handeln, kaum aber um Urkunden, da der zurückgelassene "Krieger" die Urkunden der Familie und des Schlosses nicht verbrannt haben wird.</fn>
+			<fn ref="22">zü wegen kynnen bringen: zustande bringen können.</fn>
+			<fn ref="23">gerüsteten.</fn>
+			<fn ref="24">sich.</fn>
+			<fn ref="25">vorenthalten; verschlossen gehalten; s. <bibl>SI</bibl> II 1233 s.v. verhalten.</fn>
+			<fn ref="26">die brieff als: alle Briefe.</fn>
+			<fn ref="27" type="bio" fk_person="18149"><persName ref="18149">Johannes [IX.] von Lienzingen (Lin(t)zingen. Lenzingen)</persName>, Abt des Klosters <placeName ref="314">Maulbronn (Enzkreis, Baden-Württemberg)</placeName>, dessen Insassen im Oktober 1537 in das Zisterzienserkloster <placeName ref="2392">Pairis</placeName> (etwa 20 km westlich von <placeName ref="101">Colmar</placeName>) zo gen, nachdem 1534-1537 das Kloster <placeName ref="314">Maulbronn</placeName> sich schrittweise der Reformation unterziehen musste. Der Abt starb bald nach Abfassung des vorliegenden Briefes am 20. Juli 1547 (d.h. 13. Cal. Augusti - also nicht am 13. August; in der Literatur wird manchmal auch der 21. oder 22. Juli angeführt) in <placeName ref="970">Einsiedeln</placeName>, während einer im Sommer 1547 unternommenen Wallfahrt. Über die hier angesprochene Angelegenheit konnte nichts eruiert werden. - Lit.: Kaspar <i>Brusch,</i> Chronologia monasteriorum Germaniae praecipuorum, [Pfalz]-Sulzhach 1682, S. 333; Gallia Christiana, Bd. 5, Paris 1731, Sp. 756f und Sp. 454-458 des Anhangs; Konrad <i>Rothenhäusler,</i> Die Abteien und Stifte des Herzogthums Württemberg im Zeitalter der Reformation. Stuttgart 1886, S. 37-44; Gerhard <i>Köhler,</i> Historisches Lexikon der Deutschen Länder, München 2007, S. 417; Immo <i>Eben,</i> Die Cistercienserkloster des Herzogtums Württemberg in der Reformationszeit. Von geistlichen Konventen zu theologischen Ausbildungsstätten, in: Analecta Cisterciensia, Bd. 59, 2009, S. 283.</fn>
+			<fn ref="28">uffgehalten in sym ellendt: versorgt in seiner Verbannung; s. <bibl>SI</bibl> II 1227; I 177.</fn>
+			<fn ref="29"><persName ref="18477">König Ferdinand I.</persName></fn>
+			<fn ref="30">Gemeint ist <persName ref="18149">von Lienzingen</persName>.</fn>
+			<fn ref="31"><persName ref="5254">Johannes Hoffmeister</persName>, seit 1533 Prior der Augustinereremiten in <placeName ref="101">Colmar</placeName>.</fn>
+			<fn ref="32">Unbekannt.</fn>
+			<fn ref="33">liegt.</fn>
+			<fn ref="34">Vgl. jedoch <link fk_file="12837">Nr. 2788</link>, Anm. 28; und <link fk_file="12854">Nr. 2805</link>,36.</fn>
+			<fn ref="35">Kurfürst <persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="36">Ein falsches Gerücht; vgl. <link fk_file="12806">Nr. 2757</link>, Anm. 76.</fn>
+			<fn ref="37"><entity id="76" type="geo_region">Schlesien</entity>. Siehe dazu <link fk_file="12835">Nr. 2786</link>, Anm. 38. -Hier ist wohl die Oberlausitz gemeint; s. Regesten über den Pönfall der Oberlausitzischen Sechsstädte, und die Folgen desselben, in: Neues Lausitzisches Magazin, hg. v. Ernst Tillich, Bd. 24, Görlitz 1848, S. 2f. 44-50 (Beilage 3).</fn>
+			<fn ref="38">Markgraf <persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach. - Damals drohte eine kurfürstliche Truppe ins markgräfliche Gebiet einzufallen. Doch kam es nicht dazu; s. <bibl>Voigt, Albrecht</bibl> I 140f.</fn>
+			<fn ref="39">Markgraf Albrecht war zu Anfang Mai 1546 auf den Reichstag nach <placeName ref="410">Regensburg</placeName> zum Kaiser gereist, hatte sich im Juni 1546 von diesem als Oberster auf mindestens drei Monate mit 2000 Reitern anwerben lassen und ihm von Juli 1546 an seine Reiter aus <placeName ref="1408">Bayreuth</placeName> zugeführt; s. <bibl>Voigt, Albrecht</bibl> I 110-117.</fn>
+			<fn ref="40" type="bio" fk_person="7796">Gemeint sind die Grafen <persName ref="17943">Friedrich Magnus von Solms-Laubach</persName> (geb. 1521, gest. 13. Januar 1561) und dessen Verwandter Reinhard von Sonus (zu Letzterem s. <link fk_file="12866">Nr. 2817</link>, Anm. 58). Die Einnahme der Herr- schaft <placeName ref="2393">Sonnenwalde</placeName> ist vom Kurfürsten selbst in seinem Brief an die XIII von <placeName ref="492">Straßburg</placeName> bezeugt; s. <bibl>PC</bibl> IV/1 568, Nr. 524, vom 15. Januar 1547. - Zum Hintergrund dieser Nachricht s. <bibl>Rudolf</bibl> zu <i><persName ref="7796">Solms</persName>-Laubach,</i> Geschichte des Grafen- und Fürstenhauses <persName ref="7796">Solms</persName>, Frankfurt a.M. 1865, S. 244; <bibl>Moritz von Sachsen PK</bibl> III 78, Nr. 74 (Anm.).</fn>
+			<fn ref="41">Gemeint ist der Kurfürst.</fn>
+			<fn ref="42"><persName ref="7584">Anna Jagiello</persName>, Königin von Böhmen und Ungarn; s. <link fk_file="12861">Nr. 2812</link>, Anm. 9.</fn>
+			<fn ref="43">Ein unbekannter Überbringer eines Schreibens von <persName ref="18477">Ferdinand I.</persName> an die vier protestantischen Städte der Eidgenossenschaft.</fn>
+			<fn ref="44">Über Totenfeiern für Anna in der Eidgenossenschaft ist nichts bekannt. - In <placeName ref="513">Ulm</placeName> aber ließ der Kaiser eine solche abhalten; s. <link fk_file="12861">Nr. 2812</link>, Anm. 10.</fn>
+			<fn ref="45">Vgl. schon <link fk_file="12822">Nr. 2773</link>,19-21. Am 21. Februar und am 1. März wird immer noch aus <placeName ref="492">Straßburg</placeName> über anhaltende Rüstungen in der Stadt berichtet; s. <bibl>PC</bibl> IV/1 612, <link fk_file="10597">Nr. 561</link>; 618, <link fk_file="10601">Nr. 565</link>. Schon 1546 wurden Teile der Stadtmauern befestigt; s. Sebald Bühlers <placeName ref="492">Straßburger</placeName> Chronik <i>(MGEG-DE</i> 2 XIII 90, Nr. 304). - Damals fand sich <placeName ref="492">Straßburg</placeName> zwar zu Unterhandlungen, nicht aber zu einem bedingungslosen Frieden mit dem Kaiser bereit, wie es die am 12. Februar abgefertigte <placeName ref="492">Straßburger</placeName> Gesandtschaft (s. <bibl>PC</bibl> IV/1 603f, <link fk_file="10591">Nr. 555</link>), welche am 19. Februar in <placeName ref="513">Ulm</placeName> eintraf, den kaiserlichen Unterhändlern zu verstehen gab; s. <bibl>PC</bibl> IV/1 603-605, Nr. 555; 608f, Nr. 559; 612f, <link fk_file="10597">Nr. 561</link>; 620f; Alcuin <i>Hollaender,</i> Strassburg im Schmalkaldischen Kriege, <placeName ref="492">Straßburg</placeName> und London 1881, S. 67; und <link fk_file="12871">Nr. 2822</link>, Anm. 16.</fn>
+			<fn ref="46">Der Reichsadler.</fn>
+			<fn ref="47">Eine Abmachung in Bezug auf Myconi us, die Bullinger vielleicht mit <persName ref="1278">Gast</persName> traf infolge von dessen Brief vom 31. Juli 1546 <i>(HBBW</i> XVI, <link fk_file="12567">Nr. 2520</link>).</fn>
+		</num>
+	</footnotes>
+</file>

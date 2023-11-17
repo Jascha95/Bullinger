@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12885" id_hbbw="2836" id_irg_sort="2836" id_sort="128360">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12885</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2836</arpa>
+		<scan_pages>
+			<scan id="30172" dir="12885/Autograph/" page="1">00 Ms F 62 (180)_00001.tif</scan>
+			<scan id="30173" dir="12885/Autograph/" page="2">01 Ms F 62 (180)_00002.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26314" vf="1" fk_add_type="1">
+				<person id="714" fk_id="714">
+					<name>Curione</name>
+					<forename>Celio Secondo</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26315" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12885">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">4</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19455">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 62,180</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9130" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Petrus Dominicus Rosius a Porta, Historia Reformationis Ecclesiarum Raeticarum, Bd. 1/2, Chur und Lindau 1772, S. 40, Anm. u</entry>
+			</print>
+			<print id="12398" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2836, S. 385</entry>
+				<page>385</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="18">
+				<lang id="5" iso="la" count="18" p="100.0"/>
+			</sentences>
+			<words count="340">
+				<lang id="5" iso="la" count="340" p="100.0"/>
+			</words>
+			<chars count="1999">
+				<lang id="5" iso="la" count="1999" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2836" page="385">
+		<div ref="1">
+			[1] <persName ref="714">Curione</persName> hat neulich gemeinsam mit dem bei ihm wohnenden <persName ref="3018">Francesco Stancaro</persName> einen Brief [<link fk_file="12851">Nr. 2802</link>] an Bullinger geschrieben, mit dem sie auf
+			dessen vorigen Brief [nicht erhalten] antworteten. Nun warten sie gespannt auf Bullingers Antwort [nicht
+			erhalten]. <persName ref="3018">Stancaro</persName> (der grüßen lässt) möchte nämlich wissen, ob Bullinger eine Stelle für ihn gefunden hat.
+			Bullinger soll darüber sobald wie möglich Bescheid geben.
+		</div>
+		<div ref="2">
+			[2] Er möge zudem die beiliegende, für <entity id="16" type="geo_country">Italien</entity> bestimmte
+			Briefsendung an <persName ref="654">Johannes Comander</persName> oder an jemand anderen in
+			<placeName ref="98">Chur</placeName> übermitteln, damit sie von dort an den evangelischen Prediger
+			in <placeName ref="911">Poschiavo</placeName>, den Mailänder <persName ref="8079">Giulio [della Rovere]</persName>,
+			weitergeschickt werden kann.
+		</div>
+		<div ref="3">
+			[3] Es wird so viel Verschiedenes gemeldet (typisch für Kriegszeiten!), dass man nicht mehr weiß, was zu
+			glauben ist. Manche berichten von Messfeiern in zwei <placeName ref="513">Ulmer</placeName>
+			Kirchen; von Zusammenstößen zwischen kaiserlichen und einheimischen Söldnern in
+			<placeName ref="1976">Augsburg</placeName>; von enormen Geldforderungen des
+			<placeName ref="1976">Augsburger</placeName> Kardinals <persName ref="7840">Otto Truchsess von Waldburg</persName>, des <persName ref="18477">Königs Ferdinand I.</persName> und des <persName ref="18538">Kaisers Karl V.</persName>; sowie von einer gewaltigen Truppensammlung Ferdinands für <persName ref="18250">Herzog Moritz von Sachsen</persName>. Andere behaupten wiederum, dass Ferdinand wegen des herannahenden türkischen Sultans
+			Suleiman die Flucht ergreifen wolle, oder dass der Kaiser in
+			<placeName ref="640">Flandern</placeName> sei, weil er Schlimmes vonseiten des französischen
+			<persName ref="7637">Königs Franz I.</persName> und des Landgrafen <persName ref="18574">Philipp von Hessen</persName> befürchtet.
+		</div>
+		<div ref="4">
+			[4] Bullinger wird gehört haben, dass <placeName ref="492">Straßburg</placeName> eine Delegation
+			an den Kaiser gesandt hat, um mit diesem über einen Frieden zu verhandeln, dass diese aber noch nicht
+			angehört wurde, weil <persName ref="7706">Nicolas de Perrenot</persName>, Herr von Granvelle, abwesend und <persName ref="7689">Johann von Naves</persName> gestorben ist.
+		</div>
+		<div ref="5">
+			[5] Bullinger soll bei Gelegenheit Nachrichten übermitteln, ja auch seine Meinung zu
+			<persName ref="714">Curiones</persName> Buch [„Pro vera et antiqua ecclesiae Christi autoritate
+			oratio“] mitteilen.
+		</div>
+		<div ref="6">
+			[6] Grüße, auch an die Familie und an die Kollegen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2836" page="385">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto"><persName ref="714">Caelius Secundus Curio</persName> S. D. per Christum Iesum.</s>
+				<s n="2" lang="la" state="auto">Ego et F. Stancarus, qui mecum est,<fl>1</fl> superioribus diebus ad te literas<fl>2</fl> dedimus, quibus uterque tuis<fl>3</fl> respondebamus.</s>
+				<s n="3" lang="la" state="auto">Expectabamus autem responsum,<fl>4</fl> presertim quod Stancarus valde suspensus haeret de eo, quod tua humanitate ultro ipsius caussam<fl>a</fl> curandum suscepisti.<fl>5</fl></s>
+				<s n="4" lang="la" state="auto">Sed, quia valde est occupatus, non potuit hodie tibi scribere.</s>
+				<s n="5" lang="la" state="auto">Rogavit autem me, qui alioquin ad te literas dabam, tuam humanitatem suo nomine salutarem rogaremque, si quid spei habeas, nobis primo quoque tempore significes, ut, sibi quid sit agendum, intelligat.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="6" lang="la" state="auto">Quod reliquum est, cum haberem literas in <entity id="16" type="geo_country">Italiam</entity> mittere nec haberem nuntium, mi optime Bullingere, ad te eas mittere cogitavi, ut, si quo pacto <pb_edition start_of="386"/> queas, eas <placeName ref="98">Curiam</placeName><fl>6</fl> ad aliquem tuum, ad d. <persName ref="654">Comandrum</persName><fl>7</fl> aut alium, ferendas curares, ut illinc ad Iullium nostrum <placeName ref="306">Mediolanensem</placeName><fl>8</fl>, qui Pusclave Rethorum<fl>9</fl> evangelium docet.</s>
+				<s n="7" lang="la" state="auto">Quod, ut quamprimum facias, te etiam magnopere atque etiam rogo.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="8" lang="la" state="auto">De novis rebus multa quotidie, imo singulis horis (ut in magnis calamitatibus fieri solet) nuntiantur et varia, adeo ut, quid credas, vix scire possis.</s>
+				<s n="9" lang="la" state="auto">Alii enim dicunt <placeName ref="513">Ulmę</placeName> duobus in templis iam missas celebrari,<fl>10</fl> <placeName ref="1976">Augustae</placeName> tumultum exhortum inter caesareanos <placeName ref="1976">Augustanosque</placeName> milites esse; cardinalem <placeName ref="1976">Augustanum</placeName><fl>11</fl>, <persName ref="18477">Ferdinandum</persName><fl>12</fl> cęsaremque<fl>13</fl> ingentem pecunię vim postulare; <persName ref="18477">Ferdinandum</persName> militem magnum colligere, ut eo Mauritio<fl>14</fl> suppetias ferat; et demum omnia misera esse!</s>
+				<s n="10" lang="la" state="auto">Alii caesarem in Flandriam cogitare, nescio quid in Inferiori Germania tum a <persName ref="7637" state="auto_name">Gallo</persName><fl>15</fl> tum a lantgravio <persName ref="3590" state="auto_name">Hessorum</persName><fl>16</fl> timens et subodorantes<fl>b</fl>; <persName ref="18477">Ferdinandum</persName> propter <persName ref="18593" state="auto_name">Turci</persName><fl>17</fl> adventantem fugam adornare;<fl>18</fl> et alia id genus multa, quę dominus vertat bene!</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="11" lang="la" state="auto">Hoc autem certum est, nec dubito te id accepisse: <placeName ref="492">Argentoratenses</placeName> legatos ad caesarem de pace misisse.<fl>19</fl></s>
+				<s n="12" lang="la" state="auto">Nundum<fl>20</fl> auditos esse propter Granvelani<fl>21</fl> absentiam, et <persName ref="7689">Naves</persName> mortem, qui dum <placeName ref="1976">Augustam</placeName> cum copiis proficisceretur, in itinere interiit.<fl>22</fl></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="13" lang="la" state="auto">Sed si tu certiora habes, rogo, ad nos aliquid scribas, tuumque de nostro libello<fl>23</fl> iudicium audire valde cupio, mi optime et doctissime Henrice, semper<fl>c</fl> amantissime et observandissime.<pb_edition start_of="387"/></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="14" lang="la" state="auto">Vale et familiam meo nomine saluta tuam et una fratres istos doctissimos.</s>
+				<s n="15" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, die 4. martii 1547.</s>
+				<s n="16" lang="la" state="auto"><persName ref="714">Caelius</persName>, ex animo tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="17" lang="la" state="auto">Clarissimo doctrina et pietate viro d. Henrico Bullingero, antistiti Tigurinę ecclesiae vigilantissimo, amico et fratri observandissimo.</s>
+				<s n="18" lang="la" state="auto">Tiguri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2836">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage</i> caussa.</fn>
+			<fn ref="b"><i>in der Vorlage</i> subodorans.</fn>
+			<fn ref="c"><i>In der Vorlage</i> sempe.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Vgl. <link fk_file="12851">Nr. 2802</link>,22f.</fn>
+			<fn ref="2"><persName ref="714">Curiones</persName> Brief <link fk_file="12851">Nr. 2802</link> vom 8. Februar.</fn>
+			<fn ref="3">Nicht erhalten.</fn>
+			<fn ref="4">Diese nicht mehr erhaltene Antwort kreuzte den vorliegenden Brief, mit dem <persName ref="3018">Stancaro</persName> erfuhr, dass Bullinger ihm keine Stelle vermitteln konnte; s. <link fk_file="12889">Nr. 2840</link> vom 7. März.</fn>
+			<fn ref="5">Vgl. <link fk_file="12848">Nr. 2799</link>,1-6. 17-20.</fn>
+			<fn ref="6"><placeName ref="98">Chur</placeName> (Kt. Graubünden).</fn>
+			<fn ref="7"><persName ref="654">Johannes Comander</persName>.</fn>
+			<fn ref="8"><persName ref="8079">Giulio della Rovere</persName>, über den in <bibl>HBBW</bibl> XV 549, Anm. 20, bereits eine Notiz vorliegt - allerdings in Zusammenhang mit einer in <bibl>HBBW</bibl> XV 549,26, nicht genannten Person, die mit <persName ref="7251">Alfonso d'Avalos</persName>, dem Statthalter des Kaisers in <placeName ref="306">Mailand</placeName>, hätte identifiziert werden sollen (richtig in <i>Henrich, <persName ref="8418">Myconius</persName> BW</i> 819, <link fk_file="10965">Nr. 923</link>).</fn>
+			<fn ref="9"><placeName ref="911">Poschiavo</placeName> (Kt. Graubünden).</fn>
+			<fn ref="10">In der Dominikanerkirche (Predigerkloster; s. <link fk_file="12861">Nr. 2812</link>,7-10; <bibl>Fischer, Chronik</bibl> 130) sowie im Münster (s. <i>Keim, <placeName ref="513">Ulm</placeName> 395).</i> -Vgl. auch Nr. 2821,52-54.</fn>
+			<fn ref="11"><persName ref="7840">Otto Truchsess von Waldburg</persName>. - Zu dessen Entschädigungsforderungen s. <i>Roth, <placeName ref="1976">Augsburg</placeName></i> IV 16-21.</fn>
+			<fn ref="12"><persName ref="18477">König Ferdinand I.</persName> - Die Verhandlungen über dessen Entschädigung zogen sich bis Ende Mai 1547 hin; s. <i>Roth, <placeName ref="1976">Augsburg</placeName></i> IV 21-25.</fn>
+			<fn ref="13"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="14"><persName ref="18250">Herzog Moritz von Sachsen</persName>. - Am 25. Februar 1547 kam Ferdinand mit 2000 Reitern in <placeName ref="1567">Pirna (Sachsen)</placeName> an und zog dann bis <placeName ref="1682">Meißen</placeName>, wo er noch Anfang März lag; s. <i><persName ref="18250">Moritz von Sachsen</persName> PK</i> III 18.</fn>
+			<fn ref="15"><persName ref="7637">Franz I.</persName></fn>
+			<fn ref="16"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="17">7 <persName ref="18593">Sultan Suleiman I.</persName></fn>
+			<fn ref="18">Ein falsches Gerücht. - Zu den Abwehrmaßnahmen, die Ferdinand im Januar und Februar 1547 von <placeName ref="396">Prag</placeName> aus gegen die Türken ergriff, s. Johann <i>Loserth.</i> Innerösterreich und die militärischen Maßnahmen gegen die Türken im 16. Jahrhundert. Studien zur Geschichte der Landesdefension und der Reichshilfe, Graz 1934. S. 50.</fn>
+			<fn ref="19">Siehe dazu <link fk_file="12871">Nr. 2822</link>, Anm. 16.</fn>
+			<fn ref="20">= Nondum; s. <bibl>Stotz</bibl> III 51, Nr. 39.8.</fn>
+			<fn ref="21"><persName ref="7706">Nicolas de Perrenot</persName>, Herr von Granvelle, der damals nach <placeName ref="631">Burgund</placeName> gereist war; s. <link fk_file="12871">Nr. 2822</link>, Anm. 10.</fn>
+			<fn ref="22" type="bio" fk_person="7689">Vgl. auch <link fk_file="12870">Nr. 2821</link>.89-92. - <persName ref="7689">Johann von Naves</persName> starb am 20. Februar; s. <link fk_file="12873">Nr. 2824</link>, Anm. 5.</fn>
+			<fn ref="23">Siehe dazu <link fk_file="12807">Nr. 2758</link>, Anm. 9.</fn>
+		</num>
+	</footnotes>
+</file>

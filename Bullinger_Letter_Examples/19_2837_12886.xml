@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12886" id_hbbw="2837" id_irg_sort="2837" id_sort="128370">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12886</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2837</arpa>
+		<scan_pages>
+			<scan id="30174" dir="12886/Autograph/" page="1">00 E_II_370__fol__55_r_.tif</scan>
+			<scan id="30175" dir="12886/Autograph/" page="2">01 E_II_370__fol__55_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26316" vf="1" fk_add_type="1">
+				<person id="8018" fk_id="8018">
+					<name>Haller d.J.</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="18" vf="" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26317" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12886">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">5</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19456">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 370,55</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12435" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2837, S. 387</entry>
+				<page>387</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="37">
+				<lang id="1" iso="de" count="3" p="8.1"/>
+				<lang id="5" iso="la" count="34" p="91.9"/>
+			</sentences>
+			<words count="384">
+				<lang id="1" iso="de" count="43" p="11.2"/>
+				<lang id="5" iso="la" count="341" p="88.8"/>
+			</words>
+			<chars count="2194">
+				<lang id="1" iso="de" count="210" p="9.6"/>
+				<lang id="5" iso="la" count="1984" p="90.4"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2837" page="387">
+		<div ref="1">
+			[1] Der <placeName ref="1976">Augsburger</placeName> Rat hat den beiden Kollegen <persName ref="8130">Lorenz Meyer</persName> und
+			<persName ref="6544">Rudolf Schwyzer d.Ä.</persName> ohne Weiteres die Rückkehr nach Zürich gestattet, zumal sie der
+			<placeName ref="1976">Augsburger</placeName> Kirche kaum von Nutzen waren und ohnehin täglich
+			geflohene Pfarrer in <placeName ref="1976">Augsburg</placeName> eintreffen. <persName ref="8018">Haller</persName> versuchte
+			vergeblich, die beiden zum Bleiben zu bewegen. Weder sie noch der
+			<placeName ref="1976">Augsburger</placeName> Rat waren dazu gewillt. Der Rat hielt allerdings den von
+			seiner Frau [...] begleiteten <persName ref="2812">Thoman Ruman</persName> zurück, damit <persName ref="8018">Haller</persName> nicht allein bleibe. <persName ref="8130">Meyer</persName> und <persName ref="6543">Schwyzer</persName>
+			werden über die Lage berichten und diese vermutlich überspitzt darstellen, um ihre Rückkehr zu
+			rechtfertigen.
+		</div>
+		<div ref="2">
+			[2] Der gelehrte <persName ref="8130">Meyer</persName>, den <persName ref="8018">Haller</persName> gut leiden kann, sei Bullinger empfohlen. Für <persName ref="6543">Schwyzer</persName>, der sich <persName ref="8018">Haller</persName>
+			gegenüber unmöglich verhielt, sollen jedoch keine Nachteile in Zürich entstehen. Falls er aber schlecht über
+			<persName ref="8018">Haller</persName> spricht, möge Bullinger dies mitteilen. <persName ref="8018">Haller</persName> kann bei diesem nicht den apostolischen Geist spüren,
+			welcher nach dem Heil und dem Frieden in der Kirche trachtet und sich sogar den Andersgesinnten anpassen
+			kann. Daher sollte <persName ref="6543">Schwyzer</persName> lieber bei seinen Bauern bleiben, die derartige Prädikanten schätzen!
+		</div>
+		<div ref="3">
+			[3] Hoffentlich ziehen die kaiserlichen Besatzungstruppen bald wieder ab. <persName ref="18538">Kaiser Karl V.</persName> soll aus
+			<placeName ref="513">Ulm</placeName> abgereist sein. Neulich ließ der Hauptmann [<persName ref="7760">Bernhard von Schaumburg</persName>] durch einen Priester [...], welcher zugleich als Soldat dient, eine Privatmesse in der
+			Kapitelstube des Stiftes St. Ulrich abhalten. Die Pfarrer meldeten
+			dies dem Rat, und daraufhin sprachen die Bürgermeister [<persName ref="1410">Jakob Herbrot</persName> und <persName ref="3927">Hans Welser</persName>] mit dem Hauptmann.
+			Das Ergebnis ist unbekannt. <persName ref="8018">Haller</persName> fürchtet, dass der Teufel sich so wieder in die Stadt einschleicht.
+		</div>
+		<div ref="4">
+			[4] Herzog <persName ref="18604">Wilhelm von Bayern</persName>, der <placeName ref="1976">Augsburger</placeName> Bischof 
+			<persName ref="7840">Otto Truchsess von Waldburg</persName> und <persName ref="18477">König Ferdinand</persName> verhandeln über ihre Geldforderungen mit den Augsburgern. Dass
+			dabei die Kassen geleert werden, ist erträglich, solange die Religion unangetastet bleibt!
+		</div>
+		<div ref="5">
+			[5] Am 27. Februar hat Graf <persName ref="17927">Friedrich von Fürstenberg</persName> dem Rat im Namen des Kaisers den Eid abgenommen. Die
+			an der Nase herumgeführte Bürgerschaft weigerte sich allerdings, den Eid zu leisten. Die Pfarrer argwöhnen,
+			dass man ihnen die Religionsfreiheit nur deshalb gewährt, damit auch den Pfaffen und Mönchen die Rückkehr in
+			die Stadt und die Ausübung ihrer Religion erlaubt werde. Bullinger möge <persName ref="8018">Haller</persName> diesbezüglich väterlich
+			beraten.
+		</div>
+		<div ref="6">
+			[6] Grüße an <persName ref="8127">Konrad Pellikan</persName>, <persName ref="8171">Theodor Bibliander</persName>, <persName ref="8011">Rudolf Gwalther</persName>, an
+			die übrigen Kollegen und an Bullingers Familie. Nächste Woche wird <persName ref="8018">Haller</persName> vielleicht ausführlicher mit einem
+			nach Zürich reisenden <placeName ref="1976">Augsburger</placeName> [...] berichten.
+		</div>
+		<div ref="7">
+			[7] [P.S.:] Gruß an den Schwiegervater <persName ref="5413">Ulrich Kambli</persName>, dem <persName ref="8018">Haller</persName> nicht schreiben kann. Bullinger möge den
+			beigelegten Brief dem Stiefvater [...] übermitteln.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2837" page="387">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. P. D.</s>
+				<s n="2" lang="la" state="auto">Redeunt ad vos fratres duo <persName ref="8130">Laurentius</persName><fl>1</fl> et <persName ref="6544" state="auto_name">Svitzerus</persName><fl>2</fl> senatu facile hoc eis concedente,<fl>3</fl> quandoquidem parvus vel nullus eorum in ecclesia <pb_edition start_of="388"/> nostra usus fuit<fl>a</fl>, cum quotidie confluant ministri exules multi.<fl>4</fl></s>
+				<s n="3" lang="la" state="auto">Laboravi multum, ut retinerem eos, si quo modo vel una haec possit conservari ecclesia; sed nec apud ipsos hoc impetrare potui nec senatum cogere, ut invitos detineret.</s>
+				<s n="4" lang="la" state="auto"><persName ref="2812">Romanum</persName><fl>5</fl>, quia uxorem<fl>6</fl> secum habet, retinuerunt, ne ego essem solus.</s>
+				<s n="5" lang="la" state="auto">Quomodo se res habeant modo, narrabunt ipsi, quamvis non dubito exaggeraturos valde, ut reditus iustiorem videantur habere causam.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="6" lang="la" state="auto"><persName ref="8130">Laurentium</persName> amo valde propter eruditionem.<fl>7</fl></s>
+				<s n="7" lang="la" state="auto">Eum, tibi alias commendatum, iterum commendo.</s>
+				<s n="8" lang="la" state="auto">Alter indigne mecum egit.<fl>8</fl></s>
+				<s n="9" lang="la" state="auto">Dominus illi condonet, quia ego remisi dudum.</s>
+				<s n="10" lang="la" state="auto">Nolo etiam, ut propter me minus a vobis promoveatur.</s>
+				<s n="11" lang="la" state="auto">Hoc unum oro, ut, si me sit traducturus, in tempore significes.</s>
+				<s n="12" lang="la" state="auto">Non video in eo spiritum apostolicum, qui ecclesiae pacem et salutem quaerat, qui possit se accommodare etiam ignotorum ingeniis.<fl>9</fl></s>
+				<s n="13" lang="la" state="auto">Satius ergo est, ut apud suos rusticos<fl>10</fl> retineatur, qui tales magnifaciunt concionatores.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="14" lang="la" state="auto">Speramus militem<fl>11</fl> mox ab urbe discessurum.</s>
+				<s n="15" lang="la" state="auto"><persName ref="18538">Caesarem</persName><fl>12</fl> <placeName ref="513">Ulmam</placeName> reliquisse fama est.</s>
+				<s n="16" lang="la" state="auto">Summus ille capitaneus<fl>13</fl> proxime per sacerdotem<fl>14</fl> (qui et miles est) privatim missam celebrari fecit in stuba<fl>15</fl> collegii S. Ulrychi.</s>
+				<s n="17" lang="la" state="auto">Monuimus senatum.</s>
+				<s n="18" lang="la" state="auto">Allocuti sunt ipsum consules.<fl>16</fl></s>
+				<s n="19" lang="la" state="auto">Quid impetraverint, nescio.</s>
+				<s n="20" lang="la" state="auto">Vereor, ne ita pedetentim relabatur satan.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="21" lang="la" state="auto">Dux Bavariae<fl>17</fl>, episcopus <placeName ref="1976">Augustanus</placeName><fl>18</fl> et <persName ref="18477">Ferdinandus</persName><fl>19</fl> iam etiam cum nostris agunt de pecuniis.</s>
+				<s n="22" lang="de" state="auto">Ich mein, die seck werdind einmal<fl>20</fl> glert.</s>
+				<s n="23" lang="la" state="auto">Sed possunt omnia ferri, modo salva sit religio.<pb_edition start_of="389"/></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="24" lang="de" state="auto">27. februarii hatt der rat dem graff <persName ref="17927">Friderychen von Fürstenberg</persName> gschworen in nammen deß keisers.<fl>21</fl></s>
+				<s n="25" lang="de" state="auto">Die gmein<fl>22</fl> hatt nitt wellen schweeren, aber man fuͤrt si bi der nasen umb, das unser keiner weißt, woran wir sind.</s>
+				<s n="26" lang="la" state="auto">Metuimus, ne ita libera nobis relinquatur doctrina, ut etiam sua interim libera pfaffis et monachis in urbe restituatur et permittatur religio.</s>
+				<s n="27" lang="la" state="auto">Non video, quem alium finem hoc negotium sit habiturum.</s>
+				<s n="28" lang="la" state="auto">Tu itaque, venerande pater, mihi tanquam filio rebus sic habentibus, quid agere debeam, consule, quaeso, meque habeto tibi commendatum.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="29" lang="la" state="auto">Salvos cupio patres<fl>b</fl> ac dominos venerandos <persName ref="8127">Pellicanum</persName>, <persName ref="8171">Bibliandrum</persName>, <persName ref="8011">Gvaltherum</persName> et reliquos una cum familia tua.</s>
+				<s n="30" lang="la" state="auto">Proxima septimana quidam civis <placeName ref="1976">Augustanus</placeName><fl>23</fl> ad vos proficiscetur, per quem, si quae habuero, scribam plura.</s>
+				<s n="31" lang="la" state="auto">5. martii 1547.</s>
+				<s n="32" lang="la" state="auto"><persName ref="8018">Ioan. Hallerus</persName>, perpetuo tuus.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="33" lang="la" state="auto">Socero meo<fl>24</fl> dicas salutem et salva esse omnia.</s>
+				<s n="34" lang="la" state="auto">Non vacat ei scribere.</s>
+				<s n="35" lang="la" state="auto">Literas vitrico<fl>25</fl> mittendas ei modo tradas.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="36" lang="la" state="auto">Clarissimo viro d. Heinrycho Bullingero, domino et patri suo venerando.</s>
+				<s n="37" lang="la" state="auto">Tiguri.<fl>26</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2837">
+		<alpha>
+			<fn ref="a"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="b"><i>In der Vorlage aus</i> fratres <i>korrigiert.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="8130">Lorenz Meyer (Agricola)</persName>.</fn>
+			<fn ref="2"><persName ref="6544">Rudolf Schwyzer d.Ä.</persName></fn>
+			<fn ref="3">Vgl. <link fk_file="12835">Nr. 2786</link>,57-61; <link fk_file="12840">Nr. 2791</link>,66-70; <link fk_file="12854">Nr. 2805</link>,11-13.</fn>
+			<fn ref="4">Vgl. etwa <bibl>HBBW</bibl> XVIII 281f,46-51; und <link fk_file="12888">Nr. 2839</link>,10f.</fn>
+			<fn ref="5"><persName ref="2812">(Hans) Thoman Ruman (Römer)</persName>.</fn>
+			<fn ref="6">Unbekannt.</fn>
+			<fn ref="7">Vgl. <bibl>HBBW</bibl> XVIII 96.176f; 107,8; 285,142f; 306,52f.</fn>
+			<fn ref="8">Siehe aaO, 306,57f; 363,161-163.</fn>
+			<fn ref="9">Anspielung auf 1Kor 9, 19-23.</fn>
+			<fn ref="10"><persName ref="6544">Schwyzer d.Ä.</persName> war vor seiner Anstellung in <placeName ref="1976">Augsburg</placeName> Pfarrer in <placeName ref="1562">Richterswil (Landschaft Zürich)</placeName> gewesen (s. <bibl>HBBW</bibl> XVII 380, Anm. 64), wohin er nach seinem <placeName ref="1976">Augsburger</placeName> Aufenthalt zurückkehrte.</fn>
+			<fn ref="11">Die kaiserliche Besatzung; s. <link fk_file="12870">Nr. 2821</link>,10f. 184-187. - Am 27. Februar gelangte das siebte und am 14. März (vielleicht aber schon am 12. oder kurz davor - s. nämlich <link fk_file="12893">Nr. 2844</link>,15-17) die drei letzten Fähnlein der Besatzung in die Stadt; s. <i>Roth, <placeName ref="1976">Augsburg</placeName></i> IV 13f. Auch <bibl>Schertlin, Leben</bibl> 61 berichtet von zehn Fähnlein.</fn>
+			<fn ref="12"><persName ref="18538">Karl V.</persName> - Zu dessen Aufbruch von <placeName ref="513">Ulm</placeName> s. Nr. 2835, Anm. 19.</fn>
+			<fn ref="13"><persName ref="7760">Bernhard von Schaumburg</persName>, Hauptmann der kaiserlichen Besatzung in <placeName ref="1976">Augsburg</placeName>.</fn>
+			<fn ref="14">Unbekannt.</fn>
+			<fn ref="15">Kapitelstube. - Vgl. <i>Henrich, <persName ref="8418">Myconius</persName> BW</i> 948f, <link fk_file="11105">Nr. 1062</link>.</fn>
+			<fn ref="16"><persName ref="1410">Jakob Herbrot</persName> und <persName ref="3927">Hans Welser</persName>.</fn>
+			<fn ref="17">Herzog <persName ref="18604">Wilhelm IV. von Bayern</persName>. - Er hatte eine Gesandtschaft nach <placeName ref="1976">Augsburg</placeName> geschickt, die am 2. März dort ankam und mit dem Rat aushandelte, dass dem Herzog 20000 Gulden entrichtet wurden, woraufhin dieser die Sperre gegen die Stadt aufhob; s. <i>Roth, <placeName ref="1976">Augsburg</placeName></i> IV 25-27.</fn>
+			<fn ref="18">Kardinal <persName ref="7840">Otto Truchsess von Waldburg</persName>. - Siehe dazu <link fk_file="12885">Nr. 2836</link>, Anm. 11.</fn>
+			<fn ref="19"><persName ref="18477">König Ferdinand I.</persName> - Siehe <link fk_file="12885">Nr. 2836</link>, Anm. 12.</fn>
+			<fn ref="20">schließlich.</fn>
+			<fn ref="21">Siehe <i>Roth, <placeName ref="1976">Augsburg</placeName></i> IV 10f.</fn>
+			<fn ref="22">Bürgergemeinde.</fn>
+			<fn ref="23">Der unbekannte <placeName ref="1976">Augsburger</placeName>, den <persName ref="8018">Haller</persName> auch in <link fk_file="12893">Nr. 2844</link>,2, erwähnt.</fn>
+			<fn ref="24"><persName ref="5413">Ulrich Kambli</persName>.</fn>
+			<fn ref="25">Unbekannt. - Er lebte in <placeName ref="82">Bülach</placeName>; s. <bibl>HBBW</bibl> XVIII 155, Anm. 101.</fn>
+			<fn ref="26">Dieser Brief wie auch die Briefe gleichen Datums von <persName ref="1860">Michael Keller</persName> (<link fk_file="12887">Nr. 2838</link>) und <persName ref="8417">Wolfgang Musculus</persName> (<link fk_file="12888">Nr. 2839</link>) wurden durch <persName ref="8130">Meyer</persName> und <persName ref="6543">Schwyzer</persName> übermittelt, denen <persName ref="7197">Hans Wilpert Zoller</persName> als Begleiter zugewiesen wurde; s. <link fk_file="12893">Nr. 2844</link>,1f.</fn>
+		</num>
+	</footnotes>
+</file>

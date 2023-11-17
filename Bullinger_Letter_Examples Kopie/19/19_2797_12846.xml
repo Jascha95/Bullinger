@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12846" id_hbbw="2797" id_irg_sort="2797" id_sort="127970">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12846</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2797</arpa>
+		<scan_pages>
+			<scan id="30062" dir="12846/Autograph/" page="1">00 E_II_336__fol__286_r_.tif</scan>
+			<scan id="30063" dir="12846/Autograph/" page="2">01 E_II_336__fol__286_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26236" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26237" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12846">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">6</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19413">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 336a,271</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9079" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 937f, Nr. 1054</entry>
+			</print>
+			<print id="12446" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2797, S. 265</entry>
+				<page>265</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="52">
+				<lang id="1" iso="de" count="1" p="1.9"/>
+				<lang id="5" iso="la" count="51" p="98.1"/>
+			</sentences>
+			<words count="631">
+				<lang id="1" iso="de" count="1" p="0.2"/>
+				<lang id="5" iso="la" count="630" p="99.8"/>
+			</words>
+			<chars count="3492">
+				<lang id="1" iso="de" count="9" p="0.3"/>
+				<lang id="5" iso="la" count="3483" p="99.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2797" page="264">
+		<div ref="1">
+			[1] <persName ref="8418">Myconius</persName> liegt krank darnieder. Jeder will von ihm wissen, ob nun <placeName ref="2448">die Fünf Orte</placeName> wirklich Bullinger und
+			<persName ref="8011">Rudolf Gwalther</persName> wegen Verletzung des [Zweiten <placeName ref="242">Kappeler</placeName>]
+			Landfriedens bestrafen wollen. Doch kann er keine genaue Auskunft darüber geben. Es belastet ihn, immer
+			etwas anderes und im Laufe der Zeit stets etwas Schlimmeres darüber zu hören. Bullinger hatte zwar [in
+			<link fk_file="12806">Nr. 2757</link>] <persName ref="8011">Gwalthers</persName> „Endtchrist“ erwähnt, berichtete aber nichts über sich
+			selbst. Falls man ihn wegen derselben Sache belangt, wird er sich wohl zu verteidigen wissen. Gerade kam
+			<persName ref="5441">Isaak Keller</persName> mit Bullingers Brief [<link fk_file="12837">Nr. 2788</link>]. Dies ermöglichte eine Nachfrage
+			über die Angelegenheit, zumal der Brief keine Auskunft darüber gibt. <persName ref="5441">Keller</persName> behauptet, dass die Sache
+			erledigt sei. Wie schön! Gott sei Dank!
+		</div>
+		<div ref="2">
+			[2] Die Lage in <entity id="78" type="geo_region">Schwaben</entity> ist furchtbar!
+			<placeName ref="457">Konstanz</placeName> ist besonders zu bedauern, jedoch auch die Helvetier,
+			deren Machtlosigkeit hier klar ersichtlich wird. Denn wenn die Helvetier den Spaniern und Italienern
+			erlauben, den <entity id="1" type="geo_lake">Bodensee</entity> zu überqueren und
+			<placeName ref="457">Konstanz</placeName> zu besetzen, erlauben sie diesen, ihren Boden zu betreten
+			und sie von dort aus anzugreifen. Gott scheint fest vorzuhaben, die Eidgenossen zu bestrafen!
+		</div>
+		<div ref="3">
+			[3] Vom Hof des französischen Gesandten [<persName ref="944">Antoine Morelet du Museau</persName> oder François de <persName ref="17922">La Rivière</persName>] kommt die
+			Mitteilung, dass <persName ref="17889">Emanuel Philibert</persName>, der Sohn Herzog <persName ref="18536">Karls III. von Savoyen</persName>, mit der Unterstützung des portugiesischen Königs Johann
+			III. ein Heer von etwa 70000 Spaniern aufstellt, um damit <entity id="75" type="geo_region">Savoyen</entity>
+			zurückerobern zu können. Auch [Philipp von Spanien], der Sohn <persName ref="18538">Kaiser Karls V.</persName>, sei dabei. <persName ref="18536">Karl III. von Savoyen</persName> hat gewiss vor, sein ihm im deutschen Reichsteil
+			besetztes Territorium wieder für sich zu beanspruchen und dort Besatzungstruppen zu stationieren, um einen
+			Aufstand zu verhindern. Dies ist der Preis, den Deutschland zahlen muss, weil es dem wortbrüchigen
+			<placeName ref="168">Genter</placeName> [<persName ref="18538">Karl V.</persName>] erlaubt hat, fremde Truppen bei sich einzuführen!
+		</div>
+		<div ref="4">
+			[4] Dass der Kurfürst <persName ref="19065">Johann Friedrich</persName> seit seiner Rückkehr nach
+			<placeName ref="749">Sachsen</placeName> Gott auf seiner Seite hat, ist gut bekannt. Bullinger
+			wird aber nicht erfahren haben, dass <persName ref="18250">Herzog Moritz von Sachsen</persName> den Bürgern von
+			<placeName ref="284">Leipzig</placeName> befohlen hat, alles Gold und Silber zur größeren
+			Sicherheit in die Festung zu schaffen; dass er danach diese Gegenstände<pb_edition start_of="265"/> an sich
+			riss, <placeName ref="284">Leipzig</placeName> verließ und dort neun Fähnlein sowie seinen Bruder
+			<persName ref="18509">August</persName> und einige Adlige zurückließ. Am 14. Januar begann die Belagerung durch den Kurfürsten. Der Fluss
+			[Elster?] wurde umgeleitet. Am 18. fügte der Kurfürst den zwölf
+			schon vorhandenen Geschützen 20 weitere hinzu. Was danach geschah, ist nicht bekannt. <persName ref="18250">Moritz</persName> wartet auf
+			kaiserliche Verstärkung. Der Kurfürst ist frohgemut; ebenso dessen Söldner, die ihren Sold erhalten. Soeben
+			kam eine aus Belgien stammende Adlige <persName ref="8473">[Anne t’Serclaes]</persName>, die im
+			Auftrag ihres adligen englischen Mannes [<persName ref="1560">John Hooper</persName>] berichtet, dass <persName ref="18250">Moritz</persName> wirklich festgenommen sei!
+		</div>
+		<div ref="5">
+			[5] Über Landgraf <persName ref="18574">Philipp von Hessen</persName> gibt es eine derart erfreuliche Nachricht, dass <persName ref="8418">Myconius</persName> diese kaum zu
+			glauben wagt. Doch kann er sie Bullinger nicht verschweigen: Philipp soll bis an die 10000 Söldner, die in
+			 <entity id="119" type="geo_region">Süddeutschland</entity> angeworben worden und für das große, sich bei <placeName ref="267">Köln</placeName>
+			sammelnde kaiserlich Heer bestimmt waren, umgebracht haben!
+		</div>
+		<div ref="6">
+			[6] Im Gegensatz zur letzten Nachricht (die auch den Straßburgern unbekannt ist) sind die Mitteilungen über
+			den Kurfürsten verbürgt. <placeName ref="492">Straßburg</placeName> scheint standhaft bleiben zu
+			wollen. Sultan Suleiman steht unmittelbar vor einem Angriff. <persName ref="7637">König Franz I.</persName> macht wie bisher weiter. <persName ref="19981">Papst Paul III.</persName>, den einige für tot erklären, soll sich nun gegen den Kaiser gestellt haben. Die
+			<placeName ref="2449">Böhmen</placeName> sind zerstritten und weigern sich, gegen den Kurfürsten zu
+			ziehen.
+		</div>
+		<div ref="7">
+			[7] Der Herr bereite dieser schlimmen Lage ein Ende und verleihe Ausdauer!
+		</div>
+		<div ref="8">
+			[8] Gruß. Bullinger möge vorliegenden mit Mühe im Bett verfassten Brief gut aufnehmen. <persName ref="8011">Gwalther</persName> erweise
+			sich mutig!
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2797" page="265">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Omnes veniunt ad me decumbentem<fl>1</fl> rogantes, quid sit, quod feratur Quinquepagicos<fl>2</fl> postulare te et <persName ref="8011">Gvaltherum</persName>, ut suo iure agant vobiscum ut cum violatoribus pacis communis.<fl>3</fl></s>
+				<s n="3" lang="la" state="auto">Ego respondere non possum, quia ea de re ex vobis nihil hactenus accepi.</s>
+				<s n="4" lang="la" state="auto">Perturbant itaque me valde vehementer, dum ille hoc, alius illud narrat et semper posterius infelicius est.</s>
+				<s n="5" lang="la" state="auto">De solo <persName ref="8011">Gvalthero</persName> tu meministi propter Antichristum ipsius,<fl>4</fl> de te ipso autem nihil, nec interim causa narratur, curnam et te postulent.</s>
+				<s n="6" lang="la" state="auto">Si utriusque causa est eadem, non difficilis erit defensio, modo sit ius et iusticia; sin tu causam habes peculiarem, eam quia nescio, dicere nihil valeo.</s>
+				<s n="7" lang="la" state="auto">Hęc autem postquam hucusque scripsi, <persName ref="5441">Isaacus Cellarius</persName><fl>5</fl> intervenit cum tuis, in quibus ubi nihil invenio de tragoedia ista, rogo, numquid ipse aliquid certi queat referre.</s>
+				<s n="8" lang="la" state="auto"><persName ref="19981">Maxime</persName> respondit.</s>
+				<s n="9" lang="la" state="auto">Pacata igitur narravit esse omnia.<fl>6</fl></s>
+				<s n="10" lang="la" state="auto">Exultavi quamvis in lectulo et gratias egi domino; nam res talis visa erat mihi, ut ex qua non solum evangelium periturum nobis fuisset, sed etiam foederis nostri gloria.</s>
+				<s n="11" lang="la" state="auto">In gratiarum actione manebo itaque, dum tu me iusseris aliter.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="12" lang="la" state="auto">Ex Suevia video omnia esse multo miserrima.</s>
+				<s n="13" lang="la" state="auto">Et <placeName ref="457">Constantiam</placeName> quidem deploro,<fl>7</fl> non propter ipsam modo, sed etiam propter Helvetios, quorum <pb_edition start_of="266"/> infelicitatem hic magis intueor quam alibi unquam.</s>
+				<s n="14" lang="la" state="auto">Nam si<fl>a</fl> permiserint, ut lacum<fl>8</fl> transeant <entity id="29" type="geo_country">Hispani</entity> et <entity id="16" type="geo_country">Itali</entity> et civitatem occupent, quid aliud permiserunt quam viros iniquissimos in suum territorium ingredi?</s>
+				<s n="15" lang="la" state="auto">Et quis eiiciet eos, imo quis prohibebit, ne perrecturi sint et ad vos et alios Helvetios?</s>
+				<s n="16" lang="la" state="auto">Deus hoc introitu faciet contra nos<fl>b</fl> aliquid, quod non vidisse poenitebit.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="17" lang="la" state="auto">Venit ad me, ex aula credo legati<fl>9</fl> Galli<fl>10</fl>, ducis <entity id="75" type="geo_region">Sabaudię</entity> filium<fl>11</fl> congregasse ex <entity id="29" type="geo_country">Hispania</entity> exercitum ad 70000 usque pecuniam subpeditante rege Portugallię.<fl>12</fl></s>
+				<s n="18" lang="la" state="auto">Adesse quoque ibi filium cęsaris.<fl>13</fl></s>
+				<s n="19" lang="la" state="auto">Pręvolat rumor, quod reddere velint ducem suo regno.<fl>14</fl></s>
+				<s n="20" lang="la" state="auto">Sed quid hic cęsaris filius, nisi ut Germaniam occupatam vendicet ac subsidia imponat, ne quando possit rebellare?</s>
+				<s n="21" lang="la" state="auto">Hoc est praemium Germanię, quod exercitum alienum permisit introduci a <placeName ref="168">Gandavo</placeName><fl>15</fl> periuro, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="22" lang="la" state="auto">De electore<fl>16</fl> nosti, ut dominus magnifice cum eo fuerit, postquam rediit in <persName ref="19065">Saxoniam</persName>.</s>
+				<s n="23" lang="la" state="auto">Unum illud forsitan nescis de Mauricio<fl>17</fl>: Ipsum edixisse suis civibus <placeName ref="284">Lipsię</placeName>, ut, quicquid haberent argenti et auri, facti infective, omne id in arcem inferrent, quo a milite praesidiario<fl>18</fl> melius servaretur.</s>
+				<s n="24" lang="la" state="auto">Ea omnia vel maximam saltem partem ipse postea avexit et erupit.</s>
+				<s n="25" lang="la" state="auto">Pręsidium relictum est 9 signorum cum fratre<fl>19</fl> et nobilitate.</s>
+				<s n="26" lang="la" state="auto">Ianuarii 14. coepta est obsidio et flumen<fl>20</fl> aversum.</s>
+				<s n="27" lang="la" state="auto">18. primum adductis bombardis ad 20 praeter 12 priores <pb_edition start_of="267"/> coepit<fl>21</fl> oppidum gravius urgere.</s>
+				<s n="28" lang="la" state="auto">Quid autem factum postea, nescitur.</s>
+				<s n="29" lang="la" state="auto">Mauricius cum paucis copiis auxilia expectat cęsaris.<fl>22</fl></s>
+				<s n="30" lang="la" state="auto">Elector mirifice erectus et confidens est; miles quoque: solutus est enim.</s>
+				<s n="31" lang="la" state="auto">Dum hęc scribo, venit mulier ad me nobilis ęgrotum<fl>23</fl> invisens ex <entity id="5" type="geo_country">Belgico</entity> orta<fl>24</fl>, quę dixit ex mandato mariti, nobilis <persName ref="1560" state="auto_name">Angli</persName><fl>25</fl>, Mauricium esse ca-<pb_scan n="271v."/>ptum, et vere captum!<fl>26</fl></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="32" lang="la" state="auto">De <persName ref="3590" state="auto_name">Hesso</persName><fl>27</fl> feruntur quędam, quę referre non audeo propter gaudium inde captum.</s>
+				<s n="33" lang="la" state="auto">Vereor enim, ne non sit verum.</s>
+				<s n="34" lang="la" state="auto">Apud te tamen dicam: Aiunt usque ad 10000 perempti<fl>c</fl> ab eo de his, qui in <entity id="119" type="geo_region">Superiore Germania</entity> conducti <placeName ref="267">Coloniam</placeName> voluerint proficisci ad exercitum magnum<fl>28</fl>, qui illic dicitur congregatum.<fl>29</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="35" lang="la" state="auto">De electore vera sunt omnia.</s>
+				<s n="36" lang="la" state="auto">De Hesso dubito; de quo nec <placeName ref="492">Argentina</placeName> certi habet aliquid.</s>
+				<s n="37" lang="la" state="auto">Argentina ipsa sic agit, tanquam in domino velit persistere.</s>
+				<s n="38" lang="la" state="auto"><persName ref="18593" state="auto_name">Turca</persName><fl>30</fl> in foribus est.</s>
+				<s n="39" lang="la" state="auto">Gallus pergit.</s>
+				<s n="40" lang="la" state="auto">Et papam<fl>31</fl> dicunt esse contra cęsarem, de cuius vita dubitatur adhuc.</s>
+				<s n="41" lang="la" state="auto">De Boemis adhuc audimus scissos esse et negare auxilia contra electorem.<fl>32</fl></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="42" lang="la" state="auto">Dominus, quęso, finem faciat rebus tam adflictis pro ipsius bona, et nobis largiatur, ut queamus in sese fortiter perdurare usque in finem.<fl>33</fl></s>
+				<s n="43" lang="la" state="auto">Dominus est et deus namque, qui verba vitę habet ęternę.<fl>34</fl></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="44" lang="la" state="auto">Vale et hęc qualiacunque boni consulito.</s>
+				<s n="45" lang="la" state="auto">In lectulo scripsi enim, non sine difficultate.</s>
+				<s n="46" lang="la" state="auto"><persName ref="8011">Gvaltherum</persName> iube cogitare, propter quem patiatur, et esse bono animo!</s>
+				<s n="47" lang="la" state="auto">Is enim vicit mundum.<fl>35</fl></s>
+				<s n="48" lang="la" state="auto">Dabit etiam, ut ipse quoque victor evadat.</s>
+				<s n="49" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, 6. februarii anno 1547.</s>
+				<s n="50" lang="la" state="auto">Tuus O. M.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="51" lang="la" state="auto">D. Heinricho Bullingero, viro doctissimo piissimoque, fratri ac domino in Christo observando suo.</s>
+				<s n="52" lang="de" state="auto">Zu[rich].<fl>d</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2797">
+		<alpha>
+			<fn ref="a"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="b"><i>Am Rande nachgetragen.</i></fn>
+			<fn ref="c"><i>In der Vorlage</i> perempta. <i>Korrigiert in Anlehnung an das daraufhin gebrauchte</i> conducti. <i>Damit werden die</i> milites <i>oder</i> militares <i>näher bestimmt.</i></fn>
+			<fn ref="d"><i>Textverlust bei der Entfernung des Siegels.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="8418">Myconius</persName> war krank; vgl. auch unten Z. 55f.</fn>
+			<fn ref="2">Die Fünf (katholischen) Orte der Eidgenossenschaft.</fn>
+			<fn ref="3">Der Zweite <placeName ref="242">Kappeler</placeName> Frieden von November 1531. - Hier wird die durch <persName ref="8011">Gwalthers</persName> "Endtchrist" entfachte Reaktion der Innerorte angesprochen; s. Nr. 2757, Anm. 11.</fn>
+			<fn ref="4">Nämlich am 18./19. Januar; s. <link fk_file="12806">Nr. 2757</link>,7f.</fn>
+			<fn ref="5">Der zusammen mit <persName ref="8126">Johannes Oporin</persName> gerade aus <placeName ref="587">Zürich</placeName> zurückgekommen war und <persName ref="8418">Myconius</persName> Bullingers Brief <link fk_file="12837">Nr. 2788</link> vom 2. Februar übermittelte.</fn>
+			<fn ref="6">Eine Übertreibung. Der Zwist zog sich noch mindestens bis 1548 hin. Allerdings hatte der Zürcher Rat Bullinger und <persName ref="8011">Gwalther</persName> beruhigt und ihnen seine Unterstützung versprochen, als er sie am 29. Januar verhört hatte; s. <link fk_file="12816">Nr. 2767</link>,97-100; <link fk_file="12876">Nr. 2827</link>,12-17; <i>Bächtold, Rat 99.</i></fn>
+			<fn ref="7">Bezug auf Bullingers Mitteilung in <link fk_file="12837">Nr. 2788</link>,15-18.</fn>
+			<fn ref="8">Den <entity id="1" type="geo_lake">Bodensee</entity>.</fn>
+			<fn ref="9">Vielleicht aus dem Haus (dem Rosshof) auf dem Nadelberg, das sich der damals vermutlich noch abwesende (s. <bibl>HBBW</bibl> XVIII 295, Anm. 14) <persName ref="944">Antoine Morelet du Museau</persName> im Mai 1546 gekauft hatte; s. <bibl>HBBW</bibl> XVI 368f, Anm. 37. In Frage käme aber auch der Gesandte <persName ref="17922">François de La Rivière</persName>, der damals ebenfalls in <placeName ref="28">Basel</placeName> residierte; s. <i>Rott, Représentation</i> 301.</fn>
+			<fn ref="10">Franz Ï.</fn>
+			<fn ref="11" type="bio" fk_person="17889"><persName ref="17889">Emanuel Philibert</persName>, Sohn Herzog <persName ref="18536">Karls III. von Savoyen</persName>. - <persName ref="17889">Emanuel Philibert</persName> fungierte im Schmalkaldischen Krieg als oberster Befehlshaber über die Kavallerie des Kaiserhofes; s. <i><persName ref="5743">Mameranus</persName>, Exerc.</i> 8.</fn>
+			<fn ref="12"><persName ref="7671">König Johann III. von Portugal</persName>.</fn>
+			<fn ref="13" type="bio" fk_person="18575"><persName ref="18575">Philipp II. von Spanien</persName>, Sohn <persName ref="18538">Karls V.</persName></fn>
+			<fn ref="14">Nämlich das savoyische Territorium, das <placeName ref="41">Bern</placeName> im Winter 1536/37 besetzt hatte.</fn>
+			<fn ref="15">Gemeint ist der in <placeName ref="168">Gent</placeName> geborene <persName ref="18538">Karl V.</persName> - Hier wird auf dessen Wahlkapitulation gegenüber den Fürsten vom 3. Juli 1519 angespielt, in der <persName ref="18538">Karl V.</persName> sich verpflichtet hatte, ohne Vorwissen, Rat und Bewilligung der Reichsstände kein fremdes Kriegsvolk ins Reich zu führen; s. <i>RTA-JR</i> I 870 [13], <link fk_file="10421">Nr. 387</link>; Quellen zur Geschichte <persName ref="18538">Karls V.</persName>, hg. v. Alfred Kohler, Darmstadt 1990, S. 55.</fn>
+			<fn ref="16">Kurfürst <persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="17"><persName ref="18250">Moritz von Sachsen</persName>. - Die hier in Z. 31-39 mitgeteilten Nachrichten hat <persName ref="8418">Myconius</persName> wörtlich aus dem letzten Abschnitt des an ihn gerichteten Briefes von <persName ref="467">Bucer</persName> vom ca. 25. Januar 1547 übernommen (Text in <bibl>PC</bibl> IV/1 584, <link fk_file="10575">Nr. 539</link>; Zusammenfassung in <i>Henrich, <persName ref="8418">Myconius</persName> BW</i> 933, <link fk_file="11091">Nr. 1048</link>).</fn>
+			<fn ref="18">Der Besatzungssoldat; s. <bibl>Kirsch</bibl> 1778 (hier ein kollektiver Singular).</fn>
+			<fn ref="19"><persName ref="18509">Herzog August von Sachsen</persName> (1526-1585). - <persName ref="18250">Moritz</persName> verließ <placeName ref="284">Leipzig</placeName> schon am 5. Januar. noch vor Beginn der Belagerung; s. Georg <i>Voigt,</i> Die Belagerung <placeName ref="284">Leipzigs</placeName> 1547, in: Archiv für die Sächsische Geschichte, hg. v. Karl von Weber, Bd. 11, <placeName ref="284">Leipzig</placeName> 1873, S. 270-272. 310. -Zu der Besatzung, die er dort zurückließ, s. Johann Jacob <i>Vogeln,</i> Leipzigisches Geschicht-Buch oder Annales, <placeName ref="284">Leipzig</placeName> 1714, S. 165.</fn>
+			<fn ref="20">Vermutlich ist die Elster gemeint. Die Nachricht ist fragwürdig. - Zur Belagerung von <placeName ref="284">Leipzig</placeName> s. Nr. 2757, Anm. 76.</fn>
+			<fn ref="21">Subjekt ist der Kurfürst.</fn>
+			<fn ref="22">Siehe dazu schon <link fk_file="12810">Nr. 2761</link>, Anm. 35. Die Hilfstruppen von Markgraf <persName ref="18422">Albrecht II.</persName> Alcibiades hatten <placeName ref="749">Sachsen</placeName> (<placeName ref="1736">Zwickau</placeName>) bereits am 24. und 25. Januar erreicht; s. <i>Voigt,</i> aaO, 138.</fn>
+			<fn ref="23">Gemeint ist der kranke Briefschreiber; vgl. oben Z. 1.</fn>
+			<fn ref="24"><persName ref="8473">Anne t'Serclaes</persName>; vgl. die Stelle in <link fk_file="12847">Nr. 2798</link> bei Anm. 8.</fn>
+			<fn ref="25"><persName ref="1560">John Hooper</persName>.</fn>
+			<fn ref="26">Ein Gerücht.</fn>
+			<fn ref="27"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="28">Das Heer, das der Kaiser seit Ende 1546 am Niederrhein aufstellen ließ. Es stand unter dem Befehl des kaiserlichen Statthalters von <placeName ref="2012">Zeeland</placeName>, <persName ref="7445">Jobst von Cruningen</persName>; s. Werner <i>Storkebaum,</i> Graf Christoph von Oldenburg (1504-1566). Ein Lebensbild im Rahmen der Reformationsgeschichte, Oldenburg 1959, S. 92.</fn>
+			<fn ref="29">Zu ähnlichen falschen Gerüchten über den Landgrafen s. schon <link fk_file="12823">Nr. 2774</link>,321 und <link fk_file="12831">Nr. 2782</link>,34f.</fn>
+			<fn ref="30"><persName ref="18593">Sultan Suleiman I.</persName></fn>
+			<fn ref="31"><persName ref="19981">Paul III.</persName> - Er war damals bald 79 Jahre alt und wurde immer wieder für tot erklärt; s. schon <bibl>HBBW</bibl> XVII 144. 193; XVIII 138 und Anm. 50.</fn>
+			<fn ref="32">Vgl. dazu auch eine Nachricht vom 4. Februar 1547, derzufolge die <placeName ref="2449">Böhmen</placeName> sich weigerten, über die Grenzen hinaus gegen die deutschen Fürsten zu ziehen; s. <i><persName ref="18250">Moritz von Sachsen</persName> PK</i> III 207, <link fk_file="10305">Nr. 274</link>.</fn>
+			<fn ref="33">Phil 4, 1; Apk 2, 10.</fn>
+			<fn ref="34">Joh 6, 68; Apg 5, 20.</fn>
+			<fn ref="35">Joh 16, 33; Apg 1, 8.</fn>
+		</num>
+	</footnotes>
+</file>

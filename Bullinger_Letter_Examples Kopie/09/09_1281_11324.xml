@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11324" id_hbbw="1281" id_irg_sort="1281" id_sort="112810">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11324</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1281</arpa>
+		<scan_pages>
+			<scan id="26331" dir="11324/Autograph/" page="1">00 E_II_343__fol__156_a_r_.tif</scan>
+			<scan id="26332" dir="11324/Autograph/" page="2">01 E_II_343__fol__156_a_v_.tif</scan>
+			<scan id="26333" dir="11324/Autograph/" page="3">02 E_II_343__fol__156_c_r_.tif</scan>
+			<scan id="26334" dir="11324/Autograph/" page="4">03 E_II_343__fol__156_c_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22982" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="1" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22983" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11324">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">6</month>
+				<day fk_d="" d="" vf="1" fn="">17</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17796">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343,156a. 156c</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="7444" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Blarer BW II, S. 27–29, Nr. 844</entry>
+			</print>
+			<print id="7445" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 27–29, Nr. 844</entry>
+			</print>
+			<print id="11131" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1281, S. 158</entry>
+				<page>158</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="46">
+				<lang id="5" iso="la" count="46" p="100.0"/>
+			</sentences>
+			<words count="1016">
+				<lang id="1" iso="de" count="2" p="0.2"/>
+				<lang id="5" iso="la" count="1014" p="99.8"/>
+			</words>
+			<chars count="6059">
+				<lang id="1" iso="de" count="15" p="0.2"/>
+				<lang id="5" iso="la" count="6044" p="99.8"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1281" page="157">
+		<div ref="1">
+			Ist enttäuscht über den Ausgang der [<placeName ref="157">Frankfurter</placeName>] Tagung, aber
+			zuversichtlich, was die Haltung der <placeName ref="457">Konstanzer</placeName> und einiger anderer
+			betrifft. <persName ref="467">[Martin] Bucer</persName> beurteilt
+			das Ergebnis als für alle Beteiligten beschämend und meint, daß der
+			<placeName ref="361">Nürnberger</placeName> Frieden, die bedrohten Glaubensverwandten und der
+			Rechtsanspruch der [evangelischen] Kirchen verraten worden seien; das angekündigte Religionsgespräch
+			hingegen könnte die Unredlichkeit der Gegner entlarven und die Sache der [evangelischen] Kirchen stärken.
+			<persName ref="8055">Blarer</persName> teilt die Zuversicht in bezug auf das Religionsgespräch nicht
+			und wird diese Meinung [zusammen mit <persName ref="4079">Johannes Zwick</persName>] schriftlich beim
+			Rat anbringen; Bullinger soll <persName ref="8049">[Joachim] Vadian</persName>, <persName ref="1365">[Simon] Grynäus</persName> und andere davor bewahren, sich auf das Ränkespiel der Gegner
+			einzulassen. <persName ref="1365">Grynäus</persName> hat ihm geschrieben, er erhoffe von einem
+			öffentlichen Religionsgespräch Vorteile für die Protestanten, und
+			<persName ref="8049">Vadians</persName> Meinung kennt <persName ref="8055">Blarer</persName> aus
+			dessen Brief an <persName ref="4079">Zwick</persName>. Wird am folgenden Tag, widerwillig zwar, nach
+			<placeName ref="1976">Augsburg</placeName> verreisen. <persName ref="4079">Zwick</persName> wird Bullinger ein Exemplar ihrer
+			[Eingabe an den Rat] schicken; bittet, dieses <persName ref="8440">Gervasius [Schuler]</persName>, der auch Neuigkeiten aus
+			<placeName ref="284">Leipzig</placeName> hat, wieder mitzugeben. Grüße. Ermahnt zu vertraulicher
+			Behandlung ihrer Schrift; hat auch <persName ref="1365">Grynäus</persName> ein Exemplar geschickt. Der
+			Rat wird sie wohl am nächsten Tag anhören.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1281" page="158">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Ita est, ut scribis<fl>1</fl>, mi venerande atque charissime Bullingere, fefellit omnino nos magnifica illa de heroibus nostris expectatio<fl>2</fl>; non fallit tamen certissimo certior cęlestis patris promissio, qui caussa tam bona vereque sua cadere nos haud feret, quicquid isti interim indignum se designaverint.</s>
+				<s n="2" lang="la" state="auto"><placeName ref="457">Constantienses</placeName> nostros nec nomini nec honori suo unquam defuturos ut sperem, multis adducor argumentis, quamquam non hos solum, sed alios etiam nonnullos, quorum deus corda tetigit, christianam hic constantiam meditari magna gratulatione accipimus.</s>
+				<s n="3" lang="la" state="auto">Ut autem omnia habeant, non dubito, quin nuper ex germano fratre<fl>3</fl> meo didiceris.</s>
+				<s n="4" lang="la" state="auto">Autores huius malesani consilii, aut proditionis potius, qui sint, non ausim temere suspicari, quod nemini non doleat vel videatur dolere commiserandus iste et pudendus comitiorum exitus et nostrorum<fl>a</fl> animus parum masculus, ne quid gravius dicam, quod profecto, ut possem verissime, ita lubentissime dicerem.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto"><persName ref="467">Bucerus</persName> ita nuper inter alia ad me scripsit<fl>b</fl><fl>4</fl>: „Eventus et<fl>c</fl> actorum summa eiusmodi extitit, ut eius et pigeat et pudeat tam oratorem caesaris<fl>5</fl> quam conciliatores principes<fl>6</fl> quam nos.</s>
+				<s n="6" lang="la" state="auto">Sed id omne ita fataliter accidit, ut clare vidisses dominum omnino decrevisse nos humiliare nec tamen deserere.“</s>
+				<s n="7" lang="la" state="auto">Et post pauca: „Quantum in nobis est, prodidimus statibus imperii pacem <placeName ref="361">Norimbergę</placeName><fl>d</fl> datam, quum hasce inducias<fl>e</fl> per intercessionem regis<fl>7</fl> et conciliatorum principum tanquam gratuitum et novum donum adeo supplices<fl>f</fl> recepimus, quę diserte in illa pace <placeName ref="361">Norimbergensi</placeName><fl>g</fl> per cęsarem et status imperii <placeName ref="410">Ratisponę</placeName> ex iure nobis sancita confirmataque erant<fl>8</fl>.</s>
+				<s n="8" lang="la" state="auto">Prodidimus fratribus nostris fraternam<fl>h</fl> opem et sociis communis imperii auxilium, quod<pb_edition start_of="159"/> illis debemus ex pacto pacis publicę, <de>des landfridens,</de> admissa conditione, ne quem in foedus nostrum recipiamus<fl>9</fl>.</s>
+				<s n="9" lang="la" state="auto">Nam etiamsi orator promiserit neminem religionis caussa ledendum gravandumve esse, scimus tamen, quid illi<fl>i</fl> pręstent.</s>
+				<s n="10" lang="la" state="auto">Et nos, dum nec federis societate valde impellimur, ut fratres adiuvemus cum aliquo discrimine rerum nostrarum, quid faciemus, dum nulla incitabit peculiaris<fl>k</fl> obligatio federis?</s>
+				<s n="11" lang="la" state="auto">Atque<fl>l</fl> fedus nostrum nihil aliud est quam certior pactio de prestando eo auxilio religionis caussa lesis vel periclitantibus, quod cuique christiano et civi imperii debemus ex societate Christi et communis<fl>m</fl> imperii.</s>
+				<s n="12" lang="la" state="auto">Prodidimus denique ecclesiis suum ius et confirmavimus hostibus earum suum sacrilegium eo, quod recepimus nos nihil illis de suo sacrilegio adempturos.</s>
+				<s n="13" lang="la" state="auto">Verum utcunque hęc omnia misere et impie acta sint, tamen nostrum erit boni consulere domini in hoc nostro lapsu consilium et sic de nostris peccatis dolere, ne ea cumulemus.</s>
+				<s n="14" lang="la" state="auto">Eriget Christus, qui lapsi sunt, et confirmabit, qui nutarunt<fl>10</fl> [...].</s>
+				<s n="15" lang="la" state="auto">Illud de conventu<fl>11</fl>, si ipsi nobis non desumus<fl>n</fl>, poterit et nobis animos praeclare augere<fl>o</fl> et adversariorum<fl>p</fl> valde<fl>q</fl> deiicere.</s>
+				<s n="16" lang="la" state="auto">Sive enim eludere hoc promissum sive praevaricari inter agendum illi conentur sive succedat et conventus<pb_scan n="156a v."/> et iusta actio ita, ut convenit, caussa ecclesiarum habebit melius, hostium eius deterius.</s>
+			</p>
+			<p>
+				<s n="17" lang="la" state="auto">Si eludant enim vel praevaricentur, impellent ipsi ad nos multos; si agant, adducet ad nos multos audita et explicata veritas.</s>
+				<s n="18" lang="la" state="auto">Possumus enim facile tueri nostra, quibus salvis lucrum erit, quidquid illi nobis accesserint<fl>r</fl>“ etc.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Hęc <persName ref="467">Bucerus</persName>, unde facile colligis, quam male illum habeant res ecclesię tam infeliciter gestę.</s>
+				<s n="20" lang="la" state="auto">Ego tamen, de conventu quod iudicat, vereor, ut possim subscribere, nam dilemma hoc suum in diversum retorqueri facile poterit, qua de re brevi nostram intelliges sententiam.</s>
+				<s n="21" lang="la" state="auto">Quid enim de toto istoc conventu sentiamus, senatui nostro proximis diebus scripto quodam declarabimus; quod deinde ut ipse quoque legas, diligenter curavero<fl>12</fl>.</s>
+				<s n="22" lang="la" state="auto">Tu hic omnem move lapidem<fl>13</fl>, ne <persName ref="8049">Vadianus</persName>, ne <persName ref="1365">Gryneus</persName> nostri, et quicquid est optimorum eruditissimorum virorum apud Helvetios, istis praestigiis ludificari se patiantur.</s>
+				<s n="23" lang="la" state="auto">In hoc enim toti sunt adversarii, ut exploratis omnibus omnium ingeniis et sententiis paratiores habeant opprimendi et extinguendi nos rationes, quantumvis istuc dissimulent et altera manu panem ostentent<fl>14</fl>,<pb_edition start_of="160"/> id quod cum nostri non satis intelligant, metuendum omnino, ne graves aliquando imprudentię suę pęnas daturi sint.</s>
+			</p>
+			<p>
+				<s n="24" lang="la" state="auto"><persName ref="1365">Gryneus</persName> noster inter alia ad meas ad se datas literas ita respondit<fl>15</fl>: „Quum cęteras conditiones non valde aut probarem aut improbarem, illud tamen ex usu esse maxime videbatur, si quando cum adversariis de religione praesentes iis praesentibus et coram spectantibus, quos hęc recognoscere iam dudum opportuit, decertaremus.</s>
+				<s n="25" lang="la" state="auto">Ita cognosci potest, an errore tenentur, an pervicaciter opprimere caussam bonam instituant.</s>
+				<s n="26" lang="la" state="auto">Quę vero in ea re sint pericula, quę incommoda, certe non reputavi.“</s>
+				<s n="27" lang="la" state="auto">Ad calcem vero addit: „Mihi sic videtur: Si colloquemur, faciemus hanc publicam et extremam coram regibus<fl>16</fl> et principibus testationem, deinde dante deo et hominum consensu melius caussam nostram prosequemur.“</s>
+				<s n="28" lang="la" state="auto">Incomparabilis ille <persName ref="8049">Vadianus</persName> noster quid hic sentiat, ex literis ipsius ad <persName ref="4079">Zviccium</persName> nostrum datis plane intelligo<fl>17</fl>.</s>
+				<s n="29" lang="la" state="auto">Dominus, cuius hic negocium agitur, eiusmodi nobis animos addat, quibus nomen suum sanctificetur in hoc mundo.</s>
+			</p>
+			<p>
+				<s n="30" lang="la" state="auto">Ego me itineri paro cras <placeName ref="1976">Augustam</placeName> profecturus<fl>18</fl>.</s>
+				<s n="31" lang="la" state="auto">Tu dominum pro me interpella, ut hosce conatus, ad quos tam invitus pertrahor, melius quam pro concepta spe fortunet.</s>
+			</p>
+			<p>
+				<s n="32" lang="la" state="auto"><persName ref="4079">Zviccius</persName> noster exemplar ad te mittit scripti nostri<fl>19</fl>, quod quamprimum, hoc est per hunc ipsum <persName ref="8440">Gervasium</persName><fl>20</fl> nostrum, remittes.</s>
+				<s n="33" lang="la" state="auto"><persName ref="8440">Gervasius</persName> de Lypsia quoque nova habet<fl>21</fl>, quę tibi narret; alioqui ipsi de iis scripturi eramus.</s>
+				<s n="34" lang="la" state="auto">Saluta valde quam amanter et honorifice nostris verbis optimos viros <persName ref="8127">Pellicanum</persName>, <persName ref="1753">Leonem</persName><fl>22</fl>, <persName ref="8171">Theodorum</persName><fl>23</fl>, <persName ref="8412">Megandrum</persName>, <persName ref="8437">Erasmum Fabricium</persName> cum cęteris, quorum omnium piis precationibus Christo commendari magnopere cupio, tuis praecipue, mi Bullingere, anime mi, quem, non dico velut alterum, sed eundem me totis visceribus in unico et communi servatore deamo, id quod utinam, quam volo, tam possim etiam clarissimo aliquo argumento testari.</s>
+				<s n="35" lang="la" state="auto">Dominum autem supplex obsecro, ut istuc aliquando per occasionem aliquam liceat; nihil magis in votis habeo.</s>
+				<s n="36" lang="la" state="auto">Bene vale, venerande mihi et charissime frater.</s>
+				<s n="37" lang="la" state="auto">Salutamus te tuamque coniugem<fl>24</fl> nos<fl>25</fl> et germani nostri fratres<fl>26</fl> cum sorore <persName ref="8055" state="auto_name">Margarita</persName><fl>27</fl>.</s>
+			</p>
+			<p>
+				<s n="38" lang="la" state="auto"><pb_scan n="156c r."/>Iterum te per amicam nostram fidem obtestamur, ut ne fraudi nobis sit, quod ad te misimus exemplar, sed illud tibi aut paucissimis etiam aliis (si videbitur) legas moxque per <persName ref="8440">Gervasium</persName> perferri ad nos diligenter cures.</s>
+			</p>
+			<p>
+				<s n="39" lang="la" state="auto">Nosti, quam omnia hodie in calumnias rapiantur, nostra inprimis, qui alioqui<pb_edition start_of="161"/> hoc nomine male audimus, quod a communibus aliorum sententiis abhorrere fere soleamus.</s>
+				<s n="40" lang="la" state="auto">Ego nudius quartus per tabellarium<fl>28</fl> <placeName ref="28">Basileam</placeName> proficiscentem <persName ref="1365">Gryneo</persName> quoque exemplar meapte manu primo exaratum misi<fl>29</fl>, sed hac ipsa lege, ut lectum protinus per eundem<fl>s</fl> nuncium remittat.</s>
+				<s n="41" lang="la" state="auto">Novit dominus, quam nihil hic<fl>t</fl> variandi, minus factionis studio, sed omnia ex pura conscientia simpliciter coram ipso agamus lubenter sequuturi, quicquid ad suam gloriam et ecclesię Christi certam ędificationem conducere iudicaverimus.</s>
+			</p>
+			<p>
+				<s n="42" lang="la" state="auto">Iterum iterumque vale.</s>
+			</p>
+			<p>
+				<s n="43" lang="la" state="auto">Constantię, 17. iunii anno 1539.</s>
+			</p>
+			<p>
+				<s n="44" lang="la" state="auto">Cras, puto, senatus noster scriptum hoc audiet, quocum etiam coram agemus.</s>
+				<s n="45" lang="la" state="auto">Tuus <persName ref="8055">Ambros. Blaurerus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="46" lang="la" state="auto">Bullingero suo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1281">
+		<alpha>
+			<fn ref="a">nostrorum <i>korrigiert aus</i> nostrum.</fn>
+			<fn ref="b"><i>Erhebliche Abweichungen vom Original (A) sind im folgenden kenntlich gemacht.</i></fn>
+			<fn ref="c"><i>A:</i> Eventus igitur et.</fn>
+			<fn ref="d"><i>A:</i> Nurembergae.</fn>
+			<fn ref="e"><i>A:</i> hisce induciis.</fn>
+			<fn ref="f"><i>in der Vorlage</i> suplices.</fn>
+			<fn ref="g"><i>A:</i> Nurembergensi.</fn>
+			<fn ref="h"><i>A:</i> nostris et membris in Christo fraternam.</fn>
+			<fn ref="i"><i>A:</i> illi <i>fehlt.</i></fn>
+			<fn ref="k"><i>A:</i> peculiaris incitabit.</fn>
+			<fn ref="l"><i>A:</i> Atqui.</fn>
+			<fn ref="m"><i>in der Vorlage</i> comunis.</fn>
+			<fn ref="n"><i>A:</i> desimus.</fn>
+			<fn ref="o"><i>A:</i> engere.</fn>
+			<fn ref="p"><i>A:</i> hostium.</fn>
+			<fn ref="q">valde <i>über der Zeile nachgetragen; ebenso in A.</i></fn>
+			<fn ref="r"><i>A:</i> acceserint.</fn>
+			<fn ref="s">eundem <i>über gestrichenem, unlesbarem Wort.</i></fn>
+			<fn ref="t">hic <i>über der Zeile nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Bullingers Brief ist nicht erhalten.</fn>
+			<fn ref="2">Zum Ergebnis der Verhandlungen in <placeName ref="157">Frankfurt</placeName> ("<placeName ref="157">Frankfurter</placeName> Anstand") vgl. <persName ref="8055">Blarers</persName> Bericht vom 2. Mai, oben <link fk_file="11304">Nr. 1261</link>, 2-21.</fn>
+			<fn ref="3"><persName ref="8178">Thomas Blarer</persName>.</fn>
+			<fn ref="4"><persName ref="467">Martin Bucer</persName> an <persName ref="8055">Ambrosius Blarer</persName>, 30. April 1539 (Autograph: Straßburg Stadtarchiv, AST 100, Nr:. 122; Teildruck und zusammenfassende Übersetzung: <persName ref="8178">Blarer</persName> BW II 23f, <link fk_file="10879">Nr. 840</link>).</fn>
+			<fn ref="5">Unterhändler Kaiser Karis V. in <placeName ref="157">Frankfurt</placeName> war <persName ref="7852">Johann von Weeze</persName>.</fn>
+			<fn ref="6"><persName ref="18520">Joachim II.</persName>, Kurfürst von Brandenburg, und <persName ref="18548">Ludwig V.</persName>, Kurfürst von der Pfalz (s. <bibl>Fuchtel</bibl> 150f).</fn>
+			<fn ref="7">Ein Brief von <persName ref="18477">König Ferdinand I.</persName>, am 6. April eingetroffen, bestimmte <persName ref="7852">Johann von Weeze</persName> zur Unnachgiebigkeit; vgl. <bibl>Fuchtel</bibl> 181f.</fn>
+			<fn ref="8">Im <placeName ref="361">Nürnberger</placeName> Frieden von 1532 waren die Protestanten in den Landfrieden einbezogen und die Reichskammergerichtsprozesse sistiert worden. Der Kaiser hatte die Vereinbarung im selben Jahr am <placeName ref="410">Regensburger</placeName> Reichstag bestätigt; vgl. Rosemarie <i>Aulinger,</i> <placeName ref="361">Nürnberger</placeName> Anstand (24. Juli 1532), in: <bibl>TRE</bibl> XXIV 707f, sowie Armin <i>Kohnle</i> und Eike <i>Wolgast,</i> Reichstage der Reformationszeit, in: <bibl>TRE</bibl> XXVIII 457-470, hier: 463f und 469 (Lit.).</fn>
+			<fn ref="9">Zur Bestimmung über Neuaufnahmen in den Schmalkaldischen Bund s. <bibl>Walch</bibl> XVII 311; <i>Neuser,</i> Vorbereitung 78.</fn>
+			<fn ref="10">Vgl. Ps 145 (144 Vulg.), 14.</fn>
+			<fn ref="11">Zum geplanten Religionsgespräch in <placeName ref="361">Nürnberg</placeName> s. oben <link fk_file="11304">Nr. 1261</link>, Anm. 6.</fn>
+			<fn ref="12">Zur Eingabe von <persName ref="8055">Blarer</persName> [und <persName ref="4079">Johannes Zwick</persName>] an den <placeName ref="457">Konstanzer</placeName> Rat s. <i>Moeller,</i> Zwick 218-220; vgl. auch unten Z. 75-77 und 101f sowie Anm. 19.</fn>
+			<fn ref="13">Vgl. Adagia, 1, 4, 30 (<bibl>LB</bibl> II 161f).</fn>
+			<fn ref="14">Vgl. Adagia, 1, 8, 29 (<bibl>LB</bibl> II 309).</fn>
+			<fn ref="15">Beide Schreiben sind nicht erhalten.</fn>
+			<fn ref="16">Gemeint sind wohl Kaiser und König.</fn>
+			<fn ref="17"><persName ref="8049">Vadians</persName> Brief ist nicht erhalten; zu seiner Meinung vgl. jedoch oben <link fk_file="11322">Nr. 1279</link> und <persName ref="8049">Vadian</persName> BW V 564, <link fk_file="11107">Nr. 1064</link>.</fn>
+			<fn ref="18">Zu <persName ref="8055">Blarers</persName> Reise nach <placeName ref="1976">Augsburg</placeName> vgl. unten <link fk_file="11329">Nr. 1286</link>, Anm. 1.</fn>
+			<fn ref="19">Vgl. <persName ref="4079">Zwicks</persName> Schreiben vom 18. Juni, unten <link fk_file="11325">Nr. 1282</link>, 2-13.</fn>
+			<fn ref="20"><persName ref="8440">Gervasius Schuler</persName>.</fn>
+			<fn ref="21">Vgl. auch unten <link fk_file="11328">Nr. 1285</link>, 60f.</fn>
+			<fn ref="22"><persName ref="1753">Leo Jud</persName>.</fn>
+			<fn ref="23"><persName ref="8171">Theodor Bibliander</persName>.</fn>
+			<fn ref="24" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="25">Wohl <persName ref="8055">Blarer</persName> und <persName ref="4079">Johannes Zwick</persName>.</fn>
+			<fn ref="26"><persName ref="8178">Thomas Blarer</persName> und <persName ref="4082">Konrad Zwick</persName>.</fn>
+			<fn ref="27">Magaretha <persName ref="8055">Blarer</persName>.</fn>
+			<fn ref="28">Unbekannt.</fn>
+			<fn ref="29">Nicht erhalten.</fn>
+		</num>
+	</footnotes>
+</file>

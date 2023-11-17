@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12851" id_hbbw="2802" id_irg_sort="2802" id_sort="128020">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12851</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2802</arpa>
+		<scan_pages>
+			<scan id="30078" dir="12851/Autograph/" page="1">00 E_II_366__fol__82_r_.tif</scan>
+			<scan id="30079" dir="12851/Autograph/" page="2">01 E_II_366__fol__82_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26246" vf="1" fk_add_type="1">
+				<person id="714" fk_id="714">
+					<name>Curione</name>
+					<forename>Celio Secondo</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26247" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12851">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">8</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19418">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 366,82</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12438" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2802, S. 281</entry>
+				<page>281</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="27">
+				<lang id="5" iso="la" count="27" p="100.0"/>
+			</sentences>
+			<words count="437">
+				<lang id="5" iso="la" count="437" p="100.0"/>
+			</words>
+			<chars count="2514">
+				<lang id="5" iso="la" count="2514" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2802" page="281">
+		<div ref="1">
+			[1] Obwohl es in dieser schlimmen Zeit kaum Grund zur Freude gibt, ist
+			<persName ref="714">Curione</persName> sehr froh, dass der fromme, gelehrte Bullinger ihm nun
+			gegenüber besser gesinnt ist als noch vor kurzem. Diese Anerkennung bedeutet ihm nämlich viel. Er weiß auch,
+			dass Bullinger nicht mit heuchlerischer Entrüstung, sondern mit echter Anteilnahme auf sein Unglück reagiert
+			hat. Gott sei Dank, dass er trotz seines Unheils noch ein mit Gott im Einklang stehendes Gewissen, eine
+			hoffnungsvolle Seele und einen klaren, nach vorne blickenden Geist hat. Er hofft, dass sein Leben zum Ärger
+			seiner Feinde, aber zum Wohlgefallen seiner Freunde, im Ganzen genommen wie ein Licht diese Schatten
+			verdrängen wird. Bullinger möge für ihn beten!
+		</div>
+		<div ref="2">
+			[2] <persName ref="714">Curione</persName> ist schon lange mit <persName ref="3018">Stancaro</persName> befreundet. Dieser wohnt
+			derzeit bei ihm und zeigte ihm Bullingers Brief [nicht erhalten], ein Beweis, wie sehr Bullinger guten,
+			verfolgten und gelehrten Menschen wohlgesinnt ist. Eigentlich hätte <persName ref="3018">Stancaro</persName> Bullinger um Hilfe bitten
+			müssen. Stattdessen kam Bullinger ihm zuvor, um eine drohende Notlage abzuwenden. <persName ref="3018">Stancaro</persName> braucht also
+			Bullinger nicht mehr empfohlen zu werden. Sollte aber <persName ref="714">Curione</persName>
+			Bullinger dabei behilflich sein können, ist er gerne dazu bereit, da auch er wegen Christus fliehen und
+			Schlimmes durchmachen musste. Solchen umherirrenden Menschen muss man helfen. In
+			<placeName ref="280">Lausanne</placeName> sucht man nach einem Theologielehrer, wofür der in den
+			drei alten Sprachen bewanderte <persName ref="3018">Stancaro</persName> sehr in Frage käme. Bullinger schrieb ja, dass er bei den Bernern
+			nachfragen wird. Er möge dann die erhaltene Antwort mitteilen, damit <persName ref="3018">Stancaro</persName> sich dementsprechend verhalten
+			kann.
+		</div>
+		<div ref="3">
+			[3] Grüße. <persName ref="714">Curione</persName> wird Bullinger immer verbunden bleiben.
+			Geschrieben im Haus von <persName ref="5213">Johannes Herwagen d.Ä.</persName>
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2802" page="281">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">C[aelius] S[ecundus] C[urio] S. P. D. per Christum Iesum.</s>
+				<s n="2" lang="la" state="auto">Gaudeo, mi optime et sanctissime Bullingere, si est nunc ullus in tantis malis gaudendi locus, te de me iam melius quam paulo antea sentire.<fl>1</fl></s>
+				<s n="3" lang="la" state="auto">Quid enim est, quod magis cupiam quam me tam pio, tam docto tamque mihi amico homini probari?</s>
+				<s n="4" lang="la" state="auto">Scio enim te (qua humanitate aut potius pietate praeditus es) meam calamitatem<fl>2</fl> longe gravissimam gravissime tulisse atque non indignatione (quod hypocritę et pharisaei solent), sed misericordia potius meum iniquissimum casum esse prosecutum.</s>
+				<s n="5" lang="la" state="auto">Verum bono sis animo, mi suavissime frater!</s>
+				<s n="6" lang="la" state="auto">Adhuc enim salva atque integra divina clementia sunt, quę in tantis molestiis praestantissima in homine esse possunt: Conscientia primum praeclare cum deo conveniens;<fl>3</fl> animus post magnum dolorem longumque squalorem in spem firmissimam erectus et patiens incommodorum; mens sana praeteritorum memor ac multum in posterum prospitiens.<fl>4</fl></s>
+				<s n="7" lang="la" state="auto">Quamobrem spero fore, ut Christo meo me bene iuvante mea aetas, ante innocenter acta, <pb_edition start_of="282"/> cum omni temporis, quantum visum cumque fuerit divinę providentiae nobis impertiri, futuro spacio coniuncta et collata, insidiosi illius momenti tenebras quasi magna quaedam lux sit illustratura, et omnino abolitura tantumque amicis meis gaudii, inimicis<fl>5</fl> doloris allatura, quantum illis maeroris, his laetitiae indigno pavore accepta calamitas attulisse videatur.</s>
+				<s n="8" lang="la" state="auto">Ad quod quidem assequendum tu me tuis sanctissimis<fl>a</fl> apud deum patrem nostrum adiuvabis.</s>
+				<s n="9" lang="la" state="auto">Sed de his plus satis.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="10" lang="la" state="auto">Iam de <persName ref="3018">Stancaro</persName> nostro pauca.</s>
+				<s n="11" lang="la" state="auto">Is enim hic est apud me, quod antiqua mihi sit cum eo necessitudo.</s>
+				<s n="12" lang="la" state="auto">Idcirco mecum tuas humanissimas ad se literas<fl>6</fl> communicavit.</s>
+				<s n="13" lang="la" state="auto">In quibus literis tuam istam non ignotam quidem mihi in bonos et adflictos et doctos viros promptam charitatem sed tamen semper gratam cognovi.</s>
+				<s n="14" lang="la" state="auto">Tu ei offers ultro, quod ille abs te magnis precibus petere debuisset.</s>
+				<s n="15" lang="la" state="auto">Et fecisset quidem, nisi tu illum antevertisses et tua pietate festinam etiam hominis inopiam vincere voluisses.</s>
+				<s n="16" lang="la" state="auto">Itaque nihil mea iam video opus esse apud te commendatione.</s>
+				<s n="17" lang="la" state="auto">Tamen, si quid mea etiam caussa aliquid tuę accesserit voluntati, scito te mihi rem longe gratissimam facturum.</s>
+				<s n="18" lang="la" state="auto">Sum et ipse expertus, quid sit exulare, profugum esse et pro Christi caussa omnia fere extrema pati.<fl>7</fl></s>
+				<s n="19" lang="la" state="auto">Quare cupio et talibus esse consultum, qui ob eandem caussam oberrant,<fl>8</fl> qualis est hic noster Franciscus Stancarus.</s>
+				<s n="20" lang="la" state="auto">Scio <placeName ref="280">Lausannensi</placeName> ecclesię opus fuisse superioribus diebus theologo lectore; quodsi nundum<fl>9</fl> inventus est, hic homo trilinguis<fl>10</fl> esset aptissimus.</s>
+				<s n="21" lang="la" state="auto">Id tu perquires (ut scribis) a <placeName ref="41">Bernatibus</placeName> et significabis nobis, ut bonus iste vir, quid sibi faciendum sit, norit.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="22" lang="la" state="auto">Vale, mi doctissime atque optime Bullingere, et me tibi perpetuo esse addictissimum scias.</s>
+				<s n="23" lang="la" state="auto">Saluta domesticam ecclesiam et me ama.</s>
+				<s n="24" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, die 8. februarii 1547 apud <persName ref="5213">Hervagium</persName>.<fl>11</fl></s>
+				<s n="25" lang="la" state="auto">Tuus ex animo <persName ref="714">Caelius S. C.</persName></s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="26" lang="la" state="auto">D. Henricho Bullingero, ecclesię Tigurinę pastori cum doctissimo tum vigilantissimo, fratri et [am]ico<fl>b</fl> observandissimo et dilectissimo.</s>
+				<s n="27" lang="la" state="auto">Tiguri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2802">
+		<alpha>
+			<fn ref="a"><i>Danach gestrichenes</i> pr <i>wohl für ein hier vergessenes</i> precibus.</fn>
+			<fn ref="b"><i>Textverlust bei der Entfernung des Siegels.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Bezug auf die nicht erhaltene Antwort Bullingers auf <persName ref="714">Curiones</persName> Brief <link fk_file="12784">Nr. 2735</link>, die ebenfalls in <persName ref="714">Curiones</persName> Schreiben <link fk_file="12807">Nr. 2758</link> vom 18. Januar vorausgesetzt wird.</fn>
+			<fn ref="2">Siehe Nr. 2735, Anm. 2 und Anm. 4.</fn>
+			<fn ref="3">Vgl. 1Tim 1, 5.</fn>
+			<fn ref="4">In Anlehnung an Phil 3, 13.</fn>
+			<fn ref="5">Zu <persName ref="714">Curiones</persName> Gegnern s. <link fk_file="12807">Nr. 2758</link>,1-3 und 9-11.</fn>
+			<fn ref="6">Ein nicht erhaltener Brief Bullingers, der in <persName ref="3018">Stancaros</persName> Antwort <link fk_file="12848">Nr. 2799</link>,1, bezeugt ist.</fn>
+			<fn ref="7"><persName ref="714">Curione</persName> war 1542 aus <entity id="16" type="geo_country">Italien</entity> geflohen; s. <bibl>HBBW</bibl> XII 227f, Anm. 3.</fn>
+			<fn ref="8">Vgl. Hebr 11, 38.</fn>
+			<fn ref="9">= nondum; s. <bibl>Stotz</bibl> III 51, Nr. 39.8.</fn>
+			<fn ref="10"><persName ref="3018">Stancaro</persName> beherrschte Hebräisch, Griechisch und Latein. - Eine Anstellung in <placeName ref="41">Bern</placeName> bzw. <placeName ref="280">Lausanne</placeName> ergab sich nicht.</fn>
+			<fn ref="11">Der Drucker <persName ref="5213">Johannes Herwagen d.Ä.</persName></fn>
+		</num>
+	</footnotes>
+</file>

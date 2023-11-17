@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12856" id_hbbw="2807" id_irg_sort="2807" id_sort="128070">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12856</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2807</arpa>
+		<scan_pages>
+			<scan id="30088" dir="12856/Autograph/" page="1">00 E_II_357__fol__601_r_.tif</scan>
+			<scan id="30089" dir="12856/Autograph/" page="2">01 E_II_357__fol__601_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26256" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26257" vf="0" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12856">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19423">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357a,601</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9092" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Blarer BW II, S. 588f, Nr. 1410</entry>
+			</print>
+			<print id="9093" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 588f, Nr. 1410</entry>
+			</print>
+			<print id="12352" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2807, S. 294</entry>
+				<page>294</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="22">
+				<lang id="5" iso="la" count="22" p="100.0"/>
+			</sentences>
+			<words count="316">
+				<lang id="5" iso="la" count="316" p="100.0"/>
+			</words>
+			<chars count="1890">
+				<lang id="5" iso="la" count="1890" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2807" page="294">
+		<div ref="1">
+			[1] <persName ref="8055">Blarer</persName> und <persName ref="4082">Konrad Zwick</persName>
+			bedanken sich für Bullingers Brief [nicht erhalten], aus dem dessen Eifer und Liebe zu
+			<placeName ref="457">Konstanz</placeName> und zur Gemeinde Christi im Allgemeinen gut ersichtlich
+			wird. Möge Gott ihr gemeinsames Bemühen segnen und dieses zum Heil der Stadt verwenden. Bullinger soll für
+			<persName ref="8055">Blarer</persName> und <persName ref="4082">Zwick</persName> beten, damit sie
+			nichts Unchristliches unternehmen und <placeName ref="457">Konstanz</placeName> standhaft bleibe.
+			Vieles, das <persName ref="8055">Blarer</persName> sieht und hört, lässt ihm nämlich die Haare zu Berge
+			stehen. Es gibt aber auch Anzeichen dafür, dass die zerrüttete Lage sich bessern könnte.
+		</div>
+		<div ref="2">
+			[2] <persName ref="8055">Blarer</persName> kann nicht viel schreiben, da er seinen aus
+			<placeName ref="513">Ulm</placeName> zurückkehrenden Verwandten [<persName ref="6407">Peter Scher d.Ä.</persName> von
+			Schwarzenburg] begrüßen will. Was er von diesem erfährt, wird er [mit Brief
+			<link fk_file="12861">Nr. 2812</link>] mitteilen.
+		</div>
+		<div ref="3">
+			[3] Falls <persName ref="1227">Christoph Froschauer</persName> sich nicht getrauen sollte, Bullingers „[Brevis] institutio“ zu drucken, so
+			wird dies bestimmt ein Drucker in <placeName ref="1976">Augsburg</placeName> oder
+			<placeName ref="28">Basel</placeName> gerne tun.
+		</div>
+		<div ref="4">
+			[4] Auf die mit größter Sorgfalt gefertigte „[Eidgenössische] Chronik“ [von Johannes Stumpf] wartet man mit
+			Ungeduld.
+		</div>
+		<div ref="5">
+			[5] <persName ref="4082">Zwick</persName> und <persName ref="8055">Blarers</persName> kranker
+			Bruder [Thomas], welcher sich seit einigen Tagen nicht mehr gezeigt
+			hat, lassen grüßen.
+		</div>
+		<div ref="6">
+			[6] Diejenigen, die <persName ref="18538">Kaiser Karl V.</persName> gesehen haben, versichern, dass er gesund und munter sei. Was Bullinger
+			über [die Übergabe Mömpelgards durch] Herzog <persName ref="1546">Christoph [von Württemberg]</persName> an <persName ref="7637">König Franz I.</persName> schreibt, wird
+			als Beginn einer neuen Tragödie angesehen.
+		</div>
+		<div ref="7">
+			[7] Bullinger wird bestimmt sogleich über die Ankunft des französischen Gesandten [<persName ref="17969">Guillaume Du Plessis</persName>,
+			sieur de Lyancourt] in der Eidgenossenschaft berichten.
+		</div>
+		<div ref="8">
+			[8] Bullinger möchte sich des alten, niedergeschlagenen <persName ref="6552">Hans Schöner</persName> annehmen und diesen über seine
+			<placeName ref="1976">Augsburger</placeName> aufklären. <persName ref="6552">Schöner</persName> bat nämlich in seinem letzten Brief
+			darum, doch kommt <persName ref="8055">Blarer</persName> nicht dazu.
+		</div>
+		<div ref="9">
+			[9] Grüße und Segenswünsche. Die Zürcher mögen für die <placeName ref="457">Konstanzer</placeName>
+			inständig beten.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2807" page="294">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Literas tuas plenas studii et amoris erga nos<fl>2</fl> tui gratissimo animo consobrinus<fl>3</fl> et ego accepimus, hinc plane ut alias sepe intelligentes, quam tibi sint et publica nostra negocia et communis Christi caussa cordi.</s>
+				<s n="3" lang="la" state="auto">Multum speramus benignissimum patrem in celis in istis prorsum accisis nostris rebus clementer adfuturum tuaque opera tanquam electissimi organi sui ad certam nostram et reipublicę nostrę salutem feliciter usurum.</s>
+				<s n="4" lang="la" state="auto">O mi frater, age, fac!</s>
+				<s n="5" lang="la" state="auto">Christum pro nobis sedulis votis ardentissime interpella, ut ne quid indignum christianis hominibus designemus, sed pulchre ac perpetuo nobis constantes in hac urbe <placeName ref="457">Constantia</placeName> constemus.</s>
+				<s n="6" lang="la" state="auto">Multa certe videns ac audiens cunctus cohorresco!</s>
+				<s n="7" lang="la" state="auto">Interim tamen animus in speculam nonnullam assurgit fore credens, ut meliorem aliquando rerum nostrarum faciem videamus.</s>
+				<s n="8" lang="la" state="auto">Eam<fl>4</fl> dominus suo spiritu in me multisque aliis sanctis Christi membris usque augeat et ad suum usque diem conservet.<pb_edition start_of="295"/></s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="9" lang="la" state="auto">Non possum iis multa addere, quando charissimus affinis meus<fl>5</fl>, <placeName ref="513">Ulma</placeName> nunc rediens, salutandus mihi est; a quo quicquid didicero, diligenter posthac ad te perscribam.<fl>6</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="10" lang="la" state="auto">Si <persName ref="1227">Froschovero</persName> vestro integrum non est Institutionem<fl>7</fl> tuam excudere, non dubito, quin vel <placeName ref="1976">Augustę</placeName> vel <placeName ref="28">Basileę</placeName> sit qui istuc et possit et facturus sit libentissime.<fl>8</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="11" lang="la" state="auto">Chronica<fl>9</fl>, de quibus scribis, magna diligentia elaborata maximo desiderio expectamus.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="12" lang="la" state="auto">Germanus frater meus<fl>10</fl> ob infirmiorem valetudinem diebus aliquot non prodiit.</s>
+				<s n="13" lang="la" state="auto">Iubet autem te cum optimo consobrino meo Zviccio plurimum in domino salvere.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="14" lang="la" state="auto">Caesarem<fl>11</fl> affirmant, qui viderunt<fl>a</fl>, vegeto optimeque habito corpore esse.<fl>12</fl></s>
+				<s n="15" lang="la" state="auto">Quę de principe <persName ref="1546">Christophoro</persName><fl>13</fl> et Gallo<fl>14</fl> scribis, novę tragoedie initia esse omnes existimant.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="16" lang="la" state="auto">Galli ad vos magnifica legatio<fl>15</fl>, ubi venerit, non dubito, quin nos quam primum certiores sis facturus.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="17" lang="la" state="auto"><persName ref="6552">Schönerum</persName><fl>16</fl> afflictum vereque miserandum senem tibi commendo, utque aliquando de <placeName ref="1976">Augustanorum</placeName> suorum rebus nonnihil illi exponas, vehementer etiam atque etiam te rogo.</s>
+				<s n="18" lang="la" state="auto">Petiit hoc a me proximis literis<fl>17</fl>, sed nihil plane possum.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="19" lang="la" state="auto">Salveat tua domus, cui dominus benigne benedicat.</s>
+				<s n="20" lang="la" state="auto">Salveant omnes amici ac fratres, administri tui in domino.</s>
+				<s n="21" lang="la" state="auto">Cupimus hic omnium vestrum orationibus communi servatori Christo accuratissime ac semper commendari.</s>
+				<s n="22" lang="la" state="auto">12. februarii.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse.]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2807">
+		<alpha>
+			<fn ref="a">qui viderunt <i>am Rande nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Aus dem Inhalt des Briefes geht hervor, dass der Brief an Bullinger gerichtet ist.</fn>
+			<fn ref="2">Bullingers Brief, auf den sich <persName ref="8055">Blarer</persName> hier und im Folgenden bezieht, ist nicht erhalten.</fn>
+			<fn ref="3"><persName ref="4082">Konrad Zwick</persName>.</fn>
+			<fn ref="4">Gemeint ist: Eam fidem.</fn>
+			<fn ref="5"><persName ref="6407">Peter Scher d.Ä.</persName> von Schwarzenburg; s. <link fk_file="12861">Nr. 2812</link>,1f.</fn>
+			<fn ref="6">Mit Brief <link fk_file="12861">Nr. 2812</link> vom 13. Februar.</fn>
+			<fn ref="7">Bullingers Karlstagsrede "Brevis institutio pastorum" vom 28. Januar 1547; s. <link fk_file="12792">Nr. 2743</link>, Anm. 3.</fn>
+			<fn ref="8">Davon ist kein Druck bekannt.</fn>
+			<fn ref="9">Johannes Stumpfs "Eidgenössische Chronik" von 1547/48 <i>(VD16</i> S9863).</fn>
+			<fn ref="10"><persName ref="8178">Thomas Blarer</persName>.</fn>
+			<fn ref="11"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="12">Diese Klarstellung bezieht sich auf das damals grassierende Gerücht, laut dem der Kaiser sehr krank war; s. die in <link fk_file="12868">Nr. 2819</link>, Anm. 22, verzeichneten Verweise.</fn>
+			<fn ref="13"><persName ref="1546">Christoph von Württemberg</persName>.</fn>
+			<fn ref="14"><persName ref="7637">Franz I.</persName> - Dies wird Bullinger u.a. aus <persName ref="1278">Johannes Gasts</persName> Brief von der zweiten Hälfte Januar erfahren haben; s. <link fk_file="12802">Nr. 2753</link>,14-16.</fn>
+			<fn ref="15"><persName ref="17969">Guillaume Du Plessis</persName>, sieur de Lyancourt; s. <link fk_file="12843">Nr. 2794</link>,21-25.</fn>
+			<fn ref="16"><persName ref="6552">Hans Schöner</persName>.</fn>
+			<fn ref="17">Nicht in <i><persName ref="8055">Blarer</persName> BW.</i></fn>
+		</num>
+	</footnotes>
+</file>

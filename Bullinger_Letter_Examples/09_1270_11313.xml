@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11313" id_hbbw="1270" id_irg_sort="1270" id_sort="112700">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11313</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1270</arpa>
+		<scan_pages>
+			<scan id="26307" dir="11313/Autograph/" page="1">00 E_II_359__fol__2785_r_.tif</scan>
+			<scan id="26308" dir="11313/Autograph/" page="2">01 E_II_359__fol__2785_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22960" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22961" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11313">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">5</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17785">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2785</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11109" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1270, S. 137</entry>
+				<page>137</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="22">
+				<lang id="5" iso="la" count="22" p="100.0"/>
+			</sentences>
+			<words count="270">
+				<lang id="1" iso="de" count="3" p="1.1"/>
+				<lang id="5" iso="la" count="267" p="98.9"/>
+			</words>
+			<chars count="1612">
+				<lang id="1" iso="de" count="24" p="1.5"/>
+				<lang id="5" iso="la" count="1588" p="98.5"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1270" page="137">
+		<div ref="1">
+			Dankt für eine Brief- und Geldsendung. Schickt ihm <persName ref="18377">Vigilius’</persName>
+			[„Contra Eutychen“], erkundigt sich, ob er die Chronik des <persName ref="7828">[Burchard von] Ursberg</persName> in <persName ref="8374">Hedios</persName>
+			Übersetzung wünscht, und stellt ihm den <persName ref="6571">Sedulius</persName>-Band zu, den ihm
+			<persName ref="8126">Oporin</persName> ausgehändigt hat. <persName ref="1365">Grynäus</persName>,
+			<persName ref="8418">Myconius</persName> und andere kämpfen dagegen, den Doktorgrad annehmen zu
+			müssen; <persName ref="8011">Gwalther</persName> hat mit Sorge vernommen, ihr Gegner
+			<persName ref="4349">Karlstadt</persName>, der den Rat für seine Zwecke zu vereinnahmen sucht, wolle
+			nach Zürich zurückkehren.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1270" page="137">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Literas<fl>1</fl> tuas et coronatum a <persName ref="20019">Michaeli</persName><fl>2</fl> accepi, patrone charissime.</s>
+				<s n="3" lang="la" state="auto">Gratias tibi ago ingentes, quod de pristina illa in me humanitate nihil intermittis.</s>
+				<s n="4" lang="la" state="auto">Sed quid, quęso, exacta illa nummorum supputatione opus erat<fl>3</fl>?</s>
+				<s n="5" lang="la" state="auto">Suffecisset enim, quantum adhuc superest, scribere; non enim ignoro te in meis custodiendis non minorem quam in tuis operam impendere.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto"><persName ref="18377">Vigilium</persName><fl>4</fl> hic tibi mitto; constat 2 blapphart<fl>5</fl>.</s>
+				<s n="7" lang="la" state="auto">Chronicam <persName ref="7828" state="auto_name">Urspurgensis</persName><fl>6</fl> mittere non ausus sum, quia, qualem velis, non satis intelligo.</s>
+				<s n="8" lang="la" state="auto">Impressit <placeName ref="492">Argentinę</placeName> <persName ref="5926">Crato Milius</persName><fl>7</fl> Chronicam Germanicam a <persName ref="8374">Hedione</persName> ex Urspurgensis<pb_edition start_of="138"/> historia translatam<fl>8</fl>; addidit appendicem his historiarum usque ad annum 1539.</s>
+				<s n="9" lang="la" state="auto">Illam ne velis aut aliam<fl>b</fl>, scribito; curabo tum, ut illico ad te perferatur.</s>
+				<s n="10" lang="la" state="auto"><persName ref="6571">Sedulium</persName><fl>9</fl> ab <persName ref="8126">Oporino</persName> datum hic habes.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Novi nihil habeo, quod scribam, nisi quod hic et <persName ref="1365">Gryneus</persName> et <persName ref="8418">Myconius</persName> occupati sunt plurimum et de doctoratu theologiae cum aliis contendunt<fl>10</fl>; <persName ref="4349">Carolstadius</persName> enim tantum machinatus est, ut audio, ut etiam senatus decreverit, ut <persName ref="8418">Myconius</persName> et <persName ref="1365">Gryneus</persName>, et quicunque archiepiscopi aut theologiae professores sint, doctoris gradum suscipiant.</s>
+				<s n="12" lang="la" state="auto">Repugnant huic decreto strenue <persName ref="8418">Miconius</persName> et <persName ref="1365">Gryneus</persName> <placeName ref="28">Basileam</placeName> potius relicturi quam doctoris titulum suscepturi.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Exitus adhuc in dubio est.</s>
+				<s n="14" lang="la" state="auto">Sed in summa: <de state="verified"><persName ref="4349">Carolstadius</persName> ist unruͤwig;</de> muneribus etiam senatores nonnunquam demulcet, ut suis partibus faveant.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto">Viderit ipse, quid agat.</s>
+				<s n="16" lang="la" state="auto">Fama est ipsum Tigurum redire<fl>c</fl> percupere; ego hunc meę patrię hospitem opto minime.</s>
+			</p>
+			<p>
+				<s n="17" lang="la" state="auto">Salutabis nomine meo familiam omnem et fratrem<fl>11</fl> imprimis.</s>
+				<s n="18" lang="la" state="auto">Vale, patrone humanissime, deusque te nobis diu incolumem servet.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto"><placeName ref="28">Basileę</placeName>, ex aedibus d. <persName ref="8418">Myconii</persName>, 12. maii 1539.</s>
+				<s n="20" lang="la" state="auto">Tabellarius hic servus est <persName ref="4830">Adami Fry</persName><fl>12</fl>, natione Tigurinus; huic manda<fl>d</fl>, quod voles; probus est omniaque diligenter curabit.</s>
+			</p>
+			<p>
+				<s n="21" lang="la" state="auto">Tui observantissimus <persName ref="8011">Rodolphus Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="22" lang="la" state="auto">Vere docto et pio viro d. Heinrycho Bullingero, patrono suo imprimis colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1270">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichungen von späterer Hand.</i></fn>
+			<fn ref="b"><i>vor</i> aliam <i>gestrichenes</i> s.</fn>
+			<fn ref="c"><i>vor</i> redire <i>ein gestrichenes, unlesbares Wort.</i></fn>
+			<fn ref="d"><i>in der Vorlage irrtümlich</i> mando.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten.</fn>
+			<fn ref="2"><persName ref="20019">Michael Adam</persName> (vgl. oben <link fk_file="11310">Nr. 1267</link>, 6-8).</fn>
+			<fn ref="3">Vgl. oben <link fk_file="11306">Nr. 1263</link>, 2-8.</fn>
+			<fn ref="4">Gemeint sind die fünf Bücher "Contra Eutychen" des <persName ref="18377">Vigilius von Thapsus</persName>, eines afrikanischen Bischofs aus dem 5. Jahrhundert. Bullinger hatte <persName ref="8011">Gwalther</persName> offenbar um die 1528 in <placeName ref="512">Tübingen</placeName> gedruckte Ausgabe gebeten, in der <persName ref="18377">Vigilius</persName> irrtümlich mit dem gleichnamigen Bischof von Trient gleichgesetzt wird (vgl. oben <link fk_file="11306">Nr. 1263</link>, Anm. c, und unten <link fk_file="11326">Nr. 1283</link>, 126-129. 139-154). Im Juli 1539 veröffentlichte er das Werk als Anhang zu einem Schreiben <persName ref="8049">Vadians</persName> (<bibl>HBBibl</bibl> I 113, vgl. unten <link fk_file="11326">Nr. 1283</link>). - Lit.: J. <i>Martin,</i> in: LThK<sup>2</sup> X 788f.</fn>
+			<fn ref="5">Eine in Zürich gebräuchliche Münzsorte; vgl. <bibl>SI</bibl> V 128-132.</fn>
+			<fn ref="6" type="bio" fk_person="7828">Das ebenfalls von Bullinger erbetene "Chronicon" des <persName ref="7828">Burchard von Ursberg</persName> (vgl. oben <link fk_file="11306">Nr. 1263</link>, Anm. c) ist eine der wichtigsten Chroniken der Stauferzeit. Sein Verfasser, geb. spätestens 1177 in <placeName ref="45">Biberach</placeName>, gest. nach 1230, war ab 1215 Propst des Prämonstratenserstifts <placeName ref="1741">Ursberg</placeName> (Kr. Günzburg, Bayern). Seine Ablehnung der politischen Ansprüche der Kurie kam den Interessen reformatorisch gesinnter Leser entgegen. Eine von <persName ref="8374">Kaspar Hedio</persName> besorgte Ausgabe war 1537 in <placeName ref="492">Straßburg</placeName> erschienen (VD 16, B 9801). - Lit.: Joachim <i>Leuschner,</i> in: <bibl>NDB</bibl> III 30; Norbert <i>Backmund,</i> in: Die deutsche Literatur des Mittelalters. Verfasserlexikon, begr. v. Wolfgang Stammler, fortgef. v. Karl Langosch. Zweite, völlig neu bearb. Aufl., Bd. 1, Berlin-New York 1978, Sp. 1119-1 121.</fn>
+			<fn ref="7" type="bio" fk_person="5926"><persName ref="5926">Kraft Müller</persName> (<persName ref="5926">Crato Mylius</persName>), von <placeName ref="452">Schlettstadt</placeName>, geb. um 1503, gest. 1547 in der Schlacht bei <placeName ref="1742">Mühlberg</placeName>, studierte 1523 in Wittenberg und war Schüler Melanchthons. Ab 1536 brachte er in <placeName ref="492">Straßburg</placeName> über 100 meist lateinische Drucke heraus. - Lit.: <i>Grimm,</i> Buchführer 1458; <i>Benzing,</i> Buchdrucker 445f.</fn>
+			<fn ref="8"><persName ref="8374">Hedios</persName> Übersetzung erschien 1539 unter dem Titel "Ein Auserleszne Chronick von anfang der welt ..." (VD 16, B 9804).</fn>
+			<fn ref="9"><persName ref="6571">Coelius Sedulius</persName>, Carmen paschale; vgl. zuletzt oben <link fk_file="11303">Nr. 1260</link>, 18-21 mit Anm. 8.</fn>
+			<fn ref="10">Vgl. oben <link fk_file="11307">Nr. 1264</link>, 1-7.</fn>
+			<fn ref="11"><persName ref="527">Johannes Bullinger</persName>.</fn>
+			<fn ref="12"><persName ref="4830">Freys</persName> Diener ist nicht namentlich bekannt.</fn>
+		</num>
+	</footnotes>
+</file>

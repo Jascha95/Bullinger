@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11297" id_hbbw="1254" id_irg_sort="1254" id_sort="112540">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11297</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1254</arpa>
+		<scan_pages>
+			<scan id="26267" dir="11297/Autograph/" page="1">00 E_II_359__fol__2777_r_.tif</scan>
+			<scan id="26268" dir="11297/Autograph/" page="2">01 E_II_359__fol__2777_v_.tif</scan>
+			<scan id="26269" dir="11297/Autograph/" page="3">02 E_II_359__fol__2778_r_.tif</scan>
+			<scan id="26270" dir="11297/Autograph/" page="4">03 E_II_359__fol__2778_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22928" vf="1" fk_add_type="1">
+				<person id="8011" fk_id="8011">
+					<name>Gwalther (Walter, Gualtherus, Walthart) d.Ä.</name>
+					<forename>Rudolf</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22929" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11297">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">4</month>
+				<day fk_d="" d="" vf="1" fn="">13</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17769">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 359,2777r.–2778r.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11099" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1254, S. 106</entry>
+				<page>106</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="53">
+				<lang id="5" iso="la" count="53" p="100.0"/>
+			</sentences>
+			<words count="810">
+				<lang id="5" iso="la" count="810" p="100.0"/>
+			</words>
+			<chars count="4842">
+				<lang id="5" iso="la" count="4842" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1254" page="106">
+		<div ref="1">
+			Konnte im letzten Brief [<link fk_file="11291">Nr. 1248</link>] nicht alles schreiben. Bittet um Zusendung
+			von Bullingers „Bericht der Kranken“ für <persName ref="4830">Adam Frey</persName> und rühmt dessen
+			Geduld und Frömmigkeit. Er selbst leidet an Augenschwäche. Versichert, seine Berufung zur Theologie nicht
+			vernachlässigen zu wollen, doch zur Zeit beschäftigt er sich vor allem mit Mathematik,
+			<persName ref="4544">Cicero</persName>, dem Römerbrief und
+			<persName ref="18361">Livius</persName>; nach <placeName ref="378">Paris</placeName> zu
+			wechseln scheint ihm unmöglich, aber wegen der Förderung durch <persName ref="8459">Otto [Werdmüller]</persName> bleibt er gerne in
+			<placeName ref="28">Basel</placeName>. Die Basler [Theologen] werden Bullingers Buch [„De origine
+			erroris“] noch nicht gelesen haben; sie sind in einen Streit um die Universität verwickelt, der die Basler
+			Schule weiter zu schwächen droht. Laut Mitteilung <persName ref="467">Bucers</persName> hat man sich
+			in <placeName ref="157">Frankfurt</placeName> auf einen Stillstand von 18 Monaten verständigt, ist
+			sich aber über die Bedingungen nicht einig; die Anwerbung von Truppen in den <entity id="20" type="geo_country">Niederlanden</entity> richtet sich nach
+			<persName ref="8011">Gwalthers</persName> Annahme gegen <persName ref="18505">König [Heinrich VIII.]</persName> und bringt die
+			wahren Absichten des Kaisers an den Tag. Teilt vielsagende Schriftstücke mit, die beim braunschweigischen
+			Kanzler [<persName ref="6458">Stephan Schmidt</persName>]
+			gefunden wurden. Erinnert an seine Bitte [um eine lateinische Bibel].
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1254" page="106">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino etc.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Dedi non multis ab hinc diebus, patrone observande, literas<fl>1</fl> ad te per bibliophorum quendam, qui se Tiguri habitare affirmabat<fl>2</fl>; has tibi ab illo traditas spero.</s>
+				<s n="3" lang="la" state="auto">Scripsi tunc temporis non, quae volui, omnia nec ut cupiebam, sed quantum ipsum temporis momentum sustinebat.</s>
+				<s n="4" lang="la" state="auto">Quare nunc denuo meis te literis interturbare cogor.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Fuit hoc quadragesimali tempore apud nos <persName ref="4830">Adamus Fry</persName><fl>3</fl> Tigurinus, qui a medico<fl>4</fl> suo, ne temporis huius molestia ei obesset, <placeName ref="28">Basileam</placeName> deductus ad<pb_edition start_of="107"/> festum usque paschatis nobiscum fuit.</s>
+				<s n="6" lang="la" state="auto">Hic cum forte e fenestra praetereuntem me cerneret, agnitum vocat.</s>
+				<s n="7" lang="la" state="auto">Ascendo itaque.</s>
+				<s n="8" lang="la" state="auto">Hic summo cum gaudio exceptum tractabat humanissime; tanto enim, quo <placeName ref="28">Basileae</placeName> fuerat, tempore in nullum Tigurinorum inciderat.</s>
+				<s n="9" lang="la" state="auto">Rogavit autem me summis<fl>b</fl> precibus, ut et eius nomine<fl>c</fl> te salutatum rogarem, ut libellum, quem materna lingua de aegrotorum institutione conscripsisti<fl>5</fl>, ad me mittas; ego deinde ad ipsum transmittam.</s>
+				<s n="10" lang="la" state="auto"><placeName ref="28">Basileae</placeName> emissem, sed venalem non inveni.</s>
+				<s n="11" lang="la" state="auto">Spero tamen te in hoc optimo piissimoque viro et honestissimo civi non defuturum.</s>
+				<s n="12" lang="la" state="auto">Ego certe, cum morbi eius magnitudinem et admirabilem illam patientiam eius simul consydero, non raro in summam admirationem abducor.</s>
+				<s n="13" lang="la" state="auto">Nec intactum religione animum habet, quod in paschatis festo cuivis videre licuit; ne etenim pietatis parvam rationem habere videretur, se in templum portari curavit.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">Ego hoc a <persName ref="8418">Miconio</persName> facile impetravi, ut et illum coenae dominicae participem faceret.</s>
+				<s n="15" lang="la" state="auto">Te etiam denuo rogo, praeceptor humanissime, ut patientiae huius et pietati stimulum addas libello illo misso; dictu enim mirum, quantum gaudeat ob literas<fl>6</fl>, quas nuper ad eum dedisti.</s>
+			</p>
+			<p>
+				<s n="16" lang="la" state="auto">Quod vero alium rerum mearum statum attinet, sic satis commodus est, nisi quod hactenus oculorum doloribus aliquantum excrutiatus sum; sed remisit dolor, acie tamen visus maxime hebetata.</s>
+				<s n="17" lang="la" state="auto">Sed cum hic finis studiosos maneat, aequo animo fero.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">In literis praeterea per <persName ref="1227">Froschouerum</persName> datis<fl>7</fl> vocationem meam aliquantum adumbrare<fl>d</fl> videris, divini scilicet verbi ministerium esse, quod ego et amplector utque huic aliquando sufficere possim maxime exopto.</s>
+				<s n="19" lang="la" state="auto">Tantum abest, ut disciplinarum amore irretitus sanctissimum illud theologiae studium aspernam.</s>
+				<s n="20" lang="la" state="auto">Opinor autem<pb_scan n="2777v."/> nec mihi nec aliis inutile fore, si artium disciplinarumque cognitioni aliquantulum temporis impendam.</s>
+				<s n="21" lang="la" state="auto">Sunt enim hęc studia (quantum mihi iudicare licet) talia, ut diutius his immoranti noceant, negligentem vero et ipsa nonnunquam non sine suo magno malo negligant.</s>
+				<s n="22" lang="la" state="auto">Mathematicae autem studio prae cęteris artibus ob id<fl>e</fl> maxime teneor, quia huius artis praecepta non modo sibi ipsi, sed etiam aliis quam commodissime accommodari posse videntur<fl>f</fl>; tum ars alia non est, quae demonstrationis vim et iuditii informationem apertius tradat.</s>
+				<s n="23" lang="la" state="auto"><persName ref="4544">Ciceronis</persName> interim orationes lego easque ad <persName ref="19279">Hermogenis</persName> (quem <persName ref="1365">Grineus</persName> profitetur<fl>8</fl>) et <persName ref="18432">Aristotelis</persName> praecepta examino; stylum et ipse ficto argumento exerceo.</s>
+				<s n="24" lang="la" state="auto">In sacris epistolam ad Romanos perlego, quam etiam <placeName ref="492">Argentinę</placeName> antea legi<fl>9</fl>.<pb_edition start_of="108"/></s>
+				<s n="25" lang="la" state="auto">Livianam interim lectionem, cum otium datur, non negligo.</s>
+				<s n="26" lang="la" state="auto">Habes nunc studiorum meorum scopum; in quo si quid immutatum volueris aut si tibi instituta non placet ratio, indica, quid emendatum velis.</s>
+				<s n="27" lang="la" state="auto">Faciam ego, ne immoriger haberi possim.</s>
+				<s n="28" lang="la" state="auto"><placeName ref="378">Lutetiam</placeName><fl>10</fl> videndi spes omnis excidit, cum tantam illic rerum inopiam esse audiam, ut etiam <persName ref="8465" state="auto_name">Melchiori</persName><fl>11</fl> de conditione quadam cogitandum sit.</s>
+				<s n="29" lang="la" state="auto">Verum quoad <persName ref="8459" state="auto_name">Othonem</persName><fl>12</fl> nostrum mecum habuero, a <placeName ref="28">Basilea</placeName> discedere non cupio; adest enim hic studiis meis, quantum potest.</s>
+			</p>
+			<p>
+				<s n="30" lang="la" state="auto">Quid de libro tuo nuper aedito<fl>13</fl> <placeName ref="28">Basilienses</placeName> iudicent, scire non possum; sed nondum, ut arbitror, aliis negotiis impediti legerunt.</s>
+				<s n="31" lang="la" state="auto">Summae hic inter d. <persName ref="8418">Miconium</persName> et <persName ref="4349">Carolstadium</persName> lites existunt et simultates, dum ille<fl>g</fl> universitati se opponere videtur, hic vero scholae<fl>h</fl> partes satis importune defendit<fl>14</fl>.</s>
+				<s n="32" lang="la" state="auto">Neuter tamen universitati adversari videri vult; factiones tamen interim fovent.</s>
+			</p>
+			<p>
+				<s n="33" lang="la" state="auto">Ego finem nondum video; ipsi, quid agant, viderint.</s>
+				<s n="34" lang="la" state="auto">Ego gravissimum illos dei iuditium subituros puto, qui scholarum institutioni sese opponunt.</s>
+			</p>
+			<p>
+				<s n="35" lang="la" state="auto">Timeo, ne, dum de schola pugnant, statim omni schola carebunt.</s>
+				<s n="36" lang="la" state="auto">Eo certe nunc res devenit, ut per integrum annum nulla Latina lectio <placeName ref="28">Basileę</placeName> habita sit.</s>
+				<s n="37" lang="la" state="auto">Othonem <persName ref="4544">Ciceronis</persName> orationes lecturum expectabamus<fl>15</fl>; sed nescio quis daemon optimum consilium dissipavit.</s>
+				<s n="38" lang="la" state="auto">Ego deo vobisque plurimum gratulor, quod vos in scholae institutione strenue progredi audio<fl>16</fl>.</s>
+				<s n="39" lang="la" state="auto">Deus successum foelicem prębeat.</s>
+			</p>
+			<p>
+				<s n="40" lang="la" state="auto"><pb_scan n="2778r."/>Scripsit a Franckfordia <persName ref="467">Bucerus</persName><fl>17</fl> oratoris<fl>18</fl> eius, qui caesaris<fl>19</fl> partes agit, constantiam, imo pertinatiam, qui ne latum unguem<fl>20</fl> de suo instituto cedere instituit.</s>
+				<s n="41" lang="la" state="auto">De indutiis agunt; tempus indutiarum mensium octodecim utrique constituere, in conditionibus convenire non possunt<fl>21</fl>.</s>
+				<s n="42" lang="la" state="auto">Interim ingentes in Inferiori Germania copiae conscribuntur<fl>22</fl>, nimirum contra Anglorum regem<fl>23</fl>, quo debellato etiam Germanorum victoria se caesar potiturum sperat.</s>
+				<s n="43" lang="la" state="auto">Sed deus exercituum<fl>24</fl> nefaria impiissimi principis consilia dissipabit.</s>
+				<s n="44" lang="la" state="auto">Videmus nunc sane omnem moram, quam hactenus in oppugnandis piis caesar habuit, non animi pii iuditium, sed quęsitae facultatis argumentum esse.<pb_edition start_of="109"/></s>
+			</p>
+			<p>
+				<s n="45" lang="la" state="auto">Mitto hic tibi Sybillę folia<fl>25</fl>, id est obscurissimas quasdam literas, quę apud canzellarium Brunschvigensem inventae sunt<fl>26</fl>.</s>
+				<s n="46" lang="la" state="auto">Plura in his consilia scripta non sunt, quia coram praesens ea, quae necesse erat, expedire eum oportebat.</s>
+			</p>
+			<p>
+				<s n="47" lang="la" state="auto">Plura, quae scribam, non habeo.</s>
+				<s n="48" lang="la" state="auto">Tu, quaeso, hęc mea aequi bonique consule et ea, que per <persName ref="18308" state="auto_name">Quirinum</persName><fl>27</fl> abs te postulavi<fl>28</fl>, mitte, obsecro.</s>
+				<s n="49" lang="la" state="auto">Salutabis nomine meo uxorem<fl>29</fl> matremque<fl>30</fl> tuam cum universa familia.</s>
+				<s n="50" lang="la" state="auto">Vale bene, pater charissime, et me semper fidei tuę commendatum habeto.</s>
+			</p>
+			<p>
+				<s n="51" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, idibus apr[ilis] 1539.</s>
+			</p>
+			<p>
+				<s n="52" lang="la" state="auto">Tui observantissimus <persName ref="8011">R. Gvaltherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="53" lang="la" state="auto">Vere pio et erudito viro M. Heinrycho Bullingero, patrono et domino suo imprimis colendo<fl>i</fl>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1254">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Anstreichungen von späterer Hand.</i></fn>
+			<fn ref="b"><i>vor</i> summis <i>ein gestrichener Buchstabe.</i></fn>
+			<fn ref="c">nomine <i>am Rande nachgetragen.</i></fn>
+			<fn ref="d"><i>korrigiert aus</i> adumbrares.</fn>
+			<fn ref="e">ob id <i>anstelle von gestrichenem</i> et[?] <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="f">videntur <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="g"><i>korrigiert aus</i> illi.</fn>
+			<fn ref="h"><i>vor</i> scholae <i>gestrichenes</i> illi.</fn>
+			<fn ref="i"><i>Daneben Vermerk von Bullingers Hand:</i> Rodlophi Gwaltheri 1539 prima augusti[!].</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Oben <link fk_file="11291">Nr. 1248</link>.</fn>
+			<fn ref="2">Von welchem Zürcher Buchhändler die Rede ist, bleibt ungewiß.</fn>
+			<fn ref="3" type="bio" fk_person="4830"><persName ref="4830">Adam Frey (Fry, Phrygio)</persName>, gest. Ende 1552 (s. Zürich Stadtarchiv, VIII C 48, 1. Januar 1553), stammte laut Zürcher Bürgerbuch aus der Herrschaft <placeName ref="1153">Regensberg</placeName> (s. Zürich Stadtarchiv, III A 1, <link fk_file="10189">Nr. 158</link>). Er wurde 1534 eingebürgert und gehörte der Zunft zur Meisen an (s. Zürich StA, W 11.41, S. 17). 1538/39 weilte er zur Behandlung von Lähmungen bei einem Arzt in <placeName ref="1738">Schliengen</placeName> (Kr. Lörrach, Baden-Württemberg). Seine Ehefrau <persName ref="5976">Agathe Studler</persName> wurde unter dem Verdacht verhaftet, die Krankheit böswillig verursacht zu haben, doch am 11. Januar 1539 wurde sie wieder entlassen (s. Zürich StA, A 27. 159, Nr. 22). Obwohl ihr Mann sie zeitweise verlassen und uneheliche Kinder gezeugt hatte, verlangte das Ehegericht von ihr 1541 die Fortsetzung der Ehe (s. Zürich StA, YY 1. 7, 12v.-14r.). Es muß aber trotzdem zur Scheidung gekommen sein; jedenfalls wurde 1542 <persName ref="4830">Freys</persName> Verehelichung mit Elisabeth Leu unter Vorbehalt seiner Bestrafung wegen des vorausgegangenen Ehebruchs legitimiert (s. ebd., 146r., 151r., 185v., 304v., 305r.; zu Elisabeth Leu vgl. Paul <i>Ganz,</i> Die Familie des Malers Hans Leu von Zürich, in: <bibl>ZTB</bibl> 1902, NF 25, S. 192f). Zum weiteren Schicksal <persName ref="5976">Agathe Studlers</persName> s. unten <link fk_file="11323">Nr. 1280</link>, Anm. 2.</fn>
+			<fn ref="4">Unbekannt.</fn>
+			<fn ref="5">Bullingers "Bericht der Kranken" war erstmals 1535 bei <persName ref="1227">Froschauer</persName> erschienen; s. <bibl>HBBibl</bibl> I 73-80.</fn>
+			<fn ref="6">Nicht erhalten.</fn>
+			<fn ref="7">Zu diesem verlorenen Brief Bullingers vgl. auch oben <link fk_file="11288">Nr. 1245</link>, 2ff, bes. 11-14.</fn>
+			<fn ref="8">Vgl. oben <link fk_file="11265">Nr. 1222</link>, 11f.</fn>
+			<fn ref="9">Vgl. <bibl>HBBW VIII</bibl> <link fk_file="11244">[Nr. 1201]</link>, S. 277, 104-106.</fn>
+			<fn ref="10"><placeName ref="378">Paris</placeName>.</fn>
+			<fn ref="11"><persName ref="8465">Melchior Wirz</persName>.</fn>
+			<fn ref="12"><persName ref="8459">Otto Werdmüller</persName>.</fn>
+			<fn ref="13">Gemeint ist Bullingers "De origine erroris" (<bibl>HBBibl</bibl> I 12); vgl. oben <link fk_file="11296">Nr. 1253</link>, 5-7.</fn>
+			<fn ref="14">Vgl. unten <link fk_file="11307">Nr. 1264</link>, 1-7; 1278, 45-57 u. ö.</fn>
+			<fn ref="15">Vgl. oben <link fk_file="11275">Nr. 1232</link>, 29.</fn>
+			<fn ref="16">Vgl. <bibl>HBBW VIII</bibl> <link fk_file="11233">[Nr. 1190]</link>, S. 253, 15-22.</fn>
+			<fn ref="17"><persName ref="8011">Gwalther</persName> bezieht sich <i>auf</i> einen Brief <persName ref="467">Bucers</persName> an <persName ref="8418">Myconius</persName> und <persName ref="1365">Grynäus</persName> vom April 1539 (Tagesdatum fehlt), der in einer Abschrift von <persName ref="8011">Gwalthers</persName> Hand überliefert ist; s. Zürich ZB, Ms F 80, 114.</fn>
+			<fn ref="18"><persName ref="7852">Johann von Weeze</persName>.</fn>
+			<fn ref="19"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="20">Vgl. <bibl>Adagia</bibl> 1, 5, 6 (<bibl>LB</bibl> II 184f).</fn>
+			<fn ref="21">Zum Stand der Verhandlungen um Anfang April s. <bibl>Fuchtel</bibl> 177-183.</fn>
+			<fn ref="22">Als Auftraggeber der Werbungen in den <entity id="20" type="geo_country">Niederlanden</entity> wurde <persName ref="18770">Herzog Heinrich von Braunschweig</persName> vermutet; s. <bibl>PC</bibl> II 585f.</fn>
+			<fn ref="23"><persName ref="18505">Heinrich VIII.</persName></fn>
+			<fn ref="24">Gott Zebaoth (vgl. <bibl>Otto</bibl> <i>Eißfeldt,</i> in: RGG<sup>3</sup> VI 1875f).</fn>
+			<fn ref="25">untrügliche Orakel; vgl. <bibl>Adagia</bibl>, 1, 7, 91 (<bibl>LB</bibl> II 298).</fn>
+			<fn ref="26">Am 30. Dezember 1538 hatte Landgraf <persName ref="18574">Philipp von Hessen</persName> in der Nähe von <placeName ref="244">Kassel</placeName> den braunschweigischen Sekretär <persName ref="6458">Stephan Schmidt</persName> und dessen Begleiter abgefangen. Schmidt trug Instruktionen Herzog Heinrichs bei sich, die seine feindliche Gesinnung gegen die Protestanten offen zum Ausdruck brachten. Die Schreiben sind gedruckt in: Friedrich <i>Hortleder,</i> Der Römischen Keyser- Vnd Königlichen Maiesteten .. Handlungen und Außschreiben ... Bd. II, Frankfurt a. M. 1617, S. 12-14. Vgl. Georg <i>Kuhaupt,</i> Veröffentlichte Kirchenpolitik. Kirche im publizistischen Streit zur Zeit der Religionsgespräche (1538-1541), Göttingen 1998. -Forschungen zur Kirchen- und Dogmengeschichte 69, S. 101.</fn>
+			<fn ref="27"><persName ref="18308">Quirinus von Leiden</persName>.</fn>
+			<fn ref="28">Nämlich eine lateinische Bibel, vgl. oben <link fk_file="11288">Nr. 1245</link>, 19-23, und unten <link fk_file="11303">Nr. 1260</link>, 15f.</fn>
+			<fn ref="29" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="30" type="bio" fk_person="7042"><persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12884" id_hbbw="2835" id_irg_sort="2835" id_sort="128350">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12884</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2835</arpa>
+		<scan_pages>
+			<scan id="30170" dir="12884/Autograph/" page="1">00 E_II_342__fol__167_r_.tif</scan>
+			<scan id="30171" dir="12884/Autograph/" page="2">01 E_II_342__fol__167_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26312" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="1" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26313" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12884">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">4</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19454">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 342,167</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9129" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>Henrich, Myconius BW 943, Nr. 1059</entry>
+			</print>
+			<print id="12372" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2835, S. 383</entry>
+				<page>383</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="36">
+				<lang id="1" iso="de" count="6" p="16.7"/>
+				<lang id="5" iso="la" count="30" p="83.3"/>
+			</sentences>
+			<words count="360">
+				<lang id="1" iso="de" count="37" p="10.3"/>
+				<lang id="5" iso="la" count="323" p="89.7"/>
+			</words>
+			<chars count="2076">
+				<lang id="1" iso="de" count="199" p="9.6"/>
+				<lang id="5" iso="la" count="1877" p="90.4"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2835" page="382">
+		<div ref="1">
+			[1] Gut, dass es <persName ref="8418">Myconius</persName> wieder besser geht! Der Herr möge ihn noch lange seiner Kirche erhalten. Ihr soll
+			er sich völlig widmen!
+		</div>
+		<div ref="2">
+			[2] Die Zürcher Gesandten [<persName ref="1419">Johannes Haab</persName> und <persName ref="6793">Itelhans Thumysen</persName>], die
+			noch auf der <placeName ref="21">Badener</placeName> Tagsatzung sind, haben keine Nachricht
+			übermittelt. Bullinger hat also nichts über den von <persName ref="8418">Myconius</persName> erwähnten Brief des <persName ref="18538">Kaisers Karl V.</persName> gehört.
+		</div>
+		<div ref="3">
+			[3] <placeName ref="492">Straßburg</placeName> wird kaum unter anderen Bedingungen begnadigt
+			werden als die anderen Städte, die vom Kaiser mit schönen Versprechungen benebelt wurden. Am Ende wird man
+			sehen, von wem [diese Versprechungen ausgingen]!
+		</div>
+		<div ref="4">
+			[4] Großartige Dinge werden über <placeName ref="1976">Augsburgs</placeName> Begnadigung berichtet.
+			Von glaubwürdigen Leuten aber ist zu vernehmen, dass die<pb_edition start_of="383"/> Stadt übel getäuscht
+			wurde. Am 21. Februar musste sie sechs kaiserliche Fähnlein aufnehmen. Sechs weitere sollen folgen. Bald
+			wird man sehen, was dieser Abschaum sich getraut, sobald er sich überlegen fühlt!
+		</div>
+		<div ref="5">
+			[5] <placeName ref="513">Ulm</placeName> und die anderen armseligen Städte sind schon ein gutes
+			Beispiel dafür. Warum mussten diese sich ergeben, fremde Besatzungen aufnehmen und ihre Freiheit preisgeben?
+			Bestimmt bestraft Gott so die nicht bußfähigen Menschen für ihre Undankbarkeit.
+		</div>
+		<div ref="6">
+			[6] Der Kaiser wird die Stadt <placeName ref="492">Straßburg</placeName> nur dann begnadigen,
+			wenn sie Truppen aufnimmt. Er will nämlich in den wichtigsten deutschen Städten seinen Sieg wie auch die
+			Unterwerfung Deutschlands zur Schau stellen.
+		</div>
+		<div ref="7">
+			[7] Möge Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> siegen! Vermutlich aber wird auch er von seinen Verbündeten
+			im Stich gelassen, es sei denn, dass Gott doch noch eingreift. Im
+			<entity id="25" type="geo_region">Hegau</entity> erzählen nämlich Landsknechte, die verwundet aus einer
+			verlorenen Schlacht zurückgekehrt sind, dass der Kurfürst gesiegt habe und etwa 3000 Kaiserliche gefallen
+			seien. <persName ref="18538">Karl V.</persName> soll <placeName ref="513">Ulm</placeName> am 26. Februar verlassen haben und gegen
+			den Kurfürsten ziehen.
+		</div>
+		<div ref="8">
+			[8] <persName ref="8418">Myconius</persName>’ Beurteilung von Kaiser und <persName ref="19981">Papst [Paul III.]</persName> ist zutreffend. Beide vertuschen nur ihre
+			Kungeleien, um die Menschen besser an der Nase herumzuführen. Umso wichtiger ist es, das Evangelium Christi,
+			des wahren Priesters und treuen Königs, der bald alle richten wird, weiter zu verkündigen! Gruß, auch an die
+			Kollegen. Geschrieben gegen neun Uhr vormittags.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2835" page="383">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Gratulor tibi, honorande mi <persName ref="8418">Myconi</persName>, ob recuperatam sanitatem tuam,<fl>1</fl> quam dominus velit esse diuturnam, ut diu utilis esse pergas ecclesiae suae; quo etiam omnia tua studia convertas!</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="la" state="auto">A comitiis Badensibus<fl>2</fl> ne hac quidem hora quicquam certi habemus.</s>
+				<s n="4" lang="la" state="auto">Legati enim nostri<fl>3</fl> nec redierunt nec literam ulla de re scripserunt.</s>
+				<s n="5" lang="la" state="auto">Nihil ergo vel de literis caesaris<fl>4</fl>, quibus de tu scribis,<fl>5</fl> vel de ullis aliis rebus scribere possum.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="6" lang="la" state="auto">Argentinam<fl>6</fl> vix aliis recipiet in gratiam conditionibus caesar quam alias urbes, quas mellitis verbis et nimbo quodam promissionum occaecat; in fine videbitur cuius.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="7" lang="la" state="auto">Splendida dicta sunt de <placeName ref="1976">Augusta</placeName> recepta.<fl>7</fl></s>
+				<s n="8" lang="la" state="auto">Ego ex fide dignis hominibus intelligo miseris turpiter esse impositum blandiloquentia.</s>
+				<s n="9" lang="la" state="auto">21. februarii<fl>a</fl> recepta sunt 6 signa caesaris in urbem.</s>
+				<s n="10" lang="la" state="auto">Aiunt adhuc 6 expectari.<fl>8</fl></s>
+				<s n="11" lang="la" state="auto">Ubi superiorem se numero et viribus putaverit, videbis, quid ista hominum fex tentatura sit.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="12" lang="la" state="auto"><placeName ref="513">Ulma</placeName> et reliquae miserę urbes<fl>9</fl> exemplum praebent.</s>
+				<s n="13" lang="de" state="auto">Was doͤrffend sich<fl>10</fl> die barmhertzigen<fl>11</fl> lüt also uffzegaͤben?</s>
+				<s n="14" lang="de" state="auto">Was naͤmend sy das tüfelvolck<fl>12</fl> hinyn?</s>
+				<s n="15" lang="de" state="auto">Was behaltend sy ir stett nitt unbefleckt und unbeherrschet?<fl>13</fl></s>
+				<s n="16" lang="la" state="auto">Sed <pb_edition start_of="384"/> haec est manus domini<fl>14</fl> percutientis nos propter ingratitudinem nostram et vitam poenitere nesciam.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="17" lang="la" state="auto">Non reconciliabitur caesar <placeName ref="492">Argentinae</placeName>, nisi signis aliquot in urbem receptis.<fl>15</fl></s>
+				<s n="18" lang="la" state="auto">Ita enim vult ubique et in omnibus potentissimis maxime Germaniae urbibus signa luculenta extare et relucere suae victoriae et deditionis Germanorum turpissimae.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="19" lang="la" state="auto">Utinam vincat <persName ref="19065" state="auto_name">Saxo</persName><fl>16</fl> ad gloriam nominis dei et consolationem afflictorum!</s>
+				<s n="20" lang="la" state="auto">Metuo tamen illum quoque suo tempore deserendum a sotiis.<fl>17</fl></s>
+				<s n="21" lang="la" state="auto">Sed aliud forte visum est domino.</s>
+				<s n="22" lang="la" state="auto">In Hegavia<fl>18</fl> audio spargi a militibus e pugna infelici cruentatis capitibus redeuntibus vicisse Saxonem et caesareanorum occubuisse ad 3000.</s>
+				<s n="23" lang="la" state="auto">Verumne an falsum dicatur, ignoro et dubito.</s>
+				<s n="24" lang="la" state="auto">Aiunt caesarem 26. februarii movisse ab <placeName ref="513">Ulma</placeName> contra Saxonem.<fl>19</fl></s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="25" lang="la" state="auto"><pb_scan n="v."/>Recte iudicas de concordia et discordia caesaris et papae.<fl>20</fl></s>
+				<s n="26" lang="la" state="auto">Ego arbitror saepiae esse atrorem.<fl>21</fl></s>
+				<s n="27" lang="de" state="auto">Es ist buͦbery<fl>22</fl>, damitt die lüt umbgand.<fl>23</fl></s>
+				<s n="28" lang="de" state="auto">Trüw inen<fl>24</fl> ja frylich der tüfel!</s>
+				<s n="29" lang="la" state="auto">Quin potius annunciemus nos regnum dei et salutiferum evangelium filii dei, pontificis et regis nostri,<fl>25</fl> qui syncere agit, neminem fallit et mox venturus est in iustitia, iudicaturus vivos et mortuos.<fl>26</fl></s>
+				<s n="30" lang="la" state="auto">Huic placere in omnibus satagamus!</s>
+				<s n="31" lang="la" state="auto">In illo vale cum omnibus bonis.</s>
+				<s n="32" lang="la" state="auto">Tiguri, 4. martii circa 9 antemeridianam 1547.</s>
+				<s n="33" lang="la" state="auto">Saluta fratres.</s>
+				<s n="34" lang="la" state="auto">Bullingerus tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="35" lang="la" state="auto">Clarissimo viro d. <persName ref="8418">Osvaldo Myconio</persName>, domino et fratri colendo et dilecto.</s>
+				<s n="36" lang="de" state="auto"><placeName ref="28">Basel</placeName>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2835">
+		<alpha>
+			<fn ref="a"><i>Am Rande nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Bezug auf <link fk_file="12882">Nr. 2833</link>,1-4.</fn>
+			<fn ref="2">Die am 28. Februar begonnene <placeName ref="21">Badener</placeName> Tagsatzung; s. <link fk_file="12866">Nr. 2817</link>, Anm. 4.</fn>
+			<fn ref="3"><persName ref="1419">Johannes Haab</persName> und <persName ref="6793">Itelhans Thumysen</persName>; s. <bibl>EA</bibl> IV/1d 771, Nr. 350 (Vorspann).</fn>
+			<fn ref="4"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="5">Nämlich in <link fk_file="12882">Nr. 2833</link>,5-li.</fn>
+			<fn ref="6">In Bezug auf <link fk_file="12882">Nr. 2833</link>,12-14.</fn>
+			<fn ref="7">Zur Unterwerfung <placeName ref="1976">Augsburgs</placeName> s. <link fk_file="12818">Nr. 2769</link>, Anm. 7.</fn>
+			<fn ref="8">Bullinger bezieht sich hier auf <persName ref="8018">Hallers</persName> Mitteilung vom 21. Februar; s. <link fk_file="12870">Nr. 2821</link>,10-25. 184-187.</fn>
+			<fn ref="9">Zu den Städten, die sich dem Kaiser ergeben hatten, s. <link fk_file="12783">Nr. 2734</link>, Anm. 4; <link fk_file="12790">Nr. 2741</link>, Anm. 4; <link fk_file="12792">Nr. 2743</link>, Anm. 40; <link fk_file="12795">Nr. 2746</link>, Anm. 9.</fn>
+			<fn ref="10">Was dörffend sich: Warum mussten sich.</fn>
+			<fn ref="11">erbärmlichen.</fn>
+			<fn ref="12">Damit sind die kaiserlichen Söldner gemeint.</fn>
+			<fn ref="13">selbstständig.</fn>
+			<fn ref="14">Vgl. z.B. 1Sam 5, 11.</fn>
+			<fn ref="15">Den Straßburgern blieb jedoch eine Besatzung durch kaiserliche Truppen erspart; s. <link fk_file="12871">Nr. 2822</link>, Anm. 16.</fn>
+			<fn ref="16"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="17">= sociis.</fn>
+			<fn ref="18"><entity id="25" type="geo_region">Hegau</entity>. -Diese Meldung geht vermutlich auf das gleiche Gerücht zurück, das auch <persName ref="8418">Myconius</persName> und <persName ref="1278">Johannes Gast</persName> meldeten; vgl. <link fk_file="12881">Nr. 2832</link>,24-26; <link fk_file="12882">Nr. 2833</link>,16-19.</fn>
+			<fn ref="19">Der Kaiser verließ <placeName ref="513">Ulm</placeName> erst am 4. März; s. <link fk_file="12783">Nr. 2734</link>, Anm. 4; <link fk_file="12803">Nr. 2754</link>, Anm. 18. -Eine Zeitlang meinte man aber, dass er <placeName ref="513">Ulm</placeName> schon am 26. Februar verlassen würde; s. <bibl>PC</bibl> IV/1 614.</fn>
+			<fn ref="20"><persName ref="19981">Paul III.</persName> -Vgl. <link fk_file="12882">Nr. 2833</link>,23f.</fn>
+			<fn ref="21">die Schwärze (s. <bibl>Kirsch</bibl> 296) der Tinte des Tintenfisches (um die Leute besser verblenden zu können).</fn>
+			<fn ref="22">schändliches Treiben; s. <bibl>SI</bibl> IV 946.</fn>
+			<fn ref="23">damitt die lüt umbgand: womit diese Leute [hier: Kaiser und Papst] irreführen.</fn>
+			<fn ref="24">Es traue ihnen.</fn>
+			<fn ref="25">Gemeint ist Christus; vgl. Hebr 4, 14; 7, 1f. 21f; 8, 1; 10, 21.</fn>
+			<fn ref="26">Vgl. Ps 96 (Vulg. 95), 13; 98 (Vulg. 97), 9; 2Tim 4, 1; 1Petr 4, 5.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12849" id_hbbw="2800" id_irg_sort="2800" id_sort="128000">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12849</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2800</arpa>
+		<scan_pages>
+			<scan id="30070" dir="12849/Autograph/" page="1">00 E_II_364__S__79_.tif</scan>
+			<scan id="30071" dir="12849/Autograph/" page="2">01 E_II_364__S__80_.tif</scan>
+			<scan id="30072" dir="12849/Autograph/" page="3">02 E_II_364__S__81_.tif</scan>
+			<scan id="30073" dir="12849/Autograph/" page="4">03 E_II_364__S__82_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26242" vf="1" fk_add_type="1">
+				<person id="4082" fk_id="4082">
+					<name>Zwick</name>
+					<forename>Konrad</forename>
+				</person>
+				<place id="257" vf="1" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26243" vf="0" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12849">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">7</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19416">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 364,79–82</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12413" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2800, S. 273</entry>
+				<page>273</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="39">
+				<lang id="1" iso="de" count="39" p="100.0"/>
+			</sentences>
+			<words count="832">
+				<lang id="1" iso="de" count="832" p="100.0"/>
+			</words>
+			<chars count="4433">
+				<lang id="1" iso="de" count="4433" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2800" page="272">
+		<div ref="1">
+			[1] Auf Bullingers Brief [<link fk_file="12836">Nr. 2787</link>] an
+			<persName ref="8055">Ambrosius Blarer</persName> hin hat <persName ref="4082">Zwick</persName> nach
+			<placeName ref="513">Ulm</placeName> geschrieben, um sich [über die eidgenössische Gesandtschaft]
+			zu erkundigen.
+		</div>
+		<div ref="2">
+			[2] Die <placeName ref="457">Konstanzer</placeName> versuchen auf jegliche Art und Weise, eine
+			Aussöhnung [mit <persName ref="18538">Kaiser Karl V.</persName>] so lange wie möglich hinauszuschieben. <persName ref="7612">Hans Jakob von Landau</persName> möchte sich für
+			sie einsetzen, desgleichen der Landkomtur <persName ref="7729">Johann Werner von Reischach</persName>, Graf <persName ref="17927">Friedrich von Fürstenberg</persName> und
+			<persName ref="7842">Wilhelm Truchsess [von Waldburg-Trauchburg]</persName>. Sogar Bischof <persName ref="7852">Johann von Weeze</persName> hat über einen Boten [...] seine
+			Hilfsbereitschaft versichert. Was dies bedeutet, ist ja klar, auch wenn viele diesbezüglich noch blind sind.
+		</div>
+		<div ref="3">
+			[3] <persName ref="4082">Zwick</persName> vermutet, dass <persName ref="2916">Sebastian Schertlin</persName> sich nach Zürich begeben wird. Der Geheime Rat von
+			<placeName ref="457">Konstanz</placeName> wurde nämlich von einem guten Freund [...] gewarnt, dass
+			der Kaiser in Bezug auf Schertlin schreiben [und dessen Auslieferung fordern] wird, was bestimmt unangenehme
+			Folgen für die Stadt hätte. Der Rat hat also daraufhin Schertlin darüber informiert, weil er ihm wohlgesinnt
+			ist.
+		</div>
+		<div ref="4">
+			[4] Fernando Álvarez de Toledo, Herzog von Alba, zieht mit 2000 Soldaten in Richtung
+			<placeName ref="1976">Augsburg</placeName>. Auch sollen sich etwa 1200 Soldaten nach
+			<placeName ref="320">Memmingen</placeName> begeben, um sich der Stadt zu bemächtigen und sie zu
+			plündern.
+		</div>
+		<div ref="5">
+			[5] Es geht das Gerücht um, dass der Kaiser einen Frieden mit <persName ref="7637">König Franz I.</persName> geschlossen habe, weshalb alle
+			Handlungen des Letzteren [die angeblich zugunsten der Schmalkaldener unternommen werden] nur eine Täuschung
+			seien.
+		</div>
+		<div ref="6">
+			[6] Falls die Zürcher von dem aus <placeName ref="513">Ulm</placeName> an <persName ref="4082">Zwick</persName> gerichteten
+			Schreiben eine Abschrift anfertigen ließen, sollten sie unbedingt darauf achten, dass die Stellen, aus denen
+			die Identität des Briefschreibers [<persName ref="4285">Georg Besserer</persName>] abgeleitet<pb_edition start_of="273"/> werden könnte,
+			ausgelassen oder geändert werden: So dort, wo vom Aufenthalt des venezianischen Botschafters [<persName ref="5851">Alvise Mocenigo</persName>] im Hause des Briefschreibers, vom Aufbrechen von dessen Scheune durch die kaiserlichen Soldaten
+			und der darauf erfolgten Unterbringung von 15 deren Pferden, oder auch vom Landgrafen <persName ref="18574">Philipp von Hessen</persName> die
+			Rede ist; das Gleiche gilt für die Stelle, wo der Briefschreiber bedauert, Kriegsrat gewesen zu sein.
+		</div>
+		<div ref="7">
+			[7] <persName ref="4082">Zwick</persName> denkt, dass es dienlich wäre, wenn der Zürcher Geheime Rat einen Gesandten an die Geheimen von
+			<placeName ref="457">Konstanz</placeName> mit folgender Botschaft schickte: Nachdem die Zürcher von
+			dem unlängst bei ihnen erschienenen <placeName ref="457">Konstanzer</placeName> Gesandten [<persName ref="4082">Zwick</persName>]
+			und aus dem Brief [der <placeName ref="457">Konstanzer</placeName> an die vier protestantischen
+			Orte vom 1. Februar] erfahren haben, dass der Rat und die Bürger von
+			<placeName ref="457">Konstanz</placeName> befürchten, sich dem Kaiser ergeben zu müssen (woraus den
+			Zürchern und den Eidgenossen Nachteile entstehen werden, für die sie sich bereits entschuldigen), und
+			dementsprechend [die vier protestantischen Orte] um Rat und Mittel bitten, damit ein Friedensvertrag mit dem
+			Kaiser vermieden werden könne, haben die Zürcher Geheimen beschlossen, einen Gesandten an
+			<placeName ref="457">Konstanz</placeName> mit folgender Mitteilung abzufertigen: Erstens, dass die
+			Zürcher den Konstanzern verzeihen, wenn diese zwangsweise Maßnahmen ergreifen müssten, die für die
+			Eidgenossen ungünstig wären. Zweitens, dass in Bezug auf die von
+			<placeName ref="457">Konstanz</placeName> erbetene Hilfe die Zürcher sich mit ihren [drei] anderen
+			eidgenössischen Verbündeten beraten und das Ergebnis der Absprache mitteilen werden. Drittens, dass die
+			Zürcher die <placeName ref="457">Konstanzer</placeName> warnen möchten, dass man von allen Seiten
+			höre, wie der Kaiser in den Städten [die sich ihm unterworfen haben] ausländische Soldaten stationiert; und
+			dass dies also <placeName ref="457">Konstanz</placeName> ebenfalls bevorstehe. Dann aber werden die
+			kaiserlichen Truppen wohl alles daran setzen, die Zürcher und die anderen Eidgenossen von
+			<placeName ref="457">Konstanz</placeName> aus zu schmähen und ihnen vielleicht sogar zu schaden;
+			woraus nicht nur eine schlechte Nachbarschaft, sondern auch schlimme Folgen resultieren werden. Dies mögen
+			die <placeName ref="457">Konstanzer</placeName> doch in Erwägung ziehen, damit die gute
+			Nachbarschaft weiterhin bestehe; wofür sich auch die Zürcher und die anderen Eidgenossen einsetzen wollen.
+		</div>
+		<div ref="8">
+			[8] Ein solcher Antrag bei den Konstanzern könnte den Zürchern nicht schaden und die anderen Eidgenossen
+			kaum verärgern. Dies würde ferner den <placeName ref="457">Konstanzer</placeName> Rat dazu
+			veranlassen, bedächtiger und vorsichtiger zu handeln, um eine fremde Besatzung in der Stadt zu vermeiden.
+			Zudem wären die Bürger dazu geneigt, sich von dieser Gesandtschaft mehr zu versprechen [als es tatsächlich
+			zutrifft], und würden die Bischöflichen um <placeName ref="457">Konstanz</placeName> umso mehr
+			zögern, etwas gegen die Stadt zu unternehmen.
+		</div>
+		<div ref="9">
+			[9] Bullinger möge diese Aufforderung wohlwollend aufnehmen, da <persName ref="4082">Zwick</persName> nur Gutes für
+			<placeName ref="587">Zürich</placeName> und <placeName ref="457">Konstanz</placeName>
+			möchte.
+		</div>
+		<div ref="10">
+			[10] Falls <placeName ref="587">Zürich</placeName> und die drei anderen protestantischen Orte
+			melden sollten, dass sie weder Mittel noch Rat wüssten, wie sie
+			<placeName ref="457">Konstanz</placeName> helfen könnten, sollen sie unbedingt dafür sorgen, dass
+			dies geheim bleibt, damit daraus keine schlimme Folgen entstehen.
+		</div>
+		<div ref="11">
+			[11] Falls Bullinger dem gegenwärtigen Boten <persName ref="6182">[Jörg] Regelin</persName> (das Gleiche gilt auch für andere von <persName ref="4082">Zwick</persName>
+			abgefertigte Boten) in Angelegenheiten, die mehr die Zürcher als die
+			<placeName ref="457">Konstanzer</placeName> betreffen, Geld gibt, soll dies ihnen nicht als
+			Geschenk [sondern als Botenlohn] übergeben werden, denn sonst würden die eigennützigen Boten trotzdem noch
+			einen Lohn von <persName ref="4082">Zwick</persName> verlangen, was ja ungerecht wäre!
+		</div>
+		<div ref="12">
+			[12] Bullinger möge für die <placeName ref="457">Konstanzer</placeName> beten, und ganz besonders
+			für <persName ref="4082">Zwick</persName>, damit er nach Gottes Willen handle.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2800" page="273">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Min willig dienst voran, lieber herr und guͦter fründ.</s>
+				<s n="2" lang="de" state="auto">Uff ewer schriben<fl>2</fl>, m. A[mbrosio] gethuͦn, hab ich min kuntschafft gen <placeName ref="513">Ulm</placeName> gemacht.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">Zum anderen wellend wir die versuͤnung<fl>3</fl> uffziechen<fl>4</fl>, so lang wir moͤgent.</s>
+				<s n="4" lang="de" state="auto">Wir suͦchent zuͦ dem alle mittel.<fl>5</fl></s>
+				<s n="5" lang="de" state="auto">Herr <persName ref="7612">Hans Jacob von Lando</persName><fl>6</fl> will ouch von <pb_edition start_of="274"/> unsertwegen handlen.</s>
+				<s n="6" lang="de" state="auto">Glicher gstalt<fl>7</fl> habent der landtkommenthur<fl>8</fl>, item graf Friderich von <persName ref="17927" state="auto_name">Furstenberg</persName><fl>9</fl> und h. Wilhalm Truckseß<fl>10</fl> sich gegen minen hernn angepotten.</s>
+				<s n="7" lang="de" state="auto">Der bischoff<fl>11</fl> hatt by uns ain pottschafft<fl>12</fl> gehapt und sich vil guͦts vernemmen lassen.</s>
+				<s n="8" lang="de" state="auto">Waß das alles bedüte, ist guͦt zuͦ gedencken, aber vil menschen sind jetz mit sehenden ougen blind.<fl>13</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="9" lang="de" state="auto">Ich acht, h. Bastion <persName ref="2916">Schertlin</persName> werde zuͦ uch kummen.</s>
+				<s n="10" lang="de" state="auto">Minen hernn, den gehaimen raͤten,<fl>14</fl> ist ain warnung von ainem guͦten frund<fl>15</fl> zuͦkummen, das <pb_edition start_of="275"/> er achte, der kaiser<fl>16</fl> werde uns sinethalb<fl>17</fl> schriben.</s>
+				<s n="11" lang="de" state="auto">Das hatt man im<fl>18</fl> in vertruwen anzaigt, dann mine hernn welltent niemandts gern verkürtzen.<fl>19</fl></s>
+				<s n="12" lang="de" state="auto">Er were minen hernn vast<fl>20</fl> lieb.</s>
+				<s n="13" lang="de" state="auto">Gluͦb, sy<fl>21</fl> lyttent ain schaden, das sy des schribens sinet halb, wann er hie blib, sicher werent.<fl>22</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="14" lang="de" state="auto">Der Duco de Alba<fl>23</fl> zücht mit 2000 mannen gen <placeName ref="1976">Augspurg</placeName>.</s>
+				<s n="15" lang="de" state="auto">So sollend by 1200 gen <placeName ref="320">Memmingen</placeName> ouch kummen, damit es alles verderpt und bald geaignet<fl>24</fl> werde.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="16" lang="de" state="auto">Es sind ettlich, die mainentt, der kaiser hab ain bestendigen friden mit dem Frantzosen<fl>25</fl>, und waß der Frantzoß jetz handle,<fl>26</fl> das geschech alain zuͦ ainem schyn.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="17" lang="de" state="auto"><pb_scan n="80"/>Ferrer<fl>27</fl> ist min früintlich bitt, so ir den brief<fl>28</fl>, der mir von <placeName ref="513">Ulm</placeName> zuͦkummen, hettent abschriben lassen, ir wellend versehen<fl>29</fl>, das die puncten, <pb_edition start_of="276"/> uß denen man verston und abnemmen<fl>30</fl> moͤcht, wer sollichen brief geschriben,<fl>31</fl> herussen gelassen oder doch<fl>32</fl> geenderet werdint, als do ist, das er schribt: „Ich hab in minem huß die venedisch pottschafft“<fl>33</fl>; item: „Sy habent mir minen stadel<fl>34</fl> uffgestoßen<fl>35</fl> und 15 pferdt darin gestellt“; item, waß vom landtgraven<fl>36</fl> geschriben ist; item do er schribt, er wellt, das er kain kommissarius gewesen, etc.</s>
+				<s n="18" lang="de" state="auto">Sind<fl>37</fl> in denen dingen behuͦtsam, damit niemandts gemaͤrt<fl>38</fl> werde.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="19" lang="de" state="auto">Mich gedunckt,<fl>39</fl> lieber herr,<fl>40</fl> es were viler ursachen halben vast guͦt, wann uwere herren, die gehaimen,<fl>41</fl> fürderlich<fl>42</fl> ain pottschafft<fl>43</fl> her geschickt hettent<fl>44</fl>, der nit vor rat, sonder by den haimlichen erschinen were und ain solliche ungeferliche<fl>45</fl> mainung<fl>46</fl> anzaigt hette: Nachdem sine <pb_edition start_of="277"/> hernn<fl>47</fl> durch unser pottschafft<fl>48</fl>, so jüngst by inen gwesen, und demnach<fl>49</fl> uß unser schrifft<fl>50</fl> so vil verstanden, das wir sorg truͤgent<fl>51</fl>, die raͤt und gmaind wurden sich nebent anderen mit kay[serlicher] may[estat] ouch inlassen muͤssen, etc., mit bitt, wo sollichs sinen herren<fl>52</fl> und gemainen Aidgnosen zuͦ beschwernus raichen wurde, das sy uns<fl>53</fl> fruintlich entschuldiget haben, deßglichen, wo sy mittel, rat oder trost wisstent, dardurch wir des vertrags<fl>54</fl> uber sin<fl>55</fl> möchtent, das sy uns dieselben nit verhalten<fl>56</fl> welltent, etc., hettent sy im<fl>57</fl> bevolhen, uns daruff anzuzaigen: Erstlich,<pb_scan n="81"/> so vil die entschuldigung betreffe, welltent sy uns in allem dem, das wir uß getrungner not oder sunst billichen<fl>58</fl> ursachen thuͦn wurdent, fruintlich entschuldiget haben.</s>
+				<s n="20" lang="de" state="auto">Waß dann belange, ob sy mittel oder rat wisstent, etc., davon wellend sy mit den anderen iren Aidgnosen,<fl>59</fl> denen wir ouch geschriben, reden und demnach uns ir gemuͤt und mainung nit verhalten.</s>
+				<s n="21" lang="de" state="auto">Zum letsten vernemment sy uß allen kuntschafften, das der kaiser in alle stett froͤmbd volck lege.</s>
+				<s n="22" lang="de" state="auto">Daher habent sy zuͦ gedencken, wo wir ainen vertrag annemment, das man on zwiffel ouch in unser statt volck leggen wurde.</s>
+				<s n="23" lang="de" state="auto">Nun kuindtent<fl>60</fl> wir aber ermessen, das ain sollich volck nit underlassen wurde, ire und anderer Aidgnossen underthonen mit schmachwortten und vilicht ouch mit der that in und usserthalb unser statt zuͦ beschwären; daruß aber gar bald vil unnachpurschafft<fl>61</fl> und wyterung<fl>62</fl> ervolgen moͤcht.</s>
+				<s n="24" lang="de" state="auto">Derhalben were siner hernn bitt, wir welltent sollichs wol bedencken, diser fruintlichen erinnerung nit vergessen und uns in aller handlung des beflisen<fl>63</fl>, das die guͦt nachpurschafft nit zerrüttet, sonder erhalten wurde, wie dann sy, so vil inen möglich, ouch gern thuͦn welltent, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="25" lang="de" state="auto">Dise mainung<fl>64</fl> kuindt uweren herren nit schad sin.</s>
+				<s n="26" lang="de" state="auto">Die anderen Aidgnosen<fl>65</fl> moͤchtents inen nit verargen.<fl>66</fl></s>
+				<s n="27" lang="de" state="auto">So<fl>67</fl> were es ain getruwe warnung.</s>
+				<s n="28" lang="de" state="auto">Item mine herren moͤchtent daher bewegt werden, dester langsamer oder doch gwarsamlicher<fl>68</fl> zuͦ handlen, damit sy mit froͤmbden volck nit beladen <pb_edition start_of="278"/> wurden.</s>
+				<s n="29" lang="de" state="auto">Item unsere burger, wann sy die pottschafft sechent,<pb_scan n="82"/> wurden sy vermainen, es were ettwas vil bessers.</s>
+				<s n="30" lang="de" state="auto">Die vorussen<fl>69</fl> wurdent dester minder<fl>70</fl> ettwas beschwerlichs gegen uns fürnemmen.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="31" lang="de" state="auto">Dise anmanung<fl>71</fl> wellend mir zuͦ guͦt halten.</s>
+				<s n="32" lang="de" state="auto">Ich thuͦns im besten, den uweren und unseren zuͦ guͦtem.</s>
+				<s n="33" lang="de" state="auto">Das waißt gott.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="34" lang="de" state="auto">Wann hienach die uweren sampt anderen<fl>72</fl> sich entschliesen<fl>73</fl> wurdent, das sy unserthalb weder mittel noch rat wisstent, so sind daran<fl>74</fl> umb gottes willen, das sy sollichs in gehaim haltent, damit es nit lutprecht<fl>75</fl> werde; dann daran ist uns vil gelegen.</s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="35" lang="de" state="auto">So ir hernach dem <persName ref="6182">Regelin</persName><fl>76</fl> oder anderen unseren potten, die ich zuͦ uch schick, sachen halb uwere hernn mer dann mine hernn betreffen, pottenlon bezaltent, so sagent nit, das ir sy darmit vererent<fl>77</fl>, dann sunst sind sy so aigennützig, wellend den lon nichts dester minder von mir haben und das ander zum vortail behalten; welchs doch nit billich ist!</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="36" lang="de" state="auto">Bittent gott für uns<fl>a</fl> on underlass, sonderlich fur mich, das ich handle nach sinem willen.</s>
+				<s n="37" lang="de" state="auto">Amen.</s>
+				<s n="38" lang="de" state="auto">Datum <placeName ref="457">Costentz</placeName>, den 7. februarii 47.</s>
+				<s n="39" lang="de" state="auto"><persName ref="4082">Conrat Zwick</persName>, üwer williger.</s>
+				<note type="address">[Ohne Adresse<fl>78</fl>]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2800">
+		<alpha>
+			<fn ref="a"><i>Am Rande nachgetragen.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Dass Bullinger der Adressat des Briefes ist, ergibt sich aus den Angaben in unten Z. 1f und aus dem Aufbewahrungsort des Briefes.</fn>
+			<fn ref="2">Bullingers Brief an <persName ref="8055">Ambrosius Blarer</persName> vom 2. Februar, mit dem Bullinger gebeten hatte, nähere Informationen über die eidgenössische Gesandtschaft einzuholen, die in dem aus <placeName ref="513">Ulm</placeName> stammenden Schreiben an <persName ref="4082">Zwick</persName> (s. dazu unten Anm. 28) erwähnt war; s. <link fk_file="12836">Nr. 2787</link>,8-13.</fn>
+			<fn ref="3">mit <persName ref="18538">Kaiser Karl V.</persName></fn>
+			<fn ref="4">hinauszögern.</fn>
+			<fn ref="5">Politisch maßgebend waren die sechs Mitglieder des Geheimen Rates unter der Führung von <persName ref="8178">Thomas Blarer</persName> und <persName ref="4082">Zwick</persName>. die damals in der Hoffnung auf göttlichen Beistand eine geheime Verzögerungspolitik verfolgten, die der Stadt die Reichsfreiheit und die freie Religionsausübung garantieren sollte, worüber nur der Kleine Rat informiert war. Nach einem am 24. Dezember 1546 von den Kanzeln der Stadt verlesenen Ratsvortrag christlich-sittlichen Inhalts wurde erst am 29. Januar 1547 der Große Rat über die Ereignisse seit Auflösung des Schmalkaldischen Heeres Ende November 1546 in Kenntnis gesetzt und die weiteren Absichten teilweise skizziert. Am Tag darauf wurden die Zünfte wie auch die Gemeinde noch knapper über die Lage der Stadt informiert. Dem Kaiser und der Eidgenossenschaft gegenüber betrieb <placeName ref="457">Konstanz</placeName> zu dieser Zeit eine Doppelpolitik: Während man von den Eidgenossen mit Verweis auf die drohende Einnahme der Stadt durch den Kaiser Unterstützung einzufordern versuchte (so im Schreiben an die vier protestantischen Orte vom 1. Februar; s. <link fk_file="12836">Nr. 2787</link>, Anm. 30), signalisierte man dem Kaiser gegenüber Versöhnungsbereitschaft. um eine Einnahme der Stadt hinauszuzögern; s. <bibl>Maurer, Übergang</bibl> 15-21. 25-29; <i><placeName ref="457">Konstanz</placeName></i> 136f; <bibl>Dobras, Ratsregiment</bibl> 147-153.</fn>
+			<fn ref="6" type="bio" fk_person="7612"><persName ref="7612">Hans Jakob von Landau</persName>, österreichischer Landvogt zu Nellenburg, der schon öfters zwischen Kaiser und <placeName ref="457">Konstanz</placeName> verhandelt hatte. - Bereits am 28. Januar hatte der <placeName ref="457">Konstanzer</placeName> Rat <persName ref="7612">Landau</persName> um Vermittlung mit dem Kaiser gebeten. Begleitet von einer persönlichen Ermahnung, die Sache nicht hinauszuschieben, übermittelte dieser am 5. Februar ein Schreiben Johann von Naves' an die Stadt (vgl. dazu auch unten Anm. 40), in dem Naves den guten Willen des Kaisers bekräftigte. Zur gleichen Zeit boten auch die im vorliegenden Brief weiter unten aufgezählten Personen ihre Vermittlerdienste an, was aber der Rat brieflich am 21. Februar mit Verweis auf die Vermittlertätigkeit <persName ref="7612">Landaus</persName> ablehnte. Der Geheime Rat zögerte allerdings seine Antwort an <persName ref="7612">Landau</persName> hinaus, auch wenn dieser darauf drängte. Mit einem Brief vom 19. Februar erklärte endlich <persName ref="4082">Zwick</persName> diesem die Gründe, warum <placeName ref="457">Konstanz</placeName> bisher eine Versöhnung mit dem Kaiser aufgeschoben habe und bat diesen, das an den Kaiser weiterzuleiten. Am 12. März, nach längeren Verhandlungen, wurde schließlich <persName ref="7612">Landau</persName> vom Rat darüber informiert, dass man keine Aussöhnung mit dem Kaiser anstrebe, sondern diesen um "Stillstand" der Stadt gegenüber bitten möchte, woraufhin <persName ref="7612">Landau</persName> sich zurückzog. Erst im Juni nahm die Stadt erneut Kontakt mit ihm auf; s. <i>Maurer,</i> aaO, 17-21.</fn>
+			<fn ref="7">Glicher gstalt: Auf gleiche Weise.</fn>
+			<fn ref="8"><persName ref="7729">Johann Werner von Reischach</persName>; s. <link fk_file="12820">Nr. 2771</link>, Anm. 7.</fn>
+			<fn ref="9"><persName ref="17927">Friedrich II. von Fürstenberg</persName>.</fn>
+			<fn ref="10">Der schon lange in kaiserlichem Dienst stehende <persName ref="7842">Wilhelm d.Ä. Truchsess von Waldburg-Trauchburg</persName>; s. dazu <i>Maurer,</i> aaO, 19.</fn>
+			<fn ref="11"><persName ref="7852">Johann von Weeze</persName>.</fn>
+			<fn ref="12">Unbekannt.</fn>
+			<fn ref="13">Vgl. Jer 5, 21; Mt 13, 13.</fn>
+			<fn ref="14">Neben Bürgermeister <persName ref="8178">Thomas Blarer</persName> und <persName ref="4082">Zwick</persName> gehörten 1547 dem <placeName ref="457">Konstanzer</placeName> Geheimen Rat <persName ref="3924">Hans Wellenberg</persName>, <persName ref="7495">Sebastian Gaisberg</persName>, <persName ref="5572">Peter Labhart</persName> und <persName ref="4475">Bastian Bär</persName> an; s. Hermann <i>Buck,</i> Die Anfänge der <placeName ref="457">Konstanzer</placeName> Reformationsprozesse, Österreich, Eidgenossenschaft und Schmalkaldischer Bund, 1510/22-1531, Tübingen 1964, S. 522.</fn>
+			<fn ref="15">Unbekannt.</fn>
+			<fn ref="16"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="17">Gemeint ist der sich seit dem 2. Februar in <placeName ref="457">Konstanz</placeName> befindende Schertlin (s. <link fk_file="12818">Nr. 2769</link>, Anm. 18), dessen Auslieferung der Kaiser forderte; s. <link fk_file="12818">Nr. 2769</link>,10f.</fn>
+			<fn ref="18">Schertlin.</fn>
+			<fn ref="19">niemandts verkürtzen: niemandem schaden; vgl. <bibl>Grimm</bibl> XXV 704.</fn>
+			<fn ref="20">sehr.</fn>
+			<fn ref="21">die <placeName ref="457">Konstanzer</placeName>.</fn>
+			<fn ref="22">das sy des schribens sinet halb sicher werent: wenn sie das kaiserliche Schreiben bezüglich Schertlin tatsächlich empfingen. -Schertlin verblieb in <placeName ref="457">Konstanz</placeName>, wo er noch am 2. November 1547 nachgewiesen ist <i>(<persName ref="8055">Blarer</persName> BW</i> II 669). Auf seiner Reise nach <placeName ref="28">Basel</placeName>, wo er am 19. November eintraf (s. den Brief <persName ref="1278">Johannes Gasts</persName> an Bullinger vom 21. November; Zürich StA, E II 369, 191) und etliche Jahre verbringen sollte, kam er auch durch Zürich, da <persName ref="8055">Blarer</persName> ihn am 9. November durch Bullinger grüßen lässt <i>(<persName ref="8055">Blarer</persName> BW</i> II 672). Auch in späteren Briefen an Bullinger erwähnt Schertlin seinen kurzen Aufenthalt in Zürich (Zürich ZB, Ms F 62, 388; Zürich StA, E II 335, 2126). Daraus geht zudem hervor, dass er, ehe er sich nach <placeName ref="28">Basel</placeName> begab. einen Aufenthalt im Zürcher Gebiet in Erwägung gezogen hatte. Am 27. Oktober 1547 gab ihm der Zurcher Rat die Erlaubnis, sich in seinem Territorium niederzulassen oder durchzureisen, solange er sich so verhielte, dass den Zürchern keine Gefahr daraus entstünde (Entwurf dieses an Schertlin gerichteten Briefes in Zürich StA, B IV 16, 159v.; und B IV 17, 185r.). Am 9. November 1547 wurde ihm allerdings vom Zürcher Rat eine Niederlassung in <placeName ref="489">Stein am Rhein</placeName> untersagt (Zürich StA, B IV 16, 162r.).</fn>
+			<fn ref="23">Fernando Alvarez de Toledo.</fn>
+			<fn ref="24">angeeignet (hier: von den kaiserlichen Soldaten); s. <bibl>Fischer</bibl> II 574.</fn>
+			<fn ref="25"><persName ref="7637">Franz I.</persName> - Ein falsches Gerücht.</fn>
+			<fn ref="26">Gedacht ist etwa an einen möglichen Einsatz für die Schmalkaldener; s. Nr. 2775, Anm. 39.</fn>
+			<fn ref="27">Ferner.</fn>
+			<fn ref="28">Das von <persName ref="4082">Zwick</persName> über <persName ref="8055">Ambrosius Blarer</persName> mit Brief <link fk_file="12839">Nr. 2790</link> übermittelte Schreiben aus <placeName ref="513">Ulm</placeName>, von dem eine Abschrift in Zürich StA, A 177, <link fk_file="10197">Nr. 166</link>, vorliegt. Dabei handelt es sich nicht um eine wortgetreue Abschrift, sondern um eine zweite, gekürzte und abgeänderte Abschrift der ersten in Zürich angefertigten Kopie des Briefes, da in drei der hier im Folgenden von <persName ref="4082">Zwick</persName> aufgezählten Stellen die gewünschten Streichungen tatsächlich vollzogen wurden, während die Angabe "in minem huß" zu "nit wyt von minem huß" geändert wurde. Doch ehe <persName ref="4082">Zwicks</persName> Anweisung nach Zürich gelangen konnte, hatten die Zürcher bereits am 4. Februar die erste Abschrift dieses Briefes aus <placeName ref="513">Ulm</placeName> nach <placeName ref="28">Basel</placeName>, <placeName ref="41">Bern</placeName>, St. Gallen und Schafthausen gesandt; s. Zürich StA, B IV 16, f. 195. Ob die Zürcher schon bei dieser ersten Abschrift bei den hier erwähnten Stellen umsichtig vorgingen, bleibt offen. - Zum vermutlichen Verfasser des Schreibens aus <placeName ref="513">Ulm</placeName> s. unten Anm. 31.</fn>
+			<fn ref="29">dafür sorgen; <bibl>SI</bibl> VII 568.</fn>
+			<fn ref="30">entnehmen; schließen.</fn>
+			<fn ref="31" type="bio" fk_person="4285">Vermutlich handelte es sich beim Verfasser des Briefes aus <placeName ref="513">Ulm</placeName> um ein Mitglied der <entity id="1" type="group">Familie Besserer</entity>. Zu denken ist an <persName ref="4285">Georg Besserer</persName>, der damals nachweislich Verbündete und Glaubensverwandte über den Kriegsverlauf informierte (s. <bibl>HBBW</bibl> XVII 289, Anm. 6), mit <persName ref="4082">Konrad Zwick</persName> und <placeName ref="457">Konstanz</placeName> in brieflichem Kontakt stand (vgl. <link fk_file="12862">Nr. 2813</link>,7f) und zur damaligen Zeit als Kriegsrat ("commissarius"; s. <bibl>PA</bibl> I 582) fungierte. Demzufolge werden Georgs Bruder Sebastian oder deren Verwandter <persName ref="4286">Eitel Eberhard Besserer</persName> (die auch als schmalkaldische Kriegsräte nachgewiesen sind; s. <bibl>PC</bibl> IV/1-2 und V Reg.) hier weniger in Frage kommen.</fn>
+			<fn ref="32">wenigstens.</fn>
+			<fn ref="33">Der venezianische Botschafter <persName ref="5851">Alvise I. Mocenigo</persName> hielt sich ab dem 23. Januar in <placeName ref="513">Ulm</placeName> auf; sein letzter Brief aus <placeName ref="513">Ulm</placeName> datiert vom 4. März 1547; s. <bibl>Venetianische Depeschen</bibl> II 147-187.</fn>
+			<fn ref="34">Scheune.</fn>
+			<fn ref="35">aufgebrochen, s. <bibl>SI</bibl> XI 1624.</fn>
+			<fn ref="36"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="37">Seid.</fn>
+			<fn ref="38">verraten; s. <bibl>Fischer</bibl> IV 1470.</fn>
+			<fn ref="39">Mich gedunckt: Mir scheint.</fn>
+			<fn ref="40">Der Inhalt der vorliegenden Z. 31-67 entspricht ziemlich genau (abgesehen von zahlreichen orthographischen und stilistischen Änderungen und einigen seltenen inhaltlichen Abweichungen) einem von <persName ref="4082">Konrad Zwick</persName> am gleichen Tag verfassten und offensichtlich an einen der beiden Zürcher Bürgermeister adressierten Brief, der heute in <placeName ref="587">Zürich</placeName> StA, A 205.2, Nr. 6. erhalten geblieben ist, allerdings in einer von Bullinger angefertigten Abschrift; was die Möglichkeit offen lässt, dass Zwicks Brief fiktiv und von Bullinger anhand des vorliegenden Briefes für die Zürcher Bürgermeister angefertigt worden sein könnte. Dass Letzteres aber kaum zutreffen kann, geht aus folgender Beobachtung hervor: Anders als vorliegender Brief endet der von Bullinger abgeschriebene Brief mit den oben in Z. 4-9 übermittelten Nachrichten, allerdings (was entscheidend ist) mit folgender zusätzlichen Angabe: "II. Hanns Jacob von Landow embüt sich von unsern wägen ze handlen, und nacht spaadt 6. Februarii hat er minen herren geschriben, darinn ein verschloßner Brieff vom Herren <persName ref="7689">Naves</persName>, dem obristen keyserischen radt. Der embüt sich, vil guts min herren ze befürdern ...", eine Angabe, die Bullinger kaum von selbst verfasst haben könnte.</fn>
+			<fn ref="41">Der Geheime Rat von <placeName ref="587">Zürich</placeName> bestand damals aus den zwei Bürgermeistern (<persName ref="1888">Hans Rudolf Lavater</persName> und <persName ref="1419">Johannes Haab</persName>) und den drei Obristmeistern (zu deren Namen s. <link fk_file="12836">Nr. 2787</link>, Anm. 11); s. <bibl>HBBW</bibl> XVIII 462, Anm. 71.</fn>
+			<fn ref="42">sehr bald.</fn>
+			<fn ref="43"><persName ref="8123">Georg Müller</persName> erschien gemäß dem hier geäußerten Wunsch tatsächlich vor dem Geheimen Rat in <placeName ref="457">Konstanz</placeName>, und zwar am 11. Februar. Dabei trug er weitestgehend das im Folgenden Skizzierte vor; s. <bibl>EA</bibl> IV/1d 767f (dort auch die Erwiderung des <placeName ref="457">Konstanzer</placeName> Geheimen Rats).</fn>
+			<fn ref="44">geschickt hettent: schicken würden.</fn>
+			<fn ref="45">ungefähre.</fn>
+			<fn ref="46">46 Ansicht; Überlegung.</fn>
+			<fn ref="47">Der Zürcher Rat.</fn>
+			<fn ref="48"><persName ref="4082">Zwick</persName> selbst, der Ende Januar in <placeName ref="587">Zürich</placeName> war; s. <link fk_file="12827">Nr. 2778</link>, Anm. 2.</fn>
+			<fn ref="49">danach.</fn>
+			<fn ref="50">Gemeint ist der Brief der <placeName ref="457">Konstanzer</placeName> an die vier protestantischen Orte vom 1. Februar; s. <link fk_file="12816">Nr. 2767</link>, Anm. 21.</fn>
+			<fn ref="51">sorg trügent: besorgt seien.</fn>
+			<fn ref="52">Die des Zürcher Rats.</fn>
+			<fn ref="53">Die <placeName ref="457">Konstanzer</placeName> Räte.</fn>
+			<fn ref="54">mit dem Kaiser.</fn>
+			<fn ref="55">uber sin: ledig sein.</fn>
+			<fn ref="56">vorenthalten.</fn>
+			<fn ref="57">Dem mit diesem Schreiben befürworteten Gesandten, den die Zürcher nach <placeName ref="457">Konstanz</placeName> schicken sollten.</fn>
+			<fn ref="58">berechtigten.</fn>
+			<fn ref="59">D.h. Basel, <placeName ref="41">Bern</placeName> und Schaffhausen, an die der oben erwähnte Brief der <placeName ref="457">Konstanzer</placeName> vom 1. Februar ebenfalls adressiert war.</fn>
+			<fn ref="60">könnten.</fn>
+			<fn ref="61">unfreundliche Nachbarschaft.</fn>
+			<fn ref="62">schlimme Folgen; s. <bibl>Fischer</bibl> VII/1 658.</fn>
+			<fn ref="63">des beflisen: darum bemühen; s. <bibl>Fischer</bibl> I 756.</fn>
+			<fn ref="64">Antrag.</fn>
+			<fn ref="65">Die katholischen Orte.</fn>
+			<fn ref="66">übel nehmen.</fn>
+			<fn ref="67">Auch.</fn>
+			<fn ref="68">vorsichtiger; s. <bibl>SI</bibl> XVI 837.</fn>
+			<fn ref="69">draußen Stehenden (hier: die Bischöflichen um <placeName ref="457">Konstanz</placeName>).</fn>
+			<fn ref="70">dester minder: umso weniger.</fn>
+			<fn ref="71">Aufforderung; s. <bibl>Grimm</bibl> I 405.</fn>
+			<fn ref="72">Basel, <placeName ref="41">Bern</placeName> und Schaffhausen.</fn>
+			<fn ref="73">sich entschliesen: eröffnen.</fn>
+			<fn ref="74">sind daran: sorgt dafür.</fn>
+			<fn ref="75">bekannt gemacht.</fn>
+			<fn ref="76">Der <placeName ref="457">Konstanzer</placeName> Bote <persName ref="6182">Jörg Regelin</persName>: vgl. <link fk_file="12850">Nr. 2801</link>,1f.</fn>
+			<fn ref="77">beschenkt (hier im Unterschied zu lohnt"); s. <bibl>SI</bibl> I 398.</fn>
+			<fn ref="78">Vorliegender Brief wurde dem Boten Jörg Regeln anvertraut; s. oben 72-76.</fn>
+		</num>
+	</footnotes>
+</file>

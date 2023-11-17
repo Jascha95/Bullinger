@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12855" id_hbbw="2806" id_irg_sort="2806" id_sort="128060">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12855</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2806</arpa>
+		<scan_pages>
+			<scan id="30086" dir="12855/Autograph/" page="1">00 E_II_343__fol__352_r_.tif</scan>
+			<scan id="30087" dir="12855/Autograph/" page="2">01 E_II_343__fol__352_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26254" vf="1" fk_add_type="1">
+				<person id="1553" fk_id="1553">
+					<name>Hochholzer</name>
+					<forename>Christian</forename>
+				</person>
+				<place id="2" vf="1" fk_id="2" long="8.04422" lat="47.39254">Aarau</place>
+				<district id="1">Aargau</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26255" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12855">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">9</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19422">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343a,352</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12370" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2806, S. 291</entry>
+				<page>291</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="48">
+				<lang id="5" iso="la" count="48" p="100.0"/>
+			</sentences>
+			<words count="514">
+				<lang id="5" iso="la" count="514" p="100.0"/>
+			</words>
+			<chars count="3054">
+				<lang id="5" iso="la" count="3054" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2806" page="291">
+		<div ref="1">
+			[1] <persName ref="1553">Hochholzer</persName> hat Bullingers Brief [nicht erhalten] mit großer
+			Freude gelesen, zumal die <placeName ref="2">Aarauer</placeName> gehört hatten, dass <placeName ref="2448">die Fünf Orte</placeName>
+			nicht nur die Verbrennung von <persName ref="8011">Rudolf Gwalthers</persName> „Endtchrist“, sondern auch die des Verfassers, ja sogar die
+			Bestrafung Bullingers fordern würden! Diese Nachricht erfüllte
+			<persName ref="1553">Hochholzer</persName> mit Schmerz und Angst, da er ja weiß, dass es auf ähnliche
+			Weise zum [Zweiten <placeName ref="242">Kappeler</placeName> Krieg] kam. Seine Angst wuchs, als er
+			erfuhr, dass in <placeName ref="587">Zürich</placeName> und Umgebung alle Männer über 14 Jahre zur
+			Rüstung aufgerufen wurden. Auch wenn er wohl weiß, dass Gerüchte mit der Zeit dazu tendieren, größer zu
+			werden, war ihm dennoch klar, dass etwas an der Sache war, weil er davon aus zuverlässiger Quelle erfahren
+			hatte. Dass er nun [Bullingers Brief] entnehmen konnte, dass die Aufregung um <persName ref="8011">Gwalther</persName> und Bullinger sich
+			mittlerweile beruhigt hat und die Zürcher nicht deshalb rüsteten, erfüllt
+			<persName ref="1553">Hochholzer</persName> mit Freude. Die Verwegenheit und Gottlosigkeit der Fünf
+			Orte, die alles wagen, was ihnen in den Sinn kommt, ist wahrlich groß! Vielleicht hofften sie, dass sich
+			einige Zürcher Räte wie früher aus Furcht vor ihnen der Wahrheit entgegenstellen und die Diener der
+			Wahrheit, die Pfarrer, der Schlachtbank ausliefern würden. Jetzt aber verspricht sich
+			<persName ref="1553">Hochholzer</persName> Besseres von den Zürchern und hofft, sich dabei nicht zu
+			täuschen. Die Zeit, in der die Frommen erprobt werden, ist angebrochen. Der Herr zeige sich gnädig!
+		</div>
+		<div ref="2">
+			[2] Aus Bullingers Brief sowie auch von <persName ref="2336">Bernardino Ochino</persName> und <persName ref="540">Calvin</persName>
+			selbst hat <persName ref="1553">Hochholzer</persName> erfahren, dass es um die Freiheit der Deutschen
+			und um die [evangelische] Lehre geschehen ist. Die Sünden von Gottes Volk sind groß. Tröstlich ist aber der
+			Gedanke, dass Gott der Kirche einen Rest übrig lassen wird, den keiner aus seiner Hand reißen kann. Dass
+			viele sich nun von Gott abwenden, verwirrt <persName ref="1553">Hochholzer</persName> nicht, da er ja
+			weiß, dass es zu einer solchen Probe kommen muss. Jetzt wird nämlich die Spreu vom Weizen getrennt. Übrig
+			bleiben werden nur diejenigen, die Gott vertrauen, auch wenn sie jeglicher menschlichen Hilfe entbehren.
+			Dann wird Gott seiner zugrunde gehenden Kirche zu Hilfe kommen. Je höher der Hochmut des gottlosen Herodes,
+			desto baldiger und tiefer dessen Fall. Jetzt treibt es der Antichrist bis zum Äußersten. Der Herr aber ist
+			stärker.
+		</div>
+		<div ref="3">
+			[3] Während <persName ref="2336">Ochinos</persName> Aufenthalt in <placeName ref="2">Aarau</placeName> hat sich
+			<persName ref="1553">Hochholzer</persName> seiner so gut wie möglich angenommen. An ihm wird
+			offenkundig, wie Gott die Seinen schützt. Nun ist [die Eidgenossenschaft] an der Reihe, zumal es bei den
+			[deutschen] Nachbarn brennt.
+		</div>
+		<div ref="4">
+			[4] Möge <placeName ref="457">Konstanz</placeName> standhaft bleiben. Viele fürchten, dass die von
+			allen verlassene Stadt sich dem <persName ref="18538">Kaiser [Karl V.]</persName> anschließen könnte. Was die Eidgenossen dann erwarten
+			würde, weiß jeder. Würden sie doch nur <placeName ref="457">Konstanz</placeName> in ihren Bund
+			aufnehmen! Der äußerst kluge Zürcher Rat wird wohl wachsam bleiben.
+			<persName ref="1553">Hochholzer</persName> sieht schon, wie die Feinde in die Eidgenossenschaft
+			eindringen und diese mit üblen Verbrechen überziehen!
+		</div>
+		<div ref="5">
+			[5] Das tragische Ende steht bevor. Der <bibl>Wille</bibl> des Herrn geschehe. Mit Gottes Hilfe wird
+			<persName ref="1553">Hochholzer</persName> zusammen mit allen Frommen die Wahrheit bis zum Ende
+			verteidigen.
+		</div>
+		<div ref="6">
+			[6] Grüße an Bullingers Familie, an <persName ref="8011">Rudolf Gwalther</persName> und an alle Frommen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2806" page="291">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino.</s>
+				<s n="2" lang="la" state="auto">Literas tuas,<fl>1</fl> domine colende, maxima ab initio cum voluptate legi.</s>
+				<s n="3" lang="la" state="auto">Iam enim ad nos allatum erat non tantum Antichristum d. <persName ref="8011">Gualtheri</persName><fl>2</fl> a Quinque Pagicis ad exustionem peti, sed et ipsum d. Rodol-<pb_edition start_of="292"/>phum ad supplicium postulari,<fl>3</fl> simulque tibi crimen, nescio quod, ab ipsis intentari, quo poena aliqua afficereris.</s>
+				<s n="4" lang="la" state="auto">Quod sane maximo cum dolore accipiebam, neque iam in parvis eram angustiis prioribus temporibus doctus.</s>
+				<s n="5" lang="la" state="auto">Nam cum priora considerarem,<fl>4</fl> idem praeludium cladi nostrae funestae<fl>5</fl> fuisse inveniebam, unde et nunc non parvam exorituram tempestatem iudicabam.</s>
+				<s n="6" lang="la" state="auto">Quod ut firmius crederem, accedebat apparatus belli, de quo audiebam, cum singulis momentis in armis esse iuberentur<fl>6</fl> (ut fama erat), quotquot in tota ditione <placeName ref="587">Tigurinorum</placeName> 14 annum excessissent.</s>
+				<s n="7" lang="la" state="auto">Quamvis famam eundo crescere<fl>7</fl> haud ignorabam, tamen non nihil esse sciebam, cum quaedam a fide dignis viris accepissem.</s>
+				<s n="8" lang="la" state="auto">Rem autem sopitam esse valde gaudemus,<fl>8</fl> et bellum non hanc ob causam a vestratibus apparari magno cum gaudio accipimus.</s>
+				<s n="9" lang="la" state="auto">Magna est illorum<fl>9</fl> temerariaque audacia et impietas, quibus, quidquid cogitare libet, etiam conari licet.</s>
+				<s n="10" lang="la" state="auto">Sperarunt fortassis tales esse in magistratu, qui metu illorum perculsi veritati viam essent praeclusuri et veritatis ministros ad lanienam tradituri, quemadmodum olim<fl>10</fl> factum haud ignorant.</s>
+				<s n="11" lang="la" state="auto">Sed meliora mihi iam de <placeName ref="587">Tigurinis</placeName> polliceor.</s>
+				<s n="12" lang="la" state="auto">Utinam non fallar!</s>
+				<s n="13" lang="la" state="auto">Erit enim tempus, atque iam nunc est, cum pii probabuntur.<fl>11</fl></s>
+				<s n="14" lang="la" state="auto">Dominus sit nobis propitius!</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="15" lang="la" state="auto">Quod ad res Germanorum attinet, quantum ex literis tuis, ex d. <persName ref="2336">Bernhardino</persName><fl>12</fl> et d. <persName ref="540">Calvino</persName><fl>13</fl> intelligo, iam actum est de libertate Germanorum; actum et de religione.</s>
+				<s n="16" lang="la" state="auto">Peccata sane nostra sunt magna.</s>
+				<s n="17" lang="la" state="auto">Unicum mihi solatium aliquas qualescunque fore reliquias<fl>14</fl> ecclesiae.</s>
+				<s n="18" lang="la" state="auto">Oves Christi nemo rapiet e manu eius.<fl>15</fl></s>
+				<s n="19" lang="la" state="auto">Quod autem multi refugiunt a domino, eo minus me offendit, quod scio oportere esse probationes.<fl>16</fl></s>
+				<s n="20" lang="la" state="auto">Qui sunt ex nobis, nobiscum manebunt.<fl>17</fl></s>
+				<s n="21" lang="la" state="auto">Paleae a tritico separantur.<fl>18</fl></s>
+				<s n="22" lang="la" state="auto">Nunc nunc revelantur ex multis cordibus cogitationes.<fl>19</fl></s>
+				<s n="23" lang="la" state="auto">Pii suum praesidium et solatium habent in domino.</s>
+				<s n="24" lang="la" state="auto">Aufertur auxilium humanum, ut dominus solus ecclesię suae periclitanti <pb_edition start_of="293"/> subveniat!</s>
+				<s n="25" lang="la" state="auto">Quo autem maiores sunt insultus et elatio impii Herodis<fl>20</fl>, eo citius delendum fore non dubito.</s>
+				<s n="26" lang="la" state="auto">Iam iam antichristus extrema agit; ideo omnes vires suas exerit.<fl>21</fl></s>
+				<s n="27" lang="la" state="auto">Sed fortior est dominus;<fl>22</fl> in eo, qui nos confortat, omnia possumus.<fl>23</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="28" lang="la" state="auto">Cum d. <persName ref="2336">Bernhardino</persName> (in quo evidentissime videmus dominum suos custodire et eripere)<fl>a</fl> fui, quantum potui humanitatis ei exhibui.</s>
+				<s n="29" lang="la" state="auto">Nostra nunc res<fl>24</fl> agitur; paries nam proximus ardet.<fl>25</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="30" lang="la" state="auto"><placeName ref="457">Constantiam</placeName> constantem esse plures exoptant.</s>
+				<s n="31" lang="la" state="auto">Metuunt eam desertam, partes caesaris<fl>26</fl> sequuturam.</s>
+				<s n="32" lang="la" state="auto">Tum quid nobis expectandum, nemo ignorat.</s>
+				<s n="33" lang="la" state="auto">Utinam recipiatur a nostris!</s>
+				<s n="34" lang="la" state="auto">Sed vigilabit senatus vester prudentissimus.</s>
+				<s n="35" lang="la" state="auto">Vigilabit et dominus<fl>27</fl> pro ecclesia sua, cui negotium committemus.</s>
+				<s n="36" lang="la" state="auto">Qui nisi custodierit civitatem, frustra vigilabunt, qui custodiunt eam.<fl>28</fl></s>
+				<s n="37" lang="la" state="auto">Iam nunc puto me videre hostes limites nostros invadere, incendiis, rapinis, stupris atque omnibus sceleribus implentes.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="38" lang="la" state="auto">Catastrophe enim fabulę<fl>29</fl> restat, quę nobis transigenda erit.</s>
+				<s n="39" lang="la" state="auto">Fiat itaque voluntas domini.<fl>30</fl></s>
+				<s n="40" lang="la" state="auto">Veritatem cum omnibus piis in finem usque adseram fidelissime domini gratia mihi assistente.</s>
+				<s n="41" lang="la" state="auto">Spes nostra non est in victoriis, sed in domino,<fl>31</fl> ipsissima salutis petra.<fl>32</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="42" lang="la" state="auto">Vale in domino.</s>
+				<s n="43" lang="la" state="auto">Salutem precamur toti tuae domui, d. <persName ref="8011">Gualthero</persName> cum omnibus piis.</s>
+				<s n="44" lang="la" state="auto">Aarovię, 9. februarii 1547.</s>
+				<s n="45" lang="la" state="auto">Me totum tibi ut hactenus commendo.</s>
+				<s n="46" lang="la" state="auto">Tuae humanitati deditissimus Christia.</s>
+				<s n="47" lang="la" state="auto"><persName ref="1553">Hochholzer</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="48" lang="la" state="auto">Clarissimo viro d. Heinrycho Bullingero, ministro Christi in ecclesia Tigurina fidelissimo, domino suo tanquam patri semper colendo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2806">
+		<alpha>
+			<fn ref="a"><i>Klammern ergänzt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten.</fn>
+			<fn ref="2">Gemeint ist <persName ref="8011">Rudolf Gwalthers</persName> "Antichristus" bzw. "Endtchrist", s. <bibl>HBBW</bibl> XVII <link fk_file="12612">[Nr. 2565]</link> 400 Anm. 7.</fn>
+			<fn ref="3">Siehe <link fk_file="12806">Nr. 2757</link>, Anm. 11; <link fk_file="12846">Nr. 2797</link>, Anm. 6.</fn>
+			<fn ref="4">Als z.B. im Mai 1529 der Zwinglianhänger <persName ref="5402">Jakob Kaiser</persName> in <placeName ref="2450">Schwyz</placeName> verbrannt wurde, was zum Krieg führte.</fn>
+			<fn ref="5">Der Zweite <placeName ref="242">Kappeler</placeName> Krieg von Oktober 1531.</fn>
+			<fn ref="6">Zur Kriegsrüstung der Zürcher s. die Verweise in <link fk_file="12789">Nr. 2740</link>. Anm. 12.</fn>
+			<fn ref="7">Vgl. <i><persName ref="18867">Vergil</persName>,</i> Aeneis, 4, 174f.</fn>
+			<fn ref="8">Vgl. <link fk_file="12846">Nr. 2797</link>,1-15.</fn>
+			<fn ref="9">Quinque Pagicorum.</fn>
+			<fn ref="10" type="bio" fk_person="8384">Als im September 1524 (infolge des Überfalls auf die <placeName ref="1558">Kartause Ittingen</placeName>. Kt. Thurgau) der <placeName ref="486">Stammheimer</placeName> Untervogt <persName ref="8384">Hans Wirth</persName> und dessen gleichnamiger Sohn sowie der Nussbaumer Untervogt <persName ref="18826">Burkhart Rüttimann</persName> von <placeName ref="587">Zürich</placeName> an die <placeName ref="21">Badener</placeName> Tagsatzung ausgeliefert wurden, was zu ihrer Hinrichtung führte.</fn>
+			<fn ref="11">Mt 23, 34 par.; 2Petr 2, 9; Apk 2, 22; 7. 14.</fn>
+			<fn ref="12"><persName ref="2336">Bernardino Ochino</persName>, der offensichtlich auf seiner Reise von <placeName ref="587">Zürich</placeName> nach <placeName ref="28">Basel</placeName> durch <placeName ref="2">Aarau</placeName> gekommen war; s. auch unten Z. 35-37.</fn>
+			<fn ref="13">Dieser Stelle zufolge hatte auch <persName ref="540">Calvin</persName> auf seiner Reise von <placeName ref="28">Basel</placeName> nach <placeName ref="587">Zürich</placeName> (s. dazu <link fk_file="12838">Nr. 2789</link>, Anm. 1) einen Halt in <placeName ref="2">Aarau</placeName> eingelegt.</fn>
+			<fn ref="14">Vgl. Ez 14, 22; Röm 9, 27.</fn>
+			<fn ref="15">Joh 10. 28.</fn>
+			<fn ref="16">Vgl. Mt 24, 6-13 par.; Apg 14, 22.</fn>
+			<fn ref="17">Joh 6, 67-69; 10, 8. 27.</fn>
+			<fn ref="18">Vgl. Mt 3, 12.</fn>
+			<fn ref="19">Lk 2, 35.</fn>
+			<fn ref="20">Gemeint ist Herodes <persName ref="18631">Agrippa</persName> Ï. (gest. 44 n. Chr.), da hier eine Anspielung auf Apg 12 (bes. 12, 22f) vorliegt.</fn>
+			<fn ref="21">Vgl. Dan 11, 17; Apk 20, 7-19.</fn>
+			<fn ref="22">Vgl. Joh 16, 33.</fn>
+			<fn ref="23">Phil 4, 13.</fn>
+			<fn ref="24">Gemeint ist die Zukunft der Eidgenossenschaft.</fn>
+			<fn ref="25">Vgl. <i><persName ref="19882">Horaz</persName>,</i> Epistulae, 1, 18, 84.</fn>
+			<fn ref="26"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="27">Vgl. Ps. 121 (Vulg. 120), 4; Jer 1, 12.</fn>
+			<fn ref="28">Ps 127 (Vulg. 126), 1.</fn>
+			<fn ref="29">Catastrophe fabule: Ein Akt des Theaterstücks (hier nämlich jener Akt, der die Endzeit betrifft).</fn>
+			<fn ref="30">Mt 6, 10.</fn>
+			<fn ref="31">Vgl. 1Tim 1, 1; 4, 10.</fn>
+			<fn ref="32">Siehe z.B. 2Sam 22, 47.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12821" id_hbbw="2772" id_irg_sort="2772" id_sort="127720">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12821</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2772</arpa>
+		<scan_pages>
+			<scan id="30010" dir="12821/Autograph/" page="1">00 E_II_343__fol__354_r_.tif</scan>
+			<scan id="30011" dir="12821/Autograph/" page="2">01 E_II_343__fol__354_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26184" vf="1" fk_add_type="1">
+				<person id="1548" fk_id="1548">
+					<name>Hilles</name>
+					<forename>Richard</forename>
+				</person>
+				<place id="491" vf="1" fk_id="491" long="7.7507127" lat="48.584614">Straßburg</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26185" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12821">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">1</month>
+				<day fk_d="" d="" vf="1" fn="">26</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19387">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 343a,354</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9043" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Epistolae Tigurinae 169f bzw. Original Letters I 255f, Nr. 117</entry>
+			</print>
+			<print id="9044" fk_bib="0">
+				<bib_type id="7">Übersetzung</bib_type>
+				<entry>Epistolae Tigurinae 169f bzw. Original Letters I 255f, Nr. 117</entry>
+			</print>
+			<print id="9045" fk_bib="0">
+				<bib_type id="3">Zusammenfassung</bib_type>
+				<entry>LP XXI/2, Nr. 752</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="21">
+				<lang id="1" iso="de" count="2" p="9.5"/>
+				<lang id="5" iso="la" count="19" p="90.5"/>
+			</sentences>
+			<words count="358">
+				<lang id="1" iso="de" count="18" p="5.0"/>
+				<lang id="5" iso="la" count="340" p="95.0"/>
+			</words>
+			<chars count="2077">
+				<lang id="1" iso="de" count="111" p="5.3"/>
+				<lang id="5" iso="la" count="1966" p="94.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2772" page="197">
+		<div ref="1">
+			[1] Gelobt sei Gott! Und möge Bullinger sich als ausdauernd im Herrn erweisen!
+		</div>
+		<div ref="2">
+			[2] <persName ref="1548">Hilles</persName> antwortet erst jetzt auf Bullingers Briefe vom 28.
+			Oktober und 4. Dezember 1546 [nicht erhalten]. Herzlichen Dank für das ehrenvolle Geschenk des von Bullinger
+			verfassten Lukaskommentars<fl>2</fl>, welchen er, wie schon die vorhergehenden Kommentare zu den übrigen
+			Evangelien und zu den Briefen der Apostel,<fl>3</fl> dankbar empfangen hat. Gott schenke ihm die Kraft, sich
+			gemäß Bullingers Aufforderung regelmäßig und fleißig darin zu vertiefen und den besten Teil seines Lebens
+			der Frömmigkeit und den guten Werken zu widmen.
+		</div>
+		<div ref="3">
+			[3] <persName ref="1548">Hilles</persName> hat <persName ref="1884">Ludwig Lavater</persName>
+			mitgeteilt, was Bullinger von diesem erwartet, und er zweifelt nicht daran, dass der Jugendliche während
+			seines <placeName ref="492">Straßburger</placeName> Studiums eifrig sein wird.
+		</div>
+		<div ref="4">
+			[4] Wie Bullinger befürchtet auch <persName ref="1548">Hilles</persName>, dass die schreckliche
+			Kriegszeit angebrochen ist, in der Gott die Seinen dem Feind zur Bestrafung und Züchtigung ausliefert.
+		</div>
+		<div ref="5">
+			[5] <persName ref="7459">Maximilian von Egmont</persName>, Graf von Büren, versucht angeblich, in einigen Kirchen
+			<placeName ref="157">Frankfurts</placeName> die Messe wieder einzuführen. Allerdings soll er
+			vorläufig die Predigt des Evangeliums noch gestatten.
+		</div>
+		<div ref="6">
+			[6] <persName ref="505">John Burcher</persName> wird wohl die in
+			<entity id="9" type="geo_country">England</entity> eingetretenen Änderungen schon mitgeteilt
+			haben.<fl>4</fl> Bestimmt wird es noch zu größeren Umwälzungen kommen. <persName ref="18505">König Heinrich VIII.</persName> ließ den schon
+			seit längerer Zeit einflussreichsten Herzog <entity id="9" type="geo_country">Englands</entity>, [<persName ref="7574">Thomas Howard</persName>, Duke] von Norfolk, und dessen [ältesten] Sohn [<persName ref="20134">Henry Howard</persName>, Earl von Surrey] einsperren. Da man
+			allgemein der Meinung ist, dass <persName ref="18505">Heinrich VIII.</persName> bald sterben wird, sollen beide geplant haben, das Papsttum
+			in <entity id="9" type="geo_country">England</entity> wieder einzuführen. Man erzählt (doch wurde dies
+			brieflich nicht bestätigt), dass Vater und Sohn geköpft wurden.<fl>5</fl> Man sagt auch, dass dieser Bischof
+			von Winchester [<persName ref="7497">Stephen Gardiner</persName>], der sich für den Heiligen Geist
+			hält, vielmehr aber den päpstlichen Geist verkörpert, an ihrer Stelle in den
+			<placeName ref="296">Londoner</placeName> Tower gesteckt wurde. Viele sind der Meinung, dass dies
+			zu Gottes Ehre gereichen und der Verbreitung des Evangeliums dienen wird. Dies könnte wohl zutreffen, zumal
+			<entity id="9" type="geo_country">England</entity> von Gott bereits heimgesucht wurde und die jetzige
+			Königin [Catherine Parr] sowie der Earl von Hertford [<persName ref="7789">Edward Seymour</persName>], der Onkel des Königssohns, des
+			Prinzen [<persName ref="3207">Eduards VI.</persName>], die richtige Lehre begünstigen und die päpstlichen Erdichtungen hassen.
+		</div>
+		<div ref="7">
+			[7] Grüße an <persName ref="8171">Theodor Bibliander</persName>, <persName ref="8127">Konrad Pellikan</persName>, <persName ref="8011">Rudolf Gwalther</persName> und
+			an all die anderen, die <persName ref="1548">Hilles</persName> kennt, besonders an Bullingers Gattin
+			<persName ref="8051">Anna [geb. Adlischwyler]</persName>, die <persName ref="1548">Hilles</persName>’ Frau <persName ref="5231">[Anna, geb. Lacey]</persName>
+			ebenfalls grüßen lässt.
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2772" page="197">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Laus deo!</s>
+				<s n="2" lang="la" state="auto">Argentine, 26. die ianuarii 1547.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="la" state="auto">S[alutem] et perseverantiam in domino Iesu Christo, spe nostra!</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="4" lang="la" state="auto">Ad literas tuas, 28. octobris 4. que decembris datas, nunc tandem respondeo.</s>
+				<s n="5" lang="la" state="auto">Primum autem immensas habeo tibi gratias, mi domine observandissime, quod mihi dignatus fueris donare commentariis in Lucam<fl>6</fl>, sicuti antea in alios evangelistas<fl>7</fl> et apostolos<fl>8</fl>.</s>
+				<s n="6" lang="la" state="auto">Deum optimum maximum precor, ut in eis assidue meditari possim, atque, ut hortaris iugiter, potissimas vite mee partes studio pietatis bonisque operibus dedicem.</s>
+				<s n="7" lang="la" state="auto">Ora autem dominum pro me, obsecro, ut ita faciam, et ut domino adheream usque in finem.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="8" lang="la" state="auto"><persName ref="1884">Lavatero</persName> fratri<fl>9</fl> dixi, que iubebas vel cupiebas saltem, et non dubito quin bene tempus suum hic semper collocabit, et in discendis bonis literis diligens erit; utque hoc faciet, non deerit mea exhortatio assidua.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="9" lang="la" state="auto">Vereor ne, ut scribis, tempus adest, quo dominus iniquitates nostras visitabit per bellum crudele, dabitque nos puniendos aut castigandos in manus hostium.</s>
+				<s n="10" lang="la" state="auto">Audio enim (spero tamen, quod non ita est), quod dominus de Buiren<fl>10</fl> nunc Franckfordiae missas erigere conatur in aliquibus ecclesiis; permittit interim adhuc, qui volunt evangelium audire et veritatem sequi, id libere facere.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="11" lang="la" state="auto">In <entity id="3002" type="geo_region">Anglia</entity> nuper, ut scripsit tibi <persName ref="505">Ioannes Burcherus</persName> puto, est aliqua mutatio, et erit proculdubio maior adhuc.</s>
+				<s n="12" lang="la" state="auto"><persName ref="7574">Ducem</persName> enim unicum, Norfolcie scilicet, habuit <entity id="3002" type="geo_region">Anglia</entity> iam ab annis aliquot.</s>
+				<s n="13" lang="la" state="auto">Illum cum filio intrusit in carcerem rex<fl>11</fl>, quia (ut aiunt) cum rex deberet mori, primatum pontificis<fl>12</fl> erigere conatus est; nuper autem audio (sed inde non recepi literas adhuc) decollati sunt illi ambo, pater et filius; succesitque, ut aiunt, in locum eorum, Turrem dico <placeName ref="296">Londinensen</placeName>, spiritus sanctus, imo papisticus potius, ille episcopus <persName ref="7497">Wintoniensis</persName>.</s>
+				<s n="14" lang="la" state="auto">Deus det, ut omnia hec ad gloriam nominis sui et ad propagationem evangelice doctrine inserviant, sicuti multi nostrum putant.</s>
+				<s n="15" lang="la" state="auto">Potest autem fieri, postquam deus visitaverit peccata illius regni.</s>
+				<s n="16" lang="la" state="auto">Regina enim moderna et dominus de Herford, principis filii regis scilicet avunculus, bene favent pie et sane doctrine, et papistica inventa odiunt.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="17" lang="la" state="auto">Salutes dominum <persName ref="8171">Bibliandrum</persName>, d. Pelicanum, d. <persName ref="8011">Gvalterum</persName>, ceterosque mihi istic notos, precepue autem piissimam tuam coniugem<fl>13</fl>, cui etiam mea uxor se commendatam habet.</s>
+			</p>
+			<p>
+				<s n="18" lang="la" state="auto">Vale, et vive semper feliciter.</s>
+			</p>
+			<p>
+				<s n="19" lang="la" state="auto">Tuus, <persName ref="1548">Richardus Hillis</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="20" lang="de" state="auto">Dem furnemen und hochgelerten herren, herr Heinrich Bullinger, minem besunder gutten herren und fründen, zuͦ handen.</s>
+				<s n="21" lang="de" state="auto">Zuͦ Zurich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2772">
+		<alpha/>
+		<num>
+			<fn ref="1" meta="1">Dieser Brief wurde wohl dem auch in <link fk_file="12822">Nr. 2773</link>,1f, erwähnten Reisenden mitgegeben. Dass der Brief einer bestimmten Person für eine direkte Übergabe anvertraut wurde, geht aus der Formulierung der Adresse hervor: "Bullinger. minem besunder gutten herren und fründen, zuͦ handen".</fn>
+			<fn ref="2">Erschienen Ende August 1546.</fn>
+			<fn ref="3">Bullingers Kommentare zu allen Briefen der Apostel und zum Matthäus-, Johannes- und Markusevangelium waren 1537 (mit Neuauflagen in den Jahren 1539 und 1544), bzw. 1542 (Neuauflage 1546), 1543 und 1545 erschienen.</fn>
+			<fn ref="4">Mit <bibl>HBBW</bibl> XVIII, <link fk_file="12782">Nr. 2733</link>.</fn>
+			<fn ref="5" type="bio" fk_person="20134">Nur <persName ref="20134">Henry Howard</persName> wurde am 19. Januar geköpft. Durch den am 28. Januar erfolgten Tod des Königs konnte der Vater der Hinrichtung entgehen.</fn>
+			<fn ref="6">Bullingers Lukas-Kommentar, Zürich 1546 (<bibl>HBBibl</bibl> I 173).</fn>
+			<fn ref="7"><bibl>HBBibl</bibl> I 144, 153, 170.</fn>
+			<fn ref="8">wohl <bibl>HBBibl</bibl> I 84).</fn>
+			<fn ref="9"><persName ref="1884">Ludwig Lavater</persName>.</fn>
+			<fn ref="10"><persName ref="7459">Maximilian von Egmont</persName>, Graf von Büren.</fn>
+			<fn ref="11"><persName ref="18505">Heinrich VIII.</persName></fn>
+			<fn ref="12"><persName ref="19981">Paul III.</persName></fn>
+			<fn ref="13" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2772" page="197"/>
+			<footnotes fk_bibliography="22" nr="2772">
+				<alpha/>
+				<num>
+					<fn ref="1" meta="1">Dieser Brief wurde wohl dem auch in <link fk_file="12822">Nr. 2773</link>,1f, erwähnten Reisenden mitgegeben. Dass der Brief einer bestimmten Person für eine direkte Übergabe anvertraut wurde, geht aus der Formulierung der Adresse hervor: "Bullinger. minem besunder gutten herren und fründen, zuͦ handen".</fn>
+					<fn ref="2">Erschienen Ende August 1546.</fn>
+					<fn ref="3">Bullingers Kommentare zu allen Briefen der Apostel und zum Matthäus-, Johannes- und Markusevangelium waren 1537 (mit Neuauflagen in den Jahren 1539 und 1544), bzw. 1542 (Neuauflage 1546), 1543 und 1545 erschienen.</fn>
+					<fn ref="4">Mit <bibl>HBBW</bibl> XVIII, <link fk_file="12782">Nr. 2733</link>.</fn>
+					<fn ref="5" type="bio" fk_person="20134">Nur <persName ref="20134">Henry Howard</persName> wurde am 19. Januar geköpft. Durch den am 28. Januar erfolgten Tod des Königs konnte der Vater der Hinrichtung entgehen.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

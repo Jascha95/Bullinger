@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11308" id_hbbw="1265" id_irg_sort="1265" id_sort="112650">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11308</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1265</arpa>
+		<scan_pages>
+			<scan id="26295" dir="11308/Autograph/" page="1">00 E_II_335__fol__2032_r_.tif</scan>
+			<scan id="26296" dir="11308/Autograph/" page="2">01 E_II_335__fol__2032_v_.tif</scan>
+			<scan id="26297" dir="11308/Autograph/" page="3">02 E_II_335__fol__2032_a_r_.tif</scan>
+			<scan id="26298" dir="11308/Autograph/" page="4">03 E_II_335__fol__2032_a_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22950" vf="1" fk_add_type="1">
+				<person id="1419" fk_id="1419">
+					<name>Haab</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="414" vf="1" fk_id="414" long="9.59028" lat="47.4663">Rheineck</place>
+				<district id="169">St.Gallen</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22951" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11308">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">5</month>
+				<day fk_d="" d="" vf="1" fn="">4</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17780">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 335,2032r.-v.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11181" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1265, S. 128</entry>
+				<page>128</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="34">
+				<lang id="1" iso="de" count="34" p="100.0"/>
+			</sentences>
+			<words count="658">
+				<lang id="1" iso="de" count="658" p="100.0"/>
+			</words>
+			<chars count="3481">
+				<lang id="1" iso="de" count="3481" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1265" page="128">
+		<div ref="1">
+			Entnimmt Bullingers Brief vom 27. April, daß [Johannes Bullinger]
+			seine schwere Krankheit überwunden hat. Hört gern, daß sein Sohn
+			[<persName ref="5109">Hans Jakob Haab</persName>] fleißig lernt.
+			Hofft, daß die Reformation in <entity id="9" type="geo_country">England</entity> uneigennützig, nur zur Ehre
+			Gottes, gefördert wird; dankt für die Nachrichten aus <entity id="9" type="geo_country">England</entity> und
+			<placeName ref="157">Frankfurt</placeName>. Weiß von
+			<persName ref="7640">Johannes von Lupfen</persName>, daß in
+			<placeName ref="157">Frankfurt</placeName> ein Abkommen auf 15 Monate geschlossen wurde und daß
+			Gelehrte auf einen Reichstag in <placeName ref="410">Regensburg</placeName> hin über eine Einigung
+			im Glauben verhandeln sollen; der [Schmalkaldische] Bund soll dem Kaiser Hilfe gegen die Türken zugesagt
+			haben. [<persName ref="7852">Johann von Weeze</persName>] ist [von
+			<placeName ref="157">Frankfurt</placeName>] nach
+			<placeName ref="713">Niedersachsen</placeName> aufgebrochen, um Truppen aufzuhalten, die ins
+			Gebiet der Herzöge [<persName ref="7637">Franz</persName> und
+			<persName ref="18472">Ernst III. von Braunschweig-]Lüneburg</persName> eingedrungen sind; Pfarrer
+			<persName ref="1783">Johannes Keller</persName>, der Überbringer des Briefes, wird mehr berichten
+			können. Aus <placeName ref="291">Lindau</placeName> und
+			<placeName ref="457">Konstanz</placeName> gibt es noch nichts Neues. Dankt Bullinger für erwiesene
+			Dienste und für das Büchlein. Bittet, [<persName ref="1783">Keller</persName>] an der [Frühjahrs-]Synode teilnehmen zu lassen; er ist
+			vertrauenswürdig. Bullinger soll die Nachrichten auch Bürgermeister
+			<persName ref="2816">[Diethelm] Röist</persName> zukommen
+			lassen. Grüße.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="9" fk_bibliography="11" nr="1265" page="128">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Wolgelertter, fromer, fürgeachter, erender, lieber herr und bruͦder, üch sige<fl>1</fl> zuͦfor die gnad gotteß durch Cristum Iesum, unseren seligmacher, darzuͦ min bereidt gantz guͦttwillig dienst etc.</s>
+				<s n="2" lang="de" state="auto">Üwer schriben, dess datum stadt den 27. tag apprellens<fl>2</fl>, han ich sinnes ganntzen inhaldtz verstannden, und erschlich<fl>3</fl> hör ich gernn, daß der guͦtt, fromm erenmann und bruͦder<fl>4</fl> zuͦ Capel von der schwärenn krankheit durch gnad gotteß ettlichermaß endtledigott ist.</s>
+				<s n="3" lang="de" state="auto">Gott geb im sterk an sell und lib.</s>
+			</p>
+			<p>
+				<s n="4" lang="de" state="auto">Daß auch min sunn<fl>5</fl> und die anderen flißig studierend, hör ich gernn<fl>a</fl>.</s>
+				<s n="5" lang="de" state="auto">Gott thuͤge für und für sin gnad darzuͦ, daß es alles zuͦ sinnem lob diene etc.</s>
+			</p>
+			<p>
+				<s n="6" lang="de" state="auto">Daß daß wordt gotteß in Engenland so stark inbricht<fl>6</fl>, ist mir ein fröid; allein daß kein fleischlicher nutz darin gesuͦcht und allein zuͦ eren gottes diene.</s>
+				<s n="7" lang="de" state="auto">Die überig nüw zitung<fl>7</fl>, uss Engelland und von Frankfurtt uch zuͦkommenn<fl>8</fl>, han<fl>b</fl> ich alle wol verstandenn, und sunderlich die von Frankfurtt han ich die, alß<fl>9</fl> hernach stadt, gehörtt.<pb_edition start_of="129"/></s>
+			</p>
+			<p>
+				<s n="8" lang="de" state="auto">Nammlich uff verschinen mentag, den 28. apprilis, bin ich zuͦ Roschach<fl>10</fl> for herren aptz<fl>11</fl> zuͦ Sanct Gallen ettlichenn rätten gesin<fl>c</fl><fl>12</fl>, vonn miner liebenn und vertruwtten nachpurenn vonn <placeName ref="291">Lindow</placeName> wegenn<fl>d</fl> zuͦ schaffen gehept.</s>
+			</p>
+			<p>
+				<s n="9" lang="de" state="auto">Da ich graf <persName ref="7640">Hansen von Lupffen</persName><fl>13</fl>, so bischoff zuͦ <placeName ref="457">Costantz</placeName> gesin<fl>e</fl>, auch funden<fl>14</fl>, der mir angezeigt, daß im der jetzig bischoff von <placeName ref="457">Costantz</placeName><fl>15</fl>, so von keiserlicher magiestatt wegenn zuͦ Frankfurtt gesin ist, mit sinner eignen hand geschribenn, daß der anstand<fl>16</fl> zwüschend beiden puntzverwantenn 15 manett gemacht und beschlossenn.</s>
+				<s n="10" lang="de" state="auto">Und söllind sy entzwüschend zuͦ beiden teillen sich umm träffenlich gelertt lütt bewerbenn und denen befälhenn, ettwaß cristenlichen ansähens<fl>17</fl> in sachen dess gloubens ze suͦchen und stellenn, und nach verschinung<fl>18</fl> der 15 manetten uff den richstag gon Rägenspurg<fl>19</fl>, was sy funden, bringen.</s>
+				<s n="11" lang="de" state="auto">Und mag man sich miteinanderrenn verglichen<fl>20</fl>, sige guͦtt, wo nütt, sölle dan uff ernempten tag aber witter insähen beschähen<fl>21</fl>.</s>
+				<s n="12" lang="de" state="auto">Und söllind die fürstenn und stend imm cristenlichen pundt demm keiser bewilgott haben, ir hilff wider den Türken ze schiken.</s>
+			</p>
+			<p>
+				<s n="13" lang="de" state="auto">Es<fl>f</fl> habe im gesagter bischoff witter geschriben, daß er willens gesin, den nächstenn<fl>22</fl> hinuff in das bistum.</s>
+				<s n="14" lang="de" state="auto">So sige er von den stendenn, so zuͦ Frankfurtt sigind, ilendtz in die nidersagsischen<fl>g</fl> land ze ritten verordnett, ettlich dusend knecht abzewenden, so demm herzog von Lünnenburg in sin lannd<pb_edition start_of="130"/> gefallen sigind<fl>23</fl>.</s>
+				<s n="15" lang="de" state="auto">Diß mög ich warhafftenklich schriben und segenn.</s>
+				<s n="16" lang="de" state="auto">Sunst kan ich diser sach halb nütt witters findenn.</s>
+				<s n="17" lang="de" state="auto">Wol han ich vonn ettlichen byartiklen, so auch zuͦ Frankfurtt gehandlett worden sigind, gehörtt, wie auch üch zeiger diß brieffs, her <persName ref="1783">Hanß Keller</persName><fl>24</fl>, min lieber bruͦder und pfarer, wol witter berichten wirdt.</s>
+			</p>
+			<p>
+				<s n="18" lang="de" state="auto">Von <placeName ref="291">Lindow</placeName> und <placeName ref="457">Costantz</placeName> kompt nach nüdt eigentlichs<fl>25</fl> etc.</s>
+				<s n="19" lang="de" state="auto">Witter, fürgeliepter her und bruͦder, dannk ich üch uff das höchst der muͤg und arbeidt, so ir mit disem und forigem<fl>26</fl> schriben gehept.</s>
+				<s n="20" lang="de" state="auto">Daß buͤchli<fl>27</fl>, so ir mir geschikt, gefaldt mir fast wol<fl>28</fl>.</s>
+				<s n="21" lang="de" state="auto">Dank üch auch darum; wird eß guͦttenn herren und fründen ze läsen gebenn.</s>
+			</p>
+			<p>
+				<s n="22" lang="de" state="auto">Fürer<fl>29</fl>, so langt an üch min<pb_scan n="2032v."/> flißig pit, ir wellind forgemeltenn<fl>30</fl> minenn pfarer zuͦ Rineg und Tal in sinodum<fl>31</fl> lassenn und im vergonnen<fl>h</fl>, üwerrenn brüchen zuͦzehören und sähenn.</s>
+				<s n="23" lang="de" state="auto">Sind ir wol sicher, daß er nütt, weder kleins nach grosses, hinuß seidt<fl>32</fl>.</s>
+				<s n="24" lang="de" state="auto">Er ist auch<fl>i</fl> mit leren und läben trüw, ufrecht und fromm<fl>k</fl>.</s>
+				<s n="25" lang="de" state="auto">Die kundtschafft<fl>33</fl> mag<fl>34</fl> ich im mit der warheit wol gebenn.</s>
+				<s n="26" lang="de" state="auto">Ich vertruw imm auch mines ampts und der hushab halb<fl>35</fl> mer dan sunst filen.</s>
+			</p>
+			<p>
+				<s n="27" lang="de" state="auto">Zuͦledtscht ist min beger an üch, herren burgermeister <persName ref="2816">Röistenn</persName>, ob<fl>36</fl> er diser dingen nütt bericht<fl>37</fl>, anzeig gebenn.</s>
+				<s n="28" lang="de" state="auto">Ich hette im gern auch geschriben; so ist mir der zit halb wenig wil<fl>38</fl> worden; dan ich mit däglichen fürfallendenn geschäftenn fast gnuͦg ze thuͦn hab.<pb_edition start_of="131"/></s>
+			</p>
+			<p>
+				<s n="29" lang="de" state="auto">Der almechtig gott verlich üch für und für, in sinem werk nach sinem gefallen fürzefarenn.</s>
+				<s n="30" lang="de" state="auto">Gruͤssend mir <persName ref="1753" state="auto_name">M. Löwen</persName><fl>39</fl>, her <persName ref="8412" state="auto_name">Casparenn</persName><fl>40</fl>, herren bropst<fl>41</fl>, her doctor Engelhartt und fogt <persName ref="1888" state="auto_name">Lafentern</persName><fl>42</fl>, auch üwere liebe husfrowenn<fl>43</fl> und kind<fl>44</fl>.</s>
+			</p>
+			<p>
+				<s n="31" lang="de" state="auto">Datum Rineg, sontag, den 4. meigens im 39.</s>
+				<s n="32" lang="de" state="manual">Üwer altzit getrüwer fründ</s>
+				<s n="33" lang="de" state="manual"><persName ref="1419">Hanß Hab</persName>, fogt im Rintal.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf fol. 2032a v.:]</note>
+				<s n="34" lang="de" state="auto">Demm frommenn, wolgelertenn herren Meister Heinrichen Bullinger, pfarer im Grossen Münster der statt Zürich, minem lieben herren und bruͦder.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1265">
+		<alpha>
+			<fn ref="a"><i>vor</i> gernn <i>gestrichenes</i> auch.</fn>
+			<fn ref="b">han <i>über gestrichenem</i> dan.</fn>
+			<fn ref="c">gesin <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="d">wegenn <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="e">so bischoff zu Costantz gesin <i>am Rande nachgetragen.</i></fn>
+			<fn ref="f">Es <i>über der Zeile nachgetragen.</i></fn>
+			<fn ref="g"><i>zwischen</i> nider <i>und</i> sagsischen <i>gestrichenes</i> sach.</fn>
+			<fn ref="h"><i>vor</i> vergönnen <i>gestrichenes</i> la.</fn>
+			<fn ref="i">Er ist auch <i>am Rande nachgetragen.</i></fn>
+			<fn ref="k"><i>vor</i> fromm <i>gestrichenes</i> fromklich haldt.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">sei.</fn>
+			<fn ref="2">Nicht erhalten.</fn>
+			<fn ref="3">erstlich.</fn>
+			<fn ref="4"><persName ref="527">Johannes Bullinger</persName>.</fn>
+			<fn ref="5" type="bio" fk_person="1419">Hans Jakob, geb. 1530; vgl. C. <i>Escher,</i> Bürgermeister <persName ref="1419">Johannes Haab</persName> (1503-1561), in: <bibl>ZTB</bibl> 1903, NF 26, S. 47.</fn>
+			<fn ref="6">Bullinger hatte wohl Neuigkeiten über die Reformation in <entity id="9" type="geo_country">England</entity> aus dem Brief der Engländer vom 8. März 1539 (oben <link fk_file="11281">Nr. 1238</link>) an <persName ref="5109">Haab</persName> weitervermittelt.</fn>
+			<fn ref="7">neuen Nachrichten.</fn>
+			<fn ref="8">Die von Bullinger weitergegebenen Nachrichten stammten wohl aus <persName ref="8418">Myconius</persName>' Brief vom 22. April (oben <link fk_file="11300">Nr. 1257</link>) und aus einem von <persName ref="8011">Gwalther</persName> übermittelten, undatierten Bericht (Zürich StA, E II 359, 2782), der vermutlich einem Brief <persName ref="315">Bedrots</persName> entnommen war und sich u. a. auf den <placeName ref="157">Frankfurter</placeName> Anstand vom 19. April bezog.</fn>
+			<fn ref="9">wie.</fn>
+			<fn ref="10"><placeName ref="1006">Rorschach</placeName>, am Bodensee (Kt. St. Gallen).</fn>
+			<fn ref="11"><persName ref="8179">Diethelm Blarer von Wartensee</persName>.</fn>
+			<fn ref="12">gewesen.</fn>
+			<fn ref="13" type="bio" fk_person="7640"><persName ref="7640">Johannes von Lupfen</persName>, 1487-1551, aus dem Landgrafengeschlecht von <placeName ref="1334">Stühlingen</placeName> stammend, ein Freund der humanistischen Wissenschaften, wählte früh die Klerikerlaufbahn, wurde in <placeName ref="457">Konstanz</placeName> 1503 Kanoniker an der Domkirche, 1521 bischöflicher Rat, 1522 auch Domkustos, 1528 Propst zu St. Stephan, 1530 Administrator der Dompropstei und im selben Jahr Statthalter bei Abwesenheit von Bischof <persName ref="5817">Balthasar Merklin</persName>. Seine Wahl zum Bischof 1532 akzeptierte er nur widerstrebend, und 1537 trat er - vielleicht wegen seiner Sympathien für die evangelische Bewegung - zurück. Von Lupfen, noch immer <placeName ref="457">Konstanzer</placeName> Domherr und Domkustos, residierte fortan bis zu seinem Tod auf seinem Schloß in <placeName ref="1228">Engen</placeName> im Hegau. - Lit.: Karl Jordan <i>Glatz,</i> Über Johann V., Bischof von Constanz vom Jahre 1532 bis 1537, Landgraf von Lupfen-<placeName ref="1334">Stühlingen</placeName>, Herr von Höwen und Rosenegk, in: Freiburger Diözesan-Archiv 4, 1869, S. 123-134; <bibl>Helvetia Sacra</bibl> I/2 389-392.</fn>
+			<fn ref="14">angetroffen.</fn>
+			<fn ref="15"><persName ref="7852">Johann von Weeze</persName>.</fn>
+			<fn ref="16">das Stillstandsabkommen. -Zum "<placeName ref="157">Frankfurter</placeName> Anstand" s. oben <link fk_file="11304">Nr. 1261</link>, Anm. 3.</fn>
+			<fn ref="17">Übereinkunft.</fn>
+			<fn ref="18">Ablauf.</fn>
+			<fn ref="19">Von <placeName ref="410">Regensburg</placeName> als neuem Tagungsort ist im <placeName ref="157">Frankfurter</placeName> Anstand noch nicht die Rede. Der <placeName ref="410">Regensburger</placeName> Reichstag des Jahres 1541 wurde erst im September 1540 ausgeschrieben; s. <bibl>PC</bibl> III 96.</fn>
+			<fn ref="20">einigen.</fn>
+			<fn ref="21">weitere Schritte erwogen werden.</fn>
+			<fn ref="22">auf dem kürzesten Weg.</fn>
+			<fn ref="23">Die Herzöge von Braunschweig-Lüneburg, <persName ref="7637">Franz</persName> in <placeName ref="1739">Gifhorn</placeName> und Ernst III. in <placeName ref="1740">Celle</placeName>, hatten in einem Schreiben vom 10. April 1539 um Hilfe gegen den Anmarsch niederdeutscher Truppen - eine Aktion von Herzog <persName ref="18770">Heinrich d.J. von Braunschweig</persName> - gebeten; s. <bibl>PC</bibl> II 597f. 600. 610; Friedrich <i>Bruns,</i> Die Vertreibung <persName ref="18770">Herzog Heinrichs von Braunschweig</persName> durch den Schmalkaldischen Bund, 1. Teil, Diss. phil. Marburg, Marburg 1889, S. 25-27.</fn>
+			<fn ref="24" type="bio" fk_person="1783"><persName ref="1783">Johannes Keller</persName>, gest. 1567, findet sich in Keßlers Sabbata unter 1553/54 und 1567 als Pfarrer von <placeName ref="414">Rheineck</placeName> bezeugt. Er gehörte 1554 zu den Unterzeichnern eines Briefes von St. Galler Synodalen an Bullinger (Zürich ZB, Ms F 40, 314f). - Lit.: Keßler, Sabbata 616. 622. 653; Stückelberger 99.</fn>
+			<fn ref="25">noch nichts Sicheres.</fn>
+			<fn ref="26">Das letzte erhaltene Schreiben <persName ref="1419">Haabs</persName> an Bullinger datiert vom 20. Oktober 1538 (<bibl>HBBW</bibl> VIII, <link fk_file="11231">Nr. 1188</link>); vgl. aber auch oben <link fk_file="11283">Nr. 1240</link>.</fn>
+			<fn ref="27">Gemeint ist vielleicht Bullingers "Der alte Glaube", dessen zweite Auflage 1539 bei <persName ref="1227">Froschauer</persName> erschien (s. <bibl>HBBibl</bibl> I 100).</fn>
+			<fn ref="28">sehr gut.</fn>
+			<fn ref="29">Ferner.</fn>
+			<fn ref="30">oben erwähnten.</fn>
+			<fn ref="31">Die Zürcher Frühjahrssynode 1539 trat am 6. Mai zusammen (vgl. Zürich StA, E III. 234-236).</fn>
+			<fn ref="32">ausplaudert. - Zum synodalen Schweigegebot s. <bibl>AZürcherRef</bibl> 1899, S. 835.</fn>
+			<fn ref="33">Zeugnis.</fn>
+			<fn ref="34">kann.</fn>
+			<fn ref="35">im Familiären.</fn>
+			<fn ref="36">wenn.</fn>
+			<fn ref="37">nicht unterrichtet ist.</fn>
+			<fn ref="38">Muße.</fn>
+			<fn ref="39"><persName ref="1753">Leo Jud</persName>.</fn>
+			<fn ref="40"><persName ref="8412">Kaspar Megander</persName>.</fn>
+			<fn ref="41">Gemeint ist wohl <persName ref="8350">Felix Frey</persName>, der letzte Propst des Großmünsterstifts.</fn>
+			<fn ref="42"><persName ref="1888">Hans Rudolf Lavater</persName>.</fn>
+			<fn ref="43"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="44">Siehe oben <link fk_file="11260">Nr. 1217</link>, Anm. 46.</fn>
+		</num>
+	</footnotes>
+</file>

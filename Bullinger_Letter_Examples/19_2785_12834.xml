@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12834" id_hbbw="2785" id_irg_sort="2785" id_sort="127850">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12834</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2785</arpa>
+		<scan_pages>
+			<scan id="30028" dir="12834/Autograph/" page="1">00 E_II_346__fol__223_r_.tif</scan>
+			<scan id="30029" dir="12834/Autograph/" page="2">01 E_II_346__fol__223_v_.tif</scan>
+			<scan id="30030" dir="12834/Autograph/" page="3">02 E_II_346__fol__223_a_r_.tif</scan>
+			<scan id="30031" dir="12834/Autograph/" page="4">03 E_II_346__fol__223_a_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26211" vf="0" fk_add_type="1">
+				<person id="8354" fk_id="8354">
+					<name>Frölich (Laetus)</name>
+					<forename>Georg</forename>
+				</person>
+				<place id="18" vf="" fk_id="18" long="10.89851" lat="48.37154">Augsburg</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26212" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12834">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">1</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19400">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 346,223</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12416" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2785, S. 228</entry>
+				<page>228</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="48">
+				<lang id="1" iso="de" count="12" p="25.0"/>
+				<lang id="5" iso="la" count="36" p="75.0"/>
+			</sentences>
+			<words count="630">
+				<lang id="1" iso="de" count="111" p="17.6"/>
+				<lang id="5" iso="la" count="519" p="82.4"/>
+			</words>
+			<chars count="3693">
+				<lang id="1" iso="de" count="594" p="16.1"/>
+				<lang id="5" iso="la" count="3099" p="83.9"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2785" page="227">
+		<div ref="1">
+			[1] <persName ref="8354">Frölich</persName> ist dankbar für Bullingers tröstlichen Brief vom 22. Januar [nicht erhalten] und dessen
+			Ratschläge, zumal er weiß, dass Bullinger diese auch selbst befolgen würde.
+		</div>
+		<div ref="2">
+			[2] Er hat vergeblich gehofft, dass <placeName ref="1976">Augsburg</placeName> Glauben und Freiheit
+			bewahren würde. Doch die bequemen Kaufleute haben sowohl innerhalb als auch außerhalb des Rates für eine
+			Versöhnung<pb_edition start_of="228"/> mit <persName ref="18538">Kaiser Karl V.</persName> geworben. Die Obrigkeit hat das Volk mit falschen
+			Versprechungen betört und es so weit gebracht, dass fast alle 300 Ratsherren des Großen Rates der Aussöhnung
+			zustimmten. <persName ref="8354">Frölich</persName> aber ist seiner Aufgabe nachgekommen.
+		</div>
+		<div ref="3">
+			[3] Das Abkommen ist beschämend! Die freie Ausübung der Religion wurde den Augsburgern von kaiserlichen
+			Räten nur mündlich versprochen und nur solange, bis es im deutschen Reich zu einer christlichen Reformation
+			kommen würde. Das Zugeständnis wird also nicht lange dauern!
+		</div>
+		<div ref="4">
+			[4] Außerdem wird die Stadt gezwungen, ausländische Truppen einzulassen, um so dem Kaiser größeres Ansehen
+			zu verschaffen. Dahinter steckt eine List! Die [<placeName ref="1976">Augsburger</placeName>
+			Unterhändler] versuchen zwar, diese Maßnahme zu verhindern. Ob es ihnen gelingen wird, bleibt offen. Darüber
+			wird man heute oder morgen mehr erfahren. Die sonst fügsame Bevölkerung ist sehr unzufrieden und könnte bei
+			der Ankunft der kaiserlichen Truppen die Stadttore besetzen. Das würde zu einem Aufruhr führen. Dann hätte
+			man den Krieg nicht nur außerhalb, sondern auch inmitten der Stadt!
+		</div>
+		<div ref="5">
+			[5] <persName ref="8354">Frölich</persName> kann jetzt nicht auch über die übrigen Bedingungen berichten. Vielleicht bald mehr dazu, und
+			zwar mündlich.
+		</div>
+		<div ref="6">
+			[6] Obwohl er mehr als alle anderen in Gefahr schwebt, wird er sich gut um <persName ref="8018">Johannes Haller</persName> kümmern. Dieser
+			hatte vor, nach Zürich zurückzukehren. Doch auf <persName ref="8354">Frölichs</persName> und Bullingers Rat hin hat er diesen Plan
+			aufgegeben, zumal ein [Umzug] gefährlich wäre und eine Abreise unangebracht. Denn in
+			<placeName ref="1976">Augsburg</placeName> wird man die Predigt des Evangeliums nicht so leicht
+			abschaffen können, auch wenn sie eingeschränkt wird. Möge Gott zeigen, wie
+			<placeName ref="1976">Augsburg</placeName> trotz der Einigung [mit dem Kaiser] die evangelische
+			Wahrheit beibehalten kann. Die vom Kaiser angestrebte Reform wird im Sinne der römischen Kirche ausfallen,
+			und diejenigen, die sich ihr nicht anschließen, müssen mit einem Bann rechnen. Es gilt, wachsam zu sein!
+		</div>
+		<div ref="7">
+			[7] Der Kaiser ist nicht tot. Als am Samstag [29. Januar] die
+			<placeName ref="1976">Augsburger</placeName> [Gesandten] ihm den Fußfall leisteten und ihre Schuld am
+			Krieg bekannten, sprach er mit ihnen und begnadigte sie.
+		</div>
+		<div ref="8">
+			[8] <persName ref="8354">Frölich</persName> dankt für die Nachrichten über <entity id="16" type="geo_country">Italien</entity> und
+			<entity id="11" type="geo_country">Frankreich</entity>! In <placeName ref="1976">Augsburg</placeName>
+			hörte man Ähnliches.
+		</div>
+		<div ref="9">
+			[9] <persName ref="9780">Herzog Ulrich von Württemberg</persName> hat sich zu schändlichen Friedensbedingungen nötigen lassen, die nicht
+			schlimmer ausgefallen wären, wenn der Kaiser ihn besiegt hätte! Auch in
+			<placeName ref="1976">Augsburg</placeName> ist man darüber erschrocken.
+		</div>
+		<div ref="10">
+			[10] Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName>, der noch bis zum 24. Januar vor
+			<placeName ref="284">Leipzig</placeName> lag, konnte die Stadt trotz heftigem Beschuss nicht
+			einnehmen. Gott möge ihm den Sieg verleihen, auch wenn <persName ref="8354">Frölich</persName> wegen des in
+			<placeName ref="558">Wittenberg</placeName> [im Abendmahl] betriebenen Götzendienstes um ihn
+			fürchten muss! Der Kurfürst verfügt über genügend Kriegsvolk, hat aber kein Geld. Bis auf
+			<placeName ref="121">Dresden</placeName> hat er fast das gesamte Land des Herzogs <persName ref="18250">Moritz von Sachsen</persName> eingenommen.
+		</div>
+		<div ref="11">
+			[11] Landgraf <persName ref="18574">Philipp von Hessen</persName> tut nichts. Vielleicht hat er eine [heimliche] Abmachung [mit dem Kaiser].
+		</div>
+		<div ref="12">
+			[12] <persName ref="8354">Frölich</persName> muss aufhören.
+		</div>
+		<div ref="13">
+			[13] [<persName ref="3927">Hans Welser</persName>], dem Bullinger seinen [Lukaskommentar] gewidmet hat, ist ein Dummkopf!
+		</div>
+		<div ref="14">
+			[14] Gruß.
+		</div>
+		<div ref="15">
+			[15] <persName ref="8071">Hans Vogler d.J.</persName> hat in <placeName ref="291">Lindau</placeName> ohne Erlaubnis seiner Eltern
+			[Hans d.Ä. und <persName ref="20101">Appolonia, geb. Baumgartner]</persName>, eine Frau <persName ref="4991">[Maria Grafner]</persName> genommen. Nun soll <persName ref="8354">Frölich</persName> helfen,
+			diese Ehe zu verteidigen! Doch möchte er weder solch ein ungehorsames Verhalten unterstützen noch den Vater
+			vor den Kopf stoßen. Was würde denn Bullinger raten?
+		</div>
+		<div ref="16">
+			[16] <persName ref="8354">Frölich</persName> konnte seinen Brief nicht durchlesen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2785" page="228">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Tuas<fl>1</fl> et consolatione et consilio in his calamitatibus plęnas, observandissime frater, 22. ianuarii<fl>a</fl> ad me datas, gratissima mente accepi credoque te idem facturum, si eo loco esses, quod mihi consulis.</s>
+				<s n="3" lang="la" state="auto">Lubens igitur consilium tuum amplector.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="la" state="auto">Magna mihi superioribus diebus spes erat retinende religionis et libertatis, sed interea temporis multum ex ea spe decidit.</s>
+				<s n="5" lang="la" state="auto">Nam proceres nostrę urbis, <pb_edition start_of="229"/> mercatores nempe delicatuli<fl>2</fl>, tam in senatu quam extra concordis<fl>b</fl> votis nihil aliud quam gratiam cęsaris<fl>3</fl> expetiverunt et clamaverunt.</s>
+				<s n="6" lang="la" state="auto">Illi etiam, qui rebus pręsunt, populi aures longis sed falsis persuasionibus demulserunt<fl>4</fl> atque in sentenciam suam tandem<fl>c</fl> pertraxerunt, ut fere omnes amplioris etiam senatus senatores, quorum fere 300 sunt, decreverint cum cęsare paciscendum esse.<fl>5</fl></s>
+				<s n="7" lang="la" state="auto">Ego meo diligenter functus sum offitio.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="8" lang="la" state="auto">Quomodo autem pactum sit, dicere sane pudet.</s>
+				<s n="9" lang="la" state="auto">De religione enim nihil cavetur, nisi quod cęsaris consiliarii nudis verbis polliciti sint religionem unicuique civitati libere permissam esse suam, donec christiana atque communis in regno Germanię fiat reformatio.<fl>6</fl></s>
+				<s n="10" lang="la" state="auto">Age, queso, frater, quamdiu nobis nunc libera predicandi evangelii Christi potestas mansura sit?</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="11" lang="la" state="auto">Tum (quod difficile quoque est)<fl>d</fl> extraneus miles<fl>7</fl> debet in urbem nostram recipi propter ampliandam tantum cęsaris (ut ipsi aiunt) authoritatem.</s>
+				<s n="12" lang="la" state="auto">Ego vero insidias non timere non possum.</s>
+				<s n="13" lang="la" state="auto">Nostri prece et pręmio conantur hoc institutum impedire, sed quid impetraturi sint, adhuc incertum est.</s>
+				<s n="14" lang="la" state="auto">Populus noster, sane numerosus et alioqui ductilis, plurimum murmurat, valdeque timendum est, ne ipse cesareano milite adventante portas occupet et alienos non intromittat, quo pacto non solum inter nos (proceribus iam universis ad cęsarem defectis) tumultus oriatur et tam foris quam domi bellum habeamus.</s>
+				<s n="15" lang="la" state="auto">Hodie vel cras certiores erimus, quid de extraneo milite apud cęsarem actum sit.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="16" lang="la" state="auto">De reliquis condicionibus non vacat modo scribere.</s>
+				<s n="17" lang="la" state="auto">Spero me non ita longo post tempore oretenus tibi nonnihil harum rerum communicaturum.<fl>8</fl></s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="18" lang="la" state="auto"><persName ref="8018">Halleri</persName> causa<fl>9</fl> plane mea est.</s>
+				<s n="19" lang="la" state="auto">Ipse statuerat abire, sed consilio meo<fl>10</fl> atque tuis literis<fl>11</fl> sententiam mutavit: Neque enim satis tutum<fl>12</fl> neque satis honestum erat.</s>
+				<s n="20" lang="la" state="auto">Nam etsi evangelii predicatio periclitetur, tamen<fl>e</fl> brevi vel facile hic non poterit abrogari.</s>
+				<s n="21" lang="la" state="auto">Interea poterit dominus, emendatione vitę nostrę et sui ex animo observatione motus, nobis viam retinendę apud nos <pb_edition start_of="230"/> veritatis monstrare, quę nostratium pactione<fl>13</fl> prorsus est preclusa, quia futura reformacio<fl>14</fl> certo fiet secundum Romanam ecclesiam, quam qui non sequetur, anathemate percutietur tandemque excindetur.</s>
+				<s n="22" lang="la" state="auto">Propterea prudentioribus et piis vigilandum erit, ut sibi rebus eo declinantibus in tempore prospiciant.</s>
+				<s n="23" lang="la" state="auto"><persName ref="8018">Halleri</persName> curam tam in hoc quam in aliis diligenter habiturus sum, quamquam ego prę omnibus in periculis verser.<fl>15</fl></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="24" lang="la" state="auto"><pb_scan n="223v."/>Cęsar est in vivis.<fl>16</fl></s>
+				<s n="25" lang="la" state="auto">Nostri die saturni proxima<fl>17</fl> prociderunt ad genua eius culpam hoc bello admissam deprecantes,<fl>18</fl> quibus clementia reddidit et dedit verba.</s>
+				<s n="26" lang="la" state="auto">O mi frater, quo redacti sumus?</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="27" lang="de" state="auto">Ich bedannckh mich eur zittung aus <entity id="16" type="geo_country">Italia</entity><fl>19</fl> und Franckrich.<fl>20</fl></s>
+				<s n="28" lang="de" state="auto">Ist alhie auch fasst derglichen erschollen.<fl>21</fl></s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="29" lang="la" state="auto"><placeName ref="572">Wirtembergensis</placeName><fl>22</fl> foedissimis, sed ut tyranno convenit, conditionibus<fl>f</fl> pepigit.<fl>23</fl></s>
+				<s n="30" lang="la" state="auto">In vinculis porro non potuisset plus ex eo emungi; id quod et nostros terruit!</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="31" lang="de" state="auto">Der churfurst von <persName ref="19065" state="auto_name">Saxen</persName><fl>24</fl> ist uff 24. ianuarii noch vor <placeName ref="284">Lipzig</placeName> gelegen.<fl>25</fl></s>
+				<s n="32" lang="de" state="auto">Hats hart beschossen, aber noch nit erobert gehapt.</s>
+				<s n="33" lang="de" state="auto">Ist guter hoffnung, es soll ime nit vorstohn.<fl>26</fl></s>
+				<s n="34" lang="la" state="auto"><de>O das doch demselben frumen fursten gott rechten sieg gebe,</de> quanquam ego illi propter idololatriam <placeName ref="558">Wittembergensem</placeName><fl>27</fl> valde timeam.</s>
+				<s n="35" lang="de" state="auto">Er ist von volckh<fl>28</fl> starckh genug; die nervi belli<fl>29</fl> sind aber nit vorhanden.</s>
+				<s n="36" lang="de" state="auto">Hat <placeName ref="121">Dreßden</placeName> noch nit eingenummen,<fl>30</fl> aber sunst fasst alles hertzog <persName ref="18250">Moritzen</persName> lannd.</s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="37" lang="de" state="auto">Der lanndgraf<fl>31</fl> sitzt still.</s>
+				<s n="38" lang="de" state="auto">Ist zu besorgen, er hab ain verstannd<fl>32</fl>, dieweil er nit angreifft noch angriffen wurdt.</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="39" lang="de" state="auto">Ich kan ditsmals nit mehr.<pb_edition start_of="231"/></s>
+			</p>
+		</div>
+		<div ref_regest="13">
+			<p>
+				<s n="40" lang="la" state="auto">Ille<fl>33</fl>, cui dedicasti tua sacrosancta, fungus est.</s>
+			</p>
+		</div>
+		<div ref_regest="14">
+			<p>
+				<s n="41" lang="la" state="auto">Salutem ex me dices omnibus, quos nosti, bonis.</s>
+			</p>
+		</div>
+		<div ref_regest="15">
+			<p>
+				<s n="42" lang="la" state="auto">D. <persName ref="8071">Ioannis Vogleri</persName> filius<fl>34</fl> uxorem<fl>35</fl> Lindovię duxit invitis, ut audio, parentibus.<fl>36</fl></s>
+				<s n="43" lang="la" state="auto">Orat me, ut in confirmando coniugio ipsum iuvem.</s>
+				<s n="44" lang="la" state="auto">Ego vero citra parentis, viri optimi, voluntatem nihil facturus sum, ne videar inobedientię esse patronus.</s>
+				<s n="45" lang="la" state="auto">Vellem tamen tuum lubens audire iuditium, quid mihi faciundum siet.</s>
+			</p>
+		</div>
+		<div ref_regest="16">
+			<p>
+				<s n="46" lang="la" state="auto">Datum 1. februarii 1547, non relectis, etc.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Adresse auf f. 223a,r.:]</note>
+				<s n="47" lang="de" state="auto">Herren Henrichen Bullinger, Zurch, minem furgeliebten herren zu hannden.</s>
+				<s n="48" lang="de" state="auto">Zurch.<fl>37</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2785">
+		<alpha>
+			<fn ref="a"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="b"><i>In der Vorlage</i> concorbis.</fn>
+			<fn ref="c"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="d"><i>Klammern ergänzt.</i></fn>
+			<fn ref="e"><i>In der Vorlage folgt darauf erneut</i> tamen.</fn>
+			<fn ref="f"><i>Zu erwarten wäre</i> foedissimas conditiones.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten. - <persName ref="8354">Frölich</persName> erhielt diesen Brief sehr wahrscheinlich durch <persName ref="8018">Johannes Hallers</persName> Verwandten <persName ref="5410">Konrad Kambli</persName>; s. <link fk_file="12835">Nr. 2786</link>,1.</fn>
+			<fn ref="2">weiche; bequeme.</fn>
+			<fn ref="3"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="4">Vgl. <i>Adagio 3,</i> 1, 37 <i>(ASD</i> II/5 60, <link fk_file="12084">Nr. 2037</link>).</fn>
+			<fn ref="5">Siehe dazu schon <link fk_file="12808">Nr. 2759</link>,6-18; Nr. 2767,6-15.</fn>
+			<fn ref="6">Vgl. Nr. 2759,11-19, und <link fk_file="12832">Nr. 2783</link>.</fn>
+			<fn ref="7">Kollektiver Singular, gebräuchlich bei Personengruppen, insbesondere im Militärwesen. - Zur geforderten Aufnahme kaiserlicher Besatzungstruppen in <placeName ref="1976">Augsburg</placeName> s. schon <link fk_file="12818">Nr. 2769</link>,9f, sowie <i>Roth, <placeName ref="1976">Augsburg</placeName></i> III 468; IV 6-11; Kirch, <i>Fugger</i> 127.</fn>
+			<fn ref="8"><persName ref="8354">Frölich</persName> hatte nämlich vor, <placeName ref="1976">Augsburg</placeName> zu verlassen und sich nach Zürich oder Kon stanz zu begeben; s. <link fk_file="12790">Nr. 2741</link>,24-27; Nr. 2744,53-55; <link fk_file="12795">Nr. 2746</link>,15f; Nr. 2759,63- 72. Siehe ferner <link fk_file="12907">Nr. 2858</link>,1-3; <link fk_file="12914">Nr. 2865</link>,1f; <link fk_file="12916">Nr. 2867</link>,1.</fn>
+			<fn ref="9">Gemeint ist das Schicksal des in <placeName ref="1976">Augsburg</placeName> wirkenden <persName ref="8018">Hallers</persName>. - Vgl. <link fk_file="12790">Nr. 2741</link>,23.</fn>
+			<fn ref="10">Vgl. <link fk_file="12835">Nr. 2786</link>,41f.</fn>
+			<fn ref="11">Bullingers Briefe an <persName ref="8018">Haller</persName> vom 14. (<link fk_file="12801">Nr. 2752</link>) und 22. Januar (nicht erhalten); s. <link fk_file="12835">Nr. 2786</link>,1f.</fn>
+			<fn ref="12">In Anbetracht der wegen des Krieges unsicher gewordenen Straßen. Deshalb wäre ein Umzug der ganzen Familie gefährlich gewesen.</fn>
+			<fn ref="13">Gemeint ist der zwischen <placeName ref="1976">Augsburg</placeName> und dem Kaiser geschlossene Frieden.</fn>
+			<fn ref="14">Die in Z. 15f in Aussicht gestellte Reformation.</fn>
+			<fn ref="15">Vgl. schon oben Anm. 8.</fn>
+			<fn ref="16">Siehe dazu <link fk_file="12831">Nr. 2782</link>, Anm. 20; <link fk_file="12837">Nr. 2788</link>,18-20.</fn>
+			<fn ref="17">29. Januar.</fn>
+			<fn ref="18">Siehe dazu schon <link fk_file="12818">Nr. 2769</link>, Anm. 7. -Zu diesem Fußfall liegt ein Bericht von <persName ref="5736">Paul Hektor Mair</persName> in dessen Chronik vor (Die Chroniken der schwäbischen Städte. <placeName ref="1976">Augsburg</placeName>, Bd. 7, <placeName ref="284">Leipzig</placeName> 1917, S. 323- 325).</fn>
+			<fn ref="19">Wohl über die Ereignisse in <placeName ref="1121">Genua</placeName>.</fn>
+			<fn ref="20">Wohl über das Vorhaben Franz' Ï., den Krieg in Norditalien wieder aufzunehmen; s. <link fk_file="12800">Nr. 2751</link>,55-57; <link fk_file="12810">Nr. 2761</link>,58-60.</fn>
+			<fn ref="21">fasst derglichen erschollen: fast das Gleiche erzählt worden.</fn>
+			<fn ref="22"><persName ref="9780">Ulrich von Württemberg</persName>.</fn>
+			<fn ref="23">Anspielung auf den Hohentwieler Vertrag; s. <link fk_file="12795">Nr. 2746</link>, Anm. 21.</fn>
+			<fn ref="24"><persName ref="19065">Johann Friedrich I.</persName></fn>
+			<fn ref="25">Siehe dazu Nr. 2757, Anm. 76.</fn>
+			<fn ref="26">ime nit vorstohn: sich ihm nicht widersetzen. - Zum Zeitpunkt seines Schreibens wusste <persName ref="8354">Frölich</persName> noch nicht, dass der Kurfürst am 27. Januar von <placeName ref="284">Leipzig</placeName> abgezogen war.</fn>
+			<fn ref="27">Gemeint ist die von <placeName ref="558">Wittenberg</placeName> vertretene Auffassung über das Abendmahl und die damit verbundene Feier; vgl. <bibl>HBBW</bibl> XVII 31 und Anm. 167f.</fn>
+			<fn ref="28">von volckh: was die Truppen anbetrifft.</fn>
+			<fn ref="29">nervi belli: Geld; vgl. <i><persName ref="4544">Cicero</persName>,</i> Orationes Philippicae, 5, 5.</fn>
+			<fn ref="30">Siehe dazu <link fk_file="12810">Nr. 2761</link>, Anm. 19.</fn>
+			<fn ref="31"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="32">Vereinbarung (mit dem Kaiser).</fn>
+			<fn ref="33"><persName ref="3927">Hans Welser</persName>, dem Bullinger im August 1546 seinen Lukaskommentar (s. <bibl>HBBW</bibl> XVII, Nr. 2545) gewidmet hatte. - Zu der zwischen <persName ref="8354">Frölich</persName> und Welser bestehenden Abneigung s. <bibl>HBBW</bibl> XVII 419f mit Anm. 6.</fn>
+			<fn ref="34"><persName ref="8071">Hans Vogler d.J.</persName></fn>
+			<fn ref="35"><persName ref="4991">Maria Grafner</persName>; s. dazu <link fk_file="12793">Nr. 2744</link>,81-95.</fn>
+			<fn ref="36" type="bio" fk_person="8455"><persName ref="8455">Hans Vogler d.Ä.</persName> und <persName ref="20101">Appolonia, geb. Baumgartner</persName>.</fn>
+			<fn ref="37">Dieser Brief wurde <persName ref="5410">Konrad Kambli</persName>, dem Verwandten <persName ref="8018">Hallers</persName>, anvertraut, der auch <persName ref="8018">Hallers</persName> Briefe vom 30. Januar (<link fk_file="12829">Nr. 2780</link>) und 1. Februar (<link fk_file="12835">Nr. 2786</link>) nach <placeName ref="587">Zürich</placeName> beförderte.</fn>
+		</num>
+	</footnotes>
+</file>

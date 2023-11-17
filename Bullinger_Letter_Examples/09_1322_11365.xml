@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11365" id_hbbw="1322" id_irg_sort="1322" id_sort="113220">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11365</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1322</arpa>
+		<scan_pages>
+			<scan id="26414" dir="11365/Autograph/" page="1">00 E_II_345__S__214__.tif</scan>
+			<scan id="26415" dir="11365/Autograph/" page="2">01 E_II_345__S__215_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23072" vf="1" fk_add_type="1">
+				<person id="8103" fk_id="8103">
+					<name>Stier (Taurus)</name>
+					<forename>Sigismund</forename>
+				</person>
+				<place id="327" vf="1" fk_id="333" long="6.798466" lat="47.510356">Montbéliard</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23073" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11365">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">10</month>
+				<day fk_d="" d="" vf="1" fn="">26</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17836">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 345,214</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11076" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1322, S. 241</entry>
+				<page>241</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="14">
+				<lang id="5" iso="la" count="14" p="100.0"/>
+			</sentences>
+			<words count="276">
+				<lang id="5" iso="la" count="276" p="100.0"/>
+			</words>
+			<chars count="1720">
+				<lang id="5" iso="la" count="1720" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1322" page="241">
+		<div ref="1">
+			Hat durch <persName ref="8071">Hans Vogler</persName> den christologischen Brief
+			<persName ref="8049">Vadians</persName> mit den Büchern des
+			Vigilius [<bibl>HBBibl</bibl> I 113] erhalten und dankt für das unverhoffte
+			Geschenk. Bittet Bullinger, sich beim Rat für den Briefüberbringer,
+			<persName ref="5339">Heinrich [Häginer, gen.] Hofstetter</persName>, einzusetzen. Grüße.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1322" page="241">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Dedit superioribus diebus, doctissime Bullingere, communis noster, ut video, amicus <persName ref="8071">Ioannes Voglerus</persName>, principis<fl>2</fl> nostri oeconomus vigilantissimus, ad me tuo, ut referebat, nomine dono elegantissimam simulque piissimam illam clarissimi <persName ref="8049">Vadiani</persName> de corporis Christi cum verbo coniunctione epistolam cum d[ivi] Vigilii libris extra controversiam piis<fl>3</fl>.</s>
+				<s n="3" lang="la" state="auto">Qua re non potuit quicquam accidere immerito mihi et de doctissimo piissimoque homine tale nihil speranti gratius acceptiusque.</s>
+				<s n="4" lang="la" state="auto">Verum cum Musis Gratiae arctissima sint iunctae familiaritate<fl>4</fl>, imo indissolubili vinculo inter sese connexae sint, mirari desino te, Musarum antistitem, meme, qui vix Musas a<pb_edition start_of="242"/> limine salutarim<fl>5</fl>, tua amicitia dignari.</s>
+				<s n="5" lang="la" state="auto">Proin, ne et ego prorsus amusus et a Gratiis alienus videar, visum est mihi te hisce qualibusqualibus meis litteris rursus compellare et, siquid in angusta mea suppellectile sit, quo possis aliquando commode frui, tibi candido prorsus animo offerre.</s>
+				<s n="6" lang="la" state="auto">Iam vero <persName ref="8103">Sigismundum</persName> tibi hoc munere elegantissimo devinxisti, ut solvendo tibi esse nunquam possit, neque, quod referam dignum isto et munere et in me animo tuo, quicquam habeo nisi meipsum, quem, si alicuius esse momenti putes, totum peculio tuo adscribito.</s>
+			</p>
+			<p>
+				<s n="7" lang="la" state="auto">Adhoc, vir clarissime, quam possum diligentissime te oro, quo grammatophorum hunc, <persName ref="5339">Heinrychum Hofstetterum</persName><fl>6</fl>, civem vestrum, qui biennio principis nostri secretarium egit Gallicum, si quando apud te sollicitabit, apud senatum vestrum precibus iuves tibique meo nomine commendatum habeas.</s>
+				<s n="8" lang="la" state="auto">Pollicetur perpetuam resipiscentiam ac nunquam in decretum publicum quicquam commissurum; quare venia dignum puto.</s>
+			</p>
+			<p>
+				<s n="9" lang="la" state="auto">Vale, optime vir, et mihi ut clientulo tuo praecipito; invenies ad quidvis promptissimum.</s>
+				<s n="10" lang="la" state="auto">Salutes<fl>a</fl> item, oro, egregium meum dominum et amicum <persName ref="8437">Erasmum Fabritium</persName><fl>7</fl> et quosvis fratres verbi cultores adamantinos.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Ex Montbeliardo, 26. octobris anno a virgine partu 1539.</s>
+				<s n="12" lang="la" state="auto">Tuus ad aram<fl>8</fl></s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto"><persName ref="8103">Sigismundus Taurus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="14" lang="la" state="auto">Insigni clarissimae urbis Tigurinae episcopo Heinrycho Bullingero, domino et amico suo colendo<fl>b</fl>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1322">
+		<alpha>
+			<fn ref="a"><i>korrigiert aus</i> Salutabis.</fn>
+			<fn ref="b"><i>Daneben Vermerk von Bullingers Hand:</i> Der cantzier des graffen von Wirtenberg. graff Jörgen zu Mümpelgart, Hertzog Ulrychs von Wirtenberg bruder.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1" type="bio" fk_person="8103"><persName ref="8103">Sigismund Stier (Taurus)</persName>, von <placeName ref="1324">Heilbronn</placeName>, gest. 1551, immatrikulierte sich 1521 in <placeName ref="210">Heidelberg</placeName>. Spätestens 1537 war er Kanzler des Grafen <persName ref="8098">Georg von Württemberg-Mömpelgard</persName> (s. <bibl>Blarer BW</bibl> I 840). 1550 schrieb er einen weiteren Brief an Bullinger (s. Zürich StA, E II 346, 264). - Lit.: John <i>Viénot,</i> Histoire de la réforme dans le Pays de Montbéliard depuis les origines jusqu'à la mort de P. Toussain, 1524-1573, 2 Bde., Paris 1900, Reg. (Bd. II, S. 347 [!]); Amerbach, Korr. V 236; VIII 124, Anm. 2; vgl. Bd. V-IX, Reg.</fn>
+			<fn ref="2"><persName ref="8098">Georg von Württemberg</persName>.</fn>
+			<fn ref="3">Zu <persName ref="8049">Vadians</persName> "Orthodoxa et erudita ... epistola", die Bullinger zusammen mit den fünf Büchern des Vigilius "Contra Eutychen" veröffentlicht hatte, s. <bibl>HBBibl</bibl> I 113 und oben <link fk_file="11326">Nr. 1283</link>.</fn>
+			<fn ref="4">Nach <persName ref="19938">Herodot</persName> wohnten die Grazien (Charites) auf dem Olymp neben den Musen; beide galten als Töchter des Zeus. Vgl. <bibl>DNP</bibl> II 1102 bzw. VIII 511.</fn>
+			<fn ref="5"><bibl>Adagia</bibl>, 1, 9, 91 (<bibl>LB</bibl> II 362f).</fn>
+			<fn ref="6" type="bio" fk_person="5339"><persName ref="5339">Heinrich Häginer (Heginer), gen. Hofstetter</persName>, von Zürich, 1492-1564, war ein Sohn des Zunftmeisters und Ratsherrn <persName ref="5340">Konrad Häginer (Hofstetter)</persName>. Dieser war 1523 u. a. deshalb zum Tod verurteilt worden, weil er eine französische Pension angenommen hatte, um einen Sohn in <entity id="11" type="geo_country">Frankreich</entity> ausbilden zu lassen (s. <bibl>AZürcherRef</bibl> 255. 407). Heinrich gehörte ab 1530 als Zwölfer der Widderzunft dem Großen Rat an. 1534 bewarb er sich erfolglos als Chorschreiber. Am 27. November 1539 wurde er vom Rat für ehrund wehrlos erklärt, weil er als Söldner nach <entity id="11" type="geo_country">Frankreich</entity> gezogen war (s. Zürich StA, A 166. 2). 1541 erhielt er das Stiftsschreiberamt (s. Zürich StA, B VI 256, 37r.; vgl. - mit falschem Datum - <bibl>Zwa</bibl> VII 187). 1552-1558 verwaltete er als Amtmann das Stift <placeName ref="137">Embrach</placeName> (s. <bibl>LL</bibl> VI 317). - Lit.: <bibl>HBLS</bibl> IV 44; <persName ref="8098">Georg Sibler</persName>, Verzeichnis der Landschreiber und Notare im Kanton Zürich (Typoskript in Zürich StA, Db 21. 1), "Allgemeine" Schreiber, Nr. 45.</fn>
+			<fn ref="7"><persName ref="8437">Erasmus Schmid</persName>.</fn>
+			<fn ref="8"><bibl>Adagia</bibl>, 3, 2, 10 (<bibl>LB</bibl> II 748).</fn>
+		</num>
+	</footnotes>
+</file>

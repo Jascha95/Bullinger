@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12891" id_hbbw="2842" id_irg_sort="2842" id_sort="128420">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12891</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2842</arpa>
+		<scan_pages/>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26326" vf="0" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<place id="587" vf="" fk_id="587" long="8.544054" lat="47.370093">Zürich</place>
+				<district id="210">Zürich</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26327" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12891">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">12</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19462">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="78" fk_place="474">St. Gallen KB</archive>
+				<signature>Ms 35 (VBS VI),232 und 232a</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9141" fk_bib="0">
+				<bib_type id="11">Teildruck</bib_type>
+				<entry>Blarer BW II, S. 605–607, Nr. 1421</entry>
+			</print>
+			<print id="9142" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 605–607, Nr. 1421</entry>
+			</print>
+			<print id="12384" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2842, S. 406</entry>
+				<page>406</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="73">
+				<lang id="1" iso="de" count="71" p="97.3"/>
+				<lang id="5" iso="la" count="2" p="2.7"/>
+			</sentences>
+			<words count="901">
+				<lang id="1" iso="de" count="890" p="98.8"/>
+				<lang id="5" iso="la" count="11" p="1.2"/>
+			</words>
+			<chars count="4467">
+				<lang id="1" iso="de" count="4406" p="98.6"/>
+				<lang id="5" iso="la" count="61" p="1.4"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2842" page="405">
+		<div ref="1">
+			[1] Bullinger ist froh, dass <persName ref="4082">Konrad Zwick</persName> mit ihm zufrieden ist, und
+			bittet Gott um Gelingen. Von nun an braucht er nicht mehr alles [über den Versuch, <persName ref="7637">Franz I.</persName> zu einem
+			Hilfsangebot an <placeName ref="457">Konstanz</placeName> zu veranlassen] zu erfahren. So Gott
+			will, werden sich die Geheimen Räte von <placeName ref="587">Zürich</placeName> und
+			<placeName ref="457">Konstanz</placeName> einigen. Die
+			<placeName ref="457">Konstanzer</placeName> sollten sich auch dessen bewusst sein, dass es nicht
+			selbstverständlich ist, dass die Zürcher Ratsherren sich in Verhandlungen mit <persName ref="7637">Franz I.</persName> eingelassen haben.
+			Niemand außer <placeName ref="457">Konstanz</placeName> hätte sie dazu bringen können. Daran sieht
+			man, wie wohlgesonnen <placeName ref="587">Zürich</placeName> den Konstanzern ist, solange diese
+			entsprechend handeln. <persName ref="4082">Zwick</persName> sei gegrüßt.
+		</div>
+		<div ref="2">
+			[2] Die Geheimen haben sich heute darüber beraten, wie man mit dem soeben eingetroffenen [französischen]
+			Boten [<persName ref="17969">Guillaume Du Plessis</persName>, sieur de Lyancourt] verhandeln wolle. Bullinger traf aber seitdem noch keinen
+			der Geheimen an, da er heute, Samstag, gar nicht aus dem Haus kam, weil er [die Sonntagspredigt]
+			vorbereitet. Lediglich ließ der Stadtschreiber [<persName ref="8339">Hans Escher vom Luchs</persName>] ihm nach der Sitzung mitteilen, dass
+			er [dem Stadtboten <persName ref="8123">Georg Müller</persName>] auch einen Brief für <placeName ref="457">Konstanz</placeName>
+			mitgeben dürfe, wenn er wolle.
+		</div>
+		<div ref="3">
+			[3] <persName ref="4082">Zwick</persName> hat völlig Recht mit seiner Auffassung, dass jeglicher Friede mit <persName ref="18538">Kaiser Karl V.</persName> nur faul sein
+			könne. Möge Gott die <placeName ref="457">Konstanzer</placeName> in dieser Einstellung bestätigen,
+			denn der Kaiser wird sich an keinen Frieden halten!
+		</div>
+		<div ref="4">
+			[4] Dass die XIII Orte [an der <placeName ref="21">Badener</placeName> Tagsatzung] beschlossen,
+			[einen Angriff des Kaisers gegen <placeName ref="457">Konstanz</placeName> vom eidgenössischen
+			Boden aus nicht zu dulden], ist kein geringes Freundschaftszeichen! Noch vor kurzem, ja auch schon vor 20
+			Jahren, hätten etliche dieser Orte eher mitgeholfen, die Stadt zu belagern! Erfahren nun die Gegner von
+			<placeName ref="457">Konstanz</placeName> von dem Beschluss der XIII Orte, wird dies der Stadt nur
+			von Vorteil sein. Diese möge sich also derzeit bis auf Weiteres damit begnügen.
+		</div>
+		<div ref="5">
+			[5] In <placeName ref="587">Zürich</placeName> hat man nichts über <persName ref="18593">Sultan Suleiman I.</persName> gehört.
+		</div>
+		<div ref="6">
+			[6] Ein von <placeName ref="28">Basel</placeName> nach
+			<placeName ref="522">Venedig</placeName> reisender Franzose [...] berichtete, dass man in
+			<placeName ref="28">Basel</placeName> von <placeName ref="492">Straßburg</placeName>
+			erfahren habe, wie die zwei an den Kaiser gesandten <placeName ref="492">Straßburger</placeName>
+			[<persName ref="18230">Mathis Pfarrer</persName> und ...] zurückgekehrt seien und nun [durch das
+			Friedensabkommen mit dem Kaiser jegliche Hoffnung auf ein Bündnis zwischen
+			<placeName ref="492">Straßburg</placeName> und <persName ref="7637">Franz I.</persName>] zerstört sei. Landgraf <persName ref="18574">Philipp von Hessen</persName>
+			soll zudem <placeName ref="492">Straßburg</placeName> mitgeteilt haben, dass er sich vergeblich um
+			einen Frieden beim Kaiser bemüht hat, weshalb er einen solchen mit den Waffen suchen wolle und
+			<placeName ref="492">Straßburg</placeName> ebenfalls dazu ermuntere.
+		</div>
+		<div ref="7">
+			[7] Bullinger wird <persName ref="6552">Hans Schöner</persName> die Informationen <persName ref="8055">Blarers</persName> weiterleiten.
+		</div>
+		<div ref="8">
+			[8] Es scheint, [<placeName ref="587">Zürich</placeName>] werde dem Hauptmann
+			<persName ref="8498">Marcell Dietrich von Schankwitz</persName> den Kauf [der
+			<placeName ref="1884">Burg Dübelstein</placeName>] nicht gewähren.
+			Dieser sollte trotzdem beim Verkäufer [<persName ref="2809">Gotthard Richmut</persName>] einen
+			Kaufantrag einreichen, damit er eine klare Antwort erhält.
+		</div>
+		<div ref="9">
+			[9] <persName ref="3878">Hans Widenhuber</persName> schrieb an <persName ref="8011">Rudolf Gwalther</persName>, dass man die Zürcher verdächtige,
+			<placeName ref="457">Konstanz</placeName> schaden zu wollen. <persName ref="8011">Gwalther</persName> antwortete, das
+			<placeName ref="587">Zürich</placeName> nur das Beste für
+			<placeName ref="457">Konstanz</placeName> wolle und tue, der Widerstand aber von woanders komme,
+			wie es <persName ref="8055">Blarer</persName> ja auch weiß. <persName ref="8011">Gwalther</persName> hat also nicht geschrieben, dass das Problem bei
+			<placeName ref="457">Konstanz</placeName> liege.
+		</div>
+		<div ref="10">
+			[10] Die drei [an <persName ref="8055">Blarer</persName> zum Lesen übersandten] Briefe hat Bullinger zurückerhalten. Wenn <persName ref="18575">Philipp II.</persName> aus
+			Spanien herausziehen wollte, würde er sogleich wieder hineingescheucht! Die Nachricht ist allerdings falsch.
+			Die Spanier dürfen ihn nicht ziehen lassen, denn <persName ref="19042">Cheireddin Barbarossa</persName> würde sich ihrer sofort annehmen!
+		</div>
+		<div ref="11">
+			[11] Bullinger hat wieder guten Grund, Besseres vom Landgrafen zu erwarten, als es die [süddeutschen
+			Reichs]städte tun. Die ungerechtfertigte Feindseligkeit zwischen den Städten und dem Landgrafen hat gewiss
+			ihren Drahtzieher, den Teufel, der nun auch das dem <persName ref="18477">Ferdinand I.</persName> angehörige Haus
+			<entity id="35" type="geo_country">Österreich</entity> [durch Zwietracht] auseinanderreißt.
+		</div>
+		<div ref="12">
+			[12] Die [von <persName ref="8055">Blarer</persName> mit Brief <link fk_file="12890">Nr. 2841</link>] mitgeteilten Nachrichten
+			hat<pb_edition start_of="406"/> Bullinger teilweise mit Freude gelesen. Es ist schon bezeichnend, dass der
+			Kaiser solch einen den Mächtigen nicht angehörigen mönchischen Dummkopf zur Bestrafung der Städte einsetzen
+			musste, weil sich kein Graf oder sonstiger Herr für diese Aufgabe am Hof finden ließ! Hier wird Gottes
+			strafende Hand greifbar! Und wie sehr werden die armen Leute ausgenommen! Wenn schon
+			[<placeName ref="45">Biberach</placeName>] 40000 Florin Strafgeld bezahlen muss, würden
+			<placeName ref="457">Konstanz</placeName> bestimmt 80000 Florin auferlegt!
+			<placeName ref="457">Konstanz</placeName> soll aus dem Schaden der anderen lernen! Hätte man die
+			Mönche strenger bestraft, würde man heute nicht solches von ihnen erdulden. Es sind in der Tat merkwürdige
+			Patres! Der Herr wird sie strafen.
+		</div>
+		<div ref="13">
+			[13] Angeblich hat <persName ref="9780">Herzog Ulrich von Württemberg</persName> dem Kaiser den Fußfall geleistet, und zwar im Sessel
+			sitzend zum Gespött Gottes und der Menschen. Wenn doch der Herr nur den Kaiser und die Seinen zur
+			Verantwortung zöge, und sie bestraft würden!
+		</div>
+		<div ref="14">
+			[14] Die von [den Reitern bei <placeName ref="1228">Engen</placeName> an einem
+			<placeName ref="457">Konstanzer</placeName>] verübte Freveltat wird viele erzürnen, die noch nicht
+			aufgebracht waren. Gott wird es schon richten!
+		</div>
+		<div ref="15">
+			[15] Wenn es doch nur wahr wäre, dass das Heer des Markgrafen <persName ref="18422">Albrecht Alcibiades von Brandenburg-Kulmbach</persName>
+			vernichtet wurde! Bullinger hörte auch davon aus der Tagsatzung von
+			<placeName ref="21">Baden</placeName>. Sobald <persName ref="8055">Blarer</persName> Genaueres darüber erfährt, soll er es
+			mitteilen.
+		</div>
+		<div ref="16">
+			[16] Der Kaiser ist zutiefst ein Päpstler und unaufrichtiger Mensch. Was er vorschnell verspricht oder im
+			Gespräch verlauten lässt, tut er eigennützig nach spanischer Art und blendet dafür die Leute.
+		</div>
+		<div ref="17">
+			[17] Es ist schon unverschämt, dass [in <placeName ref="513">Ulm</placeName>] das Singen von
+			Psalmen verboten ist! Auch die Prediger wird man noch strenger überwachen! Den gottlosen [Spaniern] kann man
+			wirklich nicht trauen.
+		</div>
+		<div ref="18">
+			[18] Wegen seiner vielen Aufgaben kommt Bullinger nicht mehr dazu, <persName ref="8055">Blarers</persName> Fragen über das Zürcher
+			Ehereglement zu beantworten. Zudem ist auch gerade Bürgermeister <persName ref="1419">Johannes Haab</persName> gekommen. Er informiert
+			Bullinger darüber, dass <persName ref="8123">Georg Müller</persName> morgen Mittag nach <placeName ref="457">Konstanz</placeName>
+			reiten wird und vorliegenden Brief mitnehmen kann, wie dies bereits der Stadtschreiber anbot. Jetzt trifft
+			auch der Bote [...] <persName ref="4082">Zwicks</persName> ein. Beiliegend also der [„Usszug der fürnemisten Eesatzungen“]. Darin wird
+			<persName ref="8055">Blarer</persName> die Antwort auf seine Fragen finden. Er möge die Schrift <persName ref="8122">Müller</persName> wieder zurückgeben, denn Bullinger
+			kann diese nicht lange entbehren.
+		</div>
+		<div ref="19">
+			[19] Segenswunsch.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2842" page="406">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">G[nad] und f[rid].</s>
+				<s n="2" lang="de" state="auto">Diewyl j[uncker] <persName ref="4082" state="auto_name">Conradt</persName><fl>1</fl> von mir für guͦt hat<fl>2</fl>, bin ich zefriden und bitten gott, das es wol geradt.</s>
+				<s n="3" lang="de" state="auto">Es ist fürohin nitt nodt, das ichs alles wüsse.</s>
+				<s n="4" lang="de" state="auto">Die geheymen werdent, ob<fl>3</fl> gott will, wol einanderen betraͤtten.<fl>4</fl></s>
+				<s n="5" lang="de" state="auto">Das soͤllend ir wüssen, das ir es für ein grosses haben soͤllend, das min herren sich<fl>a</fl> von uwern waͤgen yngelassen, mitt dem Franzosen<fl>5</fl> ze handlen!</s>
+				<s n="6" lang="de" state="auto">Niemandts haͤtte es an inen vermoͤgen!</s>
+				<s n="7" lang="de" state="auto">Verstan ouch, das in inen gar ein guͦter will, so ferr ir ouch gebürlich üch erzeigend, alls ich üch trüw.</s>
+				<s n="8" lang="de" state="auto">Gruͤssend mir j. Conradten.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="9" lang="de" state="auto">Die geheymen<fl>6</fl> sind by einandren xin<fl>7</fl> von des botten<fl>8</fl> zuͦkunfft<fl>9</fl> waͤgen.</s>
+				<s n="10" lang="de" state="auto">Bin aber noch by iren keinem xin.</s>
+				<s n="11" lang="de" state="auto">Imm von einandren gan<fl>10</fl> embüt mir<fl>11</fl> der stattschryber<fl>12</fl>, woͤlle ich ettwas gen<fl>13</fl> <placeName ref="457">Constantz</placeName> schryben, moͤge ichs thuͦn.<pb_edition start_of="407"/></s>
+				<s n="12" lang="de" state="auto">Diewyl es dann<fl>14</fl> sampstag und ich uff morn ze thuͦn und mich hütt rüsten<fl>15</fl>, bin ich nitt uußkommen.<fl>16</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="13" lang="de" state="auto">Wol, wol, wol sagt üwer vetter<fl>17</fl>: Die friden mitt dem k[eyser]<fl>18</fl> muͤssind ful<fl>19</fl> sin; dorumb soͤlle ich nitt mee schriben vomm fulen friden, sunder von keinem friden!</s>
+				<s n="14" lang="de" state="auto">Darinn bestaͤte<fl>20</fl> üch gott (das ir mitt dem k. kein friden annemmind)<fl>b</fl>, dann<fl>21</fl> gwüß wird nuͤt gehallten werden!</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="15" lang="de" state="auto">Mich bedunckt denocht, nitt nuͤt sin<fl>22</fl>, das sich die 13 Ort entschlossen, wie ir wüssent, üwern halben.</s>
+				<s n="16" lang="de" state="auto">Ist ein guͦter anfang zuͦ groͤsserer früntschafft.</s>
+				<s n="17" lang="de" state="auto">Es were vor wenig jaren, noch<fl>23</fl> vor 20, dahin geradten, das ettlich geholffen, üch belaͤgern!</s>
+				<s n="18" lang="de" state="auto">Wenn man by üwern widerwertigen<fl>24</fl> soͤlichs der Eydgnossen fürnemmen<fl>25</fl> hoͤrt, bringt es üch denocht kein schad,<fl>26</fl> etc.</s>
+				<s n="19" lang="de" state="auto">Ich weiß wol, das üch anders baas<fl>27</fl> froͤwen moͤchte, aber das jetzund, biß ein anders ouch erhept<fl>28</fl> wirt.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="20" lang="de" state="auto">Von dem Türggen<fl>29</fl> ist uns nuͦt ze wüssen, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="21" lang="de" state="auto"><pb_scan n="232v."/>Von <placeName ref="492">Straßburg</placeName> sagt mir hütt ein Franzos<fl>30</fl> (kumpt von <placeName ref="28">Basel</placeName>, wil gen <placeName ref="522">Venedig</placeName>), das ein red zuͦ <fl>c</fl>Basel von<fl>c_2</fl> <placeName ref="492">Straßburg</placeName> ußgang<fl>d</fl>: Die 2 botten<fl>31</fl> syend heymkummen und sye alles mitt dem friden zerstoͤrt.<fl>32</fl></s>
+				<s n="22" lang="de" state="auto">Es habe ouch lantgraff<fl>33</fl> dar<fl>34</fl> geschriben, er habe umb friden geworben, den nitt bekommen moͤgen; dorumb woͤlle er luͦgen mitt der hand<fl>35</fl>, wie er friden mache, und <placeName ref="492">Straßburg</placeName> uff ein nuws uffgemanet<fl>36</fl>, etc.</s>
+				<s n="23" lang="de" state="auto">Ob aber dem gruntlich also sye, weiß ich nitt.</s>
+				<s n="24" lang="de" state="auto">Obgedachter hat es also gesagt.<pb_edition start_of="408"/></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="25" lang="de" state="auto">Schoͤnern<fl>37</fl> wil ich anzeigen<fl>38</fl>, wie ir begaͤrt.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="26" lang="de" state="auto"><persName ref="8498">Dietrich Marcellen</persName><fl>39</fl> halb kan ich noch nitt anders vernemmen, dann das es nitt werde nachgelassen.<fl>40</fl></s>
+				<s n="27" lang="de" state="auto">Doch moͤchte er gaͤgen den<fl>41</fl>, der imm den kouff [...]tet<fl>e</fl>, anwerben,<fl>42</fl> das er ein gruntlichen bescheid uußbrächte, wie man inn in disem artickel halten woͤlte und wurde.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="28" lang="de" state="auto">Widenhuͦber<fl>43</fl> hat geschriben, Zürych werde verdacht<fl>44</fl>, alls ob es <placeName ref="457">Constantz</placeName> versumen<fl>45</fl> woͤlle, etc.</s>
+				<s n="29" lang="de" state="auto">Daruff <persName ref="8011">Waltherus</persName><fl>46</fl> geantwort, Zürych thaͤte gern das best und thuͤge es; die sach faͤle<fl>47</fl> anderschwo und sye ful.</s>
+				<s n="30" lang="de" state="auto">Hat nitt geschriben, die sach sye by üch oder under üch ful.</s>
+				<s n="31" lang="de" state="auto">Wo<fl>48</fl> es sich gestoossen hab bißhar, wüssend ir wol selbs.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="32" lang="de" state="auto">Die 3 brieff hab ich empfangen.<fl>49</fl></s>
+				<s n="33" lang="de" state="auto">Zücht aber des key[sers] sun<fl>50</fl> uß <entity id="29" type="geo_country">Hispanien</entity> herus, so stoubet<fl>51</fl> man inn des ee<fl>52</fl> wider hynin.</s>
+				<s n="34" lang="de" state="auto">Es ist aber nuͤt.<fl>53</fl></s>
+				<s n="35" lang="de" state="auto">Die <entity id="29" type="geo_country">Hispanier</entity> lassend inn nitt herus; <persName ref="19042">Barbarossa</persName><fl>54</fl> machte inen guͦt gschirr.<fl>55</fl></s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="36" lang="de" state="auto">Ich hab wider ein hoffnung vonn lantgraven empfangen.</s>
+				<s n="37" lang="de" state="auto">Acht, man sage vil uff inn uß denen stetten, die imm unbeschult find<fl>56</fl> sind.</s>
+				<s n="38" lang="de" state="auto">Wenn schon der tüfel Ferd[inand]<fl>57</fl> hinfuͤrt<fl>58</fl> und das bluͦtig<fl>59</fl> Osterhuß zerryst,<fl>60</fl> ist es nitt sine caussa.</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="39" lang="de" state="auto"><pb_scan n="232a,r."/>Die nüw zytung<fl>61</fl>, mir mittgeteilt, hab ich zum teyl gern gelaͤsen.</s>
+				<s n="40" lang="de" state="auto">Luͦgend, welcher tratz<fl>62</fl> das ist, das ein onmaͤchtiger munchischer Lollfaͤt-<pb_edition start_of="409"/>schen<fl>63</fl> die eerlichen stett straaffen muͦß und sunst kein graff noch herr xin amm hoff, der es ouch thuͦn moͤgen.</s>
+				<s n="41" lang="la" state="auto">Manus est et aperta vindicta dei!</s>
+				<s n="42" lang="de" state="auto">Und, o wie schapt<fl>64</fl> man die armen lüt!</s>
+				<s n="43" lang="de" state="auto">Gwüß wurde üch 80000 fl. uffgelegt, so disem stettli<fl>65</fl> 40000 fl. uffgelegt.</s>
+				<s n="44" lang="de" state="auto">Lassend üch ander lüten schaden witzig<fl>66</fl> machen!</s>
+				<s n="45" lang="de" state="auto">Gedaͤnckend daran.</s>
+				<s n="46" lang="de" state="auto">Haͤtte man den münchen than<fl>67</fl>, was inen zuͦhört<fl>68</fl>, haͤtte man das von inen nitt.</s>
+				<s n="47" lang="de" state="auto">Es sind frylich merwirdige vaͤtter!<fl>69</fl></s>
+				<s n="48" lang="la" state="auto">Vigilat contra ipsos domini vindicta.</s>
+			</p>
+		</div>
+		<div ref_regest="13">
+			<p>
+				<s n="49" lang="de" state="auto">Es ist hie gesagt, <persName ref="9780">Wirtenberg</persName><fl>70</fl> habe schon den fuͦßfal gethan.</s>
+				<s n="50" lang="de" state="auto">So hoͤr ich wol, er ist da uff dem saͤssel zum gspoͤtt gott und den menschen gehockt.<fl>71</fl></s>
+				<s n="51" lang="de" state="auto">Und woͤlle gott, das dem keyser und den sinen das bad heyß genuͦg über gethan sye<fl>72</fl>; inen ouch trüwlich<fl>73</fl> werde!</s>
+			</p>
+		</div>
+		<div ref_regest="14">
+			<p>
+				<s n="52" lang="de" state="auto">Der muͦtwill<fl>74</fl> an den üwern begangen wirt vil erzürnen, die noch nitt zornig xin.</s>
+				<s n="53" lang="de" state="auto">Gott wirt es wol schicken!</s>
+			</p>
+		</div>
+		<div ref_regest="15">
+			<p>
+				<s n="54" lang="de" state="auto">O were das war, das <persName ref="18422">Albrechts</persName><fl>75</fl> margraffs züg<fl>76</fl> nidergelet!</s>
+				<s n="55" lang="de" state="auto">Ich hab es glich also ab dem<fl>77</fl> tag von <placeName ref="21">Baden</placeName> vernommen.</s>
+				<s n="56" lang="de" state="auto">Wenn ir gruntlichs habend, lassend michs wüssen.</s>
+			</p>
+		</div>
+		<div ref_regest="16">
+			<p>
+				<s n="57" lang="de" state="auto">Der keyser ist imm grund und hertzen ein baͤpstler, und nut uffraͤchts in imm.</s>
+				<s n="58" lang="de" state="auto">Was er also sagt, schnellt und fallen last,<fl>78</fl> thuͦt er uff hispanische art, betruglich<fl>79</fl> zuͦ sinem vorteyl, die lüt ze blenden und sin sach ze schaffen.</s>
+			</p>
+		</div>
+		<div ref_regest="17">
+			<p>
+				<s n="59" lang="de" state="auto">Ist das nitt ein buͦbery<fl>80</fl>, das psalmen verbotten sind?</s>
+				<s n="60" lang="de" state="auto">Das piß<fl>81</fl> wirt den predigern baas yngelegt werden!</s>
+				<s n="61" lang="de" state="auto">Dann kein warheit ist in denen lüten<fl>82</fl> nitt, die ouch gott in hymlen untrüw und find sind, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="18">
+			<p>
+				<s n="62" lang="de" state="auto"><pb_scan n="232a,v."/>Jetzund sollt ich antworten uff üwer eegrichtsvragen.<fl>83</fl></s>
+				<s n="63" lang="de" state="auto">Ist mir warlich nitt muͦglich, dann die gschaͤfften mich unentlich belestigend.</s>
+				<s n="64" lang="de" state="auto">Kumpt <pb_edition start_of="410"/> ouch grad jetzund der herr burgermeister Hab.<fl>84</fl></s>
+				<s n="65" lang="de" state="auto">Zeygt an, das morn ze 12 m. Joͤrg<fl>85</fl> hinus gen <placeName ref="457">Constantz</placeName> woͤlle verryten.</s>
+				<s n="66" lang="de" state="auto">Soͤlle dem min schriben mitt dem stattschryber gaͤben.<fl>86</fl></s>
+				<s n="67" lang="de" state="auto">Grad so kumpt j. Conradts bott<fl>87</fl> darzuͦ.</s>
+				<s n="68" lang="de" state="auto">Da, so habend ir meerteyls unser eesatzungen.<fl>88</fl></s>
+				<s n="69" lang="de" state="auto">Werdent ir bescheid finden, darumb ir gevragt.</s>
+				<s n="70" lang="de" state="auto">Bitt, ir schickind mir sy by m. Joͤrgen wider, dann ich iren nitt manglen kan.</s>
+			</p>
+		</div>
+		<div ref_regest="19">
+			<p>
+				<s n="71" lang="de" state="auto">Gott mitt üch eewiklich.</s>
+				<s n="72" lang="de" state="auto">Martii 12. umb 5 nach mittag 1547.</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="73" lang="de" state="auto">Sinem lieben herren und bruͦder, m. <persName ref="8055">Ambrosien Blaureren</persName>.<fl>89</fl></s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2842">
+		<alpha>
+			<fn ref="a"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="b"><i>Hier und unten Klammern ergänzt.</i></fn>
+			<fn ref="c-c">Am Rande nachgetragen.</fn>
+			<fn ref="d"><i>Über der Zeile nachgetragen.</i></fn>
+			<fn ref="e"><i>Der erste Teil des Wortes, der sich am Ende einer Zeile und auf einem Falz des Briefes befindet, wurde verschmiert und verblasste mit der Zeit derart, dass er unlesbar ist. Die in <persName ref="2979">Johann Jakob Simlers</persName> Abschrift (Zürich ZB, Ms S 63, 152) vorgeschlagene Entzifferung</i> [anlü]tet <i>ist wegen der noch sichtbaren Schriftzeichen kaum möglich. Zu lesen wäre eventuell</i> [embü]tet.</fn>
+			<!-- Splits -->
+			<fn ref="c">Am Rande nachgetragen.</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><persName ref="4082">Konrad Zwick</persName>.</fn>
+			<fn ref="2">von mir für güt hat: mit mir zufrieden ist; s. <bibl>SI</bibl> II 542 (hier in Anlehnung an <link fk_file="12890">Nr. 2841</link>,7f).</fn>
+			<fn ref="3">so.</fn>
+			<fn ref="4">einanderen beträtten: sich einigen; s. <bibl>SI</bibl> XIV 1486.</fn>
+			<fn ref="5"><persName ref="7637">Franz I.</persName>, durch die Vermittlung von <persName ref="17969">Guillaume Du Plessis</persName>, sieur de Lyancourt.</fn>
+			<fn ref="6">Zum Geheimen Rat von <placeName ref="587">Zürich</placeName> s. <link fk_file="12849">Nr. 2800</link>, Anm. 41.</fn>
+			<fn ref="7">gewesen.</fn>
+			<fn ref="8">Vermutlich ist hier der oben in Anm. 5 erwähnte französische Bote gemeint.</fn>
+			<fn ref="9">Ankunft: s. <bibl>Grimm</bibl> XXXII 477.</fn>
+			<fn ref="10">1mm von einandren gan: Beim Auseinandergehen (nach der Sitzung).</fn>
+			<fn ref="11">embüt mir: bot mir an.</fn>
+			<fn ref="12"><persName ref="8339">Hans Escher vom Luchs</persName>.</fn>
+			<fn ref="13">nach. - <persName ref="8123">Georg Müller</persName> sollte nach <placeName ref="457">Konstanz</placeName> gesandt werden; s. unten Z. 76f. Allerdings wurde vorliegender Brief nicht Müller, sondern dem unten in Z. 78f erwähnten Boten <persName ref="4082">Zwicks</persName> mitgegeben. Vgl. auch Nr. 2845,7-9.</fn>
+			<fn ref="14">nun; s. <bibl>SI</bibl> XIII 18 (der 12. März war ein Samstag).</fn>
+			<fn ref="15">vorbereite (für die Predigt).</fn>
+			<fn ref="16">aus dem Haus gekommen.</fn>
+			<fn ref="17">Der oben schon erwähnte <persName ref="4082">Zwick</persName>, in Anspielung auf <link fk_file="12890">Nr. 2841</link>,13-16.</fn>
+			<fn ref="18"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="19">faul.</fn>
+			<fn ref="20">bekräftige.</fn>
+			<fn ref="21">denn.</fn>
+			<fn ref="22">nitt nüt sin: (dass es) nicht unbedeutend ist.</fn>
+			<fn ref="23">auch (schon).</fn>
+			<fn ref="24">Gegnern.</fn>
+			<fn ref="25">Vorhaben.</fn>
+			<fn ref="26">Vgl. <link fk_file="12849">Nr. 2800</link>,63-65; <link fk_file="12869">Nr. 2820</link>,82-84.</fn>
+			<fn ref="27">besser; mehr.</fn>
+			<fn ref="28">erlangt; s. <bibl>Fischer</bibl> II 802.</fn>
+			<fn ref="29"><persName ref="18593">Sultan Suleiman I.</persName>, in Bezug auf <link fk_file="12890">Nr. 2841</link>,27-30.</fn>
+			<fn ref="30">Unbekannt.</fn>
+			<fn ref="31">Darunter <persName ref="18230">Mathis Pfarrer</persName>, der sich nicht mehr an den <placeName ref="492">Straßburger</placeName> Verhandlungen mit dem Kaiser beteiligen wollte; s. <link fk_file="12871">Nr. 2822</link>, Anm. 16; <link fk_file="12919">Nr. 2870</link>,26-29. - <persName ref="6733">Jakob Sturm</persName> scheint damals nicht von <placeName ref="513">Ulm</placeName> nach <placeName ref="492">Straßburg</placeName> zurückgekehrt zu sein, ehe er sich nach <placeName ref="360">Nördlingen</placeName> begab. Deshalb kommt hier wohl eher <persName ref="5121">Marx Hag</persName> in Frage; vgl. 2822, Anm. 16.</fn>
+			<fn ref="32">Zumal vom Standpunkt eines Franzosen aus alle Hoffnungen auf ein Bündnis zwischen <placeName ref="492">Straßburg</placeName> und <entity id="11" type="geo_country">Frankreich</entity> (s. dazu <bibl>PC</bibl> IV/1 574f. 594. 599. 602. 608f) durch den von <placeName ref="492">Straßburg</placeName> mit dem Kaiser geschlossenen Frieden zerstört waren.</fn>
+			<fn ref="33"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="34">dorthin.</fn>
+			<fn ref="35">d.h. mit dem Schwert. - Siehe dazu <link fk_file="12897">Nr. 2848</link>, Anm. 26.</fn>
+			<fn ref="36">zu den Waffen gerufen (hat).</fn>
+			<fn ref="37"><persName ref="6552">Hans Schöner</persName>; hier in Bezug auf <link fk_file="12890">Nr. 2841</link>,36-40.</fn>
+			<fn ref="38">informieren.</fn>
+			<fn ref="39"><persName ref="8498">Marcell Dietrich von Schankwitz</persName>; s. dazu <link fk_file="12873">Nr. 2824</link>,38-71.</fn>
+			<fn ref="40">zugelassen; s. <bibl>SI</bibl> III 1410.</fn>
+			<fn ref="41">Gemeint ist <persName ref="2809">Gotthard Richmut</persName>; s. <link fk_file="12873">Nr. 2824</link>, Anm. 41.</fn>
+			<fn ref="42">Zu verstehen ist: Er wolle sich offiziell bei dem Verkäufer des Gutes als Anwerber anbieten. - Es kam nicht zum Kauf; s. <link fk_file="12896">Nr. 2847</link>,15f.</fn>
+			<fn ref="43"><persName ref="3878">Hans Widenhuber</persName>. - Zur Angelegenheit s. <link fk_file="12890">Nr. 2841</link>,51-57.</fn>
+			<fn ref="44">verdächtigt.</fn>
+			<fn ref="45">schädigen; s. <bibl>SI</bibl> VII 963.</fn>
+			<fn ref="46"><persName ref="8011">Rudolf Gwalther</persName>.</fn>
+			<fn ref="47">mangele.</fn>
+			<fn ref="48">Nämlich an den katholischen Orten der Eidgenossenschaft.</fn>
+			<fn ref="49">Es handelt sich um Briefe. die Bullinger <persName ref="8055">Blarer</persName> zum Lesen gesandt hatte; s. <link fk_file="12890">Nr. 2841</link>,58f.</fn>
+			<fn ref="50"><persName ref="18575">Philipp II. von Spanien</persName>.</fn>
+			<fn ref="51">treibt, jagt.</fn>
+			<fn ref="52">des ee: desto eher.</fn>
+			<fn ref="53">Es ist aber nett: Es stimmt aber nicht.</fn>
+			<fn ref="54"><persName ref="19042">Cheireddin Barbarossa</persName>, der aber bereits am 4. Juli 1546 gestorben war, was Bullinger offensichtlich noch nicht wusste.</fn>
+			<fn ref="55">machte inen gut gschirr: würde sich ihrer freundlich annehmen; s. <bibl>SI</bibl> VIII I 160. - Hier ironisch.</fn>
+			<fn ref="56">unbeschult find: grundlos feindlich (gesinnt).</fn>
+			<fn ref="57"><persName ref="18477">König Ferdinand I.</persName></fn>
+			<fn ref="58">auf die Seite schafft; vgl. <bibl>SI</bibl> I 983. - In der christlichen Tradition wird der Teufel mit Hass und Zwietracht in Verbindung gebracht.</fn>
+			<fn ref="59">Dieses Wort ist hier emphatisch aufzufassen, etwa im Sinne von "das schlimme Haus <entity id="35" type="geo_country">Österreich</entity>"; vgl. <bibl>SI</bibl> V 224.</fn>
+			<fn ref="60">In Anspielung auf <link fk_file="12890">Nr. 2841</link>,69-71, wo vom Schwinden der Autorität Ferdinands die Rede ist.</fn>
+			<fn ref="61">Nachrichten.</fn>
+			<fn ref="62">absichtliche Beleidigung; s. <bibl>SI</bibl> XIV 1657.</fn>
+			<fn ref="63">Dummkopf: vgl. <bibl>SI</bibl> I 1141 (s.v. Fetsch): <bibl>Grimm</bibl> XII 1144 (s.v. lollhart, dort auch als Spottname für Mönche belegt). - Gemeint ist <persName ref="4332">Gerwig Blarer</persName>, Abt von Weingarten; s. <link fk_file="12890">Nr. 2841</link>,91-101.</fn>
+			<fn ref="64">schindet, ausbeutet.</fn>
+			<fn ref="65"><placeName ref="45">Biberach</placeName>; s. <link fk_file="12890">Nr. 2841</link>,93-97.</fn>
+			<fn ref="66">klug.</fn>
+			<fn ref="67">getan.</fn>
+			<fn ref="68">was men zühört: was sie verdient (haben).</fn>
+			<fn ref="69">Ironischer Bezug auf <link fk_file="12890">Nr. 2841</link>,91.</fn>
+			<fn ref="70"><persName ref="9780">Herzog Ulrich von Württemberg</persName>.</fn>
+			<fn ref="71">Zum Fußfall des Herzogs durch seine Stellvertreter s. <link fk_file="12831">Nr. 2782</link>, Anm. 22, und <link fk_file="12890">Nr. 2841</link>,105-107.</fn>
+			<fn ref="72">das dem keyser und den sinen das bad heyß genug über gethan sye: dass der Kaiser und die Seinen die Sache genügend schlimm ausbaden müssen; vgl. <bibl>Wander</bibl> I 219, Nr. 35. 39.</fn>
+			<fn ref="73">gehörig; gewiss; s. <bibl>SI</bibl> XIV 1650.</fn>
+			<fn ref="74">Verwegenheit. - In Anspielung auf <link fk_file="12890">Nr. 2841</link>,112-117.</fn>
+			<fn ref="75"><persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach.</fn>
+			<fn ref="76">militärischer Zug. - Eine Anspielung auf <link fk_file="12890">Nr. 2841</link>,118-124.</fn>
+			<fn ref="77">also ab dem: ebenso vom. - Die Verhandlungen au der am 28. Februar beginnenden Tagsatzung zu <placeName ref="21">Baden</placeName> waren erst kurz zuvor beendet worden; s. <link fk_file="12866">Nr. 2817</link>, Anm. 4; Nr. 2835,4f.</fn>
+			<fn ref="78">schnellt und fallen last: unbedacht spricht (s. <bibl>SI</bibl> IX 1223) und verlauten lässt (s. <bibl>Grimm</bibl> III 1284).</fn>
+			<fn ref="79">trügerisch; täuschend.</fn>
+			<fn ref="80">Unverschämtheit. - Anspielung auf <link fk_file="12890">Nr. 2841</link>, 134-136.</fn>
+			<fn ref="81">Gebiß; Zügel (in Anlehnung an <link fk_file="12890">Nr. 2841</link>,1331).</fn>
+			<fn ref="82">den Spaniern.</fn>
+			<fn ref="83">Die in <link fk_file="12890">Nr. 2841</link>,137-194, gestellten Fragen.</fn>
+			<fn ref="84"><persName ref="1419">Johannes Haab</persName>.</fn>
+			<fn ref="85"><persName ref="8123">Georg Müller</persName>; s. dazu auch <link fk_file="12894">Nr. 2845</link>, Anm. 10.</fn>
+			<fn ref="86">Siehe schon oben Z. 10f.</fn>
+			<fn ref="87">Unbekannt. - Er übermittelte den in <link fk_file="12892">Nr. 2843</link>, Anm. 4, erwähnten Brief <persName ref="4082">Zwicks</persName>.</fn>
+			<fn ref="88" type="bio" fk_person="1227">Im April 1530 wurde in <placeName ref="587">Zürich</placeName> von <persName ref="1227">Christoph Froschauer</persName> die "Ordnung, Ansehen und Erkanntnus eines ersamen Radts der Statt <placeName ref="587">Zürich</placeName>, wie hinfür über eelich Sachenn gericht, dessglychenn Eebruch, Huory, Kupplery unnd uneeliche Bywonung gestraafft sol werden" gedruckt <i>(BZD</i> C182; <i>VD16</i> Z603; <bibl>Egli, Analecta</bibl> 712-714, <link fk_file="11707">Nr. 1664</link>). Danach kam es zu einer etwas ergänzten Fassung (die vielleicht ebenfalls gedruckt wurde, heute aber nur handschriftlich bekannt ist), nämlich zu "Erlüterung und Verbesserung der Eesatzungen, die vornacher gesetzt und im Trugk ussgangen sind mit Rat der vier Steten <placeName ref="41">Bern</placeName>, <placeName ref="28">Basel</placeName>, Schaffhusen und Sanct Gallen von Rath und Burgern uf Sanct Margaretentag [15. Juni] Anno 1533 ussgangen und zu halten angenommen" (<placeName ref="587">Zürich</placeName> StA, B III 6, f. 217r.-222v. - s. dazu Zeitschrift für schweizerisches Recht ff12, 1854, 68, Nr. 10; 100f, <link fk_file="10347">Nr. 316</link>; IV/2, 1855, 108ff). Da aber Bullinger in diesem Zusammenhang das Wort "meerteyls" braucht, das wohl auf einen Auszug aus diesen Satzungen verweist, wird hier eher folgender Nachdruck gemeint sein: Usszüg der fürnemisten Eesatzungen so man vier malen imm jar dem gmeinen Mann sich wüssen mögen deren zehalten und vor Schand unnd Schaden zd verhielten in der Statt unnd Landschafft <placeName ref="587">Zürich</placeName> offentlich an der Cantzel verkünden unnd ussrüffen soll, [<placeName ref="587">Zürich</placeName>, <persName ref="1227">Christoph Froschauer</persName>] Juli 1539 <i>(BZD</i> C285; <i>VD16</i> ZV16608), von dem Bullinger ein Exemplar besaß, in dem er Notizen eintrug (heute in <placeName ref="587">Zürich</placeName> ZB, Ms B 27, Nr. 45; s. <i>HBBib1</i> III 172, <link fk_file="10244">Nr. 213</link>). - Zu den damaligen Zürcher Ehesatzungen s. Küngolt <i>Kilchenmann,</i> Die Organisation des zürcherischen Ehegerichts zur Zeit Zwinglis, <placeName ref="587">Zürich</placeName> 1946, S. 42-44; Evelyne <i>Ingold,</i> Staatsbildung, Ehemoral und 'weibliche Zucht'. Heinrich Bullingers 'Christlicher Ehestand' im Spannungsfeld zwischen ständischen Eheschließungsinteressen und frühneuzeitlicher Staatsbildung, in: <bibl>HBLife</bibl> I 299-302.</fn>
+			<fn ref="89">Zur Übermittlung des Briefes s. oben Anm. 13.</fn>
+		</num>
+	</footnotes>
+</file>

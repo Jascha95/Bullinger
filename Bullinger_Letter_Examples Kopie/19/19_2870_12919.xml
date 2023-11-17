@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12919" id_hbbw="2870" id_irg_sort="2870" id_sort="128700">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12919</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2870</arpa>
+		<scan_pages/>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26386" vf="1" fk_add_type="1">
+				<person id="1884" fk_id="1884">
+					<name>Lavater</name>
+					<forename>Ludwig</forename>
+				</person>
+				<place id="491" vf="1" fk_id="491" long="7.7507127" lat="48.584614">Straßburg</place>
+				<district id="110">Metropolitanes Frankreich</district>
+				<country id="28">Frankreich</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26387" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12919">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">31</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19491">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 39,741–744</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12360" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2870, S. 468</entry>
+				<page>468</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="74">
+				<lang id="5" iso="la" count="74" p="100.0"/>
+			</sentences>
+			<words count="878">
+				<lang id="6" iso="el" count="2" p="0.2"/>
+				<lang id="5" iso="la" count="876" p="99.8"/>
+			</words>
+			<chars count="5410">
+				<lang id="6" iso="el" count="18" p="0.3"/>
+				<lang id="5" iso="la" count="5392" p="99.7"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2870" page="466">
+		<div ref="1">
+			[1] Bullingers Brief [nicht erhalten] war sehr willkommen, zumal Bullinger darin versprach, dass er sich
+			gut um die Zukunft von <persName ref="1884">Lavaters</persName> Studium kümmern werde.
+		</div>
+		<div ref="2">
+			[2] Die im letzten Brief [<link fk_file="12878">Nr. 2829</link>] erwähnten
+			<placeName ref="492">Straßburger</placeName> Abgeordneten nach
+			<placeName ref="513">Ulm</placeName> kamen gut zurück und werden dem Rat den Barmherzigen [<persName ref="18538">Kaiser Karl V.</persName>] wärmstens empfohlen haben, da sie bei einer zweiten Gesandtschaft diesen Frieden erlangten, der
+			keiner ist! Dem Volk wurden die Friedensbedingungen verschwiegen, da man einen Aufruhr fürchtet. Der Friede
+			hat schlimme Folgen für die Helvetier, was <persName ref="1884">Lavater</persName> schon längst klar war. Der Kaiser hätte sich nichts
+			Besseres wünschen können, als dass die <placeName ref="492">Straßburger</placeName> ihn nicht mehr
+			daran hindern, den Krieg gegen die Helvetier und <entity id="11" type="geo_country">Frankreich</entity>
+			aufzunehmen. In <placeName ref="492">Straßburg</placeName> hatte man zur Verteidigung der Stadt so
+			viele Lebensmittelvorräte angelegt, dass nun davon ein paar Tausend Spanier ernährt werden können!
+		</div>
+		<div ref="3">
+			[3] Hausherr <persName ref="7175">Matthias [Zell]</persName> sagte oft, dass es nicht genüge, die Stadtmauern zu verstärken und eine
+			Stadtgarnison aufzustellen. Damit aber konnte der unselige Rat die Bevölkerung täuschen! Nun behauptet er,
+			dass selbst ein höchst ungerechter Friede besser als ein gerechter Krieg sei! Warum hat er dies nicht schon
+			zu Beginn gesagt?<pb_edition start_of="467"/> Nachdem er
+			<placeName ref="492">Straßburg</placeName> allen verhasst gemacht hat, müsste er doch mit den
+			Frommen anders umgehen!
+		</div>
+		<div ref="4">
+			[4] Dieses Versagen ist auf die Kaufleute zurückzuführen, die sich nicht so sehr durch ihren Stand als
+			vielmehr durch ihre Untugend auszeichnen! <persName ref="1884">Lavater</persName> hätte nie gedacht, dass es in
+			<placeName ref="492">Straßburg</placeName> solch schlimme Menschen gibt, die mit ihren Ratschlägen
+			die Vernichtung des Vaterlandes betreiben. Fast alle Ratsherren sind durch Habgier verdorben, auch <persName ref="6733">Jakob Sturm</persName>, der seine Heimat der Gefahr aussetzt, obwohl er dem erschöpften Staatswesen hätte beistehen müssen.
+			Ratsherr <persName ref="18230">Mathis Pfarrer</persName>, ebenfalls ein Kaufmann, der um sein
+			Einkommen fürchtet, schwieg im Rat und äußerte sich nicht gegen die Huldigung! Der Vorsteher aller
+			Kaufleute, <persName ref="5376">Konrad Joham</persName>, sorgte als Ratsherr stets dafür, dass der Rat sich nicht dem Kaiser widersetzte,
+			und als Vasall des Letzteren finanzierte er sogar eine kaiserliche Schwadron!
+			<persName ref="6186">Wolfgang Rehlinger</persName>, der ehemalige Bürgermeister von
+			<placeName ref="1976">Augsburg</placeName>, ging so weit, dass er sich dem Gefolge des Kaisers
+			anschloss. Ihm sind wohl die guten Friedensbedingungen zu verdanken! Als die Bürger hörten, dass er sich zum
+			Kaiser begeben hatte, waren sie sehr verärgert. Seitdem er aber mit den Ratsherren, die an den Kaiser
+			gesandt worden waren, zurückgekommen ist, wird er von Kaufleuten und Adligen besucht. Was sollen denn die
+			Bürger angesichts solch einer Unanständigkeit noch tun? Ein Teil davon freut sich über den Frieden, der
+			andere wäre zum Äußersten bereit. Der Herr rette seine Kirche auf dieser aufgewühlten See!
+		</div>
+		<div ref="5">
+			[5] Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> soll Kriegserfolge verzeichnen und
+			<placeName ref="1736">Zwickau</placeName> (wo <persName ref="18250">Herzog Moritz von Sachsen</persName> eine Besatzung hinterlassen
+			hatte) eingenommen haben.
+		</div>
+		<div ref="6">
+			[6] <persName ref="1884">Lavater</persName> weiß, was er zu tun hat. Wie im letzten Brief bereits angedeutet, wird er in
+			<placeName ref="492">Straßburg</placeName> den Verlauf des Krieges gegen den Kurfürsten und die
+			weitere Entwicklung mit den Helvetiern abwarten. Sollte er merken, dass die in die Stadt geflüchteten
+			Adligen und Grafen diese verlassen, wird er früh genug von
+			<placeName ref="492">Straßburg</placeName> (wo er zwar gerne bleiben würde) weggehen und sich in
+			Begleitung vieler Bürger nach <placeName ref="28">Basel</placeName> begeben. Unterdessen schummelt
+			der Rat und behauptet sogar, dass dank der Huldigung <placeName ref="492">Straßburg</placeName>
+			ein guter Zufluchtsort sei. Wer soll jedoch diesen Verrätern glauben?
+		</div>
+		<div ref="7">
+			[7] <persName ref="1884">Lavater</persName> dankt für die Übermittlung der Ratschläge seines Vaters [Hans Rudolf]. Bei besserer Gelegenheit
+			wird er sich dazu äußern.
+		</div>
+		<div ref="8">
+			[8] Bullinger hat nach [Beat Rudolf] Göldli gefragt. Dieser machte in
+			<placeName ref="492">Straßburg</placeName> derartige Fortschritte, dass er wohl eines Tages eine
+			Zierde für die Heimat sein wird. Das letzte Schuljahr schloss er als Dritter seiner Promotion ab und wäre
+			vielleicht Erster geworden, wenn es in <placeName ref="492">Straßburg</placeName> nicht eine
+			entscheidende Rolle spielen würde, ob man Zürcher, Schwabe oder
+			<placeName ref="492">Straßburger</placeName> ist. Seine Präzeptoren schätzten ihn wegen seines
+			Fleißes und seines guten Lebenswandels. Seine Eltern wollen, dass er Jura studiert. Allerdings ist er auch
+			dem Theologiestudium sehr verbunden. Die [von der Schule ausgestellte] Empfehlung lobt seinen guten
+			Lebenswandel, und bei der Examination in Zürich wird ja Bullinger Göldlis Fortschritte feststellen können.
+		</div>
+		<div ref="9">
+			[9] Nachdem <placeName ref="492">Straßburg</placeName>, eine der stärksten Festungen
+			Deutschlands, sich ergeben hat, werden die Helvetier zu tun haben! Ja auch
+			<placeName ref="492">Straßburg</placeName>, das des Öfteren von <persName ref="7175">Zell</persName> gewarnt wurde, wird die
+			Tyrannei des Papsttums zu spüren bekommen. Mittlerweile sollen die Zürcher darauf achten, dass die
+			[katholischen] Orte ihren Verpflichtungen nachkommen. <persName ref="1884">Lavater</persName> befürchtet nämlich, dass sie sich verstellen
+			und als zaghaft erweisen werden, sollte es zu einem Angriff kommen. Denn wenn sie tatsächlich vom <persName ref="19981">Papst [Paul III.]</persName> und Kaiser verwirrt wurden und sich an der letzten Tagsatzung zu
+			<placeName ref="21">Baden</placeName> zänkisch aufgeführt haben, dann steckt doch eine List
+			dahinter! Oder glaubt Bullinger etwa, dass sie nicht verschlagen wären? Jeder kennt sie als solche! Man muss
+			besonders darauf achten, falls <persName ref="7706">Nicolas Perrenot</persName>, Herr von Granvelle, zur kommenden Tagsatzung kommt, dass er
+			die Teilnehmer nicht überlistet. Jetzt werden die Christen den erbitterten Hass von <persName ref="18533">Kains</persName> Anhängern zu
+			spüren bekommen! Und sollte man die Orte nicht zur Verteidigung ihrer Heimat verpflichten können, wird auch
+			nichts Gutes von ihnen zu erwarten sein. <persName ref="1884">Lavater</persName> hätte sich vielleicht nicht darüber äußern dürfen, da dies
+			der Zuständigkeit anderer entspricht. Doch weiß er aus Erfahrung, dass man denjenigen, die Großes
+			versprechen, nicht glauben darf, ja dass die Väter sich gegen ihre Söhne stellen können.
+		</div>
+		<div ref="10">
+			[10] Alles Weitere wird Bullinger von Beat [Göldli] vernehmen. Gott bewahre Bullinger! Dieser möge seine
+			Familie wie auch <persName ref="1884">Lavaters</persName> Eltern [Hans Rudolf und <persName ref="5610">Anna, geb. Röichli]</persName> grüßen. Auch <persName ref="7175">Zell</persName> lässt grüßen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2870" page="468">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. D.</s>
+				<s n="2" lang="la" state="auto">Accepi tuas literas<fl>1</fl>, reverende pater, quae, quoniam te, ut hactenus, in meis rebus diligentissimum fore promittunt, gratissimę fuerunt.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="la" state="auto">De statu <placeName ref="492">Argentoratensis</placeName> reipublicae sic accipe: Nostri, quos proxime petendę pacis gratia <placeName ref="513">Ulmam</placeName> profectos esse significavi,<fl>2</fl> reversi sunt,<fl>3</fl> et indubio senatui fontem illum misericordiarum<fl>4</fl>, si diis placet, magnopere commendarunt; id quod eventus docet.</s>
+				<s n="4" lang="la" state="auto">Nam secundo ad caesarem profecti pacem non pacem impetrarunt!<fl>5</fl></s>
+				<s n="5" lang="la" state="auto">Quibus conditionibus non facile in vulgus spargetur, ne motus fiat publicus.</s>
+				<s n="6" lang="la" state="auto">Verum, quantum ego intelligo et animus semper praesagiebat, in Helvetios malum hoc recidet, quorum periculo haec omnia erunt expedienda.</s>
+				<s n="7" lang="la" state="auto">Caesar potius nil optare potuit, quam ne <placeName ref="492">Argentoratum</placeName> bellum contra Helvetios et Galliarum regem<fl>6</fl> molientem impediat.</s>
+				<s n="8" lang="la" state="auto">Commeatum habent, quem sub praetextu muniendę urbis pararunt, quo possunt aliquot millia <entity id="29" type="geo_country">Hispanorum</entity> alere.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="9" lang="la" state="auto">Video nunc tandem, quod saepius memini me audire a domino meo Matthia<fl>7</fl>: Nihil esse munire urbem, colligere exercitum, imponere urbi praesidium.</s>
+				<s n="10" lang="la" state="auto">His enim omnibus plebem fefellit impius senatus!</s>
+				<s n="11" lang="la" state="auto">Praeterea etiamnum egregie possunt dicere, iniquam etiam pacem iustissimo bello anteferendam esse.<fl>8</fl></s>
+				<s n="12" lang="la" state="auto">At quanto satius erat haec ab initio dicere!</s>
+				<s n="13" lang="la" state="auto">Postquam omnium odia in eos<fl>9</fl> concitata vident, longe aliter bonis erat agendum.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="14" lang="la" state="auto">Hoc totum mercatoribus debetur et illis, qui non tam genere insignes quam vitiis nobiles sunt!<fl>10</fl></s>
+				<s n="15" lang="la" state="auto">Nunquam putassem tam improbos in nostra republica inveniri potuisse, qui suis consiliis sicas in rempublicam distringerent,<fl>11</fl> civibus suis et patrię exitium machinarentur.</s>
+				<s n="16" lang="la" state="auto">Dolet id multis bonis et praestantibus viris.</s>
+				<s n="17" lang="la" state="auto">Pauci tamen sunt inter senatores, quos non studium pecunię in transversum egerit.</s>
+				<s n="18" lang="la" state="auto">Inter quos numerandus est d. <persName ref="6733">Iacobus Sturmius</persName>, qui, cum fessis rebus<fl>12</fl> consulere debuisset, patriam periculo exposuit.</s>
+				<s n="19" lang="la" state="auto">Dominus <persName ref="18230">Pfarrerus</persName><fl>13</fl> metuens ne quid suo quaestui decederet (nam et hic mer-<pb_edition start_of="469"/>cator est)<fl>b</fl>, nescio an<fl>c</fl> <el state="verified">συνάγχην</el><fl>14</fl> sive <el state="verified">ἀργυράγχην</el><fl>15</fl> passus, noluit acriter in senatu dicere obsistereque, quo minus in tur-<pb_scan n="742"/>pem deditionem venirent.</s>
+				<s n="20" lang="la" state="auto"><persName ref="5376">Conradus</persName> Ioachimus<fl>16</fl>, mercatorum coriphaeus<fl>17</fl>, semper totus fuit in hoc, ne se<fl>18</fl> caesari opponerent, et quamvis sedeat ad gubernacula reipublicae,<fl>19</fl> tamen dicitur hoc bello, quia caesaris fasallus<fl>20</fl> est, aliquot equites caesari alere coactum esse.</s>
+				<s n="21" lang="la" state="auto">Interim Rhelingerus<fl>21</fl>, qui superioribus annis consulem <placeName ref="1976">Augustę</placeName> egit, caesarem sequutus est; et eius nimirum benefitis factum est, quod caesar aliquanto tolerabilibus conditionibus in deditionem accepit.<fl>d</fl></s>
+				<s n="22" lang="la" state="auto">Cives, cum primum <placeName ref="1976">Augustanus</placeName> ille caesarem esset sequutus, valde stomachabantur.</s>
+				<s n="23" lang="la" state="auto">Sed nuper cum dominis illis<fl>22</fl>, qui pacem impetrarunt, in urbem reversus est, et aedes eius frequentantur a mercatoribus et nobilibus.</s>
+				<s n="24" lang="la" state="auto">Quid agant reliqui cives, cum videant tantam indignitatem?</s>
+				<s n="25" lang="la" state="auto">Durum nimirum est illis contra stimulum calcitrare.<fl>23</fl></s>
+				<s n="26" lang="la" state="auto">Pars gaudet pacem impetratam, pars mallet extrema quaevis experiri.</s>
+				<s n="27" lang="la" state="auto">Deus, quando undarum pene procellis submergimur, ecclesiae sucurrat!</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="28" lang="la" state="auto">Fertur interim electorem<fl>24</fl> bonis auspiciis bellum gerere.</s>
+				<s n="29" lang="la" state="auto">Zvikaviam caepisse, cui Mauritius<fl>25</fl> praesidium imposuerat.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="30" lang="la" state="auto">Quid ego agere debeam, obscurum mihi non est.</s>
+				<s n="31" lang="la" state="auto">Expectabo, ut scripsi superioribus literis,<fl>26</fl> eventum belli contra Saxonem.</s>
+				<s n="32" lang="la" state="auto">Tum Helvetiorum res agetur.</s>
+				<s n="33" lang="la" state="auto">Interim tutum est <placeName ref="492">Argentinae</placeName> haerere.</s>
+				<s n="34" lang="la" state="auto">Certissimum signum, quando hinc disceder[e]<fl>e</fl> debeam, possum ex nobilibus et comiti[ibus] petere, qui <placeName ref="492">Argentinum</placeName> defensione uti voluerunt: Nam et horum aliqui alio se conferent.</s>
+				<s n="35" lang="la" state="auto">Praeterea non dubito multos bonos cives <placeName ref="28">Basileam</placeName> abituros esse.</s>
+				<s n="36" lang="la" state="auto">Senatus dissimulat, quantum audio.</s>
+				<s n="37" lang="la" state="auto">Dicunt<fl>27</fl> enim dedi-<pb_scan n="743"/>tionem hanc non turpem esse et locum etiam profugis.</s>
+				<s n="38" lang="la" state="auto">Sed quis credat periuris illis nebulo-<pb_edition start_of="470"/>nibus?</s>
+				<s n="39" lang="la" state="auto">Et quamvis mallem <placeName ref="492">Argentinae</placeName> haerere, donec ab his motibus orbis quiesceret, tamen, quoniam video, quid caesar moliatur, et in quo statu res nostrę sint, mature satis <placeName ref="28">Basileam</placeName> me conferam.<fl>28</fl></s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="40" lang="la" state="auto">Quae praeterea de parentem<fl>29</fl> consilio ad me dedisti, pergrata fuerunt.</s>
+				<s n="41" lang="la" state="auto">Sed de his, ad potiorem scribendi occasionem translatus, plura scribam.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="42" lang="la" state="auto">In calce literarum, quomodo se <persName ref="18610" state="auto_name">Goldlius</persName><fl>30</fl> gesserit, cupis literis perscribi.</s>
+				<s n="43" lang="la" state="auto">Scias itaque hunc adolescentem tantos <placeName ref="492">Argentinae</placeName> progressus fecisse, ut dubium non sit, ornamento aliquando patrię futurum.</s>
+				<s n="44" lang="la" state="auto">In promotione enim superiori anno facta 3. locum habuit, et certe dignus primo fuisset, nisi forte plurimum referret, an Tiguri, an in Suevia aut <placeName ref="492">Argentinae</placeName> natus sis.</s>
+				<s n="45" lang="la" state="auto">Praeceptoribus tamen charus fuit propter diligentiam et morum integritatem.</s>
+				<s n="46" lang="la" state="auto">Parentes ipsius<fl>31</fl> eum iuris studio destinarunt.<fl>32</fl></s>
+				<s n="47" lang="la" state="auto">Et certe videtur theologico studio mancipandus.</s>
+				<s n="48" lang="la" state="auto">Sic enim plurimum patrię prodesse potuerat; sed commendatione non indignum esse ex ipsius moribus, si observes, intelliges; et eruditione, si experimentum sumas.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="49" lang="la" state="auto">Habent nunc Helvetii quod agant, postquam munitissima<fl>f</fl> haec totius Germanię arx<fl>33</fl> victritia arma sequuta est.</s>
+				<s n="50" lang="la" state="auto">Sed poenas et ipsa dabit papisticę tyrranidi subiecta.</s>
+				<s n="51" lang="la" state="auto">Monuit saepe magna gravitate d. <persName ref="7175">Matthias</persName>, quidque expectandum sit, praedixit.</s>
+				<s n="52" lang="la" state="auto">Sed quid profecerit, res ipsa clamat.</s>
+				<s n="53" lang="la" state="auto">[Interim]<fl>g</fl> vobis<fl>34</fl> cura et opere elaborandum erit, ut p[agos]<fl>35</fl> in offitio teneatis.</s>
+				<s n="54" lang="la" state="auto">Vereor autem, ne pagici [nostri] omnia pro tempore dissimulent et, cum serio age[ndę] res sint, tergiversentur.</s>
+				<s n="55" lang="la" state="auto">Nam si vera sunt haec, quod tumultuati sunt propter papae<fl>36</fl> et caesaris promissa, et quod comitiis Badenae nuper habitis<fl>37</fl> <pb_scan n="744"/> discordiam posuerunt, verendum certe est, ne lateat anguis in <pb_edition start_of="471"/> herba.<fl>38</fl></s>
+				<s n="56" lang="la" state="auto">Aut ulla putas pagicorum consilia dolis carere?</s>
+				<s n="57" lang="la" state="auto">Sic noti sunt isti homines!</s>
+				<s n="58" lang="la" state="auto">Quicquid sit, latet dolus.</s>
+				<s n="59" lang="la" state="auto">Praesertim autem timendum est, si <persName ref="7706">Granvella</persName><fl>39</fl> malitia<fl>h</fl> istis comitiis interfuit.</s>
+				<s n="60" lang="la" state="auto">Videmus certe his temporibus implacabile Cainitarum contra Christianos odium!<fl>40</fl></s>
+				<s n="61" lang="la" state="auto">Et nisi pagici illi patrię sive privato studio adducantur ad defendendam patriam, ab eis nil boni venire poterit.</s>
+				<s n="62" lang="la" state="auto">Sed forte haec ad me nihil attinent.<fl>41</fl></s>
+				<s n="63" lang="la" state="auto">Aliis<fl>42</fl> haec negotia curae esse debent.</s>
+				<s n="64" lang="la" state="auto">Didici in multis, quid splendida promittentibus credendum sit, quidque sit.</s>
+				<s n="65" lang="la" state="auto">Erit pater contra filium,<fl>43</fl> etc.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="66" lang="la" state="auto">Haec sunt, quae hoc tempore ad te scribenda putavi.</s>
+				<s n="67" lang="la" state="auto">Reliqua ex <persName ref="18610">Beato</persName><fl>44</fl> accipies.</s>
+				<s n="68" lang="la" state="auto">Deus te nobis diu incolumem servare dignetur!</s>
+				<s n="69" lang="la" state="auto">Ne graveris meo nomine plurimam salutem parentibus<fl>45</fl> dicere, tuaeque familiae.</s>
+				<s n="70" lang="la" state="auto">Salvum te cupit d. <persName ref="7175">Matthias</persName>.</s>
+				<s n="71" lang="la" state="auto"><placeName ref="492">Argentorati</placeName>, pridie cal. aprilis anno 1547.</s>
+				<s n="72" lang="la" state="auto">Tuus ex animo <persName ref="1884">Ludovicus Lavatherus</persName>.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="73" lang="la" state="auto">Clarissimo viro Henrico Bullingero, Tigurinę ecclesię vigilantissimo antistiti, patri suo colendissimo.</s>
+				<s n="74" lang="la" state="auto">Tiguri.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2870">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit Randbemerkungen von <persName ref="1628">Johann Heinrich Hottinger</persName>.</i></fn>
+			<fn ref="b"><i>Klammern ergänzt.</i></fn>
+			<fn ref="c"><i>Am Rande nachgetragen.</i></fn>
+			<fn ref="d"><i>Vor gestrichenem</i> venit <i>am Rande nachgetragen. Zu ergänzen wäre</i> Argentoratum.</fn>
+			<fn ref="e"><i>Hier und danach Textverlust durch Papierverlust.</i></fn>
+			<fn ref="f"><i>In der Vorlage</i> muntissima.</fn>
+			<fn ref="g"><i>Hier und danach Textverlust bei der Entfernung des Siegels. Die fehlenden Buchstaben wurden sinngemäß ergänzt, jedoch ohne Garantie.</i></fn>
+			<fn ref="h"><i>In der Vorlage</i> malitie.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten. <persName ref="1884">Lavater</persName> geht unten immer wieder auf diesen Brief ein.</fn>
+			<fn ref="2">In <link fk_file="12878">Nr. 2829</link>,16-32, vom 28. Februar. - Zum Namen der Gesandten s. <link fk_file="12871">Nr. 2822</link>. Anm. 16.</fn>
+			<fn ref="3">Die Rückkehr erfolgte am 1. März laut Alcuin <i>Hollaender,</i> Strassburg im Schmalkaldischen Kriege, <placeName ref="492">Straßburg</placeName> und London 1881, S. 70.</fn>
+			<fn ref="4">Ironisch, für <persName ref="18538">Kaiser Karl V.</persName> Vgl. <link fk_file="12870">Nr. 2821</link>,43f; <i>Henrich, Myconius BW</i> 939, Nr. 1055.</fn>
+			<fn ref="5">Zu den Namen der Abgeordneten, die an der zweiten Gesandtschaft teilnahmen, s. <link fk_file="12897">Nr. 2848</link>, Anm. 27. Sie kehrten am 28. März zurück; s. <i>Hollaender,</i> aaO, S. 83.</fn>
+			<fn ref="6" type="bio" fk_person="7637"><persName ref="7637">Franz I.</persName>, der am Abfassungstag des vorliegenden Briefes starb.</fn>
+			<fn ref="7"><persName ref="7175">Matthias Zell</persName>, bei dem <persName ref="1884">Lavater</persName> wohnte.</fn>
+			<fn ref="8">Vgl. <bibl>PC</bibl> VI/1 624, Z. 4f. - Zum Ausdruck vgl. <i><persName ref="4544">Cicero</persName>,</i> Epistulae ad familiares, 6, 6, 5.</fn>
+			<fn ref="9">in <placeName ref="492">Argentinenses</placeName>.</fn>
+			<fn ref="10">Vgl. <i><persName ref="4544">Quintus Tullius Cicero</persName>,</i> Commentariolum petitionis sive de petitione consulatus, 12: "qui nequaquam sunt tam genere insignes quam vitiis nobiles".</fn>
+			<fn ref="11">Anspielung auf <i><persName ref="4544">Cicero</persName>,</i> Pro Milone, 41; De officiis 3, 112.</fn>
+			<fn ref="12">fessis rebus (erschöpften Staatswesen); vgl. <i><persName ref="18867">Vergil</persName>,</i> Aeneis, ii, 335; <i>Tacitus,</i> Annales, 15, 50.</fn>
+			<fn ref="13"><persName ref="18230">Mathis Pfarrer</persName>, Dreizehner <placeName ref="492">Straßburgs</placeName>.</fn>
+			<fn ref="14">Angina; Erkältung.</fn>
+			<fn ref="15">Geldkrankheit. - Hier liegt eine Anspielung auf <i><persName ref="18582">Plutarch</persName>,</i> Demosthenes, 25, vor.</fn>
+			<fn ref="16"><persName ref="5376">Konrad Joham</persName>, <placeName ref="492">Straßburger</placeName> Kaufmann. Konstaffler und damals Dreizehner; s. <bibl>PC</bibl> IV/1 607, Nr. 557; IV/2 1417.</fn>
+			<fn ref="17">Damit liegt vermutlich eine Anspielung auf seinen Stand als Konstaffler vor.</fn>
+			<fn ref="18">Die Ratsherren von <placeName ref="492">Straßburg</placeName>.</fn>
+			<fn ref="19">Als Dreizehner.</fn>
+			<fn ref="20">vasall.</fn>
+			<fn ref="21"><persName ref="6186">Wolfgang Rehlinger</persName>; vgl. <link fk_file="12862">Nr. 2813</link>,21- 24; <link fk_file="12911">Nr. 2862</link>,13-16.</fn>
+			<fn ref="22">Siehe oben Anm. 5.</fn>
+			<fn ref="23">vgl. <i>Adagia.</i> 1, 3, 46 <i>(ASD</i> II/1 359f, <link fk_file="10277">Nr. 246</link>).</fn>
+			<fn ref="24"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="25"><persName ref="18250">Moritz von Sachsen</persName>. - Er hatte <placeName ref="1736">Zwickau</placeName> im November 1546 zwar gewaltlos, aber unter einer entschieden feindseligen Stimmung der Bevölkerung eingenommen und diverse Besatzungen in die Stadt gelegt. Im Februar 1547 blieb ein Vorstoß eines kurfürstlichen Oberst gegen die Stadt erfolglos. Ungefähr von der zweiten Märzhälfte an glaubte man dann an eine unmittelbar bevorstehende Einnahme der Stadt durch den Kurfürsten, wozu es allerdings nicht kam; s. Ernst <i>Fabian,</i> Die Stadt <placeName ref="1736">Zwickau</placeName> unter den Einwirkungen des schmalkaldischen Kriegs, in: Mitteilungen des Altertumsvereins für <placeName ref="1736">Zwickau</placeName> und Umgegend, Heft 1, <placeName ref="1736">Zwickau</placeName> 1887, 48-51. 53. 57f. 61f. 65 mit Anm. 3.</fn>
+			<fn ref="26">In <link fk_file="12878">Nr. 2829</link>,21-25.</fn>
+			<fn ref="27">Subjekt sind die Ratsherren.</fn>
+			<fn ref="28"><persName ref="1884">Lavater</persName> begab sich etwa im Mai nach Zürich; s. <link fk_file="12822">Nr. 2773</link>, Anm. 32.</fn>
+			<fn ref="29"><persName ref="1888">Hans Rudolf Lavater</persName>.</fn>
+			<fn ref="30" type="bio" fk_person="18610"><persName ref="18610">Beat Rudolf Göldli</persName> von Tiefenau (gest. 1591), Junker, der zwischen September 1535 und Dezember 1542 (eine Zeitlang zusammen mit <persName ref="1884">Ludwig Lavater</persName>) in Kappe! studiert hatte; s. Zürich StA, E I 14/1, 33; E 17/1, 265. Dass er hier gemeint ist, wird durch unten Z. 85f bekräftigt, wo von einem damals in <placeName ref="492">Straßburg</placeName> studierenden Zürcher mit Vornamen Beat die Rede ist. Ludwig, der als Elfjähriger drei Jahre später (September 1538) in <placeName ref="242">Kappel</placeName> aufgenommen wurde, könnte ein wenig jünger als Beat Rudolf gewesen sein. Letzterer war Sohn von Joachim Göldli (gest. 1581) mit vermutlich dessen erster Gattin <persName ref="18831">Barbara von Bonstetten</persName> (deren Vater auch Beat hieß). Die Eltern heirateten 1524, und Barbara starb 1531. Im Jahr darauf wurde Barbara Steiner (gest. 1552) Beat Rudolfs Ziehmutter; s. Carl <i>Keller-Escher,</i> Promptuarium genealogicum, Bd. 3 (Zürich ZB, Ms Z II 3), S. 127. 129.</fn>
+			<fn ref="31">Siehe dazu oben Anm. 30.</fn>
+			<fn ref="32">Ob und wo er weiter studierte, konnte nicht ermittelt werden.</fn>
+			<fn ref="33">Mit der Festung ist <placeName ref="492">Straßburg</placeName> gemeint.</fn>
+			<fn ref="34">Gemeint sind die Zürcher.</fn>
+			<fn ref="35">Die katholischen Orte.</fn>
+			<fn ref="36"><persName ref="19981">Papst Paul III.</persName></fn>
+			<fn ref="37">Die Tagsatzung, die am 28. Februar begonnen hatte; s. <link fk_file="12866">Nr. 2817</link>, Anm. 4.</fn>
+			<fn ref="38"><i><persName ref="18867">Vergil</persName>,</i> Eclogae, 3, 93; Nachträge zu A. Otto, Sprichwörter und sprichwörtliche Redensarten der Römer, hg. von Reinhard Häussler, Darmstadt 1968, S. 133.</fn>
+			<fn ref="39"><persName ref="7706">Nicolas Perrenot</persName>, Herr von Granvelle. - Er besuchte nicht die Tagsatzung, die am 28. März begann; s. <link fk_file="12911">Nr. 2862</link>, Anm. 58.</fn>
+			<fn ref="40">Anspielung auf Gen 4; 1Joh 3, 12.</fn>
+			<fn ref="41">Vgl. schon <link fk_file="12878">Nr. 2829</link>,45f.</fn>
+			<fn ref="42">Nämlich den Politikern.</fn>
+			<fn ref="43">Vgl. Mt 10, 35f; Lk 12. 52f.</fn>
+			<fn ref="44">Siehe oben Anm. 30.</fn>
+			<fn ref="45" type="bio" fk_person="5610">Hans Rudolf und <persName ref="5610">Anna, geb. Röichli</persName>.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12874" id_hbbw="2825" id_irg_sort="2825" id_sort="128250">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12874</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2825</arpa>
+		<scan_pages>
+			<scan id="30144" dir="12874/Autograph/" page="1">00 Ms F 80 (338-341)_00001.tif</scan>
+			<scan id="30145" dir="12874/Autograph/" page="2">01 Ms F 80 (338-341)_00002.tif</scan>
+			<scan id="30146" dir="12874/Autograph/" page="3">02 Ms F 80 (338-341)_00003.tif</scan>
+			<scan id="30147" dir="12874/Autograph/" page="4">03 Ms F 80 (338-341)_00004.tif</scan>
+			<scan id="30148" dir="12874/Autograph/" page="5">04 Ms F 80 (338-341)_00005.tif</scan>
+			<scan id="30149" dir="12874/Autograph/" page="6">05 Ms F 80 (338-341)_00006.tif</scan>
+			<scan id="30150" dir="12874/Autograph/" page="7">06 Ms F 80 (338-341)_00007.tif</scan>
+			<scan id="30151" dir="12874/Autograph/" page="8">07 Ms F 80 (338-341)_00008.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26292" vf="1" fk_add_type="1">
+				<person id="540" fk_id="540">
+					<name>Calvin</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="167" vf="1" fk_id="167" long="6.14569" lat="46.20222">Genf</place>
+				<district id="52">Genève</district>
+				<country id="58">Schweiz</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26293" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12874">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">25</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19444">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="96" fk_place="587">Zürich ZB</archive>
+				<signature>Ms F 80,338–341, Nr. 136</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9116" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>C.O. XII, S. 480–489, Nr. 880</entry>
+			</print>
+			<print id="9117" fk_bib="0">
+				<bib_type id="8">Teilübersetzung</bib_type>
+				<entry>Schwarz, Calvin I 369–372, Nr. 188</entry>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="284">
+				<lang id="5" iso="la" count="284" p="100.0"/>
+			</sentences>
+			<words count="3360">
+				<lang id="6" iso="el" count="3" p="0.1"/>
+				<lang id="5" iso="la" count="3357" p="99.9"/>
+			</words>
+			<chars count="19407">
+				<lang id="6" iso="el" count="27" p="0.1"/>
+				<lang id="5" iso="la" count="19380" p="99.9"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2825" page="356">
+		<div ref="1">
+			[1] <persName ref="540">Calvin</persName> las Bullingers Buch<fl>2</fl>, sobald er wieder nach Hause gelangte. Wie versprochen hat er
+			niemandem etwas davon erzählt.<fl>3</fl> Er hofft, dass Bullinger vorliegende Bewertung dieses Buches gut
+			aufnehmen wird. Es wäre schön, wenn beide zur gleichen Meinung kämen. Wenn nicht, möge Bullinger diese
+			offene Beurteilung trotzdem gut aufnehmen, zumal er ja weiß, dass <persName ref="540">Calvin</persName> ihn schätzt und vorliegender Brief
+			aus aufrichtigem Herzen entspringt. <persName ref="540">Calvin</persName> wird jedes Kapitel kurz kommentieren. Diese Gebundenheit soll
+			nicht als die eines Zensors angesehen werden. Sie drückt vielmehr <persName ref="540">Calvins</persName> Überzeugung aus, dass Bullinger
+			keine längeren Ausführungen braucht.
+		</div>
+		<div ref="2">
+			[2] Es ist unnötig, dass Bullinger in seinem 1. Kapitel zwischen verschiedenen Arten von Zeichen
+			(signa)<fl>4</fl> unterscheidet, als würden sich diese gegenseitig ausschließen.
+		</div>
+		<div ref="3">
+			[3] Im 2. Kapitel gefällt es <persName ref="540">Calvin</persName> nicht, dass die Sakramente der Taufe und des Abendmahls aus
+			etymologischen Überlegungen mit dem militärischen Eid in Verbindung gebracht werden. <persName ref="540">Calvin</persName> beobachtet
+			vielmehr, dass von Beginn der Kirche an die Lateinsprechenden das Wort „sacramenta“ benutzten, um das
+			griechische Wort <el state="verified">μυστήρια</el> wiederzugeben <pb_edition start_of="357"/>. Dies wird
+			bereits in den älteren Übersetzungen des Alten und Neuen Testaments ersichtlich. Deshalb denkt <persName ref="540">Calvin</persName>, dass
+			das lateinische Wort „sacramenta“ schon von Beginn an im Sinne des griechischen Wortes verwendet wurde.
+		</div>
+		<div ref="4">
+			[4] Im 3. Kapitel missbraucht Bullinger <persName ref="6040">Paulus</persName>’ Stelle, wo dieser schreibt, dass „alles [was die Hebräer am
+			Roten Meer, in der Wüste und mit dem Manna erlebten] Darstellungen (figurae) [der künftigen Ereignisse]
+			waren“.<fl>5</fl>
+		</div>
+		<div ref="5">
+			[5] Im 5. Kapitel betont Bullinger zu Recht, dass Gott nie versprochen hat, zusammen mit den Zeichen
+			leiblich (corporaliter) anwesend zu sein. <persName ref="540">Calvin</persName> hätte sich aber hier eine größere Deutlichkeit vonseiten
+			Bullingers gewünscht. Es ist klar, dass <persName ref="8129">Jakob</persName>, als er sah, wie der Herr auf der Leiter Platz nahm,<fl>6</fl>
+			nur eine verkörperte (corporalis) Darstellung des Herrn zu Gesicht bekam. Was aber Bullinger daraufhin über
+			symbolische Redeweisen (symbolicae locutiones) erörtert, hätte er an der dafür geeigneten Stelle ausführen
+			sollen, um es dort nicht nochmals wiederholen zu müssen. Zudem ist Bullingers Argumentation nicht zwingend.
+			Dieser behauptet, dass die Worte „Tut dies zu meinem Gedächtnis“<fl>7</fl> eine wirkliche Anwesenheit
+			(realis praesentia) der Dinge, deren zu gedenken ist, ausschließen. <persName ref="540">Calvin</persName> glaubt aber, dass diese
+			Anwesenheit wahr (vera) sei, zumal das, dessen man gedenkt, wahr ist. Im Abendmahl wird an etwas Anwesendes
+			erinnert, auch wenn die Erinnerung etwas Abwesendes voraussetzt. Da liegt kein Widerspruch vor. Für die
+			Augen wie für die Sinne sowie räumlich gesehen ist Christus abwesend, da sein Leib (corpus) im Himmel ist.
+			Beim Abendmahl aber wirkt er auf die weitentfernte Erde. Durch seinen Geist ist er für die Seele der Frommen
+			anwesend. Die Distanz hält ihn nicht davon ab, die Seinen zu ernähren (pascere), auch wenn aus der
+			Aufforderung des <persName ref="6040">Paulus</persName>, an Christi Tod zu denken, bis dieser wiederkommt,<fl>8</fl> klar wird, dass
+			Christus im Abendmahl nicht vom Himmel zu uns herabkommt. Nur durch den Glauben wird er anwesend. Diese
+			geistliche Verbindung (coniunctio) mit ihm schließt also nicht dessen Wiederkunft aus. Zudem spricht nichts
+			dagegen, dass er sich dem Gläubigen der Essenz nach (essentialiter) wahrlich darbietet (exhibere), auch wenn
+			er bis zur Auferstehung der Toten im Himmel bleibt. Den Himmel betreffend teilt <persName ref="540">Calvin</persName> grundsätzlich
+			Bullingers Haltung: Das Wort „Himmel“ bezeichnet einen Ort und nicht einen bloßen Zustand. Bullinger geht
+			aber zu hart mit denen um, die das anders sehen. Dass er am Schluss seines Kapitels behauptet, dass der Herr
+			gesagt habe, es nütze nicht, sein Fleisch (caro) „corporaliter“ zu essen (manducare),<fl>9</fl> werden ihm
+			nicht alle zugestehen, es sei denn, er meint mit „corporaliter“ auf körperliche Weise (corporali
+			modo).<fl>10</fl> Übrigens erfordert Bullingers Argumentation nicht eine solche Behauptung, denn viele, die
+			an einem wirklichen Essen (realis manducatio) festhalten, glauben noch längst nicht an ein fleischliches
+			(carnalis)!
+		</div>
+		<div ref="6">
+			[6] <persName ref="540">Calvin</persName> stimmt Bullinger nicht zu, wenn dieser im 6. Kapitel behauptet, dass das Wort „benedictio“ nie
+			im Sinne einer Konsekration (consecratio) benutzt wird. Dies widerlegt nämlich folgende Stelle des <persName ref="6040">Paulus</persName>:
+			„Der Kelch des Segens (calix benedictionis), den wir weihen (cui benedicimus) ...“<fl>11</fl>. Diese
+			Satzkonstruktion erlaubt nicht, [das Wort „benedicere“] als Danksagung (gratiarum actio) zu verstehen. Da
+			kann nur von einer Weihe der [im Abendmahl verwendeten] Symbole (symbola) die Rede sein; eine Weihe, die
+			Bullinger übrigens auch anerkennt. <persName ref="540">Calvin</persName> ist zudem der Meinung, dass Bullinger in diesem Kapitel seine
+			Argumentation mit zu vielen irrelevanten Ausführungen schwächt und seinen Lesern lästigfällt.
+		</div>
+		<div ref="7">
+			[7] Im 8. Kapitel definiert Bullinger auf nicht ganz befriedigende Weise die Beziehung (unio) zwischen dem
+			Zeichen und dem Bezeichneten (res signata). <persName ref="540">Calvin</persName> verwirft gemeinsam mit ihm jegliche krasse oder
+			abergläubische Auffassung. Doch hätte Bullinger mehr betonen sollen, wie wahrlich Gott das bewirkt, was er
+			darstellt<pb_edition start_of="358"/> (figurare). Bullinger erklärt die Beziehung zwischen dem Zeichen und
+			dem Dargestellten anhand einer Analogie (analogia), welche allerdings zu schwach ist, da die im Sakrament
+			hergestellte Beziehung das Zeichen vervollständigt (complementare), sodass Letzteres nicht leer (inanis)
+			ist, zumal der Herr durch seinen Geist in uns das bewirkt, was er im Zeichen schildert (repraesentare). Im
+			Abendmahl gibt es in der Tat, wie Bullinger schreibt, eine Analogie zwischen dem Brot und dem Leib Christi,
+			zwischen dessen Blut und dem Wein. Da aber die Beziehung [zwischen Brot und Leib, Wein und Blut] aus unserer
+			Verbindung mit Christus entsteht, wird unsere Seele wahrlich ernährt (pascare). Bullingers Erklärung ist
+			demzufolge zu dürftig (ieiuna), und dies ist gänzlich (wie <persName ref="540">Calvin</persName> unten erörtern wird) die Folge [von
+			Bullingers Weigerung<fl>12</fl>], das Verb „darbieten“ (exhibere) [im Zusammenhang mit den Sakramenten zu
+			gebrauchen]. Zudem stört es <persName ref="540">Calvin</persName>, dass die [in den Einsetzungsworten] vorhandenen Metonymien<fl>13</fl>
+			anhand von Beispielen aus dem profanen Leben erklärt werden.<fl>14</fl> Natürlich liegt hier eine gewisse
+			Ähnlichkeit vor. Doch sollte man dabei auch unterstreichen, dass die Metonymien im Abendmahl nicht von
+			gleicher Natur sind. Befindet sich etwa der Geist des Kaisers in dessen Abbildung, sodass diese belebt und
+			in uns wirksam wird? <persName ref="540">Calvin</persName> weiß genau, dass viele Menschen (darunter auch
+			<persName ref="2095">Philipp Melanchthon</persName>) sich über <persName ref="4091">Zwinglis</persName> Lehre gerade deshalb aufgeregt
+			haben, weil dieser es versäumt hat, bei den von ihm benutzten Vergleichen (comparatio) dies klarzustellen.
+			Deshalb sind viele der Ansicht, dass <persName ref="4091">Zwingli</persName> aus dem Abendmahl eine Theateraufführung (theatricum
+			spectaculum) macht!
+		</div>
+		<div ref="8">
+			[8] Im 10. Kapitel über die Gnade (gratia) sollte Bullinger zuerst festlegen, dass die von der Gnade
+			ausgehenden freien Gaben (dona gratuita) oft für das Wort „Gnade“ und umgekehrt das Wort „Gnade“ für die von
+			ihr erzeugten Gaben verwendet wird. Außerdem erweist sich Bullinger dem Wort „verleihen“ (conferre)
+			gegenüber als viel zu streng. Dadurch gibt er dem Gegner die Möglichkeit, ihn zu beschuldigen, seine
+			Aussagen (die nicht so extrem gemeint sind) zu verdrehen. Diejenigen aber, die sagen, dass das Sakrament die
+			Gnade verleiht, meinen doch dabei nicht [immer], dass es die Gerechtigkeit [Christi] oder Ähnliches
+			verleiht! Damit beteuern sie lediglich, dass im Sakrament der Mensch mit den Gnaden Gottes versorgt wird
+			(nobis administrare dei gratias), genauso wie wenn Fabius<fl>15</fl> erklärt, dass die Vögel mit ihrem
+			Schnabel ihre Küken füttern. Bullinger sollte sich also hier milder erweisen, um nicht gehässig zu
+			erscheinen. Übrigens, was ist denn so absurd im Satz „Die Sakramente sind Hilfsmittel (adiumenta), damit
+			Gottes Gnade erfasst (percipere) werden kann“? <persName ref="540">Calvin</persName> gibt zu (und dies wird Bullinger nicht entgangen
+			sein), dass das [von ihm verwendete] Verb „erfassen“ weniger stark als das Verb „verleihen“ ist. Wenn
+			Bullinger aber bedenkt, dass die Gabe des Geistes die Seele der Sakramente ist, wird er doch der Aussage
+			„Die Gnade wird mittels der Sakramente verliehen“ (sacramentis conferri gratiam) völlig zustimmen müssen.
+			Sollte ihm dennoch eine solche Aussage zu problematisch erscheinen, dann würde es doch genügen, wenn er sich
+			deren enthielte oder deren Bedeutung abschwächte. <persName ref="540">Calvin</persName> ist zudem der Ansicht, dass es keinen Grund gibt,
+			in diesem Kapitel so oft auf das Zitat des Bonaventura<fl>16</fl> zu verweisen.
+			Bullinger<pb_edition start_of="359"/> bedauert allerdings dabei, dass Bonaventura diejenigen, denen es an
+			Gottes Gnaden mangelte, auf die Sakramente verwies. Bestimmt überträgt (transferre) Gott nicht seine
+			Herrlichkeit (gloria) auf die Elemente [der Sakramente]. Wird aber wirklich Gottes Herrlichkeit auf das
+			Geschaffene übertragen, indem man betont, dass Gott das Geschaffene als Werkzeug (organum) benutzt, um damit
+			seine Gnaden auszuteilen (distribuere)? Erleuchtet denn die Sonne nicht die Erde? Und verpflegt (alare) denn
+			das Brot nicht? Bullinger betont so sehr, dass Gott den Menschen zu sich ruft und diesen nicht auf die
+			Sakramente verweist, weil er der Meinung ist, dass die Sakramente zu Hindernissen für [<persName ref="540">Calvin</persName> und die
+			Gleichgesinnten]<fl>17</fl> geworden sind und diese von Christus abhalten! Doch sind es die Papisten, die
+			aus den Sakramenten ein Hindernis machen und damit die Menschen von Christus abhalten!
+		</div>
+		<div ref="9">
+			[9] Bullinger beendet das 10. Kapitel, indem er hervorhebt, dass jeder, der an Christus glaubt, durch den
+			Glauben gerechtfertigt ist, ehe er an den Sakramenten teilgenommen hat. Laut ihm wird dadurch deutlich, dass
+			die Sakramente die Gnade Gottes nicht verleihen. <persName ref="540">Calvin</persName> sieht dies aber anders: Weil wir gerechtfertigt
+			wurden, wird uns die Gnade durch die Sakramente verliehen, da Letztere Glaubensübungen (fidei exercitia)
+			sind, die uns die geistlichen Gaben reichlich bescheren (cumulare), aus uns Teilhaber (participes) Christi
+			machen und unseren Glauben befördern (promovere). Bewirken sie dies etwa aus sich selbst? Keineswegs! Sie
+			bewirken dies nur, solange die Auserwählten den Glauben bewahren und Christi Geist in ihnen durch den
+			Glauben wirkt. Ohne Glauben sind die Sakramente leblos und unnütz.
+		</div>
+		<div ref="10">
+			[10] <persName ref="540">Calvin</persName> war sehr überrascht festzustellen, dass Bullinger in seinem 11. Kapitel nicht nur bestreitet,
+			dass etwas im Abendmahl dargeboten wird, sondern sich sogar sehr über den Gebrauch des Wortes „darbieten“
+			(exhibere) ärgert! Bullinger betont, dass die Thomisten es eingeführt hätten. Wie wird aber durch den
+			Gebrauch dieses Wortes Gottes Wahrheit preisgegeben? Wenn Christus mir das Brot und den Wein reicht,
+			verspricht er mir ja seinen Leib und sein Blut. Bullinger beteuert, dass der Gläubige dabei nur die Zeichen
+			und nicht gleichzeitig das Bezeichnete (res [signata]) erhält! Träfe dies zu, wäre das Abendmahl nur eine
+			Farce. Mit „darbieten“ ist nichts anderes gemeint als „zum Genuss darreichen“ (fruendum dare). Bullinger
+			leugnet aber, dass so etwas im Sakrament stattfindet, und zwar deshalb, weil nur Gott so etwas bewirken
+			kann. <persName ref="540">Calvin</persName> bezweifelt Letzteres nicht, da er ebenfalls in den Sakramenten nur ein Instrument in Gottes
+			Hand sieht und jegliche Wirksamkeit der Sakramente dem Geiste Gottes zuschreibt. Bullinger vertritt aber die
+			Ansicht, dass die Sakramente, weil sie aus sich selbst keine Gnade Gottes enthalten (continere in se),
+			nichts darbieten können! Diese Schlussfolgerung ist falsch! Auch wenn in gewisser Hinsicht die Sakramente
+			Gottes Gnade nicht beinhalten (includere),<fl>18</fl> ist <persName ref="540">Calvin</persName> der Meinung, dass sie Gottes Gnade doch
+			enthalten (continere), genauso, wie wenn man sagt, dass das Evangelium Christus enthält. Zudem sagen wir ja
+			auch, dass Christus uns durch das Evangelium dargeboten wird. Oder irrt vielleicht <persName ref="6040">Paulus</persName>, wenn er schreibt,
+			dass die Korinther zur Gemeinschaft (communio) mit Christus durch
+			das Evangelium gelangten?<fl>19</fl> Weil <persName ref="540">Calvin</persName> dies glaubt, ist er deshalb nicht blind geworden! Er sieht
+			sehr wohl, was zu unterscheiden ist! Bullinger wird für <persName ref="540">Calvins</persName> Auffassung Bibelstellen anfordern. Darauf
+			antwortet<pb_edition start_of="360"/> <persName ref="540">Calvin</persName>, dass Bullingers Auffassung nicht von der Schrift unterstützt
+			wird! <persName ref="6040">Paulus</persName> sagt nämlich, dass die Kirche durch das Wasserbad gereinigt wurde.<fl>20</fl> Bullinger wird
+			darauf erwidern, dass hier eine symbolische Redeweise (symbolica loquutio) vorliegt, und daraus
+			schlussfolgern, dass das Wasser ein Zeichen ist. <persName ref="540">Calvin</persName> stimmt dem zu. Doch damit ist Bullinger noch nicht
+			aus der Klemme. Das Symbol würde nämlich nichts bewirken [also nicht reinigen können], wenn es leer und
+			illusorisch wäre. Demzufolge ist es vielmehr die Garantie (pignus vel obsignatio) der Reinigung, die es
+			darstellt. Deshalb ist der Begriff „Darbietung“ (exhibitio) erforderlich. Ein weiteres Beispiel: „Dies ist
+			mein Leib, der für Euch preisgegeben wird“.<fl>21</fl> Bullinger und <persName ref="540">Calvin</persName> sind beide der Meinung, dass das
+			Brot ein Zeichen ist. Bullinger bestreitet aber, dass es etwas darbietet; <persName ref="540">Calvin</persName> nicht. Bullinger denkt, mit
+			dem Begriff „Zeichen“ die Schwierigkeit (nodum) erklärt zu haben. Doch trifft dies nicht zu, denn ein
+			göttliches, leeres Zeichen ist wertlos. Das Brot ist nicht nur da, um mich zu erinnern, dass der Leib
+			Christi für mich geopfert wurde. Das Brot wird mir auch als Nahrung (cibum) gegeben, um mich zu speisen
+			(vescari). Christus sagte nämlich: „Nehmt“ und „esst“. Dies darf man nicht vergessen! Deshalb spricht auch
+			<persName ref="6040">Paulus</persName> in diesem Zusammenhang von einer Gemeinschaft (<el state="verified">κοινωνία</el>)<fl>22</fl> .
+			<persName ref="540">Calvin</persName> weiß schon, dass auch dieses Wort missbraucht wurde. Doch will er sich hier nicht damit aufhalten. Es
+			genügt zu betonen, dass die Anwesenden bei einer echten Abendmahlsfeier Teilhaber an Christus werden, indem
+			ihnen das Dargestellte (res figurata) dargeboten wird.
+		</div>
+		<div ref="11">
+			[11] Nun zu den Stellen [in diesem Kapitel], in denen Bullinger sich weder über das Abendmahl noch über die
+			Taufe äußert. Bullinger bestreitet, dass, als Christus über die Apostel blies, der Heilige Geist sich in
+			seinem Atemzug befand, zumal der Geist nicht örtlich begrenzt werden kann. Niemand aber (nicht einmal die
+			Papisten) befürwortet eine solche Begrenzung. Dennoch ist <persName ref="540">Calvin</persName> der Meinung, dass es eine Verbindung (wenn
+			auch keine räumliche) zwischen dem Blasen und dem Geist gibt. Das Zeichen ist nicht leer. Die damit
+			verbundene Wahrheit liegt vor. Hier sei betont, dass es wichtig ist, zwischen menschlichen und göttlichen
+			Zeichen zu unterscheiden! Der Mensch kann mit Zeichen Dinge darstellen; Letztere bleiben aber aus. Nur Gott
+			kann durch seinen Geist etwas vollbringen (efficere), das er mit einem Symbol darstellt. Auf ähnliche Weise
+			ist die Taube dem Geist gleichzustellen.<fl>23</fl> Bullinger leugnet dies, doch auf derartige Weise, dass
+			er diese Übereinstimmung einzuräumen scheint! Er sagt nämlich, dass die Taube das Zeugnis der Anwesenheit
+			(testimonium praesentiae) des Geistes sei. <persName ref="540">Calvin</persName> verlangt nichts mehr! Natürlich ist die Taube der Substanz
+			nach (substantialiter) nicht der Geist. Es genügt also zu betonen, dass mit dem Symbol der Taube die
+			Anwesenheit des Heiligen Geistes erwiesen (exhibere) wird. Was Bullinger sonst noch darüber schreibt, hat
+			wenig mit der Sache zu tun. Bullinger behauptet auch, dass die [in der Apostelgeschichte
+			bezeugte]<fl>24</fl> Handauflegung [zur Vermittlung des Heiligen Geistes] eine Sondervorkehrung gewesen sei,
+			die es nur zu Beginn [der Verkündigung] des Evangeliums gab. <persName ref="540">Calvin</persName> könnte diese Argumentation gegen
+			Bullinger wenden. Sollte nämlich bei einem temporären Sakrament [der Heilige Geist] dargeboten worden sein,
+			wie viel mehr findet dann in einem immerwährenden Sakrament stets eine Darbietung statt! Natürlich weiß
+			<persName ref="540">Calvin</persName>, dass die Gabe des Geistes nicht von der Handauflegung abhängig war, dass das Zeichen wirkungslos
+			sein konnte, und dass Gott seine Gnade auch ohne das Zeichen erteilte.
+		</div>
+		<div ref="12">
+			[12] Es ist auch nicht sehr hilfreich, wenn Bullinger streitend hervorhebt, dass das Bezeichnete (res
+			[signata]) nicht synchron mit dem Zeichen ist. Man weiß nämlich, dass es bei der Taufe z.B. nicht
+			schlagartig, sondern nur allmählich zur Lebenserneuerung kommt, die durch dieses Zeichen dargeboten wird.
+			Wenn zudem Bullinger so sehr betont, dass allein Gott der Urheber all dessen ist, was den Sakramenten
+			zugeschrieben wird, kann man daraus folgern, dass er sagen würde: Da Gott die Erleuchtung schenkt und die
+			Weisheit erteilt, verleiht Gottes<pb_edition start_of="361"/> Gesetz [bzw. Wort] diese Gaben
+			nicht!<fl>25</fl> Bullinger scheidet die Zeichen aus (excludere), weil aus seiner Sicht der Mensch Teilhaber
+			an den himmlischen Gaben durch den Glauben wird. <persName ref="540">Calvin</persName> erwidert darauf: Wenn diese Gaben dem Menschen durch
+			den Glauben zuteilwerden, dann werden sie ihm ebenfalls durch die Sakramente zuteil, da der Glaube von
+			Gottes Wort und den Sakramenten kommt!<fl>26</fl> Wer bezweifelt übrigens, dass die Heiligen etliche Gaben
+			schon vor ihrer Teilnahme an den Sakramenten erhalten? Allerdings klingt es so, als würde Bullinger der
+			Meinung sein, dass die Heiligen schon dermaßen durch Gottes Gaben erfüllt sind, dass sie mit den Sakramenten
+			nichts Zusätzliches erhalten! So beteuert Bullinger, dass der [äthiopische Hofbeamte]<fl>27</fl> bereits vor
+			seiner Taufe mit ganzem Herzen geglaubt hat und demzufolge schon vor seiner Taufe von Gott [neu] erzeugt
+			wurde. Das stimmt. Wenn aber Bullinger daraus schließt, dass die Taufe dem Beamten nichts darbot, das er
+			nicht schon gehabt hätte, irrt er! Denn auch wenn dieser bereits von ganzem Herzen glaubte, mangelte es ihm
+			noch an vielem. Auch die Episode des [römischen Hauptmanns] <persName ref="18837">Cornelius</persName><fl>28</fl> hilft Bullinger nicht aus
+			der Klemme. Er sollte lieber darauf achten, dass die von ihm verwendeten Argumente seiner Lehre nicht
+			schaden! Es ist nicht haltbar, wenn Bullinger aus [<persName ref="6040">Paulus</persName>’] Aufforderung, seinen Glauben vor einer Teilnahme
+			am Abendmahl zu überprüfen,<fl>29</fl> schlussfolgert, dass Christus im Abendmahl nichts darbietet. Das
+			würde nur zutreffen, wenn der Beteiligte am Abendmahl schon den ganzen Christus in sich besäße. Das
+			Abendmahl dient also dazu, Christus vollständiger zu genießen. <persName ref="540">Calvin</persName> ist daher überrascht, dass Bullinger
+			eine Vervollständigung des Dargebotenen ausschließt! Das von Bullinger angeführte Beispiel <persName ref="18418">Abrahams</persName>, den
+			Gott rechtfertigte, ehe er beschnitten wurde,<fl>30</fl> ist nicht zutreffend. Denn wenn <persName ref="6040">Paulus</persName> in diesem
+			Zusammenhang schreibt, dass <persName ref="18418">Abrahams</persName> Rechtfertigung durch die Beschneidung besiegelt wurde,<fl>31</fl> gibt
+			er ja zu verstehen, dass es in <persName ref="18418">Abrahams</persName> Rechtfertigungserfahrung eine Progression gab. Das Zeichen erlaubte
+			<persName ref="18418">Abraham</persName>, noch mehr von der [ihm von Gott dargebotenen] Rechtfertigung zu genießen; dies natürlich nur, weil
+			er glaubte.
+		</div>
+		<div ref="13">
+			[13] [<persName ref="540">Calvin</persName> und die Gleichgesinnten] denken wie Bullinger, dass die Sakramente Instrumente (instrumenta)
+			sind. Bullinger bestreitet allerdings, dass Gott, als allein Darbietender, dennoch etwas durch die Zeichen
+			und durch seine Diener (ministri) darbietet. Deshalb glaubt sich Bullinger berechtigt, [<persName ref="540">Calvin</persName> und die
+			Gleichgesinnten] nicht nur zu ermahnen, sondern auch hart anzugreifen. Dabei macht er nicht nur <persName ref="540">Calvin</persName>
+			schlecht (der mit gutem Gewissen nicht anderes lehren könnte), sondern auch alle, die seine Auffassung
+			teilen! Er unterstellt ihnen, eine Tyrannei [in der Kirche errichten] zu wollen.<fl>32</fl> Indem Bullinger
+			sie auf die Schrift verweist, erweckt er überdies den Eindruck, dass sie falsch lehrten. Aus der Schrift
+			geht jedoch hervor, dass die Diener Gottes Menschen erneuern,<fl>33</fl> deren Herzen zu Gott
+			ziehen<fl>34</fl> und deren Sünden vergeben können.<fl>35</fl> Bullinger mag diese Texte hundertmal hin und
+			her deuten: Er wird nicht daran vorbeikommen, dass Gott, der Ursprung aller Dinge, durch seine Diener wie
+			durch Instrumente wirkt! Warum würde man sonst die Kirche Mutter aller Frommen nennen?<fl>36</fl>
+			Nicht<pb_edition start_of="362"/> etwa deshalb, weil Gott die Menschen durch den von der Kirche geleisteten
+			Dienst erneuert? Oder will Bullinger etwa <persName ref="6040">Paulus</persName> der Tyrannei bezichtigen, weil dieser bekanntgab, dass
+			durch seine Handauflegung dem <persName ref="19977">Timotheus</persName> eine Gnade verliehen wurde?<fl>37</fl> Was <persName ref="540">Calvin</persName> den
+			<placeName ref="41">Berner</placeName> Pfarrern vor kurzem sagte, will er hier wiederholen: Der
+			Geist macht zweierlei Aussagen über Gottes Diener. Er betont zum einen, dass sie aus sich selbst nichts
+			können. So liest man: „Darum zählt weder der, der pflanzt, noch ...“,<fl>38</fl> usw. In sich selbst sind
+			also Gottes Diener nichts. Zum anderen aber rechnet ihnen der Geist seine Wirksamkeit (efficacia) zu, sodass
+			ihnen dadurch großes Lob zuteil wird (was ihnen allerdings nicht zu Kopf steigen darf). So unterscheidet
+			<persName ref="6040">Paulus</persName> in 2Kor 3, [1f], nicht zwischen seinem Wirken und dem des Heiligen Geistes. Doch gleich darauf macht
+			er das zuvor angeführte Geständnis: „Darum zählt weder ...“. Bullinger schreibt: Gott benutzte (utari)
+			<persName ref="19981">Petrus</persName>, um <persName ref="18837">Cornelius</persName> zu bekehren. Also brauchte Gott (Dei opus fuisse) die Leistung des <persName ref="19981">Petrus</persName>. Was
+			Bullinger hier im Zusammenhang mit <persName ref="18837">Cornelius</persName>’ Bekehrung anerkennt, weitet <persName ref="540">Calvin</persName> aus. Warum sich eigentlich
+			noch zanken?
+		</div>
+		<div ref="14">
+			[14] [In summa:] Wenn man glaubt, dass Gott in den Sakramenten seine Gnade darbietet, ist man deshalb noch
+			kein Pharisäer, der auf seine Leistungen vertraut, zumal die Sakramente keine menschlichen Werke sind! Viel
+			zu oft zieht Bullinger derartige unlogische Schlüsse. So auch, wenn er behauptet, dass in den Sakramenten
+			die Gnade und der Glaube nicht dargeboten werden, weil Gott dies durch seinen Geist in unserem Herzen
+			bewirkt. Entspringen denn der Glaube (Röm 10, [14f]) und der Heilige Geist (Gal [3, 5]) nicht aus der
+			Predigt des Evangeliums? Und ist Gottes Wort, das zum Glauben führt, nicht in den Sakramenten eingemeißelt?
+			Demzufolge ist es doch nicht falsch, wenn man behauptet, dass Gott durch die Sakramente das bewirkt, was er
+			durch den Glauben und den Geist bewirkt, oder dass die Sakramente, genauso wie der Heilige Geist,<fl>39</fl>
+			Siegel unseres geistigen Vermächtnisses sind. Dies gilt auch in Hinsicht auf die Kirche [und ihre Diener].
+			Bullingers Fehler liegt darin, dass er das Untergeordnete [das Sakrament oder Gottes Diener] dem
+			Übergeordneten [dem Glauben bzw. dem Geist] entgegensetzt. Wenn einer bestreiten würde, dass der Mensch sich
+			durch die Arbeit seiner Hände ernährt, weil dieser im Grunde genommen durch Gottes Segen ernährt wird, würde
+			man ihm erwidern, dass die beiden Aussagen sich nicht ausschließen. Wichtig ist, dass Gottes Segen dem
+			Vorrang gegeben wird und die Arbeit der Hände als Mittel betrachtet wird. Jedes Mal also, wenn Bullinger den
+			Geist erwähnt, antwortet ihm <persName ref="540">Calvin</persName> im Einklang mit der Schrift, dass dies nicht ausschließt, dass die
+			Sakramente Instrumente des Geistes sind, die selbstverständlich nur wirksam sind, weil Letzterer sie belebt.
+			Am Schluss des Kapitels [11] argumentiert Bullinger, dass, wenn Christus sich tatsächlich dem Menschen im
+			Sakrament darbieten würde, es zwischen Christus und dem Menschen vor dessen Beteiligung am Sakrament zu
+			keiner Beziehung (communicatio) kommen könnte! Erneut muss <persName ref="540">Calvin</persName> sagen, dass diese Argumentation falsch
+			ist. Dazu kommt noch, dass Christus sich nicht schon beim ersten Mal dem Menschen völlig offenbart. Christi
+			Offenbarung im Menschen, in dem Christus bereits durch den Glauben lebt, entwickelt sich parallel zu dessen
+			Glauben. So stellen die Sakramente Treppen dar, dank denen der Glaube befördert wird. Bullinger will nicht
+			wahrhaben, dass Christus seinen Jüngern angeordnet hat, seinen Leib zu essen (edere), als er ihnen befahl,
+			vom Brot zu essen. Doch irrt er dabei, weil sonst das Essen im Abendmahl eine reine Komödie (histrionica
+			actio) wäre. Natürlich liegt hier eine Redewendung vor, jedoch eine solche, in der die darin enthaltene
+			innere Wahrheit keineswegs durch das sichtbare Zeichen vernichtet wird. In dieser Redewendung deutet das
+			äußere Zeichen vielmehr darauf hin, dass die Aussage Christi zutrifft; dass also die Seele von Christi
+			Fleisch (caro) gespeist wird (vescari) wie unser Leib durch das Brot.
+		</div>
+		<div ref="15">
+			[15] Dies sind die Korrekturen, die angebracht werden müssten, damit <persName ref="540">Calvin</persName> Bullingers Abhandlung völlig
+			zustimmen kann. Die lobenswerten Aspekte der Schrift hat er hier nicht angeführt, da Bullinger ihn gebeten
+			hatte, die Mängel mitzuteilen. Da er sich nun wie ein Freund dieser Aufgabe entledigt hat, hofft er, dass
+			Bullinger keinen Anstoß an seiner Offenheit und Aufrichtigkeit nehmen wird.
+		</div>
+		<div ref="16">
+			[16] In <placeName ref="41">Bern</placeName> traf er<pb_edition start_of="363"/> einen sehr
+			unerfreulichen Zustand an, auf den Bullinger nicht gefasst gewesen wäre (er aber schon). Er konnte also
+			Bullingers Rat nicht befolgen (er hätte es sonst getan, auch wenn ihm dieser Rat nicht gefiel, zumal er der
+			Meinung ist, dass derartige Wunden nicht durch Vertuschung - tegendo - ausheilen können). Bullinger wird
+			wissen wollen, was er also tat? Die Antwort lautet: Nichts! Er konnte sich nur die hitzigen Beschwerden
+			beider Parteien anhören. Dies ist der Friede, von dem Bullinger durch seine Freunde erfahren hat! Der Herr
+			erbarme sich dieser Kirche, die sehr zu bedauern ist, solange ihre Pfarrer sich derart zanken.
+		</div>
+		<div ref="17">
+			[17] Gruß. Beim Lesen vorliegenden Briefes soll Bullinger sich stets an
+			<persName ref="18700">Augustins</persName> Aussage erinnern, der bemerkt hat, dass die Sakramente von
+			Menschen ausgeführt werden, allerdings Göttliches ausrichten, auch wenn sich auf Erden Menschliches [wie
+			Essen und Trinken] abspielt.<fl>40</fl> <persName ref="540">Calvin</persName> und seine Kollegen grüßen ebenfalls Bullingers Amtsbrüder,
+			besonders <persName ref="8127">Konrad Pellikan</persName>, <persName ref="8171">Theodor Bibliander</persName>, <persName ref="8011">Rudolf Gwalther</persName> und
+			<persName ref="7092">Johannes [Wolf]</persName><fl>41</fl>. Der Herr leite die Zürcher und segne ihre Arbeit!
+		</div>
+	</regest>
+	<letter lang="la" edition="TUSTEP" vol="19" fk_bibliography="45" nr="2825" page="356">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratia tibi et pax a deo patre nostro et domino Iesu Christo, frater in domino plurimum colende.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Librum tuum simul atque domum sum reversus legi.</s>
+				<s n="3" lang="la" state="auto">Silentium quod a me stipulatus es bona fide praestabo usque ad extremum.</s>
+				<s n="4" lang="la" state="auto">Ne dubita.</s>
+				<s n="5" lang="la" state="auto">Iudicium quod hic subiiciam cupio tibi probatum iri.</s>
+				<s n="6" lang="la" state="auto">Cuperem enim mirum in modum aliquando penitus inter nos convenire.</s>
+				<s n="7" lang="la" state="auto">Sin minus, rogo ut meam libertatem boni consulas, si hoc facerem iniussu tuo.</s>
+				<s n="8" lang="la" state="auto">Quia tamen non dubito quin persuasum habeas me tibi amicum esse, tuae humanitatis foret, in bonam partem accipere quod a sincero animo profectum scires.</s>
+				<s n="9" lang="la" state="auto">Nunc vero, quum huc non alio quam tibi obsequendi studio adductus fuerim, confido meum officium tibi potius gratum fore quam ut offensionis sit causa.</s>
+				<s n="10" lang="la" state="auto">Breviter autem singula capita perstrinxi, quia supervacuum esse ducebam longis rationibus tecum agere.</s>
+				<s n="11" lang="la" state="auto">Quare nolim existimes, me praecise, tanquam censorio stylo, tecum agere, sed potius familiaritati tribuas, quod digito contentus [sum] tibi indicare quid desiderem.</s>
+				<s n="12" lang="la" state="auto">Non disputo tecum longius, sed tantum moneo ut pro tua prudentia rem ipse tuo iudicio expendas.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="13" lang="la" state="auto">1. In primo capite vitium hoc animadverti quod divisiones signorum, varias quidem illas sed tamen rite consentientes, quasi inter se contrarias opponis.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="14" lang="la" state="auto">2. Capite secundo non placet quod verbum sacramenti facis militare.</s>
+				<s n="15" lang="la" state="auto">Fateor certe baptismum et sacram coenam aliquid habere quod sacramentis militaribus respondeat.</s>
+				<s n="16" lang="la" state="auto">Sed tu etymologiam quaeris quam autores primi huius vocabuli respexerint.</s>
+				<s n="17" lang="la" state="auto">Ego autem video, statim ab ecclesiae primordio Latinos sacramenta nuncupasse quae Graecis essent <el state="verified">μυστήρια</el>.</s>
+				<s n="18" lang="la" state="manual">Nam et vetus interpres in hac significatione saepius usus est, tam in veteri quam in novo testamento.</s>
+				<s n="19" lang="la" state="auto">Et aliis scriptoribus vix alia vox est magis usitata.</s>
+				<s n="20" lang="la" state="auto">Proinde extra controversiam pono sacramenta olim dicta fuisse quasi mysteria.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="21" lang="la" state="auto">3. Capite tertio locum Pauli: Omnia illis contigerunt in figuris [1Kor 10, 6. 11], alio transfers quam ferat mens apostoli.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="22" lang="la" state="auto">4. Capite quinto verum est aliquo sensu quod dicis, nusquam deum promittere se corporaliter affuturum cum signis.</s>
+				<s n="23" lang="la" state="auto">Optarim tamen dici paulo clarius.</s>
+				<s n="24" lang="la" state="auto">Nam certe dominus, quum scalae insideret, exhibuit se videndum patri nostro Iacob sub figura corporali.</s>
+				<s n="25" lang="la" state="auto">Et eius generis exempla passim exstant.</s>
+			</p>
+			<p>
+				<s n="26" lang="la" state="auto">Quod extemplo addis de symbolicis loquutionibus, mallem in suum locum differri: ne bis in idem.</s>
+			</p>
+			<p>
+				<s n="27" lang="la" state="auto">Argumentum quo illic uteris nullum apud me pondus habet.</s>
+				<s n="28" lang="la" state="auto">Negas haec domini verba: Facite in mei memoriam [Lk 22, 19; 1Kor 24f], permittere ut realem eorum praesentiam statuamus quorum meminisse debemus.</s>
+				<s n="29" lang="la" state="auto">Eadem accipio pro vera.</s>
+				<s n="30" lang="la" state="auto">Quid enim aliud res quam veritas?</s>
+				<s n="31" lang="la" state="auto">Dico memoriam rei praesentis in coena esse.</s>
+				<s n="32" lang="la" state="auto">Atqui memoria est rerum absentium.</s>
+				<s n="33" lang="la" state="auto">Neque id pugnat.</s>
+				<s n="34" lang="la" state="auto">Abest enim Christus a coena quoad oculos, quoad omnes corporis sensus, quoad locum.</s>
+				<s n="35" lang="la" state="auto">Nam in coelo est eius corpus.</s>
+				<s n="36" lang="la" state="auto">Coena peragitur in terris.</s>
+				<s n="37" lang="la" state="auto">Longa distantia.</s>
+				<s n="38" lang="la" state="auto">Sed adest piis animis per spiritus sui virtutem, quia non impedit Christi distantia, quominus suos mirabiliter pascat.</s>
+				<s n="39" lang="la" state="auto">Eiusdem est rationis locus ille Pauli: Celebrate mortem donec veniat [1Kor 11, 26].</s>
+				<s n="40" lang="la" state="auto">Neque enim descendit ad nos Christus e coelo, neque oculis cernitur, sed fide tantum nobis adest.</s>
+				<s n="41" lang="la" state="auto">Itaque non pugnat spiritualis eius coniunctio nobiscum et extremus adventus.</s>
+				<s n="42" lang="la" state="auto">Nec quidquam obstat quominus essentialiter, hoc est, ipsemet revera Christus exhibeatur nobis, et tamen venturus exspectetur usque ad diem resurrectionis, quia in coelo manet.</s>
+			</p>
+			<p>
+				<s n="43" lang="la" state="auto">Aliquanto post, ubi reprehendis eos qui coeli nomine non locum sed conditionem intelligunt, tametsi in re ipsa tibi assentior, velim tamen cum illis mitius agi.</s>
+			</p>
+			<p>
+				<s n="44" lang="la" state="auto">Circa finem capitis hoc tibi non concedent omnes, quod dominus dixerit carnem suam corporaliter manducatam non prodesse, nisi corporaliter exponas: corporali modo.</s>
+				<s n="45" lang="la" state="auto">Sed hoc tibi in causa quam tractas nihil suffragatur.</s>
+				<s n="46" lang="la" state="auto">Neque enim carnalem manducationem asserunt multi qui tamen realem asserunt.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="47" lang="la" state="auto">Capite sexto, quod verbum benedictionis pro consecratione usquam accipi negas, in eo abs te dissentio.</s>
+				<s n="48" lang="la" state="auto">Nam quum scribit Paulus: Calix benedictionis cui benedicimus [1Kor 10, 16], haec syntaxis gratiarum actioni non congruit.</s>
+				<s n="49" lang="la" state="auto">Et certe sanctificantur symbola quum destinantur in proprium usum secundum Christi institutionem.</s>
+				<s n="50" lang="la" state="auto">Quod tu quoque fateris.</s>
+			</p>
+			<p>
+				<s n="51" lang="la" state="auto">Eodem capite nimis, meo iudicio, vim externi verbi elevas.</s>
+				<s n="52" lang="la" state="auto">Quanquam argumentum quod explicas non improbo.</s>
+				<s n="53" lang="la" state="auto">Tantum in extenuatione mihi videris nimius.</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="54" lang="la" state="auto">Capite octavo mihi non penitus satisfacit definitio unionis, quam ponis, signi cum re signata.</s>
+				<s n="55" lang="la" state="auto">In exceptionibus, quae crassas opiniones et quidquid est superstitionis excludant, libenter tibi subscribam.</s>
+				<s n="56" lang="la" state="auto">Verum simul plenius demonstari cupiam, qualiter verax sit deus praestando quod figurat.</s>
+				<s n="57" lang="la" state="auto">Id quum intendis facere analogiam proponis unionis loco.</s>
+				<s n="58" lang="la" state="auto">Atqui longe plus est.</s>
+				<s n="59" lang="la" state="auto">Nempe veritas et complementum analogiae.</s>
+				<s n="60" lang="la" state="auto">Quemadmodum in baptismo analogia est purgationis inter Christi sanguinem et aquam, mortificationis rursum et novitatis vitae inter mortem ac resurrectionem Christi et extemporalem submersionem.</s>
+				<s n="61" lang="la" state="auto">Unio est rei figuratae complementum: Quo fit ne signum sit inane, quia dominus quod signo repraesentat simul efficit, impletque in nobis spiritus sui virtute.</s>
+			</p>
+		</div>
+		<div ref_regest="8">
+			<p>
+				<s n="62" lang="la" state="auto">In coena analogia est quam describis inter panem ac corpus Christi, inter sanguinem et vinum.</s>
+				<s n="63" lang="la" state="auto">Unio est spiritualis nostra cum Christo coniunctio, qua fit ut vere ipso animae nostrae pascantur.</s>
+				<s n="64" lang="la" state="auto">Haec ratio est cur tua definitio mihi nimis sit ieiuna.</s>
+				<s n="65" lang="la" state="auto">Verum hoc totum ab exhibitione pendet, de qua mox videbimus.</s>
+			</p>
+		</div>
+		<div ref_regest="9">
+			<p>
+				<s n="66" lang="la" state="auto">In eodem capite nonnihil me offendit quod <el state="verified">μετωνυμίαν</el> quae in sacramentis est simpliciter comparas profanis imaginibus.</s>
+				<s n="67" lang="la" state="auto">Neque vero nego quin aliqua sit similitudo.</s>
+				<s n="68" lang="la" state="auto">Verum simul addenda erat diversitas et gradus notandi.</s>
+				<s n="69" lang="la" state="auto">Ubi enim spiritus in imagine caesaris, qui ipsam quodammodo vivificet, quo efficax sit in cordibus nostris?</s>
+				<s n="70" lang="la" state="auto">Scio multos bonos viros abhorruisse a Zwinglii doctrina, quod toties occurreret ista comparatio absque correctione.</s>
+				<s n="71" lang="la" state="auto">Inde enim colligebant fieri ex coena theatricum spectaculum.</s>
+				<s n="72" lang="la" state="auto">Atque in his etiam est <persName ref="2095" state="auto_name">Philippus</persName><fl>42</fl>.</s>
+			</p>
+		</div>
+		<div ref_regest="10">
+			<p>
+				<s n="73" lang="la" state="auto">Capite decimo, ubi de gratiae nomine disputas, addenda esset metonymica significatio, quod ad dona gratuita transfertur, quia effectus sunt gratiae.</s>
+			</p>
+			<p>
+				<s n="74" lang="la" state="auto">Paulo post non placet etiam quod tam rigidus es in exponendo verbo conferendi.</s>
+				<s n="75" lang="la" state="auto">Scis cavendum semper esse, ne merito queratur adversarius per calumniam detortum, quod saniore aut magis tolerabili sensu dixerat.</s>
+				<s n="76" lang="la" state="auto">Porro qui docent, sacramenta conferre gratiam, non hoc sane intelligunt, dare iustitiam aut aliquid simile, sed nobis administrare dei gratias.</s>
+				<s n="77" lang="la" state="auto">Atque hoc sensu accipitur a Fabio quum dicit: Aves ore suo conferre cibum pullis.</s>
+				<s n="78" lang="la" state="auto">Locum ergo mitigari vellem, ne reprehendendi ardore arripuisse videaris quod erat minus odiosum.</s>
+				<s n="79" lang="la" state="auto">Imo quid est in hac sententia absurdi, sacramenta nobis adiumenta esse ad percipiendam dei gratiam?</s>
+				<s n="80" lang="la" state="auto">Excipies, hoc esse minus quam conferre.</s>
+				<s n="81" lang="la" state="auto">Concedo.</s>
+				<s n="82" lang="la" state="auto">Sed gratiam spiritus adiunges, qui est anima sacramentorum: Tunc prorsus illud verum erit, sacramentis conferri gratiam.</s>
+				<s n="83" lang="la" state="auto">At loquutio est durior.</s>
+				<s n="84" lang="la" state="auto">Ergo aut satis sit ab ea abstinere, aut sana interpretatione molliatur.</s>
+			</p>
+			<p>
+				<s n="85" lang="la" state="auto">Capite eodem causam non reperio ut locum Bonaventurae tantopere exagites.</s>
+				<s n="86" lang="la" state="auto">Carentes, inquis, dei gratia inconsulte remittit ad sacramenta.</s>
+				<s n="87" lang="la" state="auto">Qui sic?</s>
+				<s n="88" lang="la" state="auto">Quum haec nobis adminicula ordinaverit deus, quibus ad ipsum dirigamur?</s>
+				<s n="89" lang="la" state="auto">At deus gloriam suam non transfert ad elementa.</s>
+				<s n="90" lang="la" state="auto">Fateor.</s>
+				<s n="91" lang="la" state="auto">Sed hoccine est transferri dei gloriam ad creaturas, quum tanquam organis utitur ad distribuendam suam gratiam?</s>
+				<s n="92" lang="la" state="auto">Ergo sol ne illuminet terram, ergo ne panis alat.</s>
+				<s n="93" lang="la" state="auto">Rursum excipis: Deus ad se vocat non ablegat nos ad sacramenta.</s>
+				<s n="94" lang="la" state="auto">Quasi vero sacramenta nos retineant in se ipsis, ac non potius ad Christum manu ducant.</s>
+				<s n="95" lang="la" state="auto">In hoc sacrilegi sunt papistae, quia ex sacramentis impendimenta faciunt ne recta ad Christum veniant piae an animae, ut ex unico illo fonte hauriant quidquid est boni.</s>
+			</p>
+			<p>
+				<s n="96" lang="la" state="auto">In fine capitis ita concludis demum: Quisquis in Christum credit, iustificatus est fide sua priusquam sacramentis communicet: Ergo constat non conferri gratiam per sacramenta.</s>
+				<s n="97" lang="la" state="auto">Apud me autem valet contrarium argumentum: Quia fide iustificamur, ideo per sacramenta conferri nobis gratiam, quia fidei exercitia sunt, quae eatenus cumulant nos donis spiritualibus, adeoque participes Christi faciunt, quatenus fidem nostram promovent.</s>
+				<s n="98" lang="la" state="auto">Ex sene, inquies, aut per se?</s>
+				<s n="99" lang="la" state="auto">Nequaquam.</s>
+				<s n="100" lang="la" state="auto">Sed quatenus serviunt fidei, et per ea spiritus Christi efficaciter agit in electis, sine quo mortua est res ac inutilis sacramentum.</s>
+			</p>
+		</div>
+		<div ref_regest="11">
+			<p>
+				<s n="101" lang="la" state="auto">In capite undecimo valde miratus sum rerum exhibitionem non modo negari abs te, sed acriter etiam vexari.</s>
+				<s n="102" lang="la" state="auto">Vocem ipsam Thomistis fers acceptam.</s>
+				<s n="103" lang="la" state="auto">Sed ubi, quaeso, erit dei veritas sublata exhibitione?</s>
+				<s n="104" lang="la" state="auto">Christus panem et vinum porrigendo corpus et sanguinem suum mihi promittit.</s>
+				<s n="105" lang="la" state="auto">Signum accipio.</s>
+				<s n="106" lang="la" state="auto">Rem mihi simul dari negas.</s>
+				<s n="107" lang="la" state="auto">Nonne id lusorium est?</s>
+				<s n="108" lang="la" state="auto">Nam exhibere in hoc loco nihil aliud mihi est quam fruendum dare.</s>
+				<s n="109" lang="la" state="auto">Id in sacramentum negabis competere quia proprium dei est.</s>
+				<s n="110" lang="la" state="auto">De eo minime pugnabo tecum, quia nihil plus tribuo sacramento, quam ut sit dei organum, et quidem nullius efficaciae, nisi quam a spiritu dei mutuatur.</s>
+				<s n="111" lang="la" state="auto">Sed dicis: Non continent in se dei gratiam sacramenta, ergo non exhibent.</s>
+				<s n="112" lang="la" state="auto">Non valet haec consequentia.</s>
+				<s n="113" lang="la" state="auto">Quanquam tibi non concedo sacramentis non contineri dei gratiam quoad dispensationem, quum ita loquor non significo inclusam esse, sed quemadmodum dicere solemus, Christum in evangelio contineri.</s>
+				<s n="114" lang="la" state="auto">Nam certe Christus per evangelium nobis exihibetur, aut falsum erit illud Pauli: Venisse Corinthios in eius communionem per evangelium.</s>
+				<s n="115" lang="la" state="auto">Hoc modo nulla oculis meis caligo offusa est, quominus perspicue distinguam quae confundi non debent.</s>
+			</p>
+		</div>
+		<div ref_regest="12">
+			<p>
+				<s n="116" lang="la" state="auto">Desideras tamen scripturae locos quibus id probetur.</s>
+				<s n="117" lang="la" state="auto">Respondeo, si tuas admittimus solutiones, nihil ex scripturis probatum iri.</s>
+				<s n="118" lang="la" state="auto">Nam dum Paulus mundari ecclesiam dicit lavacro aquae in verbo vitae, allegas symbolicam esse loquutionem.</s>
+				<s n="119" lang="la" state="auto">Inde colligis, aquam igitur esse signum.</s>
+				<s n="120" lang="la" state="auto">Utrumque libenter tibi concedo, utrumque etiam tecum profiteor.</s>
+				<s n="121" lang="la" state="auto">Sed nondum es expeditus quemadmodum putas.</s>
+				<s n="122" lang="la" state="auto">Inane enim erit et fallax symbolum, nisi purgationis quam figurat verum sit pignus, vera obsignatio, quorum utrumque exhibitionem requirit.</s>
+			</p>
+		</div>
+		<div ref_regest="13">
+			<p>
+				<s n="123" lang="la" state="auto">Similis est aliorum ratio.</s>
+				<s n="124" lang="la" state="auto">Proinde sim brevior, aliis exemplis praeteritis unum illud sumam: Hoc est corpus meum quod pro vobis traditur.</s>
+				<s n="125" lang="la" state="auto">Panem esse signum contendis.</s>
+				<s n="126" lang="la" state="auto">Idem sentimus.</s>
+				<s n="127" lang="la" state="auto">Exhibitionem negas.</s>
+				<s n="128" lang="la" state="auto">Ego contra assero.</s>
+				<s n="129" lang="la" state="auto">In figura nodum putas explicari.</s>
+				<s n="130" lang="la" state="auto">Non admitto.</s>
+				<s n="131" lang="la" state="auto">Signum enim a deo vacuum non proficiscitur.</s>
+				<s n="132" lang="la" state="auto">Neque vero tantum panis figurat Christi corpus fuisse semel pro me immolatum, sed mihi hodie in cibum dari quo vescar.</s>
+				<s n="133" lang="la" state="auto">Religiose enim expendi debent haec verba: Accipite, edite.</s>
+				<s n="134" lang="la" state="auto">Unde etiam Paulus vocat <el state="verified">κοινωνίαν</el>.</s>
+				<s n="135" lang="la" state="manual">Nec me latet ut torqueatur etiam hoc verbum.</s>
+				<s n="136" lang="la" state="auto">Sed argutias nihil moror.</s>
+				<s n="137" lang="la" state="auto">Vera certe repraesentatio coenae non erit, nisi participes Christi fiamus, in quo exhibitio est rei figuratae.</s>
+			</p>
+		</div>
+		<div ref_regest="14">
+			<p>
+				<s n="138" lang="la" state="auto">Venio ad alios locos qui non sunt de baptismo nec coena.</s>
+				<s n="139" lang="la" state="auto">Spiritum sanctum negas fuisse cum flatu, quum in apostolos sufflavit Christus.</s>
+				<s n="140" lang="la" state="auto">Cur ita?</s>
+				<s n="141" lang="la" state="auto">Quia non circumscribitur, inquis.</s>
+				<s n="142" lang="la" state="auto">At circumscriptionem ne papistae quidem asserunt.</s>
+				<s n="143" lang="la" state="auto">Et tamen eorum argutias reiicio ac damno.</s>
+				<s n="144" lang="la" state="auto">Ego, qui spiritum coniungo cum flatu, non imaginor coniunctionem loci, sed tantum qua constet signo sua veritas.</s>
+				<s n="145" lang="la" state="auto">Hoc est, ne putemus inanem fuisse ac nihili gestum, sed quo Christus repraesentabat ob oculos, quod intus agebat arcana virtute.</s>
+				<s n="146" lang="la" state="auto">Atque hoc statuo discrimen inter signa divinitus et humanitus instituta.</s>
+				<s n="147" lang="la" state="auto">Homo enim multa signa comminisci poterit quae decenter aliquid figurent, sed sine re.</s>
+				<s n="148" lang="la" state="auto">Solus est deus qui efficit spiritu suo quod symbolo figurat.</s>
+				<s n="149" lang="la" state="auto">Similiter columba erat spiritus.</s>
+				<s n="150" lang="la" state="auto">Quod tu ita negas ut videaris mihi fateri.</s>
+				<s n="151" lang="la" state="auto">Dicis enim testimonium esse praesentiae.</s>
+				<s n="152" lang="la" state="auto">Et quid ultra postulo?</s>
+				<s n="153" lang="la" state="auto">Nam quod diserte caves ne quis putet substantialiter columbam fuisse spiritum, in eo me adstipulatorem habes.</s>
+				<s n="154" lang="la" state="auto">Mihi satis est quod spiritus sanctus praesentiae suae symbolum in columba exhibendo se praesentem exhibuit.</s>
+				<s n="155" lang="la" state="auto">Alterum enim sine altero esse nequit.</s>
+				<s n="156" lang="la" state="auto">Alia quae addis parum ad rem faciunt.</s>
+			</p>
+		</div>
+		<div ref_regest="15">
+			<p>
+				<s n="157" lang="la" state="auto">De impositione manuum friget illa responsio, privilegium quoddam fuisse singulare in gloriam exorientis evangelii.</s>
+				<s n="158" lang="la" state="auto">Quin etiam hoc antistrophon in te retorqueo.</s>
+				<s n="159" lang="la" state="auto">Si in sacramentis temporalibus fuit rei exhibitio, quo tempore legitimus usus adhuc durabat, in signis ergo perpetuis esse perpetuam rei exhibitionem.</s>
+				<s n="160" lang="la" state="auto">Quod alligatum fuisse spiritum manuum impositioni negas, tibi omnes concedent, quibuscum habes hoc capite certamen.</s>
+				<s n="161" lang="la" state="auto">Nam et signum potuit interdum esse sine re.</s>
+				<s n="162" lang="la" state="auto">Et deo liberum fuit gratiam quibus vellet non intercedente signo impertiri.</s>
+			</p>
+		</div>
+		<div ref_regest="16">
+			<p>
+				<s n="163" lang="la" state="auto">Quod de tempore moves controversiam, quia non eodem semper momento res cum signo appareat, infirmum est.</s>
+				<s n="164" lang="la" state="auto">Nam exhibitionem tibi esse concedo quae diverso fiat tempore.</s>
+				<s n="165" lang="la" state="auto">Ut renovatio vitae, quam deus exhibet in baptismo, non sistitur illic ad manum, quasi sub aqua sit inclusa, sed gradatim proficiscitur a deo.</s>
+			</p>
+			<p>
+				<s n="166" lang="la" state="auto">Quod allegas, solum deum esse autorem omnium quae adscribimus sacramentis, perinde valet ac si diceres: Solus deus illuminat, solus deus dat sapientiam, ergo lex dei nihil horum confert.</s>
+				<s n="167" lang="la" state="auto">Quid enim deo abrogamus aut derogamus quum ipsum tradimus agere per sua instrumenta, et quidem solum?</s>
+				<s n="168" lang="la" state="auto">Adde quod non est validius argumentum quo te convincam, quam illud ipsum quo effugere conaris.</s>
+				<s n="169" lang="la" state="auto">Signa enim excludis, quia per fidem coelestium donorum fiamus participes, ego autem e converso: Si per fidem, igitur etiam per sacramenta.</s>
+				<s n="170" lang="la" state="auto">Fides enim ex verbo et sacramentis.</s>
+				<s n="171" lang="la" state="auto">Qua de re iterum dicturus sum.</s>
+			</p>
+			<p>
+				<s n="172" lang="la" state="auto">Sed adducis, sanctos plerumque rerum ante fuisse compotes quam sacramentis participarent.</s>
+				<s n="173" lang="la" state="auto">Quis negat?</s>
+				<s n="174" lang="la" state="auto">Sed interea dicesne ita plenos fuisse ut nihil ex sacramentis accederet?</s>
+				<s n="175" lang="la" state="auto">Eunuchus, inquis, credebat toto corde, ergo ex deo natus erat, deum habebat in se manentem, vivebat in deo, transierat a morte in vitam.</s>
+				<s n="176" lang="la" state="auto">Hactenus tibi assentior.</s>
+				<s n="177" lang="la" state="auto">Sed quum infers, baptismum non exhibuisse illi, quod prius habebat, in eo falleris, quod illi tribuis harum rerum plenitudinem, quas dico uberius ab ipso perceptas adminiculo baptismi.</s>
+				<s n="178" lang="la" state="auto">Nam ita certe credebat ex toto corde ut fidei eius multum adhuc deesset.</s>
+				<s n="179" lang="la" state="auto">Sincera enim fides esse potest quae tamen erit duntaxat inchoata.</s>
+				<s n="180" lang="la" state="auto">Nihilo plus te iuvat Cornelii exemplum.</s>
+				<s n="181" lang="la" state="auto">Vides me non tergiversari in istis solutionibus.</s>
+				<s n="182" lang="la" state="auto">Quare vide ne argumentis nitaris quae doctrinam quam impugnas nihil laedant.</s>
+			</p>
+			<p>
+				<s n="183" lang="la" state="auto">Nihilo etiam solidius est quod de coena ratiocinaris: Vetamur accedere ad coenam, nisi prius habito examine.</s>
+				<s n="184" lang="la" state="auto">Qui se probat fidem habet.</s>
+				<s n="185" lang="la" state="auto">Ergo antequam accedat quis ad coenam, insitus est Christo.</s>
+				<s n="186" lang="la" state="auto">Quare non exhibetur Christus in coena.</s>
+				<s n="187" lang="la" state="auto">Hoc quidem verum esset, si totum Christum possideret qui ad coenam se comparat.</s>
+				<s n="188" lang="la" state="auto">Sed quorsum usus coenae est, nisi ut Christo plenius fruamur? ut crescat in nobis? ut uberius hauriamus ex eius spiritu?</s>
+			</p>
+			<p>
+				<s n="189" lang="la" state="auto">Sed hoc quoque ipsum, quod vehementius miror, repudias, plenius exhiberi quod ex parte fuerat datum.</s>
+				<s n="190" lang="la" state="auto">Nec tibi quidquam in eo patrocinatur apostolus quum docet, iustificatum fuisse Abraham in praeputio, ita ut circumcisio nihil addiderit ad illius iustitiam.</s>
+				<s n="191" lang="la" state="auto">Opus certe circumcisionis nihil addidit, sed eliciam ex Pauli verbis, Abrahamo tanto plenius exhibitam fuisse dei gratiam, quanto maiores in fides progressus fecit.</s>
+				<s n="192" lang="la" state="auto">Subiicit enim, circumcisionem vice sigilli fuisse.</s>
+				<s n="193" lang="la" state="auto">Quorsum? ad obsignandam scilicet iustitiam fidei.</s>
+				<s n="194" lang="la" state="auto">Si obsignat circumcisio Abrahae suam iustitiam, fidem ergo illi auget ac confirmat.</s>
+				<s n="195" lang="la" state="auto">Unde colligo etiam facere ut plenius sua iustitia fruatur.</s>
+				<s n="196" lang="la" state="auto">Nempe pro fidei suae modo.</s>
+				<s n="197" lang="la" state="auto">Neque tamen ideo fingimus, per signa plenius iustificari hominem.</s>
+				<s n="198" lang="la" state="auto">Nam de causa iustificationis hic non disputatur, sed de exhibitione quae fit piis conscientiis.</s>
+				<s n="199" lang="la" state="auto">Eam verbo et sacramentis fieri contendimus.</s>
+				<s n="200" lang="la" state="auto">Tu nihil affers quod repugnet.</s>
+			</p>
+			<p>
+				<s n="201" lang="la" state="auto">Neque vero aliud sentimus quam sacramenta esse instrumenta, quod te non fugit.</s>
+				<s n="202" lang="la" state="auto">Nam id nominatim impugnas quod solum deum dicimus proprie exhibere, sed per signa et per suos ministros.</s>
+				<s n="203" lang="la" state="auto">Ac ne simplici quidem reprehensione contentus aliquanto acerbius in nos inveheris quam tuae modestiae congruebat.</s>
+				<s n="204" lang="la" state="auto">Forte in mentem tibi non venit, sinistris istis suspicionibus, quarum invidia doctrinam nostram gravas, me perstringere.</s>
+				<s n="205" lang="la" state="auto">Sed quid tum?</s>
+				<s n="206" lang="la" state="auto">Huc tamen spectat tua oratio idque sibi vult, ut quicunque docuerit quod me conscientia docere cogit notam huius infamiae subeat, quasi tyrannidem affectet in animas.</s>
+			</p>
+			<p>
+				<s n="207" lang="la" state="auto">Quum ad scripturam nos revocas, hoc, meo iudicio, proficis ut perspiciant omnes, scripturis esse traditum quod vis a nobis falso et periculose asseri.</s>
+				<s n="208" lang="la" state="auto">Ministros scriptura testatur regenerare homines, corda ad deum convertere, remittere peccata.</s>
+				<s n="209" lang="la" state="auto">Ut centies revolvas tales locos, nulla tamen invenietur magis dextra aut commoda interpretatio: Deum, cuius hoc totum proprium est, agere per suos ministros tanquam per organa.</s>
+				<s n="210" lang="la" state="auto">Cur enim ecclesia mater omnium piorum nuncupatur, nisi quia eius ministerio deus nos regenerat?</s>
+				<s n="211" lang="la" state="auto">Cur minister patrem se ecclesiae cui praeest vocare audet, nisi quia eius opera utitur deus?</s>
+				<s n="212" lang="la" state="auto">An suspectus affectatae tyrannidis erit nobis Paulus quia predicat, Timotheo collatam fuisse gratiam per impositionem manuum suarum?</s>
+				<s n="213" lang="la" state="auto">Hic certe non transfert ad se Paulus quod deo eripuerit.</s>
+				<s n="214" lang="la" state="auto">Nam deum facit doni autorem, se duntaxat ministrum.</s>
+			</p>
+			<p>
+				<s n="215" lang="la" state="auto">Quod nuper dicebam ministris Bernensis ecclesiae nunc apud te repeto, spiritum bifariam loqui de ministris.</s>
+				<s n="216" lang="la" state="auto">Nunc enim considerat quid per se valeant, ac tunc spoliat ipsos omni virtute.</s>
+				<s n="217" lang="la" state="auto">Unde illud: Qui plantat nihil est etc.</s>
+				<s n="218" lang="la" state="auto">Minister igitur seorsum a deo erit nihil.</s>
+				<s n="219" lang="la" state="auto">Nunc vero efficaciam suam coniungit ipsorum ministerio, atque ita ornat eos praeclaris elogiis, quibus tamen superbire non debet quispiam ac si aliquid esset.</s>
+				<s n="220" lang="la" state="auto">Utrumque enucleate exprimitur tertio capite secundae ad Corinthios, ubi magnifice suum apostolatum effert Paulus, quia non separat se a spiritu dei, sed potius (quemadmodum alibi loquitur) praedicat dei potentiam in se et sua praedicatione efficacem.</s>
+				<s n="221" lang="la" state="auto">Quanquam, ubi omnia dixisti, huc tandem recidis ut nobis quoque subscribas.</s>
+				<s n="222" lang="la" state="auto">Haec verba tua sunt: Utitur deus Petri opera in convertendo Cornelio, ut Petri opus dei etiam opus sit.</s>
+				<s n="223" lang="la" state="auto">Ita Petrus est cooperarius.</s>
+				<s n="224" lang="la" state="auto">Quod de conversione tu fateris, ego ad alia omnia extendo.</s>
+				<s n="225" lang="la" state="auto">Quid ergo frustra litigamus?</s>
+				<s n="226" lang="la" state="auto">Postquam convenit solum deum et inchoare et perficere salutem nostram, sed per homines, habeo quod volebam: tua verba idem continent ac sonant quod in nobis impugnas.</s>
+			</p>
+			<p>
+				<s n="227" lang="la" state="auto">Quod obiicis de pharisaica operum fiducia, si recipimus sacramentis exhiberi gratiam, adversus nos locum non habet.</s>
+				<s n="228" lang="la" state="auto">Neque enim proprie loquendo sacramenta hominum opera censeri debent.</s>
+				<s n="229" lang="la" state="auto">Ego, quum ad coenam accedo, nihil affero de meo, sed Christo me offero pascendum.</s>
+				<s n="230" lang="la" state="auto">Ita hic nullum opus in ratione veniet, quia de sola gratiae dei dispensatione agitur.</s>
+			</p>
+			<p>
+				<s n="231" lang="la" state="auto">Quod superius attigi necesse est hic quoque repetere.</s>
+				<s n="232" lang="la" state="auto">Saepius enim ad illum paralogismum relaberis.</s>
+				<s n="233" lang="la" state="auto">Si deus insinuat se cordibus nostris et exhibet per spiritum et fidem, non igitur per sacramenta.</s>
+				<s n="234" lang="la" state="auto">Sed unde, quaeso, fides?</s>
+				<s n="235" lang="la" state="auto">Nonne ex auditu fidei?</s>
+				<s n="236" lang="la" state="auto">Unde spiritus?</s>
+				<s n="237" lang="la" state="auto">Nonne ex praedicatione evangelii?</s>
+				<s n="238" lang="la" state="auto">Utrumque enim testatur Paulus.</s>
+				<s n="239" lang="la" state="auto">Scis enim hoc posterius exstare ad Galatas, illud sumptum esse ex decimo ad Romanos.</s>
+				<s n="240" lang="la" state="auto">Verbi autem et sacramentorum eadem in hac parte ratio.</s>
+				<s n="241" lang="la" state="auto">Verbum enim fidei insculptum est sacramentis.</s>
+				<s n="242" lang="la" state="auto">Proinde adeo non pugnat, deum per sacramenta facere quod facit per fidem, ut alterum potius sequatur ex altero.</s>
+				<s n="243" lang="la" state="auto">Loquimur enim de ordinaria ecclesiae gubernatione.</s>
+				<s n="244" lang="la" state="auto">Quod ad spiritum pertinet, nihilo absurdius est deum agere per sacramenta quod per spiritum agit, quam spiritum vocari sigillum haereditatis nostrae, et idem nomen tribui sacramentis.</s>
+				<s n="245" lang="la" state="auto">Da veniam: haec hallucinationis causa est quod non reputas, quae subalternantur non esse contraria.</s>
+				<s n="246" lang="la" state="auto">Quo in ordine sunt labor manuum et dei benedictio, etiam quoad vitam corporalem.</s>
+				<s n="247" lang="la" state="auto">Nunc si quis neget labore manuum pasci hominem quia pascatur dei benedictione, nonne facilis erit responsio, probe convenire inter se haec duo, modo dei benedictio primas teneat, imo penes ipsam maneat in solidum tota virtus, labor manuum causa instrumetalis censeatur?</s>
+				<s n="248" lang="la" state="auto">Quoties ergo spiritus mentionem facies, hoc tibi responsum sit, non obstare quidquid illi scriptura vindicat quominus sacramenta sint eius organa, mortua tamen et inutilia, nisi quatenus ea vivificat.</s>
+			</p>
+			<p>
+				<s n="249" lang="la" state="auto">Tu quidem multum in eo sudas, ne videaris facere inania.</s>
+				<s n="250" lang="la" state="auto">Sed admoneo te multis non satisfacturum quorum tu iudicium non contemnis.</s>
+			</p>
+			<p>
+				<s n="251" lang="la" state="auto">Eodem capite circa finem, quum ratiocinaris nullam fore Christi communicationem ante sacramenta, si per sacramenta nobis exhibetur, mala est consequentia: neque enim se nobis totum primo die Christus communicat.</s>
+				<s n="252" lang="la" state="auto">Nam si Christus habitat in cordibus nostris per fidem, pro fidei augmentis crescit etiam eius communicatio.</s>
+				<s n="253" lang="la" state="auto">Sacramenta autem scalae sunt quibus fides promovetur.</s>
+			</p>
+			<p>
+				<s n="254" lang="la" state="auto">Negas Christum porrigendo panem iussisse ut corpus suum edamus.</s>
+				<s n="255" lang="la" state="auto">Ego autem hunc Christi verbis sensum existimo subesse.</s>
+				<s n="256" lang="la" state="auto">Panem, quem vocat corpus suum, edere nos iubet.</s>
+				<s n="257" lang="la" state="auto">Nonne histrionica erit actio, nisi corpus edamus?</s>
+				<s n="258" lang="la" state="auto">At tropus est in loquutione.</s>
+				<s n="259" lang="la" state="auto">Fateor: sed ita ut interior veritas a signo visibili non destruatur, sed potius signum visibile rei quum figurat verum sit testimonium.</s>
+				<s n="260" lang="la" state="auto">Atque haec analogia est, ut vescatur Christi carne anima, sicuti corpus pane.</s>
+			</p>
+			<p>
+				<s n="261" lang="la" state="auto">Habes quae in libro tuo correcta cupiam, ut sine exceptione probetur.</s>
+				<s n="262" lang="la" state="auto">Non commemoro quae laudanda sunt.</s>
+				<s n="263" lang="la" state="auto">Memini enim quas mihi partes iniunxeris, ut tibi notarem quae minus placerent.</s>
+				<s n="264" lang="la" state="auto">Quae igitur et erudite tractata sunt, et apposite adducta, et suo ordine rite digesta, et eleganter ornateque exposita, mecum laudabo, atque etiam apud alios quum opus fuerit.</s>
+				<s n="265" lang="la" state="auto">Apud te volui praestare quod rogaveras.</s>
+				<s n="266" lang="la" state="auto">Nunc, quia amici officio defunctus sum, et tibi obsequendo et libere te monendo, restat ut meam libertatem tum obsequendi studio tum simplicitati adscribens eam boni consulas.</s>
+				<s n="267" lang="la" state="auto">Quod te facturum confido.</s>
+			</p>
+			<p>
+				<s n="268" lang="la" state="auto">Bernae reperi quod non putabas, ego autem minime volebam, divinabam tamen (si haec divinatio vocanda est, ubi res propemodum est comperta).</s>
+				<s n="269" lang="la" state="auto">Itaque consilio tuo non fuit locus.</s>
+				<s n="270" lang="la" state="auto">Quod alioqui sequutus essem, etsi displicebat.</s>
+				<s n="271" lang="la" state="auto">Eiusmodi enim vulnera, mihi crede, tegendo non sanantur.</s>
+				<s n="272" lang="la" state="auto">Si rogas, quidnam igitur fecerim?</s>
+				<s n="273" lang="la" state="auto">Nihil!</s>
+				<s n="274" lang="la" state="auto">Tantum atroces utrinque querimonias audire coactus sum.</s>
+				<s n="275" lang="la" state="auto">Porro ut convenirent impetrare non potui.</s>
+				<s n="276" lang="la" state="auto">En pax illa de qua certior fueras factus per amicos.</s>
+				<s n="277" lang="la" state="auto">Dominus ecclesiam illam respiciat, quae tamdiu pastorum dissidiis laceratur miserum in modum.</s>
+			</p>
+		</div>
+		<div ref_regest="17">
+			<p>
+				<s n="278" lang="la" state="auto">Vale, frater in Christo carissime et mihi honorande, atque in huius epistolae argumento subinde tibi occurrat illud Augustini: Quod in sacramentis geritur per homines quidem geri, sed divinitus, in terra, sed humanitus.</s>
+				<s n="279" lang="la" state="auto">Salutabis reverenter meo et totius collegii nostri nomine symmystas tuos, d. Pellicanum, d. Theodorum<fl>43</fl>, d. Gvaltherum, d. Ioannem<fl>44</fl> et reliquos.</s>
+				<s n="280" lang="la" state="auto">Dominus vos omnes regat suo spiritu et vestris laboribus benedicat.</s>
+				<s n="281" lang="la" state="manual">Amen.</s>
+			</p>
+			<p>
+				<s n="282" lang="la" state="auto"><placeName ref="167">Genevae</placeName>, 25. februarii 1547.</s>
+			</p>
+			<p>
+				<s n="283" lang="la" state="auto"><persName ref="540">Ioannes Calvinus</persName> tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="284" lang="la" state="auto">Eximio viro d. Henricho Bullingero, Tigurinae ecclesiae pastori vigilantissimo, fratri et symmystae colendissimo.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="45" nr="2825">
+		<alpha/>
+		<num>
+			<fn ref="1" meta="1">Dieser wichtige Brief leitet die von Calvin initiierten Verhandlungen mit Bullinger ein, die im Mai 1549 zum bekannten "Consensus Tigurinus" führen sollten. Da die von Rudolf Schwarz erstellte Übersetzung nur einen kleinen Teil des Briefes berücksichtigt und zudem mangelhaft ist, wird hier eine ausführliche Zusammenfassung dieses grundlegenden Briefes dargeboten. - Zur Entstehung dieses Konsenses s. <bibl>Bouvier</bibl> 110-149; Consensus Tigurinus. Heinrich Bullinger und <persName ref="540">Johannes Calvin</persName> über das Abendmahl, hg. v. Emidio Campi und Ruedi Reich, Zürich 2009.</fn>
+			<fn ref="2">Gemeint ist Bullingers Ende 1545 verfasste, damals aber noch ungedruckte Schrift "De sacramentis"; s. <bibl>HBBW</bibl> XVI 100, Anm. 29. - Seit März 1546 hatte Bullinger davon zahlreiche Abschriften anfertigen lassen und zur Begutachtung an verschiedene Personen (nicht nur an Freunde) gesandt; s. <bibl>HBBW</bibl> XVI-XVII Reg.; Nr. 2803,15f; <link fk_file="12880">Nr. 2831</link> und Anm. 1. - Aus vorliegender Stelle geht hervor, dass Calvin Bullingers Schrift erst während seines Besuches in Zürich Anfang Februar 1547 (s. dazu <link fk_file="12836">Nr. 2787</link>,53-56; <link fk_file="12838">Nr. 2789</link>, Anm. 1; <link fk_file="12845">Nr. 2796</link>; <link fk_file="12855">Nr. 2806</link>, Anm. 13) erhalten hatte. Dementsprechend ist Bullingers spätere Behauptung, seine Schrift habe er sogleich nach deren Fertigstellung Calvin zum Lesen "geschickt", zu korrigieren. Auch <bibl>HBBW</bibl> XVI 311, Anm. 16, ist daher zu korrigieren: Johannes a Lasco wird eine Abschrift von Bullingers Abhandlung nicht bereits 1546, sondern erst 1549 erhalten haben.</fn>
+			<fn ref="3">Calvin scheint allerdings beabsichtigt zu haben, Bullingers Schrift mit Guillaume Farel zu besprechen; vgl. <i>CO</i> XII 479, <link fk_file="10919">Nr. 878</link>. Vielleicht kam es aber nicht dazu.</fn>
+			<fn ref="4">In der vorliegenden Zusammenfassung wurde darauf geachtet, dass gewisse Begriffe, denen beim ersten Gebrauch das entsprechende lateinische Wort beigefügt wird, danach stets mit dem gleichen deutschen Wort übersetzt werden. In einigen Fällen mussten unterschiedliche lateinische Wörter durch ein einziges deutsches Wort wiedergegeben werden. So wurden z.B. "manducare" und "edere" mit "essen" übersetzt.</fn>
+			<fn ref="5">1Kor 10, 6.</fn>
+			<fn ref="6">Siehe dazu Gen 28, 13.</fn>
+			<fn ref="7">Lk 22, 19; 1Kor 11, 24.</fn>
+			<fn ref="8">1Kor 11, 26.</fn>
+			<fn ref="9">Vgl. Joh 6, 63.</fn>
+			<fn ref="10">Calvin bezog also das Wort "corporaliter" auf den Teilnehmenden (der beim Essen des Brotes und Trinken des Weines Gottes Gaben mit seinem Körper empfängt), während Bullinger den Begriff "corporaliter" verwirft, weil er diesen auf das, was der Beteiligte im Abendmahl empfängt (nämlich Christi "Leib" und "Blut"), bezieht.</fn>
+			<fn ref="11">1Kor 10, 16. - Mit "cui" ist der Kelch gemeint.</fn>
+			<fn ref="12">Nicht zuletzt wegen Bullingers Abneigung Bucer gegenüber.</fn>
+			<fn ref="13">Nämlich in den Aussagen: Das Brot ist mein Leib; der Wein ist mein Blut.</fn>
+			<fn ref="14">Wo z.B. die Abbildung eines Kaisers für den Kaiser selbst, oder das Glas für dessen Inhalt stehen.</fn>
+			<fn ref="15">Der römische Rhetoriklehrer Marcus Fabius Quintilianus (1. Jh. n. Chr.). - Die hier zitierte Stelle stammt aus dessen "Institutio oratoria", 2. 6, 7: "cui rei simile quiddam facientes aves cernimus, quae teneris infirmisque fetibus cibos ore suo conlatos partiuntur".</fn>
+			<fn ref="16">Ein Theologe des 13. Jhs. - Gemeint ist hier ein Zitat aus dessen Sentenzenkommentar, lib. 4, dist. 1, quaest. 3: "Non est aliquo modo dicendum, quod gratia contineatur in ipsis sacramentis essentialiter, tamquam aqua in vase, vel medicina in pyxide; imo hoc intelligere est erroneum. Sed dicuntur continere gratiam, quia ipsam significant et quia, nisi ibi sit defectus ex parte suscipientis, in ipsis gratia semper confertur ita intelligendo, quod gratia sit in animo, non in signis visibilibus. Pro tanto etiam dicuntur vasa gratiae. Possunt etiam dici vasa alia ratione, quia sicut, quod est in vase, non est de ipso nec ex ipso, sed tamen ab ipso hauritur, <i>sic gratia non est a sacramentis, nec de sacramentis, sed oritur a fonte aeterno et ab illo hauritur ab ipsa anima in ipsis sacramentis.</i> Et sicut quis recurrit ad vas, cum requirit liquorem, sic quaerenti liquorem gratiae et non habenti recurrendum est ad ipsa sacramenta" - ein Zitat, das Bullinger auch in seinen "Decades quinque" anführt; s. <bibl>HBTS</bibl> III/2 928 (es sei daran erinnert, dass eine überarbeitete Fassung der Schrift „De sacramentis" den "Decades" Bullingers einverleibt wurde; s. <bibl>HBBW</bibl> XVI 100, Anm. 29).</fn>
+			<fn ref="17">Im Original ist nur ein unpersönliches "nos" verwendet. - Damit ist vermutlich auch Bucer gemeint.</fn>
+			<fn ref="18">Insofern, als durch den Gebrauch des Wortes "includere" man zur Ansicht verleitet werden könnte, dass die Sakramente Gottes Gnade in sich per se enthalten.</fn>
+			<fn ref="19">Calvin denkt vermutlich an 1Kor 4, <i>15:</i> "Nam in Christo Iesu per Evangelium ego vos genui".</fn>
+			<fn ref="20">Eph 5, 26: "ut illam [i.e. Ecciesiam] sanctificaret [Subjekt ist Christus], mundans [illam] lavacro aquae in verbo vitae".</fn>
+			<fn ref="21">Lk 22, 19.</fn>
+			<fn ref="22">1Kor 10, 16.</fn>
+			<fn ref="23">Vgl. Mt 3, 16 par.</fn>
+			<fn ref="24">Siehe Apg 6, 6; 8, 17.</fn>
+			<fn ref="25">Vonseiten Calvins liegt hier ein Bezug auf Ps 119 (Vulg. 118), 98. 104, vor: "Dein Gebot macht mich weiser ... Dein Wort ist eine Leuchte meinem Fuß", eine Aussage, die infolge von Bullingers Betonung nicht korrekt wäre.</fn>
+			<fn ref="26">Anspielung auf Röm 10, 17, wo allerdings der Glaube allein auf die Verkündigung von Gottes Wort zurückgeführt wird. Da aber während der Sakramentsfeier Christi Worte verkündigt werden, ist der Glaube ebenfalls auf die Sakramente zurückzuführen.</fn>
+			<fn ref="27">Anspielung auf Apg 8, 26-40.</fn>
+			<fn ref="28">Apg 10. -Cornelius und die Seinen empfingen den Heiligen Geist, ehe sie getauft wurden.</fn>
+			<fn ref="29">Röm 11, 27-29.</fn>
+			<fn ref="30">Röm 4, 9-10.</fn>
+			<fn ref="31">Röm 4, 11.</fn>
+			<fn ref="32">Zu der im Folgenden behandelten Thematik vgl. <link fk_file="12796">Nr. 2747</link>,23-26; Nr. 2756, [4]-[8].</fn>
+			<fn ref="33">1Kor 4, 15; Phlm 1, 10.</fn>
+			<fn ref="34">Calvin denkt an die Propheten. - Siehe ferner 1Thess 1, 9.</fn>
+			<fn ref="35">Joh 20, 23.</fn>
+			<fn ref="36">Eine solche Aussage erfolgte 1274 im 14. Ökumenischen Konzil (d.h. im 2. Konzil von Lyon); s. <i>Denzinger 353,</i> <link fk_file="10889">Nr. 850</link>.</fn>
+			<fn ref="37">2Tim 1, 6.</fn>
+			<fn ref="38">1Kor 3, 7.</fn>
+			<fn ref="39">2Kor 1, 22.</fn>
+			<fn ref="40">Gedacht ist vermutlich an <i>Augustin,</i> Epist. 105, 3, 12 <i>(MPL</i> XXXIII 401).</fn>
+			<fn ref="41">Der 26jährige <persName ref="3988">Johannes Wolf</persName> war damals Pfarrer der Predigerkirche und stand als solcher in einem Filialverhältnis zum Großmünster, d.h. zu Bullinger.</fn>
+			<fn ref="42"><persName ref="2095">Philipp Melanchthon</persName>.</fn>
+			<fn ref="43">Bibliander.</fn>
+			<fn ref="44">Möglicher weise ist hier der 26jährige <persName ref="3988">Johannes Wolf</persName>, Pfarrer der Predigerkirche (als solcher in einem Filialverhältnis mit dem Großmünster) gemeint.</fn>
+		</num>
+	</footnotes>
+	<alternatives>
+		<alternative>
+			<content lang="la" edition="HBBW" vol="19" fk_bibliography="22" nr="2825" page="356"/>
+			<footnotes fk_bibliography="22" nr="2825">
+				<alpha/>
+				<num>
+					<fn ref="1" meta="1">Dieser wichtige Brief leitet die von Calvin initiierten Verhandlungen mit Bullinger ein, die im Mai 1549 zum bekannten "Consensus Tigurinus" führen sollten. Da die von Rudolf Schwarz erstellte Übersetzung nur einen kleinen Teil des Briefes berücksichtigt und zudem mangelhaft ist, wird hier eine ausführliche Zusammenfassung dieses grundlegenden Briefes dargeboten. - Zur Entstehung dieses Konsenses s. <bibl>Bouvier</bibl> 110-149; Consensus Tigurinus. Heinrich Bullinger und Johannes Calvin über das Abendmahl, hg. v. Emidio Campi und Ruedi Reich, Zürich 2009.</fn>
+					<fn ref="2">Gemeint ist Bullingers Ende 1545 verfasste, damals aber noch ungedruckte Schrift "De sacramentis"; s. <bibl>HBBW</bibl> XVI 100, Anm. 29. - Seit März 1546 hatte Bullinger davon zahlreiche Abschriften anfertigen lassen und zur Begutachtung an verschiedene Personen (nicht nur an Freunde) gesandt; s. <bibl>HBBW</bibl> XVI-XVII Reg.; Nr. 2803,15f; <link fk_file="12880">Nr. 2831</link> und Anm. 1. - Aus vorliegender Stelle geht hervor, dass Calvin Bullingers Schrift erst während seines Besuches in Zürich Anfang Februar 1547 (s. dazu <link fk_file="12836">Nr. 2787</link>,53-56; <link fk_file="12838">Nr. 2789</link>, Anm. 1; <link fk_file="12845">Nr. 2796</link>; <link fk_file="12855">Nr. 2806</link>, Anm. 13) erhalten hatte. Dementsprechend ist Bullingers spätere Behauptung, seine Schrift habe er sogleich nach deren Fertigstellung Calvin zum Lesen "geschickt", zu korrigieren. Auch <bibl>HBBW</bibl> XVI 311, Anm. 16, ist daher zu korrigieren: Johannes a Lasco wird eine Abschrift von Bullingers Abhandlung nicht bereits 1546, sondern erst 1549 erhalten haben.</fn>
+					<fn ref="3">Calvin scheint allerdings beabsichtigt zu haben, Bullingers Schrift mit Guillaume Farel zu besprechen; vgl. <i>CO</i> XII 479, <link fk_file="10919">Nr. 878</link>. Vielleicht kam es aber nicht dazu.</fn>
+					<fn ref="4">In der vorliegenden Zusammenfassung wurde darauf geachtet, dass gewisse Begriffe, denen beim ersten Gebrauch das entsprechende lateinische Wort beigefügt wird, danach stets mit dem gleichen deutschen Wort übersetzt werden. In einigen Fällen mussten unterschiedliche lateinische Wörter durch ein einziges deutsches Wort wiedergegeben werden. So wurden z.B. "manducare" und "edere" mit "essen" übersetzt.</fn>
+					<fn ref="5">1Kor 10, 6.</fn>
+					<fn ref="6">Siehe dazu Gen 28, 13.</fn>
+					<fn ref="7">Lk 22, 19; 1Kor 11, 24.</fn>
+					<fn ref="8">1Kor 11, 26.</fn>
+					<fn ref="9">Vgl. Joh 6, 63.</fn>
+					<fn ref="10">Calvin bezog also das Wort "corporaliter" auf den Teilnehmenden (der beim Essen des Brotes und Trinken des Weines Gottes Gaben mit seinem Körper empfängt), während Bullinger den Begriff "corporaliter" verwirft, weil er diesen auf das, was der Beteiligte im Abendmahl empfängt (nämlich Christi "Leib" und "Blut"), bezieht.</fn>
+					<fn ref="11">1Kor 10, 16. - Mit "cui" ist der Kelch gemeint.</fn>
+					<fn ref="12">Nicht zuletzt wegen Bullingers Abneigung Bucer gegenüber.</fn>
+					<fn ref="13">Nämlich in den Aussagen: Das Brot ist mein Leib; der Wein ist mein Blut.</fn>
+					<fn ref="14">Wo z.B. die Abbildung eines Kaisers für den Kaiser selbst, oder das Glas für dessen Inhalt stehen.</fn>
+					<fn ref="15">Der römische Rhetoriklehrer Marcus Fabius Quintilianus (1. Jh. n. Chr.). - Die hier zitierte Stelle stammt aus dessen "Institutio oratoria", 2. 6, 7: "cui rei simile quiddam facientes aves cernimus, quae teneris infirmisque fetibus cibos ore suo conlatos partiuntur".</fn>
+					<fn ref="16">Ein Theologe des 13. Jhs. - Gemeint ist hier ein Zitat aus dessen Sentenzenkommentar, lib. 4, dist. 1, quaest. 3: "Non est aliquo modo dicendum, quod gratia contineatur in ipsis sacramentis essentialiter, tamquam aqua in vase, vel medicina in pyxide; imo hoc intelligere est erroneum. Sed dicuntur continere gratiam, quia ipsam significant et quia, nisi ibi sit defectus ex parte suscipientis, in ipsis gratia semper confertur ita intelligendo, quod gratia sit in animo, non in signis visibilibus. Pro tanto etiam dicuntur vasa gratiae. Possunt etiam dici vasa alia ratione, quia sicut, quod est in vase, non est de ipso nec ex ipso, sed tamen ab ipso hauritur, <i>sic gratia non est a sacramentis, nec de sacramentis, sed oritur a fonte aeterno et ab illo hauritur ab ipsa anima in ipsis sacramentis.</i> Et sicut quis recurrit ad vas, cum requirit liquorem, sic quaerenti liquorem gratiae et non habenti recurrendum est ad ipsa sacramenta" - ein Zitat, das Bullinger auch in seinen "Decades quinque" anführt; s. <bibl>HBTS</bibl> III/2 928 (es sei daran erinnert, dass eine überarbeitete Fassung der Schrift „De sacramentis" den "Decades" Bullingers einverleibt wurde; s. <bibl>HBBW</bibl> XVI 100, Anm. 29).</fn>
+					<fn ref="17">Im Original ist nur ein unpersönliches "nos" verwendet. - Damit ist vermutlich auch Bucer gemeint.</fn>
+					<fn ref="18">Insofern, als durch den Gebrauch des Wortes "includere" man zur Ansicht verleitet werden könnte, dass die Sakramente Gottes Gnade in sich per se enthalten.</fn>
+					<fn ref="19">Calvin denkt vermutlich an 1Kor 4, <i>15:</i> "Nam in Christo Iesu per Evangelium ego vos genui".</fn>
+					<fn ref="20">Eph 5, 26: "ut illam [i.e. Ecciesiam] sanctificaret [Subjekt ist Christus], mundans [illam] lavacro aquae in verbo vitae".</fn>
+					<fn ref="21">Lk 22, 19.</fn>
+					<fn ref="22">1Kor 10, 16.</fn>
+					<fn ref="23">Vgl. Mt 3, 16 par.</fn>
+					<fn ref="24">Siehe Apg 6, 6; 8, 17.</fn>
+					<fn ref="25">Vonseiten Calvins liegt hier ein Bezug auf Ps 119 (Vulg. 118), 98. 104, vor: "Dein Gebot macht mich weiser ... Dein Wort ist eine Leuchte meinem Fuß", eine Aussage, die infolge von Bullingers Betonung nicht korrekt wäre.</fn>
+					<fn ref="26">Anspielung auf Röm 10, 17, wo allerdings der Glaube allein auf die Verkündigung von Gottes Wort zurückgeführt wird. Da aber während der Sakramentsfeier Christi Worte verkündigt werden, ist der Glaube ebenfalls auf die Sakramente zurückzuführen.</fn>
+					<fn ref="27">Anspielung auf Apg 8, 26-40.</fn>
+					<fn ref="28">Apg 10. - Cornelius und die Seinen empfingen den Heiligen Geist, ehe sie getauft wurden.</fn>
+					<fn ref="29">Röm 11, 27-29.</fn>
+					<fn ref="30">Röm 4, 9-10.</fn>
+					<fn ref="31">Röm 4, 11.</fn>
+					<fn ref="32">Zu der im Folgenden behandelten Thematik vgl. <link fk_file="12796">Nr. 2747</link>,23-26; Nr. 2756, [4]-[8].</fn>
+					<fn ref="33">1Kor 4, 15; Phlm 1, 10.</fn>
+					<fn ref="34">Calvin denkt an die Propheten. - Siehe ferner 1Thess 1, 9.</fn>
+					<fn ref="35">Joh 20, 23.</fn>
+					<fn ref="36">Eine solche Aussage erfolgte 1274 im 14. Ökumenischen Konzil (d.h. im 2. Konzil von Lyon); s. <i>Denzinger 353,</i> <link fk_file="10889">Nr. 850</link>.</fn>
+					<fn ref="37">2Tim 1, 6.</fn>
+					<fn ref="38">1Kor 3, 7.</fn>
+					<fn ref="39">2Kor 1, 22.</fn>
+					<fn ref="40">Gedacht ist vermutlich an <i>Augustin,</i> Epist. 105, 3, 12 <i>(MPL</i> XXXIII 401).</fn>
+					<fn ref="41">Der 26jährige <persName ref="3988">Johannes Wolf</persName> war damals Pfarrer der Predigerkirche und stand als solcher in einem Filialverhältnis zum Großmünster, d.h. zu Bullinger.</fn>
+				</num>
+			</footnotes>
+		</alternative>
+	</alternatives>
+</file>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12843" id_hbbw="2794" id_irg_sort="2794" id_sort="127940">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12843</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2794</arpa>
+		<scan_pages>
+			<scan id="30054" dir="12843/Autograph/" page="1">00 E_II_368__S__234_.tif</scan>
+			<scan id="30055" dir="12843/Autograph/" page="2">01 E_II_368__S__235_.tif</scan>
+			<scan id="30056" dir="12843/Autograph/" page="3">02 E_II_368__S__229_a_.tif</scan>
+			<scan id="30057" dir="12843/Autograph/" page="4">03 E_II_368__S__229_b_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26230" vf="1" fk_add_type="1">
+				<person id="8519" fk_id="8519">
+					<name>Wunderlich (de Merveilleux)</name>
+					<forename>Hans (Jean)</forename>
+				</person>
+				<place id="339" vf="1" fk_id="339" long="6.931" lat="46.99179">Neuenburg</place>
+				<district id="118">Neuchâtel</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26231" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12843">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">4</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19410">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 368,234 f.</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12343" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2794, S. 260</entry>
+				<page>260</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="18">
+				<lang id="1" iso="de" count="18" p="100.0"/>
+			</sentences>
+			<words count="351">
+				<lang id="1" iso="de" count="351" p="100.0"/>
+			</words>
+			<chars count="1759">
+				<lang id="1" iso="de" count="1759" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2794" page="260">
+		<div ref="1">
+			[1] Wunderlich hat das Anliegen von Bullingers Brief [nicht erhalten] begriffen. Gott erbarme sich der
+			Seinen und mehre deren Glauben!
+		</div>
+		<div ref="2">
+			[2] Wunderlich hat die ganze Angelegenheit dem sich derzeit auf dem Weg [in die Eidgenossenschaft]
+			befindenden Botschafter des französischen <persName ref="7637">Königs Franz I.</persName> in einem Brief dargelegt und vorgeschlagen,
+			diesbezüglich sogleich eine Vollmacht vom König zu erwirken, denn anderenfalls wüsste der Botschafter nicht,
+			was aus der Sache würde, wenn er sich der Dinge am <entity id="1" type="geo_lake">Bodensee</entity> annähme.
+			Die Franzosen sind nämlich untereinander nicht sehr zuverlässig, sodass sie die Vorschläge guter Leute nicht
+			unbedingt berücksichtigen.
+		</div>
+		<div ref="3">
+			[3] Wunderlich hätte sich aus der Sache herausgehalten, wäre diese nicht Gott dienlich. Demzufolge will er
+			alles dafür tun. Gleich nach Eintreffen des Botschafters wird er diesen aufsuchen und sich bei ihm für das
+			Wohl der Eidgenossenschaft einsetzen.
+		</div>
+		<div ref="4">
+			[4] Beim Botschafter handelt es sich um den sieur de Lyancourt [<persName ref="17969">Guillaume Du Plessis</persName>]. Schon vor 26 Jahren
+			diente er [<persName ref="7279">Louis de Forbin</persName>] sieur de Soliers [und] seinem Bruder [<persName ref="17840">Charles Du Plessis</persName>, sieur de Savonnières],
+			damals Botschafter des Königs in der Eidgenossenschaft. Wunderlich kennt ihn gut. Er ist ein freundlicher
+			und frommer Mann. Sobald er geantwortet hat, wird Bullinger durch Wunderlichs eigenen Boten informiert
+			werden.
+		</div>
+		<div ref="5">
+			[5] Wunderlich erweist sich Gott gerne als nützlich in dieser Angelegenheit. Dieser schenke Bullinger und
+			seinen Kollegen Kraft und Ausdauer. In Eile.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2794" page="260">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Min underthenig, guttwillig dientst sampt was ich eren unnd liebs vermag zuvoran, erwurdiger, günstiger, lieber herr.</s>
+				<s n="2" lang="de" state="auto">Ich hab mitt grossem hertzleid uwer schriben<fl>1</fl> alls im grund<fl>2</fl> verstanden.</s>
+				<s n="3" lang="de" state="auto">Der allmechtig gott wöll sich aller siner gleubigen erbarmen und den glouben meren, darmitt wir in sinn willen erfunden werden.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="de" state="auto">Ich schriben jetz gegenwurtigklich uff der post deß kungs<fl>3</fl> bottschafft, so er<fl>4</fl> jetz heruß schickt,<fl>5</fl>, alls von mir selbs<fl>6</fl>, den gantzen handel<fl>7</fl> mitt dem anhang<fl>8</fl>, ob er nut gewollt hett<fl>9</fl>, darin zu handlen<fl>10</fl>, das ers angends<fl>11</fl> an den küng langen lasse, und im<fl>12</fl> anttwurtt und gewallt<fl>13</fl> werde zugeschickt; dan<fl>14</fl> <pb_edition start_of="261"/> er ist fur sich selbs, dem küng weder<fl>a</fl> kein<fl>15</fl> knecht.</s>
+				<s n="5" lang="de" state="auto">Er versaͤch dan die ding am <entity id="1" type="geo_lake">Bodensee</entity>, unnd weis doch darby nitt,<fl>16</fl> wie oder was darin gehandlet wirtt!</s>
+				<s n="6" lang="de" state="auto">Dan die Frantzossen sind gantz untruw an einandern, und schafft<fl>17</fl>, obschon ein byderman<fl>18</fl> inen etwas warhafftz furtreitt<fl>19</fl>, das sys verachten; nitt das ichs sy ursach hab.<fl>20</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="de" state="auto">Ich was in willen, mich der handlungen gar zu entziechen.</s>
+				<s n="8" lang="de" state="auto">So<fl>21</fl> ich aber gespurren mag<fl>22</fl>, das ich darin gott<fl>b</fl> dienen, so sol mich kein ubelmugen<fl>23</fl>, cost noch arbeitt nitt duren lasen<fl>24</fl>, unnd, so bald jetz der Frantzoß<fl>25</fl> heruß kumpt, wil ich mich angentz<fl>26</fl> zu im thun und allen möglichen flyß anwenden, darmitt in dem und in andern dingen gehandlet werde, was der Eydgnoschafft zu guttem mag erschiessen.<fl>27</fl></s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="de" state="auto">Der bott, der uff der straß ist, heist monsieur de Lyencourtt.<fl>28</fl></s>
+				<s n="10" lang="de" state="auto">Ist vor 26 jar by dem herren von Solliers<fl>29</fl> und<fl>c</fl> sin bruder<fl>30</fl>, ein pott deß kungs in der Eidtgnoschafft, gelegenn.</s>
+				<s n="11" lang="de" state="auto">Den<fl>31</fl> ken ich vast wol.<fl>32</fl></s>
+				<s n="12" lang="de" state="auto">Ist nitt boͤßertig, unnd fromen dingen hold<fl>33</fl> gsin.</s>
+				<s n="13" lang="de" state="auto">Was mir jeder zitt<pb_scan n="235"/> fur anttwurtt zukumpt, wil ich uch heimlich und angentz by eignem potten zuschicken.</s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="14" lang="de" state="auto">Gott, der aller warheit ist, weis, das ich in disen handlungen im gern darin well.<fl>34</fl></s>
+				<s n="15" lang="de" state="auto">Der geb gnad uch und allen sinen dienern, das ir bestentlich beharen biß an das end in üwerm stand und wessen.<fl>35</fl></s>
+				<s n="16" lang="de" state="auto">Datum illentz zu Nuwenburg, deß 4. tag Hornung anno, etc., 47.</s>
+				<s n="17" lang="de" state="auto">Uwer williger diener allzit <persName ref="8519">Hanns Wunderlich</persName>.<pb_edition start_of="262"/></s>
+			</p>
+			<p>
+				<note>[Adresse vor f. 229a,v.:]</note>
+				<s n="18" lang="de" state="auto">Dem wolgelerten meister Heinrich Bollinger, predicant im Grossenn Munster der statt <placeName ref="587">Zurich</placeName>, minem erenden<fl>36</fl>, lieben herren zu sins selbs handen.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2794">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage wurde das Wortende</i> er <i>mit der für</i> en <i>üblichen Abkürzung</i> geschrieben.</fn>
+			<fn ref="b"><i>Danach getrichenes</i> oder.</fn>
+			<fn ref="c"><i>Fehlt in der Vorlage.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Nicht erhalten. -Siehe dazu <link fk_file="12823">Nr. 2774</link>,11- 22.</fn>
+			<fn ref="2">alls im grund: ganz; gründlich.</fn>
+			<fn ref="3">König Franz Ï.</fn>
+			<fn ref="4">der König.</fn>
+			<fn ref="5">uff der post deß kungs bottschafft, so er jetz heruß schickt: an den (möglicherweise vorausgehenden) Dienstboten des sich in die Eidgenossenschaft begebenden französischen Botschafters. - Zu Letzterem s. unten Anm. 28.</fn>
+			<fn ref="6">alls von mir selbs: als schriebe ich aus eigener Initiative.</fn>
+			<fn ref="7">Gemeint ist die Anbahnung eines Kontaktes zwischen <placeName ref="457">Konstanz</placeName> und <persName ref="7637">Franz I.</persName>; s. dazu <link fk_file="12811">Nr. 2762</link>,53-80; <link fk_file="12820">Nr. 2771</link>,13-31, und die oben in Anm. 1 angeführte Stelle.</fn>
+			<fn ref="8">Zusatz.</fn>
+			<fn ref="9">ob er nut gewollt hett: ob er (der Botschafter) nicht willens wäre.</fn>
+			<fn ref="10">darin zu handlen: zu bewirken.</fn>
+			<fn ref="11">sogleich.</fn>
+			<fn ref="12">dem Botschafter.</fn>
+			<fn ref="13">Ermächtigung; Vollmacht (vom König).</fn>
+			<fn ref="14">denn.</fn>
+			<fn ref="15">er ist fur sich selbs, dem küng weder kein knecht: er ist unabhängig (und) kein bevollmächtigter Beamter des Königs. - Die Betonung liegt hier auf der unterschiedlichen Funktion eines Botschafters, der in der Fremde ganz allgemein eine Ansprechsperson für den König darstellt, und eines "Knechts", der vom König beauftragt ist, eine bestimmte Aufgabe auszuführen.</fn>
+			<fn ref="16">Zu verstehen: Würde er sich daraufhin der Angelegenheit am <entity id="1" type="geo_lake">Bodensee</entity> annehmen, wüsste er dabei doch nicht.</fn>
+			<fn ref="17">und schafft: und das hat zur Folge, (dass); vgl. <bibl>SI</bibl> VIII 308.</fn>
+			<fn ref="18">rechtschaffener Mann.</fn>
+			<fn ref="19">vorträgt.</fn>
+			<fn ref="20">ichs sy ursach hab: ich sie dessen für schuldig halte.</fn>
+			<fn ref="21">Da.</fn>
+			<fn ref="22">gespurren mag: spüren konnte.</fn>
+			<fn ref="23">kein ubelmugen: keine ungünstigen Umstände.</fn>
+			<fn ref="24">mich nitt duren lasen: mir nicht leid tun.</fn>
+			<fn ref="25">Der oben in Z. 6 erwähnte Botschafter.</fn>
+			<fn ref="26">umgehend.</fn>
+			<fn ref="27">(daraus) erwachsen.</fn>
+			<fn ref="28" type="bio" fk_person="17969"><persName ref="17969">Guillaume Du Plessis</persName>, sieur de Lyancourt, der zwischen Februar und Oktober 1547 und zwischen Juli 1548 und November 1550 als Botschafter in der Eidgenossenschaft amtierte; s. <i>Rott, Représentation</i> 301. 423. 558.</fn>
+			<fn ref="29"><persName ref="7279">Louis de Forbin</persName>, sieur de Soliers, der zwischen Juni 1519 und März 1520 als Botschafter in der Eidgenossenschaft gedient hatte; s. ebd., 202. 578.</fn>
+			<fn ref="30"><persName ref="17840">Charles Du Plessis</persName>, sieur de Savonnières, der zwischen August 1518 und Juli 1520 ebenfalls als Botschafter in der Eidgenossenschaft nachgewiesen ist; s. ebd., S. 202. 377. 576.</fn>
+			<fn ref="31">Nämlich Lyancourt.</fn>
+			<fn ref="32">vast wol: sehr gut.</fn>
+			<fn ref="33">gewogen.</fn>
+			<fn ref="34">im gern darin well: ihm (Gott) dienen möchte.</fn>
+			<fn ref="35">"Stand und Wesen" (Amt und Leben).</fn>
+			<fn ref="36">ehrenwerten.</fn>
+		</num>
+	</footnotes>
+</file>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11358" id_hbbw="1315" id_irg_sort="1315" id_sort="113150">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11358</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1315</arpa>
+		<scan_pages>
+			<scan id="26396" dir="11358/Autograph/" page="1">00 E_II_358__fol__126_r_.tif</scan>
+			<scan id="26397" dir="11358/Autograph/" page="2">01 E_II_358__fol__126_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23058" vf="1" fk_add_type="1">
+				<person id="8440" fk_id="8440">
+					<name>Schuler (Scholasticus)</name>
+					<forename>Gervasius</forename>
+				</person>
+				<place id="320" vf="1" fk_id="320" long="10.18527" lat="47.98372">Memmingen</place>
+				<district id="26">Bayern</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23059" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11358">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">10</month>
+				<day fk_d="" d="" vf="1" fn="">8</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17829">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 358,126</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11132" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1315, S. 229</entry>
+				<page>229</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="36">
+				<lang id="1" iso="de" count="7" p="19.4"/>
+				<lang id="5" iso="la" count="29" p="80.6"/>
+			</sentences>
+			<words count="510">
+				<lang id="1" iso="de" count="112" p="22.0"/>
+				<lang id="5" iso="la" count="398" p="78.0"/>
+			</words>
+			<chars count="2885">
+				<lang id="1" iso="de" count="545" p="18.9"/>
+				<lang id="5" iso="la" count="2340" p="81.1"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1315" page="229">
+		<div ref="1">
+			Dankt für die „Orthodoxa ... epistola“ <persName ref="8049">Vadians</persName> mit den fünf Büchern
+			des Vigilius, kann jedoch noch kein Urteil darüber abgeben; hat
+			bereits die „Aphorismen“ <persName ref="8049">Vadians</persName>, dessen theologische Schriften er
+			schätzt, mit Interesse gelesen. Hat durch <persName ref="4079">Zwick</persName> zurückgeschickt, was
+			er von Bullinger einst zum Lesen bekam. Ist froh, daß es Bullinger und dessen Familie gut geht. Freut sich
+			über die Maßnahmen Graf <persName ref="8098">Georgs von Württemberg</persName> und hofft auf weitere Ausbreitung der Reformation. Der Abt
+			von <placeName ref="907">Kempten</placeName>
+			[<persName ref="7518">Wolfgang von Grünenstein</persName>] wütet wie kein anderer gegen die
+			Evangelischen. <persName ref="6402">Simprecht [Schenck]</persName> verläßt
+			[<placeName ref="907">Kempten</placeName>]; <persName ref="8426">[Paul] Rasdorfer</persName> ist nicht ganz unschuldig. Da ihm zu
+			<persName ref="4091">Zwinglis</persName> „In evangelicam historiam ... Annotationes“, die er von
+			Bullinger in Zürich erhalten hat, noch Teile fehlen, bittet er um den Rest; er möchte seine Bibliothek mit
+			den Werken des verehrten Mannes schmücken, zudem braucht er das Buch für seine Predigten über den
+			Römerbrief. Wünscht das Büchlein über den alten Glauben. Hat <persName ref="1039">Benedikt [Euander]</persName> Bullingers Sendung zugestellt. Grüße.
+			[<persName ref="8441">Kaspar von] Schwenckfeld</persName>, der
+			nicht mehr in <placeName ref="513">Ulm</placeName> weilt, hat zwei Büchlein in Umlauf gebracht.
+			Der <placeName ref="157">Frankfurter</placeName> Anstand ist bald abgelaufen; dann steht man wieder
+			am Anfang. <persName ref="6959">Friedrich [Wagner]</persName>
+			läßt grüßen.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1315" page="229">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Gratiam et pacem a domino per Iesum Christum.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Accepi, venerande frater, gratissimo animo d[octoris] <persName ref="8049">Vadiani</persName> Epistolam orthodoxam una cum quinque libris Vigilii martiris<fl>1</fl> apprime<fl>a</fl> eruditis, superque his meum rogas iuditium, quod hac vice multis negotiis ecclesię occupatus praestare nequeo<fl>b</fl>.</s>
+				<s n="3" lang="la" state="auto">Interim nunctius<fl>2</fl> abitum festinat.</s>
+				<s n="4" lang="la" state="auto">Sed ubi in posterum nactus fuero tabellionem, non gravabor charitati tue pro ingenii mei captu respondere.</s>
+				<s n="5" lang="la" state="auto">Modo ago tibi gratias, non quas debeo, sed quas possum, pro hoc dono michi certe gratissimo.</s>
+				<s n="6" lang="la" state="auto">Perlegi semel ad lucernam, denuo legam.</s>
+				<s n="7" lang="la" state="auto">Maxime enim delector praecipue <persName ref="8049">Vadiani</persName> scriptis, ubi theologum agit; solide, aperte et dilucide scribit, summo studio Aphorismorum libros<fl>3</fl> iam tercia vice legi, quoque magis tracto, eo semper scripta apertiora fiunt, ac nunquam citra foenus discedo.</s>
+			</p>
+			<p>
+				<s n="8" lang="la" state="auto">Que bona fide michi legenda olim miseras<fl>4</fl>, eadem fide remisi per Zwiccium, communem amicum; <de state="verified">dorumb dunckt<fl>c</fl> mich<fl>d</fl>, ich syge eben hurtig xin<fl>5</fl>; du hast sonst nitt verguot an mir<fl>6</fl>.</de></s>
+			</p>
+			<p>
+				<s n="9" lang="la" state="auto">De statu tuo tueque familię salubri admodum gaudeo<fl>e</fl>.<pb_edition start_of="230"/></s>
+				<s n="10" lang="la" state="auto">Factum comitis Ieorgii Wirtenbergensis<fl>7</fl> aventer audio.</s>
+				<s n="11" lang="la" state="auto">Dominus dilatet magis magisque pomeria regni sui<fl>f</fl>.</s>
+				<s n="12" lang="la" state="auto">Interim rumpantur ilia<fl>8</fl> pape.</s>
+				<s n="13" lang="la" state="auto">Hui, abbas<fl>g</fl> Campidonensis<fl>9</fl> sęvit in confessores veritatis supra modum, plus quam quisquam alius ex imperii<fl>h</fl> proceribus.</s>
+			</p>
+			<p>
+				<s n="14" lang="la" state="auto">Sympertus<fl>10</fl> abitum parat alio, sed nescio quo; <persName ref="8426">Rasdorferus</persName> non admodum candidus est<fl>11</fl>.</s>
+			</p>
+			<p>
+				<s n="15" lang="la" state="auto">Postremo nosti, quo me donaris thesauro, dum Tiguri tecum essem<fl>12</fl>, nempe annotationibus sanctissimi martiris<fl>i</fl> et Tigurine ecclesię episcopi <persName ref="4091">Huldrichi Zwinglii</persName> in 4 evangelia et in epistolam ad Romanos et in priorem epistolam ad Chorinthios usque ad medium fere quarti capitis eiusdem epistolę; necdum<fl>k</fl> plus annotationum typis erant excusae<fl>l</fl><fl>13</fl>, <de state="verified">und erwind<fl>14</fl> mir im großen Alphabet das Q<fl>m</fl> und alßo<fl>15</fl> biß an das end, sampt dem eersten bogen mitt der prefation<fl>16</fl>, wie ich acht<fl>17</fl>.</de></s>
+				<s n="16" lang="la" state="auto">Quare si opus a typographo<fl>18</fl> perfectum est, mitte reliquum, quod desidero, mi Bullingere.</s>
+				<s n="17" lang="la" state="auto">Inpense enim cupio illius sanctissimi viri scriptis bibliothecam meam ornari.</s>
+				<s n="18" lang="la" state="auto">Pro publica contione apud<fl>n</fl> meos tracto epistolam ad Romanos; ad id non parum momenti adfert lectio Zwinglianarum cogitationum, quibus cum primis utor sedulo.</s>
+				<s n="19" lang="la" state="auto">Hoc est igitur, quod volo, mi charissime frater<fl>19</fl>.<pb_edition start_of="231"/></s>
+			</p>
+			<p>
+				<s n="20" lang="de" state="auto">Mann sagt von eynem tutschen büchlin vom uralten glouben; soltu geschryben haben, und soll zuͦ Baßel getruckt sein<fl>20</fl>.</s>
+				<s n="21" lang="de" state="auto">Daß wolt ich ouch hertzlich gern sehen oder haben.</s>
+				<s n="22" lang="de" state="auto">Pettlens wirdt eyner nit arm, aber treffenlich unwerdt<fl>21</fl>.</s>
+				<s n="23" lang="la" state="auto">Reliqua tu ipse pro tua prudentia intelliges.</s>
+			</p>
+			<p>
+				<s n="24" lang="la" state="auto"><persName ref="1039">Benedicto</persName><fl>22</fl> meo, quod mittendum miseras, misi<fl>23</fl>, quem etiam ut fratrem amo.</s>
+			</p>
+			<p>
+				<s n="25" lang="la" state="auto">Uxorem tuam<fl>24</fl> multis michi nominibus charam saluta meo et uxoris meae<fl>25</fl> nomine una cum parente<fl>26</fl> et liberis<fl>27</fl> tuis.</s>
+				<s n="26" lang="la" state="auto">Ego in diem spero uberiorem prolem<fl>28</fl>.</s>
+				<s n="27" lang="la" state="auto">Saluta nomine meo d. <persName ref="1753">Leonem</persName><fl>29</fl>, <persName ref="8127">Pellicanum</persName>, <persName ref="8412">Megandrum</persName> - amicum recenter natum - et <persName ref="8171">Theodorum</persName><fl>30</fl> et reliquos fratres, et me tibi ut veteri amico commendatum habe.</s>
+			</p>
+			<p>
+				<s n="28" lang="de" state="auto">Der schwenckelgeyst Svencfeldii hatt zwey büchlin <la>contra creaturam Christi</la> geseewt<fl>31</fl>; mir<fl>o</fl> kan aber keins werden<fl>32</fl>.</s>
+				<s n="29" lang="de" state="auto">Es wundert mich, ob du kayns habest.</s>
+				<s n="30" lang="de" state="manual">Er ist nitt meer zuͦ <placeName ref="513">Ulm</placeName><fl>33</fl>, <la state="verified">sed clam meditatur (non dubito) non ingrata sathane.</la></s>
+			</p>
+			<p>
+				<s n="31" lang="de" state="auto">Der franckfurdesch anstand ist schier auß<fl>34</fl>; dornach synd wir, der wir vor<fl>35</fl> worind.</s>
+			</p>
+			<p>
+				<s n="32" lang="la" state="auto">Vale iterum.</s>
+			</p>
+			<p>
+				<s n="33" lang="la" state="auto">Memminge, 8. octobris anno 1539.</s>
+			</p>
+			<p>
+				<s n="34" lang="la" state="auto">Tuus <persName ref="8440">Gervasius Scolasticus</persName>.</s>
+			</p>
+			<p>
+				<s n="35" lang="la" state="auto"><persName ref="6959" state="auto_name">Friderichus</persName><fl>36</fl> meus te una cum tota tua familia salutat etc.<pb_edition start_of="232"/></s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="36" lang="la" state="auto">Ornatissimo viro Heyricho Bullingero, Tigurinę ecclesie episcopo, domino et fratri in Christo cum primis colendo<fl>p</fl>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1315">
+		<alpha>
+			<fn ref="a"><i>in der Vorlage</i> aprime.</fn>
+			<fn ref="b">praestare nequeo <i>am Rande nachgetragen.</i></fn>
+			<fn ref="c"><i>in der Vorlage</i> dunck.</fn>
+			<fn ref="d"><i>vor</i> mich <i>verwischtes</i> i.</fn>
+			<fn ref="e"><i>in der Vorlage</i> gaudio.</fn>
+			<fn ref="f">regni sui <i>für gestrichenes</i> sua <i>am Rande nachgetragen.</i></fn>
+			<fn ref="g"><i>in der Vorlage</i> abaß.</fn>
+			<fn ref="h"><i>in der Vorlage</i> inperii.</fn>
+			<fn ref="i">martins <i>korrigiert aus</i> martirys.</fn>
+			<fn ref="k"><i>in der Vorlage</i> necdun.</fn>
+			<fn ref="l"><i>in der Vorlage ecusae.</i></fn>
+			<fn ref="m"><i>Randbemerkung:</i> Das groß Q hab ich nitt.</fn>
+			<fn ref="n"><i>vor</i> apud <i>ein verschmierter Buchstabe.</i></fn>
+			<fn ref="o"><i>in der Vorlage</i> fir.</fn>
+			<fn ref="p"><i>Darunter von späterer Hand:</i> N°. 2.</fn>
+		</alpha>
+		<num>
+			<fn ref="1"><bibl>HBBibl</bibl> I 113; vgl. auch oben <link fk_file="11326">Nr. 1283</link>.</fn>
+			<fn ref="2">Unbekannt.</fn>
+			<fn ref="3"><bibl>BZD</bibl> C 253; vgl. auch <bibl>HBBW V</bibl> <link fk_file="10684">[Nr. 646]</link>, S. 360, Anm. 9.</fn>
+			<fn ref="4">Dazu ist nichts weiter bekannt.</fn>
+			<fn ref="5">recht flink gewesen.</fn>
+			<fn ref="6">sonst wärest du nicht zufrieden mit mir.</fn>
+			<fn ref="7">Graf <persName ref="8098">Georg von Württemberg</persName> hatte laut einem Bericht <persName ref="8071">Voglers</persName> die Bilder und Altäre beseitigen lassen und Schulen eingerichtet; s. oben <link fk_file="11345">Nr. 1302</link> (vgl. auch <bibl>Vadian BW V</bibl> 543f. 557).</fn>
+			<fn ref="8">Vgl. <persName ref="18867">Vergil</persName>, Eclogae, 7, 26.</fn>
+			<fn ref="9"><persName ref="7518">Wolfgang von Grünenstein</persName>, 1535-1557 Fürstabt von Kempten; s. Herbert <i>Immenkötter,</i> Stadt und Stift in der Reformationszeit, in: Geschichte der Stadt Kempten, hg. v. Volker Dotterweich et al., Kempten 1989, S. 167-183, hier: 179f.</fn>
+			<fn ref="10"><persName ref="6402">Simprecht Schenck</persName>.</fn>
+			<fn ref="11">Zum Konflikt zwischen <persName ref="6402">Schenck</persName> und <persName ref="8426">Rasdorfer</persName> vgl. oben <link fk_file="11335">Nr. 1292</link>.</fn>
+			<fn ref="12"><persName ref="8440">Schuler</persName> hatte Bullinger im Juni in Zürich besucht; s. oben <link fk_file="11325">Nr. 1282</link>, 14-18 u. o.</fn>
+			<fn ref="13"><persName ref="4091">Zwinglis</persName> "In evangelicam historiam de domino nostro Iesu Christo, per Matthaeum, Marcum, Lucam et Ioannem conscriptam, epistolasque aliquot Pauli, Annotationes", von <persName ref="1753">Leo Jud</persName> herausgegeben, waren im August 1539 bei <persName ref="1227">Froschauer</persName> in Zürich erschienen; vgl. <bibl>BZD</bibl> C 286.</fn>
+			<fn ref="14">fehlt.</fn>
+			<fn ref="15">so weiter.</fn>
+			<fn ref="16"><persName ref="8440">Schuler</persName> fehlten somit S. 457-599 und die ersten 50 Seiten (Titelseite, Widmungsvorrede <persName ref="1753">Juds</persName>, Zwingliporträt, Gedicht Rhellikans und Index).</fn>
+			<fn ref="17">soweit ich sehe.</fn>
+			<fn ref="18"><persName ref="1227">Christoph Froschauer</persName>.</fn>
+			<fn ref="19">Ein Exemplar des Werkes, mit dem Zueignungsvermerk "Gervasio Scolastico Heynrichus Bullingerus d. d." von <persName ref="8440">Schulers</persName> Hand auf der Titelseite, befindet sich in der Universitätbibliothek Basel.</fn>
+			<fn ref="20">Gemeint ist Bullingers "Der alte Glaube", 1537 bei <persName ref="4844">Wolfgang Fries</persName> in <placeName ref="28">Basel</placeName> erschienen (<bibl>HBBibl</bibl> I 99).</fn>
+			<fn ref="21">unbeliebt. - Vgl. <bibl>Wander</bibl> I 353, Nr. 18 und 22.</fn>
+			<fn ref="22"><persName ref="1039">Benedikt Euander</persName>.</fn>
+			<fn ref="23">Siehe oben <link fk_file="11350">Nr. 1307</link>, 16 mit Anm. 10.</fn>
+			<fn ref="24" type="bio" fk_person="8051"><persName ref="8051">Anna, geb. Adlischwyler</persName>.</fn>
+			<fn ref="25" type="bio" fk_person="19837">[...], <persName ref="19837">geb. Lübegger</persName>.</fn>
+			<fn ref="26" type="bio" fk_person="7042">Bullingers Mutter <persName ref="7042">Anna, geb. Wiederkehr</persName>.</fn>
+			<fn ref="27">Vgl. oben <link fk_file="11260">Nr. 1217</link>, Anm. 46, und <link fk_file="11320">Nr. 1277</link>, Anm. 17.</fn>
+			<fn ref="28" type="bio" fk_person="8440">Am 9. Jan. 1540 meldete <persName ref="8440">Schuler</persName> die Geburt seines Sohnes Paul; vgl. Zürich StA, E II 358, 127.</fn>
+			<fn ref="29"><persName ref="1753">Leo Jud</persName>.</fn>
+			<fn ref="30"><persName ref="8171">Theodor Bibliander</persName>.</fn>
+			<fn ref="31">gesät. - Siehe oben <link fk_file="11350">Nr. 1307</link>, Anm. 8.</fn>
+			<fn ref="32">ich kann aber keines bekommen.</fn>
+			<fn ref="33"><persName ref="8441">Schwenckfeld</persName> hielt sich, nachdem er <placeName ref="513">Ulm</placeName> am 13. September verlassen hatte, in <placeName ref="1976">Augsburg</placeName>, <placeName ref="145">Esslingen</placeName> und Umgebung auf; s. Selina Gerhard <i>Schultz,</i> <persName ref="8441">Caspar Schwenckfeld von Ossig</persName> (1489-1561), Pennsburg 1977, S. 251.</fn>
+			<fn ref="34">bald abgelaufen. -Der auf 15 Monate (ab 1. Mai 1539) befristete <placeName ref="157">Frankfurter</placeName> Anstand sollte bei Ausbleiben der Ratifikation durch den Kaiser bereits nach sechs Monaten auslaufen; s. <bibl>Walch</bibl> XVII 314, Art. 21f; <i>Neuser,</i> Vorbereitung 82.</fn>
+			<fn ref="35">zuvor.</fn>
+			<fn ref="36" type="bio" fk_person="6959"><persName ref="6959">Friedrich Wagner</persName>, von <placeName ref="1757">Nesselwang</placeName> (Kr. Ostallgäu, Bayern), gest. ca. 1560, war 1535 Provisor an der Lateinschule in <placeName ref="320">Memmingen</placeName> und zwischendurch leihweise als Helfer in <placeName ref="907">Kempten</placeName>, 1535-1537 Pfarrer in <placeName ref="1758">Lauben</placeName> (Kr. Unterallgäu, Bayern), dann Helfer zu St. Martin und 1541-1548 Pfarrer bei Unser Frauen in <placeName ref="320">Memmingen</placeName>. <persName ref="8440">Schuler</persName>, der mehrmals Grüße Wagners an Bullinger übermittelt, nennt diesen am 15. Februar 1543 "cooperarius meus" (Zürich StA, E II 358, 143b). 1548 wurde Wagner im Zusammenhang mit der Einführung des Interims suspendiert. 1555 übernahm er das Pfarramt in Frickenhausen (Kr. Unterallgäu, Bayern), vier Jahre später war er im Ruhestand. - Lit.: Hermann Erhard, Memminger Pfarrerbuch, Neustadt a. d. Aisch 1977. -Einzelarbeiten aus der Kirchengeschichte Bayerns, 55, S. 20. 30. 74.</fn>
+		</num>
+	</footnotes>
+</file>

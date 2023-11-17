@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="11295" id_hbbw="1252" id_irg_sort="1252" id_sort="112520">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11295</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1252</arpa>
+		<scan_pages>
+			<scan id="26263" dir="11295/Autograph/" page="1">00 E_II_336__fol__205_r_.tif</scan>
+			<scan id="26264" dir="11295/Autograph/" page="2">01 E_II_336__fol__205_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich Bächtold und Rainer Henrich, Zürich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>Bächtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bemühungen um einen religiösen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespräch brachten vor allem die Zürcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verhältnis von Universität und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Zürcher Kirchenführer stützen konnte. Während der Horizont seiner Korrespondenz im vorliegenden Jahrgang spürbar europäischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Zürich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="22924" vf="1" fk_add_type="1">
+				<person id="8418" fk_id="8418">
+					<name>Myconius (Geißhüsler)</name>
+					<forename>Oswald</forename>
+				</person>
+				<place id="28" vf="1" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="22925" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11295">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">4</month>
+				<day fk_d="" d="" vf="1" fn="">8</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="17767">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 336,205</signature>
+				<signature_old>E II 336,187</signature_old>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="11121" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1252, S. 102</entry>
+				<page>102</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="26">
+				<lang id="1" iso="de" count="2" p="7.7"/>
+				<lang id="5" iso="la" count="24" p="92.3"/>
+			</sentences>
+			<words count="346">
+				<lang id="1" iso="de" count="7" p="2.0"/>
+				<lang id="5" iso="la" count="339" p="98.0"/>
+			</words>
+			<chars count="2019">
+				<lang id="1" iso="de" count="32" p="1.6"/>
+				<lang id="5" iso="la" count="1987" p="98.4"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1252" page="102">
+		<div ref="1">
+			Da <persName ref="1365">Grynäus</persName> keine ungebundenen Bücher liest, haben sie beide Bullingers
+			[„De origine erroris“] noch nicht studiert. Von den Verhandlungen in
+			<placeName ref="157">Frankfurt</placeName> will <persName ref="8418">Myconius</persName>
+			schweigen und einzig erwähnen, daß der Kaiser, der zum Krieg gegen den englischen
+			<persName ref="18505">König [Heinrich VIII.]</persName> rüstet, dessen Aufnahme in den [Schmalkaldischen] Bund zu
+			verhindern sucht. Die feindliche Haltung der Kaiserlichen hat sich auch bei einem Zwischenfall mit
+			Gefolgsleuten des Großhofmeisters [<persName ref="7444">Adrian von Croy</persName>] bei
+			<placeName ref="1737">St. Jakob an der Birs</placeName>
+			gezeigt. Weiß nicht, ob sich Bürgermeister [Jakob
+			Meyer] wie versprochen für
+			<persName ref="1783">[Diethelm] Keller</persName> eingesetzt
+			hat. Ob <persName ref="1365">Grynäus</persName> <persName ref="8011">Rudolf [Gwalther]</persName> bei sich aufnehmen kann, ist angesichts der veränderten
+			Umstände noch unklar; <persName ref="8418">Myconius</persName> verspricht sich für die Zukunft viel
+			von <persName ref="8011">Gwalther</persName>.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1252" page="102">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S.</s>
+				<s n="2" lang="la" state="auto">Librum tuum<fl>1</fl> nondum legimus, quia nondum est ligatus, qualem tamen <persName ref="1365">Grynęus</persName> legere in more non<fl>b</fl> habet.<pb_edition start_of="103"/></s>
+			</p>
+			<p>
+				<s n="3" lang="la" state="auto">De his, quę aguntur Francfordiae<fl>2</fl> et sciri possunt, quia satis a mercatoribus doceberis, a quibus et nos expectamus plura, taceo in genere dicens caesarem<fl>3</fl>, si sit occasio, nihil omittere, quod pertinere videtur ad extirpandum evangelium Christi.</s>
+				<s n="4" lang="la" state="auto">Unde ab <persName ref="18505" state="auto_name">Anglo</persName><fl>4</fl> quaerit initium; hic est Turca, contra quem tam ingens hactenus navium, armorum, cibi, hominum vis est instructa<fl>5</fl>.</s>
+				<s n="5" lang="la" state="auto">Quamobrem in hoc totus est, ut principes et civitates<fl>6</fl> absterreat, ne illum et adhuc alios quosdam, quos cupit extinctos, in foedus recipiant.</s>
+			</p>
+			<p>
+				<s n="6" lang="la" state="auto">Ait non se posse concedere quidpiam ultra, quae concessa sint in comitiis <placeName ref="361">Norinbergensibus</placeName><fl>7</fl>.</s>
+				<s n="7" lang="la" state="auto">E quibus venatur, quicquid ea tandem contineant, occasionem prohibendi nostris, ne regem tueantur.</s>
+				<s n="8" lang="la" state="auto">Contra solum certam promittit sibi victoriam et ex hac, quae promiserat animo suo, postquam subiecisset <persName ref="7637" state="auto_name">Gallum</persName><fl>8</fl>.</s>
+				<s n="9" lang="la" state="auto">Hae sunt artes clementissimi, optimi, piissimi caesaris.</s>
+			</p>
+			<p>
+				<s n="10" lang="la" state="auto">Transiit diebus his equis quadraginta praefectus praetorii caesariani<fl>9</fl> <placeName ref="300">Lucernam</placeName> versus.</s>
+				<s n="11" lang="la" state="auto">Ubi venerunt quidam e suis ad ędem divi <persName ref="8129">Iacobi</persName> iuxta <placeName ref="1737" state="auto_name">Birsam</placeName><fl>10</fl>, requisitum est portorium; ipsi vero indignari, maledicere et haeresim exprobrare incipiebant, donec concursus a signo campanulae factus eos abegerat, ita tamen, ne obolus solutus sit.</s>
+				<s n="12" lang="la" state="auto">Quod nisi factum, sine dubio e nostris aliqui periissent.</s>
+				<s n="13" lang="la" state="auto">Tales sunt caesariani erga nos; qualis igitur caesar?</s>
+			</p>
+			<p>
+				<s n="14" lang="de" state="auto">Er stecket dem papst im etc<fl>11</fl>.</s>
+				<s n="15" lang="la" state="auto">De <persName ref="1783">Cellario</persName><fl>12</fl> perquam diligenter egi, et bene promiserat consul<fl>13</fl>; num quid scriptum sit, deinceps non rogavi promissione fisus.</s>
+				<s n="16" lang="la" state="auto">Tu scire potes, an aliquid effecerim<fl>14</fl>.</s>
+			</p>
+			<p>
+				<s n="17" lang="la" state="auto">De Rodulpho<fl>15</fl> <persName ref="1365">Grynaeum</persName> admonui<fl>16</fl>, sed nihil respondit.</s>
+				<s n="18" lang="la" state="auto">Forsitan cum uxore<fl>17</fl> mutavit et animum, imo cum statu quoque: Potuisset uti Rodulpho,<pb_edition start_of="104"/> si mansisset apud <placeName ref="1976">Augustinianos</placeName><fl>18</fl>, et ita etiam longe facilius fovere, cum nunc quieti magis et propriis studiis consulens nec indigeat alterius opera nec levioribus impensis quenquam pascere valeat.</s>
+				<s n="19" lang="la" state="auto">Sed utcunque, talem hactenus sum expertus, ut nondum credam promissa prorsus inania.</s>
+				<s n="20" lang="la" state="auto">Rodulphus bene se gerit, proficit in dies; quae res facit, ut charus sit omnibus, in primis nobis.</s>
+				<s n="21" lang="la" state="auto">Si dominus servaverit, habebitis aliquando ornamentum non vulgare.</s>
+			</p>
+			<p>
+				<s n="22" lang="la" state="auto">Vale cum tuis feliciter in domino.</s>
+			</p>
+			<p>
+				<s n="23" lang="la" state="auto"><placeName ref="28">Basileae</placeName>, 8. aprilis anno 39.</s>
+			</p>
+			<p>
+				<s n="24" lang="la" state="auto"><persName ref="8418">Os. Myconius</persName> tuus.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="25" lang="la" state="auto">Domino Heinricho Bullingero, episcopo Tigurino, in domino venerando suo.</s>
+				<s n="26" lang="de" state="auto">Zü[ri]ch<fl>c</fl>.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1252">
+		<alpha>
+			<fn ref="a" meta="1"><i>Mit</i> Unterstreichungen <i>von späterer Hand.</i></fn>
+			<fn ref="b">non <i>am Rande nachgetragen.</i></fn>
+			<fn ref="c"><i>Teilweise auf das nicht mehr vorhandene Verschlußband geschrieben.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">"De origine erroris libri duo" (<bibl>HBBibl</bibl> I 12); vgl. oben <link fk_file="11282">Nr. 1239</link>, 10-15.</fn>
+			<fn ref="2">An der Tagung des Schmalkaldischen Bundes; vgl. oben <link fk_file="11273">Nr. 1230</link>, Anm. 4.</fn>
+			<fn ref="3"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="4"><persName ref="18505">König Heinrich VIII.</persName></fn>
+			<fn ref="5">Obwohl die kaiserlichen Rüstungen tatsächlich gegen die Türken gerichtet waren, wurde die Vermutung, es stehe ein Feldzug gegen <entity id="9" type="geo_country">England</entity> bevor, von vielen geteilt (vgl. oben <link fk_file="11275">Nr. 1232</link>, 38 mit Anm. 17).</fn>
+			<fn ref="6">d. h. die Mitglieder des Schmalkaldischen Bundes.</fn>
+			<fn ref="7">Der kaiserliche Orator <persName ref="7852">Johann von Weeze</persName> fand sich nicht dazu bereit, mehr als eine Erstreckung des <placeName ref="361">Nürnberger</placeName> Friedens um ein Jahr und einige Monate zuzugestehen. Außerdem sollte der Friede nur für jene gelten, die bereits jetzt dem <placeName ref="1976">Augsburger</placeName> Bekenntnis angehörten, und eine Erweiterung des Schmalkaldischen Bundes sollte ausgeschlossen sein; vgl. <bibl>PC</bibl> II 575. 582. 589f.</fn>
+			<fn ref="8"><persName ref="7637">König Franz I.</persName></fn>
+			<fn ref="9">Gemeint ist der kaiserliche Großhofmeister <persName ref="7444">Adrian von Croy</persName>, Graf von Roeulx, der sich am 1. April in Basel aufhielt; s. <bibl>PC</bibl> II 591.</fn>
+			<fn ref="10"><placeName ref="1737">St. Jakob an der Birs (Basel)</placeName>.</fn>
+			<fn ref="11">Vgl. die Redensart "einem in den Arsch kriechen" (<bibl>Wander</bibl> I 147, Nr. *67; s. a. unten <link fk_file="11299">Nr. 1256</link>, 9f).</fn>
+			<fn ref="12"><persName ref="1783">Diethelm Keller</persName>; vgl. oben <link fk_file="11286">Nr. 1243</link>, 2-8.</fn>
+			<fn ref="13"><persName ref="8129">Jakob Meyer</persName>.</fn>
+			<fn ref="14">Ein entsprechendes Schreiben ließ sich nicht nachweisen; vgl. auch unten <link fk_file="11299">Nr. 1256</link>, 15.</fn>
+			<fn ref="15"><persName ref="8011">Rudolf Gwalther</persName>; vgl. oben <link fk_file="11282">Nr. 1239</link>, 7-9.</fn>
+			<fn ref="16">Vgl. oben <link fk_file="11288">Nr. 1245</link>, 24-28.</fn>
+			<fn ref="17" type="bio" fk_person="5044"><persName ref="5044">Katharina, geb. Lompart</persName> (vgl. <bibl>HBBW VIII</bibl> <link fk_file="11217">[Nr. 1174]</link>, S. 219, Anm. 18).</fn>
+			<fn ref="18">Im Mai 1538 war <persName ref="1365">Grynäus</persName> als Leiter des Augustinerkollegs von <persName ref="8126">Oporin</persName> abgelöst worden; vgl. <bibl>Thommen</bibl> 356f (zum Kolleg auch S. 66-68); Paul <i>Wernle,</i> Calvin und <placeName ref="28">Basel</placeName> bis zum Tode des <persName ref="8418">Myconius</persName>. 1535-1552, <placeName ref="28">Basel</placeName> 1909, S. 97, Anm. 83.</fn>
+		</num>
+	</footnotes>
+</file>

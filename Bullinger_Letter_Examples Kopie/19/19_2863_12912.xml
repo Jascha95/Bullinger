@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12912" id_hbbw="2863" id_irg_sort="2863" id_sort="128630">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12912</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2863</arpa>
+		<scan_pages>
+			<scan id="30233" dir="12912/Autograph/" page="1">00 E_II_338__fol__1453_r_.tif</scan>
+			<scan id="30234" dir="12912/Autograph/" page="2">01 E_II_338__fol__1453_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26372" vf="1" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26373" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12912">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">28</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19484">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 338,1453</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9169" fk_bib="0">
+				<bib_type id="1">Zusammenfassende Übersetzung</bib_type>
+				<entry>Blarer BW II, S. 614, Nr. 1428</entry>
+			</print>
+			<print id="12408" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2863, S. 456</entry>
+				<page>456</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="22">
+				<lang id="1" iso="de" count="21" p="95.5"/>
+				<lang id="5" iso="la" count="1" p="4.5"/>
+			</sentences>
+			<words count="250">
+				<lang id="1" iso="de" count="246" p="98.4"/>
+				<lang id="5" iso="la" count="4" p="1.6"/>
+			</words>
+			<chars count="1305">
+				<lang id="1" iso="de" count="1274" p="97.6"/>
+				<lang id="5" iso="la" count="31" p="2.4"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2863" page="455">
+		<div ref="1">
+			[1] Nun kommt (wie bereits angekündigt mit dem Brief [nicht erhalten], den
+			<persName ref="8055">Blarer</persName> dem Boten [...] Bullingers mitgeben hatte) der Diener [...] von
+			<persName ref="8498">Marcell Dietrich von Schankwitz</persName>. Er reicht den Antrag [zum Kauf des Schlosses
+			Dübelstein bei den Zürcher Behörden] ein. Bullinger soll sich an
+			<persName ref="8055">Blarers</persName> Anweisungen halten, wenn man sich bei ihm erkundigt.
+		</div>
+		<div ref="2">
+			[2] Hauptmann <persName ref="17997">[Hans] Schnabel [von Schönstein]</persName>, der nun in
+			<placeName ref="361">Nürnberg</placeName> ist, soll in der Schlacht [bei
+			<placeName ref="2396">Rochlitz</placeName>] (die der Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> für sich entschieden hat) einen Arm verloren haben.
+		</div>
+		<div ref="3">
+			[3] Gestern traf ein Schreiben des <placeName ref="457">Konstanzer</placeName> Boten
+			[Hans] Wolff ein, der am 1. März mit Briefen nach
+			<placeName ref="749">Sachsen</placeName> gesandt wurde. Darin berichtet er, wie er von zwei im
+			Dienste <persName ref="7459">Maximilians von Egmont</persName>, des Grafen von Büren, stehenden Adligen festgenommen wurde und die Briefe
+			(darunter auch die des <persName ref="2916">Sebastian Schertlin</persName>) beschlagnahmt wurden. Sie hielten ihn lange gefangen, damit die
+			<placeName ref="457">Konstanzer</placeName> nicht sogleich vom Verlust ihrer Briefe erfahren
+			würden. Er musste ein hohes Lösegeld von 100 Talern bezahlen. Für den Rat scheint der Verlust der Briefe
+			weniger schlimm als für Schertlin zu sein.
+		</div>
+		<div ref="4">
+			[4] Bullinger möge für die <placeName ref="457">Konstanzer</placeName> beten. Grüße.
+		</div>
+		<div ref="5">
+			[5] Es sollen sich viele Abgeordnete nach <placeName ref="21">Baden</placeName> [zur Tagsatzung]
+			begeben. In <placeName ref="1134">Kreuzlingen</placeName> wirbt man Knechte [für <persName ref="18538">Kaiser Karl V.</persName>] an.
+			Der Herr verleihe endlich Frieden!
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2863" page="456">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto">Lieber her und getruwester, vertrauwtester bruͦder.</s>
+				<s n="2" lang="de" state="auto">Zoͤger<fl>1</fl> ist des <persName ref="8498">Marcell Dietrichs</persName> knecht<fl>2</fl>, davon ich euch by ewerm botten<fl>3</fl> geschriben hab<fl>4</fl>, das er den bschaid<fl>5</fl> by euch raichen<fl>6</fl> werd.</s>
+				<s n="3" lang="de" state="auto">Da wellt nun meinem vertrauwen nach anzoͤgung thain<fl>7</fl> aller puncten halber, wie ich euch davon geschriben.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="de" state="auto">Sonst haben wir sydher nichts news, dann das hoptman <persName ref="17997">Schnabel</persName><fl>8</fl> zuͦ <placeName ref="361">Nuͤremberg</placeName> lige.</s>
+				<s n="5" lang="de" state="auto">Habe ain arm gar verloren vom lyb in der ainen schlacht, die der churfurst<fl>9</fl> erobert hat.</s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="6" lang="de" state="auto">Ouch ist meinen herren ir uberrüter<fl>10</fl>, ainer mytt namen Wolff<fl>11</fl>, den sy <la>prima martii</la> mitt brieffen in <placeName ref="749">Sachsen</placeName> geschickt haben, nidergelegt<fl>12</fl> worden von zwayen edelleuten<fl>13</fl>, dem von Peuren<fl>14</fl> zuͦgehoͤrig.</s>
+				<s n="7" lang="de" state="auto">Habend im all brieff genommen (dann<fl>15</fl> der <persName ref="2916">Schertle</persName><fl>16</fl> hat ouch brieff dabey gehapt)<fl>a</fl> und inn sydert ye<fl>17</fl> uffgehalten, damitt man maine, die brieff seyen gefertiget<fl>18</fl> worden, und man nitt gleych ander moͤchte hinein geschickt haben.</s>
+				<s n="8" lang="de" state="auto">Sy habend inn gerantzet.<fl>19</fl></s>
+				<s n="9" lang="de" state="auto">Kostet inn vyl: Muͦß inen darzuͦ hundert taler geben!</s>
+				<s n="10" lang="de" state="auto">Hat necht<fl>20</fl> minen herren zuͦgeschriben.</s>
+				<s n="11" lang="de" state="auto">Allso geht es in der wellt.</s>
+				<s n="12" lang="de" state="auto">Ich merck wol, das meinen herren an den brieffen nitt sonders gelegen.<fl>21</fl></s>
+				<s n="13" lang="de" state="auto">Aber mit dem <persName ref="2916">Schertle</persName> ists etwas fahrlicher<fl>22</fl>, doch ouch nitt alls gar boͤß, etc.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="14" lang="de" state="auto">Damitt dem herren gott zytlich und ewig<fl>23</fl> bevolchen.</s>
+				<s n="15" lang="de" state="auto">Den bittend on uffhoͤren fuͤr unß.</s>
+				<s n="16" lang="de" state="auto">Gruͤzt die ewern all und seind von den unsern ouch gegruͤzt.</s>
+				<s n="17" lang="de" state="auto">Datum den 28. mertz.<pb_edition start_of="457"/></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="18" lang="de" state="auto">Man sagt, es seye ain treffelich zuͦryten gen <placeName ref="21">Baden</placeName>.<fl>24</fl></s>
+				<s n="19" lang="de" state="auto">So<fl>25</fl> gibt man schon gelt ausß den kechten zuͦ Creuzlingen.<fl>26</fl></s>
+				<s n="20" lang="de" state="auto">Gott verhelff unß ainmal<fl>27</fl> zum ewigen friden.</s>
+				<s n="21" lang="la" state="auto">Amb[rosius] Bl[arer].</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite]</note>
+				<s n="22" lang="de" state="auto">An maister Hainrich Bullinger zuͦ Zuͤrich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2863">
+		<alpha>
+			<fn ref="a"><i>Klammern ergänzt.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1">Der Briefüberbringer.</fn>
+			<fn ref="2">Unbekannter Diener von <persName ref="8498">Marcell Dietrich von Schankwitz</persName>.</fn>
+			<fn ref="3">Unbekannt.</fn>
+			<fn ref="4">Nicht erhalten.</fn>
+			<fn ref="5">Antrag (mit dem Dietrich auf <persName ref="2809">Gotthard Richmuts</persName> Offerte. das Schloss Dübelstein von ihm zu kaufen, antwortete); s. <bibl>SI</bibl> VIII 216. - Siehe dazu <link fk_file="12891">Nr. 2842</link>,34-37. Offensichtlich hatte sich <persName ref="8498">Schankwitz</persName> nach kurzem Zögern (s. <link fk_file="12896">Nr. 2847</link>,15f) doch noch entschieden, den Kauf zu beantragen.</fn>
+			<fn ref="6">einreichen.</fn>
+			<fn ref="7">tun.</fn>
+			<fn ref="8"><persName ref="17997">Hans Schnabel d.J. von Schönstein</persName>, kaiserlicher Hauptmann.</fn>
+			<fn ref="9"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>. - Gemeint ist die Schlacht bei <placeName ref="2396">Rochlitz</placeName>; s. <link fk_file="12881">Nr. 2832</link>, Anm. 35.</fn>
+			<fn ref="10">berittener Amtsdiener bzw. Bote; s. <bibl>SI</bibl> VI 1680.</fn>
+			<fn ref="11">Vermutlich Hans Wolff, der in der <placeName ref="457">Konstanzer</placeName> Steuerliste des Jahres 1547 (Steuerbücher der Stadt <placeName ref="457">Konstanz</placeName>, Bd. 3: 1540-1620, bearb. v. Peter Rüster, <placeName ref="457">Konstanz</placeName> 1966, S. 53, <link fk_file="11304">Nr. 1261</link>) bezeugt ist, sowie in: Die Firma Felix und Jakob Grimmel zu <placeName ref="457">Konstanz</placeName> und <placeName ref="320">Memmingen</placeName>. Quellen und Materialien zu einer oberdeutschen Handelsgesellschaft aus der Mitte des 16. Jahrhunderts, hg. von Frank Göttman und Andreas Nutz, Stuttgart 1999, S. 44, wo er vor 1560 als Stadtknecht von <placeName ref="457">Konstanz</placeName> nachgewiesen ist.</fn>
+			<fn ref="12">festgenommen.</fn>
+			<fn ref="13">Unbekannt.</fn>
+			<fn ref="14"><persName ref="7459">Maximilian von Egmont</persName>, Graf von Büren.</fn>
+			<fn ref="15">bei welcher Gelegenheit.</fn>
+			<fn ref="16"><persName ref="2916">Sebastian Schertlin</persName>.</fn>
+			<fn ref="17">sydert ye: von dann an lange.</fn>
+			<fn ref="18">überbracht; s. <bibl>SI</bibl> I 1003.</fn>
+			<fn ref="19">inn gerantzet: Lösegeld von ihm gefordert.</fn>
+			<fn ref="20">gestern Abend.</fn>
+			<fn ref="21">Gemeint ist, dass die Ratsherren den Verlust der beschlagnahmten Briefe nicht sonderlich bedauern.</fn>
+			<fn ref="22">gefährlicher (in Bezug auf Schertlins beschlagnahmte Briefe).</fn>
+			<fn ref="23">zytlich und ewig: im Diesseits und Jenseits.</fn>
+			<fn ref="24">Zu der am 28. März begonnenen Tagsatzung von <placeName ref="21">Baden</placeName> s. <link fk_file="12911">Nr. 2862</link>, Anm. 58.</fn>
+			<fn ref="25">Auch.</fn>
+			<fn ref="26">Vermutlich ist hier von einer Söldneranwerbung für <persName ref="18538">Kaiser Karl V.</persName> die Rede; vgl. <bibl>EA</bibl> IV/1d 798 g.</fn>
+			<fn ref="27">endlich.</fn>
+		</num>
+	</footnotes>
+</file>

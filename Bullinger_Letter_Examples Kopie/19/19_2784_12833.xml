@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12833" id_hbbw="2784" id_irg_sort="2784" id_sort="127840">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12833</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2784</arpa>
+		<scan_pages>
+			<scan id="30026" dir="12833/Autograph/" page="1">00 E_II_357__fol__92_b_v_.tif</scan>
+			<scan id="30027" dir="12833/Autograph/" page="2">01 E_II_357__fol__92_b_r_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26209" vf="0" fk_add_type="1">
+				<person id="8055" fk_id="8055">
+					<name>Blarer (Blaurer)</name>
+					<forename>Ambrosius</forename>
+				</person>
+				<place id="257" vf="" fk_id="257" long="9.1759" lat="47.6633">Konstanz</place>
+				<district id="16">Baden-Württemberg</district>
+				<country id="18">Deutschland</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26210" vf="0" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+				<fn>1</fn>
+			</addressee>
+		</addressees>
+		<date id="12833">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">2</month>
+				<day fk_d="" d="" vf="1" fn="">1</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19399">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 357,92a</signature>
+				<note>Signatur: 92a?</note>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="9062" fk_bib="0">
+				<bib_type id="12">Druck</bib_type>
+				<entry>Blarer BW II, S. 582, Nr. 1404</entry>
+			</print>
+			<print id="12423" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2784, S. 227</entry>
+				<page>227</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="7">
+				<lang id="1" iso="de" count="7" p="100.0"/>
+			</sentences>
+			<words count="88">
+				<lang id="1" iso="de" count="88" p="100.0"/>
+			</words>
+			<chars count="476">
+				<lang id="1" iso="de" count="476" p="100.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2784" page="226">
+		<div ref="1">
+			[1] Den mit diesem Zettelchen übersandten Brief [<link fk_file="12827">Nr. 2778</link>] hatte <persName ref="8055">Blarer</persName> seinem
+			[nach Zürich reisenden] Vetter <persName ref="4082">Konrad Zwick</persName> anvertraut. Dieser vergaß
+			aber, ihn auszuhändigen.
+		</div>
+		<div ref="2">
+			[2] <persName ref="4082">Zwick</persName> teilt mit, dass Bullinger eine Kopie des von ihm [im Namen des
+			<placeName ref="457">Konstanzer</placeName> Rats]<pb_edition start_of="227"/> verfassten Briefs [an
+			die Vier Städte] beim Zürcher Stadtschreiber [<persName ref="8339">Hans Escher vom Luchs</persName>] einsehen kann. Er ist nicht dazu
+			gekommen, ihn für Bullinger abzuschreiben. Er muss bereits wieder auf Dienstreise.
+		</div>
+		<div ref="3">
+			[3] Eine Gesandtschaft des <placeName ref="457">Konstanzer</placeName> Bischofs <persName ref="7852">Johann von Weeze</persName>
+			wurde heute bei dem <placeName ref="457">Konstanzer</placeName> Rat vorstellig. Sie warnte diesen
+			und sagte, dass der Bischof bereit sei, zugunsten <placeName ref="457">Konstanz</placeName>’ mit
+			<persName ref="18538">Kaiser Karl V.</persName> zu verhandeln. Mögen die <placeName ref="457">Konstanzer</placeName> beständig
+			bleiben!
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2784" page="227">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="de" state="auto"><pb_scan n="92av."/>Disen brieff hab<fl>3</fl> ich euch by minem vetter geschickt.<fl>4</fl></s>
+				<s n="2" lang="de" state="auto">Der hat dero in der bulgen<fl>5</fl> vergessen; schick ich hiemitt.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="3" lang="de" state="auto">Ich soll euch anzoͤgen, das ir ain abschrifft seiner werbung<fl>6</fl> by ewerm stattschriber<fl>7</fl> finden werdind.</s>
+				<s n="4" lang="de" state="auto"><persName ref="4082" state="auto_name">Hat</persName><fl>8</fl> nitt zyt abzeschriben.</s>
+				<s n="5" lang="de" state="auto">Muͦß glich widerum hinweg ryten.<fl>9</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="6" lang="de" state="auto"><pb_scan n="92ar."/>Unser bischoff hatt<fl>10</fl> uff hutt sein bottschafft vor rath gehapt, mine herren gewarnet, etc., sich ouch empotten, das er gern gegen<fl>11</fl> kai[serliche] m[ajesta]t<fl>12</fl> unterhandler sein<fl>b</fl> welle; und er maine es alles getrulich und vaͤtterlich, etc.</s>
+				<s n="7" lang="de" state="auto">Ach ewiger gott, gib hertz und stercke, das wir bestandind!</s>
+			</p>
+			<p>
+				<note type="signature">[Ohne Unterschrift.]</note>
+			</p>
+			<p>
+				<note type="address">[Ohne Adresse<fl>13</fl>]</note>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2784">
+		<alpha>
+			<fn ref="a" meta="1"><i>Dieses auf beiden Seiten beschriebene Zettelchen konnte <persName ref="8055">Blarers</persName> Brief <link fk_file="12827">Nr. 2778</link> vom 29. Januar beigefügt werden, weil dieser vermutlich noch unversiegelt war (da <persName ref="8055">Blarer</persName> ihn seinem Cousin <persName ref="4082">Konrad Zwick</persName> zur Übermittlung anvertraut hatte). Erst nachdem das Zettelchen dem Brief beigelegt wurde, wurde dieser versiegelt.</i></fn>
+			<fn ref="b"><i>In der Vorlage</i> seine.</fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1">Der Empfänger kann durch einen Vergleich von unten Z. 5f mit <link fk_file="12827">Nr. 2778</link>.1-6, ermittelt werden.</fn>
+			<fn ref="2" meta="1">Die Datierung ergibt sich aus <link fk_file="12839">Nr. 2790</link>,55f.</fn>
+			<fn ref="3">Gemeint ist <persName ref="8055">Blarers</persName> Brief <link fk_file="12827">Nr. 2778</link> vom 29. Januar 1547.</fn>
+			<fn ref="4"><persName ref="4082">Konrad Zwick</persName>.</fn>
+			<fn ref="5">Reisetasche; Ledersack.</fn>
+			<fn ref="6">Es handelt sich um das Schreiben des <placeName ref="457">Konstanzer</placeName> Rats an die vier protestantischen Städte der Eidgenossenschaft vom 1. Februar 1547; s. dazu <link fk_file="12816">Nr. 2767</link>, Anm. 21.</fn>
+			<fn ref="7"><persName ref="8339">Hans Escher vom Luchs</persName>.</fn>
+			<fn ref="8">Subjekt ist <persName ref="4082">Zwick</persName>.</fn>
+			<fn ref="9"><persName ref="4082">Zwick</persName> verließ <placeName ref="457">Konstanz</placeName> vor Tagesanbruch des 2. Februars in Richtung eines unbekannten Ortes in  <entity id="119" type="geo_region">Süddeutschland</entity>; s. <link fk_file="12832">Nr. 2783</link>,3-8. Er wollte schon am Abend des 3. Februars wieder in <placeName ref="457">Konstanz</placeName> sein; s. <link fk_file="12839">Nr. 2790</link>,13.</fn>
+			<fn ref="10"><persName ref="7852">Johann von Weeze</persName>.</fn>
+			<fn ref="11">gegenüber.</fn>
+			<fn ref="12"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="13">Dieses Zettelchen war vermutlich zusammen mit Blarers Briefen <link fk_file="12827">Nr. 2778</link> und <link fk_file="12831">Nr. 2782</link> vom 29. bzw. 31. Januar Teil einer einzigen Briefsendung; s. oben <link fk_file="12831">Nr. 2782</link>, Anm. a.</fn>
+		</num>
+	</footnotes>
+</file>

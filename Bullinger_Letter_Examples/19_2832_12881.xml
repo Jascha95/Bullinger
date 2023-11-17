@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<file>
+	<metadata id="12881" id_hbbw="2832" id_irg_sort="2832" id_sort="128320">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Zürich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/12881</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=2832</arpa>
+		<scan_pages>
+			<scan id="30164" dir="12881/Autograph/" page="1">00 E_II_366__fol__196_r_.tif</scan>
+			<scan id="30165" dir="12881/Autograph/" page="2">01 E_II_366__fol__196_v_.tif</scan>
+		</scan_pages>
+		<reference id="22" fk_id="22" fk_lang_code="22">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 19 (Briefe von Januar bis März 1547), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2019, 496 S., ISBN 978-3-290-18186-4.</entry>
+			<title>HBBW XIX</title>
+			<abbrev>19</abbrev>
+			<editor>Bodenmann, Reinhard; Kess, Alexandra; Seiniger, Judith</editor>
+			<period>Januar bis März 1547</period>
+			<year>2019</year>
+			<place>Zürich</place>
+			<publisher>Theologischer Verlag Zürich (TVZ)</publisher>
+			<volume>19</volume>
+			<isbn>ISBN 978-3-290-18186-4</isbn>
+			<pages>496</pages>
+			<other>Die 137 in diesem Band veröffentlichten Briefe von Januar bis März 1547 zeigen anschaulich, wie sich die protestantischen Reichsstädte des süddeutschen Raums, darunter Augsburg, Strassburg und Ulm, dem katholischen Kaiser Karl V. unterwarfen, wieso Konstanz dies aber nicht tat – und wie die vier protestantischen Städte und deren neun katholisch gebliebene Verbündete miteinander auskamen. Die Briefe dokumentieren auch, wie bikonfessionelle Gebiete wie etwa der Thurgau oder das Bündnerland Pfarrern in Schwierigkeiten einen idealen Unterschlupf boten. So erfährt man im Briefwechsel nicht nur vieles über den damals 42-jährigen Bullinger, sondern auch über das Umfeld der 52 Personen und Institutionen aus insgesamt 18 verschiedenen Ortschaften, mit denen er während dieser ersten drei Monate des Jahres 1547 korrespondierte.</other>
+		</reference>
+		<senders>
+			<sender id="26306" vf="1" fk_add_type="1">
+				<person id="1278" fk_id="1278">
+					<name>Gast</name>
+					<forename>Johannes</forename>
+				</person>
+				<place id="28" vf="" fk_id="28" long="7.57327" lat="47.55839">Basel</place>
+				<district id="23">Basel-Stadt</district>
+				<country id="58">Schweiz</country>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="26307" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="12881">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1547</year>
+				<month fk_d="" d="" vf="1" fn="">3</month>
+				<day fk_d="" d="" vf="1" fn="">1</day>
+			</min>
+			<max/>
+		</date>
+		<documents>
+			<document id="19451">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Zürich StA</archive>
+				<signature>E II 366,196</signature>
+			</document>
+		</documents>
+		<literatures/>
+		<prints>
+			<print id="12354" fk_bib="22">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 19, Nr. 2832, S. 378</entry>
+				<page>378</page>
+			</print>
+		</prints>
+		<notes/>
+		<languages>
+			<sentences count="24">
+				<lang id="1" iso="de" count="16" p="66.7"/>
+				<lang id="5" iso="la" count="8" p="33.3"/>
+			</sentences>
+			<words count="286">
+				<lang id="1" iso="de" count="239" p="83.6"/>
+				<lang id="5" iso="la" count="47" p="16.4"/>
+			</words>
+			<chars count="1487">
+				<lang id="1" iso="de" count="1190" p="80.0"/>
+				<lang id="5" iso="la" count="297" p="20.0"/>
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="22" nr="2832" page="377">
+		<div ref="1">
+			[1] Bullinger kann sich freuen, denn <persName ref="8418">Myconius</persName> ist wieder gesund, auch
+			wenn er seinen Brief [<link fk_file="12882">Nr. 2833</link>] noch vom Bett aus schreibt.
+		</div>
+		<div ref="2">
+			[2] Landgraf <persName ref="18574">Philipp von Hessen</persName> hat dem Obristen [<persName ref="18835">Johann Hilchen von Lorch</persName>] in
+			<placeName ref="157">Frankfurt</placeName> einen Trompeter [...] geschickt. Weshalb, konnte der
+			Bote [...], der schnell wieder fortmusste, nicht erfahren. Vermutlich hat auch Philipp einen Frieden mit
+			<persName ref="18538">Kaiser Karl V.</persName> geschlossen, um rehabilitiert zu werden.
+		</div>
+		<div ref="3">
+			[3] Über Herzog <persName ref="1546">Christoph von Württemberg</persName> kann
+			<persName ref="1278">Gast</persName> keine Auskunft geben, außer dass er innerhalb von 14 Tagen wieder
+			nach Mömpelgard ziehen wird. Doch dem Gerücht zufolge soll er tatsächlich sein Territorium an <persName ref="7637">König Franz I. von Frankreich</persName> verpfändet haben.
+		</div>
+		<div ref="4">
+			[4] Da Graf <persName ref="8098">Georg von Württemberg-Mömpelgard</persName> ein Abkommen mit der Basler Obrigkeit hat, wird
+			seinem Land vermutlich nichts passieren, zumal der Graf nun auch
+			versucht, sich mit dem Kaiser zu versöhnen. Er sandte diesem einen Boten [...].
+		</div>
+		<div ref="5">
+			[5] In <placeName ref="922">Freiburg i.Br.</placeName> sowie im Markgräflerland werden als Ersatz
+			für die vielen Toten (es sterben 30 bis 40 pro Tag!) Landsknechte für den Kaiser angeworben und nach
+			<placeName ref="513">Ulm</placeName> geschickt. Man sagt, dass sie auf der
+			Donau nach <placeName ref="546">Wien</placeName>
+			verschifft werden sollen, weil Sultan Suleiman in <entity id="81" type="geo_region">Siebenbürgen</entity>
+			gewütet hat, jetzt Kriegsvolk nach Ofen [<placeName ref="1074">Buda</placeName>] schickt und
+			vorhabe, sich die [ungarischen] Städte zu unterwerfen. Den jungen König Matthias [richtig: <persName ref="7234">Johann Sigismund Zápolya</persName>], den Sohn des Woiwoden [<persName ref="7234">Johannes I. Zápolya</persName>], will er krönen,
+			wenn dieser sich verpflichtet, die Städte [vom Hause Habsburg] abtrünnig zu machen.
+		</div>
+		<div ref="6">
+			[6] Zwei Landsknechte erzählten, dass Kurfürst <persName ref="19065">Johann Friedrich von Sachsen</persName> die kaiserlichen Truppen des
+			Markgrafen <persName ref="18422">Albrecht Alcibiades von Brandenburg-Kulmbach</persName> besiegt hätte. Wenn es nur wahr wäre und die Feinde
+			der Kirche zugrunde gingen!
+		</div>
+		<div ref="7">
+			[7] Gruß.
+		</div>
+	</regest>
+	<letter lang="de" edition="HBBW" vol="19" fk_bibliography="22" nr="2832" page="378">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">S. in domino.</s>
+				<s n="2" lang="la" state="auto">Gratulare nobiscum!</s>
+				<s n="3" lang="la" state="auto"><persName ref="8418">Myconius</persName> recuperavit pristinam sanitatem,<fl>1</fl> etsi adhuc lecto affixus scribet, ut ex illius literis<fl>2</fl> percipies.</s>
+			</p>
+		</div>
+		<div ref_regest="2">
+			<p>
+				<s n="4" lang="de" state="auto"><la>De lantgravio<fl>3</fl> hoc scio:</la> Er hat ein trommeter<fl>4</fl> gon <placeName ref="157">Francfort</placeName> gschickt an den öbristen.<fl>5</fl></s>
+				<s n="5" lang="de" state="auto">Was er aber begert habe, hat der bott<fl>6</fl>, der ylentz hinweg ist gangen, nit moͤgen erfaren.</s>
+				<s n="6" lang="de" state="auto">Man achtet, er<fl>7</fl> habe ouch ein friden angenomen, domit er dester komlicher<fl>8</fl> moͤge inß reich den marckt kommen<fl>9</fl> uß verwilligung k[aiserlicher] m[ajestat].<fl>10</fl></s>
+			</p>
+		</div>
+		<div ref_regest="3">
+			<p>
+				<s n="7" lang="de" state="auto">Von hertzog <persName ref="1546" state="auto_name">Christophel</persName><fl>11</fl> wegen weiß ich nit, dann<fl>12</fl> ich vernym, er<fl>a</fl> woͤlle wider gon<fl>13</fl> Moͤmpeltgart ziehen in 14 tagen.</s>
+				<s n="8" lang="de" state="auto">Das geschrey<fl>14</fl> ist wol gsin, er habe sinn landt dem Frantzosen<fl>15</fl> verpfendet; so er das gelt widerlege<fl>16</fl>, so blibt es im.</s>
+			</p>
+		</div>
+		<div ref_regest="4">
+			<p>
+				<s n="9" lang="de" state="auto">Graff Joͤrg<fl>17</fl> hat ein verstandt<fl>18</fl> mit unseren herren, das ich wol acht, es werde dem landt nuit beschehen, dann<fl>19</fl> er hat ouch ein botten<fl>20</fl> by k. m., sich zuͦ vertragen.<fl>21</fl></s>
+			</p>
+		</div>
+		<div ref_regest="5">
+			<p>
+				<s n="10" lang="de" state="auto">Mann nympt zuͦ <placeName ref="922">Friburg</placeName><fl>22</fl> knecht ann und im Markgravenlandt<fl>23</fl> dem keyser zuͦ.</s>
+				<s n="11" lang="de" state="auto">Schickt sy gon <placeName ref="513">Ulm</placeName>, dann die keyserischen knecht sterben vast alle (uff ein tag 30 und 40).<fl>b</fl></s>
+				<s n="12" lang="de" state="auto">Moͤgen die spiß<fl>24</fl> nit mer dulden.</s>
+				<s n="13" lang="de" state="auto">Etlich mynen<fl>25</fl>, der keyser werde die frischen knecht uff die Tonoew<fl>26</fl> setzen, sy gon <placeName ref="546">Wien</placeName> schicken, diewil der Turck<fl>27</fl> Sibenbürg geblünderet, das landtvolck hinweg gefuͤrt.</s>
+				<s n="14" lang="de" state="auto">Understatt<fl>28</fl>, die stett ouch zuͦ gwünnen.<fl>29</fl></s>
+				<s n="15" lang="de" state="auto">Schickt darzuͦ vil volcks uff <placeName ref="1074">Ofen</placeName>.<fl>30</fl></s>
+				<s n="16" lang="de" state="auto">Wil den jungen kunig Mathiam<fl>31</fl>, des von der Weiden<fl>32</fl> <pb_edition start_of="379"/> son, krönen mit dem last<fl>33</fl>, das dester ehe die anderen ungerischen stett abfallen, das er sy gwin on schwertschleg.</s>
+			</p>
+		</div>
+		<div ref_regest="6">
+			<p>
+				<s n="17" lang="de" state="auto">Es sindt zwen lantsknecht dise tag kommen.</s>
+				<s n="18" lang="de" state="auto">Die sagen, der<fl>c</fl> <la>elector Saxonię<fl>34</fl></la> habe die keyserischen geschlagen, die by hertzog <persName ref="18422">Albrecht</persName><fl>35</fl> sindt gsin.<fl>36</fl></s>
+				<s n="19" lang="la" state="auto">Utinam ita esset et hostes ecclesiae male perirent!</s>
+			</p>
+		</div>
+		<div ref_regest="7">
+			<p>
+				<s n="20" lang="la" state="auto">Vale.</s>
+				<s n="21" lang="la" state="auto">1. martii 1547.</s>
+				<s n="22" lang="la" state="auto">Tuus G[...].</s>
+			</p>
+			<p>
+				<note type="address">[Adresse auf der Rückseite:]</note>
+				<s n="23" lang="la" state="auto">Domino m. Heinrycho Bullingero, ecclesiae Tigurinę vigilantissimo pastori.</s>
+				<s n="24" lang="de" state="auto">Zürich.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="22" nr="2832">
+		<alpha>
+			<fn ref="a"><i>In der Vorlage folgt darauf erneut ein</i> er.</fn>
+			<fn ref="b"><i>Klammern ergänzt.</i></fn>
+			<fn ref="c"><i>In der Vorlage</i> die.</fn>
+		</alpha>
+		<num>
+			<fn ref="1">Zu <persName ref="8418">Myconius</persName>' Erkrankung s. die Verweise in <link fk_file="12871">Nr. 2822</link>, Anm. 2; und <link fk_file="12876">Nr. 2827</link>,30- 56; <link fk_file="12880">Nr. 2831</link>,[6].</fn>
+			<fn ref="2">Brief <link fk_file="12882">Nr. 2833</link> vom gleichen Tag wie vorliegender.</fn>
+			<fn ref="3"><persName ref="3590">Philipp von Hessen</persName>.</fn>
+			<fn ref="4">Unbekannter offizieller Bote.</fn>
+			<fn ref="5"><persName ref="18835">Johann Hilchen von Lorch</persName>; s. <link fk_file="12871">Nr. 2822</link>, Anm. 14.</fn>
+			<fn ref="6">Unbekannter Bote, der vorliegende Nachricht übermittelte.</fn>
+			<fn ref="7">Der Landgraf.</fn>
+			<fn ref="8">bequemer; leichter; s. <bibl>SI</bibl> III 285.</fn>
+			<fn ref="9">den marckt kommen: rehabilitiert werden; s. <bibl>SI</bibl> IV 410.</fn>
+			<fn ref="10"><persName ref="18538">Karl V.</persName></fn>
+			<fn ref="11" type="bio" fk_person="1546"><persName ref="1546">Christoph von Württemberg</persName>. - Anfang 1547 hatte er sich mit seiner Familie nach <placeName ref="28">Basel</placeName> zurückgezogen; s. <link fk_file="12810">Nr. 2761</link>, Anm. 9; <link fk_file="12812">Nr. 2763</link>,42-47.</fn>
+			<fn ref="12">außer dass.</fn>
+			<fn ref="13">nach.</fn>
+			<fn ref="14">Gerücht.</fn>
+			<fn ref="15"><persName ref="7637">Franz I.</persName> -Vgl. <link fk_file="12802">Nr. 2753</link>,11-14; <link fk_file="12866">Nr. 2817</link>; <link fk_file="12868">Nr. 2819</link>,22-24; <link fk_file="12880">Nr. 2831</link>,121.</fn>
+			<fn ref="16">zurückerstattet.</fn>
+			<fn ref="17"><persName ref="8098">Georg von Württemberg-Mömpelgard</persName>. - Er befand sich seit etwa dem 20. Januar in <placeName ref="28">Basel</placeName>; s. Nr. 2753, Anm. 1.</fn>
+			<fn ref="18">Abkommen.</fn>
+			<fn ref="19">denn.</fn>
+			<fn ref="20">Unbekannt.</fn>
+			<fn ref="21" type="bio" fk_person="8098">sich zh vertragen: (um) sich (mit dem Kaiser) zu versöhnen. - Der geachtete Graf <persName ref="8098">Georg</persName> war nämlich aus dem Vertrag des Kaisers mit <persName ref="8098">Georgs</persName> Bruder, <persName ref="9780">Ulrich von Württemberg</persName> (s. dazu <link fk_file="12795">Nr. 2746</link>, Anm. 21), ausgeschlossen. Eine Aussöhnung zwischen <persName ref="8098">Georg</persName> und dem Kaiser kam erst im Jahr 1552 auf Betreiben von dessen Neffen <persName ref="1546">Christoph</persName> zustande; s. <i>Hevd, <persName ref="9780">Ulrich von Württ.</persName></i> III 598f.</fn>
+			<fn ref="22"><placeName ref="922">Freiburg i.Br.</placeName> - Vgl. <link fk_file="12871">Nr. 2822</link>,12f. 24-29; <link fk_file="12873">Nr. 2824</link>,16f.</fn>
+			<fn ref="23">In Baden.</fn>
+			<fn ref="24">Speise(n).</fn>
+			<fn ref="25">meinen.</fn>
+			<fn ref="26">Donau.</fn>
+			<fn ref="27"><persName ref="18593">Sultan Suleiman I.</persName></fn>
+			<fn ref="28">(Er) versucht.</fn>
+			<fn ref="29">einzunehmen.</fn>
+			<fn ref="30"><placeName ref="1074">Buda</placeName>.</fn>
+			<fn ref="31">Richtig: Johann Sigismund Zapolya, der damals noch nicht sieben Jahre alt war. - <persName ref="5772">Georg Martinuzzi</persName> hatte damals mit der Witwe <persName ref="7585">Isabella Jagiellonica</persName> die Regentschaft für den jungen König von <entity id="32" type="geo_country">Ungarn</entity> übernommen.</fn>
+			<fn ref="32">Gemeint ist Johannes Ï. Zapolya, ehemaliger König von <entity id="32" type="geo_country">Ungarn</entity> und Woiwode [ungarisch: Wajda - daher "Weiden"] von <entity id="81" type="geo_region">Siebenbürgen</entity>, der 1540 gestorben war. Er war mit den Habsburgern verwandt.</fn>
+			<fn ref="33">Auflage (vgl. <bibl>SI</bibl> III 1462); oder: Hintergedanken. - Ein falsches Gerücht.</fn>
+			<fn ref="34"><persName ref="19065">Johann Friedrich I. von Sachsen</persName>.</fn>
+			<fn ref="35">Markgraf <persName ref="18422">Albrecht II.</persName> Alcibiades von Brandenburg-Kulmbach; vgl. <link fk_file="12859">Nr. 2810</link>, 40f; <link fk_file="12871">Nr. 2822</link>,19-21. Es handelt sich aber um ein falsches Gerücht. - Erst am 2. März kam es in <placeName ref="2396">Rochlitz (Sachsen)</placeName> zum großen Überfall der kurfürstlichen Reiterei auf Markgraf Albrecht, der dabei eine herbe Niederlage erlitt; s. <entity id="23219" type="other">Warhafftige</entity> Zeitungen wie Marggraue Albrecht von Brandenburgk ... bey <placeName ref="2396">Rochlitz</placeName> erlegt vnd gefangen worden, <placeName ref="142">Erfurt</placeName> 1547 <i>(VD16</i> W653 - weitere Ausgaben dieser Schrift unter <i>VD16</i> W651f. W654. ZV25933); <bibl>Voigt, Albrecht</bibl> I 146-154; Rudolf <i>Friedrichsdorf</i> Markgraf <persName ref="18422">Albrecht Alcibiades</persName> als Reiterführer, Berlin 1919, S. 19.</fn>
+			<fn ref="36">gewesen.</fn>
+		</num>
+	</footnotes>
+</file>
