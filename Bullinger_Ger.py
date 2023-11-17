@@ -15,6 +15,7 @@ import re
 # list with the words and their footnotes:
 references_list = []
 filtered_dictionary = {}
+sort_out = []
 
 # the directory where the files are located
 directory_path = r"/Users/yasardemirelli/cmd_code/Uni_UZH/WS23:24/Sprachtechnologische_Webapplikationen/Project Bullinger/Bullinger_Letter_Examples"
@@ -42,6 +43,7 @@ for root, dirs, files in os.walk(directory_path):
                 # if the language is German, we are considering those sentences, otherwise --> ignore those:
                 if sentence.attrib.get('lang') == 'de':
 
+
                     # iterate over the child elements of the sentence
                     for i, child in enumerate(sentence):
                         # if the fl child tag is encountered:
@@ -66,7 +68,13 @@ for root, dirs, files in os.walk(directory_path):
                             for reference in root_element.findall('.//fn'):
                                 if reference.attrib.get('ref') == number and reference.text is not None:
                                     references_list.append((word_before_fl, reference.text, len(reference.text)))
-
+                elif sentence.attrib.get("lang") != "de":
+                    for i, child in enumerate(sentence):
+                        # if the fl child tag is encountered:
+                        #if child.tag == 'fl' and child.text.isdigit():
+                        #sort_out.append(child.__repr__())
+                        #sort_out.append(child.__str__())
+                        sort_out.append(child.text)
 # filtered out the elements where the length of the references is >45:
 filtered_references_list = [element for element in references_list if len(element[1]) <= 45]
 print(len(filtered_references_list))
@@ -83,3 +91,5 @@ for element in filtered_references_list_2:
         filtered_dictionary[element[0]].append(element[1])
 
 print(len(filtered_dictionary), filtered_dictionary)
+
+print(f"sort_out: {sort_out}")
