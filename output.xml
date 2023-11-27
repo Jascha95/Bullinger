@@ -1,0 +1,145 @@
+<file>
+	<metadata id="11362" id_hbbw="1319" id_irg_sort="1319" id_sort="113190">
+		<type id="5">Brief</type>
+		<state id="4">abgeschlossen</state>
+		<source id="4">Z&#252;rich StA</source>
+		<url>https://www.bullinger-digital.ch/letter/11362</url>
+		<arpa>http://teoirgsed.uzh.ch/SedWEB.cgi?Alias=Briefe&amp;Lng=1&amp;aheight=910&amp;PrjName=Bullinger+-+Briefwechsel&amp;fld_418=1319</arpa>
+		<scan_pages>
+			<scan id="26406" dir="11362/Autograph/" page="1">00 E_II_361__fol__116_r_.tif</scan>
+			<scan id="26407" dir="11362/Autograph/" page="2">01 E_II_361__fol__116_v_.tif</scan>
+		</scan_pages>
+		<reference id="11" fk_id="11" fk_lang_code="11">
+			<entry>Heinrich Bullinger Werke, Briefwechsel Band 9 (Briefe des Jahres 1539), bearb. von Hans Ulrich B&#228;chtold und Rainer Henrich, Z&#252;rich 2002, 295 S., ISBN 3-290-17220-1.</entry>
+			<title>HBBW IX</title>
+			<abbrev>09</abbrev>
+			<editor>B&#228;chtold, Hans Ulrich; Henrich, Rainer</editor>
+			<period>1539</period>
+			<year>2002</year>
+			<place>Z&#252;rich</place>
+			<publisher>Theologischer Verlag Zu&#776;rich (TVZ)</publisher>
+			<volume>9</volume>
+			<isbn>ISBN 3-290-17220-1</isbn>
+			<pages>295</pages>
+			<other>Neben vielen anderen Themen treten in Bullingers Briefwechsel des Jahres 1539 besonders die Bem&#252;hungen um einen religi&#246;sen Ausgleich im Reich hervor. Dem geplanten protestantisch-katholischen Religionsgespr&#228;ch brachten vor allem die Z&#252;rcher und Konstanzer Theologen grosse Skepsis entgegen. Einen weiteren Schwerpunkt bilden die erbitterten Auseinandersetzungen um das rechte Verh&#228;ltnis von Universit&#228;t und Kirche in Basel, in die Bullinger mit hineingezogen wurde. Zahlreiche Briefe belegen den dichten Nachrichtenfluss, auf den sich der Z&#252;rcher Kirchenf&#252;hrer st&#252;tzen konnte. W&#228;hrend der Horizont seiner Korrespondenz im vorliegenden Jahrgang sp&#252;rbar europ&#228;ischer wird, finden sich unter den 133 Briefen auch immer wieder Dokumente, die seine massgebliche Rolle im Kirchen- und Staatswesen von Z&#252;rich beleuchten.</other>
+			<note>Auflage: 400 Exemplare</note>
+		</reference>
+		<senders>
+			<sender id="23066" vf="1" fk_add_type="1">
+				<person id="8302" fk_id="8302">
+					<name>Brunner (Fontanus)</name>
+					<forename>Leonhard</forename>
+				</person>
+				<place id="569" vf="1" fk_id="569" long="8.35916" lat="49.63278">Worms</place>
+				<district id="155">Rheinland-Pfalz</district>
+				<country id="18">Deutschland</country>
+				<fn>1</fn>
+			</sender>
+		</senders>
+		<addressees>
+			<addressee id="23067" vf="1" fk_add_type="1">
+				<person id="495" fk_id="495">
+					<name>Bullinger</name>
+					<forename>Heinrich</forename>
+				</person>
+			</addressee>
+		</addressees>
+		<date id="11362">
+			<min fk_d="None" d="">
+				<year fk_d="" d="" vf="1" fn="">1539</year>
+				<month fk_d="" d="" vf="1" fn="">10</month>
+				<day fk_d="" d="" vf="1" fn="">20</day>
+			</min>
+			<max />
+		</date>
+		<documents>
+			<document id="17833">
+				<doc_type id="4">Autograph</doc_type>
+				<file_type id="5">Brief</file_type>
+				<archive id="94" fk_place="587">Z&#252;rich StA</archive>
+				<signature>E II 361,116</signature>
+			</document>
+		</documents>
+		<literatures />
+		<prints>
+			<print id="11185" fk_bib="11">
+				<file_type id="5">Brief</file_type>
+				<bib_type id="10">Gedruckt</bib_type>
+				<entry>HBBW 9, Nr. 1319, S. 237</entry>
+				<page>237</page>
+			</print>
+		</prints>
+		<notes />
+		<languages>
+			<sentences count="15">
+				<lang id="1" iso="de" count="1" p="6.7" />
+				<lang id="5" iso="la" count="14" p="93.3" />
+			</sentences>
+			<words count="248">
+				<lang id="1" iso="de" count="1" p="0.4" />
+				<lang id="5" iso="la" count="247" p="99.6" />
+			</words>
+			<chars count="1465">
+				<lang id="1" iso="de" count="6" p="0.4" />
+				<lang id="5" iso="la" count="1459" p="99.6" />
+			</chars>
+		</languages>
+	</metadata>
+	<regest fk_bibliography="11" nr="1319" page="237">
+		<div ref="1">
+			Kann nur ganz kurz berichten: Hat [in <placeName ref="569">Worms</placeName>] das [evangelische]
+			Abendmahl eingef&#252;hrt, nachdem mehrere Ratsherren, die dies bisher verhindert hatten, an der Pest gestorben
+			sind; wei&#223; allerdings nicht, was die Gegner nun planen. Bittet um F&#252;rbitte und ermuntert Bullinger zu
+			weiteren Ver&#246;ffentlichungen. Will bald wieder schreiben.
+		</div>
+	</regest>
+	<letter lang="la" edition="HBBW" vol="9" fk_bibliography="11" nr="1319" page="237">
+		<div ref_regest="1">
+			<p>
+				<s n="1" lang="la" state="auto">Salutem tibi per Christum precor, doctissime simulac charissime Heinrice.</s>
+			</p>
+			<p>
+				<s n="2" lang="la" state="auto">Cum nuncius<fl>2</fl> iste mihi contingeret, volui multa ad te scribere.</s>
+				<s n="3" lang="la" state="auto">Att[!] soli mihi tot incumbunt onera tam domestica quam ecclesiastica, ut vix hiscere detur.</s>
+				<s n="4" lang="la" state="auto">Ne tamen nihil ad te, unicum id te scire volo.</s>
+			</p>
+			<p>
+				<s n="5" lang="la" state="auto">Quando tot annis euangelion Christi praedicaverim ea diligentia, qua per dominum potui, c&#281;nam tamen dominicam celebrare per magistratum prohibebatur, donec peste sevissima nos dominus corriperet hisce mensibus, quosdam etiam de tirannis ex senatu auferret<fl>3</fl>, qui hucusque nullum non lapidem moverunt<fl>4</fl>, ne cursus evangelii succederet.</s>
+				<s n="6" lang="la" state="auto">Tum ego haud impiger, ita urgente Christo, c&#281;nam f&#281;lici (ut spero) auspicio ecclesi&#281; me&#281; paravi donaque illa c&#281;lestia ad Christi institutionem magno omnium et desiderio et veneratione distribui.</s>
+				<s n="7" lang="la" state="auto">Nemo mihi negotium facit.</s>
+				<s n="8" lang="la" state="auto">At quia dolum sathane plus semel expertus, verendum est, ne quod in sinu foveant<fl>5</fl> adversarii ac consilium suum satis maturescere proposuerint, antequam edant.<pb_edition start_of="238" /></s>
+			</p>
+			<p>
+				<s n="9" lang="la" state="auto">Rogo igitur per Christum, communem nostrum salvatorem, ut me precibus, fidei et charitati tuorum commendes, ut confirmat[!] hoc deus, quod operatus est in ecclesia mea, quoniam haud absque ingenti offensione omnium mensa illa dominica rursus everteretur, quod equidem non spero.</s>
+				<s n="10" lang="la" state="auto">Fac igitur, quod te decet, ac perge semper nobis labores tuos communicare scriptis; plures enim tua opera iuvantur.</s>
+			</p>
+			<p>
+				<s n="11" lang="la" state="auto">Vale, [ex Worma]tia<fl>a</fl>, in domino, 20. octobris anno 1539.</s>
+				<s n="12" lang="la" state="auto"><persName ref="8302">Leonhartus Fontanus</persName>, verbi minister apud<lb /> <placeName ref="569">Vangiones</placeName><fl>6</fl>.</s>
+			</p>
+			<p>
+				<s n="13" lang="la" state="auto">Habeo certe seria, quae tibi scribam, sed hodie non vacat; quaeram tamen nuncium, cum quo cetera.</s>
+			</p>
+			<p>
+				<note type="address">[Adresse darunter:]</note>
+				<s n="14" lang="la" state="auto">Clarissimo ac vere<fl>b</fl> pietatis praeconi viro d. Heinricho Bullingero, praeceptori ac fratri in Christo charissimo [su]o<fl>c</fl>.</s>
+				<s n="15" lang="de" state="auto">Zurch.</s>
+			</p>
+		</div>
+	</letter>
+	<footnotes fk_bibliography="11" nr="1319">
+		<alpha>
+			<fn ref="a">[ex Worma]tia <i>am Rande nachgetragen, Text im engen Einband teilweise verdeckt.</i></fn>
+			<fn ref="b"><i>vor</i> vere <i>gestrichenes</i> prae.</fn>
+			<fn ref="c"><i>Teilweise auf das nicht mehr vorhandene Verschlu&#223;band geschrieben.</i></fn>
+		</alpha>
+		<num>
+			<fn ref="1" meta="1" type="bio" fk_person="8302"><persName ref="8302">Leonhard Brunner (Fontanus)</persName>, von <placeName ref="145">Esslingen</placeName>, gest. 1558, ein Sch&#252;ler von <persName ref="7052">Jakob Wimpfeling</persName>, immatrikulierte sich 1510 in <placeName ref="210">Heidelberg</placeName>. 1526 war er Diakon in <placeName ref="492">Stra&#223;burg</placeName>; bereits zwei Jahre zuvor hatte er eine Konkordanz des Neuen Testaments ver&#246;ffentlicht. 1527 wurde er als Prediger nach <placeName ref="569">Worms</placeName> berufen, wo er sich gegen <persName ref="4627">Denck</persName>, <persName ref="5343">H&#228;tzer</persName> und andere T&#228;ufer durchsetzen mu&#223;te. Infolge des Interims kehrte er 1548 nach <placeName ref="492">Stra&#223;burg</placeName> zur&#252;ck und war dort zun&#228;chst an der Schule, dann als Diakon t&#228;tig. Zusammen mit seinen <placeName ref="492">Stra&#223;burger</placeName> Kollegen wandte sich der urspr&#252;nglich oberdeutsch gepr&#228;gte Theologe dem Luthertum zu. Von 1553 an wirkte er als Pfarrer in <placeName ref="961">Landau</placeName>/Pfalz. Mit <persName ref="4091">Zwingli</persName> korrespondierte er &#252;ber <persName ref="8441">Schwenckfelds</persName> Tauflehre (s. <bibl>Z</bibl> VI/IV 1-74); an Bullinger scheint er nur diesen einen Brief geschrieben zu haben. - Lit.: A[ugust] <i>Weckerling,</i> Leonhart Brunner, der erste vom Rate der Reichsstadt <placeName ref="569">Worms</placeName> angestellte evangelische Prediger (1527-1548), <placeName ref="569">Worms</placeName> 1895; Georg Biundo, in: <bibl>NDB</bibl> II 683; <bibl>BBKL</bibl> I 770.</fn>
+			<fn ref="2">Unbekannt.</fn>
+			<fn ref="3" type="bio" fk_person="18033">F&#252;r das Jahr 1539 l&#228;&#223;t sich nur der Tod eines einzigen Ratsherrn belegen: Am 1. September starb der Goldschmied <persName ref="18033">Henrich Walther (Waitter)</persName>; s. [August <i>Wekkerling,]</i> Verzeichnis der Mitglieder des Dreizehner Rats der Stadt <placeName ref="569">Worms</placeName>, in: Vom Rhein 9, 1910, S. 66; Johannes Kraus, Neue Quellen zur <placeName ref="569">Wormser</placeName> Ratsgeschichte. II. Liste der Mitglieder des Gemeinen-Rats von 1440-1609, in: Der Wormsgau I/5, 1926, S. 124.</fn>
+			<fn ref="4">Vgl. Adagia, 1, 4, 30 (<bibl>LB</bibl> II 161f).</fn>
+			<fn ref="5">Vgl. Adagia, 4, 2, 40 (<bibl>LB</bibl> II 999).</fn>
+			<fn ref="6">d. h. in <placeName ref="569">Worms</placeName>.</fn>
+		</num>
+	</footnotes>
+</file>

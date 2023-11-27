@@ -34,7 +34,7 @@ for root, dirs, files in os.walk(directory_path):
             except (ET.ParseError, IOError) as e:
                 print(f"Error reading/parsing {full_path}: {e}")
                 continue  # Skip to the next file
-
+            #file_tree = ET.parse(full_path) # not parseable sheet == 19_2809_12858.xml 
             root_element = file_tree.getroot()
 
             # iterating over the sentences
@@ -108,6 +108,13 @@ def parse_xml_files(directory_path):
         for filename in files:
             full_path = os.path.join(root, filename)
             if os.path.isfile(full_path):
+                try:
+                    file_tree = ET.parse(full_path)
+                except (ET.ParseError, IOError) as e:
+                    print(f"Error reading/parsing {full_path}: {e}")
+                    continue  # Skip to the next file
+
+                root_element = file_tree.getroot()
                 file_tree = ET.parse(full_path)
                 root_element = file_tree.getroot()
                 for sentence in root_element.findall('.//s'):
@@ -126,6 +133,7 @@ def parse_xml_files(directory_path):
                                             if not (child.tag == 'placeName' or child.tag == 'persName'):
                                                 if reference.attrib.get('ref') == number and reference.text:
                                                     references_list.append((word_before_fl, reference.text))
+
     return references_list
 
 def filter_references(references_list):
@@ -203,8 +211,89 @@ def simiar_words_detection (list_of_similar_words):
     
     """Since the lemmatizer for the early German words doesn't exist we apply Levenstein Distance to detect the lexical items which might have the same lemma"""
     #TODO: filter the words which are similar from the list of the similar words
-    pass
+    how_manywords = 0
+    similar_in = []
+    not_similar = []
+    print(f"{120*"#"}")
+    for word_pairs in reference_dictionary:#enumerate for editing index 
+        how_manywords += 1
+        #print(f"{120*"#"}")
+
+        print(word_pairs)
+    for similar in reference_dictionary:
+        if similar in reference_dictionary:
+            similar_in.append(similar)
+
+
+        elif similar not in reference_dictionary:
+            not_similar.append(similar)
+        else:
+            return f"\n\n\nTheses words {similar} are not in {similar_in} and {not_similar}()\n\n\n"
+
+
+    print(f"\nThere are {how_manywords} word pairs from reference_dictionary\n")
+    print(f"{120*"#"}")
+    return list_of_similar_words
+
     
+# 2cnd filter for lexical 
+#lexical more than 4 words or reference
+# concerne if not online one word is annotatated 
+# footnotes are not contain in the files 
+
+#############################################################
+
+"""
+to write the script to add the footnotes to words in the documents which were not annotated 
+in the same format as the ones we are extracting
+then we will have a solid draft for Early German by that time."""
+
+#adding to to the existing files 
+def add_footnotes(list_of_similar_words):
+    # comparing for footnotes in german for 
+    # https://www.bullinger-digital.ch/letter/11256 == 09_1213_11256.xml
+    #check existing footnotes 
+    #format 
+    #write an lookup table for that 
+    # <letter lang="de" edition="HBBW" vol="9" fk_bibliography="11" nr="1213" page="30">
+    #     <div ref_regest="1">
+    #         <p>
+    #             <s n="1" lang="de" state="auto">Zuͦ<fl>b</fl> <placeName ref="1115">Überlingen</placeName> hatt einer an die kilchthür einen rymen angeschlagen, welcher abgnommen und ussgangen ist<fl>1</fl>.</s>
+    #             <s n="2" lang="de" state="auto">Von dem hatt mir der stattschryber<fl>2</fl> des<fl>c</fl> ein abgschrifft von wunders wägen zuͦ gestelt.</s>
+    #             <s n="3" lang="de" state="auto">Lutet also:<pb_edition start_of="31"/> Ich fragen hie on allen list, worum so vil tüfel und nun<fl>3</fl> ein gott ist?</s>
+    #         </p>
+
+    # 1.sentence <s> 2 footlote <fl>  
+    store_fn =[]
+    words_found = []
+    n = 1
+    for footnotes_found in list_of_similar_words: #root.iter("fl"):
+        if footnotes_found in reference_dictionary:
+            words_found.append(footnotes_found)
+            n += 1 
+        elif footnotes_found not in reference_dictionary:
+            #add footnote on the write side with context 
+            new_footnote = s.text[footnotes_found]
+            new_footnote.set("updated","yes")
+            # adding new footnote to xml 
+# merge instanly in the looked file 
+# set a placholder at the point where the footnote should be in 
+    # check it twice and annotate it later 
+    # return store_fn,words_found,n-1
+    tree = ET.parse(full_path)
+    root = tree.getroot()
+    print(root)
+    for note in root.findall('letter'):
+        # using root.findall() to avoid removal during traversal
+        letter_of = repr((note.find('s'))) #letter_of = (note.find('s').text) ERRor
+        if note == store_fn:
+            root.remove(note)
+
+    tree.write('output.xml')
+
+    return store_fn,words_found,n-1
+
+
     
 
 directory_path = r"/Users/yasardemirelli/cmd_code/Uni_UZH/WS23:24/Sprachtechnologische_Webapplikationen/Project Bullinger/Bullinger_Letter_Examples"
@@ -212,7 +301,11 @@ references_list = parse_xml_files(directory_path)
 filtered_list = filter_references(references_list)
 reference_dictionary = build_reference_dictionary(filtered_list)
 print(len(reference_dictionary), reference_dictionary)
-#print(levenshteinDistance(reference_dictionary))
+print(levenshteinDistance(reference_dictionary))
+simiar_words_detection(reference_dictionary)
+print(add_footnotes(reference_dictionary))
+
+print(type(root))
 
 
 # if 2 words have the same form but one has - ge at the beginning -same lemma?
